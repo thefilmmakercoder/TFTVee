@@ -4,12 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-04T09:30:00+05:00",
-      "stop": "2026-05-04T15:30:00+05:00",
-      "title": "..programmes start at 7.00pm",
-      "language": "en"
-    },
-    {
       "start": "2026-05-04T15:30:00+05:00",
       "stop": "2026-05-04T21:30:00+05:00",
       "title": "..programmes start at 7.00pm",
@@ -51,6 +45,18 @@
         "Game Show"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/c8be770d-d678-49c4-8f37-43ad18f6c4ea/16-9"
+    },
+    {
+      "start": "2026-05-05T00:00:00+05:00",
+      "stop": "2026-05-05T01:00:00+05:00",
+      "title": "Lost Cities of the Ancients",
+      "desc": "Documentary series which unearths lost civilisations and cities. This edition visits northern Peru to find the ruins of 250 mysterious pyramids.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Factual"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/dd841e88-ebb2-4de1-913c-cf12542105f1/16-9"
     }
   ]
 }

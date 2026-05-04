@@ -4,19 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-04T20:30:00+05:00",
-      "stop": "2026-05-04T21:00:00+05:00",
-      "title": "TV Shop - Home Shopping",
-      "desc": "Home shopping program.",
-      "language": "en",
-      "rating": "G",
-      "categories": [
-        "Special Interest"
-      ],
-      "episode": "E32",
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/184500/image/334x188"
-    },
-    {
       "start": "2026-05-04T21:00:00+05:00",
       "stop": "2026-05-04T21:30:00+05:00",
       "title": "TV Shop - Home Shopping",
@@ -82,6 +69,19 @@
       ],
       "episode": "S2 E28",
       "icon": "https://www.fetchtv.com.au/v2/epg/program/132554/image/334x188"
+    },
+    {
+      "start": "2026-05-04T23:30:00+05:00",
+      "stop": "2026-05-05T00:00:00+05:00",
+      "title": "A Current Affair",
+      "desc": "Covers the realms of politics, crime, human rights, science, technology, celebrities, and entertainment, all investigated by a dedicated team.",
+      "language": "en",
+      "rating": "NR",
+      "categories": [
+        "News"
+      ],
+      "episode": "E88",
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/131990/image/334x188"
     }
   ]
 }
