@@ -4,39 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-04T20:30:00+05:00",
-      "stop": "2026-05-04T21:00:00+05:00",
-      "title": "New York Live",
-      "desc": "Celebrity interviews and discussing recipes, beauty, fashion and current events pertinent to the tri-state region.",
-      "date": "2011",
-      "language": "en",
-      "categories": [
-        "News",
-        "Newsmagazine"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p8692580_b_h8_ac.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-04T21:00:00+05:00",
-      "stop": "2026-05-04T22:00:00+05:00",
-      "title": "NBC News Daily",
-      "desc": "NBC News provides viewers with the latest national and international news; consumer, health and personal finance reporting; up-to-the-minute local news.",
-      "date": "2026",
-      "language": "en",
-      "categories": [
-        "Series",
-        "News"
-      ],
-      "episode": "E77",
-      "icon": "http://dtil.tmsimg.com/assets/p22712535_b_h8_ad.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Vicky Nguyen",
-          "Morgan Radford"
-        ]
-      }
-    },
-    {
       "start": "2026-05-04T22:00:00+05:00",
       "stop": "2026-05-04T23:00:00+05:00",
       "title": "Dateline",
@@ -124,6 +91,30 @@
           "Dave Price"
         ]
       }
+    },
+    {
+      "start": "2026-05-05T01:30:00+05:00",
+      "stop": "2026-05-05T02:00:00+05:00",
+      "title": "News 4 NY at 4:30",
+      "desc": "NY news.",
+      "date": "2017",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p14883147_b_h10_ab.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-05T02:00:00+05:00",
+      "stop": "2026-05-05T02:30:00+05:00",
+      "title": "News 4 NY at 5",
+      "desc": "The latest local news, weather and investigative stories impacting your community.",
+      "date": "2011",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p8846204_b_h10_ae.jpg?w=960&h=540"
     }
   ]
 }

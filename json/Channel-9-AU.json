@@ -4,46 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-04T21:00:00+05:00",
-      "stop": "2026-05-04T21:30:00+05:00",
-      "title": "TV Shop - Home Shopping",
-      "desc": "Home shopping program.",
-      "language": "en",
-      "rating": "G",
-      "categories": [
-        "Special Interest"
-      ],
-      "episode": "E32",
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/184500/image/334x188"
-    },
-    {
-      "start": "2026-05-04T21:30:00+05:00",
-      "stop": "2026-05-04T22:00:00+05:00",
-      "title": "Global Shop",
-      "sub_title": "Eezy Breezy",
-      "desc": "Home shopping.",
-      "language": "en",
-      "rating": "G",
-      "categories": [
-        "Special Interest"
-      ],
-      "episode": "E130",
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/266663/image/334x188"
-    },
-    {
-      "start": "2026-05-04T22:00:00+05:00",
-      "stop": "2026-05-04T22:30:00+05:00",
-      "title": "TV Shop - Home Shopping",
-      "desc": "Home shopping program.",
-      "language": "en",
-      "rating": "G",
-      "categories": [
-        "Special Interest"
-      ],
-      "episode": "E32",
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/184500/image/334x188"
-    },
-    {
       "start": "2026-05-04T22:30:00+05:00",
       "stop": "2026-05-04T23:00:00+05:00",
       "title": "TV Shop - Home Shopping",
@@ -82,6 +42,47 @@
       ],
       "episode": "E88",
       "icon": "https://www.fetchtv.com.au/v2/epg/program/131990/image/334x188"
+    },
+    {
+      "start": "2026-05-05T00:00:00+05:00",
+      "stop": "2026-05-05T00:30:00+05:00",
+      "title": "Today Early News",
+      "desc": "Today Early News with up to date news from Australia and around the world as well as the latest in sport and weather.",
+      "language": "en",
+      "rating": "NR",
+      "categories": [
+        "News"
+      ],
+      "episode": "E89",
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/428725/image/334x188"
+    },
+    {
+      "start": "2026-05-05T00:30:00+05:00",
+      "stop": "2026-05-05T01:00:00+05:00",
+      "title": "Today",
+      "sub_title": "Tuesday 5 May 2026",
+      "desc": "Join Karl Stefanovic and Sarah Abo and the TODAY team as they bring you the latest in news, current affairs, sports, politics, entertainment, fashion, health and lifestyle.",
+      "language": "en",
+      "rating": "NR",
+      "categories": [
+        "Sports"
+      ],
+      "episode": "E89",
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/17943723/image/334x188"
+    },
+    {
+      "start": "2026-05-05T01:00:00+05:00",
+      "stop": "2026-05-05T04:00:00+05:00",
+      "title": "Today",
+      "sub_title": "Tuesday 5 May 2026",
+      "desc": "Join Karl Stefanovic and Sarah Abo and the TODAY team as they bring you the latest in news, current affairs, sports, politics, entertainment, fashion, health and lifestyle.",
+      "language": "en",
+      "rating": "NR",
+      "categories": [
+        "Sports"
+      ],
+      "episode": "E89",
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/17943723/image/334x188"
     }
   ]
 }

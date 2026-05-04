@@ -4,79 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-04T21:00:00+05:00",
-      "stop": "2026-05-04T21:30:00+05:00",
-      "title": "Bob's Burgers",
-      "sub_title": "Bed, Bob and Beyond",
-      "desc": "A Valentine's Day fight between Bob and Linda has the kids feeling confused; Tina, Louise and Gene tell their own story as a distraction from awkward tension.",
-      "date": "2019",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Series",
-        "Animated",
-        "Holiday",
-        "Sitcom"
-      ],
-      "episode": "S9 E13",
-      "icon": "http://dtil.tmsimg.com/assets/p8127591_b_h8_ah.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "H. Jon Benjamin",
-          "Dan Mintz",
-          "Eugene Mirman"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-04T21:30:00+05:00",
-      "stop": "2026-05-04T22:00:00+05:00",
-      "title": "Bob's Burgers",
-      "sub_title": "Every Which Way but Goose",
-      "desc": "Tina, discouraged by not being asked to the prom by Jimmy Jr., forms an unhealthy attachment to a goose from the nearby park; Linda joins a dating app to help Gretchen find a match.",
-      "date": "2019",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Series",
-        "Animated",
-        "Sitcom"
-      ],
-      "episode": "S9 E14",
-      "icon": "http://dtil.tmsimg.com/assets/p8127591_b_h8_ah.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "H. Jon Benjamin",
-          "Dan Mintz",
-          "Eugene Mirman"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-04T22:00:00+05:00",
-      "stop": "2026-05-04T22:30:00+05:00",
-      "title": "The Simpsons",
-      "sub_title": "Worst Episode Ever",
-      "desc": "The Comic Book Guy has a stress attack, so Milhouse and Bart take over the comic book store.",
-      "date": "2001",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Series",
-        "Animated",
-        "Sitcom"
-      ],
-      "episode": "S12 E11",
-      "icon": "http://dtil.tmsimg.com/assets/p183872_b_h8_aj.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Dan Castellaneta",
-          "Julie Kavner",
-          "Nancy Cartwright"
-        ]
-      }
-    },
-    {
       "start": "2026-05-04T22:30:00+05:00",
       "stop": "2026-05-04T23:00:00+05:00",
       "title": "The Simpsons",
@@ -148,6 +75,87 @@
           "Dan Castellaneta",
           "Julie Kavner",
           "Nancy Cartwright"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-05T00:00:00+05:00",
+      "stop": "2026-05-05T03:00:00+05:00",
+      "title": "Star Wars: A New Hope",
+      "desc": "The Imperial Forces -- under orders from cruel Darth Vader (David Prowse) -- hold Princess Leia (Carrie Fisher) hostage, in their efforts to quell the rebellion against the Galactic Empire. Luke Skywalker (Mark Hamill) and Han Solo (Harrison Ford), captain of the Millennium Falcon, work together with the companionable droid duo R2-D2 (Kenny Baker) and C-3PO (Anthony Daniels) to rescue the beautiful princess, help the Rebel Alliance, and restore freedom and justice to the Galaxy.",
+      "date": "1977",
+      "language": "en",
+      "rating": "PG",
+      "categories": [
+        "Movie",
+        "Science fiction",
+        "Adventure",
+        "Action",
+        "Fantasy"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p4407_v_h10_an.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "George Lucas"
+        ],
+        "actor": [
+          "Mark Hamill",
+          "Harrison Ford",
+          "Carrie Fisher"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-05T03:00:00+05:00",
+      "stop": "2026-05-05T06:00:00+05:00",
+      "title": "Star Wars: The Empire Strikes Back",
+      "desc": "The adventure continues in this \"Star Wars\" sequel. Luke Skywalker (Mark Hamill), Han Solo (Harrison Ford), Princess Leia (Carrie Fisher) and Chewbacca (Peter Mayhew) face attack by the Imperial forces and its AT-AT walkers on the ice planet Hoth. While Han and Leia escape in the Millennium Falcon, Luke travels to Dagobah in search of Yoda. Only with the Jedi master's help will Luke survive when the dark side of the Force beckons him into the ultimate duel with Darth Vader (David Prowse).",
+      "date": "1980",
+      "language": "en",
+      "rating": "PG",
+      "categories": [
+        "Movie",
+        "Science fiction",
+        "Adventure",
+        "Action",
+        "Fantasy"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p8884_v_h8_ao.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Irvin Kershner"
+        ],
+        "actor": [
+          "Mark Hamill",
+          "Harrison Ford",
+          "Carrie Fisher"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-05T06:00:00+05:00",
+      "stop": "2026-05-05T09:00:00+05:00",
+      "title": "Star Wars: Return of the Jedi",
+      "desc": "Luke Skywalker (Mark Hamill) battles horrible Jabba the Hutt and cruel Darth Vader to save his comrades in the Rebel Alliance and triumph over the Galactic Empire. Han Solo (Harrison Ford) and Princess Leia (Carrie Fisher) reaffirm their love and team with Chewbacca, Lando Calrissian (Billy Dee Williams), the Ewoks and the androids C-3PO and R2-D2 to aid in the disruption of the Dark Side and the defeat of the evil emperor.",
+      "date": "1983",
+      "language": "en",
+      "rating": "PG",
+      "categories": [
+        "Movie",
+        "Science fiction",
+        "Adventure",
+        "Action",
+        "Fantasy"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p8890_v_h8_ah.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Richard Marquand"
+        ],
+        "actor": [
+          "Mark Hamill",
+          "Harrison Ford",
+          "Carrie Fisher"
         ]
       }
     }
