@@ -4,53 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-04T22:00:00+05:00",
-      "stop": "2026-05-04T23:00:00+05:00",
-      "title": "GMA3",
-      "desc": "Actors Ryan Reynolds and Rob McElhenney; Deals & Steals with Tory Johnson; GMA Health Alert with Dr. Darien Sutton.",
-      "date": "2026",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Series",
-        "News",
-        "Talk",
-        "Health"
-      ],
-      "episode": "S6 E159",
-      "icon": "http://dtil.tmsimg.com/assets/p30687311_b_h8_aa.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Ryan Reynolds",
-          "Rob McElhenney",
-          "Kelley Carter"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-04T23:00:00+05:00",
-      "stop": "2026-05-05T00:00:00+05:00",
-      "title": "Tamron Hall",
-      "sub_title": "Behind the Headlines",
-      "desc": "Interview with Sharifa Jackson and her husband Jaro - the parents of baby Arya, who is finally home after 236 days in the NICU; gospel music power couple Erica and Warryn Campbell share details about their upcoming vow renewal ceremony; a couple recount the moment their anniversary hot-air balloon ride ended with a surprise landing in a stranger's backyard.",
-      "date": "2026",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Series",
-        "Talk"
-      ],
-      "episode": "S7 E156",
-      "icon": "http://dtil.tmsimg.com/assets/p17197549_b_h8_af.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Tamron Hall",
-          "Sharifa Jackson",
-          "Erica Campbell"
-        ]
-      }
-    },
-    {
       "start": "2026-05-05T00:00:00+05:00",
       "stop": "2026-05-05T01:00:00+05:00",
       "title": "General Hospital",
@@ -110,6 +63,45 @@
         "News"
       ],
       "icon": "http://dtil.tmsimg.com/assets/p13769035_b_h8_ab.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-05T03:30:00+05:00",
+      "stop": "2026-05-05T04:00:00+05:00",
+      "title": "ABC World News Tonight With David Muir",
+      "desc": "Delivering the news that matters most.",
+      "date": "2026",
+      "language": "en",
+      "categories": [
+        "Series",
+        "News"
+      ],
+      "episode": "E124",
+      "icon": "http://dtil.tmsimg.com/assets/p10880351_b_h8_ah.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "David Muir"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-05T04:00:00+05:00",
+      "stop": "2026-05-05T04:30:00+05:00",
+      "title": "Jeopardy!",
+      "desc": "The Emmy-winning quiz show features a unique answer-and-question format.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Series",
+        "Game show"
+      ],
+      "episode": "S42 E171",
+      "icon": "http://dtil.tmsimg.com/assets/p184056_b_h10_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Ken Jennings"
+        ]
+      }
     }
   ]
 }

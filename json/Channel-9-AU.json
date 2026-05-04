@@ -4,59 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-04T22:30:00+05:00",
-      "stop": "2026-05-04T23:00:00+05:00",
-      "title": "TV Shop - Home Shopping",
-      "desc": "Home shopping program.",
-      "language": "en",
-      "rating": "G",
-      "categories": [
-        "Special Interest"
-      ],
-      "episode": "E32",
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/184500/image/334x188"
-    },
-    {
-      "start": "2026-05-04T23:00:00+05:00",
-      "stop": "2026-05-04T23:30:00+05:00",
-      "title": "Skippy - The Bush Kangaroo",
-      "sub_title": "Shark Taggers",
-      "desc": "Classic Australian series. Sonny and Skippy help a young scientist with her research of the Port Jackson shark.",
-      "language": "en",
-      "rating": "G",
-      "categories": [
-        "Action & Adventure"
-      ],
-      "episode": "S2 E28",
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/132554/image/334x188"
-    },
-    {
-      "start": "2026-05-04T23:30:00+05:00",
-      "stop": "2026-05-05T00:00:00+05:00",
-      "title": "A Current Affair",
-      "desc": "Covers the realms of politics, crime, human rights, science, technology, celebrities, and entertainment, all investigated by a dedicated team.",
-      "language": "en",
-      "rating": "NR",
-      "categories": [
-        "News"
-      ],
-      "episode": "E88",
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/131990/image/334x188"
-    },
-    {
-      "start": "2026-05-05T00:00:00+05:00",
-      "stop": "2026-05-05T00:30:00+05:00",
-      "title": "Today Early News",
-      "desc": "Today Early News with up to date news from Australia and around the world as well as the latest in sport and weather.",
-      "language": "en",
-      "rating": "NR",
-      "categories": [
-        "News"
-      ],
-      "episode": "E89",
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/428725/image/334x188"
-    },
-    {
       "start": "2026-05-05T00:30:00+05:00",
       "stop": "2026-05-05T01:00:00+05:00",
       "title": "Today",
@@ -83,6 +30,59 @@
       ],
       "episode": "E89",
       "icon": "https://www.fetchtv.com.au/v2/epg/program/17943723/image/334x188"
+    },
+    {
+      "start": "2026-05-05T04:00:00+05:00",
+      "stop": "2026-05-05T06:30:00+05:00",
+      "title": "Today Extra",
+      "desc": "An exciting mix of topical issues, the best celebrity interviews, cooking with Australia's top chefs, live music performances, and the latest in fashion and beauty trends.",
+      "language": "en",
+      "rating": "PG",
+      "categories": [
+        "Special Interest"
+      ],
+      "episode": "E68",
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/134254/image/334x188"
+    },
+    {
+      "start": "2026-05-05T06:30:00+05:00",
+      "stop": "2026-05-05T07:00:00+05:00",
+      "title": "9News Morning",
+      "sub_title": "Tuesday 5 May 2026",
+      "desc": "Join 9News for up to the minute news on local and international news including sport and weather.",
+      "language": "en",
+      "rating": "NR",
+      "categories": [
+        "Sports"
+      ],
+      "episode": "E89",
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/426816/image/334x188"
+    },
+    {
+      "start": "2026-05-05T07:00:00+05:00",
+      "stop": "2026-05-05T08:15:00+05:00",
+      "title": "The Floor",
+      "desc": "40 players are still vying for the $200,000 grand prize. A returning dueller cements his place on the floor.",
+      "language": "en",
+      "rating": "PG",
+      "categories": [
+        "Special Interest"
+      ],
+      "episode": "S2 E6",
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/7422499/image/334x188"
+    },
+    {
+      "start": "2026-05-05T08:15:00+05:00",
+      "stop": "2026-05-05T08:45:00+05:00",
+      "title": "Destination WA",
+      "desc": "On todays show, Trevor explores the Fishing Serrurier Island, uncovering crystal waters, rich marine life and rugged coastline beauty in an unforgettable WA adventure across the pristine offshore paradise. More adventures await across WA!",
+      "language": "en",
+      "rating": "NR",
+      "categories": [
+        "Special Interest"
+      ],
+      "episode": "S17 E11",
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/7450482/image/334x188"
     }
   ]
 }

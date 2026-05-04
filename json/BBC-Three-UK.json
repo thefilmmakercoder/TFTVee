@@ -4,25 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-04T22:58:00+05:00",
-      "stop": "2026-05-04T23:00:00+05:00",
-      "title": "This is BBC Three",
-      "desc": "Programmes start at 7.00pm.",
-      "language": "en"
-    },
-    {
-      "start": "2026-05-04T23:00:00+05:00",
-      "stop": "2026-05-05T00:00:00+05:00",
-      "title": "The Green Planet",
-      "desc": "Tropical rainforests are plant battlegrounds. New filming techniques allow us to enter the world of plants to see it from their perspective and on their timescale.",
-      "language": "en",
-      "categories": [
-        "Entertainment",
-        "Factual"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/51f13130-1812-4635-8306-44baf0015c55/16-9"
-    },
-    {
       "start": "2026-05-05T00:00:00+05:00",
       "stop": "2026-05-05T01:00:00+05:00",
       "title": "Mammals",
@@ -69,6 +50,30 @@
         "Football"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/0f89ed1c-d2c0-46e9-b40e-a91f875269dd/16-9"
+    },
+    {
+      "start": "2026-05-05T03:25:00+05:00",
+      "stop": "2026-05-05T03:55:00+05:00",
+      "title": "Paddy & Molly: Show No Mersey",
+      "desc": "Paddy and Molly head to Vegas as Paddy prepares to face Tony Ferguson in the Octagon. Contains strong language.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Factual"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/c03ff08c-3c22-3908-b373-8258c8320ff4/16-9"
+    },
+    {
+      "start": "2026-05-05T03:55:00+05:00",
+      "stop": "2026-05-05T04:25:00+05:00",
+      "title": "Paddy & Molly: Show No Mersey",
+      "desc": "Paddy is back in Liverpool to see Molly, who is now preparing for her own fight in Vegas on the back of two losses. Contains strong language.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Factual"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/25a03060-002c-362f-90a6-ebe99186371a/16-9"
     }
   ]
 }

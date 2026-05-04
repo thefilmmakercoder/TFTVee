@@ -4,43 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-04T19:10:00+05:00",
-      "stop": "2026-05-04T20:05:00+05:00",
-      "title": "Indonesian News",
-      "sub_title": "Second Edition",
-      "desc": "News via satellite from TVRI Jakarta, Indonesia, in Indonesian, no subtitles.",
-      "language": "en",
-      "rating": "NR",
-      "categories": [
-        "News"
-      ],
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/157746/image/334x188"
-    },
-    {
-      "start": "2026-05-04T20:05:00+05:00",
-      "stop": "2026-05-05T00:00:00+05:00",
-      "title": "DW English News",
-      "desc": "News and analysis of the top international and European news and current affairs from Berlin, in English.",
-      "language": "en",
-      "rating": "NR",
-      "categories": [
-        "News"
-      ],
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/310648/image/334x188"
-    },
-    {
-      "start": "2026-05-05T00:00:00+05:00",
-      "stop": "2026-05-05T00:30:00+05:00",
-      "title": "Thai News",
-      "desc": "News via satellite from Thai Public Broadcasting Service, in Thai, no subtitles.",
-      "language": "en",
-      "rating": "NR",
-      "categories": [
-        "News"
-      ],
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/335203/image/334x188"
-    },
-    {
       "start": "2026-05-05T00:30:00+05:00",
       "stop": "2026-05-05T01:00:00+05:00",
       "title": "Bangla News",
@@ -76,6 +39,42 @@
         "News"
       ],
       "icon": "https://www.fetchtv.com.au/v2/epg/program/157746/image/334x188"
+    },
+    {
+      "start": "2026-05-05T02:00:00+05:00",
+      "stop": "2026-05-05T02:30:00+05:00",
+      "title": "Polish News",
+      "desc": "Wydarzenia from Polsat in Warsaw via satellite, in Polish, no subtitles.",
+      "language": "en",
+      "rating": "NR",
+      "categories": [
+        "News"
+      ],
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/158479/image/334x188"
+    },
+    {
+      "start": "2026-05-05T02:30:00+05:00",
+      "stop": "2026-05-05T03:10:00+05:00",
+      "title": "Italian News",
+      "desc": "News via satellite from RAI Rome in Italian, no subtitles.",
+      "language": "en",
+      "rating": "NR",
+      "categories": [
+        "News"
+      ],
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/158476/image/334x188"
+    },
+    {
+      "start": "2026-05-05T03:10:00+05:00",
+      "stop": "2026-05-05T03:40:00+05:00",
+      "title": "Filipino News",
+      "desc": "TV Patrol is the flagship national newscast of ABS-CBN and is currently the longest-running Filipino language evening newscast.",
+      "language": "en",
+      "rating": "NR",
+      "categories": [
+        "News"
+      ],
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/158474/image/334x188"
     }
   ]
 }

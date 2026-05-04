@@ -4,29 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-04T22:00:00+05:00",
-      "stop": "2026-05-04T23:00:00+05:00",
-      "title": "Good Day LA at 10am",
-      "desc": "Morning news coverage.",
-      "date": "2022",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p22751421_b_h8_ab.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-04T23:00:00+05:00",
-      "stop": "2026-05-05T00:00:00+05:00",
-      "title": "GDLA+",
-      "date": "2024",
-      "language": "en",
-      "categories": [
-        "Newsmagazine"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p26513975_b_h8_ab.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-05-05T00:00:00+05:00",
       "stop": "2026-05-05T01:00:00+05:00",
       "title": "Sherri",
@@ -113,6 +90,39 @@
           "Craig Melvin"
         ]
       }
+    },
+    {
+      "start": "2026-05-05T04:00:00+05:00",
+      "stop": "2026-05-05T05:00:00+05:00",
+      "title": "TMZ Live",
+      "desc": "A candid look at how the gossip site operates, bringing viewers into the site's newsroom, where the daily chats take place; viewers present their opinions on the featured topics through social media, phone calls and video chat.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Newsmagazine",
+        "Entertainment"
+      ],
+      "episode": "S14 E176",
+      "icon": "http://dtil.tmsimg.com/assets/p9132568_b_h10_ab.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Harvey Levin"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-05T05:00:00+05:00",
+      "stop": "2026-05-05T06:00:00+05:00",
+      "title": "FOX 11 News at 5pm",
+      "desc": "Latest local and regional news.",
+      "date": "2016",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p12829248_b_h8_ae.jpg?w=960&h=540"
     }
   ]
 }

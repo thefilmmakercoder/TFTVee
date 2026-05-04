@@ -4,46 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-04T22:30:00+05:00",
-      "stop": "2026-05-04T23:00:00+05:00",
-      "title": "Home Shopping",
-      "sub_title": "Kelton Cookware (A2830KCW02QRA)",
-      "desc": "Shopping program.",
-      "language": "en",
-      "rating": "G",
-      "categories": [
-        "Special Interest"
-      ],
-      "episode": "S1 E246",
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/234200/image/334x188"
-    },
-    {
-      "start": "2026-05-04T23:00:00+05:00",
-      "stop": "2026-05-05T00:00:00+05:00",
-      "title": "NBC Today",
-      "desc": "International news and weather including interviews with newsmakers in the world of politics, business, media, entertainment and sport.",
-      "language": "en",
-      "rating": "NR",
-      "categories": [
-        "News"
-      ],
-      "episode": "S26 E124",
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/132440/image/334x188"
-    },
-    {
-      "start": "2026-05-05T00:00:00+05:00",
-      "stop": "2026-05-05T00:30:00+05:00",
-      "title": "Sunrise Early News",
-      "desc": "Wake up to a better breakfast with Edwina Bartholomew for all the latest news, sport and weather.",
-      "language": "en",
-      "rating": "NR",
-      "categories": [
-        "News"
-      ],
-      "episode": "S26 E89",
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/434344/image/334x188"
-    },
-    {
       "start": "2026-05-05T00:30:00+05:00",
       "stop": "2026-05-05T01:00:00+05:00",
       "title": "Sunrise",
@@ -83,6 +43,45 @@
       ],
       "episode": "S26 E77",
       "icon": "https://www.fetchtv.com.au/v2/epg/program/206396/image/334x188"
+    },
+    {
+      "start": "2026-05-05T07:00:00+05:00",
+      "stop": "2026-05-05T08:00:00+05:00",
+      "title": "Seven's National News At Noon",
+      "sub_title": "Tuesday 5 May 2026",
+      "desc": "Seven News live coverage of local, national and international news, plus sport, finance and weather updates. Go to 7NEWS.com.au today for more live updates.",
+      "language": "en",
+      "rating": "NR",
+      "categories": [
+        "Sports"
+      ],
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/434212/image/334x188"
+    },
+    {
+      "start": "2026-05-05T08:00:00+05:00",
+      "stop": "2026-05-05T09:00:00+05:00",
+      "title": "Time is Money",
+      "desc": "Sara Davies hosts the quickest quiz where contestants are given their prize money from the start but must race to keep hold of it. Only one can make the final and a chance to win big.",
+      "language": "en",
+      "rating": "G",
+      "categories": [
+        "Special Interest"
+      ],
+      "episode": "S1 E2",
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/16782673/image/334x188"
+    },
+    {
+      "start": "2026-05-05T09:00:00+05:00",
+      "stop": "2026-05-05T10:00:00+05:00",
+      "title": "Bridge Of Lies",
+      "desc": "Friends Rob, Diane, Glen and Dave take on the Bridge of Lies.",
+      "language": "en",
+      "rating": "G",
+      "categories": [
+        "Special Interest"
+      ],
+      "episode": "S4 E22",
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/438756/image/334x188"
     }
   ]
 }
