@@ -1,0 +1,56 @@
+{
+  "channels": [
+    {}
+  ],
+  "programs": [
+    {
+      "start": "2026-05-04T09:30:00+05:00",
+      "stop": "2026-05-04T15:30:00+05:00",
+      "title": "..programmes start at 7.00pm",
+      "language": "en"
+    },
+    {
+      "start": "2026-05-04T15:30:00+05:00",
+      "stop": "2026-05-04T21:30:00+05:00",
+      "title": "..programmes start at 7.00pm",
+      "language": "en"
+    },
+    {
+      "start": "2026-05-04T21:30:00+05:00",
+      "stop": "2026-05-04T22:58:00+05:00",
+      "title": "..programmes start at 7.00pm",
+      "language": "en"
+    },
+    {
+      "start": "2026-05-04T22:58:00+05:00",
+      "stop": "2026-05-04T23:00:00+05:00",
+      "title": "This is BBC Four",
+      "desc": "Programmes start at 7.00pm.",
+      "language": "en"
+    },
+    {
+      "start": "2026-05-04T23:00:00+05:00",
+      "stop": "2026-05-04T23:30:00+05:00",
+      "title": "University Challenge",
+      "desc": "The University of Bristol plays Durham University in the first match of the series, with a place in the second round at stake. Jeremy Paxman asks the questions.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Game Show"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/f3ad2651-ddaf-4dbe-b4a3-a76eeb5313bd/16-9"
+    },
+    {
+      "start": "2026-05-04T23:30:00+05:00",
+      "stop": "2026-05-05T00:00:00+05:00",
+      "title": "Only Connect",
+      "desc": "Quiz show presented by Victoria Coren in which patience and lateral thinking are as vital as knowledge, and connections need to be made between apparently unconnected things.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Game Show"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/c8be770d-d678-49c4-8f37-43ad18f6c4ea/16-9"
+    }
+  ]
+}

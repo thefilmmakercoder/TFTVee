@@ -1,0 +1,56 @@
+{
+  "channels": [
+    {}
+  ],
+  "programs": [
+    {
+      "start": "2026-05-04T09:30:00+05:00",
+      "stop": "2026-05-04T15:30:00+05:00",
+      "title": "..programmes start at 7.00pm",
+      "language": "en"
+    },
+    {
+      "start": "2026-05-04T15:30:00+05:00",
+      "stop": "2026-05-04T21:30:00+05:00",
+      "title": "..programmes start at 7.00pm",
+      "language": "en"
+    },
+    {
+      "start": "2026-05-04T21:30:00+05:00",
+      "stop": "2026-05-04T22:58:00+05:00",
+      "title": "..programmes start at 7.00pm",
+      "language": "en"
+    },
+    {
+      "start": "2026-05-04T22:58:00+05:00",
+      "stop": "2026-05-04T23:00:00+05:00",
+      "title": "This is BBC Three",
+      "desc": "Programmes start at 7.00pm.",
+      "language": "en"
+    },
+    {
+      "start": "2026-05-04T23:00:00+05:00",
+      "stop": "2026-05-05T00:00:00+05:00",
+      "title": "The Green Planet",
+      "desc": "Tropical rainforests are plant battlegrounds. New filming techniques allow us to enter the world of plants to see it from their perspective and on their timescale.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Factual"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/51f13130-1812-4635-8306-44baf0015c55/16-9"
+    },
+    {
+      "start": "2026-05-05T00:00:00+05:00",
+      "stop": "2026-05-05T01:00:00+05:00",
+      "title": "Mammals",
+      "desc": "The dark, a world of opportunity for mammals. More than two-thirds prefer the cover of the night, with some now returning to the safety of the shadows in order to avoid us.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Factual"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/8a06b4b2-8990-3a04-95b1-943ce676838f/16-9"
+    }
+  ]
+}
