@@ -4,53 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-04T23:10:00+05:00",
-      "stop": "2026-05-05T00:10:00+05:00",
-      "title": "Hostile Planet",
-      "sub_title": "Mountains",
-      "desc": "The highest mountains on Earth are home to snow leopards, golden eagles, mountain goats, barnacle goslings, and gelada monkeys; only the toughest of animals can endure the extreme weather, scarce food supplies and limited oxygen on these peaks.",
-      "date": "2019",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Series",
-        "Documentary",
-        "Nature"
-      ],
-      "episode": "S1 E1",
-      "icon": "http://dtil.tmsimg.com/assets/p16599345_b_h10_ad.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Bear Grylls"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-05T00:10:00+05:00",
-      "stop": "2026-05-05T01:06:00+05:00",
-      "title": "Discovered By Disaster",
-      "sub_title": "Eruptions and Enigmas",
-      "desc": "Analyze fish remains found near an angry Sumatran volcano that could suggest a new human migration route; visit a prehistoric village smoked out by a forest fire, a collapsed kingdom in Turkey, and evidence of early Olympic sacrificial rituals.",
-      "date": "2025",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Series",
-        "Documentary",
-        "Science"
-      ],
-      "episode": "E9",
-      "icon": "http://dtil.tmsimg.com/assets/p30636324_b_h8_ab.jpg?w=960&h=540",
-      "credits": {
-        "director": [
-          "Ben Manthorpe"
-        ],
-        "actor": [
-          "Jeff Teravainen"
-        ]
-      }
-    },
-    {
       "start": "2026-05-05T01:06:00+05:00",
       "stop": "2026-05-05T02:05:00+05:00",
       "title": "Discovered By Disaster",
@@ -149,6 +102,42 @@
           "Jeff Teravainen"
         ]
       }
+    },
+    {
+      "start": "2026-05-05T05:00:00+05:00",
+      "stop": "2026-05-05T06:00:00+05:00",
+      "title": "Tsunami: Race Against Time",
+      "sub_title": "The Wave",
+      "desc": "The devastating tsunami makes landfall, catching thousands unaware.",
+      "date": "2024",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "Series",
+        "Documentary",
+        "Nature",
+        "Environment"
+      ],
+      "episode": "S1 E1",
+      "icon": "http://dtil.tmsimg.com/assets/p28744708_b_h10_ae.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-05T06:00:00+05:00",
+      "stop": "2026-05-05T07:00:00+05:00",
+      "title": "Tsunami: Race Against Time",
+      "sub_title": "Thailand",
+      "desc": "As the tsunami hits Thailand, tourists and locals fight for survival.",
+      "date": "2024",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "Series",
+        "Documentary",
+        "Nature",
+        "Environment"
+      ],
+      "episode": "S1 E2",
+      "icon": "http://dtil.tmsimg.com/assets/p28744708_b_h10_ae.jpg?w=960&h=540"
     }
   ]
 }

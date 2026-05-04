@@ -4,52 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-05T00:30:00+05:00",
-      "stop": "2026-05-05T01:00:00+05:00",
-      "title": "The Drew Barrymore Show",
-      "sub_title": "A Little Bit Extra With Valerie Bertinelli, Oliver Hudson and Taye Diggs",
-      "desc": "More from Valerie Bertinelli and Drew in the kitchen; A Little Bit Extra with Oliver Hudson and Taye Diggs.",
-      "date": "2026",
-      "language": "en",
-      "rating": "TVG",
-      "categories": [
-        "Series",
-        "Talk",
-        "Entertainment"
-      ],
-      "episode": "S6 E300",
-      "icon": "http://dtil.tmsimg.com/assets/p31124897_b_h8_aa.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Drew Barrymore",
-          "Valerie Bertinelli",
-          "Oliver Hudson"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-05T01:00:00+05:00",
-      "stop": "2026-05-05T02:00:00+05:00",
-      "title": "The Young and the Restless",
-      "desc": "Victor and Nikki reject an opportunity to reconcile; Christine backs Phyllis into a corner; Sharon interrogates Sienna about her past.",
-      "date": "2026",
-      "language": "en",
-      "rating": "TV14",
-      "categories": [
-        "Series",
-        "Soap"
-      ],
-      "episode": "S53 E145",
-      "icon": "http://dtil.tmsimg.com/assets/p183904_b_h8_ai.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Peter Bergman",
-          "Eric Braeden",
-          "Christel Khalil"
-        ]
-      }
-    },
-    {
       "start": "2026-05-05T01:00:00+05:00",
       "stop": "2026-05-05T02:00:00+05:00",
       "title": "The Young and the Restless",
@@ -109,6 +63,39 @@
         "Weather"
       ],
       "icon": "http://dtil.tmsimg.com/assets/p9123094_b_h10_ab.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-05T03:00:00+05:00",
+      "stop": "2026-05-05T03:30:00+05:00",
+      "title": "Global News at 6",
+      "desc": "Greater Toronto's top local news stories and latest weather forecast.",
+      "date": "2012",
+      "language": "en",
+      "categories": [
+        "News",
+        "Weather"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p9123094_b_h10_ab.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-05T03:30:00+05:00",
+      "stop": "2026-05-05T04:00:00+05:00",
+      "title": "Global National",
+      "desc": "The top stories from around the world.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Series",
+        "News"
+      ],
+      "episode": "E124",
+      "icon": "http://dtil.tmsimg.com/assets/p185876_b_h8_ae.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Dawna Friesen"
+        ]
+      }
     }
   ]
 }

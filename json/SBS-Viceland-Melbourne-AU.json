@@ -4,30 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-05T00:00:00+05:00",
-      "stop": "2026-05-05T01:00:00+05:00",
-      "title": "Al Jazeera News Hour",
-      "desc": "In-depth global news from Al Jazeera Satellite Network, Doha, Qatar, in English.",
-      "language": "en",
-      "rating": "NR",
-      "categories": [
-        "News"
-      ],
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/264846/image/334x188"
-    },
-    {
-      "start": "2026-05-05T01:00:00+05:00",
-      "stop": "2026-05-05T01:50:00+05:00",
-      "title": "TRT World News",
-      "desc": "The latest news from around the globe from TRT World, Istanbul, Turkiye, in English.",
-      "language": "en",
-      "rating": "NR",
-      "categories": [
-        "News"
-      ],
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/413685/image/334x188"
-    },
-    {
       "start": "2026-05-05T01:50:00+05:00",
       "stop": "2026-05-05T02:20:00+05:00",
       "title": "Indian Country Today News",
@@ -77,6 +53,30 @@
         "Special Interest"
       ],
       "icon": "https://www.fetchtv.com.au/v2/epg/program/160287/image/334x188"
+    },
+    {
+      "start": "2026-05-05T03:10:00+05:00",
+      "stop": "2026-05-05T03:40:00+05:00",
+      "title": "NHK Newsline",
+      "desc": "English news from Japan's Broadcasting Corporation, NHK, delivering the latest in business, technology, health, environmental and world news.",
+      "language": "en",
+      "rating": "NR",
+      "categories": [
+        "News"
+      ],
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/439062/image/334x188"
+    },
+    {
+      "start": "2026-05-05T03:40:00+05:00",
+      "stop": "2026-05-05T04:30:00+05:00",
+      "title": "CBC The National",
+      "desc": "CBC's flagship nightly news with hosts Adrienne Arsenault and Andrew Chang from Toronto, Canada. Watch on SBS VICELAND at 08:40am everyday, also available on SBS OnDemand.",
+      "language": "en",
+      "rating": "NR",
+      "categories": [
+        "News"
+      ],
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/413666/image/334x188"
     }
   ]
 }

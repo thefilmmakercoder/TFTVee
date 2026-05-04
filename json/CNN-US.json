@@ -4,26 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-05T00:00:00+05:00",
-      "stop": "2026-05-05T01:00:00+05:00",
-      "title": "Live: CNN News Central",
-      "desc": "News from around the world with Brianna Keilar and Boris Sanchez.",
-      "date": "2026",
-      "language": "en",
-      "categories": [
-        "Series",
-        "News"
-      ],
-      "episode": "E264",
-      "icon": "http://dtil.tmsimg.com/assets/p24581847_b_h8_ac.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Brianna Keilar",
-          "Boris Sanchez"
-        ]
-      }
-    },
-    {
       "start": "2026-05-05T01:00:00+05:00",
       "stop": "2026-05-05T02:00:00+05:00",
       "title": "Live: The Arena With Kasie Hunt",
@@ -125,6 +105,25 @@
       "credits": {
         "actor": [
           "Anderson Cooper"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-05T06:00:00+05:00",
+      "stop": "2026-05-05T07:00:00+05:00",
+      "title": "Live: The Source With Kaitlan Collins",
+      "desc": "Kaitlan Collins is chasing the facts, asking the tough questions and connecting with her sources.",
+      "date": "2026",
+      "language": "en",
+      "categories": [
+        "Series",
+        "News"
+      ],
+      "episode": "E88",
+      "icon": "http://dtil.tmsimg.com/assets/p25168881_b_h8_ac.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Kaitlan Collins"
         ]
       }
     }

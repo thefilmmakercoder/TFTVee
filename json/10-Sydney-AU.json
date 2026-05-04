@@ -4,44 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-05T00:30:00+05:00",
-      "stop": "2026-05-05T01:00:00+05:00",
-      "title": "Home Shopping",
-      "language": "en",
-      "rating": "NR",
-      "categories": [
-        "Special Interest"
-      ],
-      "episode": "E72",
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/234200/image/334x188"
-    },
-    {
-      "start": "2026-05-05T01:00:00+05:00",
-      "stop": "2026-05-05T01:30:00+05:00",
-      "title": "Entertainment Tonight",
-      "desc": "Still the gold standard in entertainment news, ET delivers daily exclusives, red carpet coverage, and celebrity interviews.",
-      "language": "en",
-      "rating": "NR",
-      "categories": [
-        "News"
-      ],
-      "episode": "S45 E169",
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/132140/image/334x188"
-    },
-    {
-      "start": "2026-05-05T01:30:00+05:00",
-      "stop": "2026-05-05T02:00:00+05:00",
-      "title": "The Bold & The Beautiful",
-      "desc": "Eric is stunned as catastrophe unfolds before him.",
-      "language": "en",
-      "rating": "PG",
-      "categories": [
-        "Drama"
-      ],
-      "episode": "E9763",
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/132625/image/334x188"
-    },
-    {
       "start": "2026-05-05T02:00:00+05:00",
       "stop": "2026-05-05T02:30:00+05:00",
       "title": "Deal or No Deal",
@@ -79,6 +41,45 @@
       ],
       "episode": "S2 E50",
       "icon": "https://www.fetchtv.com.au/v2/epg/program/413815/image/334x188"
+    },
+    {
+      "start": "2026-05-05T04:00:00+05:00",
+      "stop": "2026-05-05T05:00:00+05:00",
+      "title": "The Finish Line",
+      "desc": "Roman Kemp returns to host the quiz show with sidekick Sarah Greene - contestants race in moving podiums across the studio floor. Correct answers get the players moving, wrong answers will stop them.",
+      "language": "en",
+      "rating": "G",
+      "categories": [
+        "Special Interest"
+      ],
+      "episode": "S3 E12",
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/428456/image/334x188"
+    },
+    {
+      "start": "2026-05-05T05:00:00+05:00",
+      "stop": "2026-05-05T05:20:00+05:00",
+      "title": "Entertainment Tonight",
+      "desc": "Still the gold standard in entertainment news, ET delivers daily exclusives, red carpet coverage, and celebrity interviews.",
+      "language": "en",
+      "rating": "NR",
+      "categories": [
+        "Special Interest"
+      ],
+      "episode": "S45 E170",
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/132140/image/334x188"
+    },
+    {
+      "start": "2026-05-05T05:20:00+05:00",
+      "stop": "2026-05-05T06:30:00+05:00",
+      "title": "MasterChef Australia",
+      "desc": "In an elimination challenge centred on reinventing the judges' quick carb midweek dinner recipes, mistakes and time pressure sends one cook home.",
+      "language": "en",
+      "rating": "PG",
+      "categories": [
+        "Special Interest"
+      ],
+      "episode": "S18 E9",
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/1181477/image/334x188"
     }
   ]
 }
