@@ -4,65 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-05T01:00:00+05:00",
-      "stop": "2026-05-05T02:00:00+05:00",
-      "title": "Access Daily With Mario & Kit",
-      "desc": "Actor Stanley Tucci; actress Marta Milans (Peacock's \"M.I.A.\"); music updates with radio personality EJ; cocktail expert Paul Zahn shares Mother's Day recipes; #HotPicks recs!",
-      "date": "2026",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Series",
-        "Newsmagazine",
-        "Entertainment"
-      ],
-      "episode": "S16 E137",
-      "icon": "http://dtil.tmsimg.com/assets/p22894952_b_h8_ab.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Mario Lopez",
-          "Kit Hoover",
-          "Scott Evans"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-05T02:00:00+05:00",
-      "stop": "2026-05-05T03:00:00+05:00",
-      "title": "The Kelly Clarkson Show",
-      "desc": "Kellyoke encore: \"The Middle\"; Andy Serkis; Laufey; The Chick Mission; Philly Goat Project; Girli performs; guest hosts Tara Lipinski and Johnny Weir.",
-      "date": "2026",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Series",
-        "Talk",
-        "Variety",
-        "Entertainment"
-      ],
-      "episode": "S7 E128",
-      "icon": "http://dtil.tmsimg.com/assets/p16993616_b_h8_af.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Tara Lipinski",
-          "Johnny Weir",
-          "Andy Serkis"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-05T03:00:00+05:00",
-      "stop": "2026-05-05T03:30:00+05:00",
-      "title": "NBC4 News at 3pm",
-      "desc": "Stay informed with the latest breaking news and headlines.",
-      "date": "2018",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p15054848_b_h10_aa.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-05-05T03:30:00+05:00",
       "stop": "2026-05-05T04:00:00+05:00",
       "title": "NBC Nightly News With Tom Llamas",
@@ -105,6 +46,54 @@
         "Basketball"
       ],
       "icon": "http://dtil.tmsimg.com/assets/GNLZZGG0033D48V.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-05T08:00:00+05:00",
+      "stop": "2026-05-05T09:00:00+05:00",
+      "title": "NBC4 News",
+      "desc": "Breaking news, local stories, weather reports and events taking place in Southern California.",
+      "date": "2022",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p25191676_b_h10_aa.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-05T09:00:00+05:00",
+      "stop": "2026-05-05T09:30:00+05:00",
+      "title": "California Live",
+      "desc": "Previously recorded; lifestyle show featuring the latest in travel, food and fashion.",
+      "date": "2022",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p22187816_b_h10_ab.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-05T09:30:00+05:00",
+      "stop": "2026-05-05T10:00:00+05:00",
+      "title": "Access Hollywood",
+      "desc": "Met Gala countdown: behind the scenes at the hotel where the stars get Met-ready!",
+      "date": "2026",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Newsmagazine",
+        "Entertainment",
+        "Interview"
+      ],
+      "episode": "S30 E164",
+      "icon": "http://dtil.tmsimg.com/assets/p30926755_b_h8_ab.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Mario Lopez",
+          "Kit Hoover",
+          "Scott Evans"
+        ]
+      }
     }
   ]
 }

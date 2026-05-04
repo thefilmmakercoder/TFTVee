@@ -4,42 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-05T01:00:00+05:00",
-      "stop": "2026-05-05T02:00:00+05:00",
-      "title": "Eyewitness News First at 4",
-      "desc": "Local and regional news coverage.",
-      "date": "2011",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p8679870_b_h8_ad.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-05T02:00:00+05:00",
-      "stop": "2026-05-05T03:00:00+05:00",
-      "title": "Eyewitness News at 5",
-      "desc": "Local and regional news.",
-      "date": "2017",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p13769033_b_h8_ab.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-05T03:00:00+05:00",
-      "stop": "2026-05-05T03:30:00+05:00",
-      "title": "Eyewitness News at 6",
-      "desc": "Stay informed with the latest breaking news and headlines.",
-      "date": "2017",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p13769035_b_h8_ab.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-05-05T03:30:00+05:00",
       "stop": "2026-05-05T04:00:00+05:00",
       "title": "ABC World News Tonight With David Muir",
@@ -99,6 +63,66 @@
           "Vanna White"
         ]
       }
+    },
+    {
+      "start": "2026-05-05T05:00:00+05:00",
+      "stop": "2026-05-05T07:00:00+05:00",
+      "title": "American Idol",
+      "sub_title": "915 (Class of 2006: Reunion/Idol X DWTS)",
+      "desc": "At the \"American Idol\" 20th high school reunion, fan-favorite idols from the class of 2006, along with special guests, return as \"Dancing With the Stars\" pros bring some ballroom flair to the celebration; America votes live for the Top 3.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Music",
+        "Competition Reality"
+      ],
+      "episode": "S24 E15",
+      "icon": "http://dtil.tmsimg.com/assets/p31639969_b_h8_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Carrie Underwood",
+          "Luke Bryan",
+          "Lionel Richie"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-05T07:00:00+05:00",
+      "stop": "2026-05-05T08:00:00+05:00",
+      "title": "The Rookie",
+      "sub_title": "The Bandit",
+      "desc": "The team launches a high-stakes search to take down a notorious criminal; Lucy's leadership is tested; Wesley tests the boundaries of his friendships; Nolan tries to balance duty and family.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "Series",
+        "Crime drama",
+        "Action"
+      ],
+      "episode": "S8 E18",
+      "icon": "http://dtil.tmsimg.com/assets/p15523389_b_h8_bc.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Nathan Fillion",
+          "Mekia Cox",
+          "Alyssa Diaz"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-05T08:00:00+05:00",
+      "stop": "2026-05-05T08:35:00+05:00",
+      "title": "Eyewitness News at 11",
+      "desc": "Breaking news.",
+      "date": "2017",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p13769039_b_h8_ab.jpg?w=960&h=540"
     }
   ]
 }

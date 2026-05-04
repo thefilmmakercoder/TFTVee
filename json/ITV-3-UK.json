@@ -4,32 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-05T00:00:00+05:00",
-      "stop": "2026-05-05T02:00:00+05:00",
-      "title": "Midsomer Murders",
-      "sub_title": "Echoes of the Dead",
-      "desc": "When a young woman is found dressed like a bride and drowned in a bath, it triggers a spate of ghoulish wedding-themed murders - is history repeating itself.",
-      "language": "en",
-      "categories": [
-        "Entertainment",
-        "Detective"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/276171ff-e86a-4f4a-8b2d-3fac260500f5/16-9"
-    },
-    {
-      "start": "2026-05-05T02:00:00+05:00",
-      "stop": "2026-05-05T03:00:00+05:00",
-      "title": "DCI Banks",
-      "sub_title": "Bad Boy",
-      "desc": "Part One: Gritty detective series. The discovery of a gun in the bedroom of a neighbour sees Banks involved in an internal investigation that could break up the team.",
-      "language": "en",
-      "categories": [
-        "Entertainment",
-        "Detective"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/18f236a9-9eda-474f-8863-848261cc9f47/16-9"
-    },
-    {
       "start": "2026-05-05T03:00:00+05:00",
       "stop": "2026-05-05T03:50:00+05:00",
       "title": "DCI Banks",
@@ -79,6 +53,30 @@
         "Lifestyles"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/337a8489-445c-3384-b548-794ad098d3a1/16-9"
+    },
+    {
+      "start": "2026-05-05T06:30:00+05:00",
+      "stop": "2026-05-05T10:00:00+05:00",
+      "title": "Teleshopping",
+      "desc": "Shopping from home.",
+      "language": "en",
+      "categories": [
+        "Specialist",
+        "Shopping"
+      ]
+    },
+    {
+      "start": "2026-05-05T10:00:00+05:00",
+      "stop": "2026-05-05T10:35:00+05:00",
+      "title": "On the Buses",
+      "sub_title": "No Smoke Without Fire",
+      "desc": "Classic sitcom about a chirpy bus driver and his conductor pal. The inspector bans all the garage staff from smoking on duty - with dangerous consequences.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Comedy"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/1a01943e-c927-48da-9f2c-be38d4644fd2/16-9"
     }
   ]
 }

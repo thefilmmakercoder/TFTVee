@@ -4,21 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-04T23:00:00+05:00",
-      "stop": "2026-05-05T02:00:00+05:00",
-      "title": "Breakfast",
-      "desc": "Start your day off right as the Breakfast team brings you all the latest in news, weather, sport and entertainment.",
-      "language": "en"
-    },
-    {
-      "start": "2026-05-05T02:00:00+05:00",
-      "stop": "2026-05-05T03:00:00+05:00",
-      "title": "Riddiculous",
-      "desc": "Ranvir Singh hosts three teams who will go head-to-head over a series of Riddiculous riddles set by Riddlemaster Henry Lewis!",
-      "language": "en",
-      "rating": "G"
-    },
-    {
       "start": "2026-05-05T03:00:00+05:00",
       "stop": "2026-05-05T04:00:00+05:00",
       "title": "Tipping Point",
@@ -49,6 +34,23 @@
       "desc": "Long-running soap following the ups and downs of village life amid the rolling scenery of the Yorkshire Dales.",
       "language": "en",
       "rating": "PG"
+    },
+    {
+      "start": "2026-05-05T06:30:00+05:00",
+      "stop": "2026-05-05T07:00:00+05:00",
+      "title": "Coronation Street",
+      "desc": "Long-running drama with the residents of England's most famous cobbled street.",
+      "language": "en",
+      "rating": "PG"
+    },
+    {
+      "start": "2026-05-05T07:00:00+05:00",
+      "stop": "2026-05-05T08:00:00+05:00",
+      "title": "Go Girls",
+      "desc": "When it comes to love, a lot can change in a month - as Kevin, Cody, Olivia, Brad and Britta all discover.",
+      "language": "en",
+      "rating": "M",
+      "episode": "S3 E9"
     }
   ]
 }

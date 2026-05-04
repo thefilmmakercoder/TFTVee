@@ -4,30 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-05T02:20:00+05:00",
-      "stop": "2026-05-05T02:30:00+05:00",
-      "title": "BBC London News",
-      "desc": "The latest news, sport and weather from London.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/14dcc57a-bbbe-4b5c-99cd-efc978a02046/16-9"
-    },
-    {
-      "start": "2026-05-05T02:30:00+05:00",
-      "stop": "2026-05-05T03:00:00+05:00",
-      "title": "Have I Got News for You",
-      "desc": "Richard Ayoade hosts, with Stephen Mangan and Ava Santina Evans joining Ian and Paul. Contains some strong language.",
-      "language": "en",
-      "categories": [
-        "Entertainment",
-        "Comedy"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/9606637d-fcfc-4dca-a54b-13125f6d94f4/16-9"
-    },
-    {
       "start": "2026-05-05T03:00:00+05:00",
       "stop": "2026-05-05T04:00:00+05:00",
       "title": "Making Life on Earth: Attenborough's Greatest Adventure",
@@ -74,6 +50,29 @@
         "News"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/2d84b60f-815a-4b31-aa27-d9cb3bce6895/16-9"
+    },
+    {
+      "start": "2026-05-05T10:00:00+05:00",
+      "stop": "2026-05-05T13:30:00+05:00",
+      "title": "Breakfast",
+      "desc": "The latest news, sport, business and weather from the BBC's Breakfast team.",
+      "language": "en",
+      "categories": [
+        "News & Documentary",
+        "News"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/b814d1f1-3760-4b61-ac74-44454468c4c7/16-9"
+    },
+    {
+      "start": "2026-05-05T13:30:00+05:00",
+      "stop": "2026-05-05T14:45:00+05:00",
+      "title": "Morning Live",
+      "desc": "Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier.",
+      "language": "en",
+      "categories": [
+        "Entertainment"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/0efc56a5-5040-405b-bb0a-7fcbdfd2f7d6/16-9"
     }
   ]
 }

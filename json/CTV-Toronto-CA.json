@@ -4,37 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-05T02:00:00+05:00",
-      "stop": "2026-05-05T02:30:00+05:00",
-      "title": "Live: CTV News Toronto at 5",
-      "desc": "CTV News covers stories that matter to Canadians - locally, nationally, & internationally.",
-      "date": "2023",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p26024697_b_h8_ab.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-05T02:30:00+05:00",
-      "stop": "2026-05-05T02:59:00+05:00",
-      "title": "CTV National News With Sandie Rinaldo",
-      "desc": "CTV News covers stories that matter to Canadians - locally, nationally, & internationally.",
-      "date": "2026",
-      "language": "en",
-      "categories": [
-        "Series",
-        "News"
-      ],
-      "episode": "E71",
-      "icon": "http://dtil.tmsimg.com/assets/p7988878_b_h8_aa.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Sandie Rinaldo"
-        ]
-      }
-    },
-    {
       "start": "2026-05-05T02:59:00+05:00",
       "stop": "2026-05-05T04:00:00+05:00",
       "title": "Live: CTV News Toronto",
@@ -116,6 +85,43 @@
           "Johnny Galecki",
           "Jim Parsons",
           "Kaley Cuoco"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-05T05:30:00+05:00",
+      "stop": "2026-05-05T06:02:00+05:00",
+      "title": "Hockey Fanatics",
+      "sub_title": "Nashville Predators",
+      "desc": "Join Dave Foley and guest star Wynonna Judd as they hit the high notes of Nashville to find Nashville Predators hockey fans, food and fun in Music City.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "Series",
+        "Hockey"
+      ],
+      "episode": "S1 E3",
+      "icon": "http://dtil.tmsimg.com/assets/p32211006_b_h8_aa.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-05T06:02:00+05:00",
+      "stop": "2026-05-05T07:00:00+05:00",
+      "title": "The Quiz With Balls",
+      "sub_title": "Football Rivals",
+      "desc": "Teams of NFL underdogs compete.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Game show"
+      ],
+      "episode": "S3 E4",
+      "icon": "http://dtil.tmsimg.com/assets/p26784239_b_h8_ah.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Jay Pharoah"
         ]
       }
     }

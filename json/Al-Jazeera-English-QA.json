@@ -4,30 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-05T01:00:00+05:00",
-      "stop": "2026-05-05T02:00:00+05:00",
-      "title": "Newshour",
-      "desc": "Latest news and in-depth analysis from around the world.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "World Affairs"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/ff6a3006-01c1-4c97-b8ef-2d9e9116e96b/16-9"
-    },
-    {
-      "start": "2026-05-05T02:00:00+05:00",
-      "stop": "2026-05-05T03:00:00+05:00",
-      "title": "Newshour",
-      "desc": "Latest news and in-depth analysis from around the world.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "World Affairs"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/ff6a3006-01c1-4c97-b8ef-2d9e9116e96b/16-9"
-    },
-    {
       "start": "2026-05-05T03:00:00+05:00",
       "stop": "2026-05-05T04:00:00+05:00",
       "title": "Newshour",
@@ -74,6 +50,30 @@
         "World Affairs"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/e0b49adc-837f-4a52-a7dc-8eb23f86acd7/16-9"
+    },
+    {
+      "start": "2026-05-05T06:00:00+05:00",
+      "stop": "2026-05-05T07:00:00+05:00",
+      "title": "Silenced: The War On Journalism",
+      "desc": "A gripping look at journalism's ultimate sacrifice, told through stories of courage, loss and unwavering conviction.",
+      "language": "en",
+      "categories": [
+        "News & Documentary",
+        "Politics"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/1982c2f0-e54a-4726-acda-45fca8156f57/16-9"
+    },
+    {
+      "start": "2026-05-05T07:00:00+05:00",
+      "stop": "2026-05-05T07:30:00+05:00",
+      "title": "News Live",
+      "desc": "Up-to-date news and analysis from around the world.",
+      "language": "en",
+      "categories": [
+        "News & Documentary",
+        "World Affairs"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/b45adaf1-6374-41de-bb2e-7eaf495a1860/16-9"
     }
   ]
 }

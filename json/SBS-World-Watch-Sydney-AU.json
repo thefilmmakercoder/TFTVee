@@ -4,30 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-05T02:00:00+05:00",
-      "stop": "2026-05-05T02:30:00+05:00",
-      "title": "Polish News",
-      "desc": "Wydarzenia from Polsat in Warsaw via satellite, in Polish, no subtitles.",
-      "language": "en",
-      "rating": "NR",
-      "categories": [
-        "News"
-      ],
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/158479/image/334x188"
-    },
-    {
-      "start": "2026-05-05T02:30:00+05:00",
-      "stop": "2026-05-05T03:10:00+05:00",
-      "title": "Italian News",
-      "desc": "News via satellite from RAI Rome in Italian, no subtitles.",
-      "language": "en",
-      "rating": "NR",
-      "categories": [
-        "News"
-      ],
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/158476/image/334x188"
-    },
-    {
       "start": "2026-05-05T03:10:00+05:00",
       "stop": "2026-05-05T03:40:00+05:00",
       "title": "Filipino News",
@@ -75,6 +51,32 @@
         "Sports"
       ],
       "icon": "https://www.fetchtv.com.au/v2/epg/program/164171/image/334x188"
+    },
+    {
+      "start": "2026-05-05T06:00:00+05:00",
+      "stop": "2026-05-05T06:30:00+05:00",
+      "title": "Spanish News",
+      "sub_title": "Tuesday 5 May 2026",
+      "desc": "News via satellite from RTVE Madrid Spain, in Spanish, no subtitles.",
+      "language": "en",
+      "rating": "NR",
+      "categories": [
+        "Sports"
+      ],
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/158480/image/334x188"
+    },
+    {
+      "start": "2026-05-05T06:30:00+05:00",
+      "stop": "2026-05-05T07:00:00+05:00",
+      "title": "Spanish News France 24",
+      "sub_title": "Tuesday 5 May 2026",
+      "desc": "International news and current affairs from France24 studios in Bogota, offering a Latin American & French perspective on world events, in Spanish, no subtitles.",
+      "language": "en",
+      "rating": "NR",
+      "categories": [
+        "Sports"
+      ],
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/435224/image/334x188"
     }
   ]
 }

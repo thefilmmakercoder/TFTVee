@@ -4,30 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-04T23:30:00+05:00",
-      "stop": "2026-05-05T00:00:00+05:00",
-      "title": "The Simpsons",
-      "sub_title": "Mayored to the Mob",
-      "desc": "Homer, as the mayor's bodyguard, takes flak from Fat Tony after saving the lives of Quimby and actor Mark Hamill.",
-      "date": "1998",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Series",
-        "Animated",
-        "Sitcom"
-      ],
-      "episode": "S10 E9",
-      "icon": "http://dtil.tmsimg.com/assets/p183872_b_h8_aj.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Dan Castellaneta",
-          "Julie Kavner",
-          "Nancy Cartwright"
-        ]
-      }
-    },
-    {
       "start": "2026-05-05T00:00:00+05:00",
       "stop": "2026-05-05T03:00:00+05:00",
       "title": "Star Wars: A New Hope",
@@ -160,6 +136,35 @@
           "Dominic Polcino",
           "James Purdum",
           "Peter Shin"
+        ],
+        "actor": [
+          "Seth MacFarlane",
+          "Alex Borstein",
+          "Seth Green"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-05T11:00:00+05:00",
+      "stop": "2026-05-05T12:00:00+05:00",
+      "title": "Family Guy",
+      "sub_title": "It's a Trap!",
+      "desc": "During a power outage, the Griffins perform a retelling of \"Return of the Jedi.\".",
+      "date": "2011",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "Series",
+        "Animated",
+        "Sitcom",
+        "Comedy"
+      ],
+      "episode": "S9 E20",
+      "icon": "http://dtil.tmsimg.com/assets/p184483_b_h8_al.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Peter Shin",
+          "James Purdum"
         ],
         "actor": [
           "Seth MacFarlane",

@@ -4,19 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-04T23:00:00+05:00",
-      "stop": "2026-05-05T00:45:00+05:00",
-      "title": "Operation Condor",
-      "desc": "Jackie Chan ignites the big screen as the world's greatest secret agent, code name Condor. Sent to track down stolen Nazi gold, he is pursued by a ruthless band of treasure-hunting terrorists on a globe-spanning quest to reach the bounty first!",
-      "date": "19910207",
-      "language": "en",
-      "categories": [
-        "Movie",
-        "Action"
-      ],
-      "icon": "https://images.pluto.tv/episodes/5ff7c2b02816a5001a9faeaa/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694"
-    },
-    {
       "start": "2026-05-05T00:45:00+05:00",
       "stop": "2026-05-05T03:00:00+05:00",
       "title": "The Addams Family",
@@ -24,8 +11,8 @@
       "date": "19911122",
       "language": "en",
       "categories": [
-        "Movie",
-        "Comedy"
+        "Comedy",
+        "Movie"
       ],
       "icon": "https://images.pluto.tv/episodes/5c48dc581390b6759598ca20/poster_1770677641202.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694"
     },
@@ -37,9 +24,9 @@
       "date": "19931119",
       "language": "en",
       "categories": [
-        "Screwball",
         "Comedy",
-        "Movie"
+        "Movie",
+        "Screwball"
       ],
       "icon": "https://images.pluto.tv/episodes/5e9b8f7bc733d6001a1a48c8/poster_1768518364218.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694"
     },
@@ -51,8 +38,8 @@
       "date": "19920214",
       "language": "en",
       "categories": [
-        "Movie",
-        "Comedy"
+        "Comedy",
+        "Movie"
       ],
       "icon": "https://images.pluto.tv/episodes/66317a38d1a91700139f0ca7/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694"
     },
@@ -64,8 +51,8 @@
       "date": "19930101",
       "language": "en",
       "categories": [
-        "Movie",
-        "Comedy"
+        "Comedy",
+        "Movie"
       ],
       "icon": "https://images.pluto.tv/episodes/5637f06738d1bd272283ffb8/poster_1769798885111.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694"
     },
@@ -77,11 +64,25 @@
       "date": "19871231",
       "language": "en",
       "categories": [
-        "Screwball",
         "Comedy",
-        "Movie"
+        "Movie",
+        "Screwball"
       ],
       "icon": "https://images.pluto.tv/episodes/5c48dc661390b6759598cc57/poster_1768951084999.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694"
+    },
+    {
+      "start": "2026-05-05T11:00:00+05:00",
+      "stop": "2026-05-05T12:45:00+05:00",
+      "title": "The Monster Squad",
+      "desc": "Young kids form a club that is devoted to monsters, but soon get more than they bargained for when Dracula adjourns to Earth, with Frankenstein's Monster, Wolfman, Mummy, and the Gillman.",
+      "date": "19870101",
+      "language": "en",
+      "categories": [
+        "Horror",
+        "Movie",
+        "Monsters"
+      ],
+      "icon": "https://images.pluto.tv/episodes/590bfa64114615beb3525001/poster_1769471642101.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694"
     }
   ]
 }
