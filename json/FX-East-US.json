@@ -4,18 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-05T22:20:00+05:00",
-      "stop": "2026-05-05T22:30:00+05:00",
-      "title": "FXM Presents",
-      "desc": "An examination of the process of making movies follows a production from script to screen.",
-      "date": "2012",
-      "language": "en",
-      "categories": [
-        "Entertainment"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p8978680_b_h10_ab.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-05-05T22:30:00+05:00",
       "stop": "2026-05-06T01:00:00+05:00",
       "title": "Thor: Love and Thunder",
@@ -141,6 +129,20 @@
           "Sullivan Jones"
         ]
       }
+    },
+    {
+      "start": "2026-05-06T12:00:00+05:00",
+      "stop": "2026-05-06T12:30:00+05:00",
+      "title": "Paid Programming",
+      "desc": "Paid programming.",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Consumer",
+        "Shopping",
+        "Variety"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&h=540"
     }
   ]
 }

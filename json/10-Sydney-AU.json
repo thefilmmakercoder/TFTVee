@@ -4,45 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-06T00:00:00+05:00",
-      "stop": "2026-05-06T00:30:00+05:00",
-      "title": "Home Shopping",
-      "desc": "Shopping program.",
-      "language": "en",
-      "rating": "NR",
-      "categories": [
-        "Special Interest"
-      ],
-      "episode": "E59",
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/234200/image/334x188"
-    },
-    {
-      "start": "2026-05-06T00:30:00+05:00",
-      "stop": "2026-05-06T01:00:00+05:00",
-      "title": "Home Shopping",
-      "desc": "A show that offers a variety of product demonstrations and great deals for consumers looking to buy them.",
-      "language": "en",
-      "rating": "NR",
-      "categories": [
-        "Special Interest"
-      ],
-      "episode": "E60",
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/234200/image/334x188"
-    },
-    {
-      "start": "2026-05-06T01:00:00+05:00",
-      "stop": "2026-05-06T01:30:00+05:00",
-      "title": "Entertainment Tonight",
-      "desc": "Still the gold standard in entertainment news, ET delivers daily exclusives, red carpet coverage, and celebrity interviews.",
-      "language": "en",
-      "rating": "NR",
-      "categories": [
-        "Special Interest"
-      ],
-      "episode": "S45 E170",
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/132140/image/334x188"
-    },
-    {
       "start": "2026-05-06T01:30:00+05:00",
       "stop": "2026-05-06T02:00:00+05:00",
       "title": "The Bold & The Beautiful",
@@ -80,6 +41,45 @@
       ],
       "episode": "S18 E37",
       "icon": "https://www.fetchtv.com.au/v2/epg/program/197122/image/334x188"
+    },
+    {
+      "start": "2026-05-06T03:00:00+05:00",
+      "stop": "2026-05-06T04:00:00+05:00",
+      "title": "Lingo",
+      "desc": "A quiz in which three pairs of contestants go head-to-head, using their powers of deduction quickly to work out the words that appear in the Lingo grids and puzzle-words.",
+      "language": "en",
+      "rating": "G",
+      "categories": [
+        "Special Interest"
+      ],
+      "episode": "S2 E51",
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/413815/image/334x188"
+    },
+    {
+      "start": "2026-05-06T04:00:00+05:00",
+      "stop": "2026-05-06T05:00:00+05:00",
+      "title": "The Finish Line",
+      "desc": "Roman Kemp, with sidekick Sarah Greene, hosts the quiz show where knowledge equals speed. George, Beth, Joyce, Matthew and Ria race in moving podiums across the studio floor to try to win \u00a35,000.",
+      "language": "en",
+      "rating": "G",
+      "categories": [
+        "Special Interest"
+      ],
+      "episode": "S3 E13",
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/428456/image/334x188"
+    },
+    {
+      "start": "2026-05-06T05:00:00+05:00",
+      "stop": "2026-05-06T05:20:00+05:00",
+      "title": "Entertainment Tonight",
+      "desc": "Still the gold standard in entertainment news, ET delivers daily exclusives, red carpet coverage, and celebrity interviews.",
+      "language": "en",
+      "rating": "NR",
+      "categories": [
+        "Special Interest"
+      ],
+      "episode": "S45 E171",
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/132140/image/334x188"
     }
   ]
 }

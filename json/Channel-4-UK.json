@@ -4,30 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-05T23:00:00+05:00",
-      "stop": "2026-05-06T00:00:00+05:00",
-      "title": "Channel 4 News",
-      "desc": "Channel 4's flagship news programme. Including the weather.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/cfc95d42-de17-4609-b01f-0d01682bc381/16-9"
-    },
-    {
-      "start": "2026-05-06T00:00:00+05:00",
-      "stop": "2026-05-06T01:00:00+05:00",
-      "title": "Jamie's Ultimate BBQ",
-      "desc": "Fresh air, good vibes, and smoky magic! Jamie Oliver fires us up with top tips to perfect our grill skills. He cooks juicy sirloin three ways and makes luscious lamb lollipops.",
-      "language": "en",
-      "categories": [
-        "Entertainment",
-        "Cooking"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/85885e31-0cec-458a-a2bc-0677cf521b98/16-9"
-    },
-    {
       "start": "2026-05-06T01:00:00+05:00",
       "stop": "2026-05-06T02:00:00+05:00",
       "title": "Virgin Island",
@@ -75,6 +51,30 @@
         "Factual"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/3242e2bf-8b79-3b74-81c7-62d53d3db459/16-9"
+    },
+    {
+      "start": "2026-05-06T04:55:00+05:00",
+      "stop": "2026-05-06T05:50:00+05:00",
+      "title": "Wonders of the World I Can't See",
+      "desc": "In Rome, Chris McCausland and Tom Allen train as gladiators and make pasta, before Tom tries to describe the Colosseum to Chris.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Travel"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/9cb04a2b-0252-4627-a461-b8f4ad8e6143/16-9"
+    },
+    {
+      "start": "2026-05-06T05:50:00+05:00",
+      "stop": "2026-05-06T06:45:00+05:00",
+      "title": "Extraordinary Escapes with Sandi Toksvig",
+      "desc": "In Ireland, Sandi takes Eddie Izzard to a mini modern marvel, a charming treehouse and a cosy cottage.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Lifestyles"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/329e23fd-0af0-3676-9ad4-0d117ccc84c5/16-9"
     }
   ]
 }

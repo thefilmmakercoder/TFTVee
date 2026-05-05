@@ -4,31 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-05T21:00:00+05:00",
-      "stop": "2026-05-06T00:00:00+05:00",
-      "title": "NHK World English News",
-      "desc": "English news from Japan's Broadcasting Corporation, NHK, delivering the latest in business, technology, health, environmental and world news.",
-      "language": "en",
-      "rating": "NR",
-      "categories": [
-        "Sports"
-      ],
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/310652/image/334x188"
-    },
-    {
-      "start": "2026-05-06T00:00:00+05:00",
-      "stop": "2026-05-06T01:00:00+05:00",
-      "title": "Al Jazeera News Hour",
-      "sub_title": "Wednesday 6 May 2026",
-      "desc": "In-depth global news from Al Jazeera Satellite Network, Doha, Qatar, in English.",
-      "language": "en",
-      "rating": "NR",
-      "categories": [
-        "Sports"
-      ],
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/5901284/image/334x188"
-    },
-    {
       "start": "2026-05-06T01:00:00+05:00",
       "stop": "2026-05-06T01:50:00+05:00",
       "title": "TRT World News",
@@ -80,6 +55,32 @@
         "Sports"
       ],
       "icon": "https://www.fetchtv.com.au/v2/epg/program/337182/image/334x188"
+    },
+    {
+      "start": "2026-05-06T03:00:00+05:00",
+      "stop": "2026-05-06T03:10:00+05:00",
+      "title": "Euronews",
+      "sub_title": "Wednesday 6 May 2026",
+      "desc": "Headlines, Breaking News & Analysis from the Euronews news centre in Brussels, Belgium, in English.",
+      "language": "en",
+      "rating": "NR",
+      "categories": [
+        "Sports"
+      ],
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/276/image/334x188"
+    },
+    {
+      "start": "2026-05-06T03:10:00+05:00",
+      "stop": "2026-05-06T03:40:00+05:00",
+      "title": "NHK Newsline",
+      "sub_title": "Wednesday 6 May 2026",
+      "desc": "English news from Japan's Broadcasting Corporation, NHK, delivering the latest in business, technology, health, environmental and world news.",
+      "language": "en",
+      "rating": "NR",
+      "categories": [
+        "Sports"
+      ],
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/439062/image/334x188"
     }
   ]
 }
