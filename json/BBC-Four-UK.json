@@ -4,12 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-05T09:30:00+05:00",
-      "stop": "2026-05-05T15:30:00+05:00",
-      "title": "..programmes start at 7.00pm",
-      "language": "en"
-    },
-    {
       "start": "2026-05-05T15:30:00+05:00",
       "stop": "2026-05-05T21:30:00+05:00",
       "title": "..programmes start at 7.00pm",
@@ -51,6 +45,18 @@
         "Game Show"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/df8c26d0-379b-4dbb-8a30-b546961eb99a/16-9"
+    },
+    {
+      "start": "2026-05-06T00:00:00+05:00",
+      "stop": "2026-05-06T00:30:00+05:00",
+      "title": "Keeping Up Appearances",
+      "desc": "Sitcom about an irrepressible snob. Hyacinth's quest for perfection is somewhat hampered by the dubious antics of the rest of her family.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Comedy"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/15446da3-47a5-45e8-b446-bdfb9676f41b/16-9"
     }
   ]
 }

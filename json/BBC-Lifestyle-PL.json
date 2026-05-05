@@ -4,70 +4,83 @@
   ],
   "programs": [
     {
-      "start": "2026-05-05T15:10:00+05:00",
-      "stop": "2026-05-05T16:30:00+05:00",
-      "title": "The Great Kiwi Bake Off",
-      "date": "2025",
-      "language": "en",
-      "categories": [
-        "Entertainment Program"
-      ],
-      "episode": "S2E6"
-    },
-    {
-      "start": "2026-05-05T16:30:00+05:00",
-      "stop": "2026-05-05T17:30:00+05:00",
+      "start": "2026-05-05T20:35:00+05:00",
+      "stop": "2026-05-05T21:35:00+05:00",
       "title": "Abbey Clancy: Celebrity Homes",
       "date": "2023",
       "language": "en",
       "categories": [
         "Entertainment Program"
       ],
-      "episode": "E4"
+      "episode": "E5"
     },
     {
-      "start": "2026-05-05T17:30:00+05:00",
-      "stop": "2026-05-05T18:30:00+05:00",
-      "title": "The Great American Baking Show",
-      "date": "2019",
+      "start": "2026-05-05T21:35:00+05:00",
+      "stop": "2026-05-05T22:45:00+05:00",
+      "title": "The Great British Sewing Bee: Wardrobe Staples Week",
+      "date": "2022",
       "language": "en",
       "categories": [
         "Entertainment Program"
       ],
-      "episode": "S5E5"
+      "episode": "S8E10"
     },
     {
-      "start": "2026-05-05T18:30:00+05:00",
-      "stop": "2026-05-05T18:55:00+05:00",
-      "title": "Come Dine with Me 22",
-      "date": "2024",
+      "start": "2026-05-05T22:45:00+05:00",
+      "stop": "2026-05-06T00:00:00+05:00",
+      "title": "The Great Kiwi Bake Off",
+      "date": "2025",
       "language": "en",
       "categories": [
-        "Culinary Magazine"
+        "Entertainment Program"
       ],
-      "episode": "S22E29"
+      "episode": "S2E7"
     },
     {
-      "start": "2026-05-05T18:55:00+05:00",
-      "stop": "2026-05-05T19:30:00+05:00",
-      "title": "Come Dine with Me 22",
-      "date": "2024",
+      "start": "2026-05-06T00:00:00+05:00",
+      "stop": "2026-05-06T01:00:00+05:00",
+      "title": "Julia Bradbury's Irish Journey",
+      "desc": "Julia Bradbury returns to her native Ireland to rediscover its landscapes, history and culture.Traveling throughout the country, he visits both picturesque villages and bustling cities.",
+      "date": "2023",
       "language": "en",
       "categories": [
-        "Culinary Magazine"
+        "Documentary Series"
       ],
-      "episode": "S22E30"
+      "episode": "E3",
+      "credits": {
+        "actor": [
+          "Self - Julia Bradbury"
+        ]
+      }
     },
     {
-      "start": "2026-05-05T19:30:00+05:00",
-      "stop": "2026-05-05T20:00:00+05:00",
-      "title": "Come Dine with Me 22",
-      "date": "2024",
+      "start": "2026-05-06T01:00:00+05:00",
+      "stop": "2026-05-06T02:05:00+05:00",
+      "title": "The Truth About Getting Fit At Home",
+      "desc": "For many people, just six minutes of training a week is enough.Mehreen Baig will check what types of exercises we should do at home.He will talk to scientists and conduct experiments.",
+      "date": "2021",
       "language": "en",
       "categories": [
-        "Culinary Magazine"
+        "Documentary Film"
       ],
-      "episode": "S22E31"
+      "episode": "E1",
+      "credits": {
+        "director": [
+          "Jonathan Cowen"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-06T02:05:00+05:00",
+      "stop": "2026-05-06T03:10:00+05:00",
+      "title": "Embarrassing Bodies",
+      "desc": "Dr. Christian Jessen and his team of doctors help people suffering from rare and very embarrassing diseases.In this series, medics will face really difficult challenges.",
+      "date": "2012",
+      "language": "en",
+      "categories": [
+        "Documentary Series"
+      ],
+      "episode": "S6E7"
     }
   ]
 }

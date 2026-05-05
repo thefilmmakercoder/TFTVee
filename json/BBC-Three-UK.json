@@ -4,12 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-05T09:30:00+05:00",
-      "stop": "2026-05-05T15:30:00+05:00",
-      "title": "..programmes start at 7.00pm",
-      "language": "en"
-    },
-    {
       "start": "2026-05-05T15:30:00+05:00",
       "stop": "2026-05-05T21:30:00+05:00",
       "title": "..programmes start at 7.00pm",
@@ -51,6 +45,18 @@
         "Children"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/e5a2240c-3671-318c-96bc-b496156966ba/16-9"
+    },
+    {
+      "start": "2026-05-05T23:30:00+05:00",
+      "stop": "2026-05-06T00:00:00+05:00",
+      "title": "Deadly 60",
+      "sub_title": "The Deep",
+      "desc": "Steve heads down in a submarine to explore the deep.",
+      "language": "en",
+      "categories": [
+        "Children"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/88b0d5c8-ee97-32dd-a6a6-b525752f1d7e/16-9"
     }
   ]
 }

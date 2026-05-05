@@ -4,42 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-05T16:30:00+05:00",
-      "stop": "2026-05-05T17:00:00+05:00",
-      "title": "Today in LA @ 4:30AM",
-      "desc": "The latest local news, weather and investigative stories impacting the community.",
-      "date": "2020",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p18627053_b_h10_ab.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-05T17:00:00+05:00",
-      "stop": "2026-05-05T18:00:00+05:00",
-      "title": "Today in LA @ 5AM",
-      "desc": "The latest local news, weather and investigative stories impacting the community.",
-      "date": "2020",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p18627056_b_h10_ab.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-05T18:00:00+05:00",
-      "stop": "2026-05-05T19:00:00+05:00",
-      "title": "Today in LA @ 6AM",
-      "desc": "The latest local news, weather and investigative stories impacting the community.",
-      "date": "2020",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p18627061_b_h10_ab.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-05-05T19:00:00+05:00",
       "stop": "2026-05-05T21:00:00+05:00",
       "title": "Today",
@@ -105,6 +69,50 @@
           "Jenna Bush-Hager",
           "Sheinelle Jones",
           "June Ambrose"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-05T23:00:00+05:00",
+      "stop": "2026-05-05T23:30:00+05:00",
+      "title": "NBC4 News at 11am",
+      "desc": "The latest local news, weather and investigative stories impacting the community.",
+      "date": "2016",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p12892190_b_h10_ad.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-05T23:30:00+05:00",
+      "stop": "2026-05-06T00:00:00+05:00",
+      "title": "California Live",
+      "desc": "A daily lifestyle show that takes a ride through all of California, discovering many of the hidden treasures the state and its people have to offer including beauty, glamour, fitness, food, health, and tech.",
+      "date": "2019",
+      "language": "en",
+      "categories": [
+        "Community"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p16325568_b_h10_ac.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-06T00:00:00+05:00",
+      "stop": "2026-05-06T01:00:00+05:00",
+      "title": "NBC News Daily",
+      "desc": "NBC News provides viewers with the latest national and international news; consumer, health and personal finance reporting; up-to-the-minute local news.",
+      "date": "2026",
+      "language": "en",
+      "categories": [
+        "Series",
+        "News"
+      ],
+      "episode": "E78",
+      "icon": "http://dtil.tmsimg.com/assets/p22712535_b_h8_ad.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Vicky Nguyen",
+          "Morgan Radford"
         ]
       }
     }
