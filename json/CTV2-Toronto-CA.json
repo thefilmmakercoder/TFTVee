@@ -4,61 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-05T10:07:00+05:00",
-      "stop": "2026-05-05T11:05:00+05:00",
-      "title": "Criminal Minds",
-      "sub_title": "The Replicator",
-      "desc": "When the Replicator returns, a member of the BAU team is targeted.",
-      "date": "2013",
-      "language": "en",
-      "rating": "TV14",
-      "categories": [
-        "Series",
-        "Crime drama",
-        "Mystery",
-        "Thriller",
-        "Drama"
-      ],
-      "episode": "S8 E24",
-      "icon": "http://dtil.tmsimg.com/assets/p185123_b_h8_ac.jpg?w=960&h=540",
-      "credits": {
-        "director": [
-          "Glenn Kershaw"
-        ],
-        "actor": [
-          "Joe Mantegna",
-          "Thomas Gibson",
-          "Shemar Moore"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-05T11:05:00+05:00",
-      "stop": "2026-05-05T12:05:00+05:00",
-      "title": "Suits",
-      "sub_title": "The Shelf Life",
-      "desc": "Harvey must keep Mike out of Jessica's line of fire when he questions the firing of an executive dismissed by Harvey at the request of a client.",
-      "date": "2011",
-      "language": "en",
-      "rating": "TV14",
-      "categories": [
-        "Series",
-        "Drama",
-        "Crime drama",
-        "Law",
-        "Comedy"
-      ],
-      "episode": "S1 E10",
-      "icon": "http://dtil.tmsimg.com/assets/p8630071_b_h8_bc.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Patrick J. Adams",
-          "Gabriel Macht",
-          "Meghan Markle"
-        ]
-      }
-    },
-    {
       "start": "2026-05-05T12:05:00+05:00",
       "stop": "2026-05-05T13:05:00+05:00",
       "title": "Flashpoint",
@@ -151,6 +96,33 @@
           "Jon Granik"
         ]
       }
+    },
+    {
+      "start": "2026-05-05T14:30:00+05:00",
+      "stop": "2026-05-05T15:00:00+05:00",
+      "title": "Paid Programming",
+      "desc": "Paid programming.",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Consumer",
+        "Shopping",
+        "Variety"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-05T15:00:00+05:00",
+      "stop": "2026-05-05T15:40:00+05:00",
+      "title": "CTV News Barrie",
+      "desc": "CTV News covers stories that matter to Canadians - locally, nationally, & internationally.",
+      "date": "2014",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p11226354_b_h8_ad.jpg?w=960&h=540"
     }
   ]
 }

@@ -4,90 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-05T10:06:00+05:00",
-      "stop": "2026-05-05T10:36:00+05:00",
-      "title": "ABC World News Tonight With David Muir",
-      "desc": "Delivering the news that matters most.",
-      "date": "2026",
-      "language": "en",
-      "categories": [
-        "Series",
-        "News"
-      ],
-      "episode": "E124",
-      "icon": "http://dtil.tmsimg.com/assets/p10880351_b_h8_ah.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "David Muir"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-05T10:36:00+05:00",
-      "stop": "2026-05-05T11:36:00+05:00",
-      "title": "Live with Kelly and Mark",
-      "desc": "Jamie Lynn Sigler and Jay Pharoah are here; the hosts open up the \"I Love Mom\" Inbox!",
-      "date": "2026",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Series",
-        "Talk"
-      ],
-      "episode": "S4 E176",
-      "icon": "http://dtil.tmsimg.com/assets/p24324378_b_h8_ab.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Kelly Ripa",
-          "Mark Consuelos",
-          "Jamie-Lynn Sigler"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-05T11:36:00+05:00",
-      "stop": "2026-05-05T12:06:00+05:00",
-      "title": "Jeopardy!",
-      "desc": "The Emmy-winning quiz show features a unique answer-and-question format.",
-      "date": "2025",
-      "language": "en",
-      "rating": "TVG",
-      "categories": [
-        "Series",
-        "Game show"
-      ],
-      "episode": "S41 E181",
-      "icon": "http://dtil.tmsimg.com/assets/p28134937_b_h10_aa.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Ken Jennings"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-05T12:06:00+05:00",
-      "stop": "2026-05-05T13:00:00+05:00",
-      "title": "Tamron Hall",
-      "sub_title": "Behind the Headlines",
-      "desc": "Interview with Sharifa Jackson and her husband Jaro - the parents of baby Arya, who is finally home after 236 days in the NICU; gospel music power couple Erica and Warryn Campbell share details about their upcoming vow renewal ceremony; a couple recount the moment their anniversary hot-air balloon ride ended with a surprise landing in a stranger's backyard.",
-      "date": "2026",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Series",
-        "Talk"
-      ],
-      "episode": "S7 E156",
-      "icon": "http://dtil.tmsimg.com/assets/p17197549_b_h8_af.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Tamron Hall",
-          "Sharifa Jackson",
-          "Erica Campbell"
-        ]
-      }
-    },
-    {
       "start": "2026-05-05T13:00:00+05:00",
       "stop": "2026-05-05T13:30:00+05:00",
       "title": "Good Morning America First Look",
@@ -116,6 +32,76 @@
         "News"
       ],
       "icon": "http://dtil.tmsimg.com/assets/p677214_b_h8_ad.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-05T15:00:00+05:00",
+      "stop": "2026-05-05T16:00:00+05:00",
+      "title": "Eyewitness News This Morning",
+      "desc": "News coverage to start the day.",
+      "date": "2007",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p677214_b_h8_ad.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-05T16:00:00+05:00",
+      "stop": "2026-05-05T18:00:00+05:00",
+      "title": "Good Morning America",
+      "desc": "Comics Anthony Anderson and Cedric The Entertainer; author Carley Fortune; Inside the Met Gala with Deborah Roberts; Deals & Steals with Tory Johnson.",
+      "date": "2026",
+      "language": "en",
+      "categories": [
+        "Series",
+        "Talk",
+        "News",
+        "Variety",
+        "Public affairs"
+      ],
+      "episode": "E143",
+      "icon": "http://dtil.tmsimg.com/assets/p31385280_b_h10_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "George Stephanopoulos",
+          "Robin Roberts",
+          "Michael Strahan"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-05T18:00:00+05:00",
+      "stop": "2026-05-05T19:00:00+05:00",
+      "title": "Live with Kelly and Mark",
+      "desc": "Anthony Anderson swings by and Paul Bettany is here; the \"I Love Mom\" Inbox!",
+      "date": "2026",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Talk"
+      ],
+      "episode": "S4 E177",
+      "icon": "http://dtil.tmsimg.com/assets/p24324378_b_h8_ab.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Kelly Ripa",
+          "Mark Consuelos",
+          "Anthony Anderson"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-05T19:00:00+05:00",
+      "stop": "2026-05-05T20:00:00+05:00",
+      "title": "Eyewitness News Mornings at 10",
+      "desc": "Stay informed with the latest breaking news and headlines.",
+      "date": "2023",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p25568169_b_h8_aa.jpg?w=960&h=540"
     }
   ]
 }

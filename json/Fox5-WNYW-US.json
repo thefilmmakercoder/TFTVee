@@ -4,80 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-05T10:30:00+05:00",
-      "stop": "2026-05-05T11:00:00+05:00",
-      "title": "TMZ",
-      "desc": "TMZ TV tracks down today's hottest stars with their cameras, whether they are hitting the clubs or the dry cleaners.",
-      "date": "2026",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Series",
-        "Newsmagazine",
-        "Entertainment"
-      ],
-      "episode": "S19 E211",
-      "icon": "http://dtil.tmsimg.com/assets/p30985766_b_h10_aa.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Harvey Levin"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-05T11:00:00+05:00",
-      "stop": "2026-05-05T11:30:00+05:00",
-      "title": "Paid Programming",
-      "desc": "Paid programming.",
-      "language": "en",
-      "rating": "TVG",
-      "categories": [
-        "Consumer",
-        "Shopping",
-        "Variety"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-05T11:30:00+05:00",
-      "stop": "2026-05-05T12:00:00+05:00",
-      "title": "Paid Programming",
-      "desc": "Paid programming.",
-      "language": "en",
-      "rating": "TVG",
-      "categories": [
-        "Consumer",
-        "Shopping",
-        "Variety"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-05T12:00:00+05:00",
-      "stop": "2026-05-05T12:30:00+05:00",
-      "title": "Paid Programming",
-      "desc": "Paid programming.",
-      "language": "en",
-      "rating": "TVG",
-      "categories": [
-        "Consumer",
-        "Shopping",
-        "Variety"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-05T12:30:00+05:00",
-      "stop": "2026-05-05T13:00:00+05:00",
-      "title": "Peter Popoff Ministries",
-      "desc": "For over 30 years, Reverend Peter Popoff has provided spiritual direction and powerful testimonies to receive God's blessings in your life.",
-      "language": "en",
-      "categories": [
-        "Consumer"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p12072954_b_h10_aa.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-05-05T13:00:00+05:00",
       "stop": "2026-05-05T13:30:00+05:00",
       "title": "Good Night New York",
@@ -89,6 +15,66 @@
         "Newsmagazine"
       ],
       "icon": "http://dtil.tmsimg.com/assets/p27878460_b_h8_aa.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-05T13:30:00+05:00",
+      "stop": "2026-05-05T14:00:00+05:00",
+      "title": "Good Day Wake Up",
+      "desc": "Morning news coverage.",
+      "date": "2009",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p706488_b_h8_ab.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-05T14:00:00+05:00",
+      "stop": "2026-05-05T15:00:00+05:00",
+      "title": "Good Day Wake Up",
+      "desc": "Morning news coverage.",
+      "date": "2009",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p706488_b_h8_ab.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-05T15:00:00+05:00",
+      "stop": "2026-05-05T16:00:00+05:00",
+      "title": "Good Day Wake Up 2",
+      "desc": "Morning news and entertainment.",
+      "date": "2009",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p706489_b_h8_ab.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-05T16:00:00+05:00",
+      "stop": "2026-05-05T18:00:00+05:00",
+      "title": "Good Day New York",
+      "desc": "Morning news.",
+      "date": "2007",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p706448_b_h8_ab.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-05T18:00:00+05:00",
+      "stop": "2026-05-05T19:00:00+05:00",
+      "title": "Good Day New York",
+      "desc": "Morning news.",
+      "date": "2007",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p706448_b_h8_ab.jpg?w=960&h=540"
     }
   ]
 }

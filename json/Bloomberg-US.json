@@ -4,13 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-05T10:00:00+05:00",
-      "stop": "2026-05-05T11:00:00+05:00",
-      "title": "Bloomberg Daybreak: Europe",
-      "desc": "From London, essential morning viewing to stay ahead of the day's market trends with news stories from the U.S. and Asia in the lead-up to the opening of European markets.",
-      "language": "en"
-    },
-    {
       "start": "2026-05-05T11:00:00+05:00",
       "stop": "2026-05-05T13:00:00+05:00",
       "title": "Bloomberg The Opening Trade",
@@ -43,6 +36,13 @@
       "stop": "2026-05-05T20:00:00+05:00",
       "title": "Bloomberg Open Interest",
       "desc": "Delivering the market-moving news anyone needs to know to get a jump start on the U.S. trading day.",
+      "language": "en"
+    },
+    {
+      "start": "2026-05-05T20:00:00+05:00",
+      "stop": "2026-05-05T21:00:00+05:00",
+      "title": "Bloomberg Tech",
+      "desc": "Bloomberg Tech is the only daily live technology program with a focus on breaking news, market-moving reporting and analysis of global technology companies and stories. The program brings the audience interviews from the biggest names in the business, offering in-depth analysis and critical insights.",
       "language": "en"
     }
   ]

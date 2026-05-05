@@ -4,19 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-05T09:05:00+05:00",
-      "stop": "2026-05-05T10:00:00+05:00",
-      "title": "Alan Titchmarsh's Gardening Club",
-      "sub_title": "Gardening advice series",
-      "desc": "Alan shares seasonal inspiration from his garden, Henry builds a DIY plant support, and Camilla explores an arts and crafts garden.",
-      "language": "en",
-      "categories": [
-        "Entertainment",
-        "Gradening"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/14fe987b-967b-4646-8dbe-ab3f19e3f04a/16-9"
-    },
-    {
       "start": "2026-05-05T10:00:00+05:00",
       "stop": "2026-05-05T13:30:00+05:00",
       "title": "Good Morning Britain",
@@ -75,6 +62,18 @@
         "News"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/ad9dfa30-821a-4c87-8357-fcd664cca2e1/16-9"
+    },
+    {
+      "start": "2026-05-05T17:55:00+05:00",
+      "stop": "2026-05-05T18:00:00+05:00",
+      "title": "ITV News London",
+      "desc": "The latest news and weather from London and the South East.",
+      "language": "en",
+      "categories": [
+        "News & Documentary",
+        "News"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/fd792ff1-26a4-4cde-8f83-ab07c478ca56/16-9"
     }
   ]
 }

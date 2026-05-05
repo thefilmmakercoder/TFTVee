@@ -4,43 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-05T10:00:00+05:00",
-      "stop": "2026-05-05T11:00:00+05:00",
-      "title": "Dateline NBC",
-      "sub_title": "The Stranger",
-      "desc": "A woman and her dogs disappear from their home.",
-      "date": "2013",
-      "language": "en",
-      "categories": [
-        "Series",
-        "Newsmagazine",
-        "Mystery",
-        "Crime",
-        "Documentary"
-      ],
-      "episode": "S21 E57",
-      "icon": "http://dtil.tmsimg.com/assets/p184061_b_h8_ab.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Lester Holt",
-          "Keith Morrison",
-          "Josh Mankiewicz"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-05T11:00:00+05:00",
-      "stop": "2026-05-05T11:34:00+05:00",
-      "title": "NBC4 News at 11pm",
-      "desc": "The latest local news, weather and investigative stories impacting the community.",
-      "date": "2011",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p8781143_b_h10_ad.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-05-05T11:34:00+05:00",
       "stop": "2026-05-05T12:37:00+05:00",
       "title": "The Tonight Show Starring Jimmy Fallon",
@@ -119,6 +82,43 @@
           "Tom Llamas"
         ]
       }
+    },
+    {
+      "start": "2026-05-05T14:37:00+05:00",
+      "stop": "2026-05-05T15:30:00+05:00",
+      "title": "The Kelly Clarkson Show",
+      "desc": "Kellyoke encore: \"The Middle\"; Andy Serkis; Laufey; The Chick Mission; Philly Goat Project; Girli performs; guest hosts Tara Lipinski and Johnny Weir.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Talk",
+        "Variety",
+        "Entertainment"
+      ],
+      "episode": "S7 E128",
+      "icon": "http://dtil.tmsimg.com/assets/p16993616_b_h8_af.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Tara Lipinski",
+          "Johnny Weir",
+          "Andy Serkis"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-05T15:30:00+05:00",
+      "stop": "2026-05-05T16:00:00+05:00",
+      "title": "Early Today",
+      "desc": "This early-morning news covers overnight events, breaking domestic and international news as well as a preview of the day's anticipated events. The program also presents regular reports from the worlds of business, entertainment and sports.",
+      "date": "1999",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p185301_b_h8_ag.jpg?w=960&h=540"
     }
   ]
 }

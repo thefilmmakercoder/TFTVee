@@ -4,82 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-05T09:30:00+05:00",
-      "stop": "2026-05-05T10:30:00+05:00",
-      "title": "Murdoch Mysteries",
-      "sub_title": "The Lady Vanishes",
-      "desc": "Murdoch investigates when Higgins goes missing searching for his kidnapped sister-in-law.",
-      "date": "2021",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Series",
-        "Drama",
-        "Mystery"
-      ],
-      "episode": "S15 E9",
-      "icon": "http://dtil.tmsimg.com/assets/p811777_b_h8_at.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Yannick Bisson",
-          "Helene Joy",
-          "Jonny Harris"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-05T10:30:00+05:00",
-      "stop": "2026-05-05T11:30:00+05:00",
-      "title": "Murdoch Mysteries",
-      "sub_title": "Drawn in Blood",
-      "desc": "At an awards ceremony, Ogden is thrilled by a pledge from Councilman Rekker; Rexford Denison is accosted by a businessman claiming his poison pen ruined him; moments later Denison is shot dead.",
-      "date": "2021",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Series",
-        "Drama",
-        "Mystery"
-      ],
-      "episode": "S15 E10",
-      "icon": "http://dtil.tmsimg.com/assets/p811777_b_h8_at.jpg?w=960&h=540",
-      "credits": {
-        "director": [
-          "Harvey Crossland"
-        ],
-        "actor": [
-          "Yannick Bisson",
-          "Helene Joy",
-          "Jonny Harris"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-05T11:30:00+05:00",
-      "stop": "2026-05-05T12:30:00+05:00",
-      "title": "Frankie Drake Mysteries",
-      "sub_title": "Last Dance",
-      "desc": "While investigating a kidnapping at the Palais Royale, the team finds out that the victim is gravely ill.",
-      "date": "2018",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Series",
-        "Drama",
-        "Crime",
-        "Historical drama"
-      ],
-      "episode": "S2 E2",
-      "icon": "http://dtil.tmsimg.com/assets/p14392579_b_h8_aa.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Lauren Lee Smith",
-          "Chantel Riley",
-          "Rebecca Liddiard"
-        ]
-      }
-    },
-    {
       "start": "2026-05-05T12:30:00+05:00",
       "stop": "2026-05-05T13:00:00+05:00",
       "title": "This Hour Has 22 Minutes",
@@ -144,6 +68,61 @@
           "Jules Hudson"
         ]
       }
+    },
+    {
+      "start": "2026-05-05T15:00:00+05:00",
+      "stop": "2026-05-05T16:00:00+05:00",
+      "title": "Live: Metro Morning",
+      "desc": "News, current affairs, weather and traffic.",
+      "date": "2015",
+      "language": "en",
+      "categories": [
+        "Community",
+        "News",
+        "Public affairs"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p11567849_b_h8_ab.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Ismaila Alfa"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-05T16:00:00+05:00",
+      "stop": "2026-05-05T16:05:00+05:00",
+      "title": "Mini-Jon and Mini-Maple",
+      "sub_title": "An Indispensable Tool",
+      "desc": "The mini-clones encourage Raoul the vacuum cleaner to chase his dreams.",
+      "date": "2025",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Series",
+        "Animated",
+        "Children",
+        "Adventure"
+      ],
+      "episode": "S3 E1",
+      "icon": "http://dtil.tmsimg.com/assets/p25180614_b_h8_ab.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-05T16:05:00+05:00",
+      "stop": "2026-05-05T16:13:00+05:00",
+      "title": "Super Agent Jon Le Bon!",
+      "sub_title": "Second-in-Command",
+      "desc": "It's up to Shorthand to lead the agents when a giant robot mysteriously attacks the Agency.",
+      "date": "2021",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Series",
+        "Animated",
+        "Children",
+        "Adventure"
+      ],
+      "episode": "S3 E3",
+      "icon": "http://dtil.tmsimg.com/assets/p15621714_b_h8_ac.jpg?w=960&h=540"
     }
   ]
 }
