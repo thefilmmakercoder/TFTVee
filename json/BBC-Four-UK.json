@@ -4,18 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-05T15:30:00+05:00",
-      "stop": "2026-05-05T21:30:00+05:00",
-      "title": "..programmes start at 7.00pm",
-      "language": "en"
-    },
-    {
-      "start": "2026-05-05T21:30:00+05:00",
-      "stop": "2026-05-05T22:58:00+05:00",
-      "title": "..programmes start at 7.00pm",
-      "language": "en"
-    },
-    {
       "start": "2026-05-05T22:58:00+05:00",
       "stop": "2026-05-05T23:00:00+05:00",
       "title": "This is BBC Four",
@@ -57,6 +45,30 @@
         "Comedy"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/15446da3-47a5-45e8-b446-bdfb9676f41b/16-9"
+    },
+    {
+      "start": "2026-05-06T00:30:00+05:00",
+      "stop": "2026-05-06T01:00:00+05:00",
+      "title": "Sorry!",
+      "desc": "Sitcom. Timothy's handsome cousin Brinsley comes to stay - and supplants Timothy in Mother's affections.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Comedy"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/0652d2d3-090e-4f37-9572-2b7decb5291b/16-9"
+    },
+    {
+      "start": "2026-05-06T01:00:00+05:00",
+      "stop": "2026-05-06T02:00:00+05:00",
+      "title": "A History of Britain by Simon Schama",
+      "desc": "Featuring the revolutionary period in Britain after the execution of Charles I, from Cromwell's iron rule to Charles II's attempts to restore the lustre of the monarchy.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Factual"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/09a27ff9-40f9-4bb0-b2dc-6b4cb987db7b/16-9"
     }
   ]
 }

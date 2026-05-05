@@ -4,41 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-05T21:00:00+05:00",
-      "stop": "2026-05-05T21:30:00+05:00",
-      "title": "CBS News New York 12pm",
-      "desc": "Midday news update.",
-      "date": "2011",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p8492448_b_h8_aa.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-05T21:30:00+05:00",
-      "stop": "2026-05-05T22:30:00+05:00",
-      "title": "The Young and the Restless",
-      "desc": "Victor and Nikki reject an opportunity to reconcile; Christine backs Phyllis into a corner; Sharon interrogates Sienna about her past.",
-      "date": "2026",
-      "language": "en",
-      "rating": "TV14",
-      "categories": [
-        "Series",
-        "Soap"
-      ],
-      "episode": "S53 E145",
-      "icon": "http://dtil.tmsimg.com/assets/p183904_b_h8_ai.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Peter Bergman",
-          "Eric Braeden",
-          "Christel Khalil"
-        ]
-      }
-    },
-    {
       "start": "2026-05-05T22:30:00+05:00",
       "stop": "2026-05-05T23:00:00+05:00",
       "title": "The Bold and the Beautiful",
@@ -98,6 +63,39 @@
         "News"
       ],
       "icon": "http://dtil.tmsimg.com/assets/p8492449_b_h8_ab.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-06T03:00:00+05:00",
+      "stop": "2026-05-06T03:30:00+05:00",
+      "title": "CBS News New York 6pm",
+      "desc": "Stay informed with the latest breaking news and headlines.",
+      "date": "2008",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p605164_b_h8_ab.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-06T03:30:00+05:00",
+      "stop": "2026-05-06T04:00:00+05:00",
+      "title": "CBS Evening News",
+      "desc": "Tony Dokoupil shares the day's most important stories, delivering context and depth to bring greater understanding to one's world.",
+      "date": "2026",
+      "language": "en",
+      "categories": [
+        "Series",
+        "News"
+      ],
+      "episode": "E125",
+      "icon": "http://dtil.tmsimg.com/assets/p28807922_b_h8_ae.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Tony Dokoupil",
+          "Maurice DuBois",
+          "Jericka Duncan"
+        ]
+      }
     }
   ]
 }

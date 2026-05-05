@@ -4,25 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-05T15:30:00+05:00",
-      "stop": "2026-05-05T21:30:00+05:00",
-      "title": "..programmes start at 7.00pm",
-      "language": "en"
-    },
-    {
-      "start": "2026-05-05T21:30:00+05:00",
-      "stop": "2026-05-05T22:58:00+05:00",
-      "title": "..programmes start at 7.00pm",
-      "language": "en"
-    },
-    {
-      "start": "2026-05-05T22:58:00+05:00",
-      "stop": "2026-05-05T23:00:00+05:00",
-      "title": "This is BBC Three",
-      "desc": "Programmes start at 7.00pm.",
-      "language": "en"
-    },
-    {
       "start": "2026-05-05T23:00:00+05:00",
       "stop": "2026-05-05T23:05:00+05:00",
       "title": "The Catch Up",
@@ -57,6 +38,40 @@
         "Children"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/88b0d5c8-ee97-32dd-a6a6-b525752f1d7e/16-9"
+    },
+    {
+      "start": "2026-05-06T00:00:00+05:00",
+      "stop": "2026-05-06T01:00:00+05:00",
+      "title": "Race Across the World",
+      "desc": "The teams discover their next checkpoint lies in Zaamin National Park, Uzbekistan.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Factual"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/bd931802-935a-4641-9cae-efa83db7a411/16-9"
+    },
+    {
+      "start": "2026-05-06T01:00:00+05:00",
+      "stop": "2026-05-06T01:35:00+05:00",
+      "title": "Better Date Than Never",
+      "desc": "Liv hits the beach for her first ever date, while Charles goes sailing. Dianne meets her first match, and Olivia's date makes a bold proposition.",
+      "language": "en",
+      "categories": [
+        "Entertainment"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/13128ab8-8103-4a08-baca-c18df7356733/16-9"
+    },
+    {
+      "start": "2026-05-06T01:35:00+05:00",
+      "stop": "2026-05-06T02:05:00+05:00",
+      "title": "Better Date Than Never",
+      "desc": "Olivia invites her date to meet the family, and Liv shares a passionate moment on the harbour. Charles continues his search for love, and Dianne ends her first date on a high.",
+      "language": "en",
+      "categories": [
+        "Entertainment"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/977d8529-d05c-4ecc-8d56-979736162469/16-9"
     }
   ]
 }

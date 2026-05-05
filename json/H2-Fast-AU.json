@@ -4,16 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-05T21:09:31+05:00",
-      "stop": "2026-05-05T21:17:04+05:00",
-      "title": "History Documentary",
-      "desc": "H2 provides history and science documentaries exploring past events, innovations, and real-world mysteries.",
-      "language": "en",
-      "categories": [
-        "Special Interest"
-      ]
-    },
-    {
       "start": "2026-05-05T21:17:04+05:00",
       "stop": "2026-05-05T22:05:22+05:00",
       "title": "The Engineering That Built The World",
@@ -21,27 +11,37 @@
       "desc": "(PG) A story of building the Panama Canal, one of the most difficult and challenging construction projects in history",
       "language": "en",
       "rating": "PG",
-      "categories": [
-        "History"
-      ],
       "episode": "S01E04"
     },
     {
       "start": "2026-05-05T22:05:22+05:00",
-      "stop": "2026-05-05T23:36:24+05:00",
+      "stop": "2026-05-05T23:36:25+05:00",
       "title": "America'S War On Drugs",
       "sub_title": "Heroin, Terrorists, & Kings of Pain",
-      "desc": "H2 provides history and science documentaries exploring past events, innovations, and real-world mysteries.",
+      "desc": "(MA) After 9/11, heroin lords and terrorists forge an unholy alliance. Afghanistan is a Narco state. El Chapo goes on the run. Big Pharma becomes the new big drug lord.",
       "language": "en",
-      "rating": "PG",
+      "rating": "MA",
       "categories": [
         "History"
       ],
       "episode": "S01E04"
     },
     {
-      "start": "2026-05-05T23:36:24+05:00",
-      "stop": "2026-05-06T00:36:24+05:00",
+      "start": "2026-05-05T23:36:25+05:00",
+      "stop": "2026-05-06T00:22:04+05:00",
+      "title": "The Toys That Built The World",
+      "sub_title": "The Birth of Video Games",
+      "desc": "H2 provides history and science documentaries exploring past events, innovations, and real-world mysteries.",
+      "language": "en",
+      "rating": "MA",
+      "categories": [
+        "History"
+      ],
+      "episode": "S02E02"
+    },
+    {
+      "start": "2026-05-06T00:22:04+05:00",
+      "stop": "2026-05-06T01:22:04+05:00",
       "title": "History Documentary",
       "desc": "H2 provides history and science documentaries exploring past events, innovations, and real-world mysteries.",
       "language": "en",
@@ -50,8 +50,8 @@
       ]
     },
     {
-      "start": "2026-05-06T00:36:24+05:00",
-      "stop": "2026-05-06T01:36:24+05:00",
+      "start": "2026-05-06T01:22:04+05:00",
+      "stop": "2026-05-06T02:22:04+05:00",
       "title": "History Documentary",
       "desc": "H2 provides history and science documentaries exploring past events, innovations, and real-world mysteries.",
       "language": "en",
@@ -60,8 +60,8 @@
       ]
     },
     {
-      "start": "2026-05-06T01:36:24+05:00",
-      "stop": "2026-05-06T02:36:24+05:00",
+      "start": "2026-05-06T02:22:04+05:00",
+      "stop": "2026-05-06T03:22:04+05:00",
       "title": "History Documentary",
       "desc": "H2 provides history and science documentaries exploring past events, innovations, and real-world mysteries.",
       "language": "en",

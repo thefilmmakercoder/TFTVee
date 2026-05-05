@@ -4,30 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-05T19:00:00+05:00",
-      "stop": "2026-05-05T21:00:00+05:00",
-      "title": "Good Day LA at 7am",
-      "desc": "Morning news coverage.",
-      "date": "2012",
-      "language": "en",
-      "categories": [
-        "Talk"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p9542652_b_h8_ac.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-05T21:00:00+05:00",
-      "stop": "2026-05-05T22:00:00+05:00",
-      "title": "Good Day LA at 9am",
-      "desc": "Morning news coverage.",
-      "date": "2012",
-      "language": "en",
-      "categories": [
-        "Talk"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p9542653_b_h8_ac.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-05-05T22:00:00+05:00",
       "stop": "2026-05-05T23:00:00+05:00",
       "title": "Good Day LA at 10am",
@@ -90,6 +66,52 @@
           "Jennifer Hudson",
           "Maluma",
           "Jonathan McReynolds"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-06T02:00:00+05:00",
+      "stop": "2026-05-06T03:00:00+05:00",
+      "title": "25 Words or Less Live",
+      "sub_title": "Fast Thinkers Face-Off: Dulc\u00e9 Sloan vs. Amber Stevens West",
+      "desc": "Amber Stevens West and Dulc\u00e9 Sloan bring bold clues and fast comebacks in this high-energy live battle.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Game show"
+      ],
+      "episode": "E4",
+      "icon": "http://dtil.tmsimg.com/assets/p32903864_st_h10_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Meredith Vieira",
+          "Dulc\u00e9 Sloan",
+          "Amber Stevens West"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-06T03:00:00+05:00",
+      "stop": "2026-05-06T04:00:00+05:00",
+      "title": "Dateline",
+      "sub_title": "The Night Brianna Vanished",
+      "desc": "A college student vanishes from Reno, Nev.; the city would galvanize to get justice for one of its own.",
+      "date": "2018",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "Series",
+        "Newsmagazine",
+        "Documentary"
+      ],
+      "episode": "S1 E93",
+      "icon": "http://dtil.tmsimg.com/assets/p13159645_b_h10_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Natalie Morales",
+          "Craig Melvin"
         ]
       }
     }
