@@ -4,28 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-05T00:00:00+05:00",
-      "stop": "2026-05-05T01:55:00+05:00",
-      "title": "Jazz Fest: A New Orleans Story",
-      "desc": "Live performances and interviews from the 50th anniversary of the iconic New Orleans Jazz and Heritage Festival, an annual event showcasing the heritage of the region and attended by hundreds of thousands every year.",
-      "date": "2022",
-      "language": "en",
-      "rating": "PG-13",
-      "categories": [
-        "Movie",
-        "Documentary",
-        "Music",
-        "Jazz"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p21899654_v_h8_ac.jpg?w=960&h=540",
-      "credits": {
-        "director": [
-          "Frank Marshall",
-          "Ryan Suffern"
-        ]
-      }
-    },
-    {
       "start": "2026-05-05T01:55:00+05:00",
       "stop": "2026-05-05T04:35:00+05:00",
       "title": "He Got Game",
@@ -132,6 +110,30 @@
         "Entertainment"
       ],
       "icon": "http://dtil.tmsimg.com/assets/p8978680_b_h10_ab.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-05T12:00:00+05:00",
+      "stop": "2026-05-05T13:50:00+05:00",
+      "title": "Carmen Jones",
+      "desc": "Screen version of the musical Carmen Jones, which adapted Bizet's opera Carmen for an African-American cast. A soldier falls for Dandridge, a seductive factory worker. The lovers flee after the soldier kills his sergeant, but Carmen's taunting faithlessness drives her lover to a crime of passion.",
+      "date": "1954",
+      "language": "en",
+      "rating": "U",
+      "categories": [
+        "Movie",
+        "Musical"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p3425_v_h11_ab.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Otto Preminger"
+        ],
+        "actor": [
+          "Dorothy Dandridge",
+          "Harry Belafonte",
+          "Pearl Bailey"
+        ]
+      }
     }
   ]
 }

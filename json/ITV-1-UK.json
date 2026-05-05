@@ -4,18 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-05T02:00:00+05:00",
-      "stop": "2026-05-05T02:15:00+05:00",
-      "title": "ITV News at Ten",
-      "desc": "ITV News provides a fresh perspective on the major stories of the day with national and international news with reports and analysis from ITV's Correspondents.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/0587378a-a76c-4b6f-b012-1adfe6986ba5/16-9"
-    },
-    {
       "start": "2026-05-05T02:15:00+05:00",
       "stop": "2026-05-05T04:15:00+05:00",
       "title": "Hellboy II: The Golden Army",
@@ -76,6 +64,19 @@
         "Lifestyles"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/a6a09f20-bb83-427a-9764-eeee9c7991c0/16-9"
+    },
+    {
+      "start": "2026-05-05T09:05:00+05:00",
+      "stop": "2026-05-05T10:00:00+05:00",
+      "title": "Alan Titchmarsh's Gardening Club",
+      "sub_title": "Gardening advice series",
+      "desc": "Alan shares seasonal inspiration from his garden, Henry builds a DIY plant support, and Camilla explores an arts and crafts garden.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Gradening"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/14fe987b-967b-4646-8dbe-ab3f19e3f04a/16-9"
     }
   ]
 }

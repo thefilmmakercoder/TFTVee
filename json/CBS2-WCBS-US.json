@@ -4,52 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-05T03:30:00+05:00",
-      "stop": "2026-05-05T04:00:00+05:00",
-      "title": "CBS Evening News",
-      "desc": "Tony Dokoupil shares the day's most important stories, delivering context and depth to bring greater understanding to one's world.",
-      "date": "2026",
-      "language": "en",
-      "categories": [
-        "Series",
-        "News"
-      ],
-      "episode": "E124",
-      "icon": "http://dtil.tmsimg.com/assets/p28807922_b_h8_ae.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Tony Dokoupil",
-          "Maurice DuBois",
-          "Jericka Duncan"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-05T04:00:00+05:00",
-      "stop": "2026-05-05T04:30:00+05:00",
-      "title": "Inside Edition",
-      "sub_title": "Elizabeth Smart Interview",
-      "desc": "The kidnapping survivor who shocked the nation with her bodybuilder career pivot sits down with Eva Pilgrim.",
-      "date": "2026",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Series",
-        "Newsmagazine",
-        "Public affairs",
-        "Interview"
-      ],
-      "episode": "S38 E171",
-      "icon": "http://dtil.tmsimg.com/assets/p184110_b_h10_aa.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Eva Pilgrim",
-          "Mary Calvi",
-          "Jim Moret"
-        ]
-      }
-    },
-    {
       "start": "2026-05-05T04:30:00+05:00",
       "stop": "2026-05-05T05:00:00+05:00",
       "title": "Entertainment Tonight",
@@ -151,6 +105,45 @@
           "Jeremy Sisto"
         ]
       }
+    },
+    {
+      "start": "2026-05-05T07:00:00+05:00",
+      "stop": "2026-05-05T08:00:00+05:00",
+      "title": "CIA",
+      "sub_title": "Rare Earth",
+      "desc": "When a foreign diplomat is killed after sneaking into the U.S. under unknown circumstances, Colin and Bill discover that a rare mineral with potential to disrupt international relations may be the reason he was targeted.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "Series",
+        "Crime drama"
+      ],
+      "episode": "S1 E10",
+      "icon": "http://dtil.tmsimg.com/assets/p30177490_b_h8_ab.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Jean De Segonzac"
+        ],
+        "actor": [
+          "Tom Ellis",
+          "Nick Gehlfuss",
+          "Necar Zadegan"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-05T08:00:00+05:00",
+      "stop": "2026-05-05T08:35:00+05:00",
+      "title": "CBS News New York 11pm",
+      "desc": "Local news coverage.",
+      "date": "2011",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p8492450_b_h8_ab.jpg?w=960&h=540"
     }
   ]
 }

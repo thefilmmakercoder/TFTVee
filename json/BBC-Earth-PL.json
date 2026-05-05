@@ -4,18 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-05T02:55:00+05:00",
-      "stop": "2026-05-05T03:55:00+05:00",
-      "title": "Jimmy Doherty's New Zealand Escape",
-      "desc": "Jimmy takes a trip to the tropical north to visit New Zealand.His culinary discoveries will not be the only attraction of the program.There will also be a visit to the winery and a show of seasonal specialties.",
-      "date": "2023",
-      "language": "en",
-      "categories": [
-        "Documentary Series"
-      ],
-      "episode": "S1E1"
-    },
-    {
       "start": "2026-05-05T03:55:00+05:00",
       "stop": "2026-05-05T04:55:00+05:00",
       "title": "Treasures Decoded",
@@ -101,6 +89,23 @@
         "Documentary Series"
       ],
       "episode": "S11E5"
+    },
+    {
+      "start": "2026-05-05T08:10:00+05:00",
+      "stop": "2026-05-05T08:30:00+05:00",
+      "title": "David Attenborough's Natural Curiosities",
+      "desc": "The host shows creatures that amaze scientists.It presents interesting facts and explains where myths about certain animals come from.",
+      "date": "2014",
+      "language": "en",
+      "categories": [
+        "Documentary Series"
+      ],
+      "episode": "S1E1",
+      "credits": {
+        "director": [
+          "Hilary Jeffkins"
+        ]
+      }
     }
   ]
 }

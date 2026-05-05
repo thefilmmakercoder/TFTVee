@@ -4,30 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-05T03:30:00+05:00",
-      "stop": "2026-05-05T04:00:00+05:00",
-      "title": "The Newsmakers",
-      "desc": "With in-depth reports and strong, unfiltered debates: The Newsmakers examine the people and the stories that are shaping our lives.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/314c7d9b-36b0-4f86-b63c-10cc94cda85e/16-9"
-    },
-    {
-      "start": "2026-05-05T04:00:00+05:00",
-      "stop": "2026-05-05T04:30:00+05:00",
-      "title": "News",
-      "desc": "TRT World brings the latest news from around the globe, when it happens.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/70b6d748-c35e-4c32-8d58-78c43df2ff33/16-9"
-    },
-    {
       "start": "2026-05-05T04:30:00+05:00",
       "stop": "2026-05-05T05:00:00+05:00",
       "title": "Across the Balkans",
@@ -74,6 +50,30 @@
         "News"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/bef96829-6dcb-42d1-8377-f10e468c6ab3/16-9"
+    },
+    {
+      "start": "2026-05-05T06:15:00+05:00",
+      "stop": "2026-05-05T06:30:00+05:00",
+      "title": "Newsfeed",
+      "desc": "Newsfeed reflects the day's events and opinions, as reported or discussed on social media.",
+      "language": "en",
+      "categories": [
+        "News & Documentary",
+        "News"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/52b6b323-6cdc-48ed-b4f3-3d7740721848/16-9"
+    },
+    {
+      "start": "2026-05-05T06:30:00+05:00",
+      "stop": "2026-05-05T07:00:00+05:00",
+      "title": "Roundtable",
+      "desc": "Ideas are changing our world. See them discussed and dissected, every weekday.",
+      "language": "en",
+      "categories": [
+        "News & Documentary",
+        "News"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/eb9733c0-f574-4908-86b7-899284bffcb6/16-9"
     }
   ]
 }

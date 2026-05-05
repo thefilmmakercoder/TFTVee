@@ -4,25 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-05T03:30:00+05:00",
-      "stop": "2026-05-05T04:00:00+05:00",
-      "title": "NBC Nightly News With Tom Llamas",
-      "desc": "Tom Llamas anchors the latest news, going beyond the headlines to see how lives are affected by the world around them.",
-      "date": "2026",
-      "language": "en",
-      "categories": [
-        "Series",
-        "News"
-      ],
-      "episode": "S2 E115",
-      "icon": "http://dtil.tmsimg.com/assets/p30141511_b_h8_aa.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Tom Llamas"
-        ]
-      }
-    },
-    {
       "start": "2026-05-05T04:00:00+05:00",
       "stop": "2026-05-05T05:00:00+05:00",
       "title": "NBC4 News at 4pm",
@@ -92,6 +73,31 @@
           "Mario Lopez",
           "Kit Hoover",
           "Scott Evans"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-05T10:00:00+05:00",
+      "stop": "2026-05-05T11:00:00+05:00",
+      "title": "Dateline NBC",
+      "sub_title": "The Stranger",
+      "desc": "A woman and her dogs disappear from their home.",
+      "date": "2013",
+      "language": "en",
+      "categories": [
+        "Series",
+        "Newsmagazine",
+        "Mystery",
+        "Crime",
+        "Documentary"
+      ],
+      "episode": "S21 E57",
+      "icon": "http://dtil.tmsimg.com/assets/p184061_b_h8_ab.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Lester Holt",
+          "Keith Morrison",
+          "Josh Mankiewicz"
         ]
       }
     }

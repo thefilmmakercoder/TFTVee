@@ -4,18 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-05T03:10:00+05:00",
-      "stop": "2026-05-05T03:40:00+05:00",
-      "title": "Filipino News",
-      "desc": "TV Patrol is the flagship national newscast of ABS-CBN and is currently the longest-running Filipino language evening newscast.",
-      "language": "en",
-      "rating": "NR",
-      "categories": [
-        "News"
-      ],
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/158474/image/334x188"
-    },
-    {
       "start": "2026-05-05T03:40:00+05:00",
       "stop": "2026-05-05T04:30:00+05:00",
       "title": "French News",
@@ -77,6 +65,19 @@
         "Sports"
       ],
       "icon": "https://www.fetchtv.com.au/v2/epg/program/435224/image/334x188"
+    },
+    {
+      "start": "2026-05-05T07:00:00+05:00",
+      "stop": "2026-05-05T07:30:00+05:00",
+      "title": "Arabic News France 24",
+      "sub_title": "First Edition",
+      "desc": "International news and current affairs from France 24 Arabic, via satellite, in Arabic, no subtitles.",
+      "language": "en",
+      "rating": "NR",
+      "categories": [
+        "Sports"
+      ],
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/413219/image/334x188"
     }
   ]
 }

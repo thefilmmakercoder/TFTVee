@@ -4,41 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-05T03:00:00+05:00",
-      "stop": "2026-05-05T04:00:00+05:00",
-      "title": "The 6 O'Clock News",
-      "desc": "Local, national and international news.",
-      "date": "2021",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p19319065_b_h8_ab.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-05T04:00:00+05:00",
-      "stop": "2026-05-05T04:30:00+05:00",
-      "title": "Extra",
-      "desc": "Inside the entertainment newsgathering process, as reporters coast to coast break headlines, advance the stories of the day, and sit down with celebrities.",
-      "date": "2026",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Series",
-        "Newsmagazine",
-        "Entertainment"
-      ],
-      "episode": "S32 E211",
-      "icon": "http://dtil.tmsimg.com/assets/p30948222_b_h8_aa.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Derek Hough",
-          "Mona Kosar Abdi",
-          "Terri Seymour"
-        ]
-      }
-    },
-    {
       "start": "2026-05-05T04:30:00+05:00",
       "stop": "2026-05-05T05:00:00+05:00",
       "title": "TMZ",
@@ -113,6 +78,35 @@
         "News"
       ],
       "icon": "http://dtil.tmsimg.com/assets/p19319081_b_h8_ab.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-05T08:00:00+05:00",
+      "stop": "2026-05-05T08:30:00+05:00",
+      "title": "Good Night New York",
+      "desc": "Christal Young and Ryan Kristafer's edgy perspective on entertainment and lifestyle news in NYC and beyond.",
+      "date": "2024",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "Newsmagazine"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p27878460_b_h8_aa.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-05T08:30:00+05:00",
+      "stop": "2026-05-05T09:00:00+05:00",
+      "title": "Family Feud Favorites",
+      "desc": "\"Family Feud\" has seen some crazy moments over the years, so buckle up as we revisit these fan favorites.",
+      "date": "2025",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Comedy",
+        "Game show"
+      ],
+      "episode": "S1 E95",
+      "icon": "http://dtil.tmsimg.com/assets/p30947082_b_h10_aa.jpg?w=960&h=540"
     }
   ]
 }

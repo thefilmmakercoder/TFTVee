@@ -4,30 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-05T03:10:00+05:00",
-      "stop": "2026-05-05T03:40:00+05:00",
-      "title": "NHK Newsline",
-      "desc": "English news from Japan's Broadcasting Corporation, NHK, delivering the latest in business, technology, health, environmental and world news.",
-      "language": "en",
-      "rating": "NR",
-      "categories": [
-        "News"
-      ],
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/439062/image/334x188"
-    },
-    {
-      "start": "2026-05-05T03:40:00+05:00",
-      "stop": "2026-05-05T04:30:00+05:00",
-      "title": "CBC The National",
-      "desc": "CBC's flagship nightly news with hosts Adrienne Arsenault and Andrew Chang from Toronto, Canada. Watch on SBS VICELAND at 08:40am everyday, also available on SBS OnDemand.",
-      "language": "en",
-      "rating": "NR",
-      "categories": [
-        "News"
-      ],
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/413666/image/334x188"
-    },
-    {
       "start": "2026-05-05T04:30:00+05:00",
       "stop": "2026-05-05T05:00:00+05:00",
       "title": "BBC News At Six",
@@ -79,6 +55,32 @@
       ],
       "episode": "E76",
       "icon": "https://www.fetchtv.com.au/v2/epg/program/354343/image/334x188"
+    },
+    {
+      "start": "2026-05-05T05:40:00+05:00",
+      "stop": "2026-05-05T06:05:00+05:00",
+      "title": "Jeopardy!",
+      "desc": "Ken Jennings hosts Jeopardy! Where the answers are revealed and the contestants must guess the appropriate questions.",
+      "language": "en",
+      "rating": "G",
+      "categories": [
+        "Special Interest"
+      ],
+      "episode": "S41 E83",
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/129492/image/334x188"
+    },
+    {
+      "start": "2026-05-05T06:05:00+05:00",
+      "stop": "2026-05-05T06:30:00+05:00",
+      "title": "Jeopardy!",
+      "desc": "Ken Jennings hosts Jeopardy! Where the answers are revealed and the contestants must guess the appropriate questions.",
+      "language": "en",
+      "rating": "G",
+      "categories": [
+        "Special Interest"
+      ],
+      "episode": "S41 E84",
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/129492/image/334x188"
     }
   ]
 }

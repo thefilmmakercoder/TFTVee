@@ -4,39 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-05T02:59:00+05:00",
-      "stop": "2026-05-05T04:00:00+05:00",
-      "title": "Live: CTV News Toronto",
-      "desc": "CTV News covers stories that matter to Canadians, locally, nationally and internationally.",
-      "date": "2014",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p11226977_b_h8_ae.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-05T04:00:00+05:00",
-      "stop": "2026-05-05T04:30:00+05:00",
-      "title": "etalk",
-      "desc": "Everything to know about the big Met Gala; the cast of the British drama, \"The Other Bennet Sister.\".",
-      "date": "2026",
-      "language": "en",
-      "categories": [
-        "Series",
-        "Entertainment"
-      ],
-      "episode": "E85",
-      "icon": "http://dtil.tmsimg.com/assets/p191965_b_h8_ah.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Tyrone Edwards",
-          "Lainey Lui",
-          "Traci Melchor"
-        ]
-      }
-    },
-    {
       "start": "2026-05-05T04:30:00+05:00",
       "stop": "2026-05-05T05:00:00+05:00",
       "title": "The Big Bang Theory",
@@ -124,6 +91,44 @@
           "Jay Pharoah"
         ]
       }
+    },
+    {
+      "start": "2026-05-05T07:00:00+05:00",
+      "stop": "2026-05-05T08:00:00+05:00",
+      "title": "The Rookie",
+      "sub_title": "The Bandit",
+      "desc": "The team launches a high-stakes search to take down a notorious criminal; Lucy's leadership is tested; Wesley tests the boundaries of his friendships; Nolan tries to balance duty and family.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "Series",
+        "Crime drama",
+        "Action"
+      ],
+      "episode": "S8 E18",
+      "icon": "http://dtil.tmsimg.com/assets/p15523389_b_h8_bc.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Nathan Fillion",
+          "Mekia Cox",
+          "Alyssa Diaz"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-05T08:00:00+05:00",
+      "stop": "2026-05-05T08:30:00+05:00",
+      "title": "Live: CTV National News With Omar Sachedina",
+      "desc": "CTV News covers stories that matter to Canadians - locally, nationally, & internationally.",
+      "date": "2026",
+      "language": "en",
+      "categories": [
+        "Series",
+        "News"
+      ],
+      "episode": "E73",
+      "icon": "http://dtil.tmsimg.com/assets/p22894284_b_h8_ab.jpg?w=960&h=540"
     }
   ]
 }
