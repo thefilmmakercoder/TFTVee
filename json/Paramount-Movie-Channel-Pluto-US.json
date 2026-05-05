@@ -4,19 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-05T22:45:00+05:00",
-      "stop": "2026-05-06T01:00:00+05:00",
-      "title": "The Addams Family",
-      "desc": "Come join The Addams Family for the most hilarious scarefest of this season or any other! When long-lost Uncle Fester reappears after twenty-five years in the Bermuda Triangle, Gomez and Morticia plan a celebration to wake the dead.",
-      "date": "19911122",
-      "language": "en",
-      "categories": [
-        "Movie",
-        "Comedy"
-      ],
-      "icon": "https://images.pluto.tv/episodes/5c48dc581390b6759598ca20/poster_1770677641202.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694"
-    },
-    {
       "start": "2026-05-06T01:00:00+05:00",
       "stop": "2026-05-06T03:00:00+05:00",
       "title": "Wayne's World",
@@ -24,8 +11,8 @@
       "date": "19920214",
       "language": "en",
       "categories": [
-        "Movie",
-        "Comedy"
+        "Comedy",
+        "Movie"
       ],
       "icon": "https://images.pluto.tv/episodes/66317a38d1a91700139f0ca7/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694"
     },
@@ -37,8 +24,8 @@
       "date": "19930101",
       "language": "en",
       "categories": [
-        "Movie",
-        "Comedy"
+        "Comedy",
+        "Movie"
       ],
       "icon": "https://images.pluto.tv/episodes/5637f06738d1bd272283ffb8/poster_1769798885111.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694"
     },
@@ -50,9 +37,9 @@
       "date": "20120101",
       "language": "en",
       "categories": [
+        "Comedy",
         "Movie",
-        "Screwball",
-        "Comedy"
+        "Screwball"
       ],
       "icon": "https://images.pluto.tv/episodes/5e87985421f372001a2972ec/poster_1777579561973.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694"
     },
@@ -64,9 +51,9 @@
       "date": "20020101",
       "language": "en",
       "categories": [
+        "Comedy",
         "Movie",
-        "Screwball",
-        "Comedy"
+        "Screwball"
       ],
       "icon": "https://images.pluto.tv/episodes/5cc22332251c9fc6e72ddfa8/poster_1770417721184.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694"
     },
@@ -78,11 +65,24 @@
       "date": "20010101",
       "language": "en",
       "categories": [
+        "Comedy",
         "Movie",
-        "Screwball",
-        "Comedy"
+        "Screwball"
       ],
       "icon": "https://images.pluto.tv/episodes/5e741e88725522001446ffe4/poster_1756970985142.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694"
+    },
+    {
+      "start": "2026-05-06T11:15:00+05:00",
+      "stop": "2026-05-06T13:15:00+05:00",
+      "title": "The Perfect Score",
+      "desc": "Scarlett Johansson, Erika Christensen, Chris Evans and Darius Miles lead this coming-of-age tale about six students who break into the testing center and steal the answers to the S.A.T.",
+      "date": "20040101",
+      "language": "en",
+      "categories": [
+        "Thriller",
+        "Movie"
+      ],
+      "icon": "https://images.pluto.tv/episodes/58e527cb066922c2ed5cbd7d/poster_1770741004728.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694"
     }
   ]
 }

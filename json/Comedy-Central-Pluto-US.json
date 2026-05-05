@@ -4,54 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-06T01:30:00+05:00",
-      "stop": "2026-05-06T02:00:00+05:00",
-      "title": "Nathan For You",
-      "sub_title": "Electronics Store",
-      "desc": "Nathan tries to leverage Best Buy's price-matching policy by advertising a deal on TVs that's too good to be true.",
-      "date": "20151015",
-      "language": "en",
-      "categories": [
-        "Variety",
-        "Series",
-        "Comedy"
-      ],
-      "episode": "S03E01",
-      "icon": "https://images.pluto.tv/series/6013a23267e9ba001a83f7d9/tile_1770074640904.jpg?fill=blur&fit=fill&fm=jpg&h=900&q=75&w=900"
-    },
-    {
-      "start": "2026-05-06T02:00:00+05:00",
-      "stop": "2026-05-06T02:30:00+05:00",
-      "title": "Nathan For You",
-      "sub_title": "The Movement",
-      "desc": "Nathan devises a way to provide a moving company with free labor.",
-      "date": "20151029",
-      "language": "en",
-      "categories": [
-        "Variety",
-        "Series",
-        "Comedy"
-      ],
-      "episode": "S03E03",
-      "icon": "https://images.pluto.tv/series/6013a23267e9ba001a83f7d9/tile_1770074640904.jpg?fill=blur&fit=fill&fm=jpg&h=900&q=75&w=900"
-    },
-    {
-      "start": "2026-05-06T02:30:00+05:00",
-      "stop": "2026-05-06T03:00:00+05:00",
-      "title": "Nathan For You",
-      "sub_title": "Sporting Goods Store/Antique Shop",
-      "desc": "Nathan recruits child athletes for endorsement deals and finds a way to put drunk people's clumsiness to good use.",
-      "date": "20151105",
-      "language": "en",
-      "categories": [
-        "Variety",
-        "Series",
-        "Comedy"
-      ],
-      "episode": "S03E04",
-      "icon": "https://images.pluto.tv/series/6013a23267e9ba001a83f7d9/tile_1770074640904.jpg?fill=blur&fit=fill&fm=jpg&h=900&q=75&w=900"
-    },
-    {
       "start": "2026-05-06T03:00:00+05:00",
       "stop": "2026-05-06T03:30:00+05:00",
       "title": "RENO 911!",
@@ -60,9 +12,9 @@
       "date": "20050628",
       "language": "en",
       "categories": [
+        "Comedy",
         "Mockumentaries",
-        "Series",
-        "Comedy"
+        "Series"
       ],
       "episode": "S03E302",
       "icon": "https://images.pluto.tv/series/5cba65f8c4dc5378f1bf614d/tile_1770068161525.jpg?fill=blur&fit=fill&fm=jpg&h=900&q=75&w=900"
@@ -76,9 +28,9 @@
       "date": "20050712",
       "language": "en",
       "categories": [
+        "Comedy",
         "Mockumentaries",
-        "Series",
-        "Comedy"
+        "Series"
       ],
       "episode": "S03E303",
       "icon": "https://images.pluto.tv/series/5cba65f8c4dc5378f1bf614d/tile_1770068161525.jpg?fill=blur&fit=fill&fm=jpg&h=900&q=75&w=900"
@@ -92,12 +44,60 @@
       "date": "20050705",
       "language": "en",
       "categories": [
+        "Comedy",
         "Mockumentaries",
-        "Series",
-        "Comedy"
+        "Series"
       ],
       "episode": "S03E304",
       "icon": "https://images.pluto.tv/series/5cba65f8c4dc5378f1bf614d/tile_1770068161525.jpg?fill=blur&fit=fill&fm=jpg&h=900&q=75&w=900"
+    },
+    {
+      "start": "2026-05-06T04:30:00+05:00",
+      "stop": "2026-05-06T05:00:00+05:00",
+      "title": "RENO 911!",
+      "sub_title": "The Prefect of Wanganui",
+      "desc": "Kimball and Dangle escort the Prefect of Wanganui, Reno's sister city, around town; Junior and Wiegel struggle to stand out at the high school job fair.",
+      "date": "20050719",
+      "language": "en",
+      "categories": [
+        "Comedy",
+        "Mockumentaries",
+        "Series"
+      ],
+      "episode": "S03E305",
+      "icon": "https://images.pluto.tv/series/5cba65f8c4dc5378f1bf614d/tile_1770068161525.jpg?fill=blur&fit=fill&fm=jpg&h=900&q=75&w=900"
+    },
+    {
+      "start": "2026-05-06T05:00:00+05:00",
+      "stop": "2026-05-06T05:30:00+05:00",
+      "title": "South Park",
+      "sub_title": "Cat Orgy",
+      "desc": "While all the adults are gathering at Mr. Mackey's house to watch a meteor shower Shelly Marsh is left babysit Cartman.",
+      "date": "19990714",
+      "language": "en",
+      "categories": [
+        "Comedy",
+        "Late Night Comedies",
+        "Series"
+      ],
+      "episode": "S03E307",
+      "icon": "https://images.pluto.tv/series/5f051a0cd4495f0013a20ff5/tile_1770068161626.jpg?fill=blur&fit=fill&fm=jpg&h=900&q=75&w=900"
+    },
+    {
+      "start": "2026-05-06T05:30:00+05:00",
+      "stop": "2026-05-06T06:00:00+05:00",
+      "title": "South Park",
+      "sub_title": "Jewbilee",
+      "desc": "Kyle invites Kenny to join him and Ike at Jewbilee, a camp for Jewish kids.",
+      "date": "19990728",
+      "language": "en",
+      "categories": [
+        "Comedy",
+        "Late Night Comedies",
+        "Series"
+      ],
+      "episode": "S03E309",
+      "icon": "https://images.pluto.tv/series/5f051a0cd4495f0013a20ff5/tile_1770068161626.jpg?fill=blur&fit=fill&fm=jpg&h=900&q=75&w=900"
     }
   ]
 }

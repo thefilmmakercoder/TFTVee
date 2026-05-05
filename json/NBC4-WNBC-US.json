@@ -4,42 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-06T01:30:00+05:00",
-      "stop": "2026-05-06T02:00:00+05:00",
-      "title": "Live: News 4 NY at 4:30",
-      "desc": "NY news.",
-      "date": "2017",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p14883147_b_h10_ab.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-06T02:00:00+05:00",
-      "stop": "2026-05-06T02:30:00+05:00",
-      "title": "Live: News 4 NY at 5",
-      "desc": "The latest local news, weather and investigative stories impacting your community.",
-      "date": "2011",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p8846204_b_h10_ae.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-06T02:30:00+05:00",
-      "stop": "2026-05-06T03:00:00+05:00",
-      "title": "Live: News 4 NY at 5:30",
-      "desc": "NY news.",
-      "date": "2017",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p14883149_b_h10_ac.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-05-06T03:00:00+05:00",
       "stop": "2026-05-06T03:30:00+05:00",
       "title": "Live: News 4 NY at 6",
@@ -81,6 +45,62 @@
         "News"
       ],
       "icon": "http://dtil.tmsimg.com/assets/p18101773_b_h10_ad.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-06T04:30:00+05:00",
+      "stop": "2026-05-06T05:00:00+05:00",
+      "title": "Access Hollywood",
+      "desc": "Met Gala's biggest red-carpet moments and the style icons who stole the show!",
+      "date": "2026",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Newsmagazine",
+        "Entertainment",
+        "Interview"
+      ],
+      "episode": "S30 E165",
+      "icon": "http://dtil.tmsimg.com/assets/p30926755_b_h8_ab.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Mario Lopez",
+          "Kit Hoover",
+          "Scott Evans"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-06T05:00:00+05:00",
+      "stop": "2026-05-06T05:30:00+05:00",
+      "title": "To Be Announced",
+      "desc": "Programming to be announced.",
+      "date": "2014",
+      "language": "en",
+      "rating": "B",
+      "categories": [
+        "Special",
+        "Entertainment"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p514472_b_h8_ad.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Kinga Michalska"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-06T05:30:00+05:00",
+      "stop": "2026-05-06T08:30:00+05:00",
+      "title": "Live: NBA Basketball",
+      "desc": "The Thunder host the Lakers for a pivotal Game 1 of the Western Conference second-round series. Top-seeded Oklahoma City enters after a first-round sweep, while Los Angeles won its series in six games. The Thunder swept the season series 4-0.",
+      "language": "en",
+      "categories": [
+        "Sports",
+        "Playoff sports",
+        "Basketball"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/GNLZZGG0033D3HG.jpg?w=960&h=540"
     }
   ]
 }

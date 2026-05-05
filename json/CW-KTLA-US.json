@@ -4,18 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-06T01:00:00+05:00",
-      "stop": "2026-05-06T02:00:00+05:00",
-      "title": "KTLA 5 News at 1",
-      "desc": "Stay informed with the latest breaking news and headlines.",
-      "date": "2009",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p3514976_b_h8_ab.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-05-06T02:00:00+05:00",
       "stop": "2026-05-06T03:00:00+05:00",
       "title": "Off the Clock",
@@ -75,6 +63,18 @@
         "News"
       ],
       "icon": "http://dtil.tmsimg.com/assets/p7835554_b_h8_ab.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-06T06:30:00+05:00",
+      "stop": "2026-05-06T07:00:00+05:00",
+      "title": "KTLA 5 News at 6:30",
+      "desc": "Stay informed with the latest breaking news and headlines.",
+      "date": "2009",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p755462_b_h8_ab.jpg?w=960&h=540"
     }
   ]
 }
