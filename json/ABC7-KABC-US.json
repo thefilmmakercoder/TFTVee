@@ -4,31 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-05T22:00:00+05:00",
-      "stop": "2026-05-05T23:00:00+05:00",
-      "title": "The View",
-      "desc": "Actress Sally Field; actress Jamie Lynn Sigler.",
-      "date": "2026",
-      "language": "en",
-      "rating": "TV14",
-      "categories": [
-        "Series",
-        "Talk"
-      ],
-      "episode": "S29 E154",
-      "icon": "http://dtil.tmsimg.com/assets/p31138947_b_h8_aa.jpg?w=960&h=540",
-      "credits": {
-        "director": [
-          "Sarah de la O"
-        ],
-        "actor": [
-          "Whoopi Goldberg",
-          "Joy Behar",
-          "Sunny Hostin"
-        ]
-      }
-    },
-    {
       "start": "2026-05-05T23:00:00+05:00",
       "stop": "2026-05-06T00:00:00+05:00",
       "title": "Eyewitness News 11AM",
@@ -123,6 +98,25 @@
         "News"
       ],
       "icon": "http://dtil.tmsimg.com/assets/p676931_b_h8_aa.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-06T03:30:00+05:00",
+      "stop": "2026-05-06T04:00:00+05:00",
+      "title": "ABC World News Tonight With David Muir",
+      "desc": "Delivering the news that matters most.",
+      "date": "2026",
+      "language": "en",
+      "categories": [
+        "Series",
+        "News"
+      ],
+      "episode": "E125",
+      "icon": "http://dtil.tmsimg.com/assets/p10880351_b_h8_ah.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "David Muir"
+        ]
+      }
     }
   ]
 }

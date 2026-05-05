@@ -4,30 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-05T22:00:00+05:00",
-      "stop": "2026-05-05T23:00:00+05:00",
-      "title": "GMA3",
-      "desc": "Comics Anthony Anderson and Cedric The Entertainer; author Caro Claire Burke; Deals & Steals with Tory Johnson; GMA Health Alert with Dr. Darien Sutton.",
-      "date": "2026",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Series",
-        "News",
-        "Talk",
-        "Health"
-      ],
-      "episode": "S6 E160",
-      "icon": "http://dtil.tmsimg.com/assets/p30687311_b_h8_aa.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Anthony Anderson",
-          "Cedric The Entertainer",
-          "Caro Claire Burke"
-        ]
-      }
-    },
-    {
       "start": "2026-05-05T23:00:00+05:00",
       "stop": "2026-05-06T00:00:00+05:00",
       "title": "Tamron Hall",
@@ -110,6 +86,25 @@
         "News"
       ],
       "icon": "http://dtil.tmsimg.com/assets/p13769035_b_h8_ab.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-06T03:30:00+05:00",
+      "stop": "2026-05-06T04:00:00+05:00",
+      "title": "ABC World News Tonight With David Muir",
+      "desc": "Delivering the news that matters most.",
+      "date": "2026",
+      "language": "en",
+      "categories": [
+        "Series",
+        "News"
+      ],
+      "episode": "E125",
+      "icon": "http://dtil.tmsimg.com/assets/p10880351_b_h8_ah.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "David Muir"
+        ]
+      }
     }
   ]
 }

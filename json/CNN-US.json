@@ -4,26 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-05T22:00:00+05:00",
-      "stop": "2026-05-05T23:00:00+05:00",
-      "title": "Live: CNN News Central",
-      "desc": "News from around the world with Brianna Keilar and Boris Sanchez.",
-      "date": "2026",
-      "language": "en",
-      "categories": [
-        "Series",
-        "News"
-      ],
-      "episode": "E265",
-      "icon": "http://dtil.tmsimg.com/assets/p24581847_b_h8_ac.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Brianna Keilar",
-          "Boris Sanchez"
-        ]
-      }
-    },
-    {
       "start": "2026-05-05T23:00:00+05:00",
       "stop": "2026-05-06T00:00:00+05:00",
       "title": "Live: CNN News Central",
@@ -122,6 +102,27 @@
           "Jake Tapper",
           "Kaitlan Collins",
           "David Urban"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-06T04:00:00+05:00",
+      "stop": "2026-05-06T05:00:00+05:00",
+      "title": "Live: Erin Burnett OutFront",
+      "desc": "Erin Burnett stays ahead of the headlines, delivering a show that's in-depth and informative with compelling interviews, lively debates and analysis of situations.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "News",
+        "Politics"
+      ],
+      "episode": "E112",
+      "icon": "http://dtil.tmsimg.com/assets/p8855245_b_h10_ab.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Erin Burnett"
         ]
       }
     }

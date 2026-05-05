@@ -4,18 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-05T22:00:00+05:00",
-      "stop": "2026-05-05T23:00:00+05:00",
-      "title": "Good Day LA at 10am",
-      "desc": "Morning news coverage.",
-      "date": "2022",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p22751421_b_h8_ab.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-05-05T23:00:00+05:00",
       "stop": "2026-05-06T00:00:00+05:00",
       "title": "GDLA+",
@@ -112,6 +100,27 @@
         "actor": [
           "Natalie Morales",
           "Craig Melvin"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-06T04:00:00+05:00",
+      "stop": "2026-05-06T05:00:00+05:00",
+      "title": "TMZ Live",
+      "desc": "A candid look at how the gossip site operates, bringing viewers into the site's newsroom, where the daily chats take place; viewers present their opinions on the featured topics through social media, phone calls and video chat.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Newsmagazine",
+        "Entertainment"
+      ],
+      "episode": "S14 E177",
+      "icon": "http://dtil.tmsimg.com/assets/p9132568_b_h10_ab.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Harvey Levin"
         ]
       }
     }

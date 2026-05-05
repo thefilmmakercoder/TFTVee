@@ -4,19 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-05T20:55:00+05:00",
-      "stop": "2026-05-05T21:00:00+05:00",
-      "title": "NITV News Update",
-      "desc": "NITV News recaptures the highlights of Indigenous news around the country.",
-      "language": "en",
-      "rating": "NR",
-      "categories": [
-        "Sports"
-      ],
-      "episode": "E77",
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/5904078/image/334x188"
-    },
-    {
       "start": "2026-05-05T21:00:00+05:00",
       "stop": "2026-05-06T00:00:00+05:00",
       "title": "NHK World English News",
@@ -80,6 +67,19 @@
       ],
       "episode": "E4012026",
       "icon": "https://www.fetchtv.com.au/v2/epg/program/426449/image/334x188"
+    },
+    {
+      "start": "2026-05-06T02:50:00+05:00",
+      "stop": "2026-05-06T03:00:00+05:00",
+      "title": "France 24 Feature",
+      "sub_title": "First Edition",
+      "desc": "News feature in English from France 24, Paris.",
+      "language": "en",
+      "rating": "NR",
+      "categories": [
+        "Sports"
+      ],
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/337182/image/334x188"
     }
   ]
 }

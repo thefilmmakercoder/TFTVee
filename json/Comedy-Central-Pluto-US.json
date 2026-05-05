@@ -4,51 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-05T22:30:00+05:00",
-      "stop": "2026-05-05T23:00:00+05:00",
-      "title": "Beavis and Butt-Head",
-      "sub_title": "The Mike Judge Collection 103",
-      "desc": "Episode 3 includes Blackout!, Rabies Scare, 1-900-BEAVIS, and Madame Blavatsky, handpicked by Mike Judge himself.",
-      "date": "19940411",
-      "language": "en",
-      "categories": [
-        "Comedy",
-        "Series"
-      ],
-      "episode": "S01E103",
-      "icon": "https://images.pluto.tv/series/5cc35a2f07ebeec9f639bf69/tile_1771528681179.jpg?fill=blur&fit=fill&fm=jpg&h=900&q=75&w=900"
-    },
-    {
-      "start": "2026-05-05T23:00:00+05:00",
-      "stop": "2026-05-05T23:30:00+05:00",
-      "title": "Beavis and Butt-Head",
-      "sub_title": "The Mike Judge Collection 104",
-      "desc": "Episode 4 includes Late Night with Butt-Head, Pool Toys, The Final Judgement of Beavis, Right On, and Date Bait, handpicked by Mike Judge himself.",
-      "date": "19940414",
-      "language": "en",
-      "categories": [
-        "Comedy",
-        "Series"
-      ],
-      "episode": "S01E104",
-      "icon": "https://images.pluto.tv/series/5cc35a2f07ebeec9f639bf69/tile_1771528681179.jpg?fill=blur&fit=fill&fm=jpg&h=900&q=75&w=900"
-    },
-    {
-      "start": "2026-05-05T23:30:00+05:00",
-      "stop": "2026-05-06T00:00:00+05:00",
-      "title": "Beavis and Butt-Head",
-      "sub_title": "The Mike Judge Collection 105",
-      "desc": "Episode 5 includes Butt Is It Art?, Figure Drawing, Mr. Anderson's Balls, Teen Talk, and Manners Suck, handpicked by Mike Judge himself.",
-      "date": "19940509",
-      "language": "en",
-      "categories": [
-        "Comedy",
-        "Series"
-      ],
-      "episode": "S01E105",
-      "icon": "https://images.pluto.tv/series/5cc35a2f07ebeec9f639bf69/tile_1771528681179.jpg?fill=blur&fit=fill&fm=jpg&h=900&q=75&w=900"
-    },
-    {
       "start": "2026-05-06T00:00:00+05:00",
       "stop": "2026-05-06T00:30:00+05:00",
       "title": "Beavis and Butt-Head",
@@ -57,8 +12,8 @@
       "date": "19940521",
       "language": "en",
       "categories": [
-        "Comedy",
-        "Series"
+        "Series",
+        "Comedy"
       ],
       "episode": "S01E106",
       "icon": "https://images.pluto.tv/series/5cc35a2f07ebeec9f639bf69/tile_1771528681179.jpg?fill=blur&fit=fill&fm=jpg&h=900&q=75&w=900"
@@ -72,8 +27,8 @@
       "date": "19940713",
       "language": "en",
       "categories": [
-        "Comedy",
-        "Series"
+        "Series",
+        "Comedy"
       ],
       "episode": "S01E107",
       "icon": "https://images.pluto.tv/series/5cc35a2f07ebeec9f639bf69/tile_1771528681179.jpg?fill=blur&fit=fill&fm=jpg&h=900&q=75&w=900"
@@ -87,11 +42,59 @@
       "date": "20140819",
       "language": "en",
       "categories": [
-        "Comedy",
         "Variety",
-        "Series"
+        "Series",
+        "Comedy"
       ],
       "episode": "S02E08",
+      "icon": "https://images.pluto.tv/series/6013a23267e9ba001a83f7d9/tile_1770074640904.jpg?fill=blur&fit=fill&fm=jpg&h=900&q=75&w=900"
+    },
+    {
+      "start": "2026-05-06T01:30:00+05:00",
+      "stop": "2026-05-06T02:00:00+05:00",
+      "title": "Nathan For You",
+      "sub_title": "Electronics Store",
+      "desc": "Nathan tries to leverage Best Buy's price-matching policy by advertising a deal on TVs that's too good to be true.",
+      "date": "20151015",
+      "language": "en",
+      "categories": [
+        "Variety",
+        "Series",
+        "Comedy"
+      ],
+      "episode": "S03E01",
+      "icon": "https://images.pluto.tv/series/6013a23267e9ba001a83f7d9/tile_1770074640904.jpg?fill=blur&fit=fill&fm=jpg&h=900&q=75&w=900"
+    },
+    {
+      "start": "2026-05-06T02:00:00+05:00",
+      "stop": "2026-05-06T02:30:00+05:00",
+      "title": "Nathan For You",
+      "sub_title": "The Movement",
+      "desc": "Nathan devises a way to provide a moving company with free labor.",
+      "date": "20151029",
+      "language": "en",
+      "categories": [
+        "Variety",
+        "Series",
+        "Comedy"
+      ],
+      "episode": "S03E03",
+      "icon": "https://images.pluto.tv/series/6013a23267e9ba001a83f7d9/tile_1770074640904.jpg?fill=blur&fit=fill&fm=jpg&h=900&q=75&w=900"
+    },
+    {
+      "start": "2026-05-06T02:30:00+05:00",
+      "stop": "2026-05-06T03:00:00+05:00",
+      "title": "Nathan For You",
+      "sub_title": "Sporting Goods Store/Antique Shop",
+      "desc": "Nathan recruits child athletes for endorsement deals and finds a way to put drunk people's clumsiness to good use.",
+      "date": "20151105",
+      "language": "en",
+      "categories": [
+        "Variety",
+        "Series",
+        "Comedy"
+      ],
+      "episode": "S03E04",
       "icon": "https://images.pluto.tv/series/6013a23267e9ba001a83f7d9/tile_1770074640904.jpg?fill=blur&fit=fill&fm=jpg&h=900&q=75&w=900"
     }
   ]
