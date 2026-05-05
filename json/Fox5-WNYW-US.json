@@ -4,31 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-05T13:00:00+05:00",
-      "stop": "2026-05-05T13:30:00+05:00",
-      "title": "Good Night New York",
-      "desc": "Christal Young and Ryan Kristafer's edgy perspective on entertainment and lifestyle news in NYC and beyond.",
-      "date": "2024",
-      "language": "en",
-      "rating": "TV14",
-      "categories": [
-        "Newsmagazine"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p27878460_b_h8_aa.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-05T13:30:00+05:00",
-      "stop": "2026-05-05T14:00:00+05:00",
-      "title": "Good Day Wake Up",
-      "desc": "Morning news coverage.",
-      "date": "2009",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p706488_b_h8_ab.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-05-05T14:00:00+05:00",
       "stop": "2026-05-05T15:00:00+05:00",
       "title": "Good Day Wake Up",
@@ -75,6 +50,49 @@
         "News"
       ],
       "icon": "http://dtil.tmsimg.com/assets/p706448_b_h8_ab.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-05T19:00:00+05:00",
+      "stop": "2026-05-05T20:00:00+05:00",
+      "title": "Sherri",
+      "desc": "Actress, comic and Emmy Award-winning longtime co-host of \"The View\" Sherri Shepherd appears before a live audience with a daily dose of pop culture, comedy, conversations and daytime talk staples, including celebrity and human-interest interviews.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Talk",
+        "Interview"
+      ],
+      "episode": "S4 E126",
+      "icon": "http://dtil.tmsimg.com/assets/p21805765_b_h8_ab.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Sherri Shepherd"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-05T20:00:00+05:00",
+      "stop": "2026-05-05T21:00:00+05:00",
+      "title": "The Jennifer Hudson Show",
+      "desc": "Latin superstar Maluma stops by to chat about his latest singles \"1+1\" and \"Con El Coraz\u00f3n\"; Grammy-winning artist Jonathan McReynolds visits to chat about his album \"Closer\" and perform his song \"Still.\".",
+      "date": "2026",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Talk"
+      ],
+      "episode": "S4 E131",
+      "icon": "http://dtil.tmsimg.com/assets/p31041660_b_h8_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Jennifer Hudson",
+          "Maluma",
+          "Jonathan McReynolds"
+        ]
+      }
     }
   ]
 }

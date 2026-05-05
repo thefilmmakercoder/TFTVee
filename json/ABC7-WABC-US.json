@@ -4,24 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-05T13:00:00+05:00",
-      "stop": "2026-05-05T13:30:00+05:00",
-      "title": "Good Morning America First Look",
-      "desc": "ABC's \"Good Morning America First Look\" brings one overnight breaking news, weather, politics, and the stories and video people will be talking about in the day ahead.",
-      "date": "2024",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p28311369_b_h8_ac.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Sophie Flay",
-          "Hanna Battah"
-        ]
-      }
-    },
-    {
       "start": "2026-05-05T13:30:00+05:00",
       "stop": "2026-05-05T15:00:00+05:00",
       "title": "Eyewitness News This Morning",
@@ -102,6 +84,31 @@
         "News"
       ],
       "icon": "http://dtil.tmsimg.com/assets/p25568169_b_h8_aa.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-05T20:00:00+05:00",
+      "stop": "2026-05-05T21:00:00+05:00",
+      "title": "The View",
+      "desc": "Actress Sally Field; actress Jamie Lynn Sigler.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "Series",
+        "Talk"
+      ],
+      "episode": "S29 E154",
+      "icon": "http://dtil.tmsimg.com/assets/p31138947_b_h8_aa.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Sarah de la O"
+        ],
+        "actor": [
+          "Whoopi Goldberg",
+          "Joy Behar",
+          "Sunny Hostin"
+        ]
+      }
     }
   ]
 }

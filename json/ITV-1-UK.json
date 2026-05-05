@@ -4,18 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-05T10:00:00+05:00",
-      "stop": "2026-05-05T13:30:00+05:00",
-      "title": "Good Morning Britain",
-      "desc": "News, current affairs and lively debate.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/24c8b7f2-9d99-447a-a191-f86c34dcbd2e/16-9"
-    },
-    {
       "start": "2026-05-05T13:30:00+05:00",
       "stop": "2026-05-05T14:00:00+05:00",
       "title": "Lorraine",
@@ -74,6 +62,18 @@
         "News"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/fd792ff1-26a4-4cde-8f83-ab07c478ca56/16-9"
+    },
+    {
+      "start": "2026-05-05T18:00:00+05:00",
+      "stop": "2026-05-05T19:00:00+05:00",
+      "title": "Dickinson's Real Deal",
+      "desc": "There's a right carry-on in Hartlepool this time. James is left red faced trying to buy some saucy film posters, Karen enjoys a serenade and the Duke stitches Hoggy up.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Antiques"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/7ff18838-c427-35fc-b3a6-d6f72ccee190/16-9"
     }
   ]
 }

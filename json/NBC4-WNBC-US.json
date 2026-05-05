@@ -4,31 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-05T13:00:00+05:00",
-      "stop": "2026-05-05T13:30:00+05:00",
-      "title": "Early Today",
-      "desc": "This early-morning news covers overnight events, breaking domestic and international news as well as a preview of the day's anticipated events. The program also presents regular reports from the worlds of business, entertainment and sports.",
-      "date": "1999",
-      "language": "en",
-      "rating": "TVG",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p185301_b_h8_ag.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-05T13:30:00+05:00",
-      "stop": "2026-05-05T14:00:00+05:00",
-      "title": "Today in New York",
-      "desc": "The local news, weather and investigative stories impacting your community.",
-      "date": "2000",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p960598_b_h10_ac.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-05-05T14:00:00+05:00",
       "stop": "2026-05-05T15:00:00+05:00",
       "title": "Today in New York",
@@ -97,6 +72,41 @@
           "Dylan Dreyer"
         ]
       }
+    },
+    {
+      "start": "2026-05-05T19:00:00+05:00",
+      "stop": "2026-05-05T20:00:00+05:00",
+      "title": "Today With Jenna & Sheinelle",
+      "desc": "Met Gala fashion with June Ambrose, Jenna Lyons and Zanna Roberts Rassi; author Jill Kargman; food hacks with Lora McLaughlin Peterson; writer Carley Fortune; Cinco de Mayo cocktails with Katie Stilo.",
+      "date": "2026",
+      "language": "en",
+      "categories": [
+        "Series",
+        "Talk",
+        "Newsmagazine",
+        "Entertainment"
+      ],
+      "episode": "S1 E81",
+      "icon": "http://dtil.tmsimg.com/assets/p31933424_b_h8_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Jenna Bush-Hager",
+          "Sheinelle Jones",
+          "June Ambrose"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-05T20:00:00+05:00",
+      "stop": "2026-05-05T20:30:00+05:00",
+      "title": "Live: News 4 NY at 11AM",
+      "desc": "The latest local news, weather and investigative stories impacting your community.",
+      "date": "2014",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p10513203_b_h10_ae.jpg?w=960&h=540"
     }
   ]
 }

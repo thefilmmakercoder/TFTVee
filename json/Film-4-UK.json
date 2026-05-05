@@ -4,17 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-05T07:40:00+05:00",
-      "stop": "2026-05-05T11:00:00+05:00",
-      "title": "Teleshopping",
-      "desc": "Teleshopping.",
-      "language": "en",
-      "categories": [
-        "Specialist",
-        "Shopping"
-      ]
-    },
-    {
       "start": "2026-05-05T11:00:00+05:00",
       "stop": "2026-05-05T15:00:00+05:00",
       "title": "Teleshopping",
@@ -80,6 +69,20 @@
         "Western"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/fdd31bb8-ccfb-449a-9d5c-158d5456b04c/16-9"
+    },
+    {
+      "start": "2026-05-05T22:45:00+05:00",
+      "stop": "2026-05-06T01:00:00+05:00",
+      "title": "The Monuments Men",
+      "desc": "George Clooney's fact-based World War II comedy-drama starring Matt Damon. Art experts form a unit to stop the Nazis stealing or destroying important cultural artefacts.",
+      "date": "2014",
+      "language": "en",
+      "rating": "PG",
+      "categories": [
+        "Movie",
+        "War"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/df469b72-f345-45e2-ac4e-584e0b292384/16-9"
     }
   ]
 }

@@ -4,42 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-05T11:48:00+05:00",
-      "stop": "2026-05-05T12:00:00+05:00",
-      "title": "FXM Presents",
-      "desc": "An examination of the process of making movies follows a production from script to screen.",
-      "date": "2012",
-      "language": "en",
-      "categories": [
-        "Entertainment"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p8978680_b_h10_ab.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-05T12:00:00+05:00",
-      "stop": "2026-05-05T13:50:00+05:00",
-      "title": "Carmen Jones",
-      "desc": "Screen version of the musical Carmen Jones, which adapted Bizet's opera Carmen for an African-American cast. A soldier falls for Dandridge, a seductive factory worker. The lovers flee after the soldier kills his sergeant, but Carmen's taunting faithlessness drives her lover to a crime of passion.",
-      "date": "1954",
-      "language": "en",
-      "rating": "U",
-      "categories": [
-        "Movie",
-        "Musical"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p3425_v_h11_ab.jpg?w=960&h=540",
-      "credits": {
-        "director": [
-          "Otto Preminger"
-        ],
-        "actor": [
-          "Dorothy Dandridge",
-          "Harry Belafonte",
-          "Pearl Bailey"
-        ]
-      }
-    },
-    {
       "start": "2026-05-05T13:50:00+05:00",
       "stop": "2026-05-05T15:00:00+05:00",
       "title": "Surf Party",
@@ -134,6 +98,55 @@
           "Frank Sinatra",
           "Lee Remick",
           "Jacqueline Bisset"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-05T20:30:00+05:00",
+      "stop": "2026-05-05T22:15:00+05:00",
+      "title": "The French Connection",
+      "desc": "New York Detective Popeye Doyle (Gene Hackman) and his partner (Roy Scheider) chase a French heroin smuggler.",
+      "date": "1971",
+      "language": "en",
+      "rating": "R",
+      "categories": [
+        "Movie",
+        "Crime drama",
+        "Thriller"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p912_v_h8_ak.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "William Friedkin"
+        ],
+        "actor": [
+          "Gene Hackman",
+          "Fernando Rey",
+          "Roy Scheider"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-05T22:15:00+05:00",
+      "stop": "2026-05-06T00:00:00+05:00",
+      "title": "Eyewitness",
+      "desc": "New York City custodian Daryll Deever (William Hurt) is a big fan of local news reporter Tony Sokolow (Sigourney Weaver), so he is intrigued when she shows up to cover a story at his workplace. There's been a murder in the office building, and Tony suspects that Daryll may have insight into the crime, a notion that he furthers to stay close to her. However, when those behind the killing begin to think that Daryll really knows something, they target both him and Tony to keep their secrets hidden.",
+      "date": "1981",
+      "language": "en",
+      "rating": "R",
+      "categories": [
+        "Movie",
+        "Thriller"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p2_v_h10_aa.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Peter Yates"
+        ],
+        "actor": [
+          "William Hurt",
+          "Sigourney Weaver",
+          "Christopher Plummer"
         ]
       }
     }

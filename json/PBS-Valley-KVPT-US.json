@@ -4,18 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-05T13:00:00+05:00",
-      "stop": "2026-05-05T13:30:00+05:00",
-      "title": "BBC News",
-      "desc": "Twenty-four hours a day, the latest national and international stories as they break.",
-      "date": "2008",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p8133775_b_h10_ab.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-05-05T13:30:00+05:00",
       "stop": "2026-05-05T14:00:00+05:00",
       "title": "NHK Newsline",
@@ -102,6 +90,31 @@
           "Martin Kratt",
           "Chris Kratt",
           "Athena Karkanis"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-05T18:00:00+05:00",
+      "stop": "2026-05-05T18:30:00+05:00",
+      "title": "Arthur",
+      "sub_title": "Arthur Writes a Story; Arthur's Lost Dog",
+      "desc": "Arthur spices up an autobiographical story with fantastic tales; Arthur's dog, Pal, gets lost at a street fair.",
+      "date": "1996",
+      "language": "en",
+      "rating": "TVY",
+      "categories": [
+        "Series",
+        "Animated",
+        "Children",
+        "Educational"
+      ],
+      "episode": "S1 E12",
+      "icon": "http://dtil.tmsimg.com/assets/p8640466_b_h10_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Cameron Ansell",
+          "Robert Naylor",
+          "Bruce Dinsmore"
         ]
       }
     }
