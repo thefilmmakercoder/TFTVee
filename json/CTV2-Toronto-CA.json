@@ -4,32 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-05T15:00:00+05:00",
-      "stop": "2026-05-05T15:40:00+05:00",
-      "title": "CTV News Barrie",
-      "desc": "CTV News covers stories that matter to Canadians - locally, nationally, & internationally.",
-      "date": "2014",
-      "language": "en",
-      "rating": "TV14",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p11226354_b_h8_ad.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-05T15:40:00+05:00",
-      "stop": "2026-05-05T16:20:00+05:00",
-      "title": "CTV News Barrie",
-      "desc": "CTV News covers stories that matter to Canadians - locally, nationally, & internationally.",
-      "date": "2014",
-      "language": "en",
-      "rating": "TV14",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p11226354_b_h8_ad.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-05-05T16:20:00+05:00",
       "stop": "2026-05-05T17:00:00+05:00",
       "title": "CTV News Barrie",
@@ -123,6 +97,43 @@
           "Ken James",
           "James Kidnie",
           "Kathleen Laskey"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-05T18:30:00+05:00",
+      "stop": "2026-05-05T19:00:00+05:00",
+      "title": "Paid Programming",
+      "desc": "Paid programming.",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Consumer",
+        "Shopping",
+        "Variety"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-05T19:00:00+05:00",
+      "stop": "2026-05-05T19:30:00+05:00",
+      "title": "Corner Gas",
+      "sub_title": "Get the F off My Lawn",
+      "desc": "As a windstorm creates havoc, Lacey's sign on her rooftop begins to lose all the letters one by one.",
+      "date": "2009",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Sitcom"
+      ],
+      "episode": "S6 E18",
+      "icon": "http://dtil.tmsimg.com/assets/p8495876_b_h10_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Brent Butt",
+          "Eric Peterson",
+          "Janet Wright"
         ]
       }
     }

@@ -4,17 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-05T11:00:00+05:00",
-      "stop": "2026-05-05T15:00:00+05:00",
-      "title": "Teleshopping",
-      "desc": "Teleshopping.",
-      "language": "en",
-      "categories": [
-        "Specialist",
-        "Shopping"
-      ]
-    },
-    {
       "start": "2026-05-05T15:00:00+05:00",
       "stop": "2026-05-05T16:55:00+05:00",
       "title": "Broken Lance",
@@ -83,6 +72,20 @@
         "War"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/df469b72-f345-45e2-ac4e-584e0b292384/16-9"
+    },
+    {
+      "start": "2026-05-06T01:00:00+05:00",
+      "stop": "2026-05-06T03:50:00+05:00",
+      "title": "Kingsman: The Golden Circle",
+      "desc": "Taron Egerton returns as the newest recruit to the stylish secret agency Kingsman for more ass-kicking comedy action. A star-studded cast includes Julianne Moore and Elton John.",
+      "date": "2017",
+      "language": "en",
+      "rating": "15",
+      "categories": [
+        "Movie",
+        "Action"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/f5628a33-f9f6-46e6-8229-1eff0c31f180/16-9"
     }
   ]
 }

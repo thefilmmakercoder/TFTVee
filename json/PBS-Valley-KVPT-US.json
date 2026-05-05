@@ -4,30 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-05T13:30:00+05:00",
-      "stop": "2026-05-05T14:00:00+05:00",
-      "title": "NHK Newsline",
-      "desc": "This daily news program, produced by Japanese public broadcaster NHK, focuses on headlines and current events in Japan and other Asian countries. English-speaking presenters also cover other areas of interest, including business news, science and technology trends, sports highlights, and global weather forecasts.",
-      "date": "2009",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p269690_b_h11_ad.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-05T14:00:00+05:00",
-      "stop": "2026-05-05T16:00:00+05:00",
-      "title": "Valley PBS Favorites",
-      "date": "2024",
-      "language": "en",
-      "categories": [
-        "Special",
-        "Variety"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p28116494_st_h10_aa.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-05-05T16:00:00+05:00",
       "stop": "2026-05-05T17:00:00+05:00",
       "title": "Valley PBS Favorites",
@@ -117,6 +93,28 @@
           "Bruce Dinsmore"
         ]
       }
+    },
+    {
+      "start": "2026-05-05T18:30:00+05:00",
+      "stop": "2026-05-05T19:00:00+05:00",
+      "title": "KVPT Reading Explorers",
+      "date": "2021",
+      "language": "en",
+      "categories": [
+        "Educational"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p20048411_st_h10_aa.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-05T19:00:00+05:00",
+      "stop": "2026-05-05T19:30:00+05:00",
+      "title": "KVPT Reading Explorers",
+      "date": "2021",
+      "language": "en",
+      "categories": [
+        "Educational"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p20048411_st_h10_aa.jpg?w=960&h=540"
     }
   ]
 }

@@ -4,46 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-05T15:00:00+05:00",
-      "stop": "2026-05-05T15:30:00+05:00",
-      "title": "Paid Programming",
-      "desc": "Paid programming.",
-      "language": "en",
-      "rating": "TVG",
-      "categories": [
-        "Consumer",
-        "Shopping",
-        "Variety"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-05T15:30:00+05:00",
-      "stop": "2026-05-05T16:00:00+05:00",
-      "title": "2026 Silver Eagle is here & it is a once-in-a-lifetime coin!",
-      "desc": "Join your hosts Kevin Cash & Cory Cady as we discuss the 250th Anniversary of America with the official \"America 250\" logo on a Silver American Eagle label; we are locking in orders for this iconic release, but coins are limited! Don't miss out!",
-      "language": "en",
-      "categories": [
-        "Consumer"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p32414007_st_h10_ac.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-05T16:00:00+05:00",
-      "stop": "2026-05-05T16:30:00+05:00",
-      "title": "Inogen Portable Oxygen - No More Tanks!",
-      "desc": "Regain independence and enjoy greater mobility with the compact design and long-lasting battery of portable oxygen.",
-      "language": "en",
-      "categories": [
-        "Health",
-        "Consumer",
-        "Science",
-        "Medical",
-        "Technology"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p17108681_b_h11_ab.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-05-05T16:30:00+05:00",
       "stop": "2026-05-05T17:00:00+05:00",
       "title": "NEW! Shark PowerDetect with DuoClean Detect Technology",
@@ -75,6 +35,72 @@
         "Consumer"
       ],
       "icon": "http://dtil.tmsimg.com/assets/p20254756_b_h8_aa.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-05T18:00:00+05:00",
+      "stop": "2026-05-05T19:00:00+05:00",
+      "title": "X-Ray Earth",
+      "sub_title": "Atlantic Coast Killer",
+      "desc": "X-Raying the Earth reveals an Atlantic island that could collapse in a mega-landslide, sending a killer tsunami headed straight for the U.S. East Coast.",
+      "date": "2020",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Documentary"
+      ],
+      "episode": "S1 E2",
+      "icon": "http://dtil.tmsimg.com/assets/p18073945_b_h10_af.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Drew Jones",
+          "Kevin Mohs"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-05T19:00:00+05:00",
+      "stop": "2026-05-05T20:00:00+05:00",
+      "title": "X-Ray Earth",
+      "sub_title": "Volcano Apocalypse",
+      "desc": "X-raying the Earth reveals the largest volcano on the planet lies beneath Yellowstone National Park, and it could plunge the Earth into a volcanic winter.",
+      "date": "2020",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Documentary"
+      ],
+      "episode": "S1 E3",
+      "icon": "http://dtil.tmsimg.com/assets/p18073945_b_h10_af.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Drew Jones",
+          "Kevin Mohs"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-05T20:00:00+05:00",
+      "stop": "2026-05-05T21:00:00+05:00",
+      "title": "X-Ray Earth",
+      "sub_title": "Seattle Mega Quake",
+      "desc": "Scientists examine a large fault line off the coast of the Pacific Northwest and the possible devastation that could result from a megaquake and tsunami.",
+      "date": "2020",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Documentary"
+      ],
+      "episode": "S1 E1",
+      "icon": "http://dtil.tmsimg.com/assets/p18073945_b_h10_af.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Drew Jones",
+          "Kevin Mohs"
+        ]
+      }
     }
   ]
 }

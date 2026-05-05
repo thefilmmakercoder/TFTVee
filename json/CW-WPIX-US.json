@@ -4,18 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-05T14:00:00+05:00",
-      "stop": "2026-05-05T15:00:00+05:00",
-      "title": "PIX11 Morning News at 5am",
-      "desc": "Staying informed with the news and headlines.",
-      "date": "2016",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p12803754_b_h8_ab.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-05-05T15:00:00+05:00",
       "stop": "2026-05-05T16:00:00+05:00",
       "title": "PIX11 Morning News at 6am",
@@ -77,6 +65,30 @@
         "Reality"
       ],
       "episode": "S2 E9",
+      "icon": "http://dtil.tmsimg.com/assets/p24616934_b_h10_ad.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Petri Hawkins-Byrd",
+          "Patricia DiMango",
+          "Tanya Acker"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-05T20:30:00+05:00",
+      "stop": "2026-05-05T21:00:00+05:00",
+      "title": "Tribunal Justice",
+      "sub_title": "Caretaker's Reckoning",
+      "desc": "A blind man sues his former caretaker, claiming breach of agreement for living rent-free in exchange for services.",
+      "date": "2025",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "Series",
+        "Law",
+        "Reality"
+      ],
+      "episode": "S2 E79",
       "icon": "http://dtil.tmsimg.com/assets/p24616934_b_h10_ad.jpg?w=960&h=540",
       "credits": {
         "actor": [
