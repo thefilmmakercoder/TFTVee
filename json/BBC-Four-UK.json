@@ -4,18 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-05T06:00:00+05:00",
-      "stop": "2026-05-05T07:00:00+05:00",
-      "title": "Art That Made Us",
-      "desc": "In the 18th century, trade and conquest funds an explosion of creativity, and art stirs a growing social conscience.",
-      "language": "en",
-      "categories": [
-        "Entertainment",
-        "Arts"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/c6d28877-bab6-4c76-bb6d-4ae86b16238a/16-9"
-    },
-    {
       "start": "2026-05-05T07:00:00+05:00",
       "stop": "2026-05-05T09:30:00+05:00",
       "title": "This is BBC Four",
@@ -46,6 +34,18 @@
       "title": "This is BBC Four",
       "desc": "Programmes start at 7.00pm.",
       "language": "en"
+    },
+    {
+      "start": "2026-05-05T23:00:00+05:00",
+      "stop": "2026-05-05T23:30:00+05:00",
+      "title": "University Challenge",
+      "desc": "The Open University and Newcastle University face off for a place in round two.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Game Show"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/3b0cb88b-6f79-43c1-825b-685658f812f5/16-9"
     }
   ]
 }

@@ -4,62 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-05T07:00:00+05:00",
-      "stop": "2026-05-05T08:00:00+05:00",
-      "title": "ABC News At Noon",
-      "sub_title": "Tuesday 5 May 2026",
-      "desc": "The leading news at lunchtime. Ros Childs brings you the day's top stories and the latest news as it unfolds, with reporters in the community across Australia and around the world reporting on the issues that matter to you.",
-      "language": "en",
-      "rating": "NR",
-      "categories": [
-        "Sports"
-      ],
-      "episode": "E89",
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/323110/image/334x188"
-    },
-    {
-      "start": "2026-05-05T08:00:00+05:00",
-      "stop": "2026-05-05T09:00:00+05:00",
-      "title": "Death In Paradise",
-      "sub_title": "Christmas Special 2024",
-      "desc": "We\u2019re back on the beautiful island of Saint Marie, and this time with a new detective inspector - Londoner Mervin Wilson - whose first case is to work out who shot Santa.",
-      "language": "en",
-      "rating": "M",
-      "categories": [
-        "Drama"
-      ],
-      "episode": "S14 E1",
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/417801/image/334x188"
-    },
-    {
-      "start": "2026-05-05T09:00:00+05:00",
-      "stop": "2026-05-05T09:30:00+05:00",
-      "title": "Spicks and Specks",
-      "sub_title": "Ben Northey, Pete Helliar, Athina Uh Oh & Cam James",
-      "desc": "MSO's Ben Northey and Athina from Gut Health are guests with Cam James and Peter Helliar. Plus the Bamboos guest star playing Look What They've Done to My Song Ma and the Closer - a killer version of the secret song.",
-      "language": "en",
-      "rating": "PG",
-      "categories": [
-        "Music"
-      ],
-      "episode": "S11 E7",
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/176223/image/334x188"
-    },
-    {
-      "start": "2026-05-05T09:30:00+05:00",
-      "stop": "2026-05-05T09:55:00+05:00",
-      "title": "Anh's Brush With Fame",
-      "sub_title": "Archie Roach",
-      "desc": "Anh invites ground-breaking singer/songwriter Archie Roach to the studio to tell his story as a member of the Stolen Generation. He shares how music and soulmate Ruby saved him from a life of anger on the streets.",
-      "language": "en",
-      "rating": "PG",
-      "categories": [
-        "Special Interest"
-      ],
-      "episode": "S4 E12",
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/348667/image/334x188"
-    },
-    {
       "start": "2026-05-05T09:55:00+05:00",
       "stop": "2026-05-05T10:55:00+05:00",
       "title": "Grand Designs Australia",
@@ -86,6 +30,60 @@
       ],
       "episode": "S3 E9",
       "icon": "https://www.fetchtv.com.au/v2/epg/program/227316/image/334x188"
+    },
+    {
+      "start": "2026-05-05T11:40:00+05:00",
+      "stop": "2026-05-05T12:30:00+05:00",
+      "title": "Long Lost Family: What Happened Next",
+      "desc": "We follow reunited siblings, Geoffrey Tonks and Barbara Jacobs, as they investigate a family mystery and try to trace a missing sister.",
+      "language": "en",
+      "rating": "G",
+      "categories": [
+        "Special Interest"
+      ],
+      "episode": "S5 E2",
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/328432/image/334x188"
+    },
+    {
+      "start": "2026-05-05T12:30:00+05:00",
+      "stop": "2026-05-05T13:30:00+05:00",
+      "title": "Antiques Roadshow",
+      "sub_title": "Dartmouth 1",
+      "desc": "Fiona Bruce and the team weigh anchor at the Britannia Royal Naval College in Dartmouth for another busy day. Objects exciting the experts include a relic from HMS Victory and a mystery device once used to make explosions.",
+      "language": "en",
+      "rating": "G",
+      "categories": [
+        "Special Interest"
+      ],
+      "episode": "S33 E16",
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/130628/image/334x188"
+    },
+    {
+      "start": "2026-05-05T13:30:00+05:00",
+      "stop": "2026-05-05T14:00:00+05:00",
+      "title": "Hard Quiz",
+      "desc": "Tom Gleeson's Big Brass Mug is under siege from four contestants and their eclectic expert subjects: Disney's Encanto, artist Brett Whiteley, musician George Harrison, and the Bear Grylls adventure series Man vs Wild.",
+      "language": "en",
+      "rating": "PG",
+      "categories": [
+        "Special Interest"
+      ],
+      "episode": "S8 E13",
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/351164/image/334x188"
+    },
+    {
+      "start": "2026-05-05T14:00:00+05:00",
+      "stop": "2026-05-05T14:30:00+05:00",
+      "title": "ABC News",
+      "sub_title": "Tuesday 5 May 2026",
+      "desc": "News from where we live. ABC News Victoria brings you the day's top stories, exclusive investigations and original reporting on the issues that matter to you. Presented by Tamara Oudyn (Sun-Thu) and Iskhandar Razak (Fri-Sat).",
+      "language": "en",
+      "rating": "NR",
+      "categories": [
+        "Sports"
+      ],
+      "episode": "E125",
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/5193508/image/334x188"
     }
   ]
 }

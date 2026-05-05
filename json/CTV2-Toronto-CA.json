@@ -4,57 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-05T08:00:00+05:00",
-      "stop": "2026-05-05T08:34:00+05:00",
-      "title": "Live: CTV News Barrie",
-      "desc": "CTV News covers stories that matter to Canadians - locally, nationally, & internationally.",
-      "date": "2014",
-      "language": "en",
-      "rating": "TV14",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p11226354_b_h8_ad.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-05T08:34:00+05:00",
-      "stop": "2026-05-05T09:37:00+05:00",
-      "title": "The Tonight Show Starring Jimmy Fallon",
-      "sub_title": "Lisa Kudrow; Robert Irwin; Stevie Van Zandt; The Rocky Horror Show",
-      "desc": "Actress Lisa Kudrow; conservationist Robert Irwin; musician Stevie Van Zandt; performance from \"The Rocky Horror Show.\".",
-      "date": "2026",
-      "language": "en",
-      "rating": "TV14",
-      "categories": [
-        "Series",
-        "Talk",
-        "Comedy"
-      ],
-      "episode": "S13 E99",
-      "icon": "http://dtil.tmsimg.com/assets/p31242381_b_h8_ac.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Jimmy Fallon",
-          "Lisa Kudrow",
-          "Robert Irwin"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-05T09:37:00+05:00",
-      "stop": "2026-05-05T10:07:00+05:00",
-      "title": "CTV National News With Omar Sachedina",
-      "desc": "CTV News covers stories that matter to Canadians - locally, nationally, & internationally.",
-      "date": "2026",
-      "language": "en",
-      "categories": [
-        "Series",
-        "News"
-      ],
-      "episode": "E73",
-      "icon": "http://dtil.tmsimg.com/assets/p22894284_b_h8_ab.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-05-05T10:07:00+05:00",
       "stop": "2026-05-05T11:05:00+05:00",
       "title": "Criminal Minds",
@@ -134,6 +83,72 @@
           "Enrico Colantoni",
           "Hugh Dillon",
           "Amy Jo Johnson"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-05T13:05:00+05:00",
+      "stop": "2026-05-05T13:35:00+05:00",
+      "title": "TMZ",
+      "desc": "TMZ TV tracks down today's hottest stars with their cameras, whether they are hitting the clubs or the dry cleaners.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Newsmagazine",
+        "Entertainment"
+      ],
+      "episode": "S19 E211",
+      "icon": "http://dtil.tmsimg.com/assets/p30985766_b_h10_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Harvey Levin"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-05T13:35:00+05:00",
+      "stop": "2026-05-05T14:00:00+05:00",
+      "title": "Just for Laughs: Gags",
+      "sub_title": "Moped Bike Crash",
+      "desc": "Gags include a moped crash, a police officer giving a helping hand, and many more.",
+      "date": "2013",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "Series",
+        "Comedy",
+        "Entertainment"
+      ],
+      "episode": "S13 E3",
+      "icon": "http://dtil.tmsimg.com/assets/p185761_b_h8_ad.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-05T14:00:00+05:00",
+      "stop": "2026-05-05T14:30:00+05:00",
+      "title": "The Littlest Hobo",
+      "sub_title": "War Games",
+      "desc": "Hobo rescues a wounded soldier and a young girl trapped within a war game.",
+      "date": "1981",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Series",
+        "Drama",
+        "Adventure",
+        "Animals"
+      ],
+      "episode": "S3 E6",
+      "icon": "http://dtil.tmsimg.com/assets/p507740_b_h10_ac.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Allan Eastman"
+        ],
+        "actor": [
+          "Wally Bondarenko",
+          "Norwich Duff",
+          "Jon Granik"
         ]
       }
     }

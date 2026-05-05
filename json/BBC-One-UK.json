@@ -4,18 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-05T04:35:00+05:00",
-      "stop": "2026-05-05T04:40:00+05:00",
-      "title": "Weather for the Week Ahead",
-      "desc": "Detailed weather forecast.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/03e2e827-e2e9-4ce9-a17b-10491cca9f0d/16-9"
-    },
-    {
       "start": "2026-05-05T04:40:00+05:00",
       "stop": "2026-05-05T10:00:00+05:00",
       "title": "BBC News",
@@ -73,6 +61,18 @@
         "Factual"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/cb935a30-6035-363c-9ba7-e2d10458ab2f/16-9"
+    },
+    {
+      "start": "2026-05-05T16:15:00+05:00",
+      "stop": "2026-05-05T17:00:00+05:00",
+      "title": "Bargain Hunt",
+      "desc": "Eric Knowles heads to Sussex, where experts Raj Bisram and Nick Hall join the teams as they search for the best items to sell at auction.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Game Show"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/410b6939-eab3-4911-a60c-2ee2ebe6f5e0/16-9"
     }
   ]
 }
