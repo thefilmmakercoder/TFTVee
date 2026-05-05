@@ -4,39 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-06T03:00:00+05:00",
-      "stop": "2026-05-06T03:30:00+05:00",
-      "title": "CBS News New York 6pm",
-      "desc": "Stay informed with the latest breaking news and headlines.",
-      "date": "2008",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p605164_b_h8_ab.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-06T03:30:00+05:00",
-      "stop": "2026-05-06T04:00:00+05:00",
-      "title": "CBS Evening News",
-      "desc": "Tony Dokoupil shares the day's most important stories, delivering context and depth to bring greater understanding to one's world.",
-      "date": "2026",
-      "language": "en",
-      "categories": [
-        "Series",
-        "News"
-      ],
-      "episode": "E125",
-      "icon": "http://dtil.tmsimg.com/assets/p28807922_b_h8_ae.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Tony Dokoupil",
-          "Maurice DuBois",
-          "Jericka Duncan"
-        ]
-      }
-    },
-    {
       "start": "2026-05-06T04:00:00+05:00",
       "stop": "2026-05-06T04:30:00+05:00",
       "title": "Inside Edition",
@@ -140,6 +107,48 @@
           "Kyle Schmid"
         ]
       }
+    },
+    {
+      "start": "2026-05-06T07:00:00+05:00",
+      "stop": "2026-05-06T08:00:00+05:00",
+      "title": "NCIS: Sydney",
+      "sub_title": "Rough Diamond",
+      "desc": "The death of a former Marine wanted for murder leads the team to a sinister plot involving a disgraced journalist, one of Australia's richest men and lab-grown diamonds.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Crime drama",
+        "Action",
+        "Adventure",
+        "Mystery"
+      ],
+      "episode": "S3 E18",
+      "icon": "http://dtil.tmsimg.com/assets/p30698241_b_h8_aa.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Catherine Millar"
+        ],
+        "actor": [
+          "Olivia Swann",
+          "Todd Lasance",
+          "Sean Sagar"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-06T08:00:00+05:00",
+      "stop": "2026-05-06T08:35:00+05:00",
+      "title": "CBS News New York 11pm",
+      "desc": "Local news coverage.",
+      "date": "2011",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p8492450_b_h8_ab.jpg?w=960&h=540"
     }
   ]
 }

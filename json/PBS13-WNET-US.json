@@ -4,24 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-06T03:00:00+05:00",
-      "stop": "2026-05-06T03:30:00+05:00",
-      "title": "DW News",
-      "desc": "Presenting a round-up of the most recent news and developments from across the world.",
-      "date": "2002",
-      "language": "en",
-      "rating": "A",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p26245192_b_h10_aa.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Ben Fajzullin"
-        ]
-      }
-    },
-    {
       "start": "2026-05-06T03:30:00+05:00",
       "stop": "2026-05-06T04:00:00+05:00",
       "title": "BBC World News America",
@@ -133,6 +115,21 @@
           "Christiane Amanpour"
         ]
       }
+    },
+    {
+      "start": "2026-05-06T09:30:00+05:00",
+      "stop": "2026-05-06T11:30:00+05:00",
+      "title": "Rick Steves Art of Europe: Michelangelo to Monet",
+      "desc": "Celebrating Europe's art and creative geniuses, from Leonardo Da Vinci to Vincent van Gogh; Florence's bold \"rebirth\" after Europe's medieval struggles; impressionist works of the late 1800s.",
+      "date": "2025",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Special",
+        "Documentary",
+        "Art"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p31308433_st_h10_aa.jpg?w=960&h=540"
     }
   ]
 }

@@ -4,37 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-06T03:00:00+05:00",
-      "stop": "2026-05-06T03:30:00+05:00",
-      "title": "Eyewitness News at 6",
-      "desc": "Stay informed with the latest breaking news and headlines.",
-      "date": "2017",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p13769035_b_h8_ab.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-06T03:30:00+05:00",
-      "stop": "2026-05-06T04:00:00+05:00",
-      "title": "ABC World News Tonight With David Muir",
-      "desc": "Delivering the news that matters most.",
-      "date": "2026",
-      "language": "en",
-      "categories": [
-        "Series",
-        "News"
-      ],
-      "episode": "E125",
-      "icon": "http://dtil.tmsimg.com/assets/p10880351_b_h8_ah.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "David Muir"
-        ]
-      }
-    },
-    {
       "start": "2026-05-06T04:00:00+05:00",
       "stop": "2026-05-06T04:30:00+05:00",
       "title": "Jeopardy!",
@@ -114,6 +83,33 @@
       ],
       "episode": "S1 E6",
       "icon": "http://dtil.tmsimg.com/assets/p32637303_b_h8_aa.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-06T07:00:00+05:00",
+      "stop": "2026-05-06T08:00:00+05:00",
+      "title": "Betrayal: Secrets & Lies",
+      "sub_title": "Fertility Fraud",
+      "desc": "Tina's relationship with Neil makes her feel alive after her first marriage ends, until an unexpected pregnancy sours the relationship; when Tina digs into his past, she uncovers a trail of fraud, deception and women seeking justice.",
+      "date": "2026",
+      "language": "en",
+      "categories": [
+        "Series",
+        "Documentary"
+      ],
+      "episode": "S1 E1",
+      "icon": "http://dtil.tmsimg.com/assets/p32637303_b_h8_aa.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-06T08:00:00+05:00",
+      "stop": "2026-05-06T08:35:00+05:00",
+      "title": "Eyewitness News at 11",
+      "desc": "Breaking news.",
+      "date": "2017",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p13769039_b_h8_ab.jpg?w=960&h=540"
     }
   ]
 }

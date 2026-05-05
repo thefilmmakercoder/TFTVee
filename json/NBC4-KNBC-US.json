@@ -4,18 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-06T03:00:00+05:00",
-      "stop": "2026-05-06T03:30:00+05:00",
-      "title": "NBC4 News at 3pm",
-      "desc": "Stay informed with the latest breaking news and headlines.",
-      "date": "2018",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p15054848_b_h10_aa.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-05-06T03:30:00+05:00",
       "stop": "2026-05-06T04:00:00+05:00",
       "title": "NBC Nightly News With Tom Llamas",
@@ -84,6 +72,18 @@
         "News"
       ],
       "icon": "http://dtil.tmsimg.com/assets/p25191676_b_h10_aa.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-06T09:00:00+05:00",
+      "stop": "2026-05-06T09:30:00+05:00",
+      "title": "California Live",
+      "desc": "Previously recorded; lifestyle show featuring the latest in travel, food and fashion.",
+      "date": "2022",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p22187816_b_h10_ab.jpg?w=960&h=540"
     }
   ]
 }

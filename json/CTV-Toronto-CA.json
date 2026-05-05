@@ -4,37 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-06T02:30:00+05:00",
-      "stop": "2026-05-06T02:59:00+05:00",
-      "title": "CTV National News With Sandie Rinaldo",
-      "desc": "CTV News covers stories that matter to Canadians - locally, nationally, & internationally.",
-      "date": "2026",
-      "language": "en",
-      "categories": [
-        "Series",
-        "News"
-      ],
-      "episode": "E72",
-      "icon": "http://dtil.tmsimg.com/assets/p7988878_b_h8_aa.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Sandie Rinaldo"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-06T02:59:00+05:00",
-      "stop": "2026-05-06T04:00:00+05:00",
-      "title": "Live: CTV News Toronto",
-      "desc": "CTV News covers stories that matter to Canadians, locally, nationally and internationally.",
-      "date": "2014",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p11226977_b_h8_ae.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-05-06T04:00:00+05:00",
       "stop": "2026-05-06T04:30:00+05:00",
       "title": "etalk",
@@ -119,6 +88,59 @@
       ],
       "episode": "S1 E6",
       "icon": "http://dtil.tmsimg.com/assets/p32637303_b_h8_aa.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-06T07:00:00+05:00",
+      "stop": "2026-05-06T07:30:00+05:00",
+      "title": "The Big Bang Theory",
+      "sub_title": "The Planetarium Collision",
+      "desc": "When Amy doesn't have time to work on super-asymmetry, Sheldon goes to great lengths to ensure she's available; Koothrappali doesn't want Wolowitz to join him in hosting a show at the planetarium.",
+      "date": "2018",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Sitcom"
+      ],
+      "episode": "S12 E5",
+      "icon": "http://dtil.tmsimg.com/assets/p15720821_b_h10_an.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Mark Cendrowski"
+        ],
+        "actor": [
+          "Johnny Galecki",
+          "Jim Parsons",
+          "Kaley Cuoco"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-06T07:30:00+05:00",
+      "stop": "2026-05-06T08:00:00+05:00",
+      "title": "The Big Bang Theory",
+      "sub_title": "The Imitation Perturbation",
+      "desc": "When Wolowitz dresses up as Sheldon for Halloween, Sheldon seeks retaliation at Leonard and Penny's Halloween party; Leonard is shocked when Penny doesn't remember their first kiss.",
+      "date": "2018",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Holiday",
+        "Sitcom"
+      ],
+      "episode": "S12 E6",
+      "icon": "http://dtil.tmsimg.com/assets/p15720821_b_h10_an.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Mark Cendrowski"
+        ],
+        "actor": [
+          "Johnny Galecki",
+          "Jim Parsons",
+          "Kaley Cuoco"
+        ]
+      }
     }
   ]
 }

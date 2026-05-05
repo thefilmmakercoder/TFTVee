@@ -4,30 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-06T03:00:00+05:00",
-      "stop": "2026-05-06T03:30:00+05:00",
-      "title": "PIX11 News at 6",
-      "desc": "Staying informed with the news and headlines.",
-      "date": "2015",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p11641865_b_h8_ab.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-06T03:30:00+05:00",
-      "stop": "2026-05-06T04:00:00+05:00",
-      "title": "PIX11 Evening News",
-      "desc": "Staying informed with the news and headlines.",
-      "date": "2022",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p21846983_b_h8_aa.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-05-06T04:00:00+05:00",
       "stop": "2026-05-06T04:30:00+05:00",
       "title": "Seinfeld",
@@ -112,6 +88,43 @@
         "News"
       ],
       "icon": "http://dtil.tmsimg.com/assets/p10829690_b_h8_ab.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-06T08:00:00+05:00",
+      "stop": "2026-05-06T08:30:00+05:00",
+      "title": "New York Nightcap",
+      "date": "2025",
+      "language": "en",
+      "categories": [
+        "Community"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p31821949_st_h10_aa.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-06T08:30:00+05:00",
+      "stop": "2026-05-06T09:00:00+05:00",
+      "title": "Seinfeld",
+      "sub_title": "The Finale",
+      "desc": "After NBC picks up Jerry and George's sitcom, the four pals are arrested for breaking the good Samaritan law.",
+      "date": "1998",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Sitcom"
+      ],
+      "episode": "S9 E24 P2/2",
+      "icon": "http://dtil.tmsimg.com/assets/p7892827_b_h10_aa.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Andy Ackerman"
+        ],
+        "actor": [
+          "Jerry Seinfeld",
+          "Julia Louis-Dreyfus",
+          "Jason Alexander"
+        ]
+      }
     }
   ]
 }

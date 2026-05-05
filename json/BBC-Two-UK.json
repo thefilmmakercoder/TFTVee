@@ -4,18 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-06T02:30:00+05:00",
-      "stop": "2026-05-06T03:00:00+05:00",
-      "title": "Newsnight, followed by Weather",
-      "desc": "Insights and global interviews on the crucial news stories of the day. Followed by Weather.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/43b7d153-8dc4-4e78-a388-4c18fce9458a/16-9"
-    },
-    {
       "start": "2026-05-06T03:00:00+05:00",
       "stop": "2026-05-06T04:30:00+05:00",
       "title": "The People's Piazza: A History of Covent Garden",
@@ -68,6 +56,18 @@
       "title": "This is BBC Two",
       "desc": "Highlights of programmes on BBC Two.",
       "language": "en"
+    },
+    {
+      "start": "2026-05-06T10:45:00+05:00",
+      "stop": "2026-05-06T11:30:00+05:00",
+      "title": "Bargain Hunt",
+      "desc": "Tearing around the stalls of a bustling antiques fair in Exeter are two teams of parents and their daughters. Can experts Ben Cooper and Gary Pe help to keep the peace.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Game Show"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/57c24425-91a6-4b39-ac61-2e152125b82c/16-9"
     }
   ]
 }

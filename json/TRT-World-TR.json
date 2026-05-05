@@ -4,30 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-06T03:00:00+05:00",
-      "stop": "2026-05-06T03:30:00+05:00",
-      "title": "News",
-      "desc": "TRT World brings the latest news from around the globe, when it happens.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/11fb1bfa-d8fa-4bee-a345-afe4edddc101/16-9"
-    },
-    {
-      "start": "2026-05-06T03:30:00+05:00",
-      "stop": "2026-05-06T04:00:00+05:00",
-      "title": "The Newsmakers",
-      "desc": "With in-depth reports and strong, unfiltered debates: The Newsmakers examine the people and the stories that are shaping our lives.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/69f295d9-4ee4-45dc-8754-e151a83a8c49/16-9"
-    },
-    {
       "start": "2026-05-06T04:00:00+05:00",
       "stop": "2026-05-06T04:30:00+05:00",
       "title": "News",
@@ -74,6 +50,30 @@
         "World Affairs"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/d301eaa9-128c-4dfd-8b5d-99e6d358ccb4/16-9"
+    },
+    {
+      "start": "2026-05-06T06:00:00+05:00",
+      "stop": "2026-05-06T06:15:00+05:00",
+      "title": "News",
+      "desc": "TRT World brings the latest news from around the globe, when it happens.",
+      "language": "en",
+      "categories": [
+        "News & Documentary",
+        "News"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/f50f6daf-1181-4e93-8af1-a8ee659f9e5b/16-9"
+    },
+    {
+      "start": "2026-05-06T06:15:00+05:00",
+      "stop": "2026-05-06T06:30:00+05:00",
+      "title": "Newsfeed",
+      "desc": "Newsfeed reflects the day's events and opinions, as reported or discussed on social media.",
+      "language": "en",
+      "categories": [
+        "News & Documentary",
+        "News"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/ea03fee6-9680-49d4-82ca-2c7d9a4dfd7e/16-9"
     }
   ]
 }

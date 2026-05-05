@@ -4,31 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-06T02:30:00+05:00",
-      "stop": "2026-05-06T02:45:00+05:00",
-      "title": "ITV News London",
-      "desc": "The latest news and weather from London and the South East.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/24e81433-fbd5-469f-9da8-c864f11b6039/16-9"
-    },
-    {
-      "start": "2026-05-06T02:45:00+05:00",
-      "stop": "2026-05-06T03:45:00+05:00",
-      "title": "Murder - Buried Alive: True Crime Presents",
-      "sub_title": "Documentary",
-      "desc": "The police and the family of 25-year-old Stephanie Slater fear the worst when the estate agent goes missing in an eight-day ordeal of terror.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "Feature"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/7c8fcb23-cbb2-4ae7-81bf-0665b0eca0fd/16-9"
-    },
-    {
       "start": "2026-05-06T03:45:00+05:00",
       "stop": "2026-05-06T04:10:00+05:00",
       "title": "The Assembly",
@@ -75,6 +50,30 @@
         "Lifestyles"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/3126265f-62f6-405e-bab0-fa4f5e7a0d14/16-9"
+    },
+    {
+      "start": "2026-05-06T09:05:00+05:00",
+      "stop": "2026-05-06T10:00:00+05:00",
+      "title": "Celebrity Sabotage",
+      "desc": "Hilarious reality game show that sees a whole host of celebrities cause absolute chaos to win money for the unsuspecting contestants of totally fake TV shows! Guz Khan guest stars.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Game Show"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/f93566cf-00f4-43eb-bba9-2f93f71abafd/16-9"
+    },
+    {
+      "start": "2026-05-06T10:00:00+05:00",
+      "stop": "2026-05-06T13:30:00+05:00",
+      "title": "Good Morning Britain",
+      "desc": "News, current affairs and lively debate.",
+      "language": "en",
+      "categories": [
+        "News & Documentary",
+        "News"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/e4ff0076-9ede-41eb-ad59-64d6d3f39f51/16-9"
     }
   ]
 }

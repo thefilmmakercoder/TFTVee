@@ -4,30 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-06T02:00:00+05:00",
-      "stop": "2026-05-06T02:05:00+05:00",
-      "title": "FYI Daily",
-      "desc": "Latest news from the world of entertainment.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "Showbiz"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/83ff94ed-0224-4360-abf9-042183c4316e/16-9"
-    },
-    {
-      "start": "2026-05-06T02:05:00+05:00",
-      "stop": "2026-05-06T03:45:00+05:00",
-      "title": "Licence to Kill",
-      "desc": "Bond film starring Timothy Dalton and Carey Lowell, 1989. 007 resigns from MI6 and pursues a mission of revenge when an old ally of his is savaged by a notorious drug dealer.",
-      "language": "en",
-      "categories": [
-        "Movie",
-        "Action"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/916a14f9-81fa-41d3-ab43-5941598c58af/16-9"
-    },
-    {
       "start": "2026-05-06T03:45:00+05:00",
       "stop": "2026-05-06T04:45:00+05:00",
       "title": "Auf Wiedersehen, Pet",
@@ -77,6 +53,29 @@
         "Lifestyles"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/a6473193-ed8a-4040-8655-2518c0ee4bfe/16-9"
+    },
+    {
+      "start": "2026-05-06T07:00:00+05:00",
+      "stop": "2026-05-06T07:30:00+05:00",
+      "title": "Teleshopping",
+      "desc": "Shopping from home.",
+      "language": "en",
+      "categories": [
+        "Specialist",
+        "Shopping"
+      ]
+    },
+    {
+      "start": "2026-05-06T07:30:00+05:00",
+      "stop": "2026-05-06T08:00:00+05:00",
+      "title": "Motorsport Mundial",
+      "desc": "This programme brings you up to date with the latest action from the world of motorsport and features race coverage, insights, and behind-the-scenes footage from the best series.",
+      "language": "en",
+      "categories": [
+        "Sports",
+        "Motor Sports"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/c41679a1-d1fc-4239-bb0c-fc33a5852770/16-9"
     }
   ]
 }

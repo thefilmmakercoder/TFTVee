@@ -4,18 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-06T03:00:00+05:00",
-      "stop": "2026-05-06T03:30:00+05:00",
-      "title": "Eyewitness News 3PM",
-      "desc": "Local, national and international news.",
-      "date": "2004",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p676931_b_h8_aa.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-05-06T03:30:00+05:00",
       "stop": "2026-05-06T04:00:00+05:00",
       "title": "ABC World News Tonight With David Muir",
@@ -86,6 +74,26 @@
       "credits": {
         "actor": [
           "David Muir"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-06T07:00:00+05:00",
+      "stop": "2026-05-06T07:30:00+05:00",
+      "title": "Jeopardy!",
+      "desc": "The Emmy-winning quiz show features a unique answer-and-question format.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Series",
+        "Game show"
+      ],
+      "episode": "S42 E172",
+      "icon": "http://dtil.tmsimg.com/assets/p184056_b_h10_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Ken Jennings"
         ]
       }
     }

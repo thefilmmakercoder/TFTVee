@@ -4,32 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-06T02:30:00+05:00",
-      "stop": "2026-05-06T03:10:00+05:00",
-      "title": "Italian News",
-      "sub_title": "Wednesday 6 May 2026",
-      "desc": "News via satellite from RAI Rome in Italian, no subtitles.",
-      "language": "en",
-      "rating": "NR",
-      "categories": [
-        "Sports"
-      ],
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/158476/image/334x188"
-    },
-    {
-      "start": "2026-05-06T03:10:00+05:00",
-      "stop": "2026-05-06T03:40:00+05:00",
-      "title": "Filipino News",
-      "sub_title": "Wednesday 6 May 2026",
-      "desc": "TV Patrol is the flagship national newscast of ABS-CBN and is currently the longest-running Filipino language evening newscast.",
-      "language": "en",
-      "rating": "NR",
-      "categories": [
-        "Sports"
-      ],
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/158474/image/334x188"
-    },
-    {
       "start": "2026-05-06T03:40:00+05:00",
       "stop": "2026-05-06T04:30:00+05:00",
       "title": "French News",
@@ -80,6 +54,32 @@
         "Sports"
       ],
       "icon": "https://www.fetchtv.com.au/v2/epg/program/158480/image/334x188"
+    },
+    {
+      "start": "2026-05-06T06:30:00+05:00",
+      "stop": "2026-05-06T07:00:00+05:00",
+      "title": "Spanish News France 24",
+      "sub_title": "Wednesday 6 May 2026",
+      "desc": "International news and current affairs from France24 studios in Bogota, offering a Latin American & French perspective on world events, in Spanish, no subtitles.",
+      "language": "en",
+      "rating": "NR",
+      "categories": [
+        "Sports"
+      ],
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/435224/image/334x188"
+    },
+    {
+      "start": "2026-05-06T07:00:00+05:00",
+      "stop": "2026-05-06T07:30:00+05:00",
+      "title": "Arabic News France 24",
+      "sub_title": "First Edition",
+      "desc": "International news and current affairs from France 24 Arabic, via satellite, in Arabic, no subtitles.",
+      "language": "en",
+      "rating": "NR",
+      "categories": [
+        "Sports"
+      ],
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/413219/image/334x188"
     }
   ]
 }
