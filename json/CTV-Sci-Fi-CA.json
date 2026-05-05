@@ -4,61 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-05T03:00:00+05:00",
-      "stop": "2026-05-05T04:00:00+05:00",
-      "title": "Star Trek",
-      "sub_title": "Where No Man Has Gone Before",
-      "desc": "Kirk confronts two crew members (Gary Lockwood, Sally Kellerman) after a psychic force invades their minds.",
-      "date": "1966",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Series",
-        "Science fiction",
-        "Fantasy",
-        "Adventure"
-      ],
-      "episode": "S1 E3",
-      "icon": "http://dtil.tmsimg.com/assets/p183885_b_h10_ad.jpg?w=960&h=540",
-      "credits": {
-        "director": [
-          "James Goldstone"
-        ],
-        "actor": [
-          "William Shatner",
-          "Leonard Nimoy",
-          "DeForest Kelley"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-05T04:00:00+05:00",
-      "stop": "2026-05-05T07:00:00+05:00",
-      "title": "Star Wars: Episode IV -- A New Hope",
-      "desc": "The Imperial Forces -- under orders from cruel Darth Vader (David Prowse) -- hold Princess Leia (Carrie Fisher) hostage, in their efforts to quell the rebellion against the Galactic Empire. Luke Skywalker (Mark Hamill) and Han Solo (Harrison Ford), captain of the Millennium Falcon, work together with the companionable droid duo R2-D2 (Kenny Baker) and C-3PO (Anthony Daniels) to rescue the beautiful princess, help the Rebel Alliance, and restore freedom and justice to the Galaxy.",
-      "date": "1977",
-      "language": "en",
-      "rating": "PG",
-      "categories": [
-        "Movie",
-        "Science fiction",
-        "Adventure",
-        "Action",
-        "Fantasy"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p4407_v_h8_bb.jpg?w=960&h=540",
-      "credits": {
-        "director": [
-          "George Lucas"
-        ],
-        "actor": [
-          "Mark Hamill",
-          "Harrison Ford",
-          "Carrie Fisher"
-        ]
-      }
-    },
-    {
       "start": "2026-05-05T07:00:00+05:00",
       "stop": "2026-05-05T08:05:00+05:00",
       "title": "Dark Winds",
@@ -162,6 +107,59 @@
           "William Shatner",
           "Leonard Nimoy",
           "DeForest Kelley"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-05T11:05:00+05:00",
+      "stop": "2026-05-05T12:05:00+05:00",
+      "title": "Star Trek",
+      "sub_title": "Miri",
+      "desc": "The Enterprise finds a band of orphaned children living alone on a desolate, Earthlike world; guests Kim Darby, Michael J. Pollard.",
+      "date": "1966",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Science fiction",
+        "Fantasy",
+        "Adventure"
+      ],
+      "episode": "S1 E8",
+      "icon": "http://dtil.tmsimg.com/assets/p183885_b_h10_ad.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Vincent McEveety"
+        ],
+        "actor": [
+          "William Shatner",
+          "Leonard Nimoy",
+          "DeForest Kelley"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-05T12:05:00+05:00",
+      "stop": "2026-05-05T13:10:00+05:00",
+      "title": "Dark Winds",
+      "sub_title": "Chaha\u0142hee\u0142 (Darkness Falls)",
+      "desc": "Chee pays Manuelito a visit after discovering a link between their cases; Leaphorn pursues a fugitive suspect; Special Agent Washington interviews an eyewitness to the crime she's investigating.",
+      "date": "2025",
+      "language": "en",
+      "rating": "TVMA",
+      "categories": [
+        "Series",
+        "Crime drama",
+        "Thriller",
+        "Western"
+      ],
+      "episode": "S3 E4",
+      "icon": "http://dtil.tmsimg.com/assets/p22025386_b_h8_at.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Zahn McClarnon",
+          "Kiowa Gordon",
+          "Jessica Matten"
         ]
       }
     }

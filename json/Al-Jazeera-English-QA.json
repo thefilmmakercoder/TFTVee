@@ -4,54 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-05T04:30:00+05:00",
-      "stop": "2026-05-05T05:00:00+05:00",
-      "title": "Inside Story",
-      "desc": "Ep.1307 Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds in the Middle East and beyond.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "World Affairs"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/3015c1ca-f234-40a3-9c94-bb9ab769da56/16-9"
-    },
-    {
-      "start": "2026-05-05T05:00:00+05:00",
-      "stop": "2026-05-05T06:00:00+05:00",
-      "title": "Newshour",
-      "desc": "Latest news and in-depth analysis from around the world.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "World Affairs"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/e0b49adc-837f-4a52-a7dc-8eb23f86acd7/16-9"
-    },
-    {
-      "start": "2026-05-05T06:00:00+05:00",
-      "stop": "2026-05-05T07:00:00+05:00",
-      "title": "Silenced: The War On Journalism",
-      "desc": "A gripping look at journalism's ultimate sacrifice, told through stories of courage, loss and unwavering conviction.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "Politics"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/1982c2f0-e54a-4726-acda-45fca8156f57/16-9"
-    },
-    {
-      "start": "2026-05-05T07:00:00+05:00",
-      "stop": "2026-05-05T07:30:00+05:00",
-      "title": "News Live",
-      "desc": "Up-to-date news and analysis from around the world.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "World Affairs"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/b45adaf1-6374-41de-bb2e-7eaf495a1860/16-9"
-    },
-    {
       "start": "2026-05-05T07:30:00+05:00",
       "stop": "2026-05-05T08:00:00+05:00",
       "title": "The Listening Post",
@@ -66,7 +18,19 @@
     },
     {
       "start": "2026-05-05T08:00:00+05:00",
-      "stop": "2026-05-05T08:30:00+05:00",
+      "stop": "2026-05-05T09:00:00+05:00",
+      "title": "Newshour",
+      "desc": "Latest news and in-depth analysis from around the world.",
+      "language": "en",
+      "categories": [
+        "News & Documentary",
+        "World Affairs"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/1e4cd96b-7fc1-4522-a5c7-e35ac81fe577/16-9"
+    },
+    {
+      "start": "2026-05-05T09:00:00+05:00",
+      "stop": "2026-05-05T09:30:00+05:00",
       "title": "News Live",
       "desc": "Up-to-date news and analysis from around the world.",
       "language": "en",
@@ -75,6 +39,42 @@
         "World Affairs"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/b45adaf1-6374-41de-bb2e-7eaf495a1860/16-9"
+    },
+    {
+      "start": "2026-05-05T09:30:00+05:00",
+      "stop": "2026-05-05T10:00:00+05:00",
+      "title": "Al Jazeera Untangles - The Coloniser's Academy",
+      "desc": "Spanish Empire - Sword and Cross: How Spain conquered with armies and missionaries - fusing faith, force, and gold into global dominance.",
+      "language": "en",
+      "categories": [
+        "News & Documentary",
+        "World Affairs"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/9c3b9eb9-b78a-4743-8ff8-aff56c6b926b/16-9"
+    },
+    {
+      "start": "2026-05-05T10:00:00+05:00",
+      "stop": "2026-05-05T10:30:00+05:00",
+      "title": "News Live",
+      "desc": "Up-to-date news and analysis from around the world.",
+      "language": "en",
+      "categories": [
+        "News & Documentary",
+        "World Affairs"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/b45adaf1-6374-41de-bb2e-7eaf495a1860/16-9"
+    },
+    {
+      "start": "2026-05-05T10:30:00+05:00",
+      "stop": "2026-05-05T11:00:00+05:00",
+      "title": "Inside Story",
+      "desc": "Ep.1307 Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds in the Middle East and beyond.",
+      "language": "en",
+      "categories": [
+        "News & Documentary",
+        "World Affairs"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/8d4036ff-0650-45bb-a002-4fa6cf95a5a8/16-9"
     }
   ]
 }

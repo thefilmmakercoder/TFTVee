@@ -4,32 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-05T04:30:00+05:00",
-      "stop": "2026-05-05T05:00:00+05:00",
-      "title": "New York Live Presents: The Met Gala",
-      "desc": "Features live coverage of the annual Met Gala, fashion's biggest night of the year, on New York's 5th Avenue.",
-      "date": "2024",
-      "language": "en",
-      "categories": [
-        "Special",
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p27249800_b_h8_ab.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-05T05:00:00+05:00",
-      "stop": "2026-05-05T08:00:00+05:00",
-      "title": "Live: NBA Basketball",
-      "desc": "Eastern Conference Second Round, Game 1.",
-      "language": "en",
-      "categories": [
-        "Sports",
-        "Playoff sports",
-        "Basketball"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p191276_b_h8_ad.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-05-05T08:00:00+05:00",
       "stop": "2026-05-05T08:34:00+05:00",
       "title": "Live: News 4 NY at 11",
@@ -101,6 +75,49 @@
         "News"
       ],
       "icon": "http://dtil.tmsimg.com/assets/p10513206_b_h10_ae.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-05T11:07:00+05:00",
+      "stop": "2026-05-05T11:42:00+05:00",
+      "title": "NBC Nightly News With Tom Llamas",
+      "desc": "Tom Llamas anchors the latest news, going beyond the headlines to see how lives are affected by the world around them.",
+      "date": "2026",
+      "language": "en",
+      "categories": [
+        "Series",
+        "News"
+      ],
+      "episode": "S2 E115",
+      "icon": "http://dtil.tmsimg.com/assets/p30141511_b_h8_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Tom Llamas"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-05T11:42:00+05:00",
+      "stop": "2026-05-05T12:12:00+05:00",
+      "title": "Access Hollywood",
+      "desc": "Met Gala countdown: behind the scenes at the hotel where the stars get Met-ready!",
+      "date": "2026",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Newsmagazine",
+        "Entertainment",
+        "Interview"
+      ],
+      "episode": "S30 E164",
+      "icon": "http://dtil.tmsimg.com/assets/p30926755_b_h8_ab.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Mario Lopez",
+          "Kit Hoover",
+          "Scott Evans"
+        ]
+      }
     }
   ]
 }

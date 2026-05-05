@@ -4,33 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-05T00:00:00+05:00",
-      "stop": "2026-05-05T03:00:00+05:00",
-      "title": "Star Wars: A New Hope",
-      "desc": "The Imperial Forces -- under orders from cruel Darth Vader (David Prowse) -- hold Princess Leia (Carrie Fisher) hostage, in their efforts to quell the rebellion against the Galactic Empire. Luke Skywalker (Mark Hamill) and Han Solo (Harrison Ford), captain of the Millennium Falcon, work together with the companionable droid duo R2-D2 (Kenny Baker) and C-3PO (Anthony Daniels) to rescue the beautiful princess, help the Rebel Alliance, and restore freedom and justice to the Galaxy.",
-      "date": "1977",
-      "language": "en",
-      "rating": "PG",
-      "categories": [
-        "Movie",
-        "Science fiction",
-        "Adventure",
-        "Action",
-        "Fantasy"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p4407_v_h10_an.jpg?w=960&h=540",
-      "credits": {
-        "director": [
-          "George Lucas"
-        ],
-        "actor": [
-          "Mark Hamill",
-          "Harrison Ford",
-          "Carrie Fisher"
-        ]
-      }
-    },
-    {
       "start": "2026-05-05T03:00:00+05:00",
       "stop": "2026-05-05T06:00:00+05:00",
       "title": "Star Wars: The Empire Strikes Back",
@@ -170,6 +143,34 @@
           "Seth MacFarlane",
           "Alex Borstein",
           "Seth Green"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-05T12:00:00+05:00",
+      "stop": "2026-05-05T12:30:00+05:00",
+      "title": "Futurama",
+      "sub_title": "Yo Leela Leela",
+      "desc": "Leela becomes a Hollywood big shot after her series creation.",
+      "date": "2011",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "Series",
+        "Animated",
+        "Sitcom",
+        "Science fiction"
+      ],
+      "episode": "S8 E6",
+      "icon": "http://dtil.tmsimg.com/assets/p184499_b_h8_ai.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Frank Marino"
+        ],
+        "actor": [
+          "Billy West",
+          "Katey Sagal",
+          "John DiMaggio"
         ]
       }
     }

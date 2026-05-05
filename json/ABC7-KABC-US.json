@@ -4,81 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-05T04:00:00+05:00",
-      "stop": "2026-05-05T05:00:00+05:00",
-      "title": "Eyewitness News 4PM",
-      "desc": "Early evening news.",
-      "date": "2004",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p676966_b_h8_af.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-05T05:00:00+05:00",
-      "stop": "2026-05-05T06:00:00+05:00",
-      "title": "Eyewitness News 5PM",
-      "desc": "Early evening news.",
-      "date": "2016",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p12821107_b_h8_aa.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-05T06:00:00+05:00",
-      "stop": "2026-05-05T06:30:00+05:00",
-      "title": "Eyewitness News 6PM",
-      "desc": "Local, national and international news.",
-      "date": "2004",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p677004_b_h8_af.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-05T06:30:00+05:00",
-      "stop": "2026-05-05T07:00:00+05:00",
-      "title": "ABC World News Tonight With David Muir",
-      "desc": "Delivering the news that matters most.",
-      "date": "2026",
-      "language": "en",
-      "categories": [
-        "Series",
-        "News"
-      ],
-      "episode": "E124",
-      "icon": "http://dtil.tmsimg.com/assets/p10880351_b_h8_ah.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "David Muir"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-05T07:00:00+05:00",
-      "stop": "2026-05-05T07:30:00+05:00",
-      "title": "Jeopardy!",
-      "desc": "The Emmy-winning quiz show features a unique answer-and-question format.",
-      "date": "2026",
-      "language": "en",
-      "rating": "TVG",
-      "categories": [
-        "Series",
-        "Game show"
-      ],
-      "episode": "S42 E171",
-      "icon": "http://dtil.tmsimg.com/assets/p184056_b_h10_aa.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Ken Jennings"
-        ]
-      }
-    },
-    {
       "start": "2026-05-05T07:30:00+05:00",
       "stop": "2026-05-05T08:00:00+05:00",
       "title": "Wheel of Fortune",
@@ -97,6 +22,112 @@
         "actor": [
           "Ryan Seacrest",
           "Vanna White"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-05T08:00:00+05:00",
+      "stop": "2026-05-05T10:00:00+05:00",
+      "title": "American Idol",
+      "sub_title": "915 (Class of 2006: Reunion/Idol X DWTS)",
+      "desc": "At the \"American Idol\" 20th high school reunion, fan-favorite idols from the class of 2006, along with special guests, return as \"Dancing With the Stars\" pros bring some ballroom flair to the celebration; America votes live for the Top 3.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Music",
+        "Competition Reality"
+      ],
+      "episode": "S24 E15",
+      "icon": "http://dtil.tmsimg.com/assets/p31639969_b_h8_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Carrie Underwood",
+          "Luke Bryan",
+          "Lionel Richie"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-05T10:00:00+05:00",
+      "stop": "2026-05-05T11:00:00+05:00",
+      "title": "The Rookie",
+      "sub_title": "The Bandit",
+      "desc": "The team launches a high-stakes search to take down a notorious criminal; Lucy's leadership is tested; Wesley tests the boundaries of his friendships; Nolan tries to balance duty and family.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "Series",
+        "Crime drama",
+        "Action"
+      ],
+      "episode": "S8 E18",
+      "icon": "http://dtil.tmsimg.com/assets/p15523389_b_h8_bc.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Nathan Fillion",
+          "Mekia Cox",
+          "Alyssa Diaz"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-05T11:00:00+05:00",
+      "stop": "2026-05-05T11:35:00+05:00",
+      "title": "Eyewitness News 11PM",
+      "desc": "Local, national and international news.",
+      "date": "2004",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p676925_b_h8_af.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-05T11:35:00+05:00",
+      "stop": "2026-05-05T12:37:00+05:00",
+      "title": "Jimmy Kimmel Live!",
+      "sub_title": "Jelly Roll; Nicole Byer",
+      "desc": "Musician Jelly Roll; comic Nicole Byer.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "Series",
+        "Talk",
+        "Comedy"
+      ],
+      "episode": "S24 E112",
+      "icon": "http://dtil.tmsimg.com/assets/p31166959_b_h8_ac.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Jimmy Kimmel",
+          "Jelly Roll",
+          "Nicole Byer"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-05T12:37:00+05:00",
+      "stop": "2026-05-05T13:06:00+05:00",
+      "title": "Nightline",
+      "desc": "In-depth reporting on one or more of the major stories in the news, with occasional segments on pop culture; journalists Juju Chang and Byron Pitts share hosting duties for this late-night program.",
+      "date": "2026",
+      "language": "en",
+      "categories": [
+        "Series",
+        "Talk",
+        "News",
+        "Interview"
+      ],
+      "episode": "E91",
+      "icon": "http://dtil.tmsimg.com/assets/p184465_b_h8_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Juju Chang",
+          "Byron Pitts"
         ]
       }
     }

@@ -4,66 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-05T04:00:00+05:00",
-      "stop": "2026-05-05T05:00:00+05:00",
-      "title": "KTLA 5 News at 4",
-      "desc": "Stay informed with the latest breaking news and headlines.",
-      "date": "2018",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p15020116_b_h8_aa.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-05T05:00:00+05:00",
-      "stop": "2026-05-05T06:00:00+05:00",
-      "title": "KTLA 5 News at 5",
-      "desc": "Stay informed with the latest breaking news and headlines.",
-      "date": "2009",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p7835394_b_h8_aa.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-05T06:00:00+05:00",
-      "stop": "2026-05-05T06:30:00+05:00",
-      "title": "KTLA 5 News at 6",
-      "desc": "Stay informed with the latest breaking news and headlines.",
-      "date": "2009",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p7835554_b_h8_ab.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-05T06:30:00+05:00",
-      "stop": "2026-05-05T07:00:00+05:00",
-      "title": "KTLA 5 News at 6:30",
-      "desc": "Stay informed with the latest breaking news and headlines.",
-      "date": "2009",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p755462_b_h8_ab.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-05T07:00:00+05:00",
-      "stop": "2026-05-05T07:30:00+05:00",
-      "title": "KTLA 5 News at 7",
-      "desc": "Stay informed with the latest breaking news and headlines.",
-      "date": "2018",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p15921240_b_h8_aa.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-05-05T07:30:00+05:00",
       "stop": "2026-05-05T08:00:00+05:00",
       "title": "L.A. Unscripted",
@@ -74,6 +14,84 @@
         "Entertainment"
       ],
       "icon": "http://dtil.tmsimg.com/assets/p18725702_st_h10_aa.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-05T08:00:00+05:00",
+      "stop": "2026-05-05T09:00:00+05:00",
+      "title": "Sullivan's Crossing",
+      "sub_title": "Northern Lights",
+      "desc": "Maggie looks for a doctor to support her application to the board of physicians and Cal discovers information that causes him to question Maggie's history with Liam.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Drama"
+      ],
+      "episode": "S4 E3",
+      "icon": "http://dtil.tmsimg.com/assets/p32524619_b_h8_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Morgan Kohan",
+          "Chad Michael Murray",
+          "Scott Patterson"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-05T09:00:00+05:00",
+      "stop": "2026-05-05T10:00:00+05:00",
+      "title": "Wild Cards",
+      "sub_title": "Dead Weight",
+      "desc": "When a bodybuilding champion is crushed under his own weights, Max & Ellis dive into the world of muscle, sweat, and protein shakes, uncovering a secret double life that proves fatally heavy.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "Series",
+        "Crime drama"
+      ],
+      "episode": "S3 E4",
+      "icon": "http://dtil.tmsimg.com/assets/p25877512_b_h8_aj.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Giacomo Gianniotti",
+          "Vanessa Morgan",
+          "Karin Konoval"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-05T10:00:00+05:00",
+      "stop": "2026-05-05T10:45:00+05:00",
+      "title": "KTLA 5 News at 10",
+      "desc": "Stay informed with the latest breaking news and headlines.",
+      "date": "2005",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p755466_b_h8_ab.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-05T10:45:00+05:00",
+      "stop": "2026-05-05T11:00:00+05:00",
+      "title": "KTLA 5 Sports Final",
+      "date": "2015",
+      "language": "en",
+      "icon": "http://dtil.tmsimg.com/assets/p11331887_b_h8_aa.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-05T11:00:00+05:00",
+      "stop": "2026-05-05T11:35:00+05:00",
+      "title": "KTLA 5 News at 11",
+      "desc": "Stay informed with the latest breaking news and headlines.",
+      "date": "2014",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p10749029_b_h8_ab.jpg?w=960&h=540"
     }
   ]
 }

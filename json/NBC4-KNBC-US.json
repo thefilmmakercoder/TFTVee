@@ -4,18 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-05T04:00:00+05:00",
-      "stop": "2026-05-05T05:00:00+05:00",
-      "title": "NBC4 News at 4pm",
-      "desc": "The latest local news, weather and investigative stories impacting the community.",
-      "date": "2012",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p9358491_b_h10_ae.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-05-05T05:00:00+05:00",
       "stop": "2026-05-05T08:00:00+05:00",
       "title": "Live: NBA Basketball",
@@ -100,6 +88,18 @@
           "Josh Mankiewicz"
         ]
       }
+    },
+    {
+      "start": "2026-05-05T11:00:00+05:00",
+      "stop": "2026-05-05T11:34:00+05:00",
+      "title": "NBC4 News at 11pm",
+      "desc": "The latest local news, weather and investigative stories impacting the community.",
+      "date": "2011",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p8781143_b_h10_ad.jpg?w=960&h=540"
     }
   ]
 }
