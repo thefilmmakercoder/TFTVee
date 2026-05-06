@@ -4,30 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-06T13:44:00+05:00",
-      "stop": "2026-05-06T16:08:00+05:00",
-      "title": "The Substance",
-      "desc": "Fading actress Elisabeth Sparkle becomes distressed when her chauvinistic boss fires her from her aerobics show. She soon injects herself with a mysterious serum that promises a younger, better version of herself, but things go horribly wrong.",
-      "date": "2024",
-      "language": "en",
-      "rating": "R",
-      "categories": [
-        "Movie",
-        "Horror"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p27412556_v_h8_ag.jpg?w=960&h=540",
-      "credits": {
-        "director": [
-          "Coralie Fargeat"
-        ],
-        "actor": [
-          "Demi Moore",
-          "Margaret Qualley",
-          "Dennis Quaid"
-        ]
-      }
-    },
-    {
       "start": "2026-05-06T16:08:00+05:00",
       "stop": "2026-05-06T17:56:00+05:00",
       "title": "The Terminator",
@@ -138,6 +114,29 @@
         "Crime"
       ],
       "icon": "http://dtil.tmsimg.com/assets/p443968_b_h11_ab.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-07T01:27:00+05:00",
+      "stop": "2026-05-07T02:47:00+05:00",
+      "title": "The Truth About Killer Robots",
+      "desc": "Filmmaker Maxim Pozdorovkin explores the many ways in which artificial intelligence is taking over people's lives and making them increasingly obsolete.",
+      "date": "2018",
+      "language": "en",
+      "rating": "PG",
+      "categories": [
+        "Movie",
+        "Documentary"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p16058720_v_h10_ae.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Maxim Pozdorovkin"
+        ],
+        "actor": [
+          "Leon Gonzalez",
+          "Hiroshi Ishiguro"
+        ]
+      }
     }
   ]
 }

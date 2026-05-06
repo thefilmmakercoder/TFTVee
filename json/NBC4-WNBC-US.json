@@ -4,18 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-06T15:00:00+05:00",
-      "stop": "2026-05-06T16:00:00+05:00",
-      "title": "Today in New York @ 6AM",
-      "desc": "The latest local news, weather and investigative stories impacting the community.",
-      "date": "2023",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p24315242_b_h10_aa.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-05-06T16:00:00+05:00",
       "stop": "2026-05-06T18:00:00+05:00",
       "title": "Today",
@@ -108,6 +96,26 @@
         "Newsmagazine"
       ],
       "icon": "http://dtil.tmsimg.com/assets/p8692580_b_h8_ac.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-06T21:00:00+05:00",
+      "stop": "2026-05-06T22:00:00+05:00",
+      "title": "NBC News Daily",
+      "desc": "NBC News provides viewers with the latest national and international news; consumer, health and personal finance reporting; up-to-the-minute local news.",
+      "date": "2026",
+      "language": "en",
+      "categories": [
+        "Series",
+        "News"
+      ],
+      "episode": "E79",
+      "icon": "http://dtil.tmsimg.com/assets/p22712535_b_h8_ad.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Vicky Nguyen",
+          "Morgan Radford"
+        ]
+      }
     }
   ]
 }

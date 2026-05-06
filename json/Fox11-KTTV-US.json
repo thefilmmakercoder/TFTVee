@@ -4,39 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-06T15:30:00+05:00",
-      "stop": "2026-05-06T16:00:00+05:00",
-      "title": "TMZ",
-      "desc": "TMZ TV tracks down today's hottest stars with their cameras, whether they are hitting the clubs or the dry cleaners.",
-      "date": "2026",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Series",
-        "Newsmagazine",
-        "Entertainment"
-      ],
-      "episode": "S19 E212",
-      "icon": "http://dtil.tmsimg.com/assets/p30985766_b_h10_aa.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Harvey Levin"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-06T16:00:00+05:00",
-      "stop": "2026-05-06T17:00:00+05:00",
-      "title": "Good Day LA at 4am",
-      "desc": "Stay informed with the latest breaking news and headlines.",
-      "date": "2019",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p16719296_b_h8_ab.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-05-06T17:00:00+05:00",
       "stop": "2026-05-06T18:00:00+05:00",
       "title": "Good Day LA at 5am",
@@ -83,6 +50,29 @@
         "Talk"
       ],
       "icon": "http://dtil.tmsimg.com/assets/p9542653_b_h8_ac.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-06T22:00:00+05:00",
+      "stop": "2026-05-06T23:00:00+05:00",
+      "title": "Good Day LA at 10am",
+      "desc": "Morning news coverage.",
+      "date": "2022",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p22751421_b_h8_ab.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-06T23:00:00+05:00",
+      "stop": "2026-05-07T00:00:00+05:00",
+      "title": "GDLA+",
+      "date": "2024",
+      "language": "en",
+      "categories": [
+        "Newsmagazine"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p26513975_b_h8_ab.jpg?w=960&h=540"
     }
   ]
 }

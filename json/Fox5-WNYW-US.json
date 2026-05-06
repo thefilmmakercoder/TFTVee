@@ -4,18 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-06T15:00:00+05:00",
-      "stop": "2026-05-06T16:00:00+05:00",
-      "title": "Good Day Wake Up 2",
-      "desc": "Morning news and entertainment.",
-      "date": "2009",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p706489_b_h8_ab.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-05-06T16:00:00+05:00",
       "stop": "2026-05-06T18:00:00+05:00",
       "title": "Good Day New York",
@@ -95,6 +83,26 @@
         "News"
       ],
       "icon": "http://dtil.tmsimg.com/assets/p17326137_b_h8_ab.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-06T22:00:00+05:00",
+      "stop": "2026-05-06T22:30:00+05:00",
+      "title": "25 Words or Less",
+      "desc": "Teams compete to see who can guess secret words or phrases with a limited amount of clues and time; host Meredith Vieira.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Game show"
+      ],
+      "episode": "S7 E148",
+      "icon": "http://dtil.tmsimg.com/assets/p15722953_b_h8_am.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Meredith Vieira"
+        ]
+      }
     }
   ]
 }

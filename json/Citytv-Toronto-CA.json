@@ -4,18 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-06T14:30:00+05:00",
-      "stop": "2026-05-06T15:00:00+05:00",
-      "title": "CityNews Tonight Toronto",
-      "desc": "Coverage of the day's top news stories.",
-      "date": "2019",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p16858130_b_h8_aa.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-05-06T15:00:00+05:00",
       "stop": "2026-05-06T17:30:00+05:00",
       "title": "Breakfast Television Toronto",
@@ -117,6 +105,26 @@
       "credits": {
         "actor": [
           "Wayne Brady"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-06T22:00:00+05:00",
+      "stop": "2026-05-06T22:30:00+05:00",
+      "title": "Family Feud",
+      "desc": "Family Feud is an American television game show where two families compete to name the responses to survey questions in order to win cash and prizes.",
+      "date": "2024",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Game show"
+      ],
+      "episode": "S25 E161",
+      "icon": "http://dtil.tmsimg.com/assets/p8314079_b_h8_ah.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Steve Harvey"
         ]
       }
     }

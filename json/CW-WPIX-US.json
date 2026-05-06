@@ -4,18 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-06T15:00:00+05:00",
-      "stop": "2026-05-06T16:00:00+05:00",
-      "title": "PIX11 Morning News at 6am",
-      "desc": "Staying informed with the news and headlines.",
-      "date": "2018",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p16250992_b_h8_ab.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-05-06T16:00:00+05:00",
       "stop": "2026-05-06T18:00:00+05:00",
       "title": "PIX11 Morning News at 7am",
@@ -94,6 +82,27 @@
           "Petri Hawkins-Byrd",
           "Patricia DiMango",
           "Tanya Acker"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-06T21:00:00+05:00",
+      "stop": "2026-05-06T22:00:00+05:00",
+      "title": "The Steve Wilkos Show",
+      "sub_title": "Did My Boyfriend Abuse My Daughter?",
+      "desc": "Chevelle isn't comfortable with her boyfriend being around her youngest daughter after he was accused of molesting her; Savana's boyfriend may go to prison for burning her 2-year-old daughter.",
+      "date": "2018",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "Series",
+        "Talk"
+      ],
+      "episode": "S12 E40",
+      "icon": "http://dtil.tmsimg.com/assets/p185706_b_h8_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Steve Wilkos"
         ]
       }
     }

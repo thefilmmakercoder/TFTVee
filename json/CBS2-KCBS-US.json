@@ -4,18 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-06T15:30:00+05:00",
-      "stop": "2026-05-06T16:00:00+05:00",
-      "title": "CBS News Mornings",
-      "desc": "CBS News Mornings broadcasts on weekdays and offers viewers up-to-date news, comprehensive weather forecasts, and highlights from the world of sports.",
-      "date": "2024",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p27236437_b_h8_ab.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-05-06T16:00:00+05:00",
       "stop": "2026-05-06T18:00:00+05:00",
       "title": "CBS Mornings",
@@ -110,6 +98,18 @@
           "Drew Carey"
         ]
       }
+    },
+    {
+      "start": "2026-05-06T23:00:00+05:00",
+      "stop": "2026-05-07T00:00:00+05:00",
+      "title": "Live: UEFA Champions League Today",
+      "desc": "News and highlights from the UEFA Champions League.",
+      "date": "2021",
+      "language": "en",
+      "categories": [
+        "Soccer"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p19812101_b_h10_ab.jpg?w=960&h=540"
     }
   ]
 }

@@ -4,48 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-06T15:30:00+05:00",
-      "stop": "2026-05-06T16:00:00+05:00",
-      "title": "Good Morning America First Look",
-      "desc": "ABC's \"Good Morning America First Look\" brings one overnight breaking news, weather, politics, and the stories and video people will be talking about in the day ahead.",
-      "date": "2024",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p28311369_b_h8_ac.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Sophie Flay",
-          "Hanna Battah"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-06T16:00:00+05:00",
-      "stop": "2026-05-06T16:30:00+05:00",
-      "title": "Eyewitness News 4AM",
-      "desc": "News coverage to start the day.",
-      "date": "2009",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p7888306_b_h8_aa.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-06T16:30:00+05:00",
-      "stop": "2026-05-06T17:00:00+05:00",
-      "title": "Eyewitness News 4:30AM",
-      "desc": "News coverage to start the day.",
-      "date": "2008",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p676967_b_h8_af.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-05-06T17:00:00+05:00",
       "stop": "2026-05-06T18:00:00+05:00",
       "title": "Eyewitness News 5AM",
@@ -92,6 +50,65 @@
           "Michael Strahan"
         ]
       }
+    },
+    {
+      "start": "2026-05-06T21:00:00+05:00",
+      "stop": "2026-05-06T22:00:00+05:00",
+      "title": "Live with Kelly and Mark",
+      "desc": "Kevin McKidd chats about ABC's \"Grey's Anatomy\" and Taylor Ortega drops by; the hosts read messages from the \"I Love Mom\" Inbox!",
+      "date": "2026",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Talk"
+      ],
+      "episode": "S4 E178",
+      "icon": "http://dtil.tmsimg.com/assets/p24324378_b_h8_ab.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Kelly Ripa",
+          "Mark Consuelos",
+          "Kevin McKidd"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-06T22:00:00+05:00",
+      "stop": "2026-05-06T23:00:00+05:00",
+      "title": "The View",
+      "desc": "Actor Hugh Jackman.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "Series",
+        "Talk"
+      ],
+      "episode": "S29 E155",
+      "icon": "http://dtil.tmsimg.com/assets/p31138947_b_h8_aa.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Sarah de la O"
+        ],
+        "actor": [
+          "Whoopi Goldberg",
+          "Joy Behar",
+          "Sunny Hostin"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-06T23:00:00+05:00",
+      "stop": "2026-05-07T00:00:00+05:00",
+      "title": "Eyewitness News 11AM",
+      "desc": "Midday news update.",
+      "date": "2008",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p676923_b_h8_af.jpg?w=960&h=540"
     }
   ]
 }

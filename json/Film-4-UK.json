@@ -4,17 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-06T11:00:00+05:00",
-      "stop": "2026-05-06T15:00:00+05:00",
-      "title": "Teleshopping",
-      "desc": "Teleshopping.",
-      "language": "en",
-      "categories": [
-        "Specialist",
-        "Shopping"
-      ]
-    },
-    {
       "start": "2026-05-06T15:00:00+05:00",
       "stop": "2026-05-06T17:35:00+05:00",
       "title": "The Devil at 4 O'Clock",
@@ -83,6 +72,20 @@
         "Comedy"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/d6a9bcbe-62fc-481f-ae8a-0fd12a9f5284/16-9"
+    },
+    {
+      "start": "2026-05-07T01:00:00+05:00",
+      "stop": "2026-05-07T02:45:00+05:00",
+      "title": "Stand by Me",
+      "desc": "Four young friends (Wil Wheaton, River Phoenix, Corey Feldman, Jerry O'Connell) set out on an expedition into deepest Oregon in this coming-of-age tale based on a Stephen King story.",
+      "date": "1986",
+      "language": "en",
+      "rating": "15",
+      "categories": [
+        "Movie",
+        "Drama"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/31cecf05-1601-425a-b97d-89db148ed3d3/16-9"
     }
   ]
 }

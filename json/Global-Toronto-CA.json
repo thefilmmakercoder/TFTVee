@@ -4,33 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-06T14:30:00+05:00",
-      "stop": "2026-05-06T15:00:00+05:00",
-      "title": "Paid Programming",
-      "desc": "Paid programming.",
-      "language": "en",
-      "rating": "TVG",
-      "categories": [
-        "Consumer",
-        "Shopping",
-        "Variety"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-06T15:00:00+05:00",
-      "stop": "2026-05-06T18:00:00+05:00",
-      "title": "Global News Morning",
-      "desc": "Greater Toronto's top local news stories and latest weather forecast to start your day.",
-      "date": "2019",
-      "language": "en",
-      "categories": [
-        "News",
-        "Weather"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p16568475_b_h10_ad.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-05-06T15:00:00+05:00",
       "stop": "2026-05-06T18:00:00+05:00",
       "title": "Global News Morning",
@@ -102,6 +75,52 @@
           "Tamron Hall",
           "Cedric the Entertainer",
           "Anthony Anderson"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-06T19:00:00+05:00",
+      "stop": "2026-05-06T20:00:00+05:00",
+      "title": "Tamron Hall",
+      "desc": "Cedric the Entertainer and Anthony Anderson (book \"The Husky and Handsome Guide to Grilling\"); martial arts legend Jet Li opens up about his memoir; Jay Pharoah on hosting \"The Quiz with Balls\" and releasing new music.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Talk"
+      ],
+      "episode": "S7 E158",
+      "icon": "http://dtil.tmsimg.com/assets/p17197549_b_h8_af.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Tamron Hall",
+          "Cedric the Entertainer",
+          "Anthony Anderson"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-06T20:00:00+05:00",
+      "stop": "2026-05-06T21:00:00+05:00",
+      "title": "Property Brothers: Forever Home",
+      "sub_title": "Florence & Humberto",
+      "desc": "Florence and Humberto have loved living in their L.A. bungalow for over 20 years, but the tired home needs a facelift and the couple needs help deciding how to make their house work for their evolving needs.",
+      "date": "2021",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Series",
+        "Reality",
+        "House/garden",
+        "Home improvement"
+      ],
+      "episode": "S5 E9",
+      "icon": "http://dtil.tmsimg.com/assets/p16607789_b_h8_bg.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Jonathan Scott",
+          "Drew Scott"
         ]
       }
     }

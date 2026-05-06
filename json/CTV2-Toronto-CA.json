@@ -4,62 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-06T15:40:00+05:00",
-      "stop": "2026-05-06T16:20:00+05:00",
-      "title": "CTV News Barrie",
-      "desc": "CTV News covers stories that matter to Canadians - locally, nationally, & internationally.",
-      "date": "2014",
-      "language": "en",
-      "rating": "TV14",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p11226354_b_h8_ad.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-06T16:20:00+05:00",
-      "stop": "2026-05-06T17:00:00+05:00",
-      "title": "CTV News Barrie",
-      "desc": "CTV News covers stories that matter to Canadians - locally, nationally, & internationally.",
-      "date": "2014",
-      "language": "en",
-      "rating": "TV14",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p11226354_b_h8_ad.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-06T17:00:00+05:00",
-      "stop": "2026-05-06T17:30:00+05:00",
-      "title": "The Littlest Hobo",
-      "sub_title": "The Music Box",
-      "desc": "A young girl retreats into a fantasy world because her mother, a former ballerina, refuses to let her dance.",
-      "date": "1981",
-      "language": "en",
-      "rating": "TVG",
-      "categories": [
-        "Series",
-        "Holiday",
-        "Drama",
-        "Adventure",
-        "Animals"
-      ],
-      "episode": "S3 E12",
-      "icon": "http://dtil.tmsimg.com/assets/p507740_b_h10_ac.jpg?w=960&h=540",
-      "credits": {
-        "director": [
-          "Mario Azzopardi",
-          "Allan Eastman"
-        ],
-        "actor": [
-          "Jack Jessop",
-          "Karen Kain",
-          "Fiona McGillivray"
-        ]
-      }
-    },
-    {
       "start": "2026-05-06T17:30:00+05:00",
       "stop": "2026-05-06T18:00:00+05:00",
       "title": "The Littlest Hobo",
@@ -127,6 +71,75 @@
         "Variety"
       ],
       "icon": "http://dtil.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-06T19:00:00+05:00",
+      "stop": "2026-05-06T19:30:00+05:00",
+      "title": "Corner Gas",
+      "sub_title": "Lost and Found",
+      "desc": "Karen drives everyone crazy with her new hacky-sack; Oscar finds a pair of pants.",
+      "date": "2004",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Sitcom"
+      ],
+      "episode": "S2 E5",
+      "icon": "http://dtil.tmsimg.com/assets/p8495323_b_h10_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Brent Butt",
+          "Eric Peterson",
+          "Janet Wright"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-06T19:30:00+05:00",
+      "stop": "2026-05-06T20:00:00+05:00",
+      "title": "Corner Gas",
+      "sub_title": "Poor Brent",
+      "desc": "Brent buys a big-screen television; Lacey buys jewelry from Wanda.",
+      "date": "2004",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Sitcom"
+      ],
+      "episode": "S2 E6",
+      "icon": "http://dtil.tmsimg.com/assets/p8495323_b_h10_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Brent Butt",
+          "Eric Peterson",
+          "Janet Wright"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-06T20:00:00+05:00",
+      "stop": "2026-05-06T20:30:00+05:00",
+      "title": "Cash Cab",
+      "desc": "Unsuspecting members of the public climbing into an apparently normal taxicab, only to find themselves on national television, with a chance to win a small fortune; hosted by Adam Growe.",
+      "date": "2013",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Game show",
+        "Motorsports",
+        "Action sports",
+        "Esports"
+      ],
+      "episode": "S7 E8",
+      "icon": "http://dtil.tmsimg.com/assets/p217679_b_h8_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Adam Growe"
+        ]
+      }
     }
   ]
 }
