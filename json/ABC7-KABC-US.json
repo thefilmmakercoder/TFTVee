@@ -4,42 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-06T18:00:00+05:00",
-      "stop": "2026-05-06T19:00:00+05:00",
-      "title": "Eyewitness News 6AM",
-      "desc": "News coverage to start the day.",
-      "date": "2004",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p677002_b_h8_af.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-06T19:00:00+05:00",
-      "stop": "2026-05-06T21:00:00+05:00",
-      "title": "Good Morning America",
-      "desc": "Singer-songwriter Mary J. Blige; actors Meg Stalter and Paul Downs; owner of the New York Liberty Clara Wu Tsai and New York Liberty power forward Breanna Stewart; head coach Deion Sanders; May Book Club pick author; Deals & Steals with Tory Johnson.",
-      "date": "2026",
-      "language": "en",
-      "categories": [
-        "Series",
-        "Talk",
-        "News",
-        "Variety",
-        "Public affairs"
-      ],
-      "episode": "E144",
-      "icon": "http://dtil.tmsimg.com/assets/p31385280_b_h10_aa.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "George Stephanopoulos",
-          "Robin Roberts",
-          "Michael Strahan"
-        ]
-      }
-    },
-    {
       "start": "2026-05-06T21:00:00+05:00",
       "stop": "2026-05-06T22:00:00+05:00",
       "title": "Live with Kelly and Mark",
@@ -119,6 +83,53 @@
           "Kevin McKidd",
           "Will Ganss",
           "Tory Johnson"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-07T01:00:00+05:00",
+      "stop": "2026-05-07T02:00:00+05:00",
+      "title": "Tamron Hall",
+      "desc": "Cedric the Entertainer and Anthony Anderson (book \"The Husky and Handsome Guide to Grilling\"); martial arts legend Jet Li opens up about his memoir; Jay Pharoah on hosting \"The Quiz with Balls\" and releasing new music.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Talk"
+      ],
+      "episode": "S7 E158",
+      "icon": "http://dtil.tmsimg.com/assets/p17197549_b_h8_af.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Tamron Hall",
+          "Cedric the Entertainer",
+          "Anthony Anderson"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-07T02:00:00+05:00",
+      "stop": "2026-05-07T03:00:00+05:00",
+      "title": "General Hospital",
+      "desc": "Britt is floored; Dante seeks out Liz; Ethan covers his tracks; Laura tries to protect a loved one; Sonny faces a dilemma.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "Series",
+        "Soap",
+        "Medical",
+        "Drama",
+        "Romance"
+      ],
+      "episode": "S63 E164",
+      "icon": "http://dtil.tmsimg.com/assets/p183893_b_h8_al.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Maurice Benard",
+          "Steve Burton",
+          "Michael Easton"
         ]
       }
     }

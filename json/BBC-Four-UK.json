@@ -4,12 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-06T09:30:00+05:00",
-      "stop": "2026-05-06T15:30:00+05:00",
-      "title": "..programmes start at 7.00pm",
-      "language": "en"
-    },
-    {
       "start": "2026-05-06T15:30:00+05:00",
       "stop": "2026-05-06T21:30:00+05:00",
       "title": "..programmes start at 7.00pm",
@@ -51,6 +45,18 @@
         "Game Show"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/ba73f848-3e77-4000-827b-7f287f7b10ce/16-9"
+    },
+    {
+      "start": "2026-05-07T00:00:00+05:00",
+      "stop": "2026-05-07T01:00:00+05:00",
+      "title": "Inside Porton Down: Britain's Secret Weapons Research Facility",
+      "desc": "Dr Michael Mosley investigates the secretive and controversial military research base.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Factual"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/991d2d19-a69a-41ce-9ddd-aea286fda0c3/16-9"
     }
   ]
 }
