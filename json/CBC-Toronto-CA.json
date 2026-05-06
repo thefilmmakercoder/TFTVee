@@ -4,74 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-06T03:00:00+05:00",
-      "stop": "2026-05-06T04:00:00+05:00",
-      "title": "Live: CBC Toronto News",
-      "desc": "Dwight Drummond and team take a comprehensive look at the top stories, with breaking news, reports and updates relevant to the city of Toronto.",
-      "date": "2016",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p12466091_b_h10_ac.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Dwight Drummond"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-06T04:00:00+05:00",
-      "stop": "2026-05-06T05:00:00+05:00",
-      "title": "To Be Announced",
-      "desc": "Programming to be announced.",
-      "date": "2014",
-      "language": "en",
-      "rating": "B",
-      "categories": [
-        "Special",
-        "Entertainment"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p514472_b_h8_ad.jpg?w=960&h=540",
-      "credits": {
-        "director": [
-          "Kinga Michalska"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-06T05:00:00+05:00",
-      "stop": "2026-05-06T07:30:00+05:00",
-      "title": "Live: NHL Hockey",
-      "desc": "Western Conference Second Round, Game 2.",
-      "language": "en",
-      "categories": [
-        "Sports",
-        "Playoff sports",
-        "Hockey"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/GNLZZGG0033D3W5.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-06T07:30:00+05:00",
-      "stop": "2026-05-06T08:00:00+05:00",
-      "title": "To Be Announced",
-      "desc": "Programming to be announced.",
-      "date": "2014",
-      "language": "en",
-      "rating": "B",
-      "categories": [
-        "Special",
-        "Entertainment"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p514472_b_h8_ad.jpg?w=960&h=540",
-      "credits": {
-        "director": [
-          "Kinga Michalska"
-        ]
-      }
-    },
-    {
       "start": "2026-05-06T08:00:00+05:00",
       "stop": "2026-05-06T08:30:00+05:00",
       "title": "Live: CBC Toronto News at 11",
@@ -103,6 +35,109 @@
           "Mark Critch",
           "Trent McClellan",
           "Aba Amuquandoh"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-06T09:00:00+05:00",
+      "stop": "2026-05-06T09:30:00+05:00",
+      "title": "Coronation Street",
+      "desc": "Sarah quizzes Danielle about Theo's violent streak and Bernie hears news of Mal's plans.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Soap",
+        "Drama",
+        "Romance"
+      ],
+      "episode": "E71",
+      "icon": "http://dtil.tmsimg.com/assets/p183997_b_h11_aa.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Kevin Boyle"
+        ],
+        "actor": [
+          "Sue Devaney",
+          "Vinta Morgan",
+          "Jude Riordan"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-06T09:30:00+05:00",
+      "stop": "2026-05-06T10:00:00+05:00",
+      "title": "Run the Burbs",
+      "sub_title": "Raccoon Fever",
+      "desc": "A group of raccoons distracts Andrew from his school work; Camille and Barb team up to catch a graffiti bandit; Ramesh struggles to understand Khia's connection to Pride.",
+      "date": "2022",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Sitcom"
+      ],
+      "episode": "S1 E8",
+      "icon": "http://dtil.tmsimg.com/assets/p21349831_b_h8_aj.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Andrew Phung",
+          "Rakhee Morzaria",
+          "Zoriah Wong"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-06T10:00:00+05:00",
+      "stop": "2026-05-06T10:30:00+05:00",
+      "title": "Son of a Critch",
+      "sub_title": "Thanksgiving",
+      "desc": "Mark takes directing the school play too seriously and finds himself without a cast and crew; Mark stubbornly tries to perform the play alone but realizes he's not a one-man-show.",
+      "date": "2024",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Sitcom"
+      ],
+      "episode": "S3 E8",
+      "icon": "http://dtil.tmsimg.com/assets/p21339232_b_h8_am.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Deanne Foley"
+        ],
+        "actor": [
+          "Benjamin Evan Ainsworth",
+          "Mark Critch",
+          "Malcolm McDowell"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-06T10:30:00+05:00",
+      "stop": "2026-05-06T11:00:00+05:00",
+      "title": "Workin' Moms",
+      "sub_title": "Oh. Ohh. Ohhh",
+      "desc": "Kate plays detective after finding a mysterious phone number in Nathan's pocket; Anne's explosive personality lands her in anger management; Sloane's ultrasound appointment goes a little too well.",
+      "date": "2022",
+      "language": "en",
+      "rating": "TVMA",
+      "categories": [
+        "Series",
+        "Sitcom",
+        "Comedy drama"
+      ],
+      "episode": "S6 E6",
+      "icon": "http://dtil.tmsimg.com/assets/p21349758_b_h10_ab.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Mars Horodyski"
+        ],
+        "actor": [
+          "Catherine Reitman",
+          "Dani Kind",
+          "Jessalyn Wanlim"
         ]
       }
     }

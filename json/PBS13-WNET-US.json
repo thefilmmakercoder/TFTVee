@@ -4,72 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-06T03:30:00+05:00",
-      "stop": "2026-05-06T04:00:00+05:00",
-      "title": "BBC World News America",
-      "desc": "A detailed look into news stories from around the world from the BBC news desk in Washington, D.C.",
-      "date": "2026",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p32402912_b_h10_aa.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Sumi Somaskanda",
-          "Caitr\u00edona Perry"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-06T04:00:00+05:00",
-      "stop": "2026-05-06T05:00:00+05:00",
-      "title": "PBS News Hour",
-      "desc": "Co-anchors Amna Nawaz and Geoff Bennett and correspondents offer in-depth analysis of current events.",
-      "date": "2026",
-      "language": "en",
-      "categories": [
-        "Series",
-        "News"
-      ],
-      "episode": "S52 E221",
-      "icon": "http://dtil.tmsimg.com/assets/p27608822_b_h8_ac.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Amna Nawaz",
-          "Geoff Bennett"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-06T05:00:00+05:00",
-      "stop": "2026-05-06T06:00:00+05:00",
-      "title": "Finding Your Roots With Henry Louis Gates, Jr.",
-      "sub_title": "In the Blood",
-      "desc": "Actor Michael Douglas and writer/director Lena Dunham explore their family roots.",
-      "date": "2024",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Series",
-        "Documentary",
-        "History"
-      ],
-      "episode": "S10 E9",
-      "icon": "http://dtil.tmsimg.com/assets/p9029128_b_h8_ad.jpg?w=960&h=540",
-      "credits": {
-        "director": [
-          "Jesse Sweet",
-          "Hazel Gurland"
-        ],
-        "actor": [
-          "Henry Louis Gates",
-          "Michael Douglas",
-          "Lena Dunham"
-        ]
-      }
-    },
-    {
       "start": "2026-05-06T06:00:00+05:00",
       "stop": "2026-05-06T08:30:00+05:00",
       "title": "The American Revolution",
@@ -130,6 +64,66 @@
         "Art"
       ],
       "icon": "http://dtil.tmsimg.com/assets/p31308433_st_h10_aa.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-06T11:30:00+05:00",
+      "stop": "2026-05-06T13:30:00+05:00",
+      "title": "Memory Makeover With Daniel Amen, MD",
+      "desc": "Dr. Daniel Amen explains the causes of memory loss, the seven foods and supplements that may enhance memory and how to supercharge memory with 11 simple daily practices.",
+      "date": "2023",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Special",
+        "Health",
+        "Self improvement"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p23789308_b_h8_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Daniel Amen"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-06T13:30:00+05:00",
+      "stop": "2026-05-06T15:00:00+05:00",
+      "title": "America Made With Love",
+      "desc": "Artisans including a cowboy, bootmaker and jewelry artist inspired by Indigenous ancestry embody the essence of American ingenuity.",
+      "date": "2025",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Special",
+        "Documentary"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p29255702_b_h8_aa.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-06T15:00:00+05:00",
+      "stop": "2026-05-06T15:30:00+05:00",
+      "title": "Arthur",
+      "sub_title": "Arthur Plays the Blues; Buster's Sweet Success",
+      "desc": "Arthur gets a new piano teacher; Buster volunteers to sell candy for the band.",
+      "date": "2001",
+      "language": "en",
+      "rating": "TVY",
+      "categories": [
+        "Series",
+        "Animated",
+        "Children",
+        "Educational",
+        "Animals"
+      ],
+      "episode": "S6 E2",
+      "icon": "http://dtil.tmsimg.com/assets/p8636200_b_h10_ac.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Cameron Ansell",
+          "Robert Naylor",
+          "Bruce Dinsmore"
+        ]
+      }
     }
   ]
 }
