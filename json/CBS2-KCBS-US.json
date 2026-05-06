@@ -4,28 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-06T16:00:00+05:00",
-      "stop": "2026-05-06T18:00:00+05:00",
-      "title": "CBS Mornings",
-      "desc": "Actor Nathan Lane.",
-      "date": "2026",
-      "language": "en",
-      "categories": [
-        "Series",
-        "Talk",
-        "News"
-      ],
-      "episode": "E90",
-      "icon": "http://dtil.tmsimg.com/assets/p20589677_b_h8_ai.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Gayle King",
-          "Tony Dokoupil",
-          "Nate Burleson"
-        ]
-      }
-    },
-    {
       "start": "2026-05-06T18:00:00+05:00",
       "stop": "2026-05-06T19:00:00+05:00",
       "title": "CBS LA Mornings at 6am",
@@ -110,6 +88,18 @@
         "Soccer"
       ],
       "icon": "http://dtil.tmsimg.com/assets/p19812101_b_h10_ab.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-07T00:00:00+05:00",
+      "stop": "2026-05-07T02:00:00+05:00",
+      "title": "Live: UEFA Champions League Soccer",
+      "desc": "Semifinal, 2nd Leg.",
+      "language": "en",
+      "categories": [
+        "Sports",
+        "Soccer"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/GNLZZGG0033D75X.jpg?w=960&h=540"
     }
   ]
 }

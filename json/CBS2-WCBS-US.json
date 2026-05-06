@@ -4,75 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-06T16:00:00+05:00",
-      "stop": "2026-05-06T18:00:00+05:00",
-      "title": "CBS Mornings",
-      "desc": "Actor Nathan Lane.",
-      "date": "2026",
-      "language": "en",
-      "categories": [
-        "Series",
-        "Talk",
-        "News"
-      ],
-      "episode": "E90",
-      "icon": "http://dtil.tmsimg.com/assets/p20589677_b_h8_ai.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Gayle King",
-          "Tony Dokoupil",
-          "Nate Burleson"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-06T18:00:00+05:00",
-      "stop": "2026-05-06T18:30:00+05:00",
-      "title": "The Drew Barrymore Show",
-      "sub_title": "Robin Wright; Valerie Bertinelli",
-      "desc": "Robin Wright tells Drew about starring in and directing the new show \"The Girlfriend\"; Valerie Bertinelli covers the news sunny-side up with Drew and Ross.",
-      "date": "2025",
-      "language": "en",
-      "rating": "TVG",
-      "categories": [
-        "Series",
-        "Talk",
-        "Entertainment"
-      ],
-      "episode": "S6 E19",
-      "icon": "http://dtil.tmsimg.com/assets/p31124897_b_h8_aa.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Drew Barrymore",
-          "Ross Mathews",
-          "Robin Wright"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-06T18:30:00+05:00",
-      "stop": "2026-05-06T19:00:00+05:00",
-      "title": "The Drew Barrymore Show",
-      "sub_title": "Misty Copeland",
-      "desc": "Misty Copeland (children's book \"Bunheads Act 2: The Dance of Courage\").",
-      "date": "2025",
-      "language": "en",
-      "rating": "TVG",
-      "categories": [
-        "Series",
-        "Talk",
-        "Entertainment"
-      ],
-      "episode": "S6 E20",
-      "icon": "http://dtil.tmsimg.com/assets/p31124897_b_h8_aa.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Drew Barrymore",
-          "Misty Copeland"
-        ]
-      }
-    },
-    {
       "start": "2026-05-06T19:00:00+05:00",
       "stop": "2026-05-06T20:00:00+05:00",
       "title": "Let's Make a Deal",
@@ -124,6 +55,64 @@
         "News"
       ],
       "icon": "http://dtil.tmsimg.com/assets/p8492448_b_h8_aa.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-06T21:30:00+05:00",
+      "stop": "2026-05-06T22:30:00+05:00",
+      "title": "The Young and the Restless",
+      "desc": "Michael and Phyllis do damage control; Lily attempts to help Malcolm are thwarted; Claire makes a bold move to support Holden.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "Series",
+        "Soap"
+      ],
+      "episode": "S53 E146",
+      "icon": "http://dtil.tmsimg.com/assets/p183904_b_h8_ai.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Peter Bergman",
+          "Eric Braeden",
+          "Christel Khalil"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-06T22:30:00+05:00",
+      "stop": "2026-05-06T23:00:00+05:00",
+      "title": "The Bold and the Beautiful",
+      "desc": "Brooke extends an olive branch to Katie; Daphne has an intriguing offer for Dylan.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "Series",
+        "Soap",
+        "Drama",
+        "Romance"
+      ],
+      "episode": "S39 E162",
+      "icon": "http://dtil.tmsimg.com/assets/p31167565_b_h10_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Katherine Kelly Lang",
+          "Jacqueline MacInnes Wood",
+          "Thorsten Kaye"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-06T23:00:00+05:00",
+      "stop": "2026-05-07T00:00:00+05:00",
+      "title": "Live: UEFA Champions League Today",
+      "desc": "News and highlights from the UEFA Champions League.",
+      "date": "2021",
+      "language": "en",
+      "categories": [
+        "Soccer"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p19812101_b_h10_ab.jpg?w=960&h=540"
     }
   ]
 }

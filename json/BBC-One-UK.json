@@ -4,42 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-06T17:00:00+05:00",
-      "stop": "2026-05-06T18:00:00+05:00",
-      "title": "BBC News at One including BBC London News",
-      "desc": "The latest national and international news from the BBC.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/99408d05-5565-4090-b51d-d1b7b55e3d6e/16-9"
-    },
-    {
-      "start": "2026-05-06T18:00:00+05:00",
-      "stop": "2026-05-06T18:30:00+05:00",
-      "title": "Scam Interceptors",
-      "desc": "A man is on the phone to a tech support scammer, leaving the team struggling to find a way to get through to him and stop the scam. And we chat to a fake Jennifer Aniston.",
-      "language": "en",
-      "categories": [
-        "Entertainment",
-        "Factual"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/d4786062-6d6e-4dcb-a40f-489aa5ce796b/16-9"
-    },
-    {
-      "start": "2026-05-06T18:30:00+05:00",
-      "stop": "2026-05-06T19:30:00+05:00",
-      "title": "Attenborough and the Sea Dragon",
-      "desc": "Following David Attenborough as he attempts to animate the life of the ichthyosaur whose 200-million-year-old fossil remains were found on Britain's Jurassic coast.",
-      "language": "en",
-      "categories": [
-        "Entertainment",
-        "Factual"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/55816a39-611a-48bb-8468-799fa1d01e64/16-9"
-    },
-    {
       "start": "2026-05-06T19:30:00+05:00",
       "stop": "2026-05-06T20:30:00+05:00",
       "title": "Escape to the Country",
@@ -74,6 +38,41 @@
         "Game Show"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/dcceae59-833c-46d5-ad82-0a366391ba92/16-9"
+    },
+    {
+      "start": "2026-05-06T22:00:00+05:00",
+      "stop": "2026-05-06T22:30:00+05:00",
+      "title": "BBC News",
+      "desc": "The latest national and international news from the BBC.",
+      "language": "en",
+      "categories": [
+        "News & Documentary",
+        "News"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/1b969da8-176b-4124-8e0f-efa0f04d5a2c/16-9"
+    },
+    {
+      "start": "2026-05-06T22:30:00+05:00",
+      "stop": "2026-05-06T23:00:00+05:00",
+      "title": "BBC London News",
+      "desc": "The latest news, sport and weather from London.",
+      "language": "en",
+      "categories": [
+        "News & Documentary",
+        "News"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/fd554d04-534e-4ec5-9bd7-58f18103cf4f/16-9"
+    },
+    {
+      "start": "2026-05-06T23:00:00+05:00",
+      "stop": "2026-05-06T23:30:00+05:00",
+      "title": "The One Show",
+      "desc": "Alex Jones and JB Gill bring you the stories that matter from across the country.",
+      "language": "en",
+      "categories": [
+        "Entertainment"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/0ba88f88-2b3a-44c2-b32b-4429d8a72d97/16-9"
     }
   ]
 }

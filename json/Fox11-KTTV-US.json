@@ -4,18 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-06T17:00:00+05:00",
-      "stop": "2026-05-06T18:00:00+05:00",
-      "title": "Good Day LA at 5am",
-      "desc": "Morning news coverage.",
-      "date": "2019",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p16719270_b_h8_ab.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-05-06T18:00:00+05:00",
       "stop": "2026-05-06T19:00:00+05:00",
       "title": "Good Day LA at 6am",
@@ -73,6 +61,29 @@
         "Newsmagazine"
       ],
       "icon": "http://dtil.tmsimg.com/assets/p26513975_b_h8_ab.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-07T00:00:00+05:00",
+      "stop": "2026-05-07T01:00:00+05:00",
+      "title": "Sherri",
+      "sub_title": "Zarna Garg",
+      "desc": "Sherri kicks off the show with laughs in The Stand-Up Spot; Zarna Garg tells Sherri how she went from being a stay-at-home mom to a viral comic; women looking to break into the world of stand-up comedy perform in \"Sherri's Funny Over 50\" competition.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Talk",
+        "Interview"
+      ],
+      "episode": "S4 E127",
+      "icon": "http://dtil.tmsimg.com/assets/p21805765_b_h8_ab.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Sherri Shepherd",
+          "Zarna Garg"
+        ]
+      }
     }
   ]
 }

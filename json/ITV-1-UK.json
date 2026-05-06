@@ -4,30 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-06T17:55:00+05:00",
-      "stop": "2026-05-06T18:00:00+05:00",
-      "title": "ITV News London",
-      "desc": "The latest news and weather from London and the South East.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/e7e8ce75-2789-484a-a385-e037f990772e/16-9"
-    },
-    {
-      "start": "2026-05-06T18:00:00+05:00",
-      "stop": "2026-05-06T19:00:00+05:00",
-      "title": "Dickinson's Real Deal",
-      "desc": "David's at Leeds United Football Club, James gets a red car over some footy caricature, Alison get revved up over some toys, and antiques from Shanghai tickle Tim.",
-      "language": "en",
-      "categories": [
-        "Entertainment",
-        "Antiques"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/ca44f351-ea62-4282-ac7f-bc9d8b22ccf6/16-9"
-    },
-    {
       "start": "2026-05-06T19:00:00+05:00",
       "stop": "2026-05-06T20:00:00+05:00",
       "title": "Lingo",
@@ -74,6 +50,30 @@
         "News"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/ef7ca1b7-15b7-4cf1-8fb3-930b1a16964b/16-9"
+    },
+    {
+      "start": "2026-05-06T22:30:00+05:00",
+      "stop": "2026-05-06T23:30:00+05:00",
+      "title": "ITV Evening News",
+      "desc": "National and international news with reports and analysis from ITV's Correspondents in the UK and around the world, plus a focus on the stories that matter to you.",
+      "language": "en",
+      "categories": [
+        "News & Documentary",
+        "News"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/fe316ea4-08bc-4f5b-b590-a5466683fb13/16-9"
+    },
+    {
+      "start": "2026-05-06T23:30:00+05:00",
+      "stop": "2026-05-07T00:00:00+05:00",
+      "title": "For the Love of Dogs with Alison Hammond",
+      "desc": "Alison meets an excitable spaniel with a serious knee issue, a frustrated crossbreed desperate to use his nose, and helps teach sign language to a Staffy.",
+      "language": "en",
+      "categories": [
+        "News & Documentary",
+        "Nature"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/40171587-ff4b-482d-bfdd-3bf77c8f2166/16-9"
     }
   ]
 }

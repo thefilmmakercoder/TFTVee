@@ -4,81 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-06T15:00:00+05:00",
-      "stop": "2026-05-06T18:00:00+05:00",
-      "title": "Global News Morning",
-      "desc": "Greater Toronto's top local news stories and latest weather forecast to start your day.",
-      "date": "2019",
-      "language": "en",
-      "categories": [
-        "News",
-        "Weather"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p16568475_b_h10_ad.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-06T18:00:00+05:00",
-      "stop": "2026-05-06T19:00:00+05:00",
-      "title": "The Morning Show",
-      "desc": "Viewers from across the country are welcomed in for an hour of smart conversation, lifestyle segments, big-name guests and live performances.",
-      "date": "2011",
-      "language": "en",
-      "categories": [
-        "News",
-        "Interview"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p8861345_b_h8_aa.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Carolyn Mackenzie",
-          "Jeff McArthur",
-          "Liem Vu"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-06T18:00:00+05:00",
-      "stop": "2026-05-06T19:00:00+05:00",
-      "title": "The Morning Show",
-      "desc": "Viewers from across the country are welcomed in for an hour of smart conversation, lifestyle segments, big-name guests and live performances.",
-      "date": "2011",
-      "language": "en",
-      "categories": [
-        "News",
-        "Interview"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p8861345_b_h8_aa.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Carolyn Mackenzie",
-          "Jeff McArthur",
-          "Liem Vu"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-06T19:00:00+05:00",
-      "stop": "2026-05-06T20:00:00+05:00",
-      "title": "Tamron Hall",
-      "desc": "Cedric the Entertainer and Anthony Anderson (book \"The Husky and Handsome Guide to Grilling\"); martial arts legend Jet Li opens up about his memoir; Jay Pharoah on hosting \"The Quiz with Balls\" and releasing new music.",
-      "date": "2026",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Series",
-        "Talk"
-      ],
-      "episode": "S7 E158",
-      "icon": "http://dtil.tmsimg.com/assets/p17197549_b_h8_af.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Tamron Hall",
-          "Cedric the Entertainer",
-          "Anthony Anderson"
-        ]
-      }
-    },
-    {
       "start": "2026-05-06T19:00:00+05:00",
       "stop": "2026-05-06T20:00:00+05:00",
       "title": "Tamron Hall",
@@ -121,6 +46,79 @@
         "actor": [
           "Jonathan Scott",
           "Drew Scott"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-06T20:00:00+05:00",
+      "stop": "2026-05-06T21:00:00+05:00",
+      "title": "Property Brothers: Forever Home",
+      "sub_title": "Florence & Humberto",
+      "desc": "Florence and Humberto have loved living in their L.A. bungalow for over 20 years, but the tired home needs a facelift and the couple needs help deciding how to make their house work for their evolving needs.",
+      "date": "2021",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Series",
+        "Reality",
+        "House/garden",
+        "Home improvement"
+      ],
+      "episode": "S5 E9",
+      "icon": "http://dtil.tmsimg.com/assets/p16607789_b_h8_bg.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Jonathan Scott",
+          "Drew Scott"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-06T21:00:00+05:00",
+      "stop": "2026-05-06T21:30:00+05:00",
+      "title": "Global News at Noon",
+      "desc": "Greater Toronto's top local news stories and latest weather forecast.",
+      "date": "2012",
+      "language": "en",
+      "categories": [
+        "News",
+        "Weather"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p9380798_b_h10_ab.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-06T21:00:00+05:00",
+      "stop": "2026-05-06T21:30:00+05:00",
+      "title": "Global News at Noon",
+      "desc": "Greater Toronto's top local news stories and latest weather forecast.",
+      "date": "2012",
+      "language": "en",
+      "categories": [
+        "News",
+        "Weather"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p9380798_b_h10_ab.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-06T21:30:00+05:00",
+      "stop": "2026-05-06T22:00:00+05:00",
+      "title": "Save My Reno",
+      "sub_title": "Jennie & Michael",
+      "desc": "Sebastian and Samantha work to fix Jennie and Michael's problem solarium while transforming the kitchen it's attached to.",
+      "date": "2020",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Series",
+        "House/garden",
+        "Reality"
+      ],
+      "episode": "S3 E11",
+      "icon": "http://dtil.tmsimg.com/assets/p13935337_b_h8_ai.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Sebastian Clovis",
+          "Samantha Pynn"
         ]
       }
     }
