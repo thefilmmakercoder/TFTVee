@@ -4,89 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-06T05:30:00+05:00",
-      "stop": "2026-05-06T08:30:00+05:00",
-      "title": "Live: NBA Basketball",
-      "desc": "The Thunder host the Lakers for a pivotal Game 1 of the Western Conference second-round series. Top-seeded Oklahoma City enters after a first-round sweep, while Los Angeles won its series in six games. The Thunder swept the season series 4-0.",
-      "language": "en",
-      "categories": [
-        "Sports",
-        "Playoff sports",
-        "Basketball"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/GNLZZGG0033D3HG.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-06T08:30:00+05:00",
-      "stop": "2026-05-06T09:00:00+05:00",
-      "title": "NBC4 News",
-      "desc": "Breaking news, local stories, weather reports and events taking place in Southern California.",
-      "date": "2022",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p25191676_b_h10_aa.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-06T09:00:00+05:00",
-      "stop": "2026-05-06T09:30:00+05:00",
-      "title": "California Live",
-      "desc": "Previously recorded; lifestyle show featuring the latest in travel, food and fashion.",
-      "date": "2022",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p22187816_b_h10_ab.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-06T09:30:00+05:00",
-      "stop": "2026-05-06T10:00:00+05:00",
-      "title": "Access Hollywood",
-      "desc": "Met Gala's biggest red-carpet moments and the style icons who stole the show!",
-      "date": "2026",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Series",
-        "Newsmagazine",
-        "Entertainment",
-        "Interview"
-      ],
-      "episode": "S30 E165",
-      "icon": "http://dtil.tmsimg.com/assets/p30926755_b_h8_ab.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Mario Lopez",
-          "Kit Hoover",
-          "Scott Evans"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-06T10:00:00+05:00",
-      "stop": "2026-05-06T11:00:00+05:00",
-      "title": "Dateline NBC",
-      "sub_title": "The Beauty and the Beast Mystery",
-      "desc": "An Indiana mother is found asphyxiated in her basement gym.",
-      "date": "2011",
-      "language": "en",
-      "categories": [
-        "Series",
-        "Newsmagazine",
-        "Mystery",
-        "Crime"
-      ],
-      "episode": "S19 E35 P1/2",
-      "icon": "http://dtil.tmsimg.com/assets/p184061_b_h8_ab.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Ann Curry"
-        ]
-      }
-    },
-    {
       "start": "2026-05-06T11:00:00+05:00",
       "stop": "2026-05-06T11:34:00+05:00",
       "title": "NBC4 News at 11pm",
@@ -97,6 +14,110 @@
         "News"
       ],
       "icon": "http://dtil.tmsimg.com/assets/p8781143_b_h10_ad.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-06T11:34:00+05:00",
+      "stop": "2026-05-06T12:37:00+05:00",
+      "title": "The Tonight Show Starring Jimmy Fallon",
+      "sub_title": "Justin Hartley; Cara Delevingne; Walt Frazier; Maddy Kelly",
+      "desc": "Actor Justin Hartley; actress Cara Delevingne; former professional basketball player Walt Frazier; comic Maddy Kelly.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "Series",
+        "Talk",
+        "Comedy"
+      ],
+      "episode": "S13 E100",
+      "icon": "http://dtil.tmsimg.com/assets/p9898935_b_h8_am.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Jimmy Fallon",
+          "Justin Hartley",
+          "Cara Delevingne"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-06T12:37:00+05:00",
+      "stop": "2026-05-06T13:37:00+05:00",
+      "title": "Late Night With Seth Meyers",
+      "sub_title": "Meg Stalter; Caro Claire Burke",
+      "desc": "Actress Meg Stalter; author Caro Claire Burke.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "Series",
+        "Talk",
+        "Comedy",
+        "Political News Satire & Talk"
+      ],
+      "episode": "S13 E95",
+      "icon": "http://dtil.tmsimg.com/assets/p31240203_b_h8_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Seth Meyers",
+          "Meg Stalter",
+          "Caro Claire Burke"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-06T13:37:00+05:00",
+      "stop": "2026-05-06T14:07:00+05:00",
+      "title": "NBC4 News at 11pm",
+      "desc": "The latest local news, weather and investigative stories impacting the community.",
+      "date": "2011",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p8781143_b_h10_ad.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-06T14:07:00+05:00",
+      "stop": "2026-05-06T14:37:00+05:00",
+      "title": "NBC Nightly News With Tom Llamas",
+      "desc": "Tom Llamas anchors the latest news, going beyond the headlines to see how lives are affected by the world around them.",
+      "date": "2026",
+      "language": "en",
+      "categories": [
+        "Series",
+        "News"
+      ],
+      "episode": "S2 E116",
+      "icon": "http://dtil.tmsimg.com/assets/p30141511_b_h8_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Tom Llamas"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-06T14:37:00+05:00",
+      "stop": "2026-05-06T15:30:00+05:00",
+      "title": "The Kelly Clarkson Show",
+      "desc": "Kellyoke encore: \"Ain't That Lonely Yet\"; Ellen Burstyn; Charles Melton; Robert Smigel; bargains and deals with Lawrence Zarian and MorningSave; Dr. Lee Long (book \"Wait, Where Am I in This?\"); Willa Ford performs.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Talk",
+        "Variety",
+        "Entertainment"
+      ],
+      "episode": "S7 E129",
+      "icon": "http://dtil.tmsimg.com/assets/p16993616_b_h8_af.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Kelly Clarkson",
+          "Ellen Burstyn",
+          "Charles Melton"
+        ]
+      }
     }
   ]
 }

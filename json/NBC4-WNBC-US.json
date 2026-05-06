@@ -4,67 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-06T08:30:00+05:00",
-      "stop": "2026-05-06T08:34:00+05:00",
-      "title": "Live: News 4 NY at 11",
-      "desc": "Local and regional news.",
-      "date": "2014",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p10513206_b_h10_ae.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-06T08:34:00+05:00",
-      "stop": "2026-05-06T09:37:00+05:00",
-      "title": "The Tonight Show Starring Jimmy Fallon",
-      "sub_title": "Justin Hartley; Maddy Kelly",
-      "desc": "Actor Justin Hartley; comic Maddy Kelly.",
-      "date": "2026",
-      "language": "en",
-      "rating": "TV14",
-      "categories": [
-        "Series",
-        "Talk",
-        "Comedy"
-      ],
-      "episode": "S13 E100",
-      "icon": "http://dtil.tmsimg.com/assets/p9898935_b_h8_am.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Jimmy Fallon",
-          "Justin Hartley",
-          "Maddy Kelly"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-06T09:37:00+05:00",
-      "stop": "2026-05-06T10:37:00+05:00",
-      "title": "Late Night With Seth Meyers",
-      "sub_title": "Meg Stalter; Caro Claire Burke",
-      "desc": "Actress Meg Stalter; author Caro Claire Burke.",
-      "date": "2026",
-      "language": "en",
-      "rating": "TV14",
-      "categories": [
-        "Series",
-        "Talk",
-        "Comedy",
-        "Political News Satire & Talk"
-      ],
-      "episode": "S13 E95",
-      "icon": "http://dtil.tmsimg.com/assets/p31240203_b_h8_aa.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Seth Meyers",
-          "Meg Stalter",
-          "Caro Claire Burke"
-        ]
-      }
-    },
-    {
       "start": "2026-05-06T10:37:00+05:00",
       "stop": "2026-05-06T11:07:00+05:00",
       "title": "News 4 NY at 11",
@@ -118,6 +57,55 @@
           "Scott Evans"
         ]
       }
+    },
+    {
+      "start": "2026-05-06T12:07:00+05:00",
+      "stop": "2026-05-06T13:00:00+05:00",
+      "title": "The Kelly Clarkson Show",
+      "desc": "Kellyoke encore: \"Ain't That Lonely Yet\"; Ellen Burstyn; Charles Melton; Robert Smigel; bargains and deals with Lawrence Zarian and MorningSave; Dr. Lee Long (book \"Wait, Where Am I in This?\"); Willa Ford performs.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Talk",
+        "Variety",
+        "Entertainment"
+      ],
+      "episode": "S7 E129",
+      "icon": "http://dtil.tmsimg.com/assets/p16993616_b_h8_af.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Kelly Clarkson",
+          "Ellen Burstyn",
+          "Charles Melton"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-06T13:00:00+05:00",
+      "stop": "2026-05-06T13:30:00+05:00",
+      "title": "Early Today",
+      "desc": "This early-morning news covers overnight events, breaking domestic and international news as well as a preview of the day's anticipated events. The program also presents regular reports from the worlds of business, entertainment and sports.",
+      "date": "1999",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p185301_b_h8_ag.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-06T13:30:00+05:00",
+      "stop": "2026-05-06T14:00:00+05:00",
+      "title": "Today in New York",
+      "desc": "The local news, weather and investigative stories impacting your community.",
+      "date": "2000",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p960598_b_h10_ac.jpg?w=960&h=540"
     }
   ]
 }

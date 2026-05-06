@@ -4,18 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-06T06:15:00+05:00",
-      "stop": "2026-05-06T07:15:00+05:00",
-      "title": "Lost Cities of the Ancients",
-      "desc": "A journey to the Lambeyeque valley in Peru and the ruins of 250 mysterious pyramids. Contains some scenes which some viewers may find upsetting.",
-      "language": "en",
-      "categories": [
-        "Entertainment",
-        "Factual"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/dd841e88-ebb2-4de1-913c-cf12542105f1/16-9"
-    },
-    {
       "start": "2026-05-06T07:15:00+05:00",
       "stop": "2026-05-06T09:30:00+05:00",
       "title": "This is BBC Four",
@@ -46,6 +34,18 @@
       "title": "This is BBC Four",
       "desc": "Programmes start at 7.00pm.",
       "language": "en"
+    },
+    {
+      "start": "2026-05-06T23:00:00+05:00",
+      "stop": "2026-05-06T23:30:00+05:00",
+      "title": "University Challenge",
+      "desc": "The London School of Economics faces off against University College, Oxford.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Game Show"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/36692352-50a1-48fb-963b-a20641d5afee/16-9"
     }
   ]
 }

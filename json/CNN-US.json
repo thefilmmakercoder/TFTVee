@@ -4,25 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-06T06:00:00+05:00",
-      "stop": "2026-05-06T08:00:00+05:00",
-      "title": "Live: The California Governor Primary Debate: A CNN Special Event",
-      "desc": "CNN hosts the California Governor Primary Debate as the race enters its final stretch, giving voters a chance to hear directly from candidates seeking to lead the nation's most populous state; Elex Michaelson and Kaitlan Collins moderate.",
-      "date": "2026",
-      "language": "en",
-      "categories": [
-        "Special",
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p32963966_b_h8_aa.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Kaitlin Collins",
-          "Elex Michaelson"
-        ]
-      }
-    },
-    {
       "start": "2026-05-06T08:00:00+05:00",
       "stop": "2026-05-06T10:00:00+05:00",
       "title": "Live: CNN NewsNight With Abby Phillip",
@@ -101,7 +82,7 @@
     {
       "start": "2026-05-06T14:00:00+05:00",
       "stop": "2026-05-06T15:00:00+05:00",
-      "title": "CNN Headline Express",
+      "title": "Live: CNN Headline Express",
       "desc": "Brad Smith brings you the day's biggest headlines and most buzzworthy stories.",
       "date": "2026",
       "language": "en",
@@ -111,6 +92,26 @@
       ],
       "episode": "E3",
       "icon": "http://dtil.tmsimg.com/assets/p32988509_b_h8_ac.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-06T15:00:00+05:00",
+      "stop": "2026-05-06T16:00:00+05:00",
+      "title": "Live: CNN This Morning",
+      "desc": "Stories from across the world and refreshing conversations with Audie Cornish.",
+      "date": "2026",
+      "language": "en",
+      "categories": [
+        "Series",
+        "News"
+      ],
+      "episode": "E90",
+      "icon": "http://dtil.tmsimg.com/assets/p23245784_b_h8_ai.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Kasie Hunt",
+          "Don Lemon"
+        ]
+      }
     }
   ]
 }

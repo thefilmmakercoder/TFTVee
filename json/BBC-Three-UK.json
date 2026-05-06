@@ -4,18 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-06T06:55:00+05:00",
-      "stop": "2026-05-06T07:55:00+05:00",
-      "title": "Mammals",
-      "desc": "The dark, a world of opportunity for mammals. More than two-thirds prefer the cover of the night, with some now returning to the safety of the shadows in order to avoid us.",
-      "language": "en",
-      "categories": [
-        "Entertainment",
-        "Factual"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/8a06b4b2-8990-3a04-95b1-943ce676838f/16-9"
-    },
-    {
       "start": "2026-05-06T07:55:00+05:00",
       "stop": "2026-05-06T09:30:00+05:00",
       "title": "This is BBC Three",
@@ -46,6 +34,18 @@
       "title": "This is BBC Three",
       "desc": "Programmes start at 7.00pm.",
       "language": "en"
+    },
+    {
+      "start": "2026-05-06T23:00:00+05:00",
+      "stop": "2026-05-06T23:05:00+05:00",
+      "title": "The Catch Up",
+      "desc": "A round-up of the day's news.",
+      "language": "en",
+      "categories": [
+        "News & Documentary",
+        "News"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/e71ab9ef-9a9d-4c6b-ad82-fffb8653e554/16-9"
     }
   ]
 }

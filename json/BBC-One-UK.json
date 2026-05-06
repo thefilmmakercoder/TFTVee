@@ -4,18 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-06T05:30:00+05:00",
-      "stop": "2026-05-06T05:35:00+05:00",
-      "title": "Weather for the Week Ahead",
-      "desc": "Detailed weather forecast.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/5b52137a-c8ff-42cd-ac60-797f7931a560/16-9"
-    },
-    {
       "start": "2026-05-06T05:35:00+05:00",
       "stop": "2026-05-06T10:00:00+05:00",
       "title": "BBC News",
@@ -73,6 +61,18 @@
         "Factual"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/c1ea2b75-ee0d-4eb8-8dc9-d882b4721083/16-9"
+    },
+    {
+      "start": "2026-05-06T16:15:00+05:00",
+      "stop": "2026-05-06T17:00:00+05:00",
+      "title": "Bargain Hunt",
+      "desc": "Students take on lecturers at an antiques fair in Wetherby, with experts Philip Serrell and Jonathan Pratt. Meanwhile, Caroline shows fair-goers a horsehair-stuffed mystery item.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Game Show"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/3b586a89-ebba-3e4c-89c7-87fd7acf7b18/16-9"
     }
   ]
 }

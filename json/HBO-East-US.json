@@ -4,78 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-06T07:03:00+05:00",
-      "stop": "2026-05-06T08:07:00+05:00",
-      "title": "Euphoria",
-      "sub_title": "Kitty Likes To Dance",
-      "desc": "A group of high school students navigates drugs, sex, identity, trauma, social media, love and friendship.",
-      "date": "2026",
-      "language": "en",
-      "rating": "TVMA",
-      "categories": [
-        "Series",
-        "Drama"
-      ],
-      "episode": "S3 E4",
-      "icon": "http://dtil.tmsimg.com/assets/p32242506_b_h8_ac.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Zendaya",
-          "Maude Apatow",
-          "Angus Cloud"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-06T08:07:00+05:00",
-      "stop": "2026-05-06T09:10:00+05:00",
-      "title": "The Dark Wizard",
-      "sub_title": "Transcending Human Limitations",
-      "desc": "With a new relationship grounding him, Dean regains emotional stability and his long-held dream of flight comes to fruition when he immerses himself in the cutting-edge world of wingsuit flying.",
-      "date": "2026",
-      "language": "en",
-      "rating": "A14",
-      "categories": [
-        "Series",
-        "Documentary",
-        "Action",
-        "Biography"
-      ],
-      "episode": "S1 E4",
-      "icon": "http://dtil.tmsimg.com/assets/p32613736_b_h10_aa.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Dean Potter",
-          "Alex Honnold"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-06T09:10:00+05:00",
-      "stop": "2026-05-06T10:13:00+05:00",
-      "title": "Half Man",
-      "desc": "When Niall's estranged brother Ruben shows up at his wedding, it leads to an explosion of violence that catapults us back through their lives, from the eighties to the present day.",
-      "date": "2026",
-      "language": "en",
-      "rating": "A18",
-      "categories": [
-        "Series",
-        "Drama"
-      ],
-      "episode": "S1 E2",
-      "icon": "http://dtil.tmsimg.com/assets/p32755220_b_h8_aa.jpg?w=960&h=540",
-      "credits": {
-        "director": [
-          "Alexandra Brodski"
-        ],
-        "actor": [
-          "Jamie Bell",
-          "Richard Gadd",
-          "Neve McIntosh"
-        ]
-      }
-    },
-    {
       "start": "2026-05-06T10:13:00+05:00",
       "stop": "2026-05-06T11:16:00+05:00",
       "title": "The Dark Wizard",
@@ -91,8 +19,11 @@
         "Biography"
       ],
       "episode": "S1 E4",
-      "icon": "http://dtil.tmsimg.com/assets/p32613736_b_h10_aa.jpg?w=960&h=540",
+      "icon": "http://dtil.tmsimg.com/assets/p32613711_b_h10_aa.jpg?w=960&h=540",
       "credits": {
+        "director": [
+          "Peter Mortimer"
+        ],
         "actor": [
           "Dean Potter",
           "Alex Honnold"
@@ -126,7 +57,7 @@
       "start": "2026-05-06T11:48:00+05:00",
       "stop": "2026-05-06T12:20:00+05:00",
       "title": "The Comeback",
-      "desc": "A television actress tries desperately to revive her career.",
+      "desc": "Valerie tries to repair the damage caused by negative AI press and save Mark's reality show job by making an appearance on \"Finance Dudes.\".",
       "date": "2026",
       "language": "en",
       "rating": "TVMA",
@@ -142,6 +73,79 @@
           "Lisa Kudrow",
           "Robert Michael Morris",
           "Damian Young"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-06T12:20:00+05:00",
+      "stop": "2026-05-06T14:14:00+05:00",
+      "title": "If I Had Legs I'd Kick You",
+      "desc": "With her life crashing down around her, Linda attempts to navigate her child's mysterious illness, her absent husband, a missing person, and an increasingly hostile relationship with her therapist.",
+      "date": "2025",
+      "language": "en",
+      "rating": "R",
+      "categories": [
+        "Movie",
+        "Thriller",
+        "Comedy drama"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p30882706_v_h8_ac.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Mary Bronstein"
+        ],
+        "actor": [
+          "Rose Byrne",
+          "Conan O'Brien",
+          "Danielle Macdonald"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-06T14:14:00+05:00",
+      "stop": "2026-05-06T16:32:00+05:00",
+      "title": "The Fate of the Furious",
+      "desc": "With Dom and Letty married, Brian and Mia retired and the rest of the crew exonerated, the globe-trotting team has found some semblance of a normal life. They soon face an unexpected challenge when a woman named Cipher forces Dom to betray them all. They must unite to bring home the man who made them a family and stop Cipher from unleashing chaos.",
+      "date": "2017",
+      "language": "en",
+      "rating": "PG-13",
+      "categories": [
+        "Movie",
+        "Action",
+        "Adventure",
+        "Thriller"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p11730466_v_h8_al.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "F. Gary Gray"
+        ],
+        "actor": [
+          "Vin Diesel",
+          "Dwayne Johnson",
+          "Charlize Theron"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-06T16:32:00+05:00",
+      "stop": "2026-05-06T17:32:00+05:00",
+      "title": "Real Time With Bill Maher",
+      "sub_title": "Gov. Gavin Newsom, Bret Stephens, Gillian Tett",
+      "desc": "Acerbic comic Bill Maher welcomes a panel of guests from diverse parts of the political spectrum for a lively discussion of current events, as well as offering his own perspective on contemporary issues.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TVMA",
+      "categories": [
+        "Series",
+        "Talk",
+        "Comedy"
+      ],
+      "episode": "S24 E13",
+      "icon": "http://dtil.tmsimg.com/assets/p185450_b_h10_ac.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Bill Maher"
         ]
       }
     }

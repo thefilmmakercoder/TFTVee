@@ -4,57 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-06T08:00:00+05:00",
-      "stop": "2026-05-06T08:34:00+05:00",
-      "title": "Live: CTV News Barrie",
-      "desc": "CTV News covers stories that matter to Canadians - locally, nationally, & internationally.",
-      "date": "2014",
-      "language": "en",
-      "rating": "TV14",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p11226354_b_h8_ad.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-06T08:34:00+05:00",
-      "stop": "2026-05-06T09:37:00+05:00",
-      "title": "The Tonight Show Starring Jimmy Fallon",
-      "sub_title": "Justin Hartley; Maddy Kelly",
-      "desc": "Actor Justin Hartley; comic Maddy Kelly.",
-      "date": "2026",
-      "language": "en",
-      "rating": "TV14",
-      "categories": [
-        "Series",
-        "Talk",
-        "Comedy"
-      ],
-      "episode": "S13 E100",
-      "icon": "http://dtil.tmsimg.com/assets/p9898935_b_h8_am.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Jimmy Fallon",
-          "Justin Hartley",
-          "Maddy Kelly"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-06T09:37:00+05:00",
-      "stop": "2026-05-06T10:07:00+05:00",
-      "title": "CTV National News With Omar Sachedina",
-      "desc": "CTV News covers stories that matter to Canadians - locally, nationally, & internationally.",
-      "date": "2026",
-      "language": "en",
-      "categories": [
-        "Series",
-        "News"
-      ],
-      "episode": "E74",
-      "icon": "http://dtil.tmsimg.com/assets/p22894284_b_h8_ab.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-05-06T10:07:00+05:00",
       "stop": "2026-05-06T11:05:00+05:00",
       "title": "Criminal Minds",
@@ -134,6 +83,72 @@
           "Enrico Colantoni",
           "Hugh Dillon",
           "Amy Jo Johnson"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-06T13:05:00+05:00",
+      "stop": "2026-05-06T13:35:00+05:00",
+      "title": "TMZ",
+      "desc": "TMZ TV tracks down today's hottest stars with their cameras, whether they are hitting the clubs or the dry cleaners.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Newsmagazine",
+        "Entertainment"
+      ],
+      "episode": "S19 E212",
+      "icon": "http://dtil.tmsimg.com/assets/p30985766_b_h10_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Harvey Levin"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-06T13:35:00+05:00",
+      "stop": "2026-05-06T14:00:00+05:00",
+      "title": "Just for Laughs: Gags",
+      "sub_title": "The Annoying Ball Thrower",
+      "desc": "Gags include an annoying ball thrower, a friendly security guard, and many more.",
+      "date": "2013",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "Series",
+        "Comedy",
+        "Entertainment"
+      ],
+      "episode": "S13 E4",
+      "icon": "http://dtil.tmsimg.com/assets/p185761_b_h8_ad.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-06T14:00:00+05:00",
+      "stop": "2026-05-06T14:30:00+05:00",
+      "title": "The Littlest Hobo",
+      "sub_title": "The Airport",
+      "desc": "Hobo foils sabotage at a courier service.",
+      "date": "1981",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Series",
+        "Drama",
+        "Adventure",
+        "Animals"
+      ],
+      "episode": "S3 E11",
+      "icon": "http://dtil.tmsimg.com/assets/p507740_b_h10_ac.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Mario Azzopardi"
+        ],
+        "actor": [
+          "Rosemary Dunsmore",
+          "Terry Harford",
+          "Eric House"
         ]
       }
     }

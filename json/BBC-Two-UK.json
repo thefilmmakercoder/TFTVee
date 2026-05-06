@@ -4,25 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-06T07:10:00+05:00",
-      "stop": "2026-05-06T07:40:00+05:00",
-      "title": "Twenty Twenty Six",
-      "desc": "Sarah's gone viral, and rumours about a famous footballer put everyone under pressure. Contains some strong language.",
-      "language": "en",
-      "categories": [
-        "Entertainment",
-        "Comedy"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/f23c5258-5b82-42c3-aeed-efe78069f29b/16-9"
-    },
-    {
-      "start": "2026-05-06T07:40:00+05:00",
-      "stop": "2026-05-06T10:45:00+05:00",
-      "title": "This is BBC Two",
-      "desc": "Highlights of programmes on BBC Two.",
-      "language": "en"
-    },
-    {
       "start": "2026-05-06T10:45:00+05:00",
       "stop": "2026-05-06T11:30:00+05:00",
       "title": "Bargain Hunt",
@@ -69,6 +50,30 @@
         "Factual"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/e97d2353-370e-4824-a826-c1ce4b32cc71/16-9"
+    },
+    {
+      "start": "2026-05-06T13:00:00+05:00",
+      "stop": "2026-05-06T16:15:00+05:00",
+      "title": "BBC News",
+      "desc": "Twenty-four hours a day, the latest national and international stories as they break.",
+      "language": "en",
+      "categories": [
+        "News & Documentary",
+        "News"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/3afc5924-e1e1-4323-aa1a-741509df6a1f/16-9"
+    },
+    {
+      "start": "2026-05-06T16:15:00+05:00",
+      "stop": "2026-05-06T17:00:00+05:00",
+      "title": "Politics Live",
+      "desc": "The big political issues of the day.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Factual"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/ed1e5241-6130-4858-9a63-4766884c6e75/16-9"
     }
   ]
 }
