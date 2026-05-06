@@ -4,37 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-06T15:30:00+05:00",
-      "stop": "2026-05-06T21:30:00+05:00",
-      "title": "..programmes start at 7.00pm",
-      "language": "en"
-    },
-    {
-      "start": "2026-05-06T21:30:00+05:00",
-      "stop": "2026-05-06T22:58:00+05:00",
-      "title": "..programmes start at 7.00pm",
-      "language": "en"
-    },
-    {
-      "start": "2026-05-06T22:58:00+05:00",
-      "stop": "2026-05-06T23:00:00+05:00",
-      "title": "This is BBC Four",
-      "desc": "Programmes start at 7.00pm.",
-      "language": "en"
-    },
-    {
-      "start": "2026-05-06T23:00:00+05:00",
-      "stop": "2026-05-06T23:30:00+05:00",
-      "title": "University Challenge",
-      "desc": "The London School of Economics faces off against University College, Oxford.",
-      "language": "en",
-      "categories": [
-        "Entertainment",
-        "Game Show"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/36692352-50a1-48fb-963b-a20641d5afee/16-9"
-    },
-    {
       "start": "2026-05-06T23:30:00+05:00",
       "stop": "2026-05-07T00:00:00+05:00",
       "title": "Only Connect",
@@ -57,6 +26,54 @@
         "Factual"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/991d2d19-a69a-41ce-9ddd-aea286fda0c3/16-9"
+    },
+    {
+      "start": "2026-05-07T01:00:00+05:00",
+      "stop": "2026-05-07T02:00:00+05:00",
+      "title": "The Ruth Ellis Files: A Very British Crime Story",
+      "desc": "Gillian takes a forensic look at the police investigation launched after Ruth's arrest. Contains some scenes which some viewers may find upsetting.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Factual"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/baf96588-35ea-464d-af4b-20f620055b15/16-9"
+    },
+    {
+      "start": "2026-05-07T02:00:00+05:00",
+      "stop": "2026-05-07T02:30:00+05:00",
+      "title": "Stephen Poliakoff Remembers... Caught on a Train",
+      "desc": "Screenwriter Stephen Poliakoff looks back on his 1980 television drama Caught on a Train.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Arts"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/5a9b6da4-4202-4574-829d-40ef6a530160/16-9"
+    },
+    {
+      "start": "2026-05-07T02:30:00+05:00",
+      "stop": "2026-05-07T03:50:00+05:00",
+      "title": "Caught on a Train",
+      "desc": "A young Englishman, travelling on the Ostend to Vienna express, shares a train compartment with an American girl and an elderly Viennese lady.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Drama"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/d32e7fee-5941-4ea9-9fac-d5a7456c508f/16-9"
+    },
+    {
+      "start": "2026-05-07T03:50:00+05:00",
+      "stop": "2026-05-07T04:50:00+05:00",
+      "title": "How to Get Ahead at Renaissance Court",
+      "desc": "Stephen Smith explores Renaissance Florence under the reign of Grand Duke Cosimo Medici, where some of the greatest painters, sculptors and craftsmen in world history served.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Factual"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/0904b24e-420d-4c12-98ee-9001f179ef01/16-9"
     }
   ]
 }

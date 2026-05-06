@@ -4,68 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-06T21:00:00+05:00",
-      "stop": "2026-05-06T22:00:00+05:00",
-      "title": "Live: CBC Newsroom",
-      "desc": "News program bringing Canadians breaking news and live coverage from across Canada and around the world.",
-      "date": "2017",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p14555206_b_h8_af.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-06T22:00:00+05:00",
-      "stop": "2026-05-06T23:00:00+05:00",
-      "title": "Escape to the Country",
-      "sub_title": "Cumbria",
-      "desc": "Nicki Chapman helps a couple who want to be closer to their family move to Cumbria.",
-      "date": "2024",
-      "language": "en",
-      "rating": "TVG",
-      "categories": [
-        "Series",
-        "House/garden",
-        "Home improvement",
-        "Bus./financial"
-      ],
-      "episode": "S24 E34",
-      "icon": "http://dtil.tmsimg.com/assets/p379352_b_h10_bn.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Nicki Chapman"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-06T23:00:00+05:00",
-      "stop": "2026-05-06T23:30:00+05:00",
-      "title": "Coronation Street",
-      "desc": "Summer quizzes Theo about Billy's final moments, and the caf\u00e9 goes up in smoke.",
-      "date": "2026",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Series",
-        "Soap",
-        "Drama",
-        "Romance"
-      ],
-      "episode": "E72",
-      "icon": "http://dtil.tmsimg.com/assets/p31898227_b_h11_aa.jpg?w=960&h=540",
-      "credits": {
-        "director": [
-          "Kevin Boyle"
-        ],
-        "actor": [
-          "Tanisha Gorey",
-          "Aaron McCusker",
-          "Jane Hazlegrove"
-        ]
-      }
-    },
-    {
       "start": "2026-05-06T23:30:00+05:00",
       "stop": "2026-05-07T00:00:00+05:00",
       "title": "Schitt's Creek",
@@ -139,6 +77,63 @@
           "Linda Bassett"
         ]
       }
+    },
+    {
+      "start": "2026-05-07T02:00:00+05:00",
+      "stop": "2026-05-07T03:00:00+05:00",
+      "title": "The Great British Baking Show",
+      "sub_title": "The Final",
+      "desc": "The stakes are high as Paul and Prue set three challenges that test all of the bakers' skills.",
+      "date": "2019",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Competition Reality",
+        "Cooking"
+      ],
+      "episode": "S10 E10",
+      "icon": "http://dtil.tmsimg.com/assets/p8251114_b_h8_dj.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Jeanette Goulbourn"
+        ],
+        "actor": [
+          "Paul Hollywood",
+          "Sandi Toksvig",
+          "Noel Fielding"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-07T03:00:00+05:00",
+      "stop": "2026-05-07T04:00:00+05:00",
+      "title": "Live: CBC Toronto News",
+      "desc": "Dwight Drummond and team take a comprehensive look at the top stories, with breaking news, reports and updates relevant to the city of Toronto.",
+      "date": "2016",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p12466091_b_h10_ac.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Dwight Drummond"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-07T04:00:00+05:00",
+      "stop": "2026-05-07T06:30:00+05:00",
+      "title": "Live: NHL Hockey",
+      "desc": "The Canadiens play the Sabres in the East second round Game 1 at KeyBank Center. Buffalo reached the second round for the first time since 2007 by beating Boston 4-2, while Montreal advanced by defeating Tampa Bay in a seven-game series.",
+      "language": "en",
+      "categories": [
+        "Sports",
+        "Playoff sports",
+        "Hockey"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/GNLZZGG0033D6QR.jpg?w=960&h=540"
     }
   ]
 }

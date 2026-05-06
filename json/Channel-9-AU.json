@@ -4,60 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-06T22:00:00+05:00",
-      "stop": "2026-05-06T22:30:00+05:00",
-      "title": "TV Shop - Home Shopping",
-      "desc": "Home shopping programme.",
-      "language": "en",
-      "rating": "G",
-      "categories": [
-        "Special Interest"
-      ],
-      "episode": "E32",
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/184500/image/334x188"
-    },
-    {
-      "start": "2026-05-06T22:30:00+05:00",
-      "stop": "2026-05-06T23:00:00+05:00",
-      "title": "TV Shop - Home Shopping",
-      "desc": "Home shopping programme.",
-      "language": "en",
-      "rating": "G",
-      "categories": [
-        "Special Interest"
-      ],
-      "episode": "E32",
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/184500/image/334x188"
-    },
-    {
-      "start": "2026-05-06T23:00:00+05:00",
-      "stop": "2026-05-06T23:30:00+05:00",
-      "title": "Skippy - The Bush Kangaroo",
-      "sub_title": "Maggie",
-      "desc": "Sonny and his kangaroo Skippy live in Waratah National Park in New South Wales. Matt Hammond, Sonny's father is the park ranger. Skippy saves the day in many adventures.",
-      "language": "en",
-      "rating": "G",
-      "categories": [
-        "Kids & Family"
-      ],
-      "episode": "S2 E32",
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/132554/image/334x188"
-    },
-    {
-      "start": "2026-05-06T23:30:00+05:00",
-      "stop": "2026-05-07T00:00:00+05:00",
-      "title": "A Current Affair",
-      "sub_title": "Wednesday 6 May 2026",
-      "desc": "A Current Affair covers the realms of politics, crime, human rights, science, technology, celebrities and entertainment - all investigated by a dedicated team.",
-      "language": "en",
-      "rating": "NR",
-      "categories": [
-        "Sports"
-      ],
-      "episode": "E90",
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/131990/image/334x188"
-    },
-    {
       "start": "2026-05-07T00:00:00+05:00",
       "stop": "2026-05-07T00:30:00+05:00",
       "title": "Today Early News",
@@ -84,6 +30,59 @@
       ],
       "episode": "E91",
       "icon": "https://www.fetchtv.com.au/v2/epg/program/100687/image/334x188"
+    },
+    {
+      "start": "2026-05-07T01:00:00+05:00",
+      "stop": "2026-05-07T04:00:00+05:00",
+      "title": "Today",
+      "sub_title": "Thursday 7 May 2026",
+      "desc": "Join Karl Stefanovic and Sarah Abo and the TODAY team as they bring you the latest in news, current affairs, sports, politics, entertainment, fashion, health and lifestyle.",
+      "language": "en",
+      "rating": "NR",
+      "categories": [
+        "Sports"
+      ],
+      "episode": "E91",
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/100687/image/334x188"
+    },
+    {
+      "start": "2026-05-07T04:00:00+05:00",
+      "stop": "2026-05-07T06:30:00+05:00",
+      "title": "Today Extra",
+      "desc": "Join the TODAY EXTRA team for an exciting mix of topical issues, the best celebrity interviews, cooking with Australia's top chefs, LIVE music performances, the latest in fashion and beauty trends.",
+      "language": "en",
+      "rating": "PG",
+      "categories": [
+        "Special Interest"
+      ],
+      "episode": "E70",
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/134254/image/334x188"
+    },
+    {
+      "start": "2026-05-07T06:30:00+05:00",
+      "stop": "2026-05-07T07:00:00+05:00",
+      "title": "9News Morning",
+      "sub_title": "Thursday 7 May 2026",
+      "desc": "Join 9News for up to the minute news on local and international news including sport and weather.",
+      "language": "en",
+      "rating": "NR",
+      "categories": [
+        "Sports"
+      ],
+      "episode": "E91",
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/7464346/image/334x188"
+    },
+    {
+      "start": "2026-05-07T07:00:00+05:00",
+      "stop": "2026-05-07T09:00:00+05:00",
+      "title": "Our Take On Love",
+      "desc": "When unlucky-in-love Isabella and filmmaker Blake find themselves planning a huge celebration in a mansion, neither knew what they'd find. They unexpectedly find a love and adventure they never knew could be true.",
+      "language": "en",
+      "rating": "G",
+      "categories": [
+        "Similar"
+      ],
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/4420360/image/334x188"
     }
   ]
 }

@@ -4,52 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-06T21:30:00+05:00",
-      "stop": "2026-05-06T22:30:00+05:00",
-      "title": "The Young and the Restless",
-      "desc": "Michael and Phyllis do damage control; Lily attempts to help Malcolm are thwarted; Claire makes a bold move to support Holden.",
-      "date": "2026",
-      "language": "en",
-      "rating": "TV14",
-      "categories": [
-        "Series",
-        "Soap"
-      ],
-      "episode": "S53 E146",
-      "icon": "http://dtil.tmsimg.com/assets/p183904_b_h8_ai.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Peter Bergman",
-          "Eric Braeden",
-          "Christel Khalil"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-06T22:30:00+05:00",
-      "stop": "2026-05-06T23:00:00+05:00",
-      "title": "The Bold and the Beautiful",
-      "desc": "Brooke extends an olive branch to Katie; Daphne has an intriguing offer for Dylan.",
-      "date": "2026",
-      "language": "en",
-      "rating": "TV14",
-      "categories": [
-        "Series",
-        "Soap",
-        "Drama",
-        "Romance"
-      ],
-      "episode": "S39 E162",
-      "icon": "http://dtil.tmsimg.com/assets/p31167565_b_h10_aa.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Katherine Kelly Lang",
-          "Jacqueline MacInnes Wood",
-          "Thorsten Kaye"
-        ]
-      }
-    },
-    {
       "start": "2026-05-06T23:00:00+05:00",
       "stop": "2026-05-07T00:00:00+05:00",
       "title": "Live: UEFA Champions League Today",
@@ -97,6 +51,51 @@
         "News"
       ],
       "icon": "http://dtil.tmsimg.com/assets/p605164_b_h8_ab.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-07T03:30:00+05:00",
+      "stop": "2026-05-07T04:00:00+05:00",
+      "title": "CBS Evening News",
+      "desc": "Tony Dokoupil shares the day's most important stories, delivering context and depth to bring greater understanding to one's world.",
+      "date": "2026",
+      "language": "en",
+      "categories": [
+        "Series",
+        "News"
+      ],
+      "episode": "E126",
+      "icon": "http://dtil.tmsimg.com/assets/p28807922_b_h8_ae.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Tony Dokoupil",
+          "Maurice DuBois",
+          "Jericka Duncan"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-07T04:00:00+05:00",
+      "stop": "2026-05-07T04:30:00+05:00",
+      "title": "Inside Edition",
+      "desc": "A syndicated newsmagazine includes investigative reports, interviews with newsmakers, human interest stories and celebrity and pop-culture features.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Newsmagazine",
+        "Public affairs",
+        "Interview"
+      ],
+      "episode": "S38 E173",
+      "icon": "http://dtil.tmsimg.com/assets/p184110_b_h10_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Eva Pilgrim",
+          "Mary Calvi",
+          "Jim Moret"
+        ]
+      }
     }
   ]
 }

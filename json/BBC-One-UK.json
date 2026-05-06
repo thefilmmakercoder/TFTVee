@@ -4,41 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-06T22:00:00+05:00",
-      "stop": "2026-05-06T22:30:00+05:00",
-      "title": "BBC News",
-      "desc": "The latest national and international news from the BBC.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/1b969da8-176b-4124-8e0f-efa0f04d5a2c/16-9"
-    },
-    {
-      "start": "2026-05-06T22:30:00+05:00",
-      "stop": "2026-05-06T23:00:00+05:00",
-      "title": "BBC London News",
-      "desc": "The latest news, sport and weather from London.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/fd554d04-534e-4ec5-9bd7-58f18103cf4f/16-9"
-    },
-    {
-      "start": "2026-05-06T23:00:00+05:00",
-      "stop": "2026-05-06T23:30:00+05:00",
-      "title": "The One Show",
-      "desc": "Alex Jones and JB Gill bring you the stories that matter from across the country.",
-      "language": "en",
-      "categories": [
-        "Entertainment"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/0ba88f88-2b3a-44c2-b32b-4429d8a72d97/16-9"
-    },
-    {
       "start": "2026-05-06T23:30:00+05:00",
       "stop": "2026-05-07T00:00:00+05:00",
       "title": "EastEnders",
@@ -73,6 +38,42 @@
         "Comedy"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/e8a0917b-aa5d-400b-872e-69656cf8800f/16-9"
+    },
+    {
+      "start": "2026-05-07T01:30:00+05:00",
+      "stop": "2026-05-07T02:00:00+05:00",
+      "title": "Only Child",
+      "desc": "Richard just wants to hide away from the world, but Ken has other ideas - mainly forcing him to join the protest group fighting to save the local allotments.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Comedy"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/17b674e4-2483-4ae0-93d3-6debad4aa908/16-9"
+    },
+    {
+      "start": "2026-05-07T02:00:00+05:00",
+      "stop": "2026-05-07T02:30:00+05:00",
+      "title": "BBC News and Weather",
+      "desc": "The latest national and international news, with reports from BBC correspondents worldwide.",
+      "language": "en",
+      "categories": [
+        "News & Documentary",
+        "News"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/55377f4e-a0b3-4d68-82b1-3d1657e478b2/16-9"
+    },
+    {
+      "start": "2026-05-07T02:30:00+05:00",
+      "stop": "2026-05-07T02:40:00+05:00",
+      "title": "BBC London News",
+      "desc": "The latest news, sport and weather from London.",
+      "language": "en",
+      "categories": [
+        "News & Documentary",
+        "News"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/5b94e694-e5a4-4257-864b-d997544fd963/16-9"
     }
   ]
 }

@@ -4,48 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-06T22:00:00+05:00",
-      "stop": "2026-05-06T22:30:00+05:00",
-      "title": "Home Shopping",
-      "sub_title": "Pocket Hose Copper Head (PHCH2830A17",
-      "desc": "Shopping program.",
-      "language": "en",
-      "rating": "G",
-      "categories": [
-        "Special Interest"
-      ],
-      "episode": "S1 E130",
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/234200/image/334x188"
-    },
-    {
-      "start": "2026-05-06T22:30:00+05:00",
-      "stop": "2026-05-06T23:00:00+05:00",
-      "title": "Home Shopping",
-      "sub_title": "TIVA Heater (A2830TIV26QRA)",
-      "desc": "Shopping program.",
-      "language": "en",
-      "rating": "G",
-      "categories": [
-        "Special Interest"
-      ],
-      "episode": "S1 E243",
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/234200/image/334x188"
-    },
-    {
-      "start": "2026-05-06T23:00:00+05:00",
-      "stop": "2026-05-07T00:00:00+05:00",
-      "title": "NBC Today",
-      "sub_title": "Thursday 7 May 2026",
-      "desc": "International news and weather including interviews with newsmakers in the world of politics, business, media, entertainment and sport.",
-      "language": "en",
-      "rating": "NR",
-      "categories": [
-        "Sports"
-      ],
-      "episode": "S26 E126",
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/132440/image/334x188"
-    },
-    {
       "start": "2026-05-07T00:00:00+05:00",
       "stop": "2026-05-07T00:30:00+05:00",
       "title": "Sunrise Early News",
@@ -86,6 +44,47 @@
       ],
       "episode": "S26 E91",
       "icon": "https://www.fetchtv.com.au/v2/epg/program/132592/image/334x188"
+    },
+    {
+      "start": "2026-05-07T04:00:00+05:00",
+      "stop": "2026-05-07T07:00:00+05:00",
+      "title": "The Morning Show",
+      "desc": "Join Larry Emdur and Kylie Gillies each morning for a variety of segments on the latest news, entertainment and other hot topics.",
+      "language": "en",
+      "rating": "PG",
+      "categories": [
+        "Special Interest"
+      ],
+      "episode": "S26 E79",
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/206396/image/334x188"
+    },
+    {
+      "start": "2026-05-07T07:00:00+05:00",
+      "stop": "2026-05-07T08:00:00+05:00",
+      "title": "Seven's National News At Noon",
+      "sub_title": "Thursday 7 May 2026",
+      "desc": "Seven News live coverage of local, national and international news, plus sport, finance and weather updates. Go to 7NEWS.com.au today for more live updates.",
+      "language": "en",
+      "rating": "NR",
+      "categories": [
+        "Sports"
+      ],
+      "episode": "S26 E69",
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/434212/image/334x188"
+    },
+    {
+      "start": "2026-05-07T08:00:00+05:00",
+      "stop": "2026-05-07T08:02:00+05:00",
+      "title": "Seven News With Alex Cullen",
+      "sub_title": "Thursday 7 May 2026",
+      "desc": "Join Alex Cullen for all the latest news headlines, as he kicks off Seven's Winning Arvo featuring an entertaining lineup of quiz shows and news updates every hour.",
+      "language": "en",
+      "rating": "NR",
+      "categories": [
+        "Sports"
+      ],
+      "episode": "S26 E69",
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/438848/image/334x188"
     }
   ]
 }

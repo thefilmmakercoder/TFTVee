@@ -4,42 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-06T21:00:00+05:00",
-      "stop": "2026-05-06T22:00:00+05:00",
-      "title": "Eyewitness News at Noon",
-      "desc": "Midday news update.",
-      "date": "2015",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p11844655_b_h8_ad.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-06T22:00:00+05:00",
-      "stop": "2026-05-06T23:00:00+05:00",
-      "title": "GMA3",
-      "desc": "Actor Kevin McKidd; ABC Secret Savings with Will Ganss; Deals & Steals with Tory Johnson.",
-      "date": "2026",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Series",
-        "News",
-        "Talk",
-        "Health"
-      ],
-      "episode": "S6 E161",
-      "icon": "http://dtil.tmsimg.com/assets/p30687311_b_h8_aa.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Kevin McKidd",
-          "Will Ganss",
-          "Tory Johnson"
-        ]
-      }
-    },
-    {
       "start": "2026-05-06T23:00:00+05:00",
       "stop": "2026-05-07T00:00:00+05:00",
       "title": "Tamron Hall",
@@ -109,6 +73,37 @@
         "News"
       ],
       "icon": "http://dtil.tmsimg.com/assets/p13769033_b_h8_ab.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-07T03:00:00+05:00",
+      "stop": "2026-05-07T03:30:00+05:00",
+      "title": "Eyewitness News at 6",
+      "desc": "Stay informed with the latest breaking news and headlines.",
+      "date": "2017",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p13769035_b_h8_ab.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-07T03:30:00+05:00",
+      "stop": "2026-05-07T04:00:00+05:00",
+      "title": "ABC World News Tonight With David Muir",
+      "desc": "Delivering the news that matters most.",
+      "date": "2026",
+      "language": "en",
+      "categories": [
+        "Series",
+        "News"
+      ],
+      "episode": "E126",
+      "icon": "http://dtil.tmsimg.com/assets/p10880351_b_h8_ah.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "David Muir"
+        ]
+      }
     }
   ]
 }

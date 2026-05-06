@@ -4,51 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-06T21:30:00+05:00",
-      "stop": "2026-05-06T22:00:00+05:00",
-      "title": "etalk",
-      "desc": "A recap of the Met Gala, from the celebrities to the fashion.",
-      "date": "2026",
-      "language": "en",
-      "categories": [
-        "Series",
-        "Entertainment"
-      ],
-      "episode": "E86",
-      "icon": "http://dtil.tmsimg.com/assets/p191965_b_h8_ah.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Tyrone Edwards",
-          "Lainey Lui",
-          "Traci Melchor"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-06T22:00:00+05:00",
-      "stop": "2026-05-06T23:00:00+05:00",
-      "title": "MasterChef Canada",
-      "sub_title": "Major Steaks",
-      "desc": "The top 10 cooks face off at Canadian Forces Base Trenton and the losing team goes to war.",
-      "date": "2014",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Series",
-        "Cooking",
-        "Competition Reality"
-      ],
-      "episode": "S1 E8",
-      "icon": "http://dtil.tmsimg.com/assets/p10228968_b_h10_al.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Michael Bonacini",
-          "Alvin Leung",
-          "Claudio Aprile"
-        ]
-      }
-    },
-    {
       "start": "2026-05-06T23:00:00+05:00",
       "stop": "2026-05-07T00:00:00+05:00",
       "title": "TMZ Live",
@@ -133,6 +88,38 @@
           "Jason Alexander"
         ]
       }
+    },
+    {
+      "start": "2026-05-07T02:30:00+05:00",
+      "stop": "2026-05-07T02:59:00+05:00",
+      "title": "CTV National News With Sandie Rinaldo",
+      "desc": "CTV News covers stories that matter to Canadians - locally, nationally, & internationally.",
+      "date": "2026",
+      "language": "en",
+      "categories": [
+        "Series",
+        "News"
+      ],
+      "episode": "E73",
+      "icon": "http://dtil.tmsimg.com/assets/p7988878_b_h8_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Sandie Rinaldo"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-07T02:59:00+05:00",
+      "stop": "2026-05-07T04:00:00+05:00",
+      "title": "Live: CTV News Barrie",
+      "desc": "CTV News covers stories that matter to Canadians - locally, nationally, & internationally.",
+      "date": "2014",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p11226354_b_h8_ad.jpg?w=960&h=540"
     }
   ]
 }

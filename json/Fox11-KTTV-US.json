@@ -4,30 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-06T21:00:00+05:00",
-      "stop": "2026-05-06T22:00:00+05:00",
-      "title": "Good Day LA at 9am",
-      "desc": "Morning news coverage.",
-      "date": "2012",
-      "language": "en",
-      "categories": [
-        "Talk"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p9542653_b_h8_ac.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-06T22:00:00+05:00",
-      "stop": "2026-05-06T23:00:00+05:00",
-      "title": "Good Day LA at 10am",
-      "desc": "Morning news coverage.",
-      "date": "2022",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p22751421_b_h8_ab.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-05-06T23:00:00+05:00",
       "stop": "2026-05-07T00:00:00+05:00",
       "title": "GDLA+",
@@ -103,6 +79,50 @@
           "Meredith Vieira",
           "Melissa Peterman",
           "Carson Kressley"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-07T03:00:00+05:00",
+      "stop": "2026-05-07T04:00:00+05:00",
+      "title": "Dateline",
+      "sub_title": "Secrets of Lake Seminole",
+      "desc": "A man disappears after a duck hunting trip in Florida on his sixth wedding anniversary and is later found to have been murdered.",
+      "date": "2020",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "Series",
+        "Newsmagazine",
+        "Documentary"
+      ],
+      "episode": "S4 E21",
+      "icon": "http://dtil.tmsimg.com/assets/p13159645_b_h10_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Natalie Morales",
+          "Craig Melvin"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-07T04:00:00+05:00",
+      "stop": "2026-05-07T05:00:00+05:00",
+      "title": "TMZ Live",
+      "desc": "A candid look at how the gossip site operates, bringing viewers into the site's newsroom, where the daily chats take place; viewers present their opinions on the featured topics through social media, phone calls and video chat.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Newsmagazine",
+        "Entertainment"
+      ],
+      "episode": "S14 E178",
+      "icon": "http://dtil.tmsimg.com/assets/p9132568_b_h10_ab.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Harvey Levin"
         ]
       }
     }

@@ -4,53 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-06T21:00:00+05:00",
-      "stop": "2026-05-06T22:00:00+05:00",
-      "title": "Live with Kelly and Mark",
-      "desc": "Kevin McKidd chats about ABC's \"Grey's Anatomy\" and Taylor Ortega drops by; the hosts read messages from the \"I Love Mom\" Inbox!",
-      "date": "2026",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Series",
-        "Talk"
-      ],
-      "episode": "S4 E178",
-      "icon": "http://dtil.tmsimg.com/assets/p24324378_b_h8_ab.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Kelly Ripa",
-          "Mark Consuelos",
-          "Kevin McKidd"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-06T22:00:00+05:00",
-      "stop": "2026-05-06T23:00:00+05:00",
-      "title": "The View",
-      "desc": "Actor Hugh Jackman.",
-      "date": "2026",
-      "language": "en",
-      "rating": "TV14",
-      "categories": [
-        "Series",
-        "Talk"
-      ],
-      "episode": "S29 E155",
-      "icon": "http://dtil.tmsimg.com/assets/p31138947_b_h8_aa.jpg?w=960&h=540",
-      "credits": {
-        "director": [
-          "Sarah de la O"
-        ],
-        "actor": [
-          "Whoopi Goldberg",
-          "Joy Behar",
-          "Sunny Hostin"
-        ]
-      }
-    },
-    {
       "start": "2026-05-06T23:00:00+05:00",
       "stop": "2026-05-07T00:00:00+05:00",
       "title": "Eyewitness News 11AM",
@@ -130,6 +83,37 @@
           "Maurice Benard",
           "Steve Burton",
           "Michael Easton"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-07T03:00:00+05:00",
+      "stop": "2026-05-07T03:30:00+05:00",
+      "title": "Eyewitness News 3PM",
+      "desc": "Local, national and international news.",
+      "date": "2004",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p676931_b_h8_aa.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-07T03:30:00+05:00",
+      "stop": "2026-05-07T04:00:00+05:00",
+      "title": "ABC World News Tonight With David Muir",
+      "desc": "Delivering the news that matters most.",
+      "date": "2026",
+      "language": "en",
+      "categories": [
+        "Series",
+        "News"
+      ],
+      "episode": "E126",
+      "icon": "http://dtil.tmsimg.com/assets/p10880351_b_h8_ah.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "David Muir"
         ]
       }
     }
