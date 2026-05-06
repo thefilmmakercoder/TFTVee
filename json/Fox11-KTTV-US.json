@@ -4,40 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-06T23:00:00+05:00",
-      "stop": "2026-05-07T00:00:00+05:00",
-      "title": "GDLA+",
-      "date": "2024",
-      "language": "en",
-      "categories": [
-        "Newsmagazine"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p26513975_b_h8_ab.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-07T00:00:00+05:00",
-      "stop": "2026-05-07T01:00:00+05:00",
-      "title": "Sherri",
-      "sub_title": "Zarna Garg",
-      "desc": "Sherri kicks off the show with laughs in The Stand-Up Spot; Zarna Garg tells Sherri how she went from being a stay-at-home mom to a viral comic; women looking to break into the world of stand-up comedy perform in \"Sherri's Funny Over 50\" competition.",
-      "date": "2026",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Series",
-        "Talk",
-        "Interview"
-      ],
-      "episode": "S4 E127",
-      "icon": "http://dtil.tmsimg.com/assets/p21805765_b_h8_ab.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Sherri Shepherd",
-          "Zarna Garg"
-        ]
-      }
-    },
-    {
       "start": "2026-05-07T01:00:00+05:00",
       "stop": "2026-05-07T02:00:00+05:00",
       "title": "The Jennifer Hudson Show",
@@ -125,6 +91,30 @@
           "Harvey Levin"
         ]
       }
+    },
+    {
+      "start": "2026-05-07T05:00:00+05:00",
+      "stop": "2026-05-07T06:00:00+05:00",
+      "title": "FOX 11 News at 5pm",
+      "desc": "Latest local and regional news.",
+      "date": "2016",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p12829248_b_h8_ae.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-07T06:00:00+05:00",
+      "stop": "2026-05-07T06:30:00+05:00",
+      "title": "FOX 11 News at 6pm",
+      "desc": "Local and regional news coverage.",
+      "date": "2020",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p18140393_b_h8_ad.jpg?w=960&h=540"
     }
   ]
 }

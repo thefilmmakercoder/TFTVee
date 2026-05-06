@@ -4,30 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-06T23:00:00+05:00",
-      "stop": "2026-05-07T00:00:00+05:00",
-      "title": "Channel 4 News",
-      "desc": "Channel 4's flagship news programme. Including the weather.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/a93cb603-9184-415e-bf4a-e38c05abf4b6/16-9"
-    },
-    {
-      "start": "2026-05-07T00:00:00+05:00",
-      "stop": "2026-05-07T01:00:00+05:00",
-      "title": "Location, Location, Location",
-      "desc": "Emily and Jack have put their wedding on hold until they find the right home in Surrey. Can Kirstie and Phil help? And can Jane get another chance with a place she loved and lost.",
-      "language": "en",
-      "categories": [
-        "Entertainment",
-        "Lifestyles"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/574dcb93-cd16-493a-95eb-4fd5405350cd/16-9"
-    },
-    {
       "start": "2026-05-07T01:00:00+05:00",
       "stop": "2026-05-07T02:00:00+05:00",
       "title": "Salisbury Poisonings: The Untold Story",
@@ -75,6 +51,33 @@
         "Factual"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/176e95c7-fdca-436e-88d9-3fdf98dd3309/16-9"
+    },
+    {
+      "start": "2026-05-07T05:00:00+05:00",
+      "stop": "2026-05-07T05:50:00+05:00",
+      "title": "Ramsay's Kitchen Nightmares USA",
+      "sub_title": "Return to Amy's Baking Company",
+      "desc": "Gordon revisits the most contentious restaurant he's ever tried to rescue - Amy's Baking Company, in Scottsdale, Arizona.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Cooking"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/8dbdfa49-4d6c-41f8-9883-8b3cb33143ea/16-9"
+    },
+    {
+      "start": "2026-05-07T05:50:00+05:00",
+      "stop": "2026-05-07T07:25:00+05:00",
+      "title": "Pixie",
+      "desc": "Dark comedy with Olivia Cooke, Alec Baldwin and Colm Meaney. A young woman devises a series of elaborate heists and schemes to fund a new life.",
+      "date": "2020",
+      "language": "en",
+      "rating": "15",
+      "categories": [
+        "Movie",
+        "Comedy"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/688e7310-6ba7-455f-9127-2cb8dbedf8f7/16-9"
     }
   ]
 }
