@@ -4,30 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-07T02:30:00+05:00",
-      "stop": "2026-05-07T02:45:00+05:00",
-      "title": "ITV News London",
-      "desc": "The latest news and weather from London and the South East.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/14f80786-eefc-4936-9a49-fe91e20eb33a/16-9"
-    },
-    {
-      "start": "2026-05-07T02:45:00+05:00",
-      "stop": "2026-05-07T03:30:00+05:00",
-      "title": "Peston",
-      "desc": "Political interview programme hosted by the ITV News Political Editor Robert Peston, who provides viewers with an intelligent and lively approach to politics.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "Politics"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/51d58c37-38a4-472d-92c5-a689bb346df9/16-9"
-    },
-    {
       "start": "2026-05-07T03:30:00+05:00",
       "stop": "2026-05-07T04:00:00+05:00",
       "title": "The Assembly",
@@ -74,6 +50,30 @@
         "Game Show"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/b8809194-e568-44f4-8bd9-db5a48661bae/16-9"
+    },
+    {
+      "start": "2026-05-07T08:15:00+05:00",
+      "stop": "2026-05-07T08:40:00+05:00",
+      "title": "How to Clean Up for Cash",
+      "desc": "Josie and the gang help Tim box up and value his girlfriend Sally's lifetime of collections behind her back. Can she part with her possessions and take the cash.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Home"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/27118b06-c4bd-45a0-bfc4-e8af2c258227/16-9"
+    },
+    {
+      "start": "2026-05-07T08:40:00+05:00",
+      "stop": "2026-05-07T10:00:00+05:00",
+      "title": "Unwind with ITV",
+      "desc": "Your daily escape designed to calm the mind and encourage relaxation and reflection.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Lifestyles"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/e0e2b316-e76a-477e-bbfe-6b486d8ebb7d/16-9"
     }
   ]
 }

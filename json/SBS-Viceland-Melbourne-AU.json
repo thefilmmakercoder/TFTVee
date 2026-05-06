@@ -4,19 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-07T03:00:00+05:00",
-      "stop": "2026-05-07T03:10:00+05:00",
-      "title": "Euronews",
-      "sub_title": "Thursday 7 May 2026",
-      "desc": "Headlines, Breaking News & Analysis from the Euronews news centre in Brussels, Belgium, in English.",
-      "language": "en",
-      "rating": "NR",
-      "categories": [
-        "Sports"
-      ],
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/276/image/334x188"
-    },
-    {
       "start": "2026-05-07T03:10:00+05:00",
       "stop": "2026-05-07T03:40:00+05:00",
       "title": "NHK Newsline",
@@ -79,6 +66,19 @@
         "Sports"
       ],
       "icon": "https://www.fetchtv.com.au/v2/epg/program/440736/image/334x188"
+    },
+    {
+      "start": "2026-05-07T06:00:00+05:00",
+      "stop": "2026-05-07T06:35:00+05:00",
+      "title": "The Movie Show",
+      "desc": "Film review with Margaret Pomeranz and David Stratton. Covers The Heartbreak Kid with Ben Gannon & Michael Jenkins, Mississippi Masala with Mira Nair & Denzel Washington, plus Dragon and Leolo.",
+      "language": "en",
+      "rating": "NR",
+      "categories": [
+        "Special Interest"
+      ],
+      "episode": "E18",
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/130483/image/334x188"
     }
   ]
 }

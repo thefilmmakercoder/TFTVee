@@ -4,28 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-07T01:30:00+05:00",
-      "stop": "2026-05-07T02:30:00+05:00",
-      "title": "Antiques Roadshow",
-      "sub_title": "Santa Clara Hour 1",
-      "desc": "An Italian hotel proprietor's autograph book; Margaret Keane \"Big Eye\" painting; collection of 1936-1939 Edward Weston photographs.",
-      "date": "2015",
-      "language": "en",
-      "rating": "TVG",
-      "categories": [
-        "Series",
-        "Collectibles",
-        "Art"
-      ],
-      "episode": "S19 E14 P1/3",
-      "icon": "http://dtil.tmsimg.com/assets/p185479_b_h8_ag.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Mark L. Walberg"
-        ]
-      }
-    },
-    {
       "start": "2026-05-07T02:30:00+05:00",
       "stop": "2026-05-07T04:05:00+05:00",
       "title": "The Brokenwood Mysteries",
@@ -133,6 +111,25 @@
         "Environment"
       ],
       "icon": "http://dtil.tmsimg.com/assets/p21813442_st_h10_aa.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-07T08:00:00+05:00",
+      "stop": "2026-05-07T09:00:00+05:00",
+      "title": "Life on Earth: Attenborough's Greatest Adventure",
+      "desc": "The story behind David Attenborough's wildlife documentary series \"Life on Earth,\" which changed his life forever.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Special",
+        "Documentary"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p32646212_b_h8_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "David Attenborough"
+        ]
+      }
     }
   ]
 }

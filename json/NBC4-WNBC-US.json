@@ -4,30 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-07T02:30:00+05:00",
-      "stop": "2026-05-07T03:00:00+05:00",
-      "title": "Live: News 4 NY at 5:30",
-      "desc": "NY news.",
-      "date": "2017",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p14883149_b_h10_ac.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-07T03:00:00+05:00",
-      "stop": "2026-05-07T03:30:00+05:00",
-      "title": "Live: News 4 NY at 6",
-      "desc": "The latest local news, weather and investigative stories impacting your community.",
-      "date": "2011",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p8846208_b_h10_ae.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-05-07T03:30:00+05:00",
       "stop": "2026-05-07T04:00:00+05:00",
       "title": "NBC Nightly News With Tom Llamas",
@@ -107,6 +83,61 @@
           "Oliver Platt",
           "S. Epatha Merkerson",
           "Steven Weber"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-07T06:00:00+05:00",
+      "stop": "2026-05-07T07:00:00+05:00",
+      "title": "Chicago Fire",
+      "sub_title": "Speak of the Devil",
+      "desc": "Severide is forced to crack open a cold case buried for decades; a routine call hits too close to home for Novak.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "Series",
+        "Drama",
+        "Action"
+      ],
+      "episode": "S14 E20",
+      "icon": "http://dtil.tmsimg.com/assets/p9257455_b_h8_bb.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Steven Robin"
+        ],
+        "actor": [
+          "Dermot Mulroney",
+          "Taylor Kinney",
+          "David Eigenberg"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-07T07:00:00+05:00",
+      "stop": "2026-05-07T08:00:00+05:00",
+      "title": "Chicago P.D.",
+      "sub_title": "The Lost Years",
+      "desc": "Imani struggles to maintain her composure when a new lead reignites her investigation into her sister's disappearance.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "Series",
+        "Crime drama",
+        "Action",
+        "Thriller"
+      ],
+      "episode": "S13 E20",
+      "icon": "http://dtil.tmsimg.com/assets/p30834773_b_h8_ad.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Victor Macias"
+        ],
+        "actor": [
+          "Jason Beghe",
+          "Patrick John Flueger",
+          "LaRoyce Hawkins"
         ]
       }
     }

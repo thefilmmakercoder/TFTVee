@@ -4,19 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-07T02:00:00+05:00",
-      "stop": "2026-05-07T02:30:00+05:00",
-      "title": "Entertainment Tonight",
-      "desc": "Still the gold standard in entertainment news, ET delivers daily exclusives, red carpet coverage, and celebrity interviews.",
-      "language": "en",
-      "rating": "NR",
-      "categories": [
-        "Special Interest"
-      ],
-      "episode": "S45 E172",
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/132140/image/334x188"
-    },
-    {
       "start": "2026-05-07T02:30:00+05:00",
       "stop": "2026-05-07T03:30:00+05:00",
       "title": "The Late Show With Stephen Colbert",
@@ -80,6 +67,19 @@
       ],
       "episode": "S1 E170",
       "icon": "https://www.fetchtv.com.au/v2/epg/program/427295/image/334x188"
+    },
+    {
+      "start": "2026-05-07T06:00:00+05:00",
+      "stop": "2026-05-07T06:30:00+05:00",
+      "title": "Millionaire Hot Seat",
+      "desc": "Amongst the six competing for one million dollars in this episode is retired teacher Xenia and publicist Sarah.",
+      "language": "en",
+      "rating": "PG",
+      "categories": [
+        "Special Interest"
+      ],
+      "episode": "S16 E124",
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/325091/image/334x188"
     }
   ]
 }
