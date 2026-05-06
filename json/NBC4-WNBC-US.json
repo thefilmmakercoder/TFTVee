@@ -4,30 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-07T01:30:00+05:00",
-      "stop": "2026-05-07T02:00:00+05:00",
-      "title": "Live: News 4 NY at 4:30",
-      "desc": "NY news.",
-      "date": "2017",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p14883147_b_h10_ab.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-07T02:00:00+05:00",
-      "stop": "2026-05-07T02:30:00+05:00",
-      "title": "Live: News 4 NY at 5",
-      "desc": "The latest local news, weather and investigative stories impacting your community.",
-      "date": "2011",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p8846204_b_h10_ae.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-05-07T02:30:00+05:00",
       "stop": "2026-05-07T03:00:00+05:00",
       "title": "Live: News 4 NY at 5:30",
@@ -81,6 +57,58 @@
         "News"
       ],
       "icon": "http://dtil.tmsimg.com/assets/p18101773_b_h10_ad.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-07T04:30:00+05:00",
+      "stop": "2026-05-07T05:00:00+05:00",
+      "title": "Access Hollywood",
+      "desc": "Hosts Mario Lopez, Kit Hoover, Scott Evans and Zuri Hall take viewers behind the velvet ropes and onto the red carpet to deliver celebrity interviews and entertainment news stories in Hollywood.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Newsmagazine",
+        "Entertainment",
+        "Interview"
+      ],
+      "episode": "S30 E166",
+      "icon": "http://dtil.tmsimg.com/assets/p30926755_b_h8_ab.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Mario Lopez",
+          "Kit Hoover",
+          "Scott Evans"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-07T05:00:00+05:00",
+      "stop": "2026-05-07T06:00:00+05:00",
+      "title": "Chicago Med",
+      "sub_title": "Hell Breaks Loose",
+      "desc": "Gaffney is thrown into chaos when a prison riot overwhelms the E.D.; Goodwin and Charles prepare for a high-stakes board meeting.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "Series",
+        "Drama",
+        "Medical",
+        "Action"
+      ],
+      "episode": "S11 E20",
+      "icon": "http://dtil.tmsimg.com/assets/p30834757_b_h8_ac.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Anna Dokoza"
+        ],
+        "actor": [
+          "Oliver Platt",
+          "S. Epatha Merkerson",
+          "Steven Weber"
+        ]
+      }
     }
   ]
 }

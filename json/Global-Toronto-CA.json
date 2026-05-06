@@ -4,41 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-07T01:00:00+05:00",
-      "stop": "2026-05-07T02:00:00+05:00",
-      "title": "The Young and the Restless",
-      "desc": "Phyllis is troubled by Nick's behavior; Matt Clark resurfaces in Genoa City; Cane makes a promise to Lily.",
-      "date": "2026",
-      "language": "en",
-      "rating": "TV14",
-      "categories": [
-        "Series",
-        "Soap"
-      ],
-      "episode": "S53 E147",
-      "icon": "http://dtil.tmsimg.com/assets/p183904_b_h8_ai.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Peter Bergman",
-          "Eric Braeden",
-          "Christel Khalil"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-07T02:00:00+05:00",
-      "stop": "2026-05-07T03:00:00+05:00",
-      "title": "Global News at 5",
-      "desc": "Greater Toronto's top local news stories and latest weather forecast.",
-      "date": "2024",
-      "language": "en",
-      "categories": [
-        "News",
-        "Weather"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p28243562_b_h10_aa.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-05-07T02:00:00+05:00",
       "stop": "2026-05-07T03:00:00+05:00",
       "title": "Global News at 5",
@@ -94,6 +59,52 @@
       "credits": {
         "actor": [
           "Dawna Friesen"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-07T03:30:00+05:00",
+      "stop": "2026-05-07T04:00:00+05:00",
+      "title": "Global National",
+      "desc": "The top stories from around the world.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Series",
+        "News"
+      ],
+      "episode": "E126",
+      "icon": "http://dtil.tmsimg.com/assets/p185876_b_h8_ae.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Dawna Friesen"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-07T04:00:00+05:00",
+      "stop": "2026-05-07T04:30:00+05:00",
+      "title": "The Goldbergs",
+      "sub_title": "The Return of the Formica King",
+      "desc": "Business rival and nemesis \"Formica\" Mike attempts to make an offer Murray can't refuse; Adam offers Ms. Cinoman his and Erica's original show when William Penn cannot secure the rights to a well-known spring musical.",
+      "date": "2020",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Sitcom"
+      ],
+      "episode": "S7 E20",
+      "icon": "http://dtil.tmsimg.com/assets/p9977319_b_h8_by.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Lea Thompson"
+        ],
+        "actor": [
+          "Wendi McLendon-Covey",
+          "Patton Oswalt",
+          "Sean Giambrone"
         ]
       }
     }

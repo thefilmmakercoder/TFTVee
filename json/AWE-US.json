@@ -4,37 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-07T01:00:00+05:00",
-      "stop": "2026-05-07T02:00:00+05:00",
-      "title": "Road Less Traveled",
-      "sub_title": "Belgium",
-      "desc": "Jonathan digs around the Flanders exploring Western Europe's least understood region. He discovers how a Christmas cookie has turned into a spreading sensation and discovers a ghost town of automobiles with a mysterious past.",
-      "date": "2014",
-      "language": "en",
-      "categories": [
-        "Series",
-        "Outdoors"
-      ],
-      "episode": "S3 E7",
-      "icon": "http://dtil.tmsimg.com/assets/p8995529_b_h10_aa.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-07T02:00:00+05:00",
-      "stop": "2026-05-07T02:30:00+05:00",
-      "title": "Selling Mega Mansions",
-      "sub_title": "The Housewife of San Diego",
-      "desc": "Allie and Marco consider a luxurious Miami Beach townhouse; California couple Callie and Steve want to move to Orange County.",
-      "date": "2016",
-      "language": "en",
-      "rating": "TVG",
-      "categories": [
-        "Series",
-        "House/garden"
-      ],
-      "episode": "S1 E7",
-      "icon": "http://dtil.tmsimg.com/assets/p12720929_b_h10_ab.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-05-07T02:30:00+05:00",
       "stop": "2026-05-07T03:00:00+05:00",
       "title": "Dream Purchase",
@@ -117,6 +86,38 @@
           "Art Cohen"
         ]
       }
+    },
+    {
+      "start": "2026-05-07T04:30:00+05:00",
+      "stop": "2026-05-07T05:00:00+05:00",
+      "title": "Private Islands",
+      "sub_title": "Lizard Island",
+      "desc": "Off the coast of Australia, Lizard Island is a place of luxury, privacy and pure relaxation.",
+      "date": "2018",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Travel"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p865073_b_h10_ab.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-07T05:00:00+05:00",
+      "stop": "2026-05-07T05:30:00+05:00",
+      "title": "Behind the Gates",
+      "sub_title": "The Hamptons & Seattle",
+      "desc": "An original Hampton's rebuild situated in the heart of Southampton; a Hampton's replica next to the home of Bill Gates; an iconic estate with views of the Seattle skyline.",
+      "date": "2016",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Series",
+        "Travel",
+        "House/garden"
+      ],
+      "episode": "S3 E9",
+      "icon": "http://dtil.tmsimg.com/assets/p13227213_b_h10_ab.jpg?w=960&h=540"
     }
   ]
 }

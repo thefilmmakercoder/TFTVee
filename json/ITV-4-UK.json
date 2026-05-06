@@ -4,18 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-07T02:05:00+05:00",
-      "stop": "2026-05-07T02:10:00+05:00",
-      "title": "FYI Daily",
-      "desc": "Latest news from the world of entertainment.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "Showbiz"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/25db5060-09d4-41c7-9fea-5ae892388158/16-9"
-    },
-    {
       "start": "2026-05-07T02:10:00+05:00",
       "stop": "2026-05-07T03:10:00+05:00",
       "title": "Rocky Balboa",
@@ -75,6 +63,18 @@
         "Specialist",
         "Shopping"
       ]
+    },
+    {
+      "start": "2026-05-07T07:30:00+05:00",
+      "stop": "2026-05-07T08:00:00+05:00",
+      "title": "Auto Mundial",
+      "desc": "The latest news and reviews from the world of cars.",
+      "language": "en",
+      "categories": [
+        "Sports",
+        "Motor Sports"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/9029eeaf-2b44-4c03-aa81-7539ff6ac75b/16-9"
     }
   ]
 }

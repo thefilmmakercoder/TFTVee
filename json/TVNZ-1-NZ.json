@@ -4,13 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-06T23:00:00+05:00",
-      "stop": "2026-05-07T02:00:00+05:00",
-      "title": "Breakfast",
-      "desc": "Start your day off right as the Breakfast team brings you all the latest in news, weather, sport and entertainment.",
-      "language": "en"
-    },
-    {
       "start": "2026-05-07T02:00:00+05:00",
       "stop": "2026-05-07T03:00:00+05:00",
       "title": "Riddiculous",
@@ -47,6 +40,14 @@
       "stop": "2026-05-07T06:30:00+05:00",
       "title": "Emmerdale",
       "desc": "Long-running soap following the ups and downs of village life amid the rolling scenery of the Yorkshire Dales.",
+      "language": "en",
+      "rating": "PG"
+    },
+    {
+      "start": "2026-05-07T06:30:00+05:00",
+      "stop": "2026-05-07T07:00:00+05:00",
+      "title": "Coronation Street",
+      "desc": "Long-running drama with the residents of England's most famous cobbled street.",
       "language": "en",
       "rating": "PG"
     }

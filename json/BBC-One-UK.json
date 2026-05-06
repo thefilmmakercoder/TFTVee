@@ -4,30 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-07T01:30:00+05:00",
-      "stop": "2026-05-07T02:00:00+05:00",
-      "title": "Only Child",
-      "desc": "Richard just wants to hide away from the world, but Ken has other ideas - mainly forcing him to join the protest group fighting to save the local allotments.",
-      "language": "en",
-      "categories": [
-        "Entertainment",
-        "Comedy"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/17b674e4-2483-4ae0-93d3-6debad4aa908/16-9"
-    },
-    {
-      "start": "2026-05-07T02:00:00+05:00",
-      "stop": "2026-05-07T02:30:00+05:00",
-      "title": "BBC News and Weather",
-      "desc": "The latest national and international news, with reports from BBC correspondents worldwide.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/55377f4e-a0b3-4d68-82b1-3d1657e478b2/16-9"
-    },
-    {
       "start": "2026-05-07T02:30:00+05:00",
       "stop": "2026-05-07T02:40:00+05:00",
       "title": "BBC London News",
@@ -74,6 +50,30 @@
         "News"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/cdc425cc-4e83-4ebc-b8cb-0940eae054c3/16-9"
+    },
+    {
+      "start": "2026-05-07T04:20:00+05:00",
+      "stop": "2026-05-07T10:00:00+05:00",
+      "title": "BBC News",
+      "desc": "BBC One joins the BBC's rolling news channel for a night of news.",
+      "language": "en",
+      "categories": [
+        "News & Documentary",
+        "News"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/429d029a-c415-46d8-8bb1-6aeefc5d4b9b/16-9"
+    },
+    {
+      "start": "2026-05-07T10:00:00+05:00",
+      "stop": "2026-05-07T13:30:00+05:00",
+      "title": "Breakfast",
+      "desc": "The latest news, sport, business and weather from the BBC's Breakfast team.",
+      "language": "en",
+      "categories": [
+        "News & Documentary",
+        "News"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/1ccefbf1-92aa-43a9-840a-6bd8fe829243/16-9"
     }
   ]
 }
