@@ -4,13 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-06T07:15:00+05:00",
-      "stop": "2026-05-06T09:30:00+05:00",
-      "title": "This is BBC Four",
-      "desc": "Programmes start at 7.00pm.",
-      "language": "en"
-    },
-    {
       "start": "2026-05-06T09:30:00+05:00",
       "stop": "2026-05-06T15:30:00+05:00",
       "title": "..programmes start at 7.00pm",
@@ -46,6 +39,18 @@
         "Game Show"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/36692352-50a1-48fb-963b-a20641d5afee/16-9"
+    },
+    {
+      "start": "2026-05-06T23:30:00+05:00",
+      "stop": "2026-05-07T00:00:00+05:00",
+      "title": "Only Connect",
+      "desc": "Quiz show presented by Victoria Coren in which patience and lateral thinking are as vital as knowledge, and connections need to be made between apparently unconnected things.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Game Show"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/ba73f848-3e77-4000-827b-7f287f7b10ce/16-9"
     }
   ]
 }

@@ -4,30 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-06T13:30:00+05:00",
-      "stop": "2026-05-06T14:00:00+05:00",
-      "title": "Today in New York",
-      "desc": "The local news, weather and investigative stories impacting your community.",
-      "date": "2000",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p960598_b_h10_ac.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-06T14:00:00+05:00",
-      "stop": "2026-05-06T15:00:00+05:00",
-      "title": "Today in New York",
-      "desc": "The local news, weather and investigative stories impacting your community.",
-      "date": "2000",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p960598_b_h10_ac.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-05-06T15:00:00+05:00",
       "stop": "2026-05-06T16:00:00+05:00",
       "title": "Today in New York @ 6AM",
@@ -107,6 +83,31 @@
           "Hugh Jackman"
         ]
       }
+    },
+    {
+      "start": "2026-05-06T20:00:00+05:00",
+      "stop": "2026-05-06T20:30:00+05:00",
+      "title": "Live: News 4 NY at 11AM",
+      "desc": "The latest local news, weather and investigative stories impacting your community.",
+      "date": "2014",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p10513203_b_h10_ae.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-06T20:30:00+05:00",
+      "stop": "2026-05-06T21:00:00+05:00",
+      "title": "New York Live",
+      "desc": "Celebrity interviews and discussing recipes, beauty, fashion and current events pertinent to the tri-state region.",
+      "date": "2011",
+      "language": "en",
+      "categories": [
+        "News",
+        "Newsmagazine"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p8692580_b_h8_ac.jpg?w=960&h=540"
     }
   ]
 }

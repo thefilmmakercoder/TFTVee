@@ -4,13 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-06T07:55:00+05:00",
-      "stop": "2026-05-06T09:30:00+05:00",
-      "title": "This is BBC Three",
-      "desc": "Programmes start at 7.00pm.",
-      "language": "en"
-    },
-    {
       "start": "2026-05-06T09:30:00+05:00",
       "stop": "2026-05-06T15:30:00+05:00",
       "title": "..programmes start at 7.00pm",
@@ -46,6 +39,18 @@
         "News"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/e71ab9ef-9a9d-4c6b-ad82-fffb8653e554/16-9"
+    },
+    {
+      "start": "2026-05-06T23:05:00+05:00",
+      "stop": "2026-05-06T23:30:00+05:00",
+      "title": "Deadly 60",
+      "sub_title": "Saving the Pangolins",
+      "desc": "Steve takes a special journey to meet the most trafficked animal on earth - the pangolin. He meets the people working tirelessly to save them.",
+      "language": "en",
+      "categories": [
+        "Children"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/01eacf76-5802-3ed0-a4ef-3424c8cd473e/16-9"
     }
   ]
 }

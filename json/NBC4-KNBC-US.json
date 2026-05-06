@@ -4,61 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-06T13:37:00+05:00",
-      "stop": "2026-05-06T14:07:00+05:00",
-      "title": "NBC4 News at 11pm",
-      "desc": "The latest local news, weather and investigative stories impacting the community.",
-      "date": "2011",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p8781143_b_h10_ad.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-06T14:07:00+05:00",
-      "stop": "2026-05-06T14:37:00+05:00",
-      "title": "NBC Nightly News With Tom Llamas",
-      "desc": "Tom Llamas anchors the latest news, going beyond the headlines to see how lives are affected by the world around them.",
-      "date": "2026",
-      "language": "en",
-      "categories": [
-        "Series",
-        "News"
-      ],
-      "episode": "S2 E116",
-      "icon": "http://dtil.tmsimg.com/assets/p30141511_b_h8_aa.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Tom Llamas"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-06T14:37:00+05:00",
-      "stop": "2026-05-06T15:30:00+05:00",
-      "title": "The Kelly Clarkson Show",
-      "desc": "Kellyoke encore: \"Ain't That Lonely Yet\"; Ellen Burstyn; Charles Melton; Robert Smigel; bargains and deals with Lawrence Zarian and MorningSave; Dr. Lee Long (book \"Wait, Where Am I in This?\"); Willa Ford performs.",
-      "date": "2026",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Series",
-        "Talk",
-        "Variety",
-        "Entertainment"
-      ],
-      "episode": "S7 E129",
-      "icon": "http://dtil.tmsimg.com/assets/p16993616_b_h8_af.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Kelly Clarkson",
-          "Ellen Burstyn",
-          "Charles Melton"
-        ]
-      }
-    },
-    {
       "start": "2026-05-06T15:30:00+05:00",
       "stop": "2026-05-06T16:00:00+05:00",
       "title": "Early Today",
@@ -94,6 +39,54 @@
         "News"
       ],
       "icon": "http://dtil.tmsimg.com/assets/p18627053_b_h10_ab.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-06T17:00:00+05:00",
+      "stop": "2026-05-06T18:00:00+05:00",
+      "title": "Today in LA @ 5AM",
+      "desc": "The latest local news, weather and investigative stories impacting the community.",
+      "date": "2020",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p18627056_b_h10_ab.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-06T18:00:00+05:00",
+      "stop": "2026-05-06T19:00:00+05:00",
+      "title": "Today in LA @ 6AM",
+      "desc": "The latest local news, weather and investigative stories impacting the community.",
+      "date": "2020",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p18627061_b_h10_ab.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-06T19:00:00+05:00",
+      "stop": "2026-05-06T21:00:00+05:00",
+      "title": "Today",
+      "desc": "Previewing the open of the Obama Presidential Center; actor Hugh Jackman; shopping expert Adrianna Brach; a performance by Broadway's \"Two Strangers (Carry a Cake Across New York).\".",
+      "date": "2026",
+      "language": "en",
+      "rating": "G",
+      "categories": [
+        "Series",
+        "Talk",
+        "News",
+        "Public affairs"
+      ],
+      "episode": "S74 E191",
+      "icon": "http://dtil.tmsimg.com/assets/p30939383_b_h8_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Savannah Guthrie",
+          "Craig Melvin",
+          "Al Roker"
+        ]
+      }
     }
   ]
 }

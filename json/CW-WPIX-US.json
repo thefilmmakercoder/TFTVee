@@ -4,30 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-06T13:30:00+05:00",
-      "stop": "2026-05-06T14:00:00+05:00",
-      "title": "PIX11 Morning News at 4:30am",
-      "desc": "Staying informed with the news and headlines.",
-      "date": "2018",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p16250980_b_h8_ab.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-06T14:00:00+05:00",
-      "stop": "2026-05-06T15:00:00+05:00",
-      "title": "PIX11 Morning News at 5am",
-      "desc": "Staying informed with the news and headlines.",
-      "date": "2016",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p12803754_b_h8_ab.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-05-06T15:00:00+05:00",
       "stop": "2026-05-06T16:00:00+05:00",
       "title": "PIX11 Morning News at 6am",
@@ -73,6 +49,53 @@
         "Newsmagazine"
       ],
       "icon": "http://dtil.tmsimg.com/assets/p21493460_st_h10_aa.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-06T20:00:00+05:00",
+      "stop": "2026-05-06T20:30:00+05:00",
+      "title": "Tribunal Justice",
+      "sub_title": "Golden Girls Collection Agency",
+      "desc": "In a neighborhood spat, a widow sues her neighbor for unpaid loans her deceased husband provided; she sets the record straight, emphasizing the absence of any romantic involvement between them.",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "Series",
+        "Law",
+        "Reality"
+      ],
+      "episode": "S2 E76",
+      "icon": "http://dtil.tmsimg.com/assets/p24616934_b_h10_ad.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Petri Hawkins-Byrd",
+          "Patricia DiMango",
+          "Tanya Acker"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-06T20:30:00+05:00",
+      "stop": "2026-05-06T21:00:00+05:00",
+      "title": "Tribunal Justice",
+      "sub_title": "Past Debts, Present Grudges",
+      "desc": "A man sues his ex-girlfriend for brake repair costs, doubling the amount due to perceived malice; she says they are even because she supported him during his incarceration.",
+      "date": "2025",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "Series",
+        "Law",
+        "Reality"
+      ],
+      "episode": "S2 E25",
+      "icon": "http://dtil.tmsimg.com/assets/p24616934_b_h10_ad.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Petri Hawkins-Byrd",
+          "Patricia DiMango",
+          "Tanya Acker"
+        ]
+      }
     }
   ]
 }

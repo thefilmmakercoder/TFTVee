@@ -4,30 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-06T13:30:00+05:00",
-      "stop": "2026-05-06T14:00:00+05:00",
-      "title": "Good Day Wake Up",
-      "desc": "Morning news coverage.",
-      "date": "2009",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p706488_b_h8_ab.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-06T14:00:00+05:00",
-      "stop": "2026-05-06T15:00:00+05:00",
-      "title": "Good Day Wake Up",
-      "desc": "Morning news coverage.",
-      "date": "2009",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p706488_b_h8_ab.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-05-06T15:00:00+05:00",
       "stop": "2026-05-06T16:00:00+05:00",
       "title": "Good Day Wake Up 2",
@@ -85,6 +61,40 @@
           "Zarna Garg"
         ]
       }
+    },
+    {
+      "start": "2026-05-06T20:00:00+05:00",
+      "stop": "2026-05-06T21:00:00+05:00",
+      "title": "The Jennifer Hudson Show",
+      "desc": "Actor and comedian Craig Robinson and Jennifer chat about his show \"The Fall and Rise of Reggie Dinkins\" and his upcoming stand-up dates; actress Erika Alexander stops by to talk about her upcoming film \"Is God Is\"; Grammy-nominated singer-songwriter Alex Isley performs a song from her upcoming album, \"When the City Sleeps\"; Jennifer also welcomes the incredibly talented 6-year-old artist Lucas Shao!",
+      "date": "2026",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Talk"
+      ],
+      "episode": "S4 E132",
+      "icon": "http://dtil.tmsimg.com/assets/p31041660_b_h8_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Jennifer Hudson",
+          "Craig Robinson",
+          "Erika Alexander"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-06T21:00:00+05:00",
+      "stop": "2026-05-06T22:00:00+05:00",
+      "title": "The Noon",
+      "desc": "Midday news update.",
+      "date": "2019",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p17326137_b_h8_ab.jpg?w=960&h=540"
     }
   ]
 }

@@ -4,36 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-06T13:00:00+05:00",
-      "stop": "2026-05-06T14:00:00+05:00",
-      "title": "CNN Newsroom Live",
-      "desc": "The latest news from around the world.",
-      "date": "2026",
-      "language": "en",
-      "categories": [
-        "Series",
-        "News",
-        "Interview",
-        "Politics"
-      ],
-      "episode": "E224",
-      "icon": "http://dtil.tmsimg.com/assets/p11873759_b_h10_aa.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-06T14:00:00+05:00",
-      "stop": "2026-05-06T15:00:00+05:00",
-      "title": "Live: CNN Headline Express",
-      "desc": "Brad Smith brings you the day's biggest headlines and most buzzworthy stories.",
-      "date": "2026",
-      "language": "en",
-      "categories": [
-        "Series",
-        "News"
-      ],
-      "episode": "E3",
-      "icon": "http://dtil.tmsimg.com/assets/p32988509_b_h8_ac.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-05-06T15:00:00+05:00",
       "stop": "2026-05-06T16:00:00+05:00",
       "title": "Live: CNN This Morning",
@@ -115,6 +85,34 @@
           "Sara Sidner"
         ]
       }
+    },
+    {
+      "start": "2026-05-06T19:00:00+05:00",
+      "stop": "2026-05-06T20:00:00+05:00",
+      "title": "Live: The Situation Room",
+      "desc": "Wolf Blitzer and Pamela Brown are in the command center for breaking news, politics and extraordinary reports from around the world.",
+      "date": "2026",
+      "language": "en",
+      "categories": [
+        "Series",
+        "News"
+      ],
+      "episode": "E179",
+      "icon": "http://dtil.tmsimg.com/assets/p29585222_b_h8_aa.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-06T20:00:00+05:00",
+      "stop": "2026-05-06T21:00:00+05:00",
+      "title": "Live: The Situation Room",
+      "desc": "Wolf Blitzer and Pamela Brown are in the command center for breaking news, politics and extraordinary reports from around the world.",
+      "date": "2026",
+      "language": "en",
+      "categories": [
+        "Series",
+        "News"
+      ],
+      "episode": "E180",
+      "icon": "http://dtil.tmsimg.com/assets/p29585222_b_h8_aa.jpg?w=960&h=540"
     }
   ]
 }
