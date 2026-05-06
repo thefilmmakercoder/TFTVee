@@ -4,110 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-06T11:00:00+05:00",
-      "stop": "2026-05-06T11:30:00+05:00",
-      "title": "Paid Programming",
-      "desc": "Paid programming.",
-      "language": "en",
-      "rating": "TVG",
-      "categories": [
-        "Consumer",
-        "Shopping",
-        "Variety"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-06T11:30:00+05:00",
-      "stop": "2026-05-06T12:00:00+05:00",
-      "title": "Two and a Half Men",
-      "sub_title": "That Old Hose Bag Is My Mother",
-      "desc": "After taking a loan from Evelyn, Alan is guilted into double-dating with her, her new romantic interest and his daughter.",
-      "date": "2005",
-      "language": "en",
-      "rating": "TV14",
-      "categories": [
-        "Series",
-        "Sitcom"
-      ],
-      "episode": "S2 E22",
-      "icon": "http://dtil.tmsimg.com/assets/p7895720_b_h8_ah.jpg?w=960&h=540",
-      "credits": {
-        "director": [
-          "Gary Halvorson"
-        ],
-        "actor": [
-          "Charlie Sheen",
-          "Jon Cryer",
-          "Angus T. Jones"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-06T12:00:00+05:00",
-      "stop": "2026-05-06T12:30:00+05:00",
-      "title": "Bob Hearts Abishola",
-      "sub_title": "I'll Never Play Banjo Again",
-      "desc": "A conflicted Abishola pushes against her Nigerian roots when she opens up about her past to Dele; Bob attempts to bridge an emotional gap with Douglas.",
-      "date": "2023",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Series",
-        "Sitcom"
-      ],
-      "episode": "S4 E17",
-      "icon": "http://dtil.tmsimg.com/assets/p16945108_b_h8_aa.jpg?w=960&h=540",
-      "credits": {
-        "director": [
-          "Beth McCarthy-Miller"
-        ],
-        "actor": [
-          "Billy Gardell",
-          "Folake Olowofoyeku",
-          "Christine Ebersole"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-06T12:30:00+05:00",
-      "stop": "2026-05-06T13:00:00+05:00",
-      "title": "The Goldbergs",
-      "sub_title": "A Chorus Lie",
-      "desc": "Beverly asks Miss Cinoman (Ana Gasteyer) to let Adam -- who is going through puberty -- lip sync in the school musical; Murray inspires Erica to go to the homecoming dance with Geoff Schwartz (Sam Lerner).",
-      "date": "2015",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Series",
-        "Sitcom"
-      ],
-      "episode": "S3 E2",
-      "icon": "http://dtil.tmsimg.com/assets/p9977319_b_h8_by.jpg?w=960&h=540",
-      "credits": {
-        "director": [
-          "David Katzenberg"
-        ],
-        "actor": [
-          "Wendi McLendon-Covey",
-          "Patton Oswalt",
-          "Sean Giambrone"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-06T13:00:00+05:00",
-      "stop": "2026-05-06T13:30:00+05:00",
-      "title": "PIX11 Morning News at 4am",
-      "desc": "Staying informed with the news and headlines.",
-      "date": "2021",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p20892929_b_h8_ab.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-05-06T13:30:00+05:00",
       "stop": "2026-05-06T14:00:00+05:00",
       "title": "PIX11 Morning News at 4:30am",
@@ -118,6 +14,65 @@
         "News"
       ],
       "icon": "http://dtil.tmsimg.com/assets/p16250980_b_h8_ab.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-06T14:00:00+05:00",
+      "stop": "2026-05-06T15:00:00+05:00",
+      "title": "PIX11 Morning News at 5am",
+      "desc": "Staying informed with the news and headlines.",
+      "date": "2016",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p12803754_b_h8_ab.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-06T15:00:00+05:00",
+      "stop": "2026-05-06T16:00:00+05:00",
+      "title": "PIX11 Morning News at 6am",
+      "desc": "Staying informed with the news and headlines.",
+      "date": "2018",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p16250992_b_h8_ab.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-06T16:00:00+05:00",
+      "stop": "2026-05-06T18:00:00+05:00",
+      "title": "PIX11 Morning News at 7am",
+      "desc": "Staying informed with the news and headlines.",
+      "date": "2018",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p16250994_b_h8_ab.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-06T18:00:00+05:00",
+      "stop": "2026-05-06T19:00:00+05:00",
+      "title": "PIX11 Morning News at 9am",
+      "desc": "Staying informed with the news and headlines.",
+      "date": "2020",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p17722468_b_h8_ab.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-06T19:00:00+05:00",
+      "stop": "2026-05-06T20:00:00+05:00",
+      "title": "New York Living",
+      "date": "2022",
+      "language": "en",
+      "categories": [
+        "Newsmagazine"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p21493460_st_h10_aa.jpg?w=960&h=540"
     }
   ]
 }

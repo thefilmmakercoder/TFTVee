@@ -4,55 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-06T11:00:00+05:00",
-      "stop": "2026-05-06T11:30:00+05:00",
-      "title": "Paid Programming",
-      "desc": "Paid programming.",
-      "language": "en",
-      "rating": "TVG",
-      "categories": [
-        "Consumer",
-        "Shopping",
-        "Variety"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-06T11:30:00+05:00",
-      "stop": "2026-05-06T12:00:00+05:00",
-      "title": "Victim of Nursing Home Abuse?",
-      "desc": "Have you or a family member been a victim of nursing home abuse?",
-      "language": "en",
-      "categories": [
-        "Consumer"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p32656820_st_h10_aa.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-06T12:00:00+05:00",
-      "stop": "2026-05-06T13:00:00+05:00",
-      "title": "The Aging Brain",
-      "desc": "Learn what's behind mental decline with age, and how to improve memory, focus and concentration with NeuroQ's Darrin Peterson and Dale Bredesen MD.",
-      "language": "en",
-      "categories": [
-        "Consumer"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p30127108_st_h10_aa.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-06T13:00:00+05:00",
-      "stop": "2026-05-06T13:30:00+05:00",
-      "title": "Good Night New York",
-      "desc": "Christal Young and Ryan Kristafer's edgy perspective on entertainment and lifestyle news in NYC and beyond.",
-      "date": "2024",
-      "language": "en",
-      "rating": "TV14",
-      "categories": [
-        "Newsmagazine"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p27878460_b_h8_aa.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-05-06T13:30:00+05:00",
       "stop": "2026-05-06T14:00:00+05:00",
       "title": "Good Day Wake Up",
@@ -75,6 +26,65 @@
         "News"
       ],
       "icon": "http://dtil.tmsimg.com/assets/p706488_b_h8_ab.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-06T15:00:00+05:00",
+      "stop": "2026-05-06T16:00:00+05:00",
+      "title": "Good Day Wake Up 2",
+      "desc": "Morning news and entertainment.",
+      "date": "2009",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p706489_b_h8_ab.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-06T16:00:00+05:00",
+      "stop": "2026-05-06T18:00:00+05:00",
+      "title": "Good Day New York",
+      "desc": "Morning news.",
+      "date": "2007",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p706448_b_h8_ab.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-06T18:00:00+05:00",
+      "stop": "2026-05-06T19:00:00+05:00",
+      "title": "Good Day New York",
+      "desc": "Morning news.",
+      "date": "2007",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p706448_b_h8_ab.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-06T19:00:00+05:00",
+      "stop": "2026-05-06T20:00:00+05:00",
+      "title": "Sherri",
+      "sub_title": "Zarna Garg",
+      "desc": "Sherri kicks off the show with laughs in The Stand-Up Spot; Zarna Garg tells Sherri how she went from being a stay-at-home mom to a viral comic; women looking to break into the world of stand-up comedy perform in \"Sherri's Funny Over 50\" competition.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Talk",
+        "Interview"
+      ],
+      "episode": "S4 E127",
+      "icon": "http://dtil.tmsimg.com/assets/p21805765_b_h8_ab.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Sherri Shepherd",
+          "Zarna Garg"
+        ]
+      }
     }
   ]
 }

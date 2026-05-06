@@ -4,18 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-06T05:35:00+05:00",
-      "stop": "2026-05-06T10:00:00+05:00",
-      "title": "BBC News",
-      "desc": "BBC One joins the BBC's rolling news channel for a night of news.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/fcd8a7b3-84ef-4592-95ce-95861d7d2cdb/16-9"
-    },
-    {
       "start": "2026-05-06T10:00:00+05:00",
       "stop": "2026-05-06T13:30:00+05:00",
       "title": "Breakfast",
@@ -73,6 +61,18 @@
         "Game Show"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/3b586a89-ebba-3e4c-89c7-87fd7acf7b18/16-9"
+    },
+    {
+      "start": "2026-05-06T17:00:00+05:00",
+      "stop": "2026-05-06T18:00:00+05:00",
+      "title": "BBC News at One including BBC London News",
+      "desc": "The latest national and international news from the BBC.",
+      "language": "en",
+      "categories": [
+        "News & Documentary",
+        "News"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/99408d05-5565-4090-b51d-d1b7b55e3d6e/16-9"
     }
   ]
 }

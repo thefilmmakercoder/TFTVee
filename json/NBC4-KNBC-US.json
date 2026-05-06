@@ -4,67 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-06T11:00:00+05:00",
-      "stop": "2026-05-06T11:34:00+05:00",
-      "title": "NBC4 News at 11pm",
-      "desc": "The latest local news, weather and investigative stories impacting the community.",
-      "date": "2011",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p8781143_b_h10_ad.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-06T11:34:00+05:00",
-      "stop": "2026-05-06T12:37:00+05:00",
-      "title": "The Tonight Show Starring Jimmy Fallon",
-      "sub_title": "Justin Hartley; Cara Delevingne; Walt Frazier; Maddy Kelly",
-      "desc": "Actor Justin Hartley; actress Cara Delevingne; former professional basketball player Walt Frazier; comic Maddy Kelly.",
-      "date": "2026",
-      "language": "en",
-      "rating": "TV14",
-      "categories": [
-        "Series",
-        "Talk",
-        "Comedy"
-      ],
-      "episode": "S13 E100",
-      "icon": "http://dtil.tmsimg.com/assets/p9898935_b_h8_am.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Jimmy Fallon",
-          "Justin Hartley",
-          "Cara Delevingne"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-06T12:37:00+05:00",
-      "stop": "2026-05-06T13:37:00+05:00",
-      "title": "Late Night With Seth Meyers",
-      "sub_title": "Meg Stalter; Caro Claire Burke",
-      "desc": "Actress Meg Stalter; author Caro Claire Burke.",
-      "date": "2026",
-      "language": "en",
-      "rating": "TV14",
-      "categories": [
-        "Series",
-        "Talk",
-        "Comedy",
-        "Political News Satire & Talk"
-      ],
-      "episode": "S13 E95",
-      "icon": "http://dtil.tmsimg.com/assets/p31240203_b_h8_aa.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Seth Meyers",
-          "Meg Stalter",
-          "Caro Claire Burke"
-        ]
-      }
-    },
-    {
       "start": "2026-05-06T13:37:00+05:00",
       "stop": "2026-05-06T14:07:00+05:00",
       "title": "NBC4 News at 11pm",
@@ -118,6 +57,43 @@
           "Charles Melton"
         ]
       }
+    },
+    {
+      "start": "2026-05-06T15:30:00+05:00",
+      "stop": "2026-05-06T16:00:00+05:00",
+      "title": "Early Today",
+      "desc": "This early-morning news covers overnight events, breaking domestic and international news as well as a preview of the day's anticipated events. The program also presents regular reports from the worlds of business, entertainment and sports.",
+      "date": "1999",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p185301_b_h8_ag.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-06T16:00:00+05:00",
+      "stop": "2026-05-06T16:30:00+05:00",
+      "title": "Today in LA @ 4AM",
+      "desc": "The latest local news, weather and investigative stories impacting the community.",
+      "date": "2020",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p18627049_b_h10_ab.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-06T16:30:00+05:00",
+      "stop": "2026-05-06T17:00:00+05:00",
+      "title": "Today in LA @ 4:30AM",
+      "desc": "The latest local news, weather and investigative stories impacting the community.",
+      "date": "2020",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p18627053_b_h10_ab.jpg?w=960&h=540"
     }
   ]
 }
