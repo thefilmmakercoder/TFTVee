@@ -4,30 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-07T18:00:00+05:00",
-      "stop": "2026-05-07T19:00:00+05:00",
-      "title": "Good Day LA at 6am",
-      "desc": "Morning news coverage.",
-      "date": "2019",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p16719279_b_h8_ab.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-07T19:00:00+05:00",
-      "stop": "2026-05-07T21:00:00+05:00",
-      "title": "Good Day LA at 7am",
-      "desc": "Morning news coverage.",
-      "date": "2012",
-      "language": "en",
-      "categories": [
-        "Talk"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p9542652_b_h8_ac.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-05-07T21:00:00+05:00",
       "stop": "2026-05-07T22:00:00+05:00",
       "title": "Good Day LA at 9am",
@@ -83,6 +59,51 @@
           "Sherri Shepherd",
           "Taraji P. Henson",
           "Kellee Stewart"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-08T01:00:00+05:00",
+      "stop": "2026-05-08T02:00:00+05:00",
+      "title": "The Jennifer Hudson Show",
+      "desc": "Actor and rapper Daveed Diggs stops by to chat about his new album, \"Magic Hour\"; Jennifer welcomes Dr. Lucille O'Neal and Jolinda Wade, the mothers of NBA legends Shaquille O'Neal and Dwyane Wade; Dr. O'Neal talks about her book \"While I Have Your Attention: It's Never Too Late for a New Beginning.\".",
+      "date": "2026",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Talk"
+      ],
+      "episode": "S4 E133",
+      "icon": "http://dtil.tmsimg.com/assets/p31041660_b_h8_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Jennifer Hudson",
+          "Daveed Diggs",
+          "Lucille O'Neal"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-08T02:00:00+05:00",
+      "stop": "2026-05-08T03:00:00+05:00",
+      "title": "25 Words or Less Live",
+      "sub_title": "Rapid Word Rumble: Melissa Peterman vs. Amber Stevens West",
+      "desc": "Amber Stevens West and Melissa Peterman take on life in a high-speed game where every word can make or break the round.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Game show"
+      ],
+      "episode": "E8",
+      "icon": "http://dtil.tmsimg.com/assets/p32903864_st_h10_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Meredith Vieira",
+          "Melissa Peterman",
+          "Amber Stevens West"
         ]
       }
     }

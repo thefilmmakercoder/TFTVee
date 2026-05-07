@@ -4,50 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-07T19:00:00+05:00",
-      "stop": "2026-05-07T20:00:00+05:00",
-      "title": "The $100,000 Pyramid",
-      "sub_title": "Ken Jeong vs. Nico Santos and Tim Meadows vs. Kathy Najimy",
-      "desc": "Celebrity battles featuring actors Ken Jeong, Nico Santos, Tim Meadows and Kathy Najimy.",
-      "date": "2018",
-      "language": "en",
-      "rating": "TV14",
-      "categories": [
-        "Series",
-        "Game show",
-        "Comedy"
-      ],
-      "episode": "S3 E9",
-      "icon": "http://dtil.tmsimg.com/assets/p12504707_b_h8_am.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Michael Strahan",
-          "Ken Jeong",
-          "Nico Santos"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-07T20:00:00+05:00",
-      "stop": "2026-05-07T21:00:00+05:00",
-      "title": "Deal or No Deal",
-      "desc": "A man from California plays for the top prize of one million dollars.",
-      "date": "2008",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Series",
-        "Game show"
-      ],
-      "episode": "S3 E37",
-      "icon": "http://dtil.tmsimg.com/assets/p9106848_b_h11_aa.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Howie Mandel"
-        ]
-      }
-    },
-    {
       "start": "2026-05-07T21:00:00+05:00",
       "stop": "2026-05-07T22:00:00+05:00",
       "title": "Deal or No Deal",
@@ -127,6 +83,47 @@
         "actor": [
           "Pat Sajak",
           "Vanna White"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-07T23:30:00+05:00",
+      "stop": "2026-05-08T00:00:00+05:00",
+      "title": "Wheel of Fortune",
+      "sub_title": "Pet Lovers",
+      "desc": "In a classic game-show version of \"Hangman,\" contestants solve word puzzles for cash and prizes.",
+      "date": "2008",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Series",
+        "Game show"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p184057_b_h8_ai.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Pat Sajak",
+          "Vanna White"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-08T00:00:00+05:00",
+      "stop": "2026-05-08T00:30:00+05:00",
+      "title": "Jeopardy!",
+      "desc": "The Emmy-winning quiz show features a unique answer-and-question format.",
+      "date": "2020",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Series",
+        "Game show"
+      ],
+      "episode": "S36 E121",
+      "icon": "http://dtil.tmsimg.com/assets/p184056_b_h10_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Alex Trebek"
         ]
       }
     }

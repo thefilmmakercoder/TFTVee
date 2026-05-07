@@ -4,38 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-07T19:15:00+05:00",
-      "stop": "2026-05-07T20:15:00+05:00",
-      "title": "Aerial America",
-      "sub_title": "Oklahoma",
-      "desc": "This flight over Oklahoma is the home of famous \"Okies\" Will Rogers, Brad Pitt, and Geronimo.",
-      "date": "20121119",
-      "language": "en",
-      "categories": [
-        "Series",
-        "History",
-        "Educational"
-      ],
-      "episode": "S01E29",
-      "icon": "https://images.pluto.tv/series/5fa34413e906e1001a03ed7a/tile_1768515844446.jpg?fill=blur&fit=fill&fm=jpg&h=900&q=75&w=900"
-    },
-    {
-      "start": "2026-05-07T20:15:00+05:00",
-      "stop": "2026-05-07T21:15:00+05:00",
-      "title": "Aerial America",
-      "sub_title": "Georgia",
-      "desc": "This aerial tour of Georgia, the Empire State of the South, offers a view you've never seen before.",
-      "date": "20110808",
-      "language": "en",
-      "categories": [
-        "Series",
-        "History",
-        "Educational"
-      ],
-      "episode": "S01E13",
-      "icon": "https://images.pluto.tv/series/5fa34413e906e1001a03ed7a/tile_1768515844446.jpg?fill=blur&fit=fill&fm=jpg&h=900&q=75&w=900"
-    },
-    {
       "start": "2026-05-07T21:15:00+05:00",
       "stop": "2026-05-07T22:15:00+05:00",
       "title": "Aerial America",
@@ -44,9 +12,9 @@
       "date": "20100822",
       "language": "en",
       "categories": [
-        "Series",
         "History",
-        "Educational"
+        "Educational",
+        "Series"
       ],
       "episode": "S01E07",
       "icon": "https://images.pluto.tv/series/5fa34413e906e1001a03ed7a/tile_1768515844446.jpg?fill=blur&fit=fill&fm=jpg&h=900&q=75&w=900"
@@ -95,6 +63,38 @@
       ],
       "episode": "S01E02",
       "icon": "https://images.pluto.tv/series/65b7ce5070ac4400136797f4/tile_1755147578011.jpg?fill=blur&fit=fill&fm=jpg&h=900&q=75&w=900"
+    },
+    {
+      "start": "2026-05-08T01:15:00+05:00",
+      "stop": "2026-05-08T02:30:00+05:00",
+      "title": "Air Warriors",
+      "sub_title": "Drones",
+      "desc": "The rapid evolution of drones and how they're changing the future of aviation.",
+      "date": "20151102",
+      "language": "en",
+      "categories": [
+        "History",
+        "Educational",
+        "Series"
+      ],
+      "episode": "S03E03",
+      "icon": "https://images.pluto.tv/series/6124324c73019a0013ed46f9/tile.jpg?fill=blur&fit=fill&fm=jpg&h=900&q=75&w=900"
+    },
+    {
+      "start": "2026-05-08T02:30:00+05:00",
+      "stop": "2026-05-08T03:30:00+05:00",
+      "title": "Air Warriors",
+      "sub_title": "AH-1 Cobra",
+      "desc": "An inside look at the world's first dedicated armed attack helicopter, the Cobra, and its most thrilling missions in Vietnam, Grenada, and Iraq.",
+      "date": "20230723",
+      "language": "en",
+      "categories": [
+        "History",
+        "Educational",
+        "Series"
+      ],
+      "episode": "S11E10",
+      "icon": "https://images.pluto.tv/series/6124324c73019a0013ed46f9/tile.jpg?fill=blur&fit=fill&fm=jpg&h=900&q=75&w=900"
     }
   ]
 }

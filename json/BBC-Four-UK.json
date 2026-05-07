@@ -4,12 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-07T09:30:00+05:00",
-      "stop": "2026-05-07T15:30:00+05:00",
-      "title": "..programmes start at 7.00pm",
-      "language": "en"
-    },
-    {
       "start": "2026-05-07T15:30:00+05:00",
       "stop": "2026-05-07T21:30:00+05:00",
       "title": "..programmes start at 7.00pm",
@@ -51,6 +45,18 @@
         "Game Show"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/c677840b-0596-48a8-bae8-e9d611d52095/16-9"
+    },
+    {
+      "start": "2026-05-08T00:00:00+05:00",
+      "stop": "2026-05-08T01:00:00+05:00",
+      "title": "Dam Busters Declassified",
+      "desc": "Martin Shaw separates the fact from the myth as he takes to the skies to retrace the route of the 1943 raid by 617 Squadron which used bouncing bombs to destroy German dams.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Factual"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/50ef1686-3dde-44b5-8698-ad538b9bef07/16-9"
     }
   ]
 }
