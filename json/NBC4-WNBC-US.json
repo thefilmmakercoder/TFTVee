@@ -4,50 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-07T21:00:00+05:00",
-      "stop": "2026-05-07T22:00:00+05:00",
-      "title": "NBC News Daily",
-      "desc": "NBC News provides viewers with the latest national and international news; consumer, health and personal finance reporting; up-to-the-minute local news.",
-      "date": "2026",
-      "language": "en",
-      "categories": [
-        "Series",
-        "News"
-      ],
-      "episode": "E80",
-      "icon": "http://dtil.tmsimg.com/assets/p22712535_b_h8_ad.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Vicky Nguyen",
-          "Morgan Radford"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-07T22:00:00+05:00",
-      "stop": "2026-05-07T23:00:00+05:00",
-      "title": "Dateline",
-      "sub_title": "Complicated",
-      "desc": "San Diego detectives investigate the deaths of a young woman and her 10-month-old child.",
-      "date": "2023",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Series",
-        "Newsmagazine",
-        "Documentary"
-      ],
-      "episode": "S7 E4",
-      "icon": "http://dtil.tmsimg.com/assets/p13159645_b_h10_aa.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Craig Melvin",
-          "Andrea Canning",
-          "Natalie Morales"
-        ]
-      }
-    },
-    {
       "start": "2026-05-07T23:00:00+05:00",
       "stop": "2026-05-08T00:00:00+05:00",
       "title": "Access Daily With Mario & Kit",
@@ -124,6 +80,30 @@
         "News"
       ],
       "icon": "http://dtil.tmsimg.com/assets/p14883147_b_h10_ab.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-08T02:00:00+05:00",
+      "stop": "2026-05-08T02:30:00+05:00",
+      "title": "Live: News 4 NY at 5",
+      "desc": "The latest local news, weather and investigative stories impacting your community.",
+      "date": "2011",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p8846204_b_h10_ae.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-08T02:30:00+05:00",
+      "stop": "2026-05-08T03:00:00+05:00",
+      "title": "Live: News 4 NY at 5:30",
+      "desc": "NY news.",
+      "date": "2017",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p14883149_b_h10_ac.jpg?w=960&h=540"
     }
   ]
 }

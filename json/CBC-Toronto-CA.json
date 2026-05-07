@@ -4,68 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-07T21:00:00+05:00",
-      "stop": "2026-05-07T22:00:00+05:00",
-      "title": "CBC Newsroom",
-      "desc": "News program bringing Canadians breaking news and live coverage from across Canada and around the world.",
-      "date": "2017",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p14555206_b_h8_af.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-07T22:00:00+05:00",
-      "stop": "2026-05-07T23:00:00+05:00",
-      "title": "Escape to the Country",
-      "sub_title": "Carmarthenshire",
-      "desc": "Ginny Buckley helps a buyer with a \u00a3450,000 budget find a new home in Carmarthenshire.",
-      "date": "2024",
-      "language": "en",
-      "rating": "TVG",
-      "categories": [
-        "Series",
-        "House/garden",
-        "Home improvement",
-        "Bus./financial"
-      ],
-      "episode": "S24 E36",
-      "icon": "http://dtil.tmsimg.com/assets/p379352_b_h10_bn.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Ginny Buckley"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-07T23:00:00+05:00",
-      "stop": "2026-05-07T23:30:00+05:00",
-      "title": "Coronation Street",
-      "desc": "Todd pacifies Theo while plotting an escape, and Debbie hears Carl offered Summer a bribe.",
-      "date": "2026",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Series",
-        "Soap",
-        "Drama",
-        "Romance"
-      ],
-      "episode": "E73",
-      "icon": "http://dtil.tmsimg.com/assets/p31898227_b_h11_aa.jpg?w=960&h=540",
-      "credits": {
-        "director": [
-          "Kevin Boyle"
-        ],
-        "actor": [
-          "Tanisha Gorey",
-          "Aaron McCusker",
-          "Jane Hazlegrove"
-        ]
-      }
-    },
-    {
       "start": "2026-05-07T23:30:00+05:00",
       "stop": "2026-05-08T00:00:00+05:00",
       "title": "Schitt's Creek",
@@ -138,6 +76,76 @@
           "Jennifer A Agutter",
           "Annabelle Apsion",
           "Linda Bassett"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-08T02:00:00+05:00",
+      "stop": "2026-05-08T03:00:00+05:00",
+      "title": "The Great British Baking Show",
+      "sub_title": "Cake Week",
+      "desc": "The new baking bubble abounds with bold Battenbergs, pineapple upside-down cakes and heroic cake busts.",
+      "date": "2020",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Competition Reality",
+        "Cooking"
+      ],
+      "episode": "S11 E1",
+      "icon": "http://dtil.tmsimg.com/assets/p8251114_b_h8_dj.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Jeanette Goulbourn"
+        ],
+        "actor": [
+          "Paul Hollywood",
+          "Prue Leith",
+          "Noel Fielding"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-08T03:00:00+05:00",
+      "stop": "2026-05-08T04:00:00+05:00",
+      "title": "Live: CBC Toronto News",
+      "desc": "Dwight Drummond and team take a comprehensive look at the top stories, with breaking news, reports and updates relevant to the city of Toronto.",
+      "date": "2016",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p12466091_b_h10_ac.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Dwight Drummond"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-08T04:00:00+05:00",
+      "stop": "2026-05-08T04:30:00+05:00",
+      "title": "Son of a Critch",
+      "sub_title": "You're Dead After School",
+      "desc": "Fox's boyfriend threatens to beat Mark up after school; Mary learns Mike Sr. is making less money than their son and pushes her husband to demand a raise.",
+      "date": "2023",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Sitcom"
+      ],
+      "episode": "S2 E2",
+      "icon": "http://dtil.tmsimg.com/assets/p21339232_b_h8_am.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Renuka Jeyapalan"
+        ],
+        "actor": [
+          "Benjamin Evan Ainsworth",
+          "Mark Critch",
+          "Malcolm McDowell"
         ]
       }
     }

@@ -4,48 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-07T21:30:00+05:00",
-      "stop": "2026-05-07T22:00:00+05:00",
-      "title": "Home Shopping",
-      "sub_title": "Copper Chef Titan Pan (CCTP2830B2790",
-      "desc": "Shopping program.",
-      "language": "en",
-      "rating": "G",
-      "categories": [
-        "Special Interest"
-      ],
-      "episode": "S1 E116",
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/234200/image/334x188"
-    },
-    {
-      "start": "2026-05-07T22:00:00+05:00",
-      "stop": "2026-05-07T22:30:00+05:00",
-      "title": "Home Shopping",
-      "sub_title": "Kelton Cookware (A2830KCW02QRA)",
-      "desc": "Shopping program.",
-      "language": "en",
-      "rating": "G",
-      "categories": [
-        "Special Interest"
-      ],
-      "episode": "S1 E246",
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/234200/image/334x188"
-    },
-    {
-      "start": "2026-05-07T22:30:00+05:00",
-      "stop": "2026-05-07T23:00:00+05:00",
-      "title": "Home Shopping",
-      "sub_title": "TIVA Heater (A2830TIV26QRA)",
-      "desc": "Shopping program.",
-      "language": "en",
-      "rating": "G",
-      "categories": [
-        "Special Interest"
-      ],
-      "episode": "S1 E243",
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/234200/image/334x188"
-    },
-    {
       "start": "2026-05-07T23:00:00+05:00",
       "stop": "2026-05-08T00:00:00+05:00",
       "title": "NBC Today",
@@ -86,6 +44,47 @@
       ],
       "episode": "S26 E92",
       "icon": "https://www.fetchtv.com.au/v2/epg/program/132592/image/334x188"
+    },
+    {
+      "start": "2026-05-08T01:00:00+05:00",
+      "stop": "2026-05-08T04:00:00+05:00",
+      "title": "Sunrise",
+      "sub_title": "Friday 8 May 2026",
+      "desc": "Wake up to a better breakfast with Natalie Barr and Matt Shirvington for all the latest news, sport and weather.",
+      "language": "en",
+      "rating": "NR",
+      "categories": [
+        "Sports"
+      ],
+      "episode": "S26 E92",
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/132592/image/334x188"
+    },
+    {
+      "start": "2026-05-08T04:00:00+05:00",
+      "stop": "2026-05-08T07:00:00+05:00",
+      "title": "The Morning Show",
+      "desc": "Join Larry Emdur and Kylie Gillies each morning for a variety of segments on the latest news, entertainment and other hot topics.",
+      "language": "en",
+      "rating": "PG",
+      "categories": [
+        "Special Interest"
+      ],
+      "episode": "S26 E80",
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/206396/image/334x188"
+    },
+    {
+      "start": "2026-05-08T07:00:00+05:00",
+      "stop": "2026-05-08T08:00:00+05:00",
+      "title": "Seven's National News At Noon",
+      "sub_title": "Friday 8 May 2026",
+      "desc": "Seven News live coverage of local, national and international news, plus sport, finance and weather updates. Go to 7NEWS.com.au today for more live updates.",
+      "language": "en",
+      "rating": "NR",
+      "categories": [
+        "Sports"
+      ],
+      "episode": "S26 E70",
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/434212/image/334x188"
     }
   ]
 }
