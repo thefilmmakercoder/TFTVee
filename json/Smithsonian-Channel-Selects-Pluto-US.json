@@ -4,54 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-07T05:00:00+05:00",
-      "stop": "2026-05-07T06:15:00+05:00",
-      "title": "Air Warriors",
-      "sub_title": "P 38 Lightning",
-      "desc": "Innovative engineering allowed the P-38 to fly faster and climb higher than any other WWII warplane.",
-      "date": "20190227",
-      "language": "en",
-      "categories": [
-        "Series",
-        "Educational",
-        "History"
-      ],
-      "episode": "S06E07",
-      "icon": "https://images.pluto.tv/series/6124324c73019a0013ed46f9/tile.jpg?fill=blur&fit=fill&fm=jpg&h=900&q=75&w=900"
-    },
-    {
-      "start": "2026-05-07T06:15:00+05:00",
-      "stop": "2026-05-07T07:15:00+05:00",
-      "title": "Air Warriors",
-      "sub_title": "Air Warriors Harrier",
-      "desc": "The inside story of the Harrier, the world's most famous short takeoff/vertical landing fighter jet.",
-      "date": "20170515",
-      "language": "en",
-      "categories": [
-        "Series",
-        "Educational",
-        "History"
-      ],
-      "episode": "S05E01",
-      "icon": "https://images.pluto.tv/series/6124324c73019a0013ed46f9/tile.jpg?fill=blur&fit=fill&fm=jpg&h=900&q=75&w=900"
-    },
-    {
-      "start": "2026-05-07T07:15:00+05:00",
-      "stop": "2026-05-07T08:15:00+05:00",
-      "title": "Aerial America",
-      "sub_title": "Arizona",
-      "desc": "Explore Arizona's remarkable history and its awe-inspiring landscapes, spectacular sunsets, and infamous gunfights.",
-      "date": "20201014",
-      "language": "en",
-      "categories": [
-        "Series",
-        "Educational",
-        "History"
-      ],
-      "episode": "S01E130",
-      "icon": "https://images.pluto.tv/series/5fa34413e906e1001a03ed7a/tile_1768515844446.jpg?fill=blur&fit=fill&fm=jpg&h=900&q=75&w=900"
-    },
-    {
       "start": "2026-05-07T08:15:00+05:00",
       "stop": "2026-05-07T09:15:00+05:00",
       "title": "Aerial America",
@@ -61,8 +13,8 @@
       "language": "en",
       "categories": [
         "Series",
-        "Educational",
-        "History"
+        "History",
+        "Educational"
       ],
       "episode": "S01E02",
       "icon": "https://images.pluto.tv/series/5fa34413e906e1001a03ed7a/tile_1768515844446.jpg?fill=blur&fit=fill&fm=jpg&h=900&q=75&w=900"
@@ -76,8 +28,8 @@
       "date": "20191208",
       "language": "en",
       "categories": [
-        "Series",
-        "Documentary"
+        "Documentary",
+        "Series"
       ],
       "episode": "S01E170",
       "icon": "https://images.pluto.tv/series/5fa34413e906e1001a03ed7a/tile_1768515844446.jpg?fill=blur&fit=fill&fm=jpg&h=900&q=75&w=900"
@@ -92,11 +44,58 @@
       "language": "en",
       "categories": [
         "Series",
-        "Educational",
-        "History"
+        "History",
+        "Educational"
       ],
       "episode": "S01E09",
       "icon": "https://images.pluto.tv/series/5fa34413e906e1001a03ed7a/tile_1768515844446.jpg?fill=blur&fit=fill&fm=jpg&h=900&q=75&w=900"
+    },
+    {
+      "start": "2026-05-07T11:15:00+05:00",
+      "stop": "2026-05-07T12:15:00+05:00",
+      "title": "Aerial America",
+      "sub_title": "Vermont",
+      "desc": "This aerial tour over Vermont captures the beauty and history of a state that chose its own path.",
+      "date": "20100815",
+      "language": "en",
+      "categories": [
+        "Series",
+        "History",
+        "Educational"
+      ],
+      "episode": "S01E06",
+      "icon": "https://images.pluto.tv/series/5fa34413e906e1001a03ed7a/tile_1768515844446.jpg?fill=blur&fit=fill&fm=jpg&h=900&q=75&w=900"
+    },
+    {
+      "start": "2026-05-07T12:15:00+05:00",
+      "stop": "2026-05-07T13:15:00+05:00",
+      "title": "Air Disasters",
+      "sub_title": "I'm the Problem",
+      "desc": "I'm the problem. These are the last words heard on the cockpit voice recording of Pacific Southwest Airlines Flight 1771.",
+      "date": "20130318",
+      "language": "en",
+      "categories": [
+        "Series",
+        "History",
+        "Educational"
+      ],
+      "episode": "S03E03",
+      "icon": "https://images.pluto.tv/series/5fa343ffe906e1001a03e95c/tile.jpg?fill=blur&fit=fill&fm=jpg&h=900&q=75&w=900"
+    },
+    {
+      "start": "2026-05-07T13:15:00+05:00",
+      "stop": "2026-05-07T14:15:00+05:00",
+      "title": "Air Disasters",
+      "sub_title": "Pilot vs. Plane",
+      "desc": "The 1988 crash of an Airbus A320 at an airshow sets off a public battle between investigators and the plane's pilot.",
+      "date": "20120729",
+      "language": "en",
+      "categories": [
+        "Documentary",
+        "Series"
+      ],
+      "episode": "S02E07",
+      "icon": "https://images.pluto.tv/series/5fa343ffe906e1001a03e95c/tile.jpg?fill=blur&fit=fill&fm=jpg&h=900&q=75&w=900"
     }
   ]
 }

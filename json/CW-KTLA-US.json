@@ -4,81 +4,101 @@
   ],
   "programs": [
     {
-      "start": "2026-05-07T05:00:00+05:00",
-      "stop": "2026-05-07T06:00:00+05:00",
-      "title": "KTLA 5 News at 5",
-      "desc": "Stay informed with the latest breaking news and headlines.",
-      "date": "2009",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p7835394_b_h8_aa.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-07T06:00:00+05:00",
-      "stop": "2026-05-07T06:30:00+05:00",
-      "title": "KTLA 5 News at 6",
-      "desc": "Stay informed with the latest breaking news and headlines.",
-      "date": "2009",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p7835554_b_h8_ab.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-07T06:30:00+05:00",
-      "stop": "2026-05-07T07:00:00+05:00",
-      "title": "KTLA 5 News at 6:30",
-      "desc": "Stay informed with the latest breaking news and headlines.",
-      "date": "2009",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p755462_b_h8_ab.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-07T07:00:00+05:00",
-      "stop": "2026-05-07T07:30:00+05:00",
-      "title": "KTLA 5 News at 7",
-      "desc": "Stay informed with the latest breaking news and headlines.",
-      "date": "2018",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p15921240_b_h8_aa.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-07T07:30:00+05:00",
-      "stop": "2026-05-07T08:00:00+05:00",
-      "title": "L.A. Unscripted",
-      "desc": "Join KTLA Entertainment Reporter Dayna Devon and friends as they discuss the unique and fun lifestyles of the Los Angeles area.",
-      "date": "2020",
-      "language": "en",
-      "categories": [
-        "Entertainment"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p18725702_st_h10_aa.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-07T08:00:00+05:00",
-      "stop": "2026-05-07T09:00:00+05:00",
-      "title": "Police 24/7",
-      "sub_title": "Armed and Dangerous",
-      "desc": "Police officers must use extreme caution with guns to keep themselves and the street safe.",
+      "start": "2026-05-07T09:00:00+05:00",
+      "stop": "2026-05-07T10:00:00+05:00",
+      "title": "The Nancy Guthrie Mystery",
+      "desc": "Unravelling the twists, turns and unanswered questions surrounding the case of the missing 84-year-old mother of television host Savannah Guthrie.",
       "date": "2026",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Special",
+        "Documentary"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p32905952_b_h8_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Brian Entin"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-07T10:00:00+05:00",
+      "stop": "2026-05-07T10:45:00+05:00",
+      "title": "KTLA 5 News at 10",
+      "desc": "Stay informed with the latest breaking news and headlines.",
+      "date": "2005",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p755466_b_h8_ab.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-07T10:45:00+05:00",
+      "stop": "2026-05-07T11:00:00+05:00",
+      "title": "KTLA 5 Sports Final",
+      "date": "2015",
+      "language": "en",
+      "icon": "http://dtil.tmsimg.com/assets/p11331887_b_h8_aa.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-07T11:00:00+05:00",
+      "stop": "2026-05-07T11:35:00+05:00",
+      "title": "KTLA 5 News at 11",
+      "desc": "Stay informed with the latest breaking news and headlines.",
+      "date": "2014",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p10749029_b_h8_ab.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-07T11:35:00+05:00",
+      "stop": "2026-05-07T12:05:00+05:00",
+      "title": "Friends",
+      "sub_title": "The One Where Chandler Takes a Bath",
+      "desc": "Joey might declare his love for Rachel, or Phoebe; Rachel breaks a pact with Ross; Chandler becomes mister bubble bath.",
+      "date": "2002",
       "language": "en",
       "rating": "TV14",
       "categories": [
         "Series",
-        "Documentary",
-        "Crime"
+        "Sitcom"
       ],
-      "episode": "S2 E47",
-      "icon": "http://dtil.tmsimg.com/assets/p26747705_b_h8_ac.jpg?w=960&h=540"
+      "episode": "S8 E13",
+      "icon": "http://dtil.tmsimg.com/assets/p7892602_b_h11_aq.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Jennifer Aniston",
+          "Courteney Cox Arquette",
+          "Lisa Kudrow"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-07T12:05:00+05:00",
+      "stop": "2026-05-07T12:35:00+05:00",
+      "title": "Friends",
+      "sub_title": "The One With the Metaphorical Tunnel",
+      "desc": "Chandler tries to get over his fear of commitment; Phoebe poses as Joey's agent after she forgets to tell him about an audition.",
+      "date": "1996",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Sitcom"
+      ],
+      "episode": "S3 E4",
+      "icon": "http://dtil.tmsimg.com/assets/p7892577_b_h11_ab.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Jennifer Aniston",
+          "Courteney Cox",
+          "Lisa Kudrow"
+        ]
+      }
     }
   ]
 }

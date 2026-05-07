@@ -4,67 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-07T05:00:00+05:00",
-      "stop": "2026-05-07T06:00:00+05:00",
-      "title": "Live: Decision 2026: NBC4 and Telemundo 52 Los Angeles Mayoral Debate",
-      "desc": "Candidates for Los Angeles mayor face off in a live debate, addressing key issues including public safety, housing, and the city's economic future.",
-      "date": "2026",
-      "language": "en",
-      "icon": "http://dtil.tmsimg.com/assets/p32809437_b_h10_ab.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-07T06:00:00+05:00",
-      "stop": "2026-05-07T07:00:00+05:00",
-      "title": "NBC 4 News at 6pm",
-      "desc": "Stay informed with the latest breaking news and headlines.",
-      "date": "2015",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p12394505_b_h10_aa.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-07T07:00:00+05:00",
-      "stop": "2026-05-07T08:00:00+05:00",
-      "title": "Live: Decision 2026: NBC4 and Telemundo 52 Los Angeles Gubernatorial Debate",
-      "desc": "Gubernatorial candidates take the stage to debate statewide priorities, from the budget and homelessness to laying out their vision for California's future.",
-      "date": "2026",
-      "language": "en",
-      "categories": [
-        "Politics"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p32809448_b_h10_aa.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-07T08:00:00+05:00",
-      "stop": "2026-05-07T09:00:00+05:00",
-      "title": "Chicago Med",
-      "sub_title": "Hell Breaks Loose",
-      "desc": "Gaffney is thrown into chaos when a prison riot overwhelms the E.D.; Goodwin and Charles prepare for a high-stakes board meeting.",
-      "date": "2026",
-      "language": "en",
-      "rating": "TV14",
-      "categories": [
-        "Series",
-        "Drama",
-        "Medical",
-        "Action"
-      ],
-      "episode": "S11 E20",
-      "icon": "http://dtil.tmsimg.com/assets/p30834757_b_h8_ac.jpg?w=960&h=540",
-      "credits": {
-        "director": [
-          "Anna Dokoza"
-        ],
-        "actor": [
-          "Oliver Platt",
-          "S. Epatha Merkerson",
-          "Steven Weber"
-        ]
-      }
-    },
-    {
       "start": "2026-05-07T09:00:00+05:00",
       "stop": "2026-05-07T10:00:00+05:00",
       "title": "Chicago Fire",
@@ -118,6 +57,79 @@
           "LaRoyce Hawkins"
         ]
       }
+    },
+    {
+      "start": "2026-05-07T11:00:00+05:00",
+      "stop": "2026-05-07T11:34:00+05:00",
+      "title": "NBC4 News at 11pm",
+      "desc": "The latest local news, weather and investigative stories impacting the community.",
+      "date": "2011",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p8781143_b_h10_ad.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-07T11:34:00+05:00",
+      "stop": "2026-05-07T12:37:00+05:00",
+      "title": "The Tonight Show Starring Jimmy Fallon",
+      "sub_title": "Mick Jagger; Brendan Fraser; Kate Mara; Trueno",
+      "desc": "Singer-songwriter Mick Jagger; actor Brendan Fraser; actress Kate Mara; Trueno performs.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "Series",
+        "Talk",
+        "Comedy"
+      ],
+      "episode": "S13 E101",
+      "icon": "http://dtil.tmsimg.com/assets/p31242381_b_h8_ac.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Jimmy Fallon",
+          "Mick Jagger",
+          "Brendan Fraser"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-07T12:37:00+05:00",
+      "stop": "2026-05-07T13:37:00+05:00",
+      "title": "Late Night With Seth Meyers",
+      "sub_title": "Maya Rudolph; Michael Gandolfini",
+      "desc": "Actress Maya Rudolph; actor Michael Gandolfini.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "Series",
+        "Talk",
+        "Comedy",
+        "Political News Satire & Talk"
+      ],
+      "episode": "S13 E96",
+      "icon": "http://dtil.tmsimg.com/assets/p31240203_b_h8_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Seth Meyers",
+          "Maya Rudolph",
+          "Michael Gandolfini"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-07T13:37:00+05:00",
+      "stop": "2026-05-07T14:07:00+05:00",
+      "title": "NBC4 News at 11pm",
+      "desc": "The latest local news, weather and investigative stories impacting the community.",
+      "date": "2011",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p8781143_b_h10_ad.jpg?w=960&h=540"
     }
   ]
 }
