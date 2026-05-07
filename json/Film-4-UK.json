@@ -4,31 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-07T11:00:00+05:00",
-      "stop": "2026-05-07T15:00:00+05:00",
-      "title": "Teleshopping",
-      "desc": "Teleshopping.",
-      "language": "en",
-      "categories": [
-        "Specialist",
-        "Shopping"
-      ]
-    },
-    {
-      "start": "2026-05-07T15:00:00+05:00",
-      "stop": "2026-05-07T17:40:00+05:00",
-      "title": "Little Women",
-      "desc": "Greta Gerwig's Oscar-winning period drama adaptation of the classic Louisa May Alcott novel, starring Emma Watson, Saoirse Ronan, Florence Pugh, Timoth\u00e9e Chalamet and Meryl Streep.",
-      "date": "2019",
-      "language": "en",
-      "rating": "PG",
-      "categories": [
-        "Movie",
-        "Drama"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/d4b841c8-6a3d-4eb4-9c17-f31b2f34d338/16-9"
-    },
-    {
       "start": "2026-05-07T17:40:00+05:00",
       "stop": "2026-05-07T19:10:00+05:00",
       "title": "Animal Farm",
@@ -83,6 +58,34 @@
         "Fantasy"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/7dc9be89-d10c-4a0e-9ee4-97c190a1f4b7/16-9"
+    },
+    {
+      "start": "2026-05-08T01:00:00+05:00",
+      "stop": "2026-05-08T02:50:00+05:00",
+      "title": "How to Have Sex",
+      "desc": "Incisive coming-of-age drama with Mia McKenna-Bruce. Three teenage girls go on holiday looking for a taste of hedonism. But is the reality as simple or as fun as the dream.",
+      "date": "2023",
+      "language": "en",
+      "rating": "15",
+      "categories": [
+        "Movie",
+        "Drama"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/9c2472f7-43c1-36b7-8ead-dfd08733eaf3/16-9"
+    },
+    {
+      "start": "2026-05-08T02:50:00+05:00",
+      "stop": "2026-05-08T05:30:00+05:00",
+      "title": "Mission: Impossible - Ghost Protocol",
+      "desc": "Part four of the Tom Cruise action-thriller franchise. The Impossible Missions Force fight to clear their name, while also trying to avert nuclear war. Busy, busy, busy.",
+      "date": "2011",
+      "language": "en",
+      "rating": "12",
+      "categories": [
+        "Movie",
+        "Action"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/0b4ced78-7a5f-4c4e-a5d2-770b805667d0/16-9"
     }
   ]
 }

@@ -4,42 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-07T15:00:00+05:00",
-      "stop": "2026-05-07T16:00:00+05:00",
-      "title": "Good Day Wake Up 2",
-      "desc": "Morning news and entertainment.",
-      "date": "2009",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p706489_b_h8_ab.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-07T16:00:00+05:00",
-      "stop": "2026-05-07T18:00:00+05:00",
-      "title": "Good Day New York",
-      "desc": "Morning news.",
-      "date": "2007",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p706448_b_h8_ab.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-07T18:00:00+05:00",
-      "stop": "2026-05-07T19:00:00+05:00",
-      "title": "Good Day New York",
-      "desc": "Morning news.",
-      "date": "2007",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p706448_b_h8_ab.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-05-07T19:00:00+05:00",
       "stop": "2026-05-07T20:00:00+05:00",
       "title": "Sherri",
@@ -96,6 +60,68 @@
         "News"
       ],
       "icon": "http://dtil.tmsimg.com/assets/p17326137_b_h8_ab.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-07T22:00:00+05:00",
+      "stop": "2026-05-07T22:30:00+05:00",
+      "title": "25 Words or Less",
+      "desc": "Teams compete to see who can guess secret words or phrases with a limited amount of clues and time; host Meredith Vieira.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Game show"
+      ],
+      "episode": "S7 E149",
+      "icon": "http://dtil.tmsimg.com/assets/p15722953_b_h8_am.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Meredith Vieira"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-07T22:30:00+05:00",
+      "stop": "2026-05-07T23:00:00+05:00",
+      "title": "TMZ",
+      "desc": "TMZ TV tracks down today's hottest stars with their cameras, whether they are hitting the clubs or the dry cleaners.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Newsmagazine",
+        "Entertainment"
+      ],
+      "episode": "S19 E214",
+      "icon": "http://dtil.tmsimg.com/assets/p30985766_b_h10_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Harvey Levin"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-07T23:00:00+05:00",
+      "stop": "2026-05-08T00:00:00+05:00",
+      "title": "The People's Court",
+      "desc": "\"Horse Horror.\".",
+      "date": "2018",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Reality",
+        "Law"
+      ],
+      "episode": "S21 E105",
+      "icon": "http://dtil.tmsimg.com/assets/p14373880_b_h10_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Marilyn Milian"
+        ]
+      }
     }
   ]
 }

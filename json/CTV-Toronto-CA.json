@@ -4,73 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-07T16:00:00+05:00",
-      "stop": "2026-05-07T17:00:00+05:00",
-      "title": "Live: CTV Your Morning",
-      "desc": "Delivering original perspectives and unique insights into the headlines of the day to Canadians from coast to coast.",
-      "date": "2026",
-      "language": "en",
-      "categories": [
-        "Series",
-        "News",
-        "Talk"
-      ],
-      "episode": "E320",
-      "icon": "http://dtil.tmsimg.com/assets/p20962079_b_h8_ac.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Anne-Marie Mediwake",
-          "Lindsey Deluce",
-          "Kelsey McEwen"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-07T17:00:00+05:00",
-      "stop": "2026-05-07T18:00:00+05:00",
-      "title": "Live: CTV Your Morning",
-      "desc": "Delivering original perspectives and unique insights into the headlines of the day to Canadians from coast to coast.",
-      "date": "2026",
-      "language": "en",
-      "categories": [
-        "Series",
-        "News",
-        "Talk"
-      ],
-      "episode": "E321",
-      "icon": "http://dtil.tmsimg.com/assets/p20962079_b_h8_ac.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Anne-Marie Mediwake",
-          "Lindsey Deluce",
-          "Kelsey McEwen"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-07T18:00:00+05:00",
-      "stop": "2026-05-07T19:00:00+05:00",
-      "title": "Live with Kelly and Mark",
-      "sub_title": "Shopping Day at Live",
-      "desc": "Kristen Kish and Jaafar Jackson are here; it's \"Shopping Day at Live\" with Monica Mangin!",
-      "date": "2026",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Series",
-        "Talk"
-      ],
-      "episode": "S4 E179",
-      "icon": "http://dtil.tmsimg.com/assets/p24324378_b_h8_ab.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Kelly Ripa",
-          "Mark Consuelos",
-          "Kristen Kish"
-        ]
-      }
-    },
-    {
       "start": "2026-05-07T19:00:00+05:00",
       "stop": "2026-05-07T20:00:00+05:00",
       "title": "The Good Stuff With Mary Berg",
@@ -126,6 +59,78 @@
         "News"
       ],
       "icon": "http://dtil.tmsimg.com/assets/p11226977_b_h8_ae.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-07T22:00:00+05:00",
+      "stop": "2026-05-07T22:30:00+05:00",
+      "title": "Young Sheldon",
+      "sub_title": "An Ugly Car, an Affair and Some Kickass Football",
+      "desc": "George Sr. is asked to help with the football team; Mandy discovers Georgie and Meemaw's secret business.",
+      "date": "2022",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "Series",
+        "Sitcom"
+      ],
+      "episode": "S6 E6",
+      "icon": "http://dtil.tmsimg.com/assets/p13923677_b_h8_ac.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Nikki Lorre"
+        ],
+        "actor": [
+          "Iain Armitage",
+          "Zoe Perry",
+          "Lance Barber"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-07T22:30:00+05:00",
+      "stop": "2026-05-07T23:00:00+05:00",
+      "title": "The Bold and the Beautiful",
+      "desc": "Hope encourages Brooke to fight for what she deserves at Forrester Creations; Carter warns Ridge and Steffy about the consequences of their actions.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "Series",
+        "Soap",
+        "Drama",
+        "Romance"
+      ],
+      "episode": "S39 E163",
+      "icon": "http://dtil.tmsimg.com/assets/p31167565_b_h10_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Katherine Kelly Lang",
+          "Jacqueline MacInnes Wood",
+          "Thorsten Kaye"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-07T23:00:00+05:00",
+      "stop": "2026-05-08T00:00:00+05:00",
+      "title": "The Social",
+      "desc": "A dive into the K-Pop explosion!",
+      "date": "2026",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Talk"
+      ],
+      "episode": "S13 E157",
+      "icon": "http://dtil.tmsimg.com/assets/p10115884_b_h8_ah.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Melissa Grelo",
+          "Cynthia Loyst",
+          "Andrea Bain"
+        ]
+      }
     }
   ]
 }

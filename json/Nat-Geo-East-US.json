@@ -4,64 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-07T16:30:00+05:00",
-      "stop": "2026-05-07T17:00:00+05:00",
-      "title": "Paid Programming",
-      "desc": "Paid programming.",
-      "language": "en",
-      "rating": "TVG",
-      "categories": [
-        "Consumer",
-        "Shopping",
-        "Variety"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-07T17:00:00+05:00",
-      "stop": "2026-05-07T17:30:00+05:00",
-      "title": "Car Repair Secrets!",
-      "desc": "Save thousands on car repairs.",
-      "language": "en",
-      "categories": [
-        "Consumer"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p17463183_b_h10_aa.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-07T17:30:00+05:00",
-      "stop": "2026-05-07T18:00:00+05:00",
-      "title": "Tired of Pain? Go Drug-Free",
-      "desc": "See how a drug-free patch is helping people find relief-without medication.",
-      "language": "en",
-      "categories": [
-        "Consumer"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p32384250_st_h10_aa.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-07T18:00:00+05:00",
-      "stop": "2026-05-07T18:26:00+05:00",
-      "title": "Incredible Animal Journeys",
-      "sub_title": "Mission: Ocean",
-      "desc": "A look at the migration patterns of millions of animals on this planet that have been passed down for generations.",
-      "date": "2023",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Series",
-        "Documentary",
-        "Nature",
-        "Animals"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p25857063_b_h10_ad.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Jeremy Renner"
-        ]
-      }
-    },
-    {
       "start": "2026-05-07T18:26:00+05:00",
       "stop": "2026-05-07T19:27:00+05:00",
       "title": "Pirates: Behind the Legends",
@@ -96,6 +38,88 @@
       ],
       "episode": "S1 E4",
       "icon": "http://dtil.tmsimg.com/assets/p27328683_b_h10_aa.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-07T20:27:00+05:00",
+      "stop": "2026-05-07T21:27:00+05:00",
+      "title": "Pirates: Behind the Legends",
+      "sub_title": "Bartholomew Roberts",
+      "desc": "Bartholomew Roberts is the most successful pirate of the Golden Age.",
+      "date": "2024",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "Series",
+        "Documentary",
+        "Biography",
+        "History"
+      ],
+      "episode": "S1 E8",
+      "icon": "http://dtil.tmsimg.com/assets/p27328683_b_h10_aa.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-07T21:27:00+05:00",
+      "stop": "2026-05-07T22:27:00+05:00",
+      "title": "Pirates: Behind the Legends",
+      "sub_title": "Blackbeard",
+      "desc": "Blackbeard's name strikes fear into all as a brutal diabolical pirate.",
+      "date": "2024",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "Series",
+        "Documentary",
+        "Biography",
+        "History"
+      ],
+      "episode": "S1 E6",
+      "icon": "http://dtil.tmsimg.com/assets/p27328683_b_h10_aa.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-07T22:27:00+05:00",
+      "stop": "2026-05-07T23:27:00+05:00",
+      "title": "Strangest Things",
+      "sub_title": "Vulture Stone, Isolator, Armoured Skeleton",
+      "desc": "Can a carving retell history? A helmet cure modernity? Who's the armor skeleton?",
+      "date": "2025",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "Series",
+        "Documentary",
+        "History",
+        "Mystery"
+      ],
+      "episode": "S3 E10",
+      "icon": "http://dtil.tmsimg.com/assets/p30811553_b_h8_ac.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Corey Johnson"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-07T23:27:00+05:00",
+      "stop": "2026-05-08T00:28:00+05:00",
+      "title": "Strangest Things",
+      "sub_title": "Mechanical Turk, Lindbergh Pump, Etruscan Mummy",
+      "desc": "A robot chess player, an immortality device and a lost language, wrapped mummy?",
+      "date": "2025",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "Series",
+        "Documentary",
+        "History",
+        "Mystery"
+      ],
+      "episode": "S3 E9",
+      "icon": "http://dtil.tmsimg.com/assets/p19469726_b_h8_ar.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Corey Johnson"
+        ]
+      }
     }
   ]
 }

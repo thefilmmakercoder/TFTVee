@@ -4,40 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-07T15:30:00+05:00",
-      "stop": "2026-05-07T16:00:00+05:00",
-      "title": "CBS News Mornings",
-      "desc": "CBS News Mornings broadcasts on weekdays and offers viewers up-to-date news, comprehensive weather forecasts, and highlights from the world of sports.",
-      "date": "2024",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p27236437_b_h8_ab.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-07T16:00:00+05:00",
-      "stop": "2026-05-07T18:00:00+05:00",
-      "title": "CBS Mornings",
-      "desc": "Author Harlan Coben; an eliminated \"Survivor\" contestant.",
-      "date": "2026",
-      "language": "en",
-      "categories": [
-        "Series",
-        "Talk",
-        "News"
-      ],
-      "episode": "E91",
-      "icon": "http://dtil.tmsimg.com/assets/p20589677_b_h8_ai.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Gayle King",
-          "Tony Dokoupil",
-          "Nate Burleson"
-        ]
-      }
-    },
-    {
       "start": "2026-05-07T18:00:00+05:00",
       "stop": "2026-05-07T19:00:00+05:00",
       "title": "CBS LA Mornings at 6am",
@@ -108,6 +74,40 @@
       "credits": {
         "actor": [
           "Drew Carey"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-07T23:00:00+05:00",
+      "stop": "2026-05-07T23:30:00+05:00",
+      "title": "CBS LA at 11am",
+      "desc": "Join the CBS LA team for stories from communities around SoCal, breaking news from The Desk, and NEXT Weather from the Weathersphere.",
+      "date": "2025",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p31308558_b_h10_aa.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-07T23:30:00+05:00",
+      "stop": "2026-05-08T00:30:00+05:00",
+      "title": "The Young and the Restless",
+      "desc": "Phyllis is troubled by Nick's behavior; Matt Clark resurfaces in Genoa City; Cane makes a promise to Lily.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "Series",
+        "Soap"
+      ],
+      "episode": "S53 E147",
+      "icon": "http://dtil.tmsimg.com/assets/p183904_b_h8_ai.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Peter Bergman",
+          "Eric Braeden",
+          "Christel Khalil"
         ]
       }
     }

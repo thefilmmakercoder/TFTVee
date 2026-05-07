@@ -4,59 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-07T14:30:00+05:00",
-      "stop": "2026-05-07T15:00:00+05:00",
-      "title": "CityNews Tonight Toronto",
-      "desc": "Coverage of the day's top news stories.",
-      "date": "2019",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p16858130_b_h8_aa.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-07T15:00:00+05:00",
-      "stop": "2026-05-07T17:30:00+05:00",
-      "title": "Breakfast Television Toronto",
-      "desc": "The latest in local news, weather and traffic, as well as celebrity interviews and lifestyle trends.",
-      "date": "2000",
-      "language": "en",
-      "categories": [
-        "Talk",
-        "Newsmagazine"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p599792_b_h8_ab.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Dina Pugliese",
-          "Melanie Ng"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-07T17:30:00+05:00",
-      "stop": "2026-05-07T19:00:00+05:00",
-      "title": "Breakfast Television",
-      "desc": "Thoughtful thrifted Mother's Day gift ideas; how to create the ultimate at-home spa day for mom; what you might not know about the autoimmune disease Lupus.",
-      "date": "2026",
-      "language": "en",
-      "categories": [
-        "Series",
-        "Talk",
-        "Newsmagazine"
-      ],
-      "episode": "E90",
-      "icon": "http://dtil.tmsimg.com/assets/p9093159_b_h8_ab.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Dina Pugliese",
-          "Tim Bolen",
-          "Frank Ferragine"
-        ]
-      }
-    },
-    {
       "start": "2026-05-07T19:00:00+05:00",
       "stop": "2026-05-07T20:00:00+05:00",
       "title": "The Kelly Clarkson Show",
@@ -117,6 +64,71 @@
       "credits": {
         "actor": [
           "Wayne Brady"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-07T22:00:00+05:00",
+      "stop": "2026-05-07T22:30:00+05:00",
+      "title": "Family Feud",
+      "desc": "Family Feud is an American television game show where two families compete to name the responses to survey questions in order to win cash and prizes.",
+      "date": "2024",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Game show"
+      ],
+      "episode": "S25 E163",
+      "icon": "http://dtil.tmsimg.com/assets/p8314079_b_h8_ah.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Steve Harvey"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-07T22:30:00+05:00",
+      "stop": "2026-05-07T23:00:00+05:00",
+      "title": "Family Feud",
+      "desc": "Family Feud is an American television game show where two families compete to name the responses to survey questions in order to win cash and prizes.",
+      "date": "2024",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Game show"
+      ],
+      "episode": "S25 E160",
+      "icon": "http://dtil.tmsimg.com/assets/p8314079_b_h8_ah.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Steve Harvey"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-07T23:00:00+05:00",
+      "stop": "2026-05-08T00:00:00+05:00",
+      "title": "General Hospital",
+      "desc": "Carly gets alarming news; Valentin makes contact with Nina; Willow is confident in her plan; Trina and Gio make a pact; Molly is suspicious.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "Series",
+        "Soap",
+        "Medical",
+        "Drama",
+        "Romance"
+      ],
+      "episode": "S63 E165",
+      "icon": "http://dtil.tmsimg.com/assets/p183893_b_h8_al.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Maurice Benard",
+          "Steve Burton",
+          "Michael Easton"
         ]
       }
     }

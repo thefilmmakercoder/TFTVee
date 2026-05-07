@@ -4,42 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-07T15:00:00+05:00",
-      "stop": "2026-05-07T16:00:00+05:00",
-      "title": "PIX11 Morning News at 6am",
-      "desc": "Staying informed with the news and headlines.",
-      "date": "2018",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p16250992_b_h8_ab.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-07T16:00:00+05:00",
-      "stop": "2026-05-07T18:00:00+05:00",
-      "title": "PIX11 Morning News at 7am",
-      "desc": "Staying informed with the news and headlines.",
-      "date": "2018",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p16250994_b_h8_ab.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-07T18:00:00+05:00",
-      "stop": "2026-05-07T19:00:00+05:00",
-      "title": "PIX11 Morning News at 9am",
-      "desc": "Staying informed with the news and headlines.",
-      "date": "2020",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p17722468_b_h8_ab.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-05-07T19:00:00+05:00",
       "stop": "2026-05-07T20:00:00+05:00",
       "title": "New York Living",
@@ -95,6 +59,77 @@
           "Petri Hawkins-Byrd",
           "Patricia DiMango",
           "Tanya Acker"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-07T21:00:00+05:00",
+      "stop": "2026-05-07T22:00:00+05:00",
+      "title": "The Steve Wilkos Show",
+      "sub_title": "$70,000 Stolen, 4 Suspects Tested",
+      "desc": "Apache's money was stolen after he entrusted his friend to keep it safe while he was away for one night.",
+      "date": "2018",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "Series",
+        "Talk"
+      ],
+      "episode": "S12 E48",
+      "icon": "http://dtil.tmsimg.com/assets/p185706_b_h8_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Steve Wilkos"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-07T22:00:00+05:00",
+      "stop": "2026-05-07T23:00:00+05:00",
+      "title": "Karamo",
+      "sub_title": "Unlock: 2 Unlocks & a Funeral; Truth: Was I Robbed of Raising You?",
+      "desc": "Geleah is engaged to Tony, but she says their relationship has been in constant turmoil, while he says she is cheating and projecting her own behavior onto him; Antwan believed he was Chapre's father and was ready to take on that role, despite having doubts about her paternity, but now, he says, he regrets being robbed of her childhood.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "Series",
+        "Talk",
+        "Interview",
+        "Self improvement"
+      ],
+      "episode": "S4 E112",
+      "icon": "http://dtil.tmsimg.com/assets/p22388212_b_h8_ac.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Karamo Brown"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-07T23:00:00+05:00",
+      "stop": "2026-05-07T23:30:00+05:00",
+      "title": "Judy Justice",
+      "sub_title": "High Security Break-Up",
+      "desc": "A woman is granted a lifetime restraining order against an ex-boyfriend who sues her for thousands in personal belongings he says she never returned.",
+      "date": "2022",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "Series",
+        "Reality",
+        "Law"
+      ],
+      "episode": "S2 E21",
+      "icon": "http://dtil.tmsimg.com/assets/p20641302_b_h10_af.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Randy Douthit"
+        ],
+        "actor": [
+          "Judy Sheindlin",
+          "Kevin Rasco",
+          "Whitney Kumar"
         ]
       }
     }
