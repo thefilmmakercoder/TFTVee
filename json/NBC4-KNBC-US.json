@@ -4,49 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-08T00:00:00+05:00",
-      "stop": "2026-05-08T01:00:00+05:00",
-      "title": "NBC News Daily",
-      "desc": "NBC News provides viewers with the latest national and international news; consumer, health and personal finance reporting; up-to-the-minute local news.",
-      "date": "2026",
-      "language": "en",
-      "categories": [
-        "Series",
-        "News"
-      ],
-      "episode": "E80",
-      "icon": "http://dtil.tmsimg.com/assets/p22712535_b_h8_ad.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Vicky Nguyen",
-          "Morgan Radford"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-08T01:00:00+05:00",
-      "stop": "2026-05-08T02:00:00+05:00",
-      "title": "Access Daily With Mario & Kit",
-      "desc": "Former professional boxer Mike Tyson talks about his Mike Tyson Invitational; actor Fabrizio Guido (Netflix's \"Running Point\"); beauty expert Shawna Jones shares skincare tips; sound check with Rika Tischendorf; #HotPicks recs!",
-      "date": "2026",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Series",
-        "Newsmagazine",
-        "Entertainment"
-      ],
-      "episode": "S16 E140",
-      "icon": "http://dtil.tmsimg.com/assets/p22894952_b_h8_ab.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Mario Lopez",
-          "Kit Hoover",
-          "Scott Evans"
-        ]
-      }
-    },
-    {
       "start": "2026-05-08T02:00:00+05:00",
       "stop": "2026-05-08T03:00:00+05:00",
       "title": "The Kelly Clarkson Show",
@@ -112,6 +69,30 @@
         "News"
       ],
       "icon": "http://dtil.tmsimg.com/assets/p9358491_b_h10_ae.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-08T05:00:00+05:00",
+      "stop": "2026-05-08T06:00:00+05:00",
+      "title": "NBC4 News at 5pm",
+      "desc": "The latest local news, weather and investigative stories impacting the community.",
+      "date": "2011",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p8781144_b_h10_ad.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-08T06:00:00+05:00",
+      "stop": "2026-05-08T06:30:00+05:00",
+      "title": "NBC 4 News at 6pm",
+      "desc": "Stay informed with the latest breaking news and headlines.",
+      "date": "2015",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p12394505_b_h10_aa.jpg?w=960&h=540"
     }
   ]
 }
