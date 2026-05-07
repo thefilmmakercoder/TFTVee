@@ -4,58 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-07T03:00:00+05:00",
-      "stop": "2026-05-07T04:00:00+05:00",
-      "title": "CityNews at 6 Toronto",
-      "desc": "Coverage of the day's top news stories.",
-      "date": "2019",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p16858124_b_h8_aa.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-07T04:00:00+05:00",
-      "stop": "2026-05-07T04:30:00+05:00",
-      "title": "Family Feud",
-      "desc": "Family Feud is an American television game show where two families compete to name the responses to survey questions in order to win cash and prizes.",
-      "date": "2026",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Series",
-        "Game show"
-      ],
-      "episode": "S27 E156",
-      "icon": "http://dtil.tmsimg.com/assets/p8314079_b_h8_ah.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Steve Harvey"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-07T04:30:00+05:00",
-      "stop": "2026-05-07T05:00:00+05:00",
-      "title": "Family Feud",
-      "desc": "Family Feud is an American television game show where two families compete to name the responses to survey questions in order to win cash and prizes.",
-      "date": "2026",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Series",
-        "Game show"
-      ],
-      "episode": "S27 E155",
-      "icon": "http://dtil.tmsimg.com/assets/p8314079_b_h8_ah.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Steve Harvey"
-        ]
-      }
-    },
-    {
       "start": "2026-05-07T05:00:00+05:00",
       "stop": "2026-05-07T06:00:00+05:00",
       "title": "Chicago Med",
@@ -135,6 +83,66 @@
           "Jason Beghe",
           "Patrick John Flueger",
           "LaRoyce Hawkins"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-07T08:00:00+05:00",
+      "stop": "2026-05-07T08:35:00+05:00",
+      "title": "CityNews Tonight Toronto",
+      "desc": "Coverage of the day's top news stories.",
+      "date": "2019",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p16858130_b_h8_aa.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-07T08:35:00+05:00",
+      "stop": "2026-05-07T09:37:00+05:00",
+      "title": "Jimmy Kimmel Live!",
+      "sub_title": "Steve Carell; Mike Tyson; The Avett Brothers; Mike Patton",
+      "desc": "Actor Steve Carell; boxer Mike Tyson; The Avett Brothers and Mike Patton perform.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "Series",
+        "Talk",
+        "Comedy"
+      ],
+      "episode": "S24 E114",
+      "icon": "http://dtil.tmsimg.com/assets/p31166959_b_h8_ac.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Jimmy Kimmel",
+          "Steve Carell",
+          "Mike Tyson"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-07T09:37:00+05:00",
+      "stop": "2026-05-07T10:00:00+05:00",
+      "title": "Impractical Jokers",
+      "sub_title": "Behind Closed Doors",
+      "desc": "The Jokers are locked in a supply closet and must decide who's endured the worst punishments to escape; as they argue over physical, embarrassing, and personal punishments, old clips resurface, and tensions rise.",
+      "date": "2025",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "Series",
+        "Reality",
+        "Comedy"
+      ],
+      "episode": "S12",
+      "icon": "http://dtil.tmsimg.com/assets/p8665621_b_h8_bb.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Brian \"Q\" Quinn",
+          "James \"Murr\" Murray",
+          "Sal Vulcano"
         ]
       }
     }

@@ -4,65 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-07T02:59:00+05:00",
-      "stop": "2026-05-07T04:00:00+05:00",
-      "title": "Live: CTV News Toronto",
-      "desc": "CTV News covers stories that matter to Canadians, locally, nationally and internationally.",
-      "date": "2014",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p11226977_b_h8_ae.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-07T04:00:00+05:00",
-      "stop": "2026-05-07T04:30:00+05:00",
-      "title": "etalk",
-      "desc": "Julia Louis-Dreyfus gets animated in \"The Sheep Detectives\"; The Rolling Stones are kicking off their next chapter.",
-      "date": "2026",
-      "language": "en",
-      "categories": [
-        "Series",
-        "Entertainment"
-      ],
-      "episode": "E87",
-      "icon": "http://dtil.tmsimg.com/assets/p191965_b_h8_ah.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Tyrone Edwards",
-          "Lainey Lui",
-          "Traci Melchor"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-07T04:30:00+05:00",
-      "stop": "2026-05-07T05:00:00+05:00",
-      "title": "The Big Bang Theory",
-      "sub_title": "The Monopolar Expedition",
-      "desc": "While Leonard prepares for a three-month science expedition, he and Penny re-evaluate their feelings for each other.",
-      "date": "2009",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Series",
-        "Sitcom"
-      ],
-      "episode": "S2 E23",
-      "icon": "http://dtil.tmsimg.com/assets/p185554_b_h8_az.jpg?w=960&h=540",
-      "credits": {
-        "director": [
-          "Mark Cendrowski"
-        ],
-        "actor": [
-          "Johnny Galecki",
-          "Jim Parsons",
-          "Kaley Cuoco"
-        ]
-      }
-    },
-    {
       "start": "2026-05-07T05:00:00+05:00",
       "stop": "2026-05-07T06:00:00+05:00",
       "title": "MasterChef",
@@ -132,6 +73,58 @@
           "Kaley Cuoco"
         ]
       }
+    },
+    {
+      "start": "2026-05-07T07:30:00+05:00",
+      "stop": "2026-05-07T08:00:00+05:00",
+      "title": "The Big Bang Theory",
+      "sub_title": "The Consummation Deviation",
+      "desc": "Sheldon tries to bond with Amy's father, but when Wolowitz lures Mr. Fowler away with magic tricks, Sheldon has no choice but to bond with Mrs. Fowler; Koothrappali and Anu try to get physical for the first time.",
+      "date": "2018",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "Series",
+        "Sitcom"
+      ],
+      "episode": "S12 E8",
+      "icon": "http://dtil.tmsimg.com/assets/p15720821_b_h10_an.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Mark Cendrowski"
+        ],
+        "actor": [
+          "Johnny Galecki",
+          "Jim Parsons",
+          "Kaley Cuoco"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-07T08:00:00+05:00",
+      "stop": "2026-05-07T08:30:00+05:00",
+      "title": "Live: CTV National News With Omar Sachedina",
+      "desc": "CTV News covers stories that matter to Canadians - locally, nationally, & internationally.",
+      "date": "2026",
+      "language": "en",
+      "categories": [
+        "Series",
+        "News"
+      ],
+      "episode": "E75",
+      "icon": "http://dtil.tmsimg.com/assets/p22894284_b_h8_ab.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-07T08:30:00+05:00",
+      "stop": "2026-05-07T09:05:00+05:00",
+      "title": "Live: CTV News Toronto",
+      "desc": "CTV News covers stories that matter to Canadians, locally, nationally and internationally.",
+      "date": "2014",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p11226977_b_h8_ae.jpg?w=960&h=540"
     }
   ]
 }

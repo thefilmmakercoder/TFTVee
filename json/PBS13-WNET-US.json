@@ -4,44 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-07T03:30:00+05:00",
-      "stop": "2026-05-07T04:00:00+05:00",
-      "title": "BBC World News America",
-      "desc": "A detailed look into news stories from around the world from the BBC news desk in Washington, D.C.",
-      "date": "2026",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p32402912_b_h10_aa.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Sumi Somaskanda",
-          "Caitr\u00edona Perry"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-07T04:00:00+05:00",
-      "stop": "2026-05-07T05:00:00+05:00",
-      "title": "PBS News Hour",
-      "desc": "Co-anchors Amna Nawaz and Geoff Bennett and correspondents offer in-depth analysis of current events.",
-      "date": "2026",
-      "language": "en",
-      "categories": [
-        "Series",
-        "News"
-      ],
-      "episode": "S52 E222",
-      "icon": "http://dtil.tmsimg.com/assets/p27608822_b_h8_ac.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Amna Nawaz",
-          "Geoff Bennett"
-        ]
-      }
-    },
-    {
       "start": "2026-05-07T05:00:00+05:00",
       "stop": "2026-05-07T06:00:00+05:00",
       "title": "Life on Earth: Attenborough's Greatest Adventure",
@@ -119,6 +81,51 @@
       "credits": {
         "actor": [
           "Christiane Amanpour"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-07T09:00:00+05:00",
+      "stop": "2026-05-07T09:30:00+05:00",
+      "title": "One on One With Steve Adubato",
+      "desc": "Professionals and innovators share their experiences.",
+      "date": "2009",
+      "language": "en",
+      "categories": [
+        "Talk"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p7814519_b_h8_ad.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Steve Adubato"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-07T09:30:00+05:00",
+      "stop": "2026-05-07T10:30:00+05:00",
+      "title": "Finding Your Roots With Henry Louis Gates, Jr.",
+      "sub_title": "In the Blood",
+      "desc": "Actor Michael Douglas and writer/director Lena Dunham explore their family roots.",
+      "date": "2024",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Documentary",
+        "History"
+      ],
+      "episode": "S10 E9",
+      "icon": "http://dtil.tmsimg.com/assets/p9029128_b_h8_ad.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Jesse Sweet",
+          "Hazel Gurland"
+        ],
+        "actor": [
+          "Henry Louis Gates",
+          "Michael Douglas",
+          "Lena Dunham"
         ]
       }
     }

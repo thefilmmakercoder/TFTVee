@@ -4,37 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-07T03:30:00+05:00",
-      "stop": "2026-05-07T04:00:00+05:00",
-      "title": "ABC World News Tonight With David Muir",
-      "desc": "Delivering the news that matters most.",
-      "date": "2026",
-      "language": "en",
-      "categories": [
-        "Series",
-        "News"
-      ],
-      "episode": "E126",
-      "icon": "http://dtil.tmsimg.com/assets/p10880351_b_h8_ah.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "David Muir"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-07T04:00:00+05:00",
-      "stop": "2026-05-07T05:00:00+05:00",
-      "title": "Eyewitness News 4PM",
-      "desc": "Early evening news.",
-      "date": "2004",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p676966_b_h8_af.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-05-07T05:00:00+05:00",
       "stop": "2026-05-07T06:00:00+05:00",
       "title": "Eyewitness News 5PM",
@@ -94,6 +63,54 @@
       "credits": {
         "actor": [
           "Ken Jennings"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-07T07:30:00+05:00",
+      "stop": "2026-05-07T08:00:00+05:00",
+      "title": "Wheel of Fortune",
+      "sub_title": "Myrtle Beach Family Week",
+      "desc": "In a classic game-show version of \"Hangman,\" contestants solve word puzzles for cash and prizes.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Series",
+        "Game show"
+      ],
+      "episode": "S43 E173",
+      "icon": "http://dtil.tmsimg.com/assets/p184057_b_h8_ai.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Ryan Seacrest",
+          "Vanna White"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-07T08:00:00+05:00",
+      "stop": "2026-05-07T09:00:00+05:00",
+      "title": "Celebrity Wheel of Fortune",
+      "sub_title": "Big Sean, Tori Kelly and 2 Chainz",
+      "desc": "Celebrity contestants Big Sean, Tori Kelly and 2 Chainz.",
+      "date": "2025",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Game show"
+      ],
+      "episode": "S6 E6",
+      "icon": "http://dtil.tmsimg.com/assets/p19081569_b_h8_as.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Lucinda Owens Margolis"
+        ],
+        "actor": [
+          "Ryan Seacrest",
+          "Vanna White",
+          "Big Sean"
         ]
       }
     }
