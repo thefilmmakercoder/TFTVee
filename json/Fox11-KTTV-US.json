@@ -4,38 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-07T15:00:00+05:00",
-      "stop": "2026-05-07T15:30:00+05:00",
-      "title": "RateEscape: Stop Overpaying For Cellular",
-      "desc": "Cut up to half the cost of your monthly cell phone bill; same towers, same coverage, but a lot less money; it sounds great but is it too good to be true?; join myth-busting legend Kari Byron as she takes on Big Wireless to save you money.",
-      "language": "en",
-      "categories": [
-        "Consumer"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p30869357_st_h10_ab.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-07T15:30:00+05:00",
-      "stop": "2026-05-07T16:00:00+05:00",
-      "title": "TMZ",
-      "desc": "TMZ TV tracks down today's hottest stars with their cameras, whether they are hitting the clubs or the dry cleaners.",
-      "date": "2026",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Series",
-        "Newsmagazine",
-        "Entertainment"
-      ],
-      "episode": "S19 E213",
-      "icon": "http://dtil.tmsimg.com/assets/p30985766_b_h10_aa.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Harvey Levin"
-        ]
-      }
-    },
-    {
       "start": "2026-05-07T16:00:00+05:00",
       "stop": "2026-05-07T17:00:00+05:00",
       "title": "Good Day LA at 4am",
@@ -82,6 +50,30 @@
         "Talk"
       ],
       "icon": "http://dtil.tmsimg.com/assets/p9542652_b_h8_ac.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-07T21:00:00+05:00",
+      "stop": "2026-05-07T22:00:00+05:00",
+      "title": "Good Day LA at 9am",
+      "desc": "Morning news coverage.",
+      "date": "2012",
+      "language": "en",
+      "categories": [
+        "Talk"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p9542653_b_h8_ac.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-07T22:00:00+05:00",
+      "stop": "2026-05-07T23:00:00+05:00",
+      "title": "Good Day LA at 10am",
+      "desc": "Morning news coverage.",
+      "date": "2022",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p22751421_b_h8_ab.jpg?w=960&h=540"
     }
   ]
 }

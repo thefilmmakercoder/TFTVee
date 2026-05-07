@@ -4,18 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-07T15:05:00+05:00",
-      "stop": "2026-05-07T15:30:00+05:00",
-      "title": "CBS News Roundup",
-      "desc": "The headlines one needs to know overnight... plus, a roundup of MoneyWatch, health, consumer and up-to-the-minute technology news, the latest weather, and inspiring stories of kindness and hope.",
-      "date": "2024",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p27490843_b_h8_ab.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-05-07T15:30:00+05:00",
       "stop": "2026-05-07T16:00:00+05:00",
       "title": "CBS News Mornings",
@@ -100,6 +88,26 @@
       "credits": {
         "actor": [
           "Wayne Brady"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-07T22:00:00+05:00",
+      "stop": "2026-05-07T23:00:00+05:00",
+      "title": "The Price Is Right",
+      "desc": "Participants must guess the prices of different types of items, ranging from vehicles to electronic appliances, to win a prize.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Series",
+        "Game show"
+      ],
+      "episode": "S54 E149",
+      "icon": "http://dtil.tmsimg.com/assets/p31082639_b_h8_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Drew Carey"
         ]
       }
     }

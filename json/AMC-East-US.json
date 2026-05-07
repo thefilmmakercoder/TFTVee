@@ -4,39 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-07T15:00:00+05:00",
-      "stop": "2026-05-07T15:30:00+05:00",
-      "title": "Interested in Gold? Learn More!",
-      "desc": "Gold has been the best long-term asset class for thousands of years; find out how you can protect your financial future by diversifying your nest-egg with physical gold today.",
-      "language": "en",
-      "categories": [
-        "Consumer"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p27818800_st_h10_ab.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-07T15:30:00+05:00",
-      "stop": "2026-05-07T16:00:00+05:00",
-      "title": "Ready for a safer shower? Enjoy a one-day bath remodel with Jacuzzi.",
-      "desc": "Trusted brand Jacuzzi Bath Remodel and interior designer Christina Hall share their secrets on how you can easily and affordably transform your bathroom into a gorgeous custom, safe, stylish space in 1 day! Call for a FREE quote & installation.",
-      "language": "en",
-      "categories": [
-        "Consumer"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p30074472_b_h8_aa.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-07T16:00:00+05:00",
-      "stop": "2026-05-07T16:30:00+05:00",
-      "title": "The Aging Brain",
-      "desc": "Learn what's behind mental decline with age, and how to improve memory, focus and concentration with NeuroQ's Darrin Peterson and Dale Bredesen MD.",
-      "language": "en",
-      "categories": [
-        "Consumer"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p30127108_st_h10_aa.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-05-07T16:30:00+05:00",
       "stop": "2026-05-07T17:00:00+05:00",
       "title": "Freedom to Leave the House! Inogen Portable Oxygen",
@@ -71,6 +38,83 @@
         "Variety"
       ],
       "icon": "http://dtil.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-07T18:00:00+05:00",
+      "stop": "2026-05-07T18:30:00+05:00",
+      "title": "The Three Stooges",
+      "sub_title": "Crash Goes the Hash",
+      "desc": "Reporter Stooges nab a phony noble.",
+      "date": "1944",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Comedy"
+      ],
+      "episode": "E1",
+      "icon": "http://dtil.tmsimg.com/assets/p15992686_b_h10_aa.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Jules White"
+        ],
+        "actor": [
+          "Moe Howard",
+          "Larry Fine",
+          "Curly Howard"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-07T18:30:00+05:00",
+      "stop": "2026-05-07T19:00:00+05:00",
+      "title": "The Three Stooges",
+      "sub_title": "Dizzy Detectives",
+      "desc": "Cop Stooges meet an explosive gorilla.",
+      "date": "1943",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Comedy"
+      ],
+      "episode": "E2",
+      "icon": "http://dtil.tmsimg.com/assets/p184232_b_h10_aa.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Jules White"
+        ],
+        "actor": [
+          "Moe Howard",
+          "Larry Fine",
+          "Curly Howard"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-07T19:00:00+05:00",
+      "stop": "2026-05-07T22:30:00+05:00",
+      "title": "The Hunger Games: The Ballad of Songbirds & Snakes",
+      "desc": "Years before he becomes the tyrannical president of Panem, 18-year-old Coriolanus Snow remains the last hope for his fading lineage. With the 10th annual Hunger Games fast approaching, the young Snow becomes alarmed when he's assigned to mentor Lucy Gray Baird. Uniting their instincts for showmanship and political savvy, they race against time to ultimately reveal who's a songbird and who's a snake.",
+      "date": "2023",
+      "language": "en",
+      "rating": "12",
+      "categories": [
+        "Movie",
+        "Action",
+        "Adventure"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p22101560_v_h8_ao.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Francis Lawrence"
+        ],
+        "actor": [
+          "Tom Blyth",
+          "Rachel Zegler",
+          "Peter Dinklage"
+        ]
+      }
     }
   ]
 }

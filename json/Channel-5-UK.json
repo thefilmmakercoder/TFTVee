@@ -4,18 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-07T13:15:00+05:00",
-      "stop": "2026-05-07T15:30:00+05:00",
-      "title": "Jeremy Vine",
-      "desc": "Start the day with a dose of hard-hitting debate, your phone calls and a little fun - all driven by Jeremy's unique style.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/c9255781-7ff2-4387-bdd0-d97b3b06cf93/16-9"
-    },
-    {
       "start": "2026-05-07T15:30:00+05:00",
       "stop": "2026-05-07T16:00:00+05:00",
       "title": "Storm & Alexis",
@@ -74,6 +62,18 @@
         "Feature"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/b60795a0-4f69-336a-9d8e-4a1d6d836f19/16-9"
+    },
+    {
+      "start": "2026-05-07T23:00:00+05:00",
+      "stop": "2026-05-08T00:00:00+05:00",
+      "title": "Coastguard: Search & Rescue SOS",
+      "desc": "Return of the thrilling observational series, with an 85-year-old woman battered by waves in north Wales, and a couple stranded on a rock cut off by the tide in Cornwall.",
+      "language": "en",
+      "categories": [
+        "News & Documentary",
+        "Feature"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/f8f7609a-fde8-3d81-81bd-9758db3c6967/16-9"
     }
   ]
 }

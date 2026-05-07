@@ -4,18 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-07T13:30:00+05:00",
-      "stop": "2026-05-07T14:00:00+05:00",
-      "title": "Lorraine",
-      "desc": "Lorraine Kelly presents a topical mix of entertainment, discussion and showbiz glamour as well as the latest fashion, food and celebrity gossip.",
-      "language": "en",
-      "categories": [
-        "Entertainment",
-        "Magazine"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/922627bf-571b-41aa-abb2-cccd42ab176d/16-9"
-    },
-    {
       "start": "2026-05-07T14:00:00+05:00",
       "stop": "2026-05-07T16:30:00+05:00",
       "title": "This Morning",
@@ -74,6 +62,18 @@
         "Antiques"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/fd79ae66-c08d-4eb0-a514-8bbace2ee22f/16-9"
+    },
+    {
+      "start": "2026-05-07T19:00:00+05:00",
+      "stop": "2026-05-07T20:00:00+05:00",
+      "title": "Lingo",
+      "desc": "Trying to Lingo all the way are cousins Danny and Alison from London and Cambridge, Andy with his son Dave from Dundee, and married couple Sue and Jane from Hebden Bridge.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Game Show"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/fef5bddf-429b-31cb-8f14-166723250b48/16-9"
     }
   ]
 }

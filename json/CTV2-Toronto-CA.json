@@ -4,46 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-07T14:30:00+05:00",
-      "stop": "2026-05-07T15:00:00+05:00",
-      "title": "Paid Programming",
-      "desc": "Paid programming.",
-      "language": "en",
-      "rating": "TVG",
-      "categories": [
-        "Consumer",
-        "Shopping",
-        "Variety"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-07T15:00:00+05:00",
-      "stop": "2026-05-07T15:40:00+05:00",
-      "title": "CTV News Barrie",
-      "desc": "CTV News covers stories that matter to Canadians - locally, nationally, & internationally.",
-      "date": "2014",
-      "language": "en",
-      "rating": "TV14",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p11226354_b_h8_ad.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-07T15:40:00+05:00",
-      "stop": "2026-05-07T16:20:00+05:00",
-      "title": "CTV News Barrie",
-      "desc": "CTV News covers stories that matter to Canadians - locally, nationally, & internationally.",
-      "date": "2014",
-      "language": "en",
-      "rating": "TV14",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p11226354_b_h8_ad.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-05-07T16:20:00+05:00",
       "stop": "2026-05-07T17:00:00+05:00",
       "title": "CTV News Barrie",
@@ -109,6 +69,71 @@
           "Jayne Eastwood",
           "Brenda Kamino",
           "Michael Kirby"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-07T18:00:00+05:00",
+      "stop": "2026-05-07T18:30:00+05:00",
+      "title": "The Littlest Hobo",
+      "sub_title": "Napoleon",
+      "desc": "Hobo helps a widow recover calves that were rustled from her ranch.",
+      "date": "1982",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Series",
+        "Drama",
+        "Adventure",
+        "Animals"
+      ],
+      "episode": "S4 E1",
+      "icon": "http://dtil.tmsimg.com/assets/p507740_b_h10_ac.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Allan Eastman"
+        ],
+        "actor": [
+          "Roberta Weiss",
+          "Jim Bearden",
+          "Rob Garrison"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-07T18:30:00+05:00",
+      "stop": "2026-05-07T19:00:00+05:00",
+      "title": "Paid Programming",
+      "desc": "Paid programming.",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Consumer",
+        "Shopping",
+        "Variety"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-07T19:00:00+05:00",
+      "stop": "2026-05-07T19:30:00+05:00",
+      "title": "Corner Gas",
+      "sub_title": "Hero Sandwich",
+      "desc": "Lacey learns what it means to be a victim of success when she invents a new sandwich that becomes a little too popular.",
+      "date": "2004",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Sitcom"
+      ],
+      "episode": "S2 E7",
+      "icon": "http://dtil.tmsimg.com/assets/p8495323_b_h10_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Brent Butt",
+          "Eric Peterson",
+          "Janet Wright"
         ]
       }
     }

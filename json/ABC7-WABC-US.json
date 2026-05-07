@@ -4,18 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-07T13:30:00+05:00",
-      "stop": "2026-05-07T15:00:00+05:00",
-      "title": "Eyewitness News This Morning",
-      "desc": "News coverage to start the day.",
-      "date": "2007",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p677214_b_h8_ad.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-05-07T15:00:00+05:00",
       "stop": "2026-05-07T16:00:00+05:00",
       "title": "Eyewitness News This Morning",
@@ -110,6 +98,18 @@
           "Sunny Hostin"
         ]
       }
+    },
+    {
+      "start": "2026-05-07T21:00:00+05:00",
+      "stop": "2026-05-07T22:00:00+05:00",
+      "title": "Eyewitness News at Noon",
+      "desc": "Midday news update.",
+      "date": "2015",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p11844655_b_h8_ad.jpg?w=960&h=540"
     }
   ]
 }

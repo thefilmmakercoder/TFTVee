@@ -4,18 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-07T14:00:00+05:00",
-      "stop": "2026-05-07T15:00:00+05:00",
-      "title": "Good Day Wake Up",
-      "desc": "Morning news coverage.",
-      "date": "2009",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p706488_b_h8_ab.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-05-07T15:00:00+05:00",
       "stop": "2026-05-07T16:00:00+05:00",
       "title": "Good Day Wake Up 2",
@@ -96,6 +84,18 @@
           "Lucille O'Neal"
         ]
       }
+    },
+    {
+      "start": "2026-05-07T21:00:00+05:00",
+      "stop": "2026-05-07T22:00:00+05:00",
+      "title": "The Noon",
+      "desc": "Midday news update.",
+      "date": "2019",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p17326137_b_h8_ab.jpg?w=960&h=540"
     }
   ]
 }
