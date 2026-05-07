@@ -4,17 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-07T20:50:00+05:00",
-      "stop": "2026-05-08T00:00:00+05:00",
-      "title": "SBS Viceland: Programme",
-      "language": "en",
-      "rating": "NR",
-      "categories": [
-        "Young Kids"
-      ],
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/20094389/image/334x188"
-    },
-    {
       "start": "2026-05-08T00:00:00+05:00",
       "stop": "2026-05-08T01:00:00+05:00",
       "title": "Al Jazeera News Hour",
@@ -80,6 +69,19 @@
         "Sports"
       ],
       "icon": "https://www.fetchtv.com.au/v2/epg/program/337182/image/334x188"
+    },
+    {
+      "start": "2026-05-08T03:00:00+05:00",
+      "stop": "2026-05-08T03:10:00+05:00",
+      "title": "Euronews",
+      "sub_title": "Friday 8 May 2026",
+      "desc": "Headlines, Breaking News & Analysis from the Euronews news centre in Brussels, Belgium, in English.",
+      "language": "en",
+      "rating": "NR",
+      "categories": [
+        "Sports"
+      ],
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/276/image/334x188"
     }
   ]
 }

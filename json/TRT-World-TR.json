@@ -4,30 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-07T23:30:00+05:00",
-      "stop": "2026-05-08T00:00:00+05:00",
-      "title": "Nexus",
-      "desc": "TRT World's Nexus is a forensic, fast-paced and sometimes irreverent take on the news.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/540b23d7-c9c4-4963-b300-cc20c3dfb8ed/16-9"
-    },
-    {
-      "start": "2026-05-08T00:00:00+05:00",
-      "stop": "2026-05-08T01:00:00+05:00",
-      "title": "Newshour - London",
-      "desc": "TRT World brings the latest news from around the globe, when it happens.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/8866d6eb-1c8c-4abe-8c9e-138599c0de38/16-9"
-    },
-    {
       "start": "2026-05-08T01:00:00+05:00",
       "stop": "2026-05-08T01:30:00+05:00",
       "title": "News - London",
@@ -74,6 +50,30 @@
         "News"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/50913b85-3389-42aa-93ac-31f36fb015d3/16-9"
+    },
+    {
+      "start": "2026-05-08T03:00:00+05:00",
+      "stop": "2026-05-08T03:30:00+05:00",
+      "title": "News",
+      "desc": "TRT World brings the latest news from around the globe, when it happens.",
+      "language": "en",
+      "categories": [
+        "News & Documentary",
+        "News"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/de527a1c-584f-436b-bd33-a13fe91f88e2/16-9"
+    },
+    {
+      "start": "2026-05-08T03:30:00+05:00",
+      "stop": "2026-05-08T04:00:00+05:00",
+      "title": "The Newsmakers",
+      "desc": "With in-depth reports and strong, unfiltered debates: The Newsmakers examine the people and the stories that are shaping our lives.",
+      "language": "en",
+      "categories": [
+        "News & Documentary",
+        "News"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/26059a59-1b86-4e8c-9ae4-429f37f7f5e5/16-9"
     }
   ]
 }

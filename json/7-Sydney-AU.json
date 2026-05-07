@@ -4,34 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-07T23:00:00+05:00",
-      "stop": "2026-05-08T00:00:00+05:00",
-      "title": "NBC Today",
-      "sub_title": "Friday 8 May 2026",
-      "desc": "International news and weather including interviews with newsmakers in the world of politics, business, media, entertainment and sport.",
-      "language": "en",
-      "rating": "NR",
-      "categories": [
-        "Sports"
-      ],
-      "episode": "S26 E127",
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/132440/image/334x188"
-    },
-    {
-      "start": "2026-05-08T00:00:00+05:00",
-      "stop": "2026-05-08T00:30:00+05:00",
-      "title": "Sunrise Early News",
-      "sub_title": "Friday 8 May 2026",
-      "desc": "Wake up to a better breakfast with Edwina Bartholomew for all the latest news, sport and weather.",
-      "language": "en",
-      "rating": "NR",
-      "categories": [
-        "Sports"
-      ],
-      "episode": "S26 E92",
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/434344/image/334x188"
-    },
-    {
       "start": "2026-05-08T00:30:00+05:00",
       "stop": "2026-05-08T01:00:00+05:00",
       "title": "Sunrise",
@@ -85,6 +57,31 @@
       ],
       "episode": "S26 E70",
       "icon": "https://www.fetchtv.com.au/v2/epg/program/434212/image/334x188"
+    },
+    {
+      "start": "2026-05-08T08:00:00+05:00",
+      "stop": "2026-05-08T10:00:00+05:00",
+      "title": "Sinister Sorority",
+      "desc": "An ambitious student forms a special bond with a girl from her sorority, but she's still unaware of what her new friend is hiding.",
+      "language": "en",
+      "rating": "M",
+      "categories": [
+        "Drama"
+      ],
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/3172570/image/334x188"
+    },
+    {
+      "start": "2026-05-08T10:00:00+05:00",
+      "stop": "2026-05-08T11:00:00+05:00",
+      "title": "The Chase",
+      "desc": "Bradley Walsh hosts as Steve from Bath, Lisa from Maidenhead, Kristian from Cardiff and Bethany from Northampton join forces in the hope that their four brains can beat one, but that one brain does happen to belong to a Chaser...",
+      "language": "en",
+      "rating": "G",
+      "categories": [
+        "Special Interest"
+      ],
+      "episode": "S12 E120",
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/301143/image/334x188"
     }
   ]
 }

@@ -4,40 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-07T23:00:00+05:00",
-      "stop": "2026-05-07T23:30:00+05:00",
-      "title": "CBS LA at 11am",
-      "desc": "Join the CBS LA team for stories from communities around SoCal, breaking news from The Desk, and NEXT Weather from the Weathersphere.",
-      "date": "2025",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p31308558_b_h10_aa.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-07T23:30:00+05:00",
-      "stop": "2026-05-08T00:30:00+05:00",
-      "title": "The Young and the Restless",
-      "desc": "Phyllis is troubled by Nick's behavior; Matt Clark resurfaces in Genoa City; Cane makes a promise to Lily.",
-      "date": "2026",
-      "language": "en",
-      "rating": "TV14",
-      "categories": [
-        "Series",
-        "Soap"
-      ],
-      "episode": "S53 E147",
-      "icon": "http://dtil.tmsimg.com/assets/p183904_b_h8_ai.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Peter Bergman",
-          "Eric Braeden",
-          "Christel Khalil"
-        ]
-      }
-    },
-    {
       "start": "2026-05-08T00:30:00+05:00",
       "stop": "2026-05-08T01:00:00+05:00",
       "title": "The Bold and the Beautiful",
@@ -127,6 +93,50 @@
         "actor": [
           "Drew Barrymore",
           "Teri Hatcher"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-08T03:00:00+05:00",
+      "stop": "2026-05-08T03:30:00+05:00",
+      "title": "Judge Judy",
+      "sub_title": "Single Mom ... Married Boyfriend!; Cheating on Facebook?",
+      "desc": "A single mother says she lent thousands of dollars to a man who says they were never intimate; a woman's cheating boyfriend accuses her of stealing his property.",
+      "date": "2015",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Reality",
+        "Law"
+      ],
+      "episode": "S19 E193",
+      "icon": "http://dtil.tmsimg.com/assets/p184382_b_h8_af.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Judy Sheindlin"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-08T03:30:00+05:00",
+      "stop": "2026-05-08T04:00:00+05:00",
+      "title": "Judge Judy",
+      "sub_title": "Twin Girls Repoed Ride!; Mangled Motorcycle Mix-Up!; Ex-Fiance Crash!",
+      "desc": "A man co-signs a loan for his grandchildren's father, and his favor is returned with nonpayment and a repo; a friend totals an imprisoned man's motorcycle and is seriously injured; a woman sues her ex-fiance for crashing her car and injuring her.",
+      "date": "2015",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Reality",
+        "Law"
+      ],
+      "episode": "S19 E194",
+      "icon": "http://dtil.tmsimg.com/assets/p184382_b_h8_af.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Judy Sheindlin"
         ]
       }
     }

@@ -4,18 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-07T23:00:00+05:00",
-      "stop": "2026-05-08T00:00:00+05:00",
-      "title": "Channel 4 News",
-      "desc": "Channel 4's flagship news programme. Including the weather.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/aac7938c-145e-426e-adda-c2eedf55eee3/16-9"
-    },
-    {
       "start": "2026-05-08T00:00:00+05:00",
       "stop": "2026-05-08T01:00:00+05:00",
       "title": "Paul Merton: Driving Amazing Trains",
@@ -74,6 +62,18 @@
         "Lifestyles"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/792e1a99-9ab7-414f-b247-76a44e477207/16-9"
+    },
+    {
+      "start": "2026-05-08T05:05:00+05:00",
+      "stop": "2026-05-08T06:00:00+05:00",
+      "title": "Virgin Island",
+      "desc": "It's the Nudity Phase as the virgins get familiar with genital anatomy. And Tegan takes a big step forwards with Risdon, experiencing connection through touch like never before.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Lifestyles"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/b14201cd-6112-4765-85cf-3c32dae6720f/16-9"
     }
   ]
 }
