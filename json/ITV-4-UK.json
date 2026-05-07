@@ -4,43 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-07T08:00:00+05:00",
-      "stop": "2026-05-07T10:00:00+05:00",
-      "title": "Teleshopping",
-      "desc": "Shopping from home.",
-      "language": "en",
-      "categories": [
-        "Specialist",
-        "Shopping"
-      ]
-    },
-    {
-      "start": "2026-05-07T10:00:00+05:00",
-      "stop": "2026-05-07T10:35:00+05:00",
-      "title": "The Protectors",
-      "sub_title": "King Con",
-      "desc": "Adventure series about a European crime-fighting team. Caroline plans revenge on behalf of a friend who has been swindled out of a 12th-century ivory icon by a trickster.",
-      "language": "en",
-      "categories": [
-        "Entertainment",
-        "Action"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/494ba099-310c-47e1-99d0-8926388929a4/16-9"
-    },
-    {
-      "start": "2026-05-07T10:35:00+05:00",
-      "stop": "2026-05-07T11:35:00+05:00",
-      "title": "Magnum, P.I.",
-      "sub_title": "Innocence",
-      "desc": ".. A Broad: When Robin is sued by a con man who makes a tidy income out of taking legal action over fake accidents, the crook is murdered.",
-      "language": "en",
-      "categories": [
-        "Entertainment",
-        "Action"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/f775801e-995a-3da4-845b-c816acaa6864/16-9"
-    },
-    {
       "start": "2026-05-07T11:35:00+05:00",
       "stop": "2026-05-07T12:40:00+05:00",
       "title": "Kojak",
@@ -78,6 +41,44 @@
         "Drama"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/a06d823e-cfa1-3e99-8b42-fc8eabd597bc/16-9"
+    },
+    {
+      "start": "2026-05-07T14:50:00+05:00",
+      "stop": "2026-05-07T15:55:00+05:00",
+      "title": "The Sweeney",
+      "sub_title": "Sweet Smell of Succession",
+      "desc": "Tough '70s police series. Regan gets involved in gangland warfare following the death of one of London's leading villains.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Drama"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/42bbeba3-c55b-4e2c-9622-9cdfa87bcef6/16-9"
+    },
+    {
+      "start": "2026-05-07T15:55:00+05:00",
+      "stop": "2026-05-07T17:00:00+05:00",
+      "title": "BattleBots",
+      "sub_title": "The Second Slugfest Concludes",
+      "desc": "US robot combat series. Four challengers fight to the death, but only one can win to face Lock-Jaw and earn the chance to fight for the Golden Bolt.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Game Show"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/688482af-59e0-420c-8bfb-226ce7d88e03/16-9"
+    },
+    {
+      "start": "2026-05-07T17:00:00+05:00",
+      "stop": "2026-05-07T20:00:00+05:00",
+      "title": "ITV Racing: Live from Chester",
+      "desc": "Live coverage of racing from Chester on the middle day of the May Meeting, presented by Ed Chamberlin and Francesca Cumani.",
+      "language": "en",
+      "categories": [
+        "Sports",
+        "Racing"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/a6bc27ff-5128-42db-b6a6-a852042495bc/16-9"
     }
   ]
 }

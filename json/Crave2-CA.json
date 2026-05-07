@@ -4,43 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-07T08:00:00+05:00",
-      "stop": "2026-05-07T08:30:00+05:00",
-      "title": "Club Cumming",
-      "date": "2026",
-      "language": "en",
-      "categories": [
-        "Series"
-      ],
-      "episode": "S1 E6",
-      "icon": "http://dtil.tmsimg.com/assets/p32782136_b_h10_ab.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-07T08:30:00+05:00",
-      "stop": "2026-05-07T10:50:00+05:00",
-      "title": "\"Wuthering Heights\"",
-      "desc": "Tragedy strikes when Heathcliff falls in love with Catherine Earnshaw, a woman from a wealthy family in 18th-century England.",
-      "date": "2026",
-      "language": "en",
-      "rating": "R",
-      "categories": [
-        "Movie",
-        "Romance",
-        "Drama"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p30971069_v_h8_ao.jpg?w=960&h=540",
-      "credits": {
-        "director": [
-          "Emerald Fennell"
-        ],
-        "actor": [
-          "Margot Robbie",
-          "Jacob Elordi",
-          "Hong Chau"
-        ]
-      }
-    },
-    {
       "start": "2026-05-07T10:50:00+05:00",
       "stop": "2026-05-07T12:45:00+05:00",
       "title": "Sleeping Dogs",
@@ -133,6 +96,54 @@
           "Alison Sweeney",
           "Cameron Mathison",
           "Barbara Niven"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-07T16:25:00+05:00",
+      "stop": "2026-05-07T17:55:00+05:00",
+      "title": "A Beautiful Place to Die: A Martha's Vineyard Mystery",
+      "desc": "After being forced into early retirement, former detective Jeff Jackson returns to a quiet life on Martha's Vineyard. Quiet, at least, until a body washes up and he's drawn back into crime solving.",
+      "date": "2020",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Movie",
+        "Mystery"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p17691067_v_h10_ab.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Mark Jean"
+        ],
+        "actor": [
+          "Jesse Metcalfe",
+          "Sarah Lind",
+          "Eric Keenleyside"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-07T17:55:00+05:00",
+      "stop": "2026-05-07T19:40:00+05:00",
+      "title": "Triumph: Rock & Roll Machine",
+      "desc": "The story of underdog Canadian rock band Triumph, which rose to stardom in the 1970s and '80s only to disappear at the height of its fame.",
+      "date": "2021",
+      "language": "en",
+      "categories": [
+        "Movie",
+        "Documentary"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p21416404_v_h8_aa.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Sam Dunn",
+          "Marc Ricciardelli"
+        ],
+        "actor": [
+          "Rik Emmett",
+          "Mike Levine",
+          "Gil Moore"
         ]
       }
     }

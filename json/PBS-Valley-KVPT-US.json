@@ -4,49 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-07T09:00:00+05:00",
-      "stop": "2026-05-07T10:00:00+05:00",
-      "title": "NOVA",
-      "sub_title": "Decoding the Universe: Cosmos",
-      "desc": "How discoveries over the past 50 years have revolutionized people's understanding of the universe.",
-      "date": "2024",
-      "language": "en",
-      "rating": "TVG",
-      "categories": [
-        "Series",
-        "Science",
-        "Nature",
-        "Anthology"
-      ],
-      "episode": "S51 E8",
-      "icon": "http://dtil.tmsimg.com/assets/p26187128_b_h8_aa.jpg?w=960&h=540",
-      "credits": {
-        "director": [
-          "Daniel McCabe",
-          "Jaro Savol"
-        ],
-        "actor": [
-          "Jay O. Sanders"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-07T10:00:00+05:00",
-      "stop": "2026-05-07T11:00:00+05:00",
-      "title": "Shared Planet",
-      "sub_title": "Open Spaces",
-      "desc": "From Kenya to Mexico, people and wildlife find a harmonious balance in Earth's most vulnerable landscapes.",
-      "date": "2025",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Series",
-        "Documentary"
-      ],
-      "episode": "S1 E2",
-      "icon": "http://dtil.tmsimg.com/assets/p31531763_b_h8_aa.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-05-07T11:00:00+05:00",
       "stop": "2026-05-07T12:00:00+05:00",
       "title": "Life on Earth: Attenborough's Greatest Adventure",
@@ -115,6 +72,59 @@
         "Public affairs"
       ],
       "icon": "http://dtil.tmsimg.com/assets/p24618215_b_h11_aa.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-07T17:00:00+05:00",
+      "stop": "2026-05-07T17:30:00+05:00",
+      "title": "Lyla in the Loop",
+      "sub_title": "Stu's Up; Roll n' Scoot",
+      "desc": "Lyla trains Stu to help at the diner; Stu learns how to ride a scooter.",
+      "date": "2024",
+      "language": "en",
+      "rating": "TVY",
+      "categories": [
+        "Series",
+        "Animated",
+        "Children",
+        "Entertainment",
+        "Educational"
+      ],
+      "episode": "S1 E16",
+      "icon": "http://dtil.tmsimg.com/assets/p26268938_b_h8_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Liyou Abere",
+          "Izzy Woodbury",
+          "Elijah Lindo"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-07T17:30:00+05:00",
+      "stop": "2026-05-07T18:00:00+05:00",
+      "title": "Wild Kratts",
+      "sub_title": "Bandito: The Black Footed Ferret",
+      "desc": "Martin encounters a lost colony of black-footed ferrets.",
+      "date": "2014",
+      "language": "en",
+      "rating": "TVY",
+      "categories": [
+        "Series",
+        "Children",
+        "Educational",
+        "Science",
+        "Nature",
+        "Animals",
+        "Animated"
+      ],
+      "episode": "S3 E3",
+      "icon": "http://dtil.tmsimg.com/assets/p8369911_b_h8_aj.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Martin Kratt",
+          "Chris Kratt"
+        ]
+      }
     }
   ]
 }

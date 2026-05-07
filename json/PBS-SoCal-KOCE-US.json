@@ -4,62 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-07T09:00:00+05:00",
-      "stop": "2026-05-07T10:00:00+05:00",
-      "title": "NOVA",
-      "sub_title": "Decoding the Universe: Cosmos",
-      "desc": "How discoveries over the past 50 years have revolutionized people's understanding of the universe.",
-      "date": "2024",
-      "language": "en",
-      "rating": "TVG",
-      "categories": [
-        "Series",
-        "Science",
-        "Nature",
-        "Anthology"
-      ],
-      "episode": "S51 E8",
-      "icon": "http://dtil.tmsimg.com/assets/p26187128_b_h8_aa.jpg?w=960&h=540",
-      "credits": {
-        "director": [
-          "Daniel McCabe",
-          "Jaro Savol"
-        ],
-        "actor": [
-          "Jay O. Sanders"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-07T10:00:00+05:00",
-      "stop": "2026-05-07T11:00:00+05:00",
-      "title": "Shared Planet",
-      "sub_title": "Open Spaces",
-      "desc": "From Kenya to Mexico, people and wildlife find a harmonious balance in Earth's most vulnerable landscapes.",
-      "date": "2025",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Series",
-        "Documentary"
-      ],
-      "episode": "S1 E2",
-      "icon": "http://dtil.tmsimg.com/assets/p31531763_b_h8_aa.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-07T11:00:00+05:00",
-      "stop": "2026-05-07T11:30:00+05:00",
-      "title": "Earth Focus",
-      "sub_title": "Oil",
-      "date": "2026",
-      "language": "en",
-      "categories": [
-        "Series",
-        "Environment"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p21813442_st_h10_aa.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-05-07T11:30:00+05:00",
       "stop": "2026-05-07T12:00:00+05:00",
       "title": "Life Unearthed With Ariel Waldman",
@@ -117,6 +61,71 @@
       "credits": {
         "actor": [
           "David Attenborough"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-07T14:00:00+05:00",
+      "stop": "2026-05-07T15:00:00+05:00",
+      "title": "NOVA",
+      "sub_title": "Decoding the Universe: Cosmos",
+      "desc": "How discoveries over the past 50 years have revolutionized people's understanding of the universe.",
+      "date": "2024",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Series",
+        "Science",
+        "Nature",
+        "Anthology"
+      ],
+      "episode": "S51 E8",
+      "icon": "http://dtil.tmsimg.com/assets/p26187128_b_h8_aa.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Daniel McCabe",
+          "Jaro Savol"
+        ],
+        "actor": [
+          "Jay O. Sanders"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-07T15:00:00+05:00",
+      "stop": "2026-05-07T16:00:00+05:00",
+      "title": "Shared Planet",
+      "sub_title": "Open Spaces",
+      "desc": "From Kenya to Mexico, people and wildlife find a harmonious balance in Earth's most vulnerable landscapes.",
+      "date": "2025",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Documentary"
+      ],
+      "episode": "S1 E2",
+      "icon": "http://dtil.tmsimg.com/assets/p31531763_b_h8_aa.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-07T16:00:00+05:00",
+      "stop": "2026-05-07T16:30:00+05:00",
+      "title": "Life Unearthed With Ariel Waldman",
+      "sub_title": "Antarctica: Life on the Rocks",
+      "desc": "In Beacon Valley, explorer Ariel Waldman reveals hidden ecosystems that persist despite extreme conditions.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Documentary",
+        "Science"
+      ],
+      "episode": "S1 E3",
+      "icon": "http://dtil.tmsimg.com/assets/p32474783_b_h8_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Ariel Waldman"
         ]
       }
     }

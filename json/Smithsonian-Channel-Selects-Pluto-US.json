@@ -4,53 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-07T08:15:00+05:00",
-      "stop": "2026-05-07T09:15:00+05:00",
-      "title": "Aerial America",
-      "sub_title": "Hawaii",
-      "desc": "From Molokai to Maui, discover the stunning landscapes of Hawaii's eight major islands without ever touching the ground.",
-      "date": "20091207",
-      "language": "en",
-      "categories": [
-        "Series",
-        "History",
-        "Educational"
-      ],
-      "episode": "S01E02",
-      "icon": "https://images.pluto.tv/series/5fa34413e906e1001a03ed7a/tile_1768515844446.jpg?fill=blur&fit=fill&fm=jpg&h=900&q=75&w=900"
-    },
-    {
-      "start": "2026-05-07T09:15:00+05:00",
-      "stop": "2026-05-07T10:15:00+05:00",
-      "title": "Aerial America",
-      "sub_title": "Aerial America Boston 24",
-      "desc": "A sky-high flight over Boston captures the New England city's towering skyline, revolutionary milestones, and fighting spirit.",
-      "date": "20191208",
-      "language": "en",
-      "categories": [
-        "Documentary",
-        "Series"
-      ],
-      "episode": "S01E170",
-      "icon": "https://images.pluto.tv/series/5fa34413e906e1001a03ed7a/tile_1768515844446.jpg?fill=blur&fit=fill&fm=jpg&h=900&q=75&w=900"
-    },
-    {
-      "start": "2026-05-07T10:15:00+05:00",
-      "stop": "2026-05-07T11:15:00+05:00",
-      "title": "Aerial America",
-      "sub_title": "Maine",
-      "desc": "Discover how Maine's rich resources and cast of characters have helped shape the nation.",
-      "date": "20110711",
-      "language": "en",
-      "categories": [
-        "Series",
-        "History",
-        "Educational"
-      ],
-      "episode": "S01E09",
-      "icon": "https://images.pluto.tv/series/5fa34413e906e1001a03ed7a/tile_1768515844446.jpg?fill=blur&fit=fill&fm=jpg&h=900&q=75&w=900"
-    },
-    {
       "start": "2026-05-07T11:15:00+05:00",
       "stop": "2026-05-07T12:15:00+05:00",
       "title": "Aerial America",
@@ -59,9 +12,9 @@
       "date": "20100815",
       "language": "en",
       "categories": [
+        "Educational",
         "Series",
-        "History",
-        "Educational"
+        "History"
       ],
       "episode": "S01E06",
       "icon": "https://images.pluto.tv/series/5fa34413e906e1001a03ed7a/tile_1768515844446.jpg?fill=blur&fit=fill&fm=jpg&h=900&q=75&w=900"
@@ -75,9 +28,9 @@
       "date": "20130318",
       "language": "en",
       "categories": [
+        "Educational",
         "Series",
-        "History",
-        "Educational"
+        "History"
       ],
       "episode": "S03E03",
       "icon": "https://images.pluto.tv/series/5fa343ffe906e1001a03e95c/tile.jpg?fill=blur&fit=fill&fm=jpg&h=900&q=75&w=900"
@@ -91,10 +44,56 @@
       "date": "20120729",
       "language": "en",
       "categories": [
-        "Documentary",
-        "Series"
+        "Series",
+        "Documentary"
       ],
       "episode": "S02E07",
+      "icon": "https://images.pluto.tv/series/5fa343ffe906e1001a03e95c/tile.jpg?fill=blur&fit=fill&fm=jpg&h=900&q=75&w=900"
+    },
+    {
+      "start": "2026-05-07T14:15:00+05:00",
+      "stop": "2026-05-07T15:15:00+05:00",
+      "title": "Air Disasters",
+      "sub_title": "Grand Canyon",
+      "desc": "Two commercial airliners go missing over the Arizona desert, and are later found in pieces, scattered along the Grand Canyon floor.",
+      "date": "20140609",
+      "language": "en",
+      "categories": [
+        "Series",
+        "Documentary"
+      ],
+      "episode": "S04E06",
+      "icon": "https://images.pluto.tv/series/5fa343ffe906e1001a03e95c/tile.jpg?fill=blur&fit=fill&fm=jpg&h=900&q=75&w=900"
+    },
+    {
+      "start": "2026-05-07T15:15:00+05:00",
+      "stop": "2026-05-07T16:15:00+05:00",
+      "title": "Air Disasters",
+      "sub_title": "Accident Or Assassination",
+      "desc": "When a government-chartered Learjet crashes into Mexico City, drug cartels are suspected, but there's more to the story.",
+      "date": "20170213",
+      "language": "en",
+      "categories": [
+        "Educational",
+        "Series",
+        "History"
+      ],
+      "episode": "S08E08",
+      "icon": "https://images.pluto.tv/series/5fa343ffe906e1001a03e95c/tile.jpg?fill=blur&fit=fill&fm=jpg&h=900&q=75&w=900"
+    },
+    {
+      "start": "2026-05-07T16:15:00+05:00",
+      "stop": "2026-05-07T17:15:00+05:00",
+      "title": "Air Disasters",
+      "sub_title": "Fatal Distraction",
+      "desc": "The crash of Eastern Airlines Flight 401 was the deadliest disaster in U.S. civil aviation history.",
+      "date": "20110724",
+      "language": "en",
+      "categories": [
+        "Series",
+        "Documentary"
+      ],
+      "episode": "S01E09",
       "icon": "https://images.pluto.tv/series/5fa343ffe906e1001a03e95c/tile.jpg?fill=blur&fit=fill&fm=jpg&h=900&q=75&w=900"
     }
   ]
