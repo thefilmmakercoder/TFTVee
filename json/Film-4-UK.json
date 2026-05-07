@@ -4,17 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-07T07:10:00+05:00",
-      "stop": "2026-05-07T11:00:00+05:00",
-      "title": "Teleshopping",
-      "desc": "Teleshopping.",
-      "language": "en",
-      "categories": [
-        "Specialist",
-        "Shopping"
-      ]
-    },
-    {
       "start": "2026-05-07T11:00:00+05:00",
       "stop": "2026-05-07T15:00:00+05:00",
       "title": "Teleshopping",
@@ -80,6 +69,20 @@
         "Sci-Fi"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/3067b130-14cf-45ab-837b-817cc808dda7/16-9"
+    },
+    {
+      "start": "2026-05-07T22:50:00+05:00",
+      "stop": "2026-05-08T01:00:00+05:00",
+      "title": "The League of Extraordinary Gentlemen",
+      "desc": "Fantasy with Sean Connery. In an alternative Victorian age, can Allan Quatermain, Dorian Gray, Captain Nemo, Mina Harker and the Invisible Man avert a war.",
+      "date": "2003",
+      "language": "en",
+      "rating": "PG",
+      "categories": [
+        "Movie",
+        "Fantasy"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/7dc9be89-d10c-4a0e-9ee4-97c190a1f4b7/16-9"
     }
   ]
 }

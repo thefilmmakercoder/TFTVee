@@ -4,41 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-07T04:20:00+05:00",
-      "stop": "2026-05-07T10:00:00+05:00",
-      "title": "BBC News",
-      "desc": "BBC One joins the BBC's rolling news channel for a night of news.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/429d029a-c415-46d8-8bb1-6aeefc5d4b9b/16-9"
-    },
-    {
-      "start": "2026-05-07T10:00:00+05:00",
-      "stop": "2026-05-07T13:30:00+05:00",
-      "title": "Breakfast",
-      "desc": "The latest news, sport, business and weather from the BBC's Breakfast team.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/1ccefbf1-92aa-43a9-840a-6bd8fe829243/16-9"
-    },
-    {
-      "start": "2026-05-07T13:30:00+05:00",
-      "stop": "2026-05-07T14:45:00+05:00",
-      "title": "Morning Live",
-      "desc": "Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier.",
-      "language": "en",
-      "categories": [
-        "Entertainment"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/9faf0a43-a90b-45d3-8360-cf99f3eeed1d/16-9"
-    },
-    {
       "start": "2026-05-07T14:45:00+05:00",
       "stop": "2026-05-07T15:30:00+05:00",
       "title": "Rip Off Britain",
@@ -73,6 +38,42 @@
         "Game Show"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/17ee5960-e90f-40a3-b192-48644aa1e1e2/16-9"
+    },
+    {
+      "start": "2026-05-07T17:00:00+05:00",
+      "stop": "2026-05-07T18:00:00+05:00",
+      "title": "BBC News at One including BBC London News",
+      "desc": "The latest national and international news from the BBC.",
+      "language": "en",
+      "categories": [
+        "News & Documentary",
+        "News"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/c57d283c-531c-4e54-b7a1-06bdae95a55d/16-9"
+    },
+    {
+      "start": "2026-05-07T18:00:00+05:00",
+      "stop": "2026-05-07T18:30:00+05:00",
+      "title": "Scam Interceptors",
+      "desc": "The team are forced to dispatch their ground interceptors to save a woman in Essex from a devious scammer posing as PayPal.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Factual"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/a00b0713-c7df-4f1b-823f-34c4d2237b1d/16-9"
+    },
+    {
+      "start": "2026-05-07T18:30:00+05:00",
+      "stop": "2026-05-07T19:30:00+05:00",
+      "title": "Attenborough and the Mammoth Graveyard",
+      "desc": "Sir David Attenborough joins archaeologists excavating mammoth remains near Swindon to discover whether Neanderthals might have killed the Ice Age beasts.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Factual"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/61c54bbc-61f8-4950-b439-7ac3b87fd110/16-9"
     }
   ]
 }

@@ -4,74 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-07T11:00:00+05:00",
-      "stop": "2026-05-07T12:00:00+05:00",
-      "title": "Seven News At 4",
-      "sub_title": "Thursday 7 May 2026",
-      "desc": "Seven News live coverage of local, national and international news, plus sport, finance and weather updates. Go to 7NEWS.com.au today for more live updates.",
-      "language": "en",
-      "rating": "NR",
-      "categories": [
-        "Sports"
-      ],
-      "episode": "S26 E91",
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/301586/image/334x188"
-    },
-    {
-      "start": "2026-05-07T12:00:00+05:00",
-      "stop": "2026-05-07T13:00:00+05:00",
-      "title": "The Chase Australia",
-      "desc": "Hosted by Larry Emdur, The Chase is a general knowledge race where players must ensure they stay one step ahead of the Chaser, some of the finest quiz brains in Australia. The Chase is on...",
-      "language": "en",
-      "rating": "G",
-      "categories": [
-        "Special Interest"
-      ],
-      "episode": "S16 E11",
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/334281/image/334x188"
-    },
-    {
-      "start": "2026-05-07T13:00:00+05:00",
-      "stop": "2026-05-07T14:00:00+05:00",
-      "title": "Seven News",
-      "sub_title": "Thursday 7 May 2026",
-      "desc": "Seven News live coverage of local, national and international news, plus sport, finance and weather updates. Go to 7NEWS.com.au today for more live updates.",
-      "language": "en",
-      "rating": "NR",
-      "categories": [
-        "Sports"
-      ],
-      "episode": "S26 E127",
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/17255383/image/334x188"
-    },
-    {
-      "start": "2026-05-07T14:00:00+05:00",
-      "stop": "2026-05-07T14:30:00+05:00",
-      "title": "Home and Away",
-      "desc": "Justin runs into Bree and Remi, desperate to get a message to Theo. Remi agrees, as long as Justin shows up to help Kirby through her songwriting stumbles and Justin agrees.",
-      "language": "en",
-      "rating": "PG",
-      "categories": [
-        "Drama"
-      ],
-      "episode": "S38 E76",
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/132225/image/334x188"
-    },
-    {
-      "start": "2026-05-07T14:30:00+05:00",
-      "stop": "2026-05-07T15:00:00+05:00",
-      "title": "Highway Patrol",
-      "sub_title": "Precision Policing",
-      "desc": "A car thief is hitting speeds of 190 kilometres per hour and police need to catch him before he reaches a school zone just as class is getting out. A golfer rides the streets in his golf buggy.",
-      "language": "en",
-      "rating": "PG",
-      "categories": [
-        "Special Interest"
-      ],
-      "episode": "S14 E1",
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/244488/image/334x188"
-    },
-    {
       "start": "2026-05-07T15:00:00+05:00",
       "stop": "2026-05-07T15:30:00+05:00",
       "title": "Motorway Patrol",
@@ -83,6 +15,73 @@
       ],
       "episode": "S22 E10",
       "icon": "https://www.fetchtv.com.au/v2/epg/program/123160/image/334x188"
+    },
+    {
+      "start": "2026-05-07T15:30:00+05:00",
+      "stop": "2026-05-07T17:30:00+05:00",
+      "title": "Britain's Got Talent",
+      "sub_title": "Live Show 1, Semi Final 1",
+      "desc": "The semi-finals are here! Who will impress and progress, and who will be going home as superstar judges Simon Cowell, Amanda Holden, Alesha Dixon and KSI seek out the next big thing?",
+      "language": "en",
+      "rating": "PG",
+      "categories": [
+        "Special Interest"
+      ],
+      "episode": "S19 E9",
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/312248/image/334x188"
+    },
+    {
+      "start": "2026-05-07T17:30:00+05:00",
+      "stop": "2026-05-07T18:30:00+05:00",
+      "title": "TBA",
+      "desc": "TBA.",
+      "language": "en",
+      "rating": "NR",
+      "categories": [
+        "Sports"
+      ],
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/3647443/image/334x188"
+    },
+    {
+      "start": "2026-05-07T18:30:00+05:00",
+      "stop": "2026-05-07T19:30:00+05:00",
+      "title": "Code Blue: One Punch Killers",
+      "desc": "Explores the issue of one-punch killings after there were a reported 82 deaths of this type across the UK over the past five years. With rare access to detectives, we look at three cases in detail.",
+      "language": "en",
+      "rating": "M",
+      "categories": [
+        "Special Interest"
+      ],
+      "episode": "S4 E1",
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/8946820/image/334x188"
+    },
+    {
+      "start": "2026-05-07T19:30:00+05:00",
+      "stop": "2026-05-07T20:30:00+05:00",
+      "title": "New Amsterdam",
+      "sub_title": "Three Dots",
+      "desc": "A patient's treatment plan takes an unexpected turn when Max (Ryan Eggold) gets overly invested. Meanwhile, Reynolds (Jocko Sims) celebrates his birthday with some help from the hospital and Kapoor (Anupam Kher) grapples with a case that hits close to home.",
+      "language": "en",
+      "rating": "MA",
+      "categories": [
+        "Drama"
+      ],
+      "episode": "S1 E8",
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/381430/image/334x188"
+    },
+    {
+      "start": "2026-05-07T20:30:00+05:00",
+      "stop": "2026-05-07T21:00:00+05:00",
+      "title": "Harry's Practice",
+      "sub_title": "Baby Animals Special",
+      "desc": "Join Dr Harry Cooper and Dr Katrina Warren for everything you need to know about animals.",
+      "language": "en",
+      "rating": "G",
+      "categories": [
+        "Special Interest"
+      ],
+      "episode": "S1 E109",
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/132203/image/334x188"
     }
   ]
 }

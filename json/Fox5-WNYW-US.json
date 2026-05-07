@@ -4,59 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-07T12:00:00+05:00",
-      "stop": "2026-05-07T12:30:00+05:00",
-      "title": "Paid Programming",
-      "desc": "Paid programming.",
-      "language": "en",
-      "rating": "TVG",
-      "categories": [
-        "Consumer",
-        "Shopping",
-        "Variety"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-07T12:30:00+05:00",
-      "stop": "2026-05-07T13:00:00+05:00",
-      "title": "Paid Programming",
-      "desc": "Paid programming.",
-      "language": "en",
-      "rating": "TVG",
-      "categories": [
-        "Consumer",
-        "Shopping",
-        "Variety"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-07T13:00:00+05:00",
-      "stop": "2026-05-07T13:30:00+05:00",
-      "title": "Good Night New York",
-      "desc": "Christal Young and Ryan Kristafer's edgy perspective on entertainment and lifestyle news in NYC and beyond.",
-      "date": "2024",
-      "language": "en",
-      "rating": "TV14",
-      "categories": [
-        "Newsmagazine"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p27878460_b_h8_aa.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-07T13:30:00+05:00",
-      "stop": "2026-05-07T14:00:00+05:00",
-      "title": "Good Day Wake Up",
-      "desc": "Morning news coverage.",
-      "date": "2009",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p706488_b_h8_ab.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-05-07T14:00:00+05:00",
       "stop": "2026-05-07T15:00:00+05:00",
       "title": "Good Day Wake Up",
@@ -79,6 +26,76 @@
         "News"
       ],
       "icon": "http://dtil.tmsimg.com/assets/p706489_b_h8_ab.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-07T16:00:00+05:00",
+      "stop": "2026-05-07T18:00:00+05:00",
+      "title": "Good Day New York",
+      "desc": "Morning news.",
+      "date": "2007",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p706448_b_h8_ab.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-07T18:00:00+05:00",
+      "stop": "2026-05-07T19:00:00+05:00",
+      "title": "Good Day New York",
+      "desc": "Morning news.",
+      "date": "2007",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p706448_b_h8_ab.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-07T19:00:00+05:00",
+      "stop": "2026-05-07T20:00:00+05:00",
+      "title": "Sherri",
+      "sub_title": "Taraji P. Henson; Kellee Stewart",
+      "desc": "Sherri kicks off the show with laughs in The Stand-Up Spot; actress Taraji P. Henson tells Sherri about starring in August Wilson's \"Joe Turner's Come and Gone\" on Broadway and joins Sherri for a special Mother's Day show; actress Kellee Stewart discusses her fertility journey; gifts for all moms from beauty and lifestyle expert Milly Almodovar.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Talk",
+        "Interview"
+      ],
+      "episode": "S4 E128",
+      "icon": "http://dtil.tmsimg.com/assets/p21805765_b_h8_ab.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Sherri Shepherd",
+          "Taraji P. Henson",
+          "Kellee Stewart"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-07T20:00:00+05:00",
+      "stop": "2026-05-07T21:00:00+05:00",
+      "title": "The Jennifer Hudson Show",
+      "desc": "Actor and rapper Daveed Diggs stops by to chat about his new album, \"Magic Hour\"; Jennifer welcomes Dr. Lucille O'Neal and Jolinda Wade, the mothers of NBA legends Shaquille O'Neal and Dwyane Wade; Dr. O'Neal talks about her book \"While I Have Your Attention: It's Never Too Late for a New Beginning.\".",
+      "date": "2026",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Talk"
+      ],
+      "episode": "S4 E133",
+      "icon": "http://dtil.tmsimg.com/assets/p31041660_b_h8_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Jennifer Hudson",
+          "Daveed Diggs",
+          "Lucille O'Neal"
+        ]
+      }
     }
   ]
 }

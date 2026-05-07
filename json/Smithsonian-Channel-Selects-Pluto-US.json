@@ -4,53 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-07T11:15:00+05:00",
-      "stop": "2026-05-07T12:15:00+05:00",
-      "title": "Aerial America",
-      "sub_title": "Vermont",
-      "desc": "This aerial tour over Vermont captures the beauty and history of a state that chose its own path.",
-      "date": "20100815",
-      "language": "en",
-      "categories": [
-        "Educational",
-        "Series",
-        "History"
-      ],
-      "episode": "S01E06",
-      "icon": "https://images.pluto.tv/series/5fa34413e906e1001a03ed7a/tile_1768515844446.jpg?fill=blur&fit=fill&fm=jpg&h=900&q=75&w=900"
-    },
-    {
-      "start": "2026-05-07T12:15:00+05:00",
-      "stop": "2026-05-07T13:15:00+05:00",
-      "title": "Air Disasters",
-      "sub_title": "I'm the Problem",
-      "desc": "I'm the problem. These are the last words heard on the cockpit voice recording of Pacific Southwest Airlines Flight 1771.",
-      "date": "20130318",
-      "language": "en",
-      "categories": [
-        "Educational",
-        "Series",
-        "History"
-      ],
-      "episode": "S03E03",
-      "icon": "https://images.pluto.tv/series/5fa343ffe906e1001a03e95c/tile.jpg?fill=blur&fit=fill&fm=jpg&h=900&q=75&w=900"
-    },
-    {
-      "start": "2026-05-07T13:15:00+05:00",
-      "stop": "2026-05-07T14:15:00+05:00",
-      "title": "Air Disasters",
-      "sub_title": "Pilot vs. Plane",
-      "desc": "The 1988 crash of an Airbus A320 at an airshow sets off a public battle between investigators and the plane's pilot.",
-      "date": "20120729",
-      "language": "en",
-      "categories": [
-        "Series",
-        "Documentary"
-      ],
-      "episode": "S02E07",
-      "icon": "https://images.pluto.tv/series/5fa343ffe906e1001a03e95c/tile.jpg?fill=blur&fit=fill&fm=jpg&h=900&q=75&w=900"
-    },
-    {
       "start": "2026-05-07T14:15:00+05:00",
       "stop": "2026-05-07T15:15:00+05:00",
       "title": "Air Disasters",
@@ -59,8 +12,8 @@
       "date": "20140609",
       "language": "en",
       "categories": [
-        "Series",
-        "Documentary"
+        "Documentary",
+        "Series"
       ],
       "episode": "S04E06",
       "icon": "https://images.pluto.tv/series/5fa343ffe906e1001a03e95c/tile.jpg?fill=blur&fit=fill&fm=jpg&h=900&q=75&w=900"
@@ -75,8 +28,8 @@
       "language": "en",
       "categories": [
         "Educational",
-        "Series",
-        "History"
+        "History",
+        "Series"
       ],
       "episode": "S08E08",
       "icon": "https://images.pluto.tv/series/5fa343ffe906e1001a03e95c/tile.jpg?fill=blur&fit=fill&fm=jpg&h=900&q=75&w=900"
@@ -90,11 +43,59 @@
       "date": "20110724",
       "language": "en",
       "categories": [
-        "Series",
-        "Documentary"
+        "Documentary",
+        "Series"
       ],
       "episode": "S01E09",
       "icon": "https://images.pluto.tv/series/5fa343ffe906e1001a03e95c/tile.jpg?fill=blur&fit=fill&fm=jpg&h=900&q=75&w=900"
+    },
+    {
+      "start": "2026-05-07T17:15:00+05:00",
+      "stop": "2026-05-07T18:15:00+05:00",
+      "title": "Aerial America",
+      "sub_title": "Massachusetts",
+      "desc": "Take a flight over Massachusetts, the birthplace of revolutionaries, spanning hundreds of years and just as many spectacular sights.",
+      "date": "20110801",
+      "language": "en",
+      "categories": [
+        "Educational",
+        "History",
+        "Series"
+      ],
+      "episode": "S01E12",
+      "icon": "https://images.pluto.tv/series/5fa34413e906e1001a03ed7a/tile_1768515844446.jpg?fill=blur&fit=fill&fm=jpg&h=900&q=75&w=900"
+    },
+    {
+      "start": "2026-05-07T18:15:00+05:00",
+      "stop": "2026-05-07T19:15:00+05:00",
+      "title": "Aerial America",
+      "sub_title": "Connecticut",
+      "desc": "From sleeping giants to Captain Kidd's buried treasure, Connecticut isn't as quaint as you think.",
+      "date": "20100801",
+      "language": "en",
+      "categories": [
+        "Educational",
+        "History",
+        "Series"
+      ],
+      "episode": "S01E04",
+      "icon": "https://images.pluto.tv/series/5fa34413e906e1001a03ed7a/tile_1768515844446.jpg?fill=blur&fit=fill&fm=jpg&h=900&q=75&w=900"
+    },
+    {
+      "start": "2026-05-07T19:15:00+05:00",
+      "stop": "2026-05-07T20:15:00+05:00",
+      "title": "Aerial America",
+      "sub_title": "Oklahoma",
+      "desc": "This flight over Oklahoma is the home of famous \"Okies\" Will Rogers, Brad Pitt, and Geronimo.",
+      "date": "20121119",
+      "language": "en",
+      "categories": [
+        "Educational",
+        "History",
+        "Series"
+      ],
+      "episode": "S01E29",
+      "icon": "https://images.pluto.tv/series/5fa34413e906e1001a03ed7a/tile_1768515844446.jpg?fill=blur&fit=fill&fm=jpg&h=900&q=75&w=900"
     }
   ]
 }
