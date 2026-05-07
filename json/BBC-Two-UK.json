@@ -4,18 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-08T02:30:00+05:00",
-      "stop": "2026-05-08T03:00:00+05:00",
-      "title": "Newsnight, followed by Weather",
-      "desc": "Insights and global interviews on the crucial news stories of the day. Followed by Weather.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/5f30516c-94f0-440b-8a4c-d3ebef5f575a/16-9"
-    },
-    {
       "start": "2026-05-08T03:00:00+05:00",
       "stop": "2026-05-08T04:00:00+05:00",
       "title": "Surgeons: At the Edge of Life",
@@ -73,6 +61,13 @@
         "Detective"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/bbcac142-9980-4feb-ba4a-10aefe831387/16-9"
+    },
+    {
+      "start": "2026-05-08T07:30:00+05:00",
+      "stop": "2026-05-08T10:30:00+05:00",
+      "title": "This is BBC Two",
+      "desc": "Highlights of programmes on BBC Two.",
+      "language": "en"
     }
   ]
 }

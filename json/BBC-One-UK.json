@@ -4,18 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-08T02:30:00+05:00",
-      "stop": "2026-05-08T02:40:00+05:00",
-      "title": "BBC London News",
-      "desc": "The latest news, sport and weather from London.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/6ce95b51-e558-4163-9fa5-dcb3b6ef1492/16-9"
-    },
-    {
       "start": "2026-05-08T02:40:00+05:00",
       "stop": "2026-05-08T03:10:00+05:00",
       "title": "Would I Lie to You?",
@@ -74,6 +62,18 @@
         "News"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/d22f8fbc-a0a9-4d13-a40e-0a7b7b107d19/16-9"
+    },
+    {
+      "start": "2026-05-08T18:00:00+05:00",
+      "stop": "2026-05-08T21:00:00+05:00",
+      "title": "Election 26",
+      "desc": "Laura Kuenssberg returns with extended coverage of the results of this year's council elections.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Factual"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/83af8d83-b498-49e3-a7d4-002642c5411b/16-9"
     }
   ]
 }

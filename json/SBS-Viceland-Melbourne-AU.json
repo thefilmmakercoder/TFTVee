@@ -4,32 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-08T02:50:00+05:00",
-      "stop": "2026-05-08T03:00:00+05:00",
-      "title": "France 24 Feature",
-      "sub_title": "First Edition",
-      "desc": "News feature in English from France 24, Paris.",
-      "language": "en",
-      "rating": "NR",
-      "categories": [
-        "Sports"
-      ],
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/337182/image/334x188"
-    },
-    {
-      "start": "2026-05-08T03:00:00+05:00",
-      "stop": "2026-05-08T03:10:00+05:00",
-      "title": "Euronews",
-      "sub_title": "Friday 8 May 2026",
-      "desc": "Headlines, Breaking News & Analysis from the Euronews news centre in Brussels, Belgium, in English.",
-      "language": "en",
-      "rating": "NR",
-      "categories": [
-        "Sports"
-      ],
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/276/image/334x188"
-    },
-    {
       "start": "2026-05-08T03:10:00+05:00",
       "stop": "2026-05-08T03:40:00+05:00",
       "title": "NHK Newsline",
@@ -79,6 +53,32 @@
         "Sports"
       ],
       "icon": "https://www.fetchtv.com.au/v2/epg/program/310649/image/334x188"
+    },
+    {
+      "start": "2026-05-08T05:30:00+05:00",
+      "stop": "2026-05-08T06:00:00+05:00",
+      "title": "The Movie Show",
+      "desc": "Film review with David Stratton and Margaret Pomeranz. Covers Orlando with Sally Potter, Pat Garrett and Billy the Kid, on-set report for Exile, and El Mariachi, plus cast interviews.",
+      "language": "en",
+      "rating": "NR",
+      "categories": [
+        "Special Interest"
+      ],
+      "episode": "E20",
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/130483/image/334x188"
+    },
+    {
+      "start": "2026-05-08T06:00:00+05:00",
+      "stop": "2026-05-08T06:30:00+05:00",
+      "title": "The Movie Show",
+      "desc": "Film review with Margaret Pomeranz and David Stratton. Covers Cliffhanger with Sylvester Stallone, Nitrate Kisses, Guilty as Sin, and Mad Dog and Glory with Uma Thurman & John McNaughton.",
+      "language": "en",
+      "rating": "PG",
+      "categories": [
+        "Special Interest"
+      ],
+      "episode": "E21",
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/130483/image/334x188"
     }
   ]
 }
