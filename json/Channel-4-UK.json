@@ -4,30 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-08T23:00:00+05:00",
-      "stop": "2026-05-09T00:00:00+05:00",
-      "title": "Channel 4 News",
-      "desc": "Channel 4's flagship news programme. Including the weather.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/11f49dfc-50cc-4ad7-ae0b-88335bf1d94d/16-9"
-    },
-    {
-      "start": "2026-05-09T00:00:00+05:00",
-      "stop": "2026-05-09T01:00:00+05:00",
-      "title": "Perfect Pub Walks with Alexander Armstrong",
-      "desc": "Chris Packham joins Xander for an exciting excursion in Kent, exploring battlefields and castles, and chatting about life's challenges.",
-      "language": "en",
-      "categories": [
-        "Entertainment",
-        "Lifestyles"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/a6518d13-a8c1-4465-a727-b2df6fd880e7/16-9"
-    },
-    {
       "start": "2026-05-09T01:00:00+05:00",
       "stop": "2026-05-09T02:00:00+05:00",
       "title": "Gogglebox",
@@ -74,6 +50,33 @@
         "Game Show"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/7545b7b8-672c-404f-8f6a-f0b55abbdf06/16-9"
+    },
+    {
+      "start": "2026-05-09T05:05:00+05:00",
+      "stop": "2026-05-09T06:35:00+05:00",
+      "title": "Good Boys",
+      "desc": "Coming-of-age comedy about three young boys embarking on a brand new, terrifying adventure: sixth grade. Girls, kissing and an epic four-mile journey await.",
+      "date": "2019",
+      "language": "en",
+      "rating": "15",
+      "categories": [
+        "Movie",
+        "Comedy"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/52e81425-d41f-4a35-afd7-65cb58edc600/16-9"
+    },
+    {
+      "start": "2026-05-09T06:35:00+05:00",
+      "stop": "2026-05-09T07:25:00+05:00",
+      "title": "Ramsay's Kitchen Nightmares USA",
+      "sub_title": "Old Neighborhood",
+      "desc": "Gordon visits Arvada in Colorado, where out-of-control hoarder Randy and his wife Alexa have allowed their restaurant Old Neighborhood to fall into disrepair.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Cooking"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/2cf6f15f-b105-33a2-90c7-9977e972b633/16-9"
     }
   ]
 }

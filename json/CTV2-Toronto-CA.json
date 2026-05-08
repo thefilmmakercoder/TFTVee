@@ -4,49 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-08T23:00:00+05:00",
-      "stop": "2026-05-09T00:00:00+05:00",
-      "title": "TMZ Live",
-      "desc": "A candid look at how the gossip site operates, bringing viewers into the site's newsroom, where the daily chats take place; viewers present their opinions on the featured topics through social media, phone calls and video chat.",
-      "date": "2026",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Series",
-        "Newsmagazine",
-        "Entertainment"
-      ],
-      "episode": "S14 E180",
-      "icon": "http://dtil.tmsimg.com/assets/p9132568_b_h10_ab.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Harvey Levin"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-09T00:00:00+05:00",
-      "stop": "2026-05-09T01:00:00+05:00",
-      "title": "The Social",
-      "desc": "Foolproof recipes for Mother's Day!",
-      "date": "2026",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Series",
-        "Talk"
-      ],
-      "episode": "S13 E158",
-      "icon": "http://dtil.tmsimg.com/assets/p10115884_b_h8_ah.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Melissa Grelo",
-          "Cynthia Loyst",
-          "Andrea Bain"
-        ]
-      }
-    },
-    {
       "start": "2026-05-09T01:00:00+05:00",
       "stop": "2026-05-09T02:00:00+05:00",
       "title": "The Good Stuff With Mary Berg",
@@ -123,6 +80,31 @@
         "News"
       ],
       "icon": "http://dtil.tmsimg.com/assets/p11226354_b_h8_ad.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-09T04:00:00+05:00",
+      "stop": "2026-05-09T04:30:00+05:00",
+      "title": "Live: Toronto Tempo Basketball Pregame",
+      "desc": "Pregame coverage for the Toronto Tempo women's basketball team.",
+      "date": "2026",
+      "language": "en",
+      "categories": [
+        "Special",
+        "Basketball"
+      ],
+      "icon": "http://dtil.tmsimg.com/tvbanners/generic/generic_tvbanners_h12.png"
+    },
+    {
+      "start": "2026-05-09T04:30:00+05:00",
+      "stop": "2026-05-09T06:30:00+05:00",
+      "title": "Live: WNBA Basketball",
+      "desc": "The Toronto Tempo welcome the Washington Mystics in a regular-season Eastern Conference showdown. Toronto battles Washington as the debutants look to score early against their opponents to establish a new foothold in this matchup.",
+      "language": "en",
+      "categories": [
+        "Sports",
+        "Basketball"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/GNLZZGG00321ZWH.jpg?w=960&h=540"
     }
   ]
 }
