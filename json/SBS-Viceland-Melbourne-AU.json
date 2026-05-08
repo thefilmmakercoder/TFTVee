@@ -4,57 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-08T03:10:00+05:00",
-      "stop": "2026-05-08T03:40:00+05:00",
-      "title": "NHK Newsline",
-      "sub_title": "Friday 8 May 2026",
-      "desc": "English news from Japan's Broadcasting Corporation, NHK, delivering the latest in business, technology, health, environmental and world news.",
-      "language": "en",
-      "rating": "NR",
-      "categories": [
-        "Sports"
-      ],
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/439062/image/334x188"
-    },
-    {
-      "start": "2026-05-08T03:40:00+05:00",
-      "stop": "2026-05-08T04:30:00+05:00",
-      "title": "Cbc The National",
-      "desc": "CBC's flagship nightly news with hosts Adrienne Arsenault and Andrew Chang from Toronto, Canada.",
-      "language": "en",
-      "rating": "NR",
-      "categories": [
-        "Sports"
-      ],
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/413666/image/334x188"
-    },
-    {
-      "start": "2026-05-08T04:30:00+05:00",
-      "stop": "2026-05-08T05:00:00+05:00",
-      "title": "BBC News At Six",
-      "sub_title": "Friday 8 May 2026",
-      "desc": "The latest national and international news stories from the BBC News team from London, UK, in English.",
-      "language": "en",
-      "rating": "NR",
-      "categories": [
-        "Sports"
-      ],
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/11514500/image/334x188"
-    },
-    {
-      "start": "2026-05-08T05:00:00+05:00",
-      "stop": "2026-05-08T05:30:00+05:00",
-      "title": "France 24 English News",
-      "sub_title": "France 24 Eng. 1000 Viceland",
-      "desc": "International news and current affairs television from Paris, offering a French perspective on world events, in English.",
-      "language": "en",
-      "rating": "NR",
-      "categories": [
-        "Sports"
-      ],
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/310649/image/334x188"
-    },
-    {
       "start": "2026-05-08T05:30:00+05:00",
       "stop": "2026-05-08T06:00:00+05:00",
       "title": "The Movie Show",
@@ -79,6 +28,60 @@
       ],
       "episode": "E21",
       "icon": "https://www.fetchtv.com.au/v2/epg/program/130483/image/334x188"
+    },
+    {
+      "start": "2026-05-08T06:30:00+05:00",
+      "stop": "2026-05-08T07:05:00+05:00",
+      "title": "The Movie Show",
+      "desc": "Film review with Mathew Leonard and Margaret Pomeranz. Covers The Firm, The Adjuster, Guncrazy, and On the Bridge with director Frank Perry interview.",
+      "language": "en",
+      "rating": "PG",
+      "categories": [
+        "Special Interest"
+      ],
+      "episode": "E22",
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/130483/image/334x188"
+    },
+    {
+      "start": "2026-05-08T07:05:00+05:00",
+      "stop": "2026-05-08T07:35:00+05:00",
+      "title": "DW The Day",
+      "sub_title": "Friday 8 May 2026",
+      "desc": "DW The Day is a news show that helps you understand emerging stories from Europe, the US and across the globe, in English, no subtitles.",
+      "language": "en",
+      "rating": "NR",
+      "categories": [
+        "Sports"
+      ],
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/436904/image/334x188"
+    },
+    {
+      "start": "2026-05-08T07:35:00+05:00",
+      "stop": "2026-05-08T09:10:00+05:00",
+      "title": "Land Of The Giants: Titans Of Tech",
+      "sub_title": "Google",
+      "desc": "Google has arguably become the most powerful company the world has ever known. But what does Google know about us, and what is it doing with that information?",
+      "language": "en",
+      "rating": "M",
+      "categories": [
+        "Special Interest"
+      ],
+      "episode": "S1 E3",
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/1211346/image/334x188"
+    },
+    {
+      "start": "2026-05-08T09:10:00+05:00",
+      "stop": "2026-05-08T09:30:00+05:00",
+      "title": "The Swiping Game",
+      "sub_title": "Love Me, Love My Anxiety",
+      "desc": "What happens when you're trying to put forward your best happy face to a prospective date on Tinder but you're spiralling into a panic attack?",
+      "language": "en",
+      "rating": "M",
+      "categories": [
+        "Special Interest"
+      ],
+      "episode": "S2 E1",
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/409989/image/334x188"
     }
   ]
 }

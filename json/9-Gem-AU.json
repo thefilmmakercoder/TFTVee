@@ -4,19 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-08T02:30:00+05:00",
-      "stop": "2026-05-08T03:00:00+05:00",
-      "title": "CruiseAway",
-      "desc": "Join Derek & Jo from CruiseAway explore incredible cruises from around the world.",
-      "language": "en",
-      "rating": "PG",
-      "categories": [
-        "Special Interest"
-      ],
-      "episode": "S1 E9",
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/415884/image/334x188"
-    },
-    {
       "start": "2026-05-08T03:00:00+05:00",
       "stop": "2026-05-08T05:30:00+05:00",
       "title": "TV Shop - Home Shopping",
@@ -81,6 +68,18 @@
       ],
       "episode": "S1 E6",
       "icon": "https://www.fetchtv.com.au/v2/epg/program/6021487/image/334x188"
+    },
+    {
+      "start": "2026-05-08T08:00:00+05:00",
+      "stop": "2026-05-08T10:30:00+05:00",
+      "title": "Bonnie Prince Charlie",
+      "desc": "Exiled prince Charles Edward Stuart raises a force of loyal Scottish followers to seize the English crown in this epic costume drama set in the 1700s.",
+      "language": "en",
+      "rating": "G",
+      "categories": [
+        "Drama"
+      ],
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/4971863/image/334x188"
     }
   ]
 }

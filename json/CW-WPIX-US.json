@@ -4,67 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-08T03:30:00+05:00",
-      "stop": "2026-05-08T04:00:00+05:00",
-      "title": "PIX11 Evening News",
-      "desc": "Staying informed with the news and headlines.",
-      "date": "2022",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p21846983_b_h8_aa.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-08T04:00:00+05:00",
-      "stop": "2026-05-08T04:30:00+05:00",
-      "title": "Seinfeld",
-      "sub_title": "The Boyfriend",
-      "desc": "Jerry's baseball hero, Keith Hernandez, falls for Elaine; George schemes to extend his unemployment benefits.",
-      "date": "1992",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Series",
-        "Sitcom"
-      ],
-      "episode": "S3 E18 P2/2",
-      "icon": "http://dtil.tmsimg.com/assets/p183875_b_h10_ab.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Jerry Seinfeld",
-          "Julia Louis-Dreyfus",
-          "Jason Alexander"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-08T04:30:00+05:00",
-      "stop": "2026-05-08T05:00:00+05:00",
-      "title": "The Big Bang Theory",
-      "sub_title": "The Electric Can Opener Fluctuation",
-      "desc": "After tampering with Sheldon's Arctic-expedition data, the guys follow him back to Texas, which threatens Leonard's chances for romance with Penny.",
-      "date": "2009",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Series",
-        "Sitcom"
-      ],
-      "episode": "S3 E1",
-      "icon": "http://dtil.tmsimg.com/assets/p7895968_b_h10_aa.jpg?w=960&h=540",
-      "credits": {
-        "director": [
-          "Mark Cendrowski"
-        ],
-        "actor": [
-          "Johnny Galecki",
-          "Jim Parsons",
-          "Kaley Cuoco"
-        ]
-      }
-    },
-    {
       "start": "2026-05-08T05:00:00+05:00",
       "stop": "2026-05-08T06:00:00+05:00",
       "title": "Scrabble",
@@ -117,6 +56,66 @@
         "News"
       ],
       "icon": "http://dtil.tmsimg.com/assets/p10829690_b_h8_ab.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-08T08:00:00+05:00",
+      "stop": "2026-05-08T08:30:00+05:00",
+      "title": "New York Nightcap",
+      "date": "2025",
+      "language": "en",
+      "categories": [
+        "Community"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p31821949_st_h10_aa.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-08T08:30:00+05:00",
+      "stop": "2026-05-08T09:00:00+05:00",
+      "title": "Seinfeld",
+      "sub_title": "The Glasses",
+      "desc": "George and Elaine go to an optician after George loses his glasses at his health club; Elaine fears she has rabies after being bitten by a dog.",
+      "date": "1993",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Sitcom"
+      ],
+      "episode": "S5 E3",
+      "icon": "http://dtil.tmsimg.com/assets/p183875_b_h10_ab.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Tom Cherones"
+        ],
+        "actor": [
+          "Jerry Seinfeld",
+          "Jason Alexander",
+          "Michael Richards"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-08T09:00:00+05:00",
+      "stop": "2026-05-08T09:30:00+05:00",
+      "title": "Friends",
+      "sub_title": "The One With the Birth",
+      "desc": "When Carol gives birth, Ross and Susan almost miss the event; Joey befriends an unmarried pregnant woman.",
+      "date": "1995",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Sitcom"
+      ],
+      "episode": "S1 E23",
+      "icon": "http://dtil.tmsimg.com/assets/p7892576_b_h11_ab.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Jennifer Aniston",
+          "Courteney Cox",
+          "Lisa Kudrow"
+        ]
+      }
     }
   ]
 }

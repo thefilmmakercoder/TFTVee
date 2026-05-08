@@ -4,24 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-08T03:30:00+05:00",
-      "stop": "2026-05-08T04:00:00+05:00",
-      "title": "BBC World News America",
-      "desc": "A detailed look into news stories from around the world from the BBC news desk in Washington, D.C.",
-      "date": "2026",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p32402912_b_h10_aa.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Sumi Somaskanda",
-          "Caitr\u00edona Perry"
-        ]
-      }
-    },
-    {
       "start": "2026-05-08T04:00:00+05:00",
       "stop": "2026-05-08T05:00:00+05:00",
       "title": "PBS News Hour",
@@ -130,6 +112,20 @@
           "Steve Adubato"
         ]
       }
+    },
+    {
+      "start": "2026-05-08T09:30:00+05:00",
+      "stop": "2026-05-08T11:00:00+05:00",
+      "title": "October Shadows: An Exploration of Trauma and Healing After October 7",
+      "desc": "The ramifications of the October 7 Hamas attacks on Israeli survivors and families who lost loved ones.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Special",
+        "Documentary"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p32382245_b_h8_aa.jpg?w=960&h=540"
     }
   ]
 }
