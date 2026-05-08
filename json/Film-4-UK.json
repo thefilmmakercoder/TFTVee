@@ -4,17 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-08T11:00:00+05:00",
-      "stop": "2026-05-08T15:00:00+05:00",
-      "title": "Teleshopping",
-      "desc": "Teleshopping.",
-      "language": "en",
-      "categories": [
-        "Specialist",
-        "Shopping"
-      ]
-    },
-    {
       "start": "2026-05-08T15:00:00+05:00",
       "stop": "2026-05-08T17:40:00+05:00",
       "title": "Twelve O'Clock High",
@@ -83,6 +72,20 @@
         "Action"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/64aadc56-3b44-40b1-8ddc-936aeae58c5c/16-9"
+    },
+    {
+      "start": "2026-05-09T03:35:00+05:00",
+      "stop": "2026-05-09T05:40:00+05:00",
+      "title": "Warlock",
+      "desc": "Fantasy horror with Julian Sands and Richard E Grant. Using magic, an evil warlock flees to 80s LA from the olde-worlde. Can he unmake creation before a witch-finder tracks him down.",
+      "date": "1989",
+      "language": "en",
+      "rating": "15",
+      "categories": [
+        "Movie",
+        "Fantasy"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/030af43e-52b8-422f-ba94-277afe8dc812/16-9"
     }
   ]
 }

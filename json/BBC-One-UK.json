@@ -4,30 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-08T10:00:00+05:00",
-      "stop": "2026-05-08T13:30:00+05:00",
-      "title": "Breakfast",
-      "desc": "The latest news, sport, business and weather from the BBC's Breakfast team.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/a50b0b71-9cf0-4ca6-a2d0-4ffc59cbbb7b/16-9"
-    },
-    {
-      "start": "2026-05-08T13:30:00+05:00",
-      "stop": "2026-05-08T17:00:00+05:00",
-      "title": "Election 26",
-      "desc": "Sophie Raworth presents comprehensive coverage of the results of this year's council elections.",
-      "language": "en",
-      "categories": [
-        "Entertainment",
-        "Factual"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/8bc45c72-841f-47b9-9d1e-5e26caa684f3/16-9"
-    },
-    {
       "start": "2026-05-08T17:00:00+05:00",
       "stop": "2026-05-08T18:00:00+05:00",
       "title": "BBC News at One including BBC London News",
@@ -74,6 +50,30 @@
         "News"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/b2d88d4b-23e1-47ed-b082-1499f2c41dde/16-9"
+    },
+    {
+      "start": "2026-05-08T22:30:00+05:00",
+      "stop": "2026-05-08T23:00:00+05:00",
+      "title": "BBC London News",
+      "desc": "The latest news, sport and weather from London.",
+      "language": "en",
+      "categories": [
+        "News & Documentary",
+        "News"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/5c958965-98a8-4480-bbc2-51bc79a85af6/16-9"
+    },
+    {
+      "start": "2026-05-08T23:00:00+05:00",
+      "stop": "2026-05-08T23:30:00+05:00",
+      "title": "Election 26",
+      "desc": "Laura Kuenssberg and Sophie Raworth look back at a dramatic day in British politics.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Factual"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/e1b005b3-1ef8-4035-b65e-2ccc725f334f/16-9"
     }
   ]
 }

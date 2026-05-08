@@ -4,54 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-08T14:00:00+05:00",
-      "stop": "2026-05-08T16:30:00+05:00",
-      "title": "This Morning",
-      "desc": "Magazine show with news and topical items, celebrity guests, expert advice, real-life stories, competitions and a mix of cookery, health, beauty, lifestyle and more.",
-      "language": "en",
-      "categories": [
-        "Entertainment",
-        "Magazine"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/ef08d00d-1060-45a3-aba7-c9d5dda85635/16-9"
-    },
-    {
-      "start": "2026-05-08T16:30:00+05:00",
-      "stop": "2026-05-08T17:30:00+05:00",
-      "title": "Loose Women",
-      "desc": "Join the Loose Women panellists as they interview celebrity guests and discuss the day's most topical issues, from current affairs to celebrity gossip and the latest showbiz news.",
-      "language": "en",
-      "categories": [
-        "Entertainment",
-        "Chat Show"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/1318aafa-044e-4166-81fc-6b5a7d4a9f3f/16-9"
-    },
-    {
-      "start": "2026-05-08T17:30:00+05:00",
-      "stop": "2026-05-08T17:50:00+05:00",
-      "title": "ITV Lunchtime News",
-      "desc": "The latest headlines from around the world at lunchtime with reports and analysis from ITV's Correspondents, all of which are followed by a national weather forecast.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/8c0a8870-befc-4a27-b67f-3836ea7a6c61/16-9"
-    },
-    {
-      "start": "2026-05-08T17:50:00+05:00",
-      "stop": "2026-05-08T18:00:00+05:00",
-      "title": "ITV News London",
-      "desc": "The latest news and weather from London and the South East.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/647e1038-6139-4a7a-8624-a5ebc3b51645/16-9"
-    },
-    {
       "start": "2026-05-08T18:00:00+05:00",
       "stop": "2026-05-08T19:00:00+05:00",
       "title": "Dickinson's Real Deal",
@@ -74,6 +26,54 @@
         "Game Show"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/0feadecd-bda0-38f7-a68a-f53788e28cdf/16-9"
+    },
+    {
+      "start": "2026-05-08T20:00:00+05:00",
+      "stop": "2026-05-08T21:00:00+05:00",
+      "title": "Tipping Point",
+      "desc": "Ben Shephard hosts the quiz show in which three players take on an extraordinary machine in the hope of winning a cash jackpot.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Game Show"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/db11f0d9-a091-44a1-9dba-67cdc9bedac4/16-9"
+    },
+    {
+      "start": "2026-05-08T21:00:00+05:00",
+      "stop": "2026-05-08T22:00:00+05:00",
+      "title": "The Chase",
+      "desc": "Bradley Walsh guides Fiona from Derbyshire, James from Rushden, Holly from Reading and John from Lancaster as they take on a Chaser and hope to go home with thousands of pounds.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Game Show"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/bdd7d480-557c-356a-ae0f-0887327d97fc/16-9"
+    },
+    {
+      "start": "2026-05-08T22:00:00+05:00",
+      "stop": "2026-05-08T22:30:00+05:00",
+      "title": "ITV News London",
+      "desc": "The latest news and weather from London and the South East.",
+      "language": "en",
+      "categories": [
+        "News & Documentary",
+        "News"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/15beeb2d-5f5a-42ce-b052-2d526050d6cc/16-9"
+    },
+    {
+      "start": "2026-05-08T22:30:00+05:00",
+      "stop": "2026-05-08T23:30:00+05:00",
+      "title": "ITV Evening News",
+      "desc": "National and international news with reports and analysis from ITV's Correspondents in the UK and around the world, plus a focus on the stories that matter to you.",
+      "language": "en",
+      "categories": [
+        "News & Documentary",
+        "News"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/28be771e-8ebf-46ba-8257-e5a07be3083c/16-9"
     }
   ]
 }

@@ -4,37 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-08T14:30:00+05:00",
-      "stop": "2026-05-08T15:00:00+05:00",
-      "title": "CityNews Tonight Toronto",
-      "desc": "Coverage of the day's top news stories.",
-      "date": "2019",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p16858130_b_h8_aa.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-08T15:00:00+05:00",
-      "stop": "2026-05-08T17:30:00+05:00",
-      "title": "Breakfast Television Toronto",
-      "desc": "The latest in local news, weather and traffic, as well as celebrity interviews and lifestyle trends.",
-      "date": "2000",
-      "language": "en",
-      "categories": [
-        "Talk",
-        "Newsmagazine"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p599792_b_h8_ab.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Dina Pugliese",
-          "Melanie Ng"
-        ]
-      }
-    },
-    {
       "start": "2026-05-08T17:30:00+05:00",
       "stop": "2026-05-08T19:00:00+05:00",
       "title": "Breakfast Television",
@@ -116,6 +85,46 @@
       "credits": {
         "actor": [
           "Wayne Brady"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-08T22:00:00+05:00",
+      "stop": "2026-05-08T22:30:00+05:00",
+      "title": "Family Feud",
+      "desc": "Family Feud is an American television game show where two families compete to name the responses to survey questions in order to win cash and prizes.",
+      "date": "2024",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Game show"
+      ],
+      "episode": "S25 E165",
+      "icon": "http://dtil.tmsimg.com/assets/p8314079_b_h8_ah.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Steve Harvey"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-08T22:30:00+05:00",
+      "stop": "2026-05-08T23:00:00+05:00",
+      "title": "Family Feud",
+      "desc": "Family Feud is an American television game show where two families compete to name the responses to survey questions in order to win cash and prizes.",
+      "date": "2024",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Game show"
+      ],
+      "episode": "S25 E162",
+      "icon": "http://dtil.tmsimg.com/assets/p8314079_b_h8_ah.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Steve Harvey"
         ]
       }
     }
