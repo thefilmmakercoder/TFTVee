@@ -4,18 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-09T01:00:00+05:00",
-      "stop": "2026-05-09T01:05:00+05:00",
-      "title": "FYI Daily",
-      "desc": "Latest news from the world of entertainment.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "Showbiz"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/072d5cbd-33fb-43d3-b674-c7b031077373/16-9"
-    },
-    {
       "start": "2026-05-09T01:05:00+05:00",
       "stop": "2026-05-09T02:45:00+05:00",
       "title": "Licence to Kill",
@@ -75,6 +63,18 @@
         "Comedy"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/45fb5549-d896-47e3-b80a-82856527704b/16-9"
+    },
+    {
+      "start": "2026-05-09T06:30:00+05:00",
+      "stop": "2026-05-09T07:00:00+05:00",
+      "title": "Unwind with ITV",
+      "desc": "Your daily escape designed to calm the mind and encourage relaxation and reflection.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Lifestyles"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/266f74c2-e91f-4835-95a6-a44306b156d9/16-9"
     }
   ]
 }

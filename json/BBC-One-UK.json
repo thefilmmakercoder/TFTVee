@@ -4,54 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-09T00:30:00+05:00",
-      "stop": "2026-05-09T02:00:00+05:00",
-      "title": "David Attenborough's 100 Years on Planet Earth",
-      "desc": "A 90-minute special, broadcast from the Royal Albert Hall, London, celebrating Sir David Attenborough's groundbreaking career on the day of his 100th birthday.",
-      "language": "en",
-      "categories": [
-        "Entertainment",
-        "Factual"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/64554171-f806-495d-a7c6-e7b54726de37/16-9"
-    },
-    {
-      "start": "2026-05-09T02:00:00+05:00",
-      "stop": "2026-05-09T02:30:00+05:00",
-      "title": "BBC News and Weather",
-      "desc": "The latest national and international news, with reports from BBC correspondents worldwide.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/05d9631a-2f3c-4289-9d79-51f7dc6df31f/16-9"
-    },
-    {
-      "start": "2026-05-09T02:30:00+05:00",
-      "stop": "2026-05-09T02:40:00+05:00",
-      "title": "BBC London News",
-      "desc": "The latest news, sport and weather from London.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/b55dc2eb-88fc-4788-a69a-f722bf6d886b/16-9"
-    },
-    {
-      "start": "2026-05-09T02:40:00+05:00",
-      "stop": "2026-05-09T03:00:00+05:00",
-      "title": "St Denis Medical",
-      "desc": "Bruce wants a full body scan.",
-      "language": "en",
-      "categories": [
-        "Entertainment",
-        "Comedy"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/ec76de13-e8d3-4ea1-9110-a6e9ddd98e09/16-9"
-    },
-    {
       "start": "2026-05-09T03:00:00+05:00",
       "stop": "2026-05-09T03:25:00+05:00",
       "title": "St Denis Medical",
@@ -73,6 +25,54 @@
         "Movie"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/830c6da8-d7cd-4a46-ae34-261a0bc5f50c/16-9"
+    },
+    {
+      "start": "2026-05-09T05:25:00+05:00",
+      "stop": "2026-05-09T05:30:00+05:00",
+      "title": "Weather for the Week Ahead",
+      "desc": "Detailed weather forecast.",
+      "language": "en",
+      "categories": [
+        "News & Documentary",
+        "News"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/46ad24a6-22fb-4e4b-9fd0-58849d5d8d4b/16-9"
+    },
+    {
+      "start": "2026-05-09T05:30:00+05:00",
+      "stop": "2026-05-09T10:00:00+05:00",
+      "title": "BBC News",
+      "desc": "BBC One joins the BBC's rolling news channel for a night of news.",
+      "language": "en",
+      "categories": [
+        "News & Documentary",
+        "News"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/55b0b928-2532-4e5a-801a-28f098b54e69/16-9"
+    },
+    {
+      "start": "2026-05-09T10:00:00+05:00",
+      "stop": "2026-05-09T14:00:00+05:00",
+      "title": "Breakfast",
+      "desc": "The latest news, sport, business and weather from the BBC's Breakfast team.",
+      "language": "en",
+      "categories": [
+        "News & Documentary",
+        "News"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/46034e88-43e1-40ce-9ae6-5a5efd6034e0/16-9"
+    },
+    {
+      "start": "2026-05-09T14:00:00+05:00",
+      "stop": "2026-05-09T15:30:00+05:00",
+      "title": "Saturday Kitchen Live",
+      "desc": "Matt Tebbutt is joined by chefs Anna Haugh and John Javier, and by special guest Tim Minchin. Drinks expert Helen McGinn picks the wines to go with the studio dishes.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Cooking"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/70616540-d49d-4ede-bb7f-4b578a96c27b/16-9"
     }
   ]
 }

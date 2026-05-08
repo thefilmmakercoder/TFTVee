@@ -4,19 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-09T01:00:00+05:00",
-      "stop": "2026-05-09T02:00:00+05:00",
-      "title": "Doc Martin",
-      "sub_title": "Cats and Sharks",
-      "desc": "Comedy-drama series. Bert is forced to confront loan sharks when his restaurant gets into financial trouble, and Martin operates urgently on Louisa's mum Eleanor.",
-      "language": "en",
-      "categories": [
-        "Entertainment",
-        "Drama"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/683b6af9-d22c-452b-b135-6c1a16ab36ad/16-9"
-    },
-    {
       "start": "2026-05-09T02:00:00+05:00",
       "stop": "2026-05-09T03:00:00+05:00",
       "title": "DCI Banks",
@@ -77,6 +64,17 @@
         "Lifestyles"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/a19a0407-2547-3d09-9094-39c7368fdfb6/16-9"
+    },
+    {
+      "start": "2026-05-09T06:30:00+05:00",
+      "stop": "2026-05-09T10:00:00+05:00",
+      "title": "Teleshopping",
+      "desc": "Shopping from home.",
+      "language": "en",
+      "categories": [
+        "Specialist",
+        "Shopping"
+      ]
     }
   ]
 }

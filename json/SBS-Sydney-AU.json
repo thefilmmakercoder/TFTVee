@@ -4,33 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-09T01:30:00+05:00",
-      "stop": "2026-05-09T02:00:00+05:00",
-      "title": "Al Jazeera News",
-      "sub_title": "Saturday 9 May 2026",
-      "desc": "News via satellite from Al Jazeera Satellite Network, Qatar, in English.",
-      "language": "en",
-      "rating": "NR",
-      "categories": [
-        "Sports"
-      ],
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/231958/image/334x188"
-    },
-    {
-      "start": "2026-05-09T02:00:00+05:00",
-      "stop": "2026-05-09T03:00:00+05:00",
-      "title": "Giro d'Italia 2026 Highlights",
-      "sub_title": "Stage 1",
-      "desc": "Highlights from the opening stage of the 2026 Giro d'Italia, as the race begins with a 147 km route starting in Nessebar and finishing in Burgas, Bulgaria.",
-      "language": "en",
-      "rating": "NR",
-      "categories": [
-        "Sports"
-      ],
-      "episode": "E1",
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/19820406/image/334x188"
-    },
-    {
       "start": "2026-05-09T03:00:00+05:00",
       "stop": "2026-05-09T03:30:00+05:00",
       "title": "BBC News At Six",
@@ -81,6 +54,31 @@
       ],
       "episode": "S3 E3",
       "icon": "https://www.fetchtv.com.au/v2/epg/program/6777951/image/334x188"
+    },
+    {
+      "start": "2026-05-09T05:30:00+05:00",
+      "stop": "2026-05-09T06:00:00+05:00",
+      "title": "Lap Of Luxury: Escapes Down Under",
+      "desc": "We head to Lake Hayes where Stoneridge Estate sits, to Waiheke Island to Earl and Jo Meek's hilltop hideaway, and lastly the Pihopa Retreat near Kahurangi and Abel Tasman National Parks.",
+      "language": "en",
+      "rating": "G",
+      "categories": [
+        "Special Interest"
+      ],
+      "episode": "S3 E4",
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/6777951/image/334x188"
+    },
+    {
+      "start": "2026-05-09T06:00:00+05:00",
+      "stop": "2026-05-09T07:00:00+05:00",
+      "title": "Wild Prague",
+      "desc": "Prague is one of the greatest tourist attractions the world has to offer. Whether it be the medieval atmosphere, or the Kafkaesque spirit, millions of people are drawn to it. But the Mother of all Cities also has a particular hidden aspect \u2013 hundreds of rare species you\u2019d hardly expect to see here live within sight of the Old Town Square\u2019s Astronomical Clock and Charles Bridge.",
+      "language": "en",
+      "rating": "NR",
+      "categories": [
+        "Special Interest"
+      ],
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/5067125/image/334x188"
     }
   ]
 }
