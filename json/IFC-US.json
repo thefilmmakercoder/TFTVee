@@ -4,78 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-08T10:00:00+05:00",
-      "stop": "2026-05-08T12:00:00+05:00",
-      "title": "Blazing Saddles",
-      "desc": "In this satirical take on Westerns, crafty railroad worker Bart (Cleavon Little) becomes the first black sheriff of Rock Ridge, a frontier town about to be destroyed in order to make way for a new railroad. Initially, the people of Rock Ridge harbor a racial bias toward their new leader. However, they warm to him after realizing that Bart and his perpetually drunk gunfighter friend (Gene Wilder) are the only defense against a wave of thugs sent to rid the town of its population.",
-      "date": "1974",
-      "language": "en",
-      "rating": "R",
-      "categories": [
-        "Movie",
-        "Comedy",
-        "Western"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p1036_v_h8_aj.jpg?w=960&h=540",
-      "credits": {
-        "director": [
-          "Mel Brooks"
-        ],
-        "actor": [
-          "Cleavon Little",
-          "Gene Wilder",
-          "Madeline Kahn"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-08T12:00:00+05:00",
-      "stop": "2026-05-08T14:15:00+05:00",
-      "title": "Brewster's Millions",
-      "desc": "After losing his position as a minor-league pitcher, Montgomery Brewster (Richard Pryor) learns his great-uncle has left him $300 million. To inherit it, Brewster must spend $30 million in 30 days under a complicated set of rules that forbid him from donating too much to charity or retaining any new assets when the period is up. Unable to share details about the will's odd conditions with anyone, Brewster sets out to spend his money under the stern eye of paralegal Angela Drake (Lonette McKee).",
-      "date": "1985",
-      "language": "en",
-      "rating": "PG",
-      "categories": [
-        "Movie",
-        "Comedy"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p8679_v_h10_ab.jpg?w=960&h=540",
-      "credits": {
-        "director": [
-          "Walter Hill"
-        ],
-        "actor": [
-          "Richard Pryor",
-          "John Candy",
-          "Lonette McKee"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-08T14:15:00+05:00",
-      "stop": "2026-05-08T14:45:00+05:00",
-      "title": "Night Court",
-      "sub_title": "My Life as a Dog Lawyer",
-      "desc": "Dan (John Larroquette) is humiliated by appearing in dog court when he returns to work. With Harry Anderson.",
-      "date": "1991",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Series",
-        "Sitcom"
-      ],
-      "episode": "S9 E3",
-      "icon": "http://dtil.tmsimg.com/assets/p184004_b_h10_ab.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Harry Anderson",
-          "John Larroquette",
-          "Richard Moll"
-        ]
-      }
-    },
-    {
       "start": "2026-05-08T14:45:00+05:00",
       "stop": "2026-05-08T15:00:00+05:00",
       "title": "The Three Stooges",
@@ -146,6 +74,82 @@
           "John Candy",
           "Jeffrey Jones",
           "Annie Potts"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-08T19:00:00+05:00",
+      "stop": "2026-05-08T21:45:00+05:00",
+      "title": "Starship Troopers",
+      "desc": "In the distant future, the Earth is at war with a race of giant alien insects. Little is known about the Bugs except that they are intent on the eradication of all human life. But there was a time before the war... A Mobile Infantry travels to distant alien planets to take the war to the Bugs. They are a ruthless enemy with only one mission: Survival of their species no matter what the cost...",
+      "date": "1997",
+      "language": "en",
+      "rating": "R",
+      "categories": [
+        "Movie",
+        "Science fiction",
+        "Action"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p20046_v_h10_an.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Paul Verhoeven"
+        ],
+        "actor": [
+          "Casper Van Dien",
+          "Dina Meyer",
+          "Denise Richards"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-08T21:45:00+05:00",
+      "stop": "2026-05-09T00:15:00+05:00",
+      "title": "Total Recall",
+      "desc": "Douglas Quaid is a bored construction worker in the year 2084 who dreams of visiting colonized Mars. He visits \"Rekall,\" a company that plants false memories into people's brains, in order to experience the thrill of Mars without having to travel there. But something goes wrong during the procedure; Quaid discovers that his entire life is actually a false memory and that the people who implanted it in his head now want him dead.",
+      "date": "1990",
+      "language": "en",
+      "rating": "R",
+      "categories": [
+        "Movie",
+        "Science fiction",
+        "Action"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p12531_v_h8_ar.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Paul Verhoeven"
+        ],
+        "actor": [
+          "Arnold Schwarzenegger",
+          "Rachel Ticotin",
+          "Sharon Stone"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-09T00:15:00+05:00",
+      "stop": "2026-05-09T03:00:00+05:00",
+      "title": "Batman",
+      "desc": "Having witnessed his parents' brutal murder as a child, millionaire philanthropist Bruce Wayne (Michael Keaton) fights crime in Gotham City disguised as Batman, a costumed hero who strikes fear into the hearts of villains. But when a deformed madman who calls himself \"The Joker\" (Jack Nicholson) seizes control of Gotham's criminal underworld, Batman must face his most ruthless nemesis ever while protecting both his identity and his love interest, reporter Vicki Vale (Kim Basinger).",
+      "date": "1989",
+      "language": "en",
+      "rating": "PG-13",
+      "categories": [
+        "Movie",
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p11724_v_h8_aa.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Tim Burton"
+        ],
+        "actor": [
+          "Jack Nicholson",
+          "Michael Keaton",
+          "Kim Basinger"
         ]
       }
     }
