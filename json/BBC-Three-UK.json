@@ -4,13 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-08T08:00:00+05:00",
-      "stop": "2026-05-08T09:30:00+05:00",
-      "title": "This is BBC Three",
-      "desc": "Programmes start at 7.00pm.",
-      "language": "en"
-    },
-    {
       "start": "2026-05-08T09:30:00+05:00",
       "stop": "2026-05-08T15:30:00+05:00",
       "title": "..programmes start at 7.00pm",
@@ -46,6 +39,18 @@
         "News"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/1c558c6b-3ef3-4a74-a768-2b7a44a9c4cd/16-9"
+    },
+    {
+      "start": "2026-05-08T23:05:00+05:00",
+      "stop": "2026-05-09T00:00:00+05:00",
+      "title": "Attenborough's Birds of Paradise",
+      "desc": "Documentary tracing David Attenborough's lifelong passion for birds of paradise, from the forests of New Guinea more than 50 years ago to the desert of Qatar today.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Factual"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/3622c769-a78b-35c4-82b7-97a8d2fd4720/16-9"
     }
   ]
 }

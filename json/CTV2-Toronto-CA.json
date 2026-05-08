@@ -4,33 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-08T14:30:00+05:00",
-      "stop": "2026-05-08T15:00:00+05:00",
-      "title": "Paid Programming",
-      "desc": "Paid programming.",
-      "language": "en",
-      "rating": "TVG",
-      "categories": [
-        "Consumer",
-        "Shopping",
-        "Variety"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-08T15:00:00+05:00",
-      "stop": "2026-05-08T15:40:00+05:00",
-      "title": "CTV News Barrie",
-      "desc": "CTV News covers stories that matter to Canadians - locally, nationally, & internationally.",
-      "date": "2014",
-      "language": "en",
-      "rating": "TV14",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p11226354_b_h8_ad.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-05-08T15:40:00+05:00",
       "stop": "2026-05-08T16:20:00+05:00",
       "title": "CTV News Barrie",
@@ -97,6 +70,48 @@
           "John Wildman"
         ]
       }
+    },
+    {
+      "start": "2026-05-08T18:00:00+05:00",
+      "stop": "2026-05-08T18:30:00+05:00",
+      "title": "The Littlest Hobo",
+      "sub_title": "Happy Birthday, Mom",
+      "desc": "Two teenage brothers (Mark Polley, Sammy Snyders) compete in a bike race to earn money for their mother's birthday present.",
+      "date": "1982",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Series",
+        "Drama",
+        "Adventure",
+        "Animals"
+      ],
+      "episode": "S4 E6",
+      "icon": "http://dtil.tmsimg.com/assets/p507740_b_h10_ac.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Mario Azzopardi"
+        ],
+        "actor": [
+          "Vincent Murray",
+          "Derrick Jones",
+          "Maxine Miller"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-08T18:30:00+05:00",
+      "stop": "2026-05-08T19:00:00+05:00",
+      "title": "Paid Programming",
+      "desc": "Paid programming.",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Consumer",
+        "Shopping",
+        "Variety"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&h=540"
     }
   ]
 }

@@ -4,19 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-08T14:30:00+05:00",
-      "stop": "2026-05-08T14:35:00+05:00",
-      "title": "NITV News Update",
-      "desc": "NITV News recaptures the highlights of Indigenous news around the country.",
-      "language": "en",
-      "rating": "NR",
-      "categories": [
-        "Sports"
-      ],
-      "episode": "E80",
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/354343/image/334x188"
-    },
-    {
       "start": "2026-05-08T14:35:00+05:00",
       "stop": "2026-05-08T15:30:00+05:00",
       "title": "8 Out Of 10 Cats Does Countdown",
@@ -82,6 +69,19 @@
         "Sports"
       ],
       "icon": "https://www.fetchtv.com.au/v2/epg/program/264846/image/334x188"
+    },
+    {
+      "start": "2026-05-09T01:00:00+05:00",
+      "stop": "2026-05-09T01:50:00+05:00",
+      "title": "TRT World News",
+      "sub_title": "Saturday 9 May 2026",
+      "desc": "The latest news from around the globe from TRT World, Istanbul, Turkiye, in English.",
+      "language": "en",
+      "rating": "NR",
+      "categories": [
+        "Sports"
+      ],
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/413685/image/334x188"
     }
   ]
 }
