@@ -4,18 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-08T18:00:00+05:00",
-      "stop": "2026-05-08T19:00:00+05:00",
-      "title": "Today in LA @ 6AM",
-      "desc": "The latest local news, weather and investigative stories impacting the community.",
-      "date": "2020",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p18627061_b_h10_ab.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-05-08T19:00:00+05:00",
       "stop": "2026-05-08T21:00:00+05:00",
       "title": "Today",
@@ -107,6 +95,26 @@
         "Community"
       ],
       "icon": "http://dtil.tmsimg.com/assets/p16325568_b_h10_ac.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-09T00:00:00+05:00",
+      "stop": "2026-05-09T01:00:00+05:00",
+      "title": "NBC News Daily",
+      "desc": "NBC News provides viewers with the latest national and international news; consumer, health and personal finance reporting; up-to-the-minute local news.",
+      "date": "2026",
+      "language": "en",
+      "categories": [
+        "Series",
+        "News"
+      ],
+      "episode": "E81",
+      "icon": "http://dtil.tmsimg.com/assets/p22712535_b_h8_ad.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Vicky Nguyen",
+          "Morgan Radford"
+        ]
+      }
     }
   ]
 }

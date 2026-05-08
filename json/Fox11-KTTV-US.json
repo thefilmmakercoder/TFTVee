@@ -4,18 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-08T18:00:00+05:00",
-      "stop": "2026-05-08T19:00:00+05:00",
-      "title": "Good Day LA at 6am",
-      "desc": "Morning news coverage.",
-      "date": "2019",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p16719279_b_h8_ab.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-05-08T19:00:00+05:00",
       "stop": "2026-05-08T21:00:00+05:00",
       "title": "Good Day LA at 7am",
@@ -83,6 +71,28 @@
           "Meredith Vieira",
           "Ross Mathews",
           "Amber Stevens West"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-09T03:00:00+05:00",
+      "stop": "2026-05-09T04:00:00+05:00",
+      "title": "The Jennifer Hudson Show",
+      "desc": "Jennifer welcomes Zendaya for a conversation about her highly anticipated new film, \"The Drama\"; \"Extra\" host Derek Hough stops by to chat about his upcoming tour, \"Derek Hough -- Symphony of Dance: Encore\"; Jennifer and Derek join animal expert David Riherd for a visit featuring adorable baby goats, bunnies and more!",
+      "date": "2026",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Talk"
+      ],
+      "episode": "S4 E129",
+      "icon": "http://dtil.tmsimg.com/assets/p31041660_b_h8_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Jennifer Hudson",
+          "Zendaya",
+          "Derek Hough"
         ]
       }
     }

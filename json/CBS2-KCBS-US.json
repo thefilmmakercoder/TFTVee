@@ -4,18 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-08T18:00:00+05:00",
-      "stop": "2026-05-08T19:00:00+05:00",
-      "title": "CBS LA Mornings at 6am",
-      "desc": "Start your day with CBS LA Mornings, covering breaking stories from The Desk, and NEXT Weather and Traffic for Southern California.",
-      "date": "2025",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p31308548_b_h10_aa.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-05-08T19:00:00+05:00",
       "stop": "2026-05-08T21:00:00+05:00",
       "title": "CBS Mornings",
@@ -108,6 +96,30 @@
           "Peter Bergman",
           "Eric Braeden",
           "Christel Khalil"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-09T00:30:00+05:00",
+      "stop": "2026-05-09T01:00:00+05:00",
+      "title": "The Bold and the Beautiful",
+      "desc": "Steffy becomes more frustrated with Hope and her line; Donna is worried that Katie is destroying the family.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "Series",
+        "Soap",
+        "Drama",
+        "Romance"
+      ],
+      "episode": "S39 E164",
+      "icon": "http://dtil.tmsimg.com/assets/p31167565_b_h10_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Katherine Kelly Lang",
+          "Jacqueline MacInnes Wood",
+          "Thorsten Kaye"
         ]
       }
     }

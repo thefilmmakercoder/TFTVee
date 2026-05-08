@@ -4,18 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-08T17:00:00+05:00",
-      "stop": "2026-05-08T18:00:00+05:00",
-      "title": "BBC News at One including BBC London News",
-      "desc": "The latest national and international news from the BBC.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/d22f8fbc-a0a9-4d13-a40e-0a7b7b107d19/16-9"
-    },
-    {
       "start": "2026-05-08T18:00:00+05:00",
       "stop": "2026-05-08T21:00:00+05:00",
       "title": "Election 26",
@@ -74,6 +62,18 @@
         "Factual"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/e1b005b3-1ef8-4035-b65e-2ccc725f334f/16-9"
+    },
+    {
+      "start": "2026-05-08T23:30:00+05:00",
+      "stop": "2026-05-09T00:30:00+05:00",
+      "title": "Question Time",
+      "desc": "Fiona Bruce presents an hour of topical debate.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Factual"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/18da2818-c306-4e0e-b119-636c2e77a503/16-9"
     }
   ]
 }

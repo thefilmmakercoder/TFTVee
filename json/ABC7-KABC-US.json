@@ -4,18 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-08T18:00:00+05:00",
-      "stop": "2026-05-08T19:00:00+05:00",
-      "title": "Eyewitness News 6AM",
-      "desc": "News coverage to start the day.",
-      "date": "2004",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p677002_b_h8_af.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-05-08T19:00:00+05:00",
       "stop": "2026-05-08T21:00:00+05:00",
       "title": "Good Morning America",
@@ -119,6 +107,29 @@
         "actor": [
           "Lori Bergamotto",
           "Will Ganss"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-09T01:00:00+05:00",
+      "stop": "2026-05-09T02:00:00+05:00",
+      "title": "Tamron Hall",
+      "sub_title": "Tamron's Fifth Annual Mother's Day Extravaganza!",
+      "desc": "Gospel singer Kierra Sheard performs; all-star moms including actress Audra McDonald, comic Lisa Gilbert, content creator Nikki Guevara-Perez De Tagle, and author Nicole Hackett talk about the real moments that shape motherhood.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Talk"
+      ],
+      "episode": "S7 E160",
+      "icon": "http://dtil.tmsimg.com/assets/p17197549_b_h8_af.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Tamron Hall",
+          "Kierra Sheard",
+          "Audra McDonald"
         ]
       }
     }

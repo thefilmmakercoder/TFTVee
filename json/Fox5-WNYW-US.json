@@ -4,42 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-08T18:00:00+05:00",
-      "stop": "2026-05-08T19:00:00+05:00",
-      "title": "Good Day New York",
-      "desc": "Morning news.",
-      "date": "2007",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p706448_b_h8_ab.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-08T19:00:00+05:00",
-      "stop": "2026-05-08T20:00:00+05:00",
-      "title": "Sherri",
-      "sub_title": "Carson Kressley",
-      "desc": "Sherri kicks off the show with laughs in The Stand-Up Spot; Carson Kressley talks about the latest season of \"RuPaul's Drag Race\" and a line of equestrian-themed interior products; comic Erin Maguire drops in to Sherri's Laugh Lounge; exclusive online shopping deals in Sherri's Pop-Up Shop from MorningSave.com.",
-      "date": "2026",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Series",
-        "Talk",
-        "Interview"
-      ],
-      "episode": "S4 E97",
-      "icon": "http://dtil.tmsimg.com/assets/p21805765_b_h8_ab.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Sherri Shepherd",
-          "Carson Kressley",
-          "Erin Maguire"
-        ]
-      }
-    },
-    {
       "start": "2026-05-08T20:00:00+05:00",
       "stop": "2026-05-08T21:00:00+05:00",
       "title": "The Jennifer Hudson Show",
@@ -113,6 +77,30 @@
           "Harvey Levin"
         ]
       }
+    },
+    {
+      "start": "2026-05-08T23:00:00+05:00",
+      "stop": "2026-05-09T02:00:00+05:00",
+      "title": "Live: LIV Golf League",
+      "desc": "Professional golf from Washington, D.C.",
+      "language": "en",
+      "categories": [
+        "Sports",
+        "Golf"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p24361922_b_h10_ag.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-09T02:00:00+05:00",
+      "stop": "2026-05-09T03:00:00+05:00",
+      "title": "The 5 O'Clock News",
+      "desc": "Local, national and international news.",
+      "date": "2021",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p19319061_b_h8_ab.jpg?w=960&h=540"
     }
   ]
 }
