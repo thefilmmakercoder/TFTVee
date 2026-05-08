@@ -4,42 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-08T22:00:00+05:00",
-      "stop": "2026-05-08T22:30:00+05:00",
-      "title": "BBC News",
-      "desc": "The latest national and international news from the BBC.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/b2d88d4b-23e1-47ed-b082-1499f2c41dde/16-9"
-    },
-    {
-      "start": "2026-05-08T22:30:00+05:00",
-      "stop": "2026-05-08T23:00:00+05:00",
-      "title": "BBC London News",
-      "desc": "The latest news, sport and weather from London.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/5c958965-98a8-4480-bbc2-51bc79a85af6/16-9"
-    },
-    {
-      "start": "2026-05-08T23:00:00+05:00",
-      "stop": "2026-05-08T23:30:00+05:00",
-      "title": "Election 26",
-      "desc": "Laura Kuenssberg and Sophie Raworth look back at a dramatic day in British politics.",
-      "language": "en",
-      "categories": [
-        "Entertainment",
-        "Factual"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/e1b005b3-1ef8-4035-b65e-2ccc725f334f/16-9"
-    },
-    {
       "start": "2026-05-08T23:30:00+05:00",
       "stop": "2026-05-09T00:30:00+05:00",
       "title": "Question Time",
@@ -74,6 +38,42 @@
         "News"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/05d9631a-2f3c-4289-9d79-51f7dc6df31f/16-9"
+    },
+    {
+      "start": "2026-05-09T02:30:00+05:00",
+      "stop": "2026-05-09T02:40:00+05:00",
+      "title": "BBC London News",
+      "desc": "The latest news, sport and weather from London.",
+      "language": "en",
+      "categories": [
+        "News & Documentary",
+        "News"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/b55dc2eb-88fc-4788-a69a-f722bf6d886b/16-9"
+    },
+    {
+      "start": "2026-05-09T02:40:00+05:00",
+      "stop": "2026-05-09T03:00:00+05:00",
+      "title": "St Denis Medical",
+      "desc": "Bruce wants a full body scan.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Comedy"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/ec76de13-e8d3-4ea1-9110-a6e9ddd98e09/16-9"
+    },
+    {
+      "start": "2026-05-09T03:00:00+05:00",
+      "stop": "2026-05-09T03:25:00+05:00",
+      "title": "St Denis Medical",
+      "desc": "Ron is annoyed when Bruce cramps his style at a conference. Joyce organises Nurse Appreciation Week, but they don't appreciate it enough.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Comedy"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/68bedb19-dce2-48a4-af66-07725a60406c/16-9"
     }
   ]
 }

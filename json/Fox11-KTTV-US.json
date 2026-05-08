@@ -4,18 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-08T21:00:00+05:00",
-      "stop": "2026-05-08T22:00:00+05:00",
-      "title": "Good Day LA at 9am",
-      "desc": "Morning news coverage.",
-      "date": "2012",
-      "language": "en",
-      "categories": [
-        "Talk"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p9542653_b_h8_ac.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-05-08T22:00:00+05:00",
       "stop": "2026-05-08T23:00:00+05:00",
       "title": "Good Day LA at 10am",
@@ -104,6 +92,18 @@
           "Harvey Levin"
         ]
       }
+    },
+    {
+      "start": "2026-05-09T05:00:00+05:00",
+      "stop": "2026-05-09T08:00:00+05:00",
+      "title": "Live: United Football League",
+      "desc": "The Aviators face the Battlehawks at the Dome at America's Center. At 4-2, St. Louis has two straight wins, including a 16-3 victory in Week 6. The 2-4 Aviators have won two of three, most recently beating the Gamblers, 24-17, on May 1.",
+      "language": "en",
+      "categories": [
+        "Sports",
+        "Football"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/GNLZZGG0031CY1N.jpg?w=960&h=540"
     }
   ]
 }

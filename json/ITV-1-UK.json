@@ -4,42 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-08T22:00:00+05:00",
-      "stop": "2026-05-08T22:30:00+05:00",
-      "title": "ITV News London",
-      "desc": "The latest news and weather from London and the South East.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/15beeb2d-5f5a-42ce-b052-2d526050d6cc/16-9"
-    },
-    {
-      "start": "2026-05-08T22:30:00+05:00",
-      "stop": "2026-05-08T23:30:00+05:00",
-      "title": "ITV Evening News",
-      "desc": "National and international news with reports and analysis from ITV's Correspondents in the UK and around the world, plus a focus on the stories that matter to you.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/28be771e-8ebf-46ba-8257-e5a07be3083c/16-9"
-    },
-    {
-      "start": "2026-05-08T23:30:00+05:00",
-      "stop": "2026-05-09T00:00:00+05:00",
-      "title": "Bradley and Barney Walsh: Breaking Dad",
-      "desc": "The boys are now in the Aussie countryside and learn how to shear sheep before joining a local community whose fundraiser involves pulling a gigantic truck.",
-      "language": "en",
-      "categories": [
-        "Entertainment",
-        "Travel"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/9d5c40d2-aea2-4d6f-855d-4ac922cf1ede/16-9"
-    },
-    {
       "start": "2026-05-09T00:00:00+05:00",
       "stop": "2026-05-09T00:30:00+05:00",
       "title": "Emmerdale",
@@ -74,6 +38,42 @@
         "Game Show"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/192d3b0f-b2cb-4031-a4c0-4107d4f578d1/16-9"
+    },
+    {
+      "start": "2026-05-09T02:00:00+05:00",
+      "stop": "2026-05-09T02:30:00+05:00",
+      "title": "ITV News at Ten",
+      "desc": "ITV News provides a fresh perspective on the major stories of the day with national and international news with reports and analysis from ITV's Correspondents.",
+      "language": "en",
+      "categories": [
+        "News & Documentary",
+        "News"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/b536e780-ae34-4e2a-ab2d-b768c334c1b7/16-9"
+    },
+    {
+      "start": "2026-05-09T02:30:00+05:00",
+      "stop": "2026-05-09T02:45:00+05:00",
+      "title": "ITV News London",
+      "desc": "The latest news and weather from London and the South East.",
+      "language": "en",
+      "categories": [
+        "News & Documentary",
+        "News"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/b810e008-0e9b-4cf4-b9db-19aac06d878a/16-9"
+    },
+    {
+      "start": "2026-05-09T02:45:00+05:00",
+      "stop": "2026-05-09T03:45:00+05:00",
+      "title": "The Neighbourhood",
+      "desc": "The secret Power House wastes no time to curry favour with a neighbour by gifting a lavish hamper, and for the next challenge the households are on Neighbourhood Watch duty.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Game Show"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/f184ec3b-bf53-482d-8df9-6c840596755b/16-9"
     }
   ]
 }

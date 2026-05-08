@@ -4,36 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-08T21:30:00+05:00",
-      "stop": "2026-05-08T22:30:00+05:00",
-      "title": "Carriers At War",
-      "sub_title": "USS Ford",
-      "desc": "A behind-the-scenes look at how the U.S. Navy's radically redesigned class of aircraft carrier, the Ford, was built.",
-      "date": "20180611",
-      "language": "en",
-      "categories": [
-        "Documentary",
-        "Series"
-      ],
-      "episode": "S01E04",
-      "icon": "https://images.pluto.tv/series/65b02ba2d22ce50014ae6a08/tile.jpg?fill=blur&fit=fill&fm=jpg&h=900&q=75&w=900"
-    },
-    {
-      "start": "2026-05-08T22:30:00+05:00",
-      "stop": "2026-05-08T23:30:00+05:00",
-      "title": "Carriers At War",
-      "sub_title": "Air Wing",
-      "desc": "Examine the history of the aircraft carrier and witness how its air wing operates.",
-      "date": "20180604",
-      "language": "en",
-      "categories": [
-        "Documentary",
-        "Series"
-      ],
-      "episode": "S01E03",
-      "icon": "https://images.pluto.tv/series/65b02ba2d22ce50014ae6a08/tile.jpg?fill=blur&fit=fill&fm=jpg&h=900&q=75&w=900"
-    },
-    {
       "start": "2026-05-08T23:30:00+05:00",
       "stop": "2026-05-09T00:30:00+05:00",
       "title": "Carriers At War",
@@ -42,8 +12,8 @@
       "date": "20180521",
       "language": "en",
       "categories": [
-        "Documentary",
-        "Series"
+        "Series",
+        "Documentary"
       ],
       "episode": "S01E01",
       "icon": "https://images.pluto.tv/series/65b02ba2d22ce50014ae6a08/tile.jpg?fill=blur&fit=fill&fm=jpg&h=900&q=75&w=900"
@@ -57,9 +27,9 @@
       "date": "20140106",
       "language": "en",
       "categories": [
-        "Science",
         "Educational",
-        "Series"
+        "Series",
+        "Science"
       ],
       "episode": "S01E03",
       "icon": "https://images.pluto.tv/series/6094ae1d41fc48001326b567/tile.jpg?fill=blur&fit=fill&fm=jpg&h=900&q=75&w=900"
@@ -73,9 +43,9 @@
       "date": "20131223",
       "language": "en",
       "categories": [
-        "Science",
         "Educational",
-        "Series"
+        "Series",
+        "Science"
       ],
       "episode": "S01E01",
       "icon": "https://images.pluto.tv/series/6094ae1d41fc48001326b567/tile.jpg?fill=blur&fit=fill&fm=jpg&h=900&q=75&w=900"
@@ -89,12 +59,44 @@
       "date": "20140113",
       "language": "en",
       "categories": [
-        "Science",
         "Educational",
-        "Series"
+        "Series",
+        "Science"
       ],
       "episode": "S01E04",
       "icon": "https://images.pluto.tv/series/6094ae1d41fc48001326b567/tile.jpg?fill=blur&fit=fill&fm=jpg&h=900&q=75&w=900"
+    },
+    {
+      "start": "2026-05-09T03:30:00+05:00",
+      "stop": "2026-05-09T04:30:00+05:00",
+      "title": "Space Voyages",
+      "sub_title": "The Moon and Beyond",
+      "desc": "Buzz Aldrin, Jim Lovell, and NASA experts discuss the Apollo missions and look into the future of deep space exploration.",
+      "date": "20131230",
+      "language": "en",
+      "categories": [
+        "Educational",
+        "Series",
+        "Science"
+      ],
+      "episode": "S01E02",
+      "icon": "https://images.pluto.tv/series/6094ae1d41fc48001326b567/tile.jpg?fill=blur&fit=fill&fm=jpg&h=900&q=75&w=900"
+    },
+    {
+      "start": "2026-05-09T04:30:00+05:00",
+      "stop": "2026-05-09T05:30:00+05:00",
+      "title": "America in Color",
+      "sub_title": "The 1920s",
+      "desc": "Watch the Model T roll out, the Jazz Age erupt, and the market crash, as it has never been seen before: in color.",
+      "date": "20170702",
+      "language": "en",
+      "categories": [
+        "Educational",
+        "Series",
+        "History"
+      ],
+      "episode": "S01E01",
+      "icon": "https://images.pluto.tv/series/61243518d343140013d451c0/tile.jpg?fill=blur&fit=fill&fm=jpg&h=900&q=75&w=900"
     }
   ]
 }
