@@ -4,45 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-08T11:00:00+05:00",
-      "stop": "2026-05-08T11:30:00+05:00",
-      "title": "Paid Programming",
-      "desc": "Paid programming.",
-      "language": "en",
-      "rating": "TVG",
-      "categories": [
-        "Consumer",
-        "Shopping",
-        "Variety"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-08T11:30:00+05:00",
-      "stop": "2026-05-08T12:00:00+05:00",
-      "title": "Natural Blood Pressure Management",
-      "desc": "Cardiologist Dr. Ernst von Schwarz, M.D. shows how to manage your blood pressure naturally and help protect your heart for life with My Best Heart.",
-      "language": "en",
-      "categories": [
-        "Consumer"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p29188954_st_h10_aa.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-08T12:00:00+05:00",
-      "stop": "2026-05-08T12:30:00+05:00",
-      "title": "Paid Programming",
-      "desc": "Paid programming.",
-      "language": "en",
-      "rating": "TVG",
-      "categories": [
-        "Consumer",
-        "Shopping",
-        "Variety"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-05-08T12:30:00+05:00",
       "stop": "2026-05-08T13:00:00+05:00",
       "title": "Paid Programming",
@@ -80,6 +41,42 @@
         "News"
       ],
       "icon": "http://dtil.tmsimg.com/assets/p706488_b_h8_ab.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-08T14:00:00+05:00",
+      "stop": "2026-05-08T15:00:00+05:00",
+      "title": "Good Day Wake Up",
+      "desc": "Morning news coverage.",
+      "date": "2009",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p706488_b_h8_ab.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-08T15:00:00+05:00",
+      "stop": "2026-05-08T16:00:00+05:00",
+      "title": "Good Day Wake Up 2",
+      "desc": "Morning news and entertainment.",
+      "date": "2009",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p706489_b_h8_ab.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-08T16:00:00+05:00",
+      "stop": "2026-05-08T18:00:00+05:00",
+      "title": "Good Day New York",
+      "desc": "Morning news.",
+      "date": "2007",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p706448_b_h8_ab.jpg?w=960&h=540"
     }
   ]
 }

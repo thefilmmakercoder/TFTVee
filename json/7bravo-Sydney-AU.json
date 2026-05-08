@@ -4,19 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-08T10:30:00+05:00",
-      "stop": "2026-05-08T11:30:00+05:00",
-      "title": "The Tonight Show Starring Jimmy Fallon",
-      "desc": "Guests include Justin Hartley.",
-      "language": "en",
-      "rating": "PG",
-      "categories": [
-        "Special Interest"
-      ],
-      "episode": "S13 E100",
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/307071/image/334x188"
-    },
-    {
       "start": "2026-05-08T11:30:00+05:00",
       "stop": "2026-05-08T12:30:00+05:00",
       "title": "The Real Housewives of Beverly Hills",
@@ -85,6 +72,19 @@
       ],
       "episode": "S35 E19",
       "icon": "https://www.fetchtv.com.au/v2/epg/program/208373/image/334x188"
+    },
+    {
+      "start": "2026-05-08T16:30:00+05:00",
+      "stop": "2026-05-08T17:30:00+05:00",
+      "title": "Dateline International",
+      "sub_title": "The Murder Of Lorenzen Wright Part 1",
+      "desc": "The murder of former NBA star and hometown hero Lorenzen Wright sends shockwaves through the city of Memphis.",
+      "language": "en",
+      "rating": "M",
+      "categories": [
+        "Sports"
+      ],
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/149925/image/334x188"
     }
   ]
 }

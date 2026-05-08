@@ -4,72 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-08T11:00:00+05:00",
-      "stop": "2026-05-08T11:30:00+05:00",
-      "title": "Paid Programming",
-      "desc": "Paid programming.",
-      "language": "en",
-      "rating": "TVG",
-      "categories": [
-        "Consumer",
-        "Shopping",
-        "Variety"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-08T11:30:00+05:00",
-      "stop": "2026-05-08T12:00:00+05:00",
-      "title": "Two and a Half Men",
-      "sub_title": "Does This Smell Funny to You?",
-      "desc": "Charlie unknowingly sleeps with an elderly man's (Orson Bean) hot trophy wife.",
-      "date": "2005",
-      "language": "en",
-      "rating": "TV14",
-      "categories": [
-        "Series",
-        "Sitcom"
-      ],
-      "episode": "S2 E24",
-      "icon": "http://dtil.tmsimg.com/assets/p7895720_b_h8_ah.jpg?w=960&h=540",
-      "credits": {
-        "director": [
-          "Pamela Fryman"
-        ],
-        "actor": [
-          "Charlie Sheen",
-          "Jon Cryer",
-          "Angus T. Jones"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-08T12:00:00+05:00",
-      "stop": "2026-05-08T12:30:00+05:00",
-      "title": "Bob Hearts Abishola",
-      "sub_title": "Keep That Under Your Gele",
-      "desc": "When Bob asks for space from his ever-present mother, Dottie doesn't take it well; Kofo attempts to enjoy the luxuries of living alone, but his new landlord, Tunde, overstays his welcome.",
-      "date": "2023",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Series",
-        "Sitcom"
-      ],
-      "episode": "S4 E19",
-      "icon": "http://dtil.tmsimg.com/assets/p16945108_b_h8_aa.jpg?w=960&h=540",
-      "credits": {
-        "director": [
-          "Beth McCarthy-Miller"
-        ],
-        "actor": [
-          "Billy Gardell",
-          "Folake Olowofoyeku",
-          "Christine Ebersole"
-        ]
-      }
-    },
-    {
       "start": "2026-05-08T12:30:00+05:00",
       "stop": "2026-05-08T13:00:00+05:00",
       "title": "The Goldbergs",
@@ -118,6 +52,42 @@
         "News"
       ],
       "icon": "http://dtil.tmsimg.com/assets/p16250980_b_h8_ab.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-08T14:00:00+05:00",
+      "stop": "2026-05-08T15:00:00+05:00",
+      "title": "PIX11 Morning News at 5am",
+      "desc": "Staying informed with the news and headlines.",
+      "date": "2016",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p12803754_b_h8_ab.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-08T15:00:00+05:00",
+      "stop": "2026-05-08T16:00:00+05:00",
+      "title": "PIX11 Morning News at 6am",
+      "desc": "Staying informed with the news and headlines.",
+      "date": "2018",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p16250992_b_h8_ab.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-08T16:00:00+05:00",
+      "stop": "2026-05-08T18:00:00+05:00",
+      "title": "PIX11 Morning News at 7am",
+      "desc": "Staying informed with the news and headlines.",
+      "date": "2018",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p16250994_b_h8_ab.jpg?w=960&h=540"
     }
   ]
 }

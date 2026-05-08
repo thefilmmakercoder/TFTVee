@@ -4,61 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-08T10:07:00+05:00",
-      "stop": "2026-05-08T11:05:00+05:00",
-      "title": "Criminal Minds",
-      "sub_title": "Final Shot",
-      "desc": "The BAU team must determine if the anniversary of the Kennedy assassination is a motivating factor when a sniper strikes Dallas.",
-      "date": "2013",
-      "language": "en",
-      "rating": "TV14",
-      "categories": [
-        "Series",
-        "Crime drama",
-        "Mystery",
-        "Thriller",
-        "Drama"
-      ],
-      "episode": "S9 E3",
-      "icon": "http://dtil.tmsimg.com/assets/p185123_b_h8_ac.jpg?w=960&h=540",
-      "credits": {
-        "director": [
-          "Bethany Rooney"
-        ],
-        "actor": [
-          "Joe Mantegna",
-          "Thomas Gibson",
-          "Shemar Moore"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-08T11:05:00+05:00",
-      "stop": "2026-05-08T12:05:00+05:00",
-      "title": "Suits",
-      "sub_title": "She Knows",
-      "desc": "Harvey entrusts Mike with closing a major lawsuit; Harvey must make a decision about guarding Mike's secret.",
-      "date": "2012",
-      "language": "en",
-      "rating": "TV14",
-      "categories": [
-        "Series",
-        "Drama",
-        "Crime drama",
-        "Law",
-        "Comedy"
-      ],
-      "episode": "S2 E1",
-      "icon": "http://dtil.tmsimg.com/assets/p8630071_b_h8_bc.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Patrick J. Adams",
-          "Gabriel Macht",
-          "Meghan Markle"
-        ]
-      }
-    },
-    {
       "start": "2026-05-08T12:05:00+05:00",
       "stop": "2026-05-08T13:05:00+05:00",
       "title": "Flashpoint",
@@ -151,6 +96,33 @@
           "Karen Scanlan"
         ]
       }
+    },
+    {
+      "start": "2026-05-08T14:30:00+05:00",
+      "stop": "2026-05-08T15:00:00+05:00",
+      "title": "Paid Programming",
+      "desc": "Paid programming.",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Consumer",
+        "Shopping",
+        "Variety"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-08T15:00:00+05:00",
+      "stop": "2026-05-08T15:40:00+05:00",
+      "title": "CTV News Barrie",
+      "desc": "CTV News covers stories that matter to Canadians - locally, nationally, & internationally.",
+      "date": "2014",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p11226354_b_h8_ad.jpg?w=960&h=540"
     }
   ]
 }
