@@ -4,61 +4,8 @@
   ],
   "programs": [
     {
-      "start": "2026-05-08T03:00:00+05:00",
-      "stop": "2026-05-08T05:30:00+05:00",
-      "title": "TV Shop - Home Shopping",
-      "desc": "Home shopping programme.",
-      "language": "en",
-      "rating": "G",
-      "categories": [
-        "Special Interest"
-      ],
-      "episode": "E5",
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/184500/image/334x188"
-    },
-    {
-      "start": "2026-05-08T05:30:00+05:00",
-      "stop": "2026-05-08T06:30:00+05:00",
-      "title": "Pointless",
-      "desc": "Hosted by Alexander Armstrong. In each episode four teams of two contestants attempt to find correct but obscure answers to four rounds of general knowledge questions, with the winning team eligible to compete for the show's cash jackpot.",
-      "language": "en",
-      "rating": "PG",
-      "categories": [
-        "Special Interest"
-      ],
-      "episode": "S34 E33",
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/325129/image/334x188"
-    },
-    {
-      "start": "2026-05-08T06:30:00+05:00",
-      "stop": "2026-05-08T07:00:00+05:00",
-      "title": "My Favourite Martian",
-      "sub_title": "Poor Little Rich Cat",
-      "desc": "To prove that money left to a cat rightfully belongs to an orphanage, Tim and Martin hold a s\u00e9ance.",
-      "language": "en",
-      "rating": "G",
-      "categories": [
-        "Drama"
-      ],
-      "episode": "S1 E15",
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/376328/image/334x188"
-    },
-    {
-      "start": "2026-05-08T07:00:00+05:00",
-      "stop": "2026-05-08T07:30:00+05:00",
-      "title": "Antiques Downunder",
-      "desc": "The Antiques DownUnder team visits St Peter's Cultural Heritage Centre where an historic building has found new life; Claudia catches up with auctioneer Marc du Plessis.",
-      "language": "en",
-      "rating": "G",
-      "categories": [
-        "Special Interest"
-      ],
-      "episode": "S1 E5",
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/6021487/image/334x188"
-    },
-    {
-      "start": "2026-05-08T07:30:00+05:00",
-      "stop": "2026-05-08T08:00:00+05:00",
+      "start": "2026-05-08T07:32:00+05:00",
+      "stop": "2026-05-08T08:02:00+05:00",
       "title": "Antiques Downunder",
       "desc": "Claudia has a peek inside the private wardrobe of globe-trotting fashion anthropologist Charlotte Smith; Gregory visits Artlab Australia for some tips on textile conservation; Claudia shares some favourite photographs from her collection.",
       "language": "en",
@@ -70,7 +17,7 @@
       "icon": "https://www.fetchtv.com.au/v2/epg/program/6021487/image/334x188"
     },
     {
-      "start": "2026-05-08T08:00:00+05:00",
+      "start": "2026-05-08T08:02:00+05:00",
       "stop": "2026-05-08T10:30:00+05:00",
       "title": "Bonnie Prince Charlie",
       "desc": "Exiled prince Charles Edward Stuart raises a force of loyal Scottish followers to seize the English crown in this epic costume drama set in the 1700s.",
@@ -80,6 +27,59 @@
         "Drama"
       ],
       "icon": "https://www.fetchtv.com.au/v2/epg/program/4971863/image/334x188"
+    },
+    {
+      "start": "2026-05-08T10:30:00+05:00",
+      "stop": "2026-05-08T12:32:00+05:00",
+      "title": "The Iron Maiden",
+      "desc": "An American airline firm plan to buy a new British passenger plane, but the deal hits trouble when the plane's designer Jack Hopkins and the daughter of the Airline owner, take an instant dislike to each other (Michael Craig).",
+      "language": "en",
+      "rating": "G",
+      "categories": [
+        "Comedy"
+      ],
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/4971344/image/334x188"
+    },
+    {
+      "start": "2026-05-08T12:32:00+05:00",
+      "stop": "2026-05-08T13:32:00+05:00",
+      "title": "The Derbyshire Auction House",
+      "sub_title": "The Medal Detector",
+      "desc": "Irita unearths rare military medals whilst helping sisters clear their childhood home. She also responds to an SOS from a couple who need to downsize.",
+      "language": "en",
+      "rating": "G",
+      "categories": [
+        "Special Interest"
+      ],
+      "episode": "S1 E4",
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/9061400/image/334x188"
+    },
+    {
+      "start": "2026-05-08T13:32:00+05:00",
+      "stop": "2026-05-08T14:31:00+05:00",
+      "title": "Antiques Roadshow",
+      "sub_title": "Bexhill-On-Sea",
+      "desc": "Experts invite members of the public to bring along their antiques for examination. Michael Aspel and the team visit the stunning De La Warr Pavilion at Bexhill-on-Sea.",
+      "language": "en",
+      "rating": "G",
+      "categories": [
+        "Special Interest"
+      ],
+      "episode": "S14 E24",
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/130628/image/334x188"
+    },
+    {
+      "start": "2026-05-08T14:31:00+05:00",
+      "stop": "2026-05-08T15:30:00+05:00",
+      "title": "Airport Security: USA",
+      "desc": "Passengers are searched for illegal objects when entering and leaving the United States by the Department of Homeland Security's Customs and Border Protection officers.",
+      "language": "en",
+      "rating": "PG",
+      "categories": [
+        "Special Interest"
+      ],
+      "episode": "S1 E10",
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/436740/image/334x188"
     }
   ]
 }

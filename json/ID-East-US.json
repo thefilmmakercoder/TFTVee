@@ -4,39 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-08T05:00:00+05:00",
-      "stop": "2026-05-08T06:00:00+05:00",
-      "title": "People Magazine Investigates",
-      "sub_title": "Mother's Orders",
-      "desc": "A mother's bond to her daughter is put to the ultimate test when one of them shoots a man dead.",
-      "date": "2022",
-      "language": "en",
-      "rating": "TV14",
-      "categories": [
-        "Series",
-        "Newsmagazine",
-        "Mystery",
-        "Crime"
-      ],
-      "episode": "S6 E2",
-      "icon": "http://dtil.tmsimg.com/assets/p13343814_b_h8_bo.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Steve Helling"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-08T06:00:00+05:00",
-      "stop": "2026-05-08T08:00:00+05:00",
-      "title": "We Are Jeni",
-      "desc": "Jeni Haynes creates hundreds of different personalities, or alters, to try to cope with the horrific abuse inflicted by her dad. For years, no one believes her story - until Jeni and her alters resolve to get justice and bring her father to trial.",
-      "date": "2026",
-      "language": "en",
-      "rating": "TV14",
-      "icon": "http://dtil.tmsimg.com/assets/p32912760_b_h8_ab.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-05-08T08:00:00+05:00",
       "stop": "2026-05-08T09:00:00+05:00",
       "title": "48 Hours on ID",
@@ -63,7 +30,20 @@
       "date": "2026",
       "language": "en",
       "rating": "TV14",
-      "icon": "http://dtil.tmsimg.com/assets/p32912760_b_h8_ab.jpg?w=960&h=540"
+      "categories": [
+        "Special",
+        "Documentary"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p32912760_b_h8_ab.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Mariel Thomas",
+          "Akhim Dev"
+        ],
+        "actor": [
+          "Jeni Hayes"
+        ]
+      }
     },
     {
       "start": "2026-05-08T11:00:00+05:00",
@@ -102,6 +82,58 @@
       "episode": "S6 E2",
       "icon": "http://dtil.tmsimg.com/assets/p13343814_b_h8_bo.jpg?w=960&h=540",
       "credits": {
+        "actor": [
+          "Steve Helling"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-08T13:00:00+05:00",
+      "stop": "2026-05-08T14:00:00+05:00",
+      "title": "People Magazine Investigates",
+      "sub_title": "The Darkest of Nights",
+      "desc": "In Craig, Ala., townspeople are shocked when police discover the charred body of beloved mother and wife Lauri Waterman; people have no idea who would want to kill her, then an unlikely witness reveals a sordid story of secrets and lies.",
+      "date": "2017",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "Series",
+        "Newsmagazine",
+        "Mystery",
+        "Crime"
+      ],
+      "episode": "S1 E10",
+      "icon": "http://dtil.tmsimg.com/assets/p13343814_b_h8_bo.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Stephen Schuster"
+        ],
+        "actor": [
+          "Steve Helling"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-08T14:00:00+05:00",
+      "stop": "2026-05-08T15:00:00+05:00",
+      "title": "People Magazine Investigates",
+      "sub_title": "In the Name of Love",
+      "desc": "In Grand Prairie, Texas, a game of truth-or-dare leads to a startling confession in the 1995 shooting death of 16-year-old Adrianne Jones.",
+      "date": "2016",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "Series",
+        "Newsmagazine",
+        "Mystery",
+        "Crime"
+      ],
+      "episode": "S1 E7",
+      "icon": "http://dtil.tmsimg.com/assets/p13343814_b_h8_bo.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Stephen Schuster"
+        ],
         "actor": [
           "Steve Helling"
         ]

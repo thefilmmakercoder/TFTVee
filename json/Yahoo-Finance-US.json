@@ -4,8 +4,8 @@
   ],
   "programs": [
     {
-      "start": "2026-05-08T05:30:00+05:00",
-      "stop": "2026-05-08T06:00:00+05:00",
+      "start": "2026-05-08T08:30:00+05:00",
+      "stop": "2026-05-08T09:00:00+05:00",
       "title": "Trader Talk",
       "desc": "Wall Street wisdom without the BS. Kenny Polcari keeps it real for everyday investors.",
       "date": "20260102",
@@ -16,10 +16,21 @@
       "icon": "https://provider-static.plex.tv/epg/images/thumbnails/yahoo-finance.jpg"
     },
     {
-      "start": "2026-05-08T06:00:00+05:00",
-      "stop": "2026-05-08T06:30:00+05:00",
-      "title": "Financial Freestyle",
-      "desc": "Redefining wealth for Black America. Ross Mac delivers insight, impact, and the tools to build legacy.",
+      "start": "2026-05-08T09:00:00+05:00",
+      "stop": "2026-05-08T10:00:00+05:00",
+      "title": "Market Movers",
+      "desc": "Yahoo Finance highlights key moments in the previous trading session.",
+      "language": "en",
+      "categories": [
+        "Movie"
+      ],
+      "icon": "https://provider-static.plex.tv/epg/images/thumbnails/yahoo-finance.jpg"
+    },
+    {
+      "start": "2026-05-08T10:00:00+05:00",
+      "stop": "2026-05-08T10:30:00+05:00",
+      "title": "Morning Brief",
+      "desc": "Get ready for the trading day ahead with insight into the latest market-moving news.",
       "date": "20250102",
       "language": "en",
       "categories": [
@@ -28,47 +39,34 @@
       "icon": "https://provider-static.plex.tv/epg/images/thumbnails/yahoo-finance.jpg"
     },
     {
-      "start": "2026-05-08T06:30:00+05:00",
-      "stop": "2026-05-08T07:00:00+05:00",
-      "title": "The Big Idea",
-      "desc": "Big ideas for small businesses. Elizabeth Gore shares tools, trends & tactics to grow in any economy.",
-      "date": "20260102",
-      "language": "en",
-      "categories": [
-        "Movie"
-      ],
-      "icon": "https://provider-static.plex.tv/epg/images/thumbnails/yahoo-finance.jpg"
-    },
-    {
-      "start": "2026-05-08T07:00:00+05:00",
-      "stop": "2026-05-08T07:30:00+05:00",
-      "title": "Trader Talk",
-      "desc": "Wall Street wisdom without the BS. Kenny Polcari keeps it real for everyday investors.",
-      "date": "20260102",
-      "language": "en",
-      "categories": [
-        "Movie"
-      ],
-      "icon": "https://provider-static.plex.tv/epg/images/thumbnails/yahoo-finance.jpg"
-    },
-    {
-      "start": "2026-05-08T07:30:00+05:00",
-      "stop": "2026-05-08T08:00:00+05:00",
-      "title": "Warsh Confirmation Hearing Recap",
-      "desc": "Highlights from Senate hearing to confirm nominee Kevin Warsh as next Fed chair",
-      "date": "20260102",
-      "language": "en",
-      "categories": [
-        "Movie"
-      ],
-      "icon": "https://provider-static.plex.tv/epg/images/thumbnails/yahoo-finance.jpg"
-    },
-    {
-      "start": "2026-05-08T08:00:00+05:00",
-      "stop": "2026-05-08T08:30:00+05:00",
-      "title": "Rethinking Retirement",
-      "desc": "A look at the current state of retirement planning and and how to optimize your strategy",
+      "start": "2026-05-08T10:30:00+05:00",
+      "stop": "2026-05-08T11:00:00+05:00",
+      "title": "Opening Bid",
+      "desc": "Get sharp, actionable insight on today's top headlines from Yahoo Finance executive editor Brian Sozzi.",
       "date": "20250102",
+      "language": "en",
+      "categories": [
+        "Movie"
+      ],
+      "icon": "https://provider-static.plex.tv/epg/images/thumbnails/yahoo-finance.jpg"
+    },
+    {
+      "start": "2026-05-08T11:00:00+05:00",
+      "stop": "2026-05-08T12:00:00+05:00",
+      "title": "Market Catalysts",
+      "desc": "A deeper understanding of what's driving the market action to help guide your investment decisions.",
+      "date": "20250102",
+      "language": "en",
+      "categories": [
+        "Movie"
+      ],
+      "icon": "https://provider-static.plex.tv/epg/images/thumbnails/yahoo-finance.jpg"
+    },
+    {
+      "start": "2026-05-08T12:00:00+05:00",
+      "stop": "2026-05-08T13:00:00+05:00",
+      "title": "Market Movers",
+      "desc": "Yahoo Finance highlights key moments in the previous trading session.",
       "language": "en",
       "categories": [
         "Movie"
