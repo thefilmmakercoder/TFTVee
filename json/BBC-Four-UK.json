@@ -4,12 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-08T09:30:00+05:00",
-      "stop": "2026-05-08T15:30:00+05:00",
-      "title": "..programmes start at 7.00pm",
-      "language": "en"
-    },
-    {
       "start": "2026-05-08T15:30:00+05:00",
       "stop": "2026-05-08T21:30:00+05:00",
       "title": "..programmes start at 7.00pm",
@@ -51,6 +45,18 @@
         "Rock&Pop"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/56b0f4c3-2937-434f-a563-2a21cd9c84ac/16-9"
+    },
+    {
+      "start": "2026-05-09T00:00:00+05:00",
+      "stop": "2026-05-09T00:30:00+05:00",
+      "title": "TOTP: 1989",
+      "desc": "Andy Crane and Jenny Powell present the pop chart programme, first broadcast on 4 May 1989 and featuring Debbie Gibson, Bon Jovi, Roxette, Kylie Minogue, Bangles and Chaka Khan.",
+      "language": "en",
+      "categories": [
+        "Music & Radio",
+        "Rock&Pop"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/d9465767-d407-4307-9fdf-b1d8403f82bd/16-9"
     }
   ]
 }
