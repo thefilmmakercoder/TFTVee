@@ -4,66 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-09T04:00:00+05:00",
-      "stop": "2026-05-09T05:00:00+05:00",
-      "title": "KTLA 5 News at 4",
-      "desc": "Stay informed with the latest breaking news and headlines.",
-      "date": "2018",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p15020116_b_h8_aa.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-09T05:00:00+05:00",
-      "stop": "2026-05-09T06:00:00+05:00",
-      "title": "KTLA 5 News at 5",
-      "desc": "Stay informed with the latest breaking news and headlines.",
-      "date": "2024",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p28641441_st_h10_aa.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-09T06:00:00+05:00",
-      "stop": "2026-05-09T06:30:00+05:00",
-      "title": "KTLA 5 News at 6",
-      "desc": "Stay informed with the latest breaking news and headlines.",
-      "date": "2009",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p7835554_b_h8_ab.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-09T06:30:00+05:00",
-      "stop": "2026-05-09T07:00:00+05:00",
-      "title": "KTLA 5 News at 6:30",
-      "desc": "Stay informed with the latest breaking news and headlines.",
-      "date": "2009",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p755462_b_h8_ab.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-09T07:00:00+05:00",
-      "stop": "2026-05-09T07:30:00+05:00",
-      "title": "KTLA 5 News at 7",
-      "desc": "Stay informed with the latest breaking news and headlines.",
-      "date": "2018",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p15921240_b_h8_aa.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-05-09T07:30:00+05:00",
       "stop": "2026-05-09T08:00:00+05:00",
       "title": "L.A. Unscripted",
@@ -74,6 +14,83 @@
         "Entertainment"
       ],
       "icon": "http://dtil.tmsimg.com/assets/p18725702_st_h10_aa.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-09T08:00:00+05:00",
+      "stop": "2026-05-09T09:00:00+05:00",
+      "title": "Penn & Teller: Fool Us",
+      "sub_title": "Who's Your Daddy?!",
+      "desc": "Featured magicians include Moxie Jillette, Daxien, The Cosmic Romantics and David Schwartz.",
+      "date": "2023",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Reality",
+        "Entertainment",
+        "Game show",
+        "Mystery"
+      ],
+      "episode": "S10 E1",
+      "icon": "http://dtil.tmsimg.com/assets/p8449504_b_h8_ac.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Brooke Burke",
+          "Penn Jillette",
+          "Teller"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-09T09:00:00+05:00",
+      "stop": "2026-05-09T10:00:00+05:00",
+      "title": "The American Bible Challenge",
+      "desc": "Teams from Pasadena, Calif.; Sacramento, Calif.; and Chicago, Ill.",
+      "date": "2012",
+      "language": "en",
+      "categories": [
+        "Series",
+        "Game show"
+      ],
+      "episode": "S1 E6",
+      "icon": "http://dtil.tmsimg.com/assets/p9355734_b_h8_ac.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Jeff Foxworthy"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-09T10:00:00+05:00",
+      "stop": "2026-05-09T10:45:00+05:00",
+      "title": "KTLA 5 News at 10",
+      "desc": "Stay informed with the latest breaking news and headlines.",
+      "date": "2005",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p755466_b_h8_ab.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-09T10:45:00+05:00",
+      "stop": "2026-05-09T11:00:00+05:00",
+      "title": "KTLA 5 Sports Final",
+      "date": "2015",
+      "language": "en",
+      "icon": "http://dtil.tmsimg.com/assets/p11331887_b_h8_aa.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-09T11:00:00+05:00",
+      "stop": "2026-05-09T11:35:00+05:00",
+      "title": "KTLA 5 News at 11",
+      "desc": "Stay informed with the latest breaking news and headlines.",
+      "date": "2014",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p10749029_b_h8_ab.jpg?w=960&h=540"
     }
   ]
 }

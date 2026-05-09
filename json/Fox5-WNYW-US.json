@@ -4,39 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-09T04:30:00+05:00",
-      "stop": "2026-05-09T05:00:00+05:00",
-      "title": "TMZ",
-      "desc": "TMZ TV tracks down today's hottest stars with their cameras, whether they are hitting the clubs or the dry cleaners.",
-      "date": "2026",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Series",
-        "Newsmagazine",
-        "Entertainment"
-      ],
-      "episode": "S19 E215",
-      "icon": "http://dtil.tmsimg.com/assets/p30985766_b_h10_aa.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Harvey Levin"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-09T05:00:00+05:00",
-      "stop": "2026-05-09T08:00:00+05:00",
-      "title": "Live: United Football League",
-      "desc": "The Aviators face the Battlehawks at the Dome at America's Center. At 4-2, St. Louis has two straight wins, including a 16-3 victory in Week 6. The 2-4 Aviators have won two of three, most recently beating the Gamblers, 24-17, on May 1.",
-      "language": "en",
-      "categories": [
-        "Sports",
-        "Football"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/GNLZZGG0031CY1N.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-05-09T08:00:00+05:00",
       "stop": "2026-05-09T08:30:00+05:00",
       "title": "The 10 O'Clock News",
@@ -87,6 +54,50 @@
       ],
       "episode": "S1 E103",
       "icon": "http://dtil.tmsimg.com/assets/p30947082_b_h10_aa.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-09T10:00:00+05:00",
+      "stop": "2026-05-09T10:30:00+05:00",
+      "title": "25 Words or Less",
+      "sub_title": "This Game Was Bugging Them",
+      "desc": "The team feels close, but confusion spreads fast; can they shake it off and land the word before time's up?",
+      "date": "2026",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Game show"
+      ],
+      "episode": "S7 E110",
+      "icon": "http://dtil.tmsimg.com/assets/p15722953_b_h8_am.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Meredith Vieira",
+          "Billy Gardell",
+          "Jackie Tohn"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-09T10:30:00+05:00",
+      "stop": "2026-05-09T11:00:00+05:00",
+      "title": "TMZ",
+      "desc": "TMZ TV tracks down today's hottest stars with their cameras, whether they are hitting the clubs or the dry cleaners.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Newsmagazine",
+        "Entertainment"
+      ],
+      "episode": "S19 E215",
+      "icon": "http://dtil.tmsimg.com/assets/p30985766_b_h10_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Harvey Levin"
+        ]
+      }
     }
   ]
 }

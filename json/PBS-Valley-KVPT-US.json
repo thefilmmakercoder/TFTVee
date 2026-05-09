@@ -4,93 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-09T04:30:00+05:00",
-      "stop": "2026-05-09T05:00:00+05:00",
-      "title": "Jul's Armenian Kitchen",
-      "date": "2026",
-      "language": "en",
-      "categories": [
-        "Series",
-        "Community"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p32937009_st_h10_aa.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-09T05:00:00+05:00",
-      "stop": "2026-05-09T05:30:00+05:00",
-      "title": "BBC News: The Context USA",
-      "desc": "Coverage from Washington, D.C. and London, with a regular panel of guests from across the political spectrum discussing the biggest stories of the day.",
-      "date": "2026",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p32830235_b_h10_aa.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Christian Fraser"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-09T05:30:00+05:00",
-      "stop": "2026-05-09T06:00:00+05:00",
-      "title": "BBC News America",
-      "desc": "Live news program produced out of BBC's Washington, D.C. bureau; host Sumi Somaskanda.",
-      "date": "2023",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p24458358_b_h10_ab.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Sumi Somaskanda"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-09T06:00:00+05:00",
-      "stop": "2026-05-09T07:00:00+05:00",
-      "title": "PBS News Hour",
-      "desc": "Co-anchors Amna Nawaz and Geoff Bennett and correspondents offer in-depth analysis of current events.",
-      "date": "2026",
-      "language": "en",
-      "categories": [
-        "Series",
-        "News"
-      ],
-      "episode": "S52 E224",
-      "icon": "http://dtil.tmsimg.com/assets/p27608822_b_h8_ac.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Amna Nawaz",
-          "Geoff Bennett"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-09T07:00:00+05:00",
-      "stop": "2026-05-09T07:30:00+05:00",
-      "title": "Washington Week With The Atlantic",
-      "desc": "A panel of journalists provides reporting and analysis of the major stories emanating from the United States capital.",
-      "date": "2026",
-      "language": "en",
-      "categories": [
-        "Series",
-        "News",
-        "Public affairs",
-        "Politics"
-      ],
-      "episode": "S60 E45",
-      "icon": "http://dtil.tmsimg.com/assets/p25350982_b_h8_aa.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Jeffrey Goldberg"
-        ]
-      }
-    },
-    {
       "start": "2026-05-09T07:30:00+05:00",
       "stop": "2026-05-09T08:00:00+05:00",
       "title": "Firing Line With Margaret Hoover",
@@ -108,6 +21,119 @@
       "credits": {
         "actor": [
           "Margaret Hoover"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-09T08:00:00+05:00",
+      "stop": "2026-05-09T09:00:00+05:00",
+      "title": "Finding Your Roots With Henry Louis Gates, Jr.",
+      "sub_title": "In the Blood",
+      "desc": "Actor Michael Douglas and writer/director Lena Dunham explore their family roots.",
+      "date": "2024",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Documentary",
+        "History"
+      ],
+      "episode": "S10 E9",
+      "icon": "http://dtil.tmsimg.com/assets/p9029128_b_h8_ad.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Jesse Sweet",
+          "Hazel Gurland"
+        ],
+        "actor": [
+          "Henry Louis Gates",
+          "Michael Douglas",
+          "Lena Dunham"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-09T09:00:00+05:00",
+      "stop": "2026-05-09T11:30:00+05:00",
+      "title": "Great Performances",
+      "sub_title": "Suffs",
+      "desc": "The story of the American suffragist movement and the friendships, heartbreak and action that brought women together and tore them apart.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "Series",
+        "Anthology",
+        "Music",
+        "Dance",
+        "Drama",
+        "Performing arts"
+      ],
+      "episode": "S53 E12",
+      "icon": "http://dtil.tmsimg.com/assets/p31082022_b_h10_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Shaina Taub",
+          "Nikki M. James",
+          "Jenn Colella"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-09T11:30:00+05:00",
+      "stop": "2026-05-09T12:00:00+05:00",
+      "title": "Perfect 36: When Women Won the Vote",
+      "desc": "A heated debate to pass the 19th Amendment giving women the right to vote escalates in Nashville, Tenn., in 1920.",
+      "date": "2017",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Special",
+        "Documentary"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p13746242_b_h8_ac.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Yoshie Lewis"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-09T12:00:00+05:00",
+      "stop": "2026-05-09T13:00:00+05:00",
+      "title": "Amanpour and Company",
+      "desc": "Christiane Amanpour leads discussions about world issues and interviews with global leaders.",
+      "date": "2026",
+      "language": "en",
+      "categories": [
+        "Series",
+        "Public affairs"
+      ],
+      "episode": "S8 E158",
+      "icon": "http://dtil.tmsimg.com/assets/p15694932_b_h8_ac.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Christiane Amanpour"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-09T13:00:00+05:00",
+      "stop": "2026-05-09T15:30:00+05:00",
+      "title": "Moments to Remember (My Music Presents)",
+      "desc": "Frankie Laine, Julius LaRosa, the Four Lads, the Four Freshmen and Herb Reed's Platters are a few of the musicians who perform their hits of the late 1950s and early '60s.",
+      "date": "2006",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Special",
+        "Music"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p265087_b_h10_ab.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Patti Page",
+          "Nick Clooney"
         ]
       }
     }

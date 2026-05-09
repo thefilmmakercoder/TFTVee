@@ -4,70 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-09T03:30:00+05:00",
-      "stop": "2026-05-09T04:30:00+05:00",
-      "title": "Space Voyages",
-      "sub_title": "The Moon and Beyond",
-      "desc": "Buzz Aldrin, Jim Lovell, and NASA experts discuss the Apollo missions and look into the future of deep space exploration.",
-      "date": "20131230",
-      "language": "en",
-      "categories": [
-        "Science",
-        "Educational",
-        "Series"
-      ],
-      "episode": "S01E02",
-      "icon": "https://images.pluto.tv/series/6094ae1d41fc48001326b567/tile.jpg?fill=blur&fit=fill&fm=jpg&h=900&q=75&w=900"
-    },
-    {
-      "start": "2026-05-09T04:30:00+05:00",
-      "stop": "2026-05-09T05:30:00+05:00",
-      "title": "America in Color",
-      "sub_title": "The 1920s",
-      "desc": "Watch the Model T roll out, the Jazz Age erupt, and the market crash, as it has never been seen before: in color.",
-      "date": "20170702",
-      "language": "en",
-      "categories": [
-        "Educational",
-        "Series",
-        "History"
-      ],
-      "episode": "S01E01",
-      "icon": "https://images.pluto.tv/series/61243518d343140013d451c0/tile.jpg?fill=blur&fit=fill&fm=jpg&h=900&q=75&w=900"
-    },
-    {
-      "start": "2026-05-09T05:30:00+05:00",
-      "stop": "2026-05-09T06:30:00+05:00",
-      "title": "America in Color",
-      "sub_title": "Playtime",
-      "desc": "Visit Coney Island, Disneyland, the Kentucky Derby, and Notre Dame football, in their infancy and in color.",
-      "date": "20181210",
-      "language": "en",
-      "categories": [
-        "Educational",
-        "Series",
-        "History"
-      ],
-      "episode": "S02E04",
-      "icon": "https://images.pluto.tv/series/61243518d343140013d451c0/tile.jpg?fill=blur&fit=fill&fm=jpg&h=900&q=75&w=900"
-    },
-    {
-      "start": "2026-05-09T06:30:00+05:00",
-      "stop": "2026-05-09T07:30:00+05:00",
-      "title": "America in Color",
-      "sub_title": "The Wild West",
-      "desc": "From Buffalo Bill to the construction of the Hoover Dam, this is the story of America's Wild West in color.",
-      "date": "20181119",
-      "language": "en",
-      "categories": [
-        "Educational",
-        "Series",
-        "History"
-      ],
-      "episode": "S02E01",
-      "icon": "https://images.pluto.tv/series/61243518d343140013d451c0/tile.jpg?fill=blur&fit=fill&fm=jpg&h=900&q=75&w=900"
-    },
-    {
       "start": "2026-05-09T07:30:00+05:00",
       "stop": "2026-05-09T08:30:00+05:00",
       "title": "America in Color",
@@ -76,8 +12,8 @@
       "date": "20170709",
       "language": "en",
       "categories": [
-        "Educational",
         "Series",
+        "Educational",
         "History"
       ],
       "episode": "S01E02",
@@ -97,6 +33,68 @@
       ],
       "episode": "S03E06",
       "icon": "https://images.pluto.tv/series/61243518d343140013d451c0/tile.jpg?fill=blur&fit=fill&fm=jpg&h=900&q=75&w=900"
+    },
+    {
+      "start": "2026-05-09T09:30:00+05:00",
+      "stop": "2026-05-09T10:30:00+05:00",
+      "title": "America in Color",
+      "sub_title": "Organized Crime",
+      "desc": "From the Black Sox Scandal to the St. Valentine's Day Massacre, follow America's history of organized crime, in color.",
+      "date": "20181203",
+      "language": "en",
+      "categories": [
+        "Series",
+        "Educational",
+        "History"
+      ],
+      "episode": "S02E03",
+      "icon": "https://images.pluto.tv/series/61243518d343140013d451c0/tile.jpg?fill=blur&fit=fill&fm=jpg&h=900&q=75&w=900"
+    },
+    {
+      "start": "2026-05-09T10:30:00+05:00",
+      "stop": "2026-05-09T11:30:00+05:00",
+      "title": "America in Color",
+      "sub_title": "Titans of Industry",
+      "desc": "An unprecedented, colorful look at how Henry Ford, Harvey Firestone, and Thomas Edison reshaped America.",
+      "date": "20181126",
+      "language": "en",
+      "categories": [
+        "Series",
+        "Educational",
+        "History"
+      ],
+      "episode": "S02E02",
+      "icon": "https://images.pluto.tv/series/61243518d343140013d451c0/tile.jpg?fill=blur&fit=fill&fm=jpg&h=900&q=75&w=900"
+    },
+    {
+      "start": "2026-05-09T11:30:00+05:00",
+      "stop": "2026-05-09T12:30:00+05:00",
+      "title": "America in Color",
+      "sub_title": "Crimes of the Century",
+      "desc": "A look at Bonnie and Clyde, the Scopes \"monkey\" trial, and other crimes of the early 20th century in America, presented through colorized and remastered footage.",
+      "date": "20191216",
+      "language": "en",
+      "categories": [
+        "Series",
+        "Documentary"
+      ],
+      "episode": "S03E05",
+      "icon": "https://images.pluto.tv/series/61243518d343140013d451c0/tile.jpg?fill=blur&fit=fill&fm=jpg&h=900&q=75&w=900"
+    },
+    {
+      "start": "2026-05-09T12:30:00+05:00",
+      "stop": "2026-05-09T13:30:00+05:00",
+      "title": "Ice Airport Alaska",
+      "sub_title": "Holiday Whiteout",
+      "desc": "The dedicated crews at Ted Stevens and Fairbanks International work overtime to keep the holiday traffic moving though a freak storm and plunging temps.",
+      "date": "20230109",
+      "language": "en",
+      "categories": [
+        "Series",
+        "Reality"
+      ],
+      "episode": "S03E01",
+      "icon": "https://images.pluto.tv/series/650b5d5f3b20050013b5547c/tile.jpg?fill=blur&fit=fill&fm=jpg&h=900&q=75&w=900"
     }
   ]
 }
