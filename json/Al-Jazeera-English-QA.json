@@ -4,30 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-09T23:00:00+05:00",
-      "stop": "2026-05-10T00:00:00+05:00",
-      "title": "Newshour",
-      "desc": "Latest news and in-depth analysis from around the world.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "World Affairs"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/15431e27-7468-4e80-ac99-8ac2f92f2eed/16-9"
-    },
-    {
-      "start": "2026-05-10T00:00:00+05:00",
-      "stop": "2026-05-10T00:30:00+05:00",
-      "title": "News Live",
-      "desc": "Up-to-date news and analysis from around the world.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "World Affairs"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/47dbb899-41ad-432b-a4db-e47857482edf/16-9"
-    },
-    {
       "start": "2026-05-10T00:30:00+05:00",
       "stop": "2026-05-10T01:00:00+05:00",
       "title": "The Listening Post",
@@ -67,6 +43,31 @@
     {
       "start": "2026-05-10T03:00:00+05:00",
       "stop": "2026-05-10T03:30:00+05:00",
+      "title": "News Live",
+      "desc": "Up-to-date news and analysis from around the world.",
+      "language": "en",
+      "categories": [
+        "News & Documentary",
+        "World Affairs"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/47dbb899-41ad-432b-a4db-e47857482edf/16-9"
+    },
+    {
+      "start": "2026-05-10T03:30:00+05:00",
+      "stop": "2026-05-10T04:00:00+05:00",
+      "title": "The Bottom Line",
+      "sub_title": "Ep",
+      "desc": "19 Economist Richard Wolff argues that the War on Iran will do lasting damage to the global economy.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Chat Show"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/d53f7d5e-18c6-4a52-a13d-7e32147d0904/16-9"
+    },
+    {
+      "start": "2026-05-10T04:00:00+05:00",
+      "stop": "2026-05-10T04:30:00+05:00",
       "title": "News Live",
       "desc": "Up-to-date news and analysis from around the world.",
       "language": "en",

@@ -4,47 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-09T23:30:00+05:00",
-      "stop": "2026-05-10T00:00:00+05:00",
-      "title": "Bingo Blitz",
-      "sub_title": "How Exciting!",
-      "desc": "Contestants compete in a dynamic blend of trivia and bingo.",
-      "date": "2025",
-      "language": "en",
-      "categories": [
-        "Series",
-        "Game show"
-      ],
-      "episode": "S1 E20",
-      "icon": "http://dtil.tmsimg.com/assets/p29797522_b_h8_aa.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Valerie Bertinelli"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-10T00:00:00+05:00",
-      "stop": "2026-05-10T00:30:00+05:00",
-      "title": "America Says",
-      "sub_title": "The Passion Family vs. Lunch Bunch",
-      "desc": "John Michael Higgins hosts as two teams of friends race against a clock to guess how America filled in the blanks on a series of survey questions covering every topic under the sun.",
-      "date": "2021",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Series",
-        "Game show"
-      ],
-      "episode": "S4 E54",
-      "icon": "http://dtil.tmsimg.com/assets/p15529148_b_h8_ab.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "John Michael Higgins"
-        ]
-      }
-    },
-    {
       "start": "2026-05-10T00:30:00+05:00",
       "stop": "2026-05-10T01:00:00+05:00",
       "title": "America Says",
@@ -120,6 +79,45 @@
       ],
       "episode": "S1 E54",
       "icon": "http://dtil.tmsimg.com/assets/p30947082_b_h10_aa.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-10T02:30:00+05:00",
+      "stop": "2026-05-10T03:00:00+05:00",
+      "title": "Family Feud Favorites",
+      "desc": "\"Family Feud\" has seen some crazy moments over the years, so buckle up as we revisit these fan favorites.",
+      "date": "2025",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Comedy",
+        "Game show"
+      ],
+      "episode": "S1 E53",
+      "icon": "http://dtil.tmsimg.com/assets/p30947082_b_h10_aa.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-10T03:00:00+05:00",
+      "stop": "2026-05-10T04:00:00+05:00",
+      "title": "Celebrity Wheel of Fortune",
+      "sub_title": "James Pickens Jr., Brooke Burns and Johnny Weir",
+      "desc": "Celebrity contestants James Pickens Jr., Brooke Burns and Johnny Weir.",
+      "date": "2021",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Game show"
+      ],
+      "episode": "S2 E9",
+      "icon": "http://dtil.tmsimg.com/assets/p19081569_b_h8_as.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Pat Sajak",
+          "Vanna White",
+          "James Pickens"
+        ]
+      }
     }
   ]
 }
