@@ -4,25 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-09T15:30:00+05:00",
-      "stop": "2026-05-09T21:30:00+05:00",
-      "title": "..programmes start at 7.00pm",
-      "language": "en"
-    },
-    {
-      "start": "2026-05-09T21:30:00+05:00",
-      "stop": "2026-05-09T22:58:00+05:00",
-      "title": "..programmes start at 7.00pm",
-      "language": "en"
-    },
-    {
-      "start": "2026-05-09T22:58:00+05:00",
-      "stop": "2026-05-09T23:00:00+05:00",
-      "title": "This is BBC Three",
-      "desc": "Programmes start at 7.00pm.",
-      "language": "en"
-    },
-    {
       "start": "2026-05-09T23:00:00+05:00",
       "stop": "2026-05-09T23:45:00+05:00",
       "title": "Doctor Who",
@@ -57,6 +38,42 @@
         "Comedy"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/32fbe3f5-c5d6-4bdb-af88-7cd296b7480e/16-9"
+    },
+    {
+      "start": "2026-05-10T01:00:00+05:00",
+      "stop": "2026-05-10T01:30:00+05:00",
+      "title": "Ghosts",
+      "desc": "Alison has invited Lucy to come to Button House for a sleepover, but after a concerning meeting with the solicitor, Alison must work out if Lucy is really who she says she is.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Comedy"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/1bc98905-def3-4b50-be3e-5d879c49ecb0/16-9"
+    },
+    {
+      "start": "2026-05-10T01:30:00+05:00",
+      "stop": "2026-05-10T02:00:00+05:00",
+      "title": "Miranda",
+      "desc": "Sitcom. Miranda has spent most of her life avoiding being set up by her mother and has to find a good excuse when she sees a photo of an intended party date.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Comedy"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/3eef5273-2d9e-4565-a809-decd697a7151/16-9"
+    },
+    {
+      "start": "2026-05-10T02:00:00+05:00",
+      "stop": "2026-05-10T02:30:00+05:00",
+      "title": "Miranda",
+      "desc": "Sitcom. Miranda and Stevie become highly competitive when a handsome man leaves his wallet in the shop. Meanwhile, Tilly invites Miranda to Henley Regatta.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Comedy"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/3730fcc2-4f38-4931-9c78-cf287f9b0fcb/16-9"
     }
   ]
 }

@@ -4,53 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-09T21:00:00+05:00",
-      "stop": "2026-05-09T22:00:00+05:00",
-      "title": "Aerial America",
-      "sub_title": "Alaska's Call of the Wild",
-      "desc": "A look at America's landmarks, including a view of bears catching clams in Alaska's rivers; a high-flying tour reveals Alaska's call of the wild spirit that has lured adventurers and dreamers north for centuries.",
-      "date": "2014",
-      "language": "en",
-      "rating": "TVG",
-      "categories": [
-        "Series",
-        "Documentary",
-        "Nature"
-      ],
-      "episode": "S1 E47",
-      "icon": "http://dtil.tmsimg.com/assets/p12193381_b_h10_aa.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Jim Conrad"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-09T22:00:00+05:00",
-      "stop": "2026-05-09T23:00:00+05:00",
-      "title": "Aerial America",
-      "sub_title": "Alaska's Fire and Ice",
-      "desc": "The world's largest volcanic island; Iceland's landscapes, forged by fire and ice; a tour over Alaska, the residents it attracts and the wildlife that thrives in these unique surroundings.",
-      "date": "2014",
-      "language": "en",
-      "rating": "TVG",
-      "categories": [
-        "Series",
-        "Documentary",
-        "Nature"
-      ],
-      "episode": "S1 E46",
-      "icon": "http://dtil.tmsimg.com/assets/p12193381_b_h10_aa.jpg?w=960&h=540",
-      "credits": {
-        "director": [
-          "Toby Beach"
-        ],
-        "actor": [
-          "Jim Conrad"
-        ]
-      }
-    },
-    {
       "start": "2026-05-09T23:00:00+05:00",
       "stop": "2026-05-10T00:00:00+05:00",
       "title": "Aerial America",
@@ -145,6 +98,45 @@
           "Jim Conrad"
         ]
       }
+    },
+    {
+      "start": "2026-05-10T03:00:00+05:00",
+      "stop": "2026-05-10T04:00:00+05:00",
+      "title": "America's Secret D-Day Disaster",
+      "desc": "The Allied forces' top-secret rehearsal for D-Day that went wrong.",
+      "date": "2014",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Special",
+        "Documentary",
+        "History"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p10780195_b_h10_ab.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Richard Max"
+        ],
+        "actor": [
+          "Harry Bennett",
+          "Laurie Bolton",
+          "Arthur Brookes"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-10T04:00:00+05:00",
+      "stop": "2026-05-10T05:00:00+05:00",
+      "title": "D-Day",
+      "desc": "A retelling of the D-Day invasion and its critical naval operation involving an armada of diverse and ingenious vessels.",
+      "date": "2020",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "History",
+        "Documentary"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p26695026_b_h11_aa.jpg?w=960&h=540"
     }
   ]
 }

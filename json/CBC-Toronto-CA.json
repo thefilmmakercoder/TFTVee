@@ -4,41 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-09T21:00:00+05:00",
-      "stop": "2026-05-09T22:00:00+05:00",
-      "title": "The Dog Academy",
-      "desc": "Ken is terrified of dogs, including his own 18-month-old cockapoo, called Freddie.",
-      "date": "2023",
-      "language": "en",
-      "rating": "6",
-      "categories": [
-        "Series",
-        "Animals",
-        "Reality"
-      ],
-      "episode": "S1 E3",
-      "icon": "http://dtil.tmsimg.com/assets/p24341950_b_h8_al.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Nick Grimshaw"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-09T22:00:00+05:00",
-      "stop": "2026-05-09T23:00:00+05:00",
-      "title": "Absolutely Canadian",
-      "sub_title": "The Camino",
-      "desc": "A Montrealer walks the physically and spiritually challenging Camino de Santiago trail in Spain for 40 days, a fraction of his decade-long quest to find his place in the world.",
-      "language": "en",
-      "categories": [
-        "Series",
-        "Documentary"
-      ],
-      "episode": "E32",
-      "icon": "http://dtil.tmsimg.com/assets/p8822122_b_h10_ad.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-05-09T23:00:00+05:00",
       "stop": "2026-05-10T00:00:00+05:00",
       "title": "The Nature of Things",
@@ -108,6 +73,31 @@
         "Hockey"
       ],
       "icon": "http://dtil.tmsimg.com/assets/GNLZZGG0033J8N4.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-10T06:00:00+05:00",
+      "stop": "2026-05-10T08:30:00+05:00",
+      "title": "Live: NHL Hockey",
+      "desc": "The Avalanche face the Wild in Game 3 of the West second round at Grand Casino Arena in St. Paul. Colorado has won two straight. Martin Necas scored in Game 2, but Kirill Kaprizov tied it six seconds later for the fifth-fastest response in history.",
+      "language": "en",
+      "categories": [
+        "Sports",
+        "Playoff sports",
+        "Hockey"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/GNLZZGG0033J13L.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-10T08:30:00+05:00",
+      "stop": "2026-05-10T11:00:00+05:00",
+      "title": "CEBL Basketball",
+      "desc": "Coverage of basketball action from the Canadian Elite Basketball League.",
+      "language": "en",
+      "categories": [
+        "Sports",
+        "Basketball"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/GNLZZGG0032FXRK.jpg?w=960&h=540"
     }
   ]
 }

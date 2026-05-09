@@ -4,30 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-09T21:40:00+05:00",
-      "stop": "2026-05-09T22:25:00+05:00",
-      "title": "Celebrity Bridge of Lies",
-      "desc": "Ross Kemp presents a celebrity special edition of the high-stakes quiz. Actor Charlie Brooks, Dr Amir Khan, presenter Sara Damergi and comedian Tim Vine face the Bridge of Lies.",
-      "language": "en",
-      "categories": [
-        "Entertainment",
-        "Game Show"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/a4b73c3b-3041-4ac8-8ae1-a6f7013c6d1c/16-9"
-    },
-    {
-      "start": "2026-05-09T22:25:00+05:00",
-      "stop": "2026-05-09T23:00:00+05:00",
-      "title": "Blankety Blank",
-      "desc": "Bradley Walsh hosts as Julian Clary, Sophie Willan, Harry Pinero, Liza Tarbuck, Judi Love and Tom Allen try to fill in the missing blanks and win prizes for some lucky contestants.",
-      "language": "en",
-      "categories": [
-        "Entertainment",
-        "Game Show"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/6338d6b2-4711-4839-b85c-29eed01fc6ec/16-9"
-    },
-    {
       "start": "2026-05-09T23:00:00+05:00",
       "stop": "2026-05-10T00:00:00+05:00",
       "title": "Michael McIntyre's Big Show",
@@ -74,6 +50,30 @@
         "Comedy"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/368d6303-80a4-4a59-beff-5633e1d613f9/16-9"
+    },
+    {
+      "start": "2026-05-10T02:00:00+05:00",
+      "stop": "2026-05-10T02:15:00+05:00",
+      "title": "BBC News",
+      "desc": "The latest national and international news from the BBC.",
+      "language": "en",
+      "categories": [
+        "News & Documentary",
+        "News"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/1c29cc5b-12b0-44ac-994a-d2094153d4bf/16-9"
+    },
+    {
+      "start": "2026-05-10T02:15:00+05:00",
+      "stop": "2026-05-10T02:20:00+05:00",
+      "title": "Weather",
+      "desc": "The latest weather forecast.",
+      "language": "en",
+      "categories": [
+        "News & Documentary",
+        "News"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/d6263324-f7ff-4d65-939a-2925c1dd1ddb/16-9"
     }
   ]
 }
