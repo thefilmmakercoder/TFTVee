@@ -4,19 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-10T01:00:00+05:00",
-      "stop": "2026-05-10T02:00:00+05:00",
-      "title": "rage Charts",
-      "desc": "Keep the party vibe going every Saturday morning with wall-to-wall music videos, from classic hits and long-forgotten tracks from the rage vault, to the latest new releases and special features.",
-      "language": "en",
-      "rating": "PG",
-      "categories": [
-        "Music"
-      ],
-      "episode": "E19",
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/19151291/image/334x188"
-    },
-    {
       "start": "2026-05-10T02:00:00+05:00",
       "stop": "2026-05-10T04:00:00+05:00",
       "title": "Weekend Breakfast",
@@ -83,6 +70,19 @@
       ],
       "episode": "S40 E9",
       "icon": "https://www.fetchtv.com.au/v2/epg/program/135713/image/334x188"
+    },
+    {
+      "start": "2026-05-10T06:30:00+05:00",
+      "stop": "2026-05-10T07:00:00+05:00",
+      "title": "Songs of Praise",
+      "sub_title": "Mothering Sunday",
+      "desc": "Claire McCollum meets women inspired by their faith to nurture others.",
+      "language": "en",
+      "rating": "G",
+      "categories": [
+        "Music"
+      ],
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/125296/image/334x188"
     }
   ]
 }

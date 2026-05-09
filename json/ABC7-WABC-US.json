@@ -4,30 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-10T02:30:00+05:00",
-      "stop": "2026-05-10T03:00:00+05:00",
-      "title": "Eyewitness News at 5",
-      "desc": "Local and regional news.",
-      "date": "2017",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p13769033_b_h8_ab.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-10T03:00:00+05:00",
-      "stop": "2026-05-10T03:30:00+05:00",
-      "title": "Eyewitness News at 6",
-      "desc": "Stay informed with the latest breaking news and headlines.",
-      "date": "2017",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p13769035_b_h8_ab.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-05-10T03:30:00+05:00",
       "stop": "2026-05-10T04:00:00+05:00",
       "title": "ABC World News Tonight With David Muir",
@@ -104,6 +80,38 @@
           "Ernie Johnson",
           "Charles Barkley",
           "Shaquille O'Neal"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-10T05:30:00+05:00",
+      "stop": "2026-05-10T08:00:00+05:00",
+      "title": "Live: NBA Basketball",
+      "desc": "Western Conference Semifinal, Game 3.",
+      "language": "en",
+      "categories": [
+        "Sports",
+        "Playoff sports",
+        "Basketball"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/GNLZZGG0033MBJ4.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-10T08:00:00+05:00",
+      "stop": "2026-05-10T08:30:00+05:00",
+      "title": "Live: Inside the NBA",
+      "desc": "This Emmy Award-winning studio show, which airs following NBA telecasts on ESPN, is hosted by Ernie Johnson, with analysis from Hall of Famer Charles Barkley and NBA champions Kenny Smith and Shaquille O'Neal. It's a mix of highlights, interviews and hijinks, notably the verbal sparring sessions between the outspoken Barkley and his straight man, Smith. The show also welcomes various guest analysts throughout the season.",
+      "date": "2000",
+      "language": "en",
+      "categories": [
+        "Basketball"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p23456795_b_h8_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Ernie Johnson",
+          "Charles Barkley",
+          "Kenny Smith"
         ]
       }
     }

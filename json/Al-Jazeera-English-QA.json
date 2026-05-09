@@ -4,30 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-10T02:00:00+05:00",
-      "stop": "2026-05-10T03:00:00+05:00",
-      "title": "Newshour",
-      "desc": "Latest news and in-depth analysis from around the world.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "World Affairs"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/15431e27-7468-4e80-ac99-8ac2f92f2eed/16-9"
-    },
-    {
-      "start": "2026-05-10T03:00:00+05:00",
-      "stop": "2026-05-10T03:30:00+05:00",
-      "title": "News Live",
-      "desc": "Up-to-date news and analysis from around the world.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "World Affairs"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/47dbb899-41ad-432b-a4db-e47857482edf/16-9"
-    },
-    {
       "start": "2026-05-10T03:30:00+05:00",
       "stop": "2026-05-10T04:00:00+05:00",
       "title": "The Bottom Line",
@@ -75,6 +51,30 @@
         "World Affairs"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/16d15925-a056-4ca1-b85c-5034fe0f234e/16-9"
+    },
+    {
+      "start": "2026-05-10T06:00:00+05:00",
+      "stop": "2026-05-10T07:00:00+05:00",
+      "title": "Al Jazeera World",
+      "desc": "Infiltration From Within: Israel's intelligence investigated in a story of spies, moles and blind spots, from early-state betrayals to 7th October 2023 and today's conflict with Iran.",
+      "language": "en",
+      "categories": [
+        "News & Documentary",
+        "Politics"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/70eb78c5-8eeb-4585-9323-64e548892d30/16-9"
+    },
+    {
+      "start": "2026-05-10T07:00:00+05:00",
+      "stop": "2026-05-10T07:30:00+05:00",
+      "title": "News Live",
+      "desc": "Up-to-date news and analysis from around the world.",
+      "language": "en",
+      "categories": [
+        "News & Documentary",
+        "World Affairs"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/a2ae730b-1e1c-4922-bb48-d995d237870b/16-9"
     }
   ]
 }

@@ -4,31 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-10T00:00:00+05:00",
-      "stop": "2026-05-10T03:00:00+05:00",
-      "title": "Live: NBA Basketball",
-      "desc": "Eastern Conference Semifinal, Game 3.",
-      "language": "en",
-      "categories": [
-        "Sports",
-        "Playoff sports",
-        "Basketball"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/GNLZZGG0033NRBT.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-10T03:00:00+05:00",
-      "stop": "2026-05-10T03:30:00+05:00",
-      "title": "News 4 New York at 6 Weekend",
-      "desc": "Stay informed with the latest breaking news and headlines.",
-      "date": "2014",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p10760861_b_h10_aa.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-05-10T03:30:00+05:00",
       "stop": "2026-05-10T04:00:00+05:00",
       "title": "NBC Nightly News With Tom Llamas",
@@ -99,6 +74,52 @@
       "credits": {
         "actor": [
           "Chris Hardwick"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-10T06:00:00+05:00",
+      "stop": "2026-05-10T07:00:00+05:00",
+      "title": "Dateline NBC",
+      "sub_title": "Bethany Vanished",
+      "desc": "When a young pregnant mother goes missing in Virginia, her family embarks on a frantic search, but the case eventually goes cold; years later, investigators speak with a woman who tells a harrowing story and may hold the key to solving the case.",
+      "date": "2023",
+      "language": "en",
+      "categories": [
+        "Series",
+        "Newsmagazine",
+        "Mystery",
+        "Crime"
+      ],
+      "episode": "S32 E6",
+      "icon": "http://dtil.tmsimg.com/assets/p184061_b_h8_ab.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Lester Holt",
+          "Andrea Canning",
+          "Josh Mankiewicz"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-10T07:00:00+05:00",
+      "stop": "2026-05-10T08:00:00+05:00",
+      "title": "Saturday Night Live",
+      "sub_title": "Jenna Ortega; The 1975",
+      "desc": "From March 11, 2023: Host Jenna Ortega; The 1975 performs.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "Series",
+        "Comedy"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p183890_b_h8_at.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Michael Che",
+          "Mikey Day",
+          "Chloe Fineman"
         ]
       }
     }
