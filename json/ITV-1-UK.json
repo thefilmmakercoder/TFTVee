@@ -4,18 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-09T16:45:00+05:00",
-      "stop": "2026-05-09T19:30:00+05:00",
-      "title": "ITV Racing: Live from Lingfield",
-      "desc": "Oli Bell presents coverage of racing from Lingfield, Ascot and Haydock. Analysis from Jason Weaver and Leonna Mayor, with commentary from Mark Johnson.",
-      "language": "en",
-      "categories": [
-        "Sports",
-        "Racing"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/9bb0e006-e990-4c10-96b6-0a57f2ef3456/16-9"
-    },
-    {
       "start": "2026-05-09T19:30:00+05:00",
       "stop": "2026-05-09T20:30:00+05:00",
       "title": "Tipping Point",
@@ -74,6 +62,18 @@
         "Game Show"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/7873fbdb-c50b-4b92-9b83-855bee535fbe/16-9"
+    },
+    {
+      "start": "2026-05-09T23:00:00+05:00",
+      "stop": "2026-05-10T01:00:00+05:00",
+      "title": "Britain's Got Talent",
+      "desc": "Britain's Got Talent goes live on Saturday nights for the Semi-Finals as the acts who impressed the judges during auditions must now compete for a place in the grand finale.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Game Show"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/1ba63d54-810c-49a5-8038-423aebd7fc25/16-9"
     }
   ]
 }
