@@ -4,30 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-09T10:00:00+05:00",
-      "stop": "2026-05-09T14:00:00+05:00",
-      "title": "Breakfast",
-      "desc": "The latest news, sport, business and weather from the BBC's Breakfast team.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/46034e88-43e1-40ce-9ae6-5a5efd6034e0/16-9"
-    },
-    {
-      "start": "2026-05-09T14:00:00+05:00",
-      "stop": "2026-05-09T15:30:00+05:00",
-      "title": "Saturday Kitchen Live",
-      "desc": "Matt Tebbutt is joined by chefs Anna Haugh and John Javier, and by special guest Tim Minchin. Drinks expert Helen McGinn picks the wines to go with the studio dishes.",
-      "language": "en",
-      "categories": [
-        "Entertainment",
-        "Cooking"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/70616540-d49d-4ede-bb7f-4b578a96c27b/16-9"
-    },
-    {
       "start": "2026-05-09T15:30:00+05:00",
       "stop": "2026-05-09T16:00:00+05:00",
       "title": "Flaming Feasts",
@@ -74,6 +50,31 @@
         "News"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/73787543-3214-4103-9236-9452fcbaa58d/16-9"
+    },
+    {
+      "start": "2026-05-09T17:00:00+05:00",
+      "stop": "2026-05-09T18:00:00+05:00",
+      "title": "Bargain Hunt",
+      "desc": "Antiques experts help the reds and the blues race against the clock to uncover hidden gems. Will they make money in the auction room - and win the coveted Golden Gavel.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Game Show"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/35df8017-a30b-4517-b34b-cc182b7ff764/16-9"
+    },
+    {
+      "start": "2026-05-09T18:00:00+05:00",
+      "stop": "2026-05-09T20:30:00+05:00",
+      "title": "Rugby League Challenge Cup Semi-Final",
+      "sub_title": "St Helens v Wigan Warriors",
+      "desc": "The semi-finals kick off with a fierce derby clash as St Helens take on 21-time winners Wigan at the Halliwell Jones Stadium.",
+      "language": "en",
+      "categories": [
+        "Sports",
+        "Rugby"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/9e588598-9b27-426e-8597-7845d2230b49/16-9"
     }
   ]
 }

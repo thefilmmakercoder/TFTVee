@@ -4,13 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-09T08:00:00+05:00",
-      "stop": "2026-05-09T09:30:00+05:00",
-      "title": "This is BBC Three",
-      "desc": "Programmes start at 7.00pm.",
-      "language": "en"
-    },
-    {
       "start": "2026-05-09T09:30:00+05:00",
       "stop": "2026-05-09T15:30:00+05:00",
       "title": "..programmes start at 7.00pm",
@@ -46,6 +39,18 @@
         "Sci-Fi"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/ee04b20b-c042-47ab-8032-2baf60341142/16-9"
+    },
+    {
+      "start": "2026-05-09T23:45:00+05:00",
+      "stop": "2026-05-10T00:35:00+05:00",
+      "title": "Doctor Who",
+      "desc": "Sci-fi drama. When robots threaten Sherwood Forest, the Doctor must join forces with Robin Hood to stop the evil reign of the Sheriff of Nottingham.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Sci-Fi"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/93348037-9136-4186-a383-014953592631/16-9"
     }
   ]
 }

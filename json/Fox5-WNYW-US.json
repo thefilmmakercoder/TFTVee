@@ -4,53 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-09T14:00:00+05:00",
-      "stop": "2026-05-09T14:30:00+05:00",
-      "title": "Coffee With America",
-      "desc": "\"Coffee With America\" is a magazine show featuring lifestyle interviews and health and entertainment stories.",
-      "date": "2026",
-      "language": "en",
-      "rating": "TVG",
-      "categories": [
-        "Series",
-        "Talk",
-        "Newsmagazine"
-      ],
-      "episode": "S10 E36",
-      "icon": "http://dtil.tmsimg.com/assets/p12074786_b_h8_ad.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Sasha Rionda"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-09T14:30:00+05:00",
-      "stop": "2026-05-09T15:00:00+05:00",
-      "title": "Paid Programming",
-      "desc": "Paid programming.",
-      "language": "en",
-      "rating": "TVG",
-      "categories": [
-        "Consumer",
-        "Shopping",
-        "Variety"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-09T15:00:00+05:00",
-      "stop": "2026-05-09T15:30:00+05:00",
-      "title": "Good Day Street Talk",
-      "desc": "New York public affairs program focusing on important issues in the tri-state area.",
-      "date": "2010",
-      "language": "en",
-      "categories": [
-        "Public affairs"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p8083062_b_h10_ab.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-05-09T15:30:00+05:00",
       "stop": "2026-05-09T16:00:00+05:00",
       "title": "Victim of Nursing Home Abuse?",
@@ -104,6 +57,59 @@
           "Emily Calandrelli"
         ]
       }
+    },
+    {
+      "start": "2026-05-09T17:00:00+05:00",
+      "stop": "2026-05-09T17:30:00+05:00",
+      "title": "Xploration Nature Knows Best",
+      "sub_title": "Robots & Drones",
+      "desc": "A look at the latest robots inspired by nature.",
+      "date": "2017",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Science",
+        "Nature",
+        "Educational"
+      ],
+      "episode": "S2 E7",
+      "icon": "http://dtil.tmsimg.com/assets/p14423828_b_h8_ac.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Danni Washington"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-09T17:30:00+05:00",
+      "stop": "2026-05-09T18:00:00+05:00",
+      "title": "Second Chance Pets",
+      "desc": "Two dogs from the same home need leg braces; a dog named Scout is missing a leg and needs a brace to combat arthritis.",
+      "date": "2021",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Animals",
+        "Pets"
+      ],
+      "episode": "S1 E7",
+      "icon": "http://dtil.tmsimg.com/assets/p20326979_b_h10_aa.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-09T18:00:00+05:00",
+      "stop": "2026-05-09T18:30:00+05:00",
+      "title": "Paid Programming",
+      "desc": "Paid programming.",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Consumer",
+        "Shopping",
+        "Variety"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&h=540"
     }
   ]
 }

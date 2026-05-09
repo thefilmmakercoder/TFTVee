@@ -4,13 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-09T07:05:00+05:00",
-      "stop": "2026-05-09T09:30:00+05:00",
-      "title": "This is BBC Four",
-      "desc": "Programmes start at 7.00pm.",
-      "language": "en"
-    },
-    {
       "start": "2026-05-09T09:30:00+05:00",
       "stop": "2026-05-09T15:30:00+05:00",
       "title": "..programmes start at 7.00pm",
@@ -46,6 +39,18 @@
         "Game Show"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/21dae3d8-8324-4809-b149-a6565173444f/16-9"
+    },
+    {
+      "start": "2026-05-09T23:45:00+05:00",
+      "stop": "2026-05-10T00:10:00+05:00",
+      "title": "Dusty",
+      "desc": "An edition of Dusty Springfield's 1960s variety show, first broadcast on 8 September 1966. Her special guests are American vocal quartet The Four Freshmen.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Game Show"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/ef6420a8-b91b-4b70-8aa6-2b19fcb486ca/16-9"
     }
   ]
 }

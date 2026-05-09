@@ -4,55 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-09T14:05:00+05:00",
-      "stop": "2026-05-09T14:35:00+05:00",
-      "title": "Paid Programming",
-      "desc": "Paid programming.",
-      "language": "en",
-      "rating": "TVG",
-      "categories": [
-        "Consumer",
-        "Shopping",
-        "Variety"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-09T14:35:00+05:00",
-      "stop": "2026-05-09T15:05:00+05:00",
-      "title": "Bathroom Makeover",
-      "desc": "Transform your bath affordably in just one day!",
-      "language": "en",
-      "categories": [
-        "Consumer",
-        "Health",
-        "House/garden",
-        "Self improvement"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p30220270_b_h8_aa.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-09T15:05:00+05:00",
-      "stop": "2026-05-09T15:35:00+05:00",
-      "title": "CBS Evening News",
-      "desc": "Tony Dokoupil shares the day's most important stories, delivering context and depth to bring greater understanding to one's world.",
-      "date": "2026",
-      "language": "en",
-      "categories": [
-        "Series",
-        "News"
-      ],
-      "episode": "E128",
-      "icon": "http://dtil.tmsimg.com/assets/p28807922_b_h8_ae.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Tony Dokoupil",
-          "Maurice DuBois",
-          "Jericka Duncan"
-        ]
-      }
-    },
-    {
       "start": "2026-05-09T15:35:00+05:00",
       "stop": "2026-05-09T16:00:00+05:00",
       "title": "Made in Hollywood",
@@ -107,6 +58,68 @@
         "News"
       ],
       "icon": "http://dtil.tmsimg.com/assets/p31308548_b_h10_aa.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-09T19:00:00+05:00",
+      "stop": "2026-05-09T20:00:00+05:00",
+      "title": "CBS LA Mornings at 7am",
+      "desc": "Start your day with CBS LA Mornings, covering breaking stories from The Desk, and NEXT Weather and Traffic for Southern California.",
+      "date": "2025",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p31308696_b_h10_aa.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-09T20:00:00+05:00",
+      "stop": "2026-05-09T20:30:00+05:00",
+      "title": "Lucky Dog: Reunions",
+      "sub_title": "Gentle Giants",
+      "desc": "Brandon reunites with two of his largest and sweetest Lucky Dog graduates and learns how life has changed for the people who adopted them.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Series",
+        "Reality",
+        "Animals",
+        "Pets",
+        "Docudrama",
+        "Adventure"
+      ],
+      "episode": "S3 E20",
+      "icon": "http://dtil.tmsimg.com/assets/p28310521_b_h8_ab.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Brandon McMillan",
+          "Michael Berger"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-09T20:30:00+05:00",
+      "stop": "2026-05-09T21:00:00+05:00",
+      "title": "Lucky Dog: Down Under",
+      "sub_title": "Davey & Caroline",
+      "desc": "Australian tennis star Mark Philippoussis and his family hope a border collie mix named Davey will be the right four-legged teammate to join their family; a woman longing for the companionship of a dog meets a sweet terrier mix named Caroline.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Series",
+        "Animals",
+        "Pets",
+        "Reality"
+      ],
+      "episode": "S1 E20",
+      "icon": "http://dtil.tmsimg.com/assets/p31052061_b_h8_ac.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Brandon McMillan",
+          "Mark Philippoussis"
+        ]
+      }
     }
   ]
 }

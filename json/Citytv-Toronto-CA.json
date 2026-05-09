@@ -4,41 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-09T14:00:00+05:00",
-      "stop": "2026-05-09T14:30:00+05:00",
-      "title": "CityNews Tonight Toronto",
-      "desc": "Coverage of the day's top news stories.",
-      "date": "2019",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p16858130_b_h8_aa.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-09T14:30:00+05:00",
-      "stop": "2026-05-09T15:30:00+05:00",
-      "title": "Hudson & Rex",
-      "sub_title": "Due North",
-      "desc": "Rex seeks help from Detective Sidney Scott to save his stranded and injured friends.",
-      "date": "2023",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Series",
-        "Crime drama"
-      ],
-      "episode": "S5 E16",
-      "icon": "http://dtil.tmsimg.com/assets/p16646888_b_h8_bh.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "John Reardon",
-          "Mayko Nguyen",
-          "Kevin Hanchard"
-        ]
-      }
-    },
-    {
       "start": "2026-05-09T15:30:00+05:00",
       "stop": "2026-05-09T16:00:00+05:00",
       "title": "CityNews Tonight Toronto",
@@ -91,6 +56,55 @@
         "Community"
       ],
       "icon": "http://dtil.tmsimg.com/assets/p858786_b_h8_aa.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-09T19:00:00+05:00",
+      "stop": "2026-05-09T19:30:00+05:00",
+      "title": "The Marc & Mandy Show",
+      "sub_title": "For the Moms Who Do It All",
+      "desc": "Marc and Mandy celebrate Mom in the most meaningful way, with a heartwarming makeover.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Series",
+        "Talk"
+      ],
+      "episode": "E15",
+      "icon": "http://dtil.tmsimg.com/assets/p12007313_b_h10_ac.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Marc Atiyolil",
+          "Mandy Atiyolil"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-09T19:30:00+05:00",
+      "stop": "2026-05-09T20:00:00+05:00",
+      "title": "Judy Justice",
+      "sub_title": "Birthday Influencer or Personal Loan; Deer in the Headlights",
+      "desc": "A helicopter reporter denies owing $6K to a friend for his birthday party; a man helps his ex pay for repairs after she crashes into a deer and also says he loaned her money for her daughter's school expenses.",
+      "date": "2021",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "Series",
+        "Reality",
+        "Law"
+      ],
+      "episode": "S1 E35",
+      "icon": "http://dtil.tmsimg.com/assets/p20641302_b_h10_af.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Randy Douthit"
+        ],
+        "actor": [
+          "Judy Sheindlin",
+          "Kevin Rasco",
+          "Whitney Kumar"
+        ]
+      }
     }
   ]
 }

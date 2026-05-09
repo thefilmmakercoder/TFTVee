@@ -4,65 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-09T12:58:00+05:00",
-      "stop": "2026-05-09T13:59:00+05:00",
-      "title": "Strangest Things",
-      "sub_title": "Crystal Skull, Dragon Chair, Assyrian Star Map",
-      "desc": "Is a crystal skull powered? Is a spiked chair torture? Is a tablet astronomical?",
-      "date": "2025",
-      "language": "en",
-      "rating": "TV14",
-      "categories": [
-        "Series",
-        "Documentary",
-        "History"
-      ],
-      "episode": "S3 E8",
-      "icon": "http://dtil.tmsimg.com/assets/p19469726_b_h8_ar.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Corey Johnson"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-09T13:59:00+05:00",
-      "stop": "2026-05-09T15:00:00+05:00",
-      "title": "Strangest Things",
-      "sub_title": "Mechanical Turk, Lindbergh Pump, Etruscan Mummy",
-      "desc": "A robot chess player, an immortality device and a lost language, wrapped mummy?",
-      "date": "2025",
-      "language": "en",
-      "rating": "TV14",
-      "categories": [
-        "Series",
-        "Documentary",
-        "History",
-        "Mystery"
-      ],
-      "episode": "S3 E9",
-      "icon": "http://dtil.tmsimg.com/assets/p19469726_b_h8_ar.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Corey Johnson"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-09T15:00:00+05:00",
-      "stop": "2026-05-09T15:30:00+05:00",
-      "title": "Paid Programming",
-      "desc": "Paid programming.",
-      "language": "en",
-      "rating": "TVG",
-      "categories": [
-        "Consumer",
-        "Shopping",
-        "Variety"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-05-09T15:30:00+05:00",
       "stop": "2026-05-09T16:00:00+05:00",
       "title": "NEW! Shark PowerDetect with DuoClean Detect Technology",
@@ -98,6 +39,57 @@
         "Consumer"
       ],
       "icon": "http://dtil.tmsimg.com/assets/p29477991_b_h11_aa.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-09T17:00:00+05:00",
+      "stop": "2026-05-09T17:30:00+05:00",
+      "title": "POOF! Bye Bye Under Eye Bags!",
+      "desc": "Plexaderm helps reduce Under Eye Bags, Dark Circles, and Wrinkles in just 10 minutes!",
+      "language": "en",
+      "categories": [
+        "Consumer",
+        "Health",
+        "How-to",
+        "Medical"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p30715204_b_h8_aa.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-09T17:30:00+05:00",
+      "stop": "2026-05-09T18:00:00+05:00",
+      "title": "Paid Programming",
+      "desc": "Paid programming.",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Consumer",
+        "Shopping",
+        "Variety"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-09T18:00:00+05:00",
+      "stop": "2026-05-09T19:00:00+05:00",
+      "title": "Inside North Korea: The Kim Dynasty",
+      "desc": "The Kim family's hold on power is believed by many North Koreans to be the only thing saving them from annihilation.",
+      "date": "2018",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "Special",
+        "Documentary"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p14988630_b_h10_be.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Dan Clifton",
+          "Ben Finney"
+        ],
+        "actor": [
+          "Bob Hamer"
+        ]
+      }
     }
   ]
 }

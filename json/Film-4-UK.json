@@ -4,17 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-09T07:30:00+05:00",
-      "stop": "2026-05-09T11:00:00+05:00",
-      "title": "Teleshopping",
-      "desc": "Teleshopping.",
-      "language": "en",
-      "categories": [
-        "Specialist",
-        "Shopping"
-      ]
-    },
-    {
       "start": "2026-05-09T11:00:00+05:00",
       "stop": "2026-05-09T15:00:00+05:00",
       "title": "Teleshopping",
@@ -80,6 +69,18 @@
         "Comedy"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/4d2ec719-748e-4aef-9783-07fc3b04d877/16-9"
+    },
+    {
+      "start": "2026-05-09T22:05:00+05:00",
+      "stop": "2026-05-09T22:15:00+05:00",
+      "title": "The Martian Interview Special",
+      "desc": "Director Ridley Scott talks about making his science-fiction survival adventure starring Matt Damon.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Review"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/3283a2bc-351b-457b-9e56-5f702379546f/16-9"
     }
   ]
 }

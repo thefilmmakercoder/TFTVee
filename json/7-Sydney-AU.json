@@ -4,33 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-09T13:00:00+05:00",
-      "stop": "2026-05-09T14:00:00+05:00",
-      "title": "Seven News",
-      "sub_title": "Saturday 9 May 2026",
-      "desc": "Seven News live coverage of local, national and international news, plus sport, finance and weather updates. Go to 7NEWS.com.au today for more live updates.",
-      "language": "en",
-      "rating": "NR",
-      "categories": [
-        "Sports"
-      ],
-      "episode": "S26 E129",
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/5887474/image/334x188"
-    },
-    {
-      "start": "2026-05-09T14:00:00+05:00",
-      "stop": "2026-05-09T15:00:00+05:00",
-      "title": "Better Homes And Gardens",
-      "desc": "Dr Harry helps Max the five-year-old groodle to love car trips again. Melissa's meeting Brenton Roberts, one of South Australia's most famous home gardeners. Adam stops by the Fix-It Sisters Shed.",
-      "language": "en",
-      "rating": "G",
-      "categories": [
-        "Special Interest"
-      ],
-      "episode": "S32 E23",
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/133227/image/334x188"
-    },
-    {
       "start": "2026-05-09T15:00:00+05:00",
       "stop": "2026-05-09T15:30:00+05:00",
       "title": "Ooops I Bought A Pub!",
@@ -81,6 +54,31 @@
       ],
       "episode": "S2 E1",
       "icon": "https://www.fetchtv.com.au/v2/epg/program/400461/image/334x188"
+    },
+    {
+      "start": "2026-05-09T20:20:00+05:00",
+      "stop": "2026-05-09T21:00:00+05:00",
+      "title": "Harry's Practice",
+      "desc": "Join Dr Harry Cooper and Dr Katrina Warren for everything you need to know about animals.",
+      "language": "en",
+      "rating": "G",
+      "categories": [
+        "Special Interest"
+      ],
+      "episode": "S1 E111",
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/132203/image/334x188"
+    },
+    {
+      "start": "2026-05-09T21:00:00+05:00",
+      "stop": "2026-05-09T21:30:00+05:00",
+      "title": "TBA",
+      "desc": "TBA.",
+      "language": "en",
+      "rating": "NR",
+      "categories": [
+        "Sports"
+      ],
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/3647443/image/334x188"
     }
   ]
 }
