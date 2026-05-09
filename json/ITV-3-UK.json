@@ -4,18 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-09T06:15:00+05:00",
-      "stop": "2026-05-09T06:30:00+05:00",
-      "title": "Unwind with ITV",
-      "desc": "Your daily escape designed to calm the mind and encourage relaxation and reflection.",
-      "language": "en",
-      "categories": [
-        "Entertainment",
-        "Lifestyles"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/a19a0407-2547-3d09-9094-39c7368fdfb6/16-9"
-    },
-    {
       "start": "2026-05-09T06:30:00+05:00",
       "stop": "2026-05-09T10:00:00+05:00",
       "title": "Teleshopping",
@@ -76,6 +64,19 @@
         "Detective"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/bd894252-6b52-40f0-bf12-36960dbe15f4/16-9"
+    },
+    {
+      "start": "2026-05-09T18:15:00+05:00",
+      "stop": "2026-05-09T20:10:00+05:00",
+      "title": "Midsomer Murders",
+      "sub_title": "The Oblong Murders",
+      "desc": "Barnaby sends Jones undercover to investigate the disappearance of a female member of a New Age cult - is the case linked to a deadly boat explosion.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Detective"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/793726be-df9c-4c18-8820-0d37a0386d98/16-9"
     }
   ]
 }

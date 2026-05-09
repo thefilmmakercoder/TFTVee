@@ -4,51 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-09T07:30:00+05:00",
-      "stop": "2026-05-09T08:00:00+05:00",
-      "title": "Wheel of Fortune",
-      "sub_title": "Myrtle Beach Family Week",
-      "desc": "In a classic game-show version of \"Hangman,\" contestants solve word puzzles for cash and prizes.",
-      "date": "2026",
-      "language": "en",
-      "rating": "TVG",
-      "categories": [
-        "Series",
-        "Game show"
-      ],
-      "episode": "S43 E175",
-      "icon": "http://dtil.tmsimg.com/assets/p184057_b_h8_ai.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Ryan Seacrest",
-          "Vanna White"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-09T08:00:00+05:00",
-      "stop": "2026-05-09T09:00:00+05:00",
-      "title": "Celebrity Jeopardy!",
-      "sub_title": "Quarterfinal #6: Ray Romano, Mira Sorvino and Mo Rocca",
-      "desc": "Celebrity contestants Ray Romano, Mira Sorvino and Mo Rocca.",
-      "date": "2026",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Series",
-        "Game show"
-      ],
-      "episode": "S4 E6",
-      "icon": "http://dtil.tmsimg.com/assets/p22206206_b_h8_ah.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Ken Jennings",
-          "Ray Romano",
-          "Mira Sorvino"
-        ]
-      }
-    },
-    {
       "start": "2026-05-09T09:00:00+05:00",
       "stop": "2026-05-09T11:00:00+05:00",
       "title": "20/20",
@@ -86,18 +41,23 @@
       "start": "2026-05-09T11:35:00+05:00",
       "stop": "2026-05-09T12:37:00+05:00",
       "title": "Jimmy Kimmel Live!",
-      "desc": "Emmy-winning funnyman Jimmy Kimmel serves up comedy bits and welcomes guests that include other comics, celebrities, athletes and musicians, as well as everyday people with unusual or compelling personal stories. Kimmel's family and friends take part in the festivities, including his Cousin Sal, Uncle Frank (until his death in 2011) and childhood friend Cleto Escobedo III, who leads the show's house band. Recurring segments include the FCC-pleasing This Week in Unnecessary Censorship in which they take TV clips and \"bleep and blur things whether they need it or not,\" as Kimmel describes it. But it's too bad they consistently run out of time for Matt Damon's segment.",
-      "date": "2003",
+      "sub_title": "Meryl Streep; Desi Lydic",
+      "desc": "Actress Meryl Streep; comic Desi Lydic.",
+      "date": "2026",
       "language": "en",
       "rating": "TV14",
       "categories": [
+        "Series",
         "Talk",
         "Comedy"
       ],
+      "episode": "S24 E111",
       "icon": "http://dtil.tmsimg.com/assets/p31166959_b_h8_ac.jpg?w=960&h=540",
       "credits": {
         "actor": [
-          "Jimmy Kimmel"
+          "Jimmy Kimmel",
+          "Meryl Streep",
+          "Desi Lydic"
         ]
       }
     },
@@ -114,12 +74,54 @@
         "News",
         "Interview"
       ],
-      "episode": "E95",
+      "episode": "E96",
       "icon": "http://dtil.tmsimg.com/assets/p184465_b_h8_aa.jpg?w=960&h=540",
       "credits": {
         "actor": [
           "Juju Chang",
           "Byron Pitts"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-09T13:06:00+05:00",
+      "stop": "2026-05-09T13:36:00+05:00",
+      "title": "ABC World News Tonight With David Muir",
+      "desc": "Delivering the news that matters most.",
+      "date": "2026",
+      "language": "en",
+      "categories": [
+        "Series",
+        "News"
+      ],
+      "episode": "E128",
+      "icon": "http://dtil.tmsimg.com/assets/p10880351_b_h8_ah.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "David Muir"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-09T13:36:00+05:00",
+      "stop": "2026-05-09T14:36:00+05:00",
+      "title": "Live with Kelly and Mark",
+      "sub_title": "The \"I Love Mom\" Show",
+      "desc": "It's the \"I Love Mom\" show; Jerry O'Connell stops by, and Lindsay Hubbard is here; Steve Patterson hits the streets, Mother's Day style, and a final \"I Love Mom\" Inbox!",
+      "date": "2026",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Talk"
+      ],
+      "episode": "S4 E180",
+      "icon": "http://dtil.tmsimg.com/assets/p24324378_b_h8_ab.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Kelly Ripa",
+          "Mark Consuelos",
+          "Jerry O'Connell"
         ]
       }
     }
