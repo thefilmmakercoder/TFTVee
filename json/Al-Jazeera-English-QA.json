@@ -4,42 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-09T17:00:00+05:00",
-      "stop": "2026-05-09T18:00:00+05:00",
-      "title": "Al Jazeera World",
-      "desc": "Ep.410 04052026: A series of one-hour documentaries showcasing films from across the Al Jazeera Network.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "Politics"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/e1f195d6-8b66-45cc-a80c-3e0cc6966bb7/16-9"
-    },
-    {
-      "start": "2026-05-09T18:00:00+05:00",
-      "stop": "2026-05-09T19:00:00+05:00",
-      "title": "Newshour",
-      "desc": "Latest news and in-depth analysis from around the world.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "World Affairs"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/15431e27-7468-4e80-ac99-8ac2f92f2eed/16-9"
-    },
-    {
-      "start": "2026-05-09T19:00:00+05:00",
-      "stop": "2026-05-09T19:30:00+05:00",
-      "title": "News Live",
-      "desc": "Up-to-date news and analysis from around the world.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "World Affairs"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/47dbb899-41ad-432b-a4db-e47857482edf/16-9"
-    },
-    {
       "start": "2026-05-09T19:30:00+05:00",
       "stop": "2026-05-09T20:00:00+05:00",
       "title": "UpFront",
@@ -75,6 +39,41 @@
         "World Affairs"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/47dbb899-41ad-432b-a4db-e47857482edf/16-9"
+    },
+    {
+      "start": "2026-05-09T21:30:00+05:00",
+      "stop": "2026-05-09T22:00:00+05:00",
+      "title": "The Silencing of Anas Al Sharif",
+      "desc": "A haunting look at the targeted killing of journalist Anas al Sharif and the war on truth in Gaza.",
+      "language": "en",
+      "categories": [
+        "News & Documentary"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/4b2c7db2-81fb-42d6-9672-1d65e4ccb6e7/16-9"
+    },
+    {
+      "start": "2026-05-09T22:00:00+05:00",
+      "stop": "2026-05-09T22:30:00+05:00",
+      "title": "News Live",
+      "desc": "Up-to-date news and analysis from around the world.",
+      "language": "en",
+      "categories": [
+        "News & Documentary",
+        "World Affairs"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/47dbb899-41ad-432b-a4db-e47857482edf/16-9"
+    },
+    {
+      "start": "2026-05-09T22:30:00+05:00",
+      "stop": "2026-05-09T23:00:00+05:00",
+      "title": "Inside Story",
+      "desc": "Ep.1312 Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds from around the globe.",
+      "language": "en",
+      "categories": [
+        "News & Documentary",
+        "World Affairs"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/cb96c18b-a5d2-484d-b217-24f7ac48a86e/16-9"
     }
   ]
 }

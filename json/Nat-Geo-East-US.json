@@ -4,43 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-09T17:30:00+05:00",
-      "stop": "2026-05-09T18:00:00+05:00",
-      "title": "Paid Programming",
-      "desc": "Paid programming.",
-      "language": "en",
-      "rating": "TVG",
-      "categories": [
-        "Consumer",
-        "Shopping",
-        "Variety"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-09T18:00:00+05:00",
-      "stop": "2026-05-09T19:00:00+05:00",
-      "title": "Inside North Korea: The Kim Dynasty",
-      "desc": "The Kim family's hold on power is believed by many North Koreans to be the only thing saving them from annihilation.",
-      "date": "2018",
-      "language": "en",
-      "rating": "TV14",
-      "categories": [
-        "Special",
-        "Documentary"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p14988630_b_h10_be.jpg?w=960&h=540",
-      "credits": {
-        "director": [
-          "Dan Clifton",
-          "Ben Finney"
-        ],
-        "actor": [
-          "Bob Hamer"
-        ]
-      }
-    },
-    {
       "start": "2026-05-09T19:00:00+05:00",
       "stop": "2026-05-09T20:00:00+05:00",
       "title": "Inside North Korea: Fire and Fury",
@@ -114,6 +77,43 @@
         "Documentary"
       ],
       "icon": "http://dtil.tmsimg.com/assets/p17723268_b_h8_am.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-09T23:00:00+05:00",
+      "stop": "2026-05-10T00:00:00+05:00",
+      "title": "Inside North Korea: Then and Now With Lisa Ling",
+      "desc": "Lisa Ling goes under cover in North Korea and gains unprecedented access to this closed, authoritarian society.",
+      "date": "2017",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "Special",
+        "Documentary"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p14574472_b_h10_az.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Laura Ling",
+          "Lisa Ling"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-10T00:00:00+05:00",
+      "stop": "2026-05-10T01:00:00+05:00",
+      "title": "To Catch a Smuggler: Colombia",
+      "sub_title": "Trafficking Tourists",
+      "desc": "At Colombia's biggest airport, cocaine shows up in laptops and people's bodies.",
+      "date": "2017",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "Series",
+        "Documentary",
+        "Crime"
+      ],
+      "episode": "S2 E6",
+      "icon": "http://dtil.tmsimg.com/assets/p14806489_b_h10_ab.jpg?w=960&h=540"
     }
   ]
 }

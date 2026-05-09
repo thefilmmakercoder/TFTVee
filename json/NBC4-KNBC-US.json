@@ -4,53 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-09T17:00:00+05:00",
-      "stop": "2026-05-09T18:30:00+05:00",
-      "title": "Today",
-      "desc": "News headlines, interviews, and stories intended to inform, entertain, inspire and set the agenda each morning for Americans and help viewers with their finances, health and well-being.",
-      "date": "2026",
-      "language": "en",
-      "rating": "G",
-      "categories": [
-        "Series",
-        "Talk",
-        "News",
-        "Public affairs"
-      ],
-      "episode": "S74 E194",
-      "icon": "http://dtil.tmsimg.com/assets/p30939383_b_h8_aa.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Savannah Guthrie",
-          "Craig Melvin",
-          "Al Roker"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-09T18:30:00+05:00",
-      "stop": "2026-05-09T19:00:00+05:00",
-      "title": "Forever Young With Dr. Pablo Prichard",
-      "sub_title": "Down the Rabbit Hole: Inside the Microbiome",
-      "desc": "Danielle takes a journey with GloZell and her daughter as they shrink and explore the human gut; guided by Dr. Pablo, they meet the microscopic citizens that influence the body and reveal the lifestyle choices that can reshape the microbiome.",
-      "date": "2026",
-      "language": "en",
-      "rating": "TVG",
-      "categories": [
-        "Series",
-        "Educational",
-        "Health"
-      ],
-      "episode": "S1 E12",
-      "icon": "http://dtil.tmsimg.com/assets/p30941009_b_h10_aa.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Danielle Robb",
-          "Pablo Prichard"
-        ]
-      }
-    },
-    {
       "start": "2026-05-09T19:00:00+05:00",
       "stop": "2026-05-09T20:00:00+05:00",
       "title": "Today in LA Weekend",
@@ -130,6 +83,32 @@
           "Sheinelle Jones"
         ]
       }
+    },
+    {
+      "start": "2026-05-09T21:30:00+05:00",
+      "stop": "2026-05-09T23:30:00+05:00",
+      "title": "Live: Premier League Soccer",
+      "desc": "Manchester City hosts Brentford for a critical Matchweek 36 clash at the Etihad Stadium. Currently in second place with 71 points, City is chasing league-leaders Arsenal in a fierce title race, while Brentford sits in seventh place with 51 points.",
+      "language": "en",
+      "categories": [
+        "Sports",
+        "Soccer"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/GNLZZGG0033J25L.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-09T23:30:00+05:00",
+      "stop": "2026-05-10T00:00:00+05:00",
+      "title": "Live: Premier League Goal Zone",
+      "desc": "The best moments from the weekend in Premier League action.",
+      "date": "2013",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Sports talk",
+        "Soccer"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p10112820_b_h8_ad.jpg?w=960&h=540"
     }
   ]
 }

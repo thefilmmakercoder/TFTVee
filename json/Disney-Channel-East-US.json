@@ -4,17 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-09T18:25:00+05:00",
-      "stop": "2026-05-09T18:30:00+05:00",
-      "title": "Glitter Glide",
-      "date": "2026",
-      "language": "en",
-      "categories": [
-        "Special"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p33004288_b_h10_aa.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-05-09T18:30:00+05:00",
       "stop": "2026-05-09T19:00:00+05:00",
       "title": "Phineas and Ferb",
@@ -138,6 +127,33 @@
       "date": "2019",
       "language": "en",
       "rating": "TVY",
+      "categories": [
+        "Series",
+        "Animated",
+        "Children",
+        "Entertainment",
+        "Adventure",
+        "Animals"
+      ],
+      "episode": "S1",
+      "icon": "http://dtil.tmsimg.com/assets/p16030422_b_h10_at.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "David McCormack",
+          "Melanie Zanetti",
+          "Dan Brumm"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-10T00:40:00+05:00",
+      "stop": "2026-05-10T01:05:00+05:00",
+      "title": "Bluey",
+      "sub_title": "Wagon Ride; Taxi; The Beach",
+      "desc": "Bluey is upset when Dad keeps stopping on their walk; Bluey is Dad's only hope to make it to the airport; Bluey takes a solo adventure on the beach.",
+      "date": "2018",
+      "language": "en",
+      "rating": "TVG",
       "categories": [
         "Series",
         "Animated",

@@ -4,42 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-09T18:00:00+05:00",
-      "stop": "2026-05-09T18:30:00+05:00",
-      "title": "Paid Programming",
-      "desc": "Paid programming.",
-      "language": "en",
-      "rating": "TVG",
-      "categories": [
-        "Consumer",
-        "Shopping",
-        "Variety"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-09T18:30:00+05:00",
-      "stop": "2026-05-09T19:00:00+05:00",
-      "title": "NECTAR TRI-PILLOW -Cooler, Comfy, Better Sleep! Buy One Get One FREE!",
-      "desc": "Discover the Nectar Tri-Comfort Cooling Pillow for the ultimate sleep experience! Adjustable to three firmness levels to provide customized support and cooling all night long. Order NOW to get a second pillow FREE, plus a 30-night home trial!",
-      "language": "en",
-      "categories": [
-        "Consumer"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p30176714_b_h8_aa.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-09T19:00:00+05:00",
-      "stop": "2026-05-09T19:30:00+05:00",
-      "title": "The Aging Brain",
-      "desc": "Learn what's behind mental decline with age, and how to improve memory, focus and concentration with NeuroQ's Darrin Peterson and Dale Bredesen MD.",
-      "language": "en",
-      "categories": [
-        "Consumer"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p30127108_st_h10_aa.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-05-09T19:30:00+05:00",
       "stop": "2026-05-09T20:00:00+05:00",
       "title": "Emma: Natural Relief for Bloating, Constipation & Gut Imbalance",
@@ -71,6 +35,55 @@
         "Consumer"
       ],
       "icon": "http://dtil.tmsimg.com/assets/p29188954_st_h10_aa.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-09T21:00:00+05:00",
+      "stop": "2026-05-09T21:30:00+05:00",
+      "title": "Bathroom Makeover",
+      "desc": "Transform your bath affordably in just one day!",
+      "language": "en",
+      "categories": [
+        "Consumer",
+        "Health",
+        "House/garden",
+        "Self improvement"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p30220270_b_h8_aa.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-09T21:30:00+05:00",
+      "stop": "2026-05-09T22:00:00+05:00",
+      "title": "Paid Programming",
+      "desc": "Paid programming.",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Consumer",
+        "Shopping",
+        "Variety"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-09T22:00:00+05:00",
+      "stop": "2026-05-09T22:30:00+05:00",
+      "title": "Raw Travel",
+      "sub_title": "Parlez Vous Paris",
+      "desc": "Rob's challenged linguistic skills demonstrate that one needn't speak French to enjoy one of the world's greatest cities.",
+      "date": "2023",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Travel"
+      ],
+      "episode": "S10 E11",
+      "icon": "http://dtil.tmsimg.com/assets/p10064306_b_h10_ai.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Robert Rose"
+        ]
+      }
     }
   ]
 }

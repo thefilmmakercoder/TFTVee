@@ -4,61 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-09T18:00:00+05:00",
-      "stop": "2026-05-09T18:30:00+05:00",
-      "title": "Saturday Today in New York",
-      "desc": "The local news, weather and investigative stories impacting your community.",
-      "date": "2007",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p893330_b_h10_ac.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-09T18:30:00+05:00",
-      "stop": "2026-05-09T19:00:00+05:00",
-      "title": "George to the Rescue",
-      "desc": "George Oliphant comes to the rescue of families in need of renovating their homes.",
-      "date": "2010",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "House/garden"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p29553512_b_h10_aa.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "George Oliphant"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-09T19:00:00+05:00",
-      "stop": "2026-05-09T19:30:00+05:00",
-      "title": "Mutual of Omaha's Wild Kingdom Protecting the Wild",
-      "sub_title": "Radical Reptiles",
-      "desc": "Embarking on a scaly adventure from Texas to Florida to help rescue two of North America's most radical reptiles, Peter visits a nursery where baby lizards are raised while Dr. Rae teams up with a trained dog that can sniff out horned lizards.",
-      "date": "2026",
-      "language": "en",
-      "rating": "TVG",
-      "categories": [
-        "Series",
-        "Documentary",
-        "Animals",
-        "Nature",
-        "Science"
-      ],
-      "episode": "S3 E19",
-      "icon": "http://dtil.tmsimg.com/assets/p31221399_b_h10_aa.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Peter Gros",
-          "Rae Wynn-Grant"
-        ]
-      }
-    },
-    {
       "start": "2026-05-09T19:30:00+05:00",
       "stop": "2026-05-09T20:00:00+05:00",
       "title": "Earth Odyssey With Dylan Dreyer",
@@ -124,6 +69,43 @@
           "Pablo Prichard"
         ]
       }
+    },
+    {
+      "start": "2026-05-09T21:00:00+05:00",
+      "stop": "2026-05-09T21:30:00+05:00",
+      "title": "9/11 Survivors Speak Up",
+      "desc": "Hear from survivors, first responders and advocates about the devastating impact of 9/11 toxins and the lifetime benefits available; learning about your rights and protection under the law.",
+      "language": "en",
+      "categories": [
+        "Consumer"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p20538847_st_h10_ab.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-09T21:30:00+05:00",
+      "stop": "2026-05-09T23:30:00+05:00",
+      "title": "Live: Premier League Soccer",
+      "desc": "Manchester City hosts Brentford for a critical Matchweek 36 clash at the Etihad Stadium. Currently in second place with 71 points, City is chasing league-leaders Arsenal in a fierce title race, while Brentford sits in seventh place with 51 points.",
+      "language": "en",
+      "categories": [
+        "Sports",
+        "Soccer"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/GNLZZGG0033J25L.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-09T23:30:00+05:00",
+      "stop": "2026-05-10T00:00:00+05:00",
+      "title": "Live: Premier League Goal Zone",
+      "desc": "The best moments from the weekend in Premier League action.",
+      "date": "2013",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Sports talk",
+        "Soccer"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p10112820_b_h8_ad.jpg?w=960&h=540"
     }
   ]
 }
