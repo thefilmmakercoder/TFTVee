@@ -4,69 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-09T10:30:00+05:00",
-      "stop": "2026-05-09T11:00:00+05:00",
-      "title": "TMZ",
-      "desc": "TMZ TV tracks down today's hottest stars with their cameras, whether they are hitting the clubs or the dry cleaners.",
-      "date": "2026",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Series",
-        "Newsmagazine",
-        "Entertainment"
-      ],
-      "episode": "S19 E215",
-      "icon": "http://dtil.tmsimg.com/assets/p30985766_b_h10_aa.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Harvey Levin"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-09T11:00:00+05:00",
-      "stop": "2026-05-09T11:30:00+05:00",
-      "title": "Paid Programming",
-      "desc": "Paid programming.",
-      "language": "en",
-      "rating": "TVG",
-      "categories": [
-        "Consumer",
-        "Shopping",
-        "Variety"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-09T11:30:00+05:00",
-      "stop": "2026-05-09T12:00:00+05:00",
-      "title": "Paid Programming",
-      "desc": "Paid programming.",
-      "language": "en",
-      "rating": "TVG",
-      "categories": [
-        "Consumer",
-        "Shopping",
-        "Variety"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-09T12:00:00+05:00",
-      "stop": "2026-05-09T12:30:00+05:00",
-      "title": "Paid Programming",
-      "desc": "Paid programming.",
-      "language": "en",
-      "rating": "TVG",
-      "categories": [
-        "Consumer",
-        "Shopping",
-        "Variety"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-05-09T12:30:00+05:00",
       "stop": "2026-05-09T13:00:00+05:00",
       "title": "Paid Programming",
@@ -93,6 +30,64 @@
         "Medical"
       ],
       "icon": "http://dtil.tmsimg.com/assets/p30715204_b_h8_aa.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-09T13:30:00+05:00",
+      "stop": "2026-05-09T14:00:00+05:00",
+      "title": "The Aging Brain",
+      "desc": "Learn what's behind mental decline with age, and how to improve memory, focus and concentration with NeuroQ's Darrin Peterson and Dale Bredesen MD.",
+      "language": "en",
+      "categories": [
+        "Consumer"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p30127108_st_h10_aa.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-09T14:00:00+05:00",
+      "stop": "2026-05-09T14:30:00+05:00",
+      "title": "Coffee With America",
+      "desc": "\"Coffee With America\" is a magazine show featuring lifestyle interviews and health and entertainment stories.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Series",
+        "Talk",
+        "Newsmagazine"
+      ],
+      "episode": "S10 E36",
+      "icon": "http://dtil.tmsimg.com/assets/p12074786_b_h8_ad.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Sasha Rionda"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-09T14:30:00+05:00",
+      "stop": "2026-05-09T15:00:00+05:00",
+      "title": "Paid Programming",
+      "desc": "Paid programming.",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Consumer",
+        "Shopping",
+        "Variety"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-09T15:00:00+05:00",
+      "stop": "2026-05-09T15:30:00+05:00",
+      "title": "Good Day Street Talk",
+      "desc": "New York public affairs program focusing on important issues in the tri-state area.",
+      "date": "2010",
+      "language": "en",
+      "categories": [
+        "Public affairs"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p8083062_b_h10_ab.jpg?w=960&h=540"
     }
   ]
 }

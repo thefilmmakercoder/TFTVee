@@ -4,17 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-09T09:00:00+05:00",
-      "stop": "2026-05-09T11:00:00+05:00",
-      "title": "Teleshopping",
-      "desc": "Teleshopping.",
-      "language": "en",
-      "categories": [
-        "Specialist",
-        "Shopping"
-      ]
-    },
-    {
       "start": "2026-05-09T11:00:00+05:00",
       "stop": "2026-05-09T13:00:00+05:00",
       "title": "Teleshopping",
@@ -76,6 +65,19 @@
         "Cooking"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/4fb015f2-1acd-464a-97d3-2db9708203b1/16-9"
+    },
+    {
+      "start": "2026-05-09T15:00:00+05:00",
+      "stop": "2026-05-09T15:30:00+05:00",
+      "title": "Come Dine with Me",
+      "sub_title": "Devon",
+      "desc": "Estate agent Ajay pulls out all the stops on her nautical-themed evening, with a seafood spread and a boat trip around Torquay harbour. But will she sail to victory.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Cooking"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/a41e28c4-0cd9-465b-a6c5-c1459b6b383e/16-9"
     }
   ]
 }

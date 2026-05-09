@@ -4,43 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-09T09:01:00+05:00",
-      "stop": "2026-05-09T11:00:00+05:00",
-      "title": "Dateline NBC",
-      "sub_title": "Breaking Point",
-      "desc": "When a mom is murdered in her driveway, detectives look to the warehouse where she works for answers; the convicted murderer speaks out for the first time.",
-      "date": "2026",
-      "language": "en",
-      "rating": "MA 15+",
-      "categories": [
-        "Series",
-        "Newsmagazine",
-        "Mystery",
-        "Crime"
-      ],
-      "episode": "S34 E24",
-      "icon": "http://dtil.tmsimg.com/assets/p184061_b_h8_ab.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Lester Holt",
-          "Andrea Canning",
-          "Josh Mankiewicz"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-09T11:00:00+05:00",
-      "stop": "2026-05-09T11:34:00+05:00",
-      "title": "NBC4 News at 11pm",
-      "desc": "The latest local news, weather and investigative stories impacting the community.",
-      "date": "2011",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p8781143_b_h10_ad.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-05-09T11:34:00+05:00",
       "stop": "2026-05-09T12:37:00+05:00",
       "title": "The Tonight Show Starring Jimmy Fallon",
@@ -119,6 +82,43 @@
           "Tom Llamas"
         ]
       }
+    },
+    {
+      "start": "2026-05-09T14:37:00+05:00",
+      "stop": "2026-05-09T15:30:00+05:00",
+      "title": "The Kelly Clarkson Show",
+      "desc": "Mother's Day episode; Sepideh Moafi; Jen Hamilton (book \"Birth Vibes\"); Hike Clerb.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Talk",
+        "Variety",
+        "Entertainment"
+      ],
+      "episode": "S7 E132",
+      "icon": "http://dtil.tmsimg.com/assets/p16993616_b_h8_af.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Kelly Clarkson",
+          "Sepideh Moafi"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-09T15:30:00+05:00",
+      "stop": "2026-05-09T16:00:00+05:00",
+      "title": "Paid Programming",
+      "desc": "Paid programming.",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Consumer",
+        "Shopping",
+        "Variety"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&h=540"
     }
   ]
 }

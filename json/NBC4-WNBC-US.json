@@ -4,61 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-09T10:37:00+05:00",
-      "stop": "2026-05-09T11:07:00+05:00",
-      "title": "News 4 NY at 11",
-      "desc": "Local and regional news.",
-      "date": "2014",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p10513206_b_h10_ae.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-09T11:07:00+05:00",
-      "stop": "2026-05-09T11:37:00+05:00",
-      "title": "NBC Nightly News With Tom Llamas",
-      "desc": "Tom Llamas anchors the latest news, going beyond the headlines to see how lives are affected by the world around them.",
-      "date": "2026",
-      "language": "en",
-      "categories": [
-        "Series",
-        "News"
-      ],
-      "episode": "S2 E119",
-      "icon": "http://dtil.tmsimg.com/assets/p30141511_b_h8_aa.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Tom Llamas"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-09T11:37:00+05:00",
-      "stop": "2026-05-09T12:07:00+05:00",
-      "title": "Access Hollywood",
-      "desc": "\"Reality TV Masterminds\" red carpet; an interview with Valerie Bertinelli, Eric McCormack and Henry Czerny (Lifetime's \"Love, Again\"); an interview with Sally Field and Lewis Pullman (\"Remarkably Bright Creatures\").",
-      "date": "2026",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Series",
-        "Newsmagazine",
-        "Entertainment",
-        "Interview"
-      ],
-      "episode": "S30 E168",
-      "icon": "http://dtil.tmsimg.com/assets/p30926755_b_h8_ab.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Mario Lopez",
-          "Kit Hoover",
-          "Scott Evans"
-        ]
-      }
-    },
-    {
       "start": "2026-05-09T12:07:00+05:00",
       "stop": "2026-05-09T13:00:00+05:00",
       "title": "The Kelly Clarkson Show",
@@ -112,6 +57,53 @@
         "Consumer"
       ],
       "icon": "http://dtil.tmsimg.com/assets/p22575233_b_h8_aa.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-09T14:00:00+05:00",
+      "stop": "2026-05-09T14:30:00+05:00",
+      "title": "1st Look",
+      "desc": "Lifestyle trends in food, night life, art, travel and entertainment.",
+      "date": "2008",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Talk",
+        "Newsmagazine",
+        "Travel",
+        "Fashion"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p419169_b_h8_az.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-09T14:30:00+05:00",
+      "stop": "2026-05-09T15:00:00+05:00",
+      "title": "Open House NYC",
+      "desc": "Host Sara Gore presents a guide to upscale real estate in and around the Big Apple. In addition to a look at the hottest homes on the market, the show also provides interior design tips from specialists and a wealth of information on renovation and stylish living.",
+      "date": "2007",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "House/garden",
+        "Home improvement"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p841103_b_h8_ac.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Sara Gore"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-09T15:00:00+05:00",
+      "stop": "2026-05-09T16:00:00+05:00",
+      "title": "Saturday Today in New York",
+      "desc": "The local news, weather and investigative stories impacting your community.",
+      "date": "2007",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p893330_b_h10_ac.jpg?w=960&h=540"
     }
   ]
 }

@@ -4,17 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-09T06:30:00+05:00",
-      "stop": "2026-05-09T10:00:00+05:00",
-      "title": "Teleshopping",
-      "desc": "Shopping from home.",
-      "language": "en",
-      "categories": [
-        "Specialist",
-        "Shopping"
-      ]
-    },
-    {
       "start": "2026-05-09T10:00:00+05:00",
       "stop": "2026-05-09T12:10:00+05:00",
       "title": "Inspector Morse",
@@ -77,6 +66,19 @@
         "Detective"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/793726be-df9c-4c18-8820-0d37a0386d98/16-9"
+    },
+    {
+      "start": "2026-05-09T20:10:00+05:00",
+      "stop": "2026-05-09T22:05:00+05:00",
+      "title": "Midsomer Murders",
+      "sub_title": "The Sleeper Under the Hill",
+      "desc": "Fingers point at local druids when a farmer is found murdered at a sacred stone circle, but Barnaby wonders if basic human greed is the real motive.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Detective"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/eef90bdf-9bc8-4125-aa05-acf509e6db35/16-9"
     }
   ]
 }

@@ -4,25 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-09T09:00:00+05:00",
-      "stop": "2026-05-09T11:00:00+05:00",
-      "title": "Lucy: The Stolen Lives of Elephants",
-      "desc": "The first documentary to expose the harmful effects on elephants living in zoos.",
-      "date": "2024",
-      "language": "en",
-      "rating": "PG",
-      "categories": [
-        "Movie",
-        "Documentary"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p29744506_v_h8_aa.jpg?w=960&h=540",
-      "credits": {
-        "director": [
-          "Fern Levitt"
-        ]
-      }
-    },
-    {
       "start": "2026-05-09T11:00:00+05:00",
       "stop": "2026-05-09T12:00:00+05:00",
       "title": "Catwalk 2: The Comeback Cats Documentary",
@@ -112,6 +93,30 @@
       ],
       "episode": "S2 E5",
       "icon": "http://dtil.tmsimg.com/assets/p19936536_b_h10_ad.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-09T17:00:00+05:00",
+      "stop": "2026-05-09T19:00:00+05:00",
+      "title": "Fiddler's Journey to the Big Screen",
+      "desc": "Behind-the-scenes footage, interviews with cast and crew, and never-before-seen stills provide insight into the making of the beloved musical film \"Fiddler on the Roof.\".",
+      "date": "2022",
+      "language": "en",
+      "rating": "12",
+      "categories": [
+        "Movie",
+        "Documentary"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p21618866_v_h10_ac.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Daniel Raim"
+        ],
+        "actor": [
+          "Jeff Goldblum",
+          "Norman Jewison",
+          "John Williams"
+        ]
+      }
     }
   ]
 }

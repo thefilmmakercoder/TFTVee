@@ -4,82 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-09T10:00:00+05:00",
-      "stop": "2026-05-09T11:00:00+05:00",
-      "title": "Blue Bloods",
-      "sub_title": "The Naked Truth",
-      "desc": "Jamie learns that Eddie's close friend Tracey may be using the restaurant she owns as a drug front; Erin is accused of causing the suicide of a former colleague; Danny and Baez are faced with various descriptions of the same suspect.",
-      "date": "2023",
-      "language": "en",
-      "rating": "TV14",
-      "categories": [
-        "Series",
-        "Crime drama",
-        "Action",
-        "Entertainment"
-      ],
-      "episode": "S13 E16",
-      "icon": "http://dtil.tmsimg.com/assets/p8130493_b_h8_af.jpg?w=960&h=540",
-      "credits": {
-        "director": [
-          "Donald Thorin"
-        ],
-        "actor": [
-          "Tom Selleck",
-          "Donnie Wahlberg",
-          "Bridget Moynahan"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-09T11:00:00+05:00",
-      "stop": "2026-05-09T12:00:00+05:00",
-      "title": "Next Level Chef",
-      "sub_title": "80 Degrees and Palm Trees",
-      "desc": "The 13 remaining chefs channel their vacation vibes when they're tasked with preparing a seafood dish inspired by tropical island cuisine; the winning dish gives the entire team immunity and claims the top-level kitchen for the next challenge.",
-      "date": "2024",
-      "language": "en",
-      "rating": "TV14",
-      "categories": [
-        "Series",
-        "Reality",
-        "Cooking"
-      ],
-      "episode": "S3 E6",
-      "icon": "http://dtil.tmsimg.com/assets/p20001189_b_h8_aw.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Gordon Ramsay",
-          "Nyesha Arrington",
-          "Richard Blais"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-09T12:00:00+05:00",
-      "stop": "2026-05-09T12:30:00+05:00",
-      "title": "Jamie's 15 Minute Meals",
-      "sub_title": "Asian Tuna and Coconut Rice",
-      "desc": "Jamie rustles up seared Asian tuna, coconut rice and jiggy greens; ricotta fritters, tomato sauce and courgette salad.",
-      "date": "2012",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Series",
-        "Cooking"
-      ],
-      "episode": "S1 E19",
-      "icon": "http://dtil.tmsimg.com/assets/p9527801_b_h10_av.jpg?w=960&h=540",
-      "credits": {
-        "director": [
-          "Mike Matthews"
-        ],
-        "actor": [
-          "Jamie Oliver"
-        ]
-      }
-    },
-    {
       "start": "2026-05-09T12:30:00+05:00",
       "stop": "2026-05-09T13:00:00+05:00",
       "title": "Jamie's 15 Minute Meals",
@@ -138,6 +62,73 @@
       ],
       "episode": "S2 E6",
       "icon": "http://dtil.tmsimg.com/assets/p20486918_b_h8_ah.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Mary Berg"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-09T14:30:00+05:00",
+      "stop": "2026-05-09T15:00:00+05:00",
+      "title": "Spencer's BIG 30",
+      "sub_title": "Fajita Night",
+      "desc": "Spencer makes a Mexican fiesta dinner for four.",
+      "date": "2019",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Cooking"
+      ],
+      "episode": "S2 E8",
+      "icon": "http://dtil.tmsimg.com/assets/p15001018_b_h8_ab.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Spencer Watts"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-09T15:00:00+05:00",
+      "stop": "2026-05-09T17:00:00+05:00",
+      "title": "Aurora Teagarden Mysteries: Three Bedrooms, One Corpse",
+      "desc": "Master sleuth Aurora Teagarden (Candace Cameron Bure) investigates the deaths of two people found inside houses that are being sold.",
+      "date": "2016",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Movie",
+        "Mystery",
+        "Drama"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p12821987_v_h10_ae.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Lynne Stopkewich"
+        ],
+        "actor": [
+          "Candace Cameron Bure",
+          "Marilu Henner",
+          "Yannick Bisson"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-09T17:00:00+05:00",
+      "stop": "2026-05-09T17:30:00+05:00",
+      "title": "Mary Makes It Easy",
+      "sub_title": "Tastes of Tuscany",
+      "desc": "Mary commemorates her recent travels by creating tasty dishes inspired by Italy, like Apple Raspberry Crostata and Mushroom Crespelle.",
+      "date": "2023",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Cooking"
+      ],
+      "episode": "S3 E1",
+      "icon": "http://dtil.tmsimg.com/assets/p25471979_b_h8_ab.jpg?w=960&h=540",
       "credits": {
         "actor": [
           "Mary Berg"
