@@ -4,20 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-09T23:30:00+05:00",
-      "stop": "2026-05-10T00:00:00+05:00",
-      "title": "Live: Premier League Goal Zone",
-      "desc": "The best moments from the weekend in Premier League action.",
-      "date": "2013",
-      "language": "en",
-      "rating": "TVG",
-      "categories": [
-        "Sports talk",
-        "Soccer"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p10112820_b_h8_ad.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-05-10T00:00:00+05:00",
       "stop": "2026-05-10T03:00:00+05:00",
       "title": "Live: NBA Basketball",
@@ -87,6 +73,18 @@
           "George Oliphant"
         ]
       }
+    },
+    {
+      "start": "2026-05-10T05:00:00+05:00",
+      "stop": "2026-05-10T05:30:00+05:00",
+      "title": "NBC 4 News at 5pm",
+      "desc": "Stay informed with the latest breaking news and headlines.",
+      "date": "2015",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p12394497_b_h10_aa.jpg?w=960&h=540"
     }
   ]
 }

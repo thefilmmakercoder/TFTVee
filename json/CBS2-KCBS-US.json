@@ -4,19 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-09T23:00:00+05:00",
-      "stop": "2026-05-10T00:00:00+05:00",
-      "title": "PGA Championship Preview",
-      "desc": "Analysts look ahead to the annual PGA Championship.",
-      "date": "2026",
-      "language": "en",
-      "categories": [
-        "Special",
-        "Golf"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p32678600_b_h10_aa.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-05-10T00:00:00+05:00",
       "stop": "2026-05-10T03:00:00+05:00",
       "title": "Live: PGA Tour Golf",
@@ -92,6 +79,27 @@
         "News"
       ],
       "icon": "http://dtil.tmsimg.com/assets/p31308569_b_h10_aa.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-10T05:30:00+05:00",
+      "stop": "2026-05-10T06:00:00+05:00",
+      "title": "CBS Evening News",
+      "desc": "Tony Dokoupil shares the day's most important stories, delivering context and depth to bring greater understanding to one's world.",
+      "date": "2026",
+      "language": "en",
+      "categories": [
+        "Series",
+        "News"
+      ],
+      "episode": "E129",
+      "icon": "http://dtil.tmsimg.com/assets/p28807922_b_h8_ae.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Tony Dokoupil",
+          "Maurice DuBois",
+          "Jericka Duncan"
+        ]
+      }
     }
   ]
 }

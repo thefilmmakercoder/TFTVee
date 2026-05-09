@@ -4,19 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-10T01:30:00+05:00",
-      "stop": "2026-05-10T02:00:00+05:00",
-      "title": "Al Jazeera News",
-      "sub_title": "Sunday 10 May 2026",
-      "desc": "News via satellite from Al Jazeera Satellite Network, Qatar, in English.",
-      "language": "en",
-      "rating": "NR",
-      "categories": [
-        "Sports"
-      ],
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/231958/image/334x188"
-    },
-    {
       "start": "2026-05-10T02:00:00+05:00",
       "stop": "2026-05-10T03:00:00+05:00",
       "title": "Giro d'Italia 2026 Highlights",
@@ -80,6 +67,19 @@
         "Special Interest"
       ],
       "episode": "S3 E5",
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/6777951/image/334x188"
+    },
+    {
+      "start": "2026-05-10T05:30:00+05:00",
+      "stop": "2026-05-10T06:00:00+05:00",
+      "title": "Lap Of Luxury: Escapes Down Under",
+      "desc": "Head to The Dacha, a relaxing architectural stunner on the edge of Lake Wanaka, to the podacarp forest on Stewart Island into two glass Pure Pods, and to the Hauraki Gulf in the Elements of Castor Bay.",
+      "language": "en",
+      "rating": "PG",
+      "categories": [
+        "Special Interest"
+      ],
+      "episode": "S3 E6",
       "icon": "https://www.fetchtv.com.au/v2/epg/program/6777951/image/334x188"
     }
   ]

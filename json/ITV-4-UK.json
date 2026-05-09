@@ -4,18 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-10T01:10:00+05:00",
-      "stop": "2026-05-10T01:15:00+05:00",
-      "title": "FYI Daily",
-      "desc": "Latest news from the world of entertainment.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "Showbiz"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/5ffb9776-6362-4289-bfe9-c74fe390d67f/16-9"
-    },
-    {
       "start": "2026-05-10T01:15:00+05:00",
       "stop": "2026-05-10T02:45:00+05:00",
       "title": "Force 10 from Navarone",
@@ -77,6 +65,19 @@
         "Comedy"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/7fc21cbe-9b60-40c4-bce0-5069ba3f00bc/16-9"
+    },
+    {
+      "start": "2026-05-10T06:10:00+05:00",
+      "stop": "2026-05-10T06:35:00+05:00",
+      "title": "Two and a Half Men",
+      "sub_title": "The Salmon Under My Sweater",
+      "desc": "American sitcom. Charlie writes the theme song for a new cartoon based on one of Jake's favourite comics, and Rose invites Alan to the cinema.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Comedy"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/93a1afd1-3efc-45af-ae3b-87c5a82a6f0a/16-9"
     }
   ]
 }
