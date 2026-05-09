@@ -4,54 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-09T22:30:00+05:00",
-      "stop": "2026-05-10T00:30:00+05:00",
-      "title": "My Birthday Romance",
-      "desc": "Sparks fly between a single woman and a man who poses as her boyfriend for her 35th birthday party.",
-      "date": "2020",
-      "language": "en",
-      "rating": "G",
-      "categories": [
-        "Movie",
-        "Romance"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p18527438_v_h8_ab.jpg?w=960&h=540",
-      "credits": {
-        "director": [
-          "Heather Hawthorn-Doyle"
-        ],
-        "actor": [
-          "Ali Cobrin",
-          "Jesse Hutch",
-          "Charles Cottier"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-10T00:30:00+05:00",
-      "stop": "2026-05-10T01:30:00+05:00",
-      "title": "Great Chocolate Showdown",
-      "sub_title": "It's Time to Glaze the Bar",
-      "desc": "The eight home bakers take a journey to the world of galaxy mirror glaze as they create a solar system cake for their technique test; the home bakers flex their taste buds in the elimination challenge as they identify ingredients in a taste-off.",
-      "date": "2021",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Series",
-        "Cooking",
-        "Competition Reality"
-      ],
-      "episode": "S2 E3",
-      "icon": "http://dtil.tmsimg.com/assets/p17852953_b_h8_aj.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Anna Olson",
-          "Steven Hodge",
-          "Cynthia Stroud"
-        ]
-      }
-    },
-    {
       "start": "2026-05-10T00:30:00+05:00",
       "stop": "2026-05-10T01:30:00+05:00",
       "title": "Great Chocolate Showdown",
@@ -134,6 +86,37 @@
           "Alan Carter"
         ]
       }
+    },
+    {
+      "start": "2026-05-10T02:30:00+05:00",
+      "stop": "2026-05-10T03:00:00+05:00",
+      "title": "Focus Ontario",
+      "desc": "Political debates regarding Queen's Park.",
+      "date": "2004",
+      "language": "en",
+      "categories": [
+        "Politics",
+        "Public affairs"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p689284_b_h8_ab.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Alan Carter"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-10T03:00:00+05:00",
+      "stop": "2026-05-10T03:30:00+05:00",
+      "title": "Global News at 6",
+      "desc": "Greater Toronto's top local news stories and latest weather forecast.",
+      "date": "2012",
+      "language": "en",
+      "categories": [
+        "News",
+        "Weather"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p9123094_b_h10_ab.jpg?w=960&h=540"
     }
   ]
 }

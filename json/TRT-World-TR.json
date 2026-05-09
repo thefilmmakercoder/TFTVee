@@ -4,30 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-10T00:45:00+05:00",
-      "stop": "2026-05-10T01:00:00+05:00",
-      "title": "Debrief",
-      "desc": "DEBRIEF is a weekly show that delivers the most important news and stories from the week in a concise format.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/308ac9f2-1af4-4d66-9ba6-17b15a8d1fe6/16-9"
-    },
-    {
-      "start": "2026-05-10T01:00:00+05:00",
-      "stop": "2026-05-10T01:30:00+05:00",
-      "title": "News",
-      "desc": "TRT World brings the latest news from around the globe, when it happens.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/49a4f190-66c8-40d3-b676-e9c2c7977d50/16-9"
-    },
-    {
       "start": "2026-05-10T01:30:00+05:00",
       "stop": "2026-05-10T02:00:00+05:00",
       "title": "Money Talks",
@@ -74,6 +50,29 @@
         "Feature"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/d8add9ed-0338-4a21-839a-3ba25db13d25/16-9"
+    },
+    {
+      "start": "2026-05-10T04:00:00+05:00",
+      "stop": "2026-05-10T04:30:00+05:00",
+      "title": "News",
+      "desc": "TRT World brings the latest news from around the globe, when it happens.",
+      "language": "en",
+      "categories": [
+        "News & Documentary",
+        "News"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/d787e718-a939-46dc-85fa-b0f934e08b17/16-9"
+    },
+    {
+      "start": "2026-05-10T04:30:00+05:00",
+      "stop": "2026-05-10T04:45:00+05:00",
+      "title": "Scoreline",
+      "desc": "Do you need a fast-paced and punchy show to cover all the weekend's sport action? TRT World's Scoreline is your programme on Saturday and Sundays.",
+      "language": "en",
+      "categories": [
+        "Sports"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/f3c141e1-1e10-4c8b-9525-c888fc0abc80/16-9"
     }
   ]
 }
