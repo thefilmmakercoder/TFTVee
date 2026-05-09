@@ -4,30 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-09T13:30:00+05:00",
-      "stop": "2026-05-09T16:00:00+05:00",
-      "title": "James Martin's Saturday Morning",
-      "desc": "James is serving up a feast of fantastic food for presenter Guy Martin, and tasting delicious recipes from chefs Romy Gill, Nick Nairn and Lesley Waters.",
-      "language": "en",
-      "categories": [
-        "Entertainment",
-        "Cooking"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/68e7a6b0-333d-42bd-b0a2-01e22bc965cd/16-9"
-    },
-    {
-      "start": "2026-05-09T16:00:00+05:00",
-      "stop": "2026-05-09T16:30:00+05:00",
-      "title": "Dermot's Taste of Ireland",
-      "desc": "Dermot heads to Ballycastle, gateway of the Glens, where he discovers the magic of baking with Irish blueberries and a family farm changing perceptions of rose veal.",
-      "language": "en",
-      "categories": [
-        "Entertainment",
-        "Cooking"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/5d8d82c7-4948-4640-9782-507ff9ee2242/16-9"
-    },
-    {
       "start": "2026-05-09T16:30:00+05:00",
       "stop": "2026-05-09T16:45:00+05:00",
       "title": "ITV News",
@@ -74,6 +50,30 @@
         "Game Show"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/5b69d217-7571-44d1-87b1-88b2b06ff952/16-9"
+    },
+    {
+      "start": "2026-05-09T21:30:00+05:00",
+      "stop": "2026-05-09T21:45:00+05:00",
+      "title": "ITV Evening News",
+      "desc": "National and international news with reports and analysis from ITV's Correspondents in the UK and around the world as well as the latest major sports results.",
+      "language": "en",
+      "categories": [
+        "News & Documentary",
+        "News"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/69fec6e0-1761-4b55-86d4-41881849952f/16-9"
+    },
+    {
+      "start": "2026-05-09T21:45:00+05:00",
+      "stop": "2026-05-09T22:00:00+05:00",
+      "title": "ITV News London",
+      "desc": "The latest news and weather from London and the South East.",
+      "language": "en",
+      "categories": [
+        "News & Documentary",
+        "News"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/d878a514-f7e6-4901-bff7-604e69dddc32/16-9"
     }
   ]
 }

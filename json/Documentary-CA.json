@@ -4,23 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-09T15:00:00+05:00",
-      "stop": "2026-05-09T16:00:00+05:00",
-      "title": "In Their Own Words",
-      "sub_title": "Princess Diana",
-      "desc": "The story of Princess Diana's life, including her heartaches and triumphs.",
-      "date": "2021",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Series",
-        "Documentary",
-        "Biography"
-      ],
-      "episode": "S2 E3",
-      "icon": "http://dtil.tmsimg.com/assets/p19936536_b_h10_ad.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-05-09T16:00:00+05:00",
       "stop": "2026-05-09T17:00:00+05:00",
       "title": "In Their Own Words",
@@ -118,6 +101,30 @@
       ],
       "episode": "S2 E5",
       "icon": "http://dtil.tmsimg.com/assets/p19936536_b_h10_ad.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-09T22:00:00+05:00",
+      "stop": "2026-05-10T00:00:00+05:00",
+      "title": "Fiddler's Journey to the Big Screen",
+      "desc": "Behind-the-scenes footage, interviews with cast and crew, and never-before-seen stills provide insight into the making of the beloved musical film \"Fiddler on the Roof.\".",
+      "date": "2022",
+      "language": "en",
+      "rating": "12",
+      "categories": [
+        "Movie",
+        "Documentary"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p21618866_v_h10_ac.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Daniel Raim"
+        ],
+        "actor": [
+          "Jeff Goldblum",
+          "Norman Jewison",
+          "John Williams"
+        ]
+      }
     }
   ]
 }

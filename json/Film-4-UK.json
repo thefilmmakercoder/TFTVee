@@ -4,17 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-09T11:00:00+05:00",
-      "stop": "2026-05-09T15:00:00+05:00",
-      "title": "Teleshopping",
-      "desc": "Teleshopping.",
-      "language": "en",
-      "categories": [
-        "Specialist",
-        "Shopping"
-      ]
-    },
-    {
       "start": "2026-05-09T15:00:00+05:00",
       "stop": "2026-05-09T16:45:00+05:00",
       "title": "Wonder Park",
@@ -81,6 +70,20 @@
         "Review"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/3283a2bc-351b-457b-9e56-5f702379546f/16-9"
+    },
+    {
+      "start": "2026-05-09T22:15:00+05:00",
+      "stop": "2026-05-10T01:00:00+05:00",
+      "title": "The Martian",
+      "desc": "Matt Damon stars in Ridley Scott's drama about an astronaut who accidentally gets left behind on Mars. Oops. How will he survive and how on earth can he get home.",
+      "date": "2015",
+      "language": "en",
+      "rating": "PG",
+      "categories": [
+        "Movie",
+        "Drama"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/c8b106c5-1542-48d5-8cef-e4835ede97cd/16-9"
     }
   ]
 }

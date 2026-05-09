@@ -4,41 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-09T15:30:00+05:00",
-      "stop": "2026-05-09T16:00:00+05:00",
-      "title": "Paid Programming",
-      "desc": "Paid programming.",
-      "language": "en",
-      "rating": "TVG",
-      "categories": [
-        "Consumer",
-        "Shopping",
-        "Variety"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-09T16:00:00+05:00",
-      "stop": "2026-05-09T16:30:00+05:00",
-      "title": "1st Look",
-      "sub_title": "Destination Budapest",
-      "desc": "Sibley Scoles vists Budapest, where heritage and contemporary entwine.",
-      "date": "2025",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Series",
-        "Travel"
-      ],
-      "episode": "S17 E1",
-      "icon": "http://dtil.tmsimg.com/assets/p8953716_b_h8_ak.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Johnny \"Bananas\" Devenanzio"
-        ]
-      }
-    },
-    {
       "start": "2026-05-09T16:30:00+05:00",
       "stop": "2026-05-09T17:00:00+05:00",
       "title": "Bathroom Makeover",
@@ -110,6 +75,52 @@
         "News"
       ],
       "icon": "http://dtil.tmsimg.com/assets/p960593_b_h10_af.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-09T20:00:00+05:00",
+      "stop": "2026-05-09T20:30:00+05:00",
+      "title": "Mutual of Omaha's Wild Kingdom Protecting the Wild",
+      "sub_title": "Radical Reptiles",
+      "desc": "Embarking on a scaly adventure from Texas to Florida to help rescue two of North America's most radical reptiles, Peter visits a nursery where baby lizards are raised while Dr. Rae teams up with a trained dog that can sniff out horned lizards.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Series",
+        "Documentary",
+        "Animals",
+        "Nature",
+        "Science"
+      ],
+      "episode": "S3 E19",
+      "icon": "http://dtil.tmsimg.com/assets/p31221399_b_h10_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Peter Gros",
+          "Rae Wynn-Grant"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-09T20:30:00+05:00",
+      "stop": "2026-05-09T21:00:00+05:00",
+      "title": "Earth Odyssey With Dylan Dreyer",
+      "sub_title": "Italian Summer",
+      "desc": "Dylan Dreyer leads a summer trip to Italy's wildest places and gets close to fascinating animals like snake eagles, red foxes and migrating starlings.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Series",
+        "Educational"
+      ],
+      "episode": "S8 E20",
+      "icon": "http://dtil.tmsimg.com/assets/p16357440_b_h8_ae.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Dylan Dreyer"
+        ]
+      }
     }
   ]
 }

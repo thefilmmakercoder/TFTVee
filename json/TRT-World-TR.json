@@ -4,30 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-09T15:45:00+05:00",
-      "stop": "2026-05-09T16:00:00+05:00",
-      "title": "Newsfeed",
-      "desc": "Newsfeed reflects the day's events and opinions, as reported or discussed on social media.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/0d135954-c18f-4fa5-a2a1-46b4464dcc13/16-9"
-    },
-    {
-      "start": "2026-05-09T16:00:00+05:00",
-      "stop": "2026-05-09T16:30:00+05:00",
-      "title": "News",
-      "desc": "TRT World brings the latest news from around the globe, when it happens.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/6c859ec4-8332-420a-8e10-cf30c7138cec/16-9"
-    },
-    {
       "start": "2026-05-09T16:30:00+05:00",
       "stop": "2026-05-09T17:00:00+05:00",
       "title": "The Longest Day: Land",
@@ -74,6 +50,30 @@
         "News"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/eb9e6e4c-0664-4a0a-a65e-998af9a1fa0f/16-9"
+    },
+    {
+      "start": "2026-05-09T18:30:00+05:00",
+      "stop": "2026-05-09T19:00:00+05:00",
+      "title": "Money Talks",
+      "desc": "Helping the 99% navigate their financial world. With in-depth reports and analysis, Money Talks makes the news your business.",
+      "language": "en",
+      "categories": [
+        "News & Documentary",
+        "Business"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/2eab5749-7090-49c0-9344-4e4307863d4e/16-9"
+    },
+    {
+      "start": "2026-05-09T19:00:00+05:00",
+      "stop": "2026-05-09T19:30:00+05:00",
+      "title": "News",
+      "desc": "TRT World brings the latest news from around the globe, when it happens.",
+      "language": "en",
+      "categories": [
+        "News & Documentary",
+        "News"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/32dea06d-2103-4e6f-9cda-fe2452f75d20/16-9"
     }
   ]
 }

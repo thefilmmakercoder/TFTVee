@@ -4,45 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-09T15:30:00+05:00",
-      "stop": "2026-05-09T16:00:00+05:00",
-      "title": "King of the Hill",
-      "sub_title": "Peggy's Gone to Pots",
-      "desc": "When Peggy befriends a couple in order to sell real estate, they scam her into becoming a Cozy Kitchen representative; a visit from Rusty surprises Dale.",
-      "date": "2007",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Series",
-        "Animated",
-        "Sitcom"
-      ],
-      "episode": "S11 E9",
-      "icon": "http://dtil.tmsimg.com/assets/p184316_b_h8_ah.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Mike Judge",
-          "Kathy Najimy",
-          "Pamela S. Adlon"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-09T16:00:00+05:00",
-      "stop": "2026-05-09T16:30:00+05:00",
-      "title": "Inogen Portable Oxygen - No More Tanks!",
-      "desc": "Regain independence and enjoy greater mobility with the compact design and long-lasting battery of portable oxygen.",
-      "language": "en",
-      "categories": [
-        "Health",
-        "Consumer",
-        "Science",
-        "Medical",
-        "Technology"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p17108681_b_h11_ab.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-05-09T16:30:00+05:00",
       "stop": "2026-05-09T17:00:00+05:00",
       "title": "Ready for a safer shower? Enjoy a one-day bath remodel with Jacuzzi.",
@@ -85,6 +46,47 @@
         "Consumer"
       ],
       "icon": "http://dtil.tmsimg.com/assets/p30074472_b_h8_aa.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-09T18:30:00+05:00",
+      "stop": "2026-05-09T19:00:00+05:00",
+      "title": "Paid Programming",
+      "desc": "Paid programming.",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Consumer",
+        "Shopping",
+        "Variety"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-09T19:00:00+05:00",
+      "stop": "2026-05-09T19:30:00+05:00",
+      "title": "King of the Hill",
+      "sub_title": "Peggy's Headache",
+      "desc": "Peggy tries to inform Dale of Nancy's affair with John Redcorn through an anonymous newspaper column.",
+      "date": "1998",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Animated",
+        "Sitcom"
+      ],
+      "episode": "S3 E3",
+      "icon": "http://dtil.tmsimg.com/assets/p184316_b_h8_ah.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Tricia Garcia"
+        ],
+        "actor": [
+          "Mike Judge",
+          "Kathy Najimy",
+          "Pamela Segall"
+        ]
+      }
     }
   ]
 }

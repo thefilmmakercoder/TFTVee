@@ -4,30 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-09T15:00:00+05:00",
-      "stop": "2026-05-09T16:00:00+05:00",
-      "title": "Newshour",
-      "desc": "Latest news and in-depth analysis from around the world.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "World Affairs"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/15431e27-7468-4e80-ac99-8ac2f92f2eed/16-9"
-    },
-    {
-      "start": "2026-05-09T16:00:00+05:00",
-      "stop": "2026-05-09T16:30:00+05:00",
-      "title": "News Live",
-      "desc": "Up-to-date news and analysis from around the world.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "World Affairs"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/47dbb899-41ad-432b-a4db-e47857482edf/16-9"
-    },
-    {
       "start": "2026-05-09T16:30:00+05:00",
       "stop": "2026-05-09T17:00:00+05:00",
       "title": "Inside Story",
@@ -74,6 +50,31 @@
         "World Affairs"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/47dbb899-41ad-432b-a4db-e47857482edf/16-9"
+    },
+    {
+      "start": "2026-05-09T19:30:00+05:00",
+      "stop": "2026-05-09T20:00:00+05:00",
+      "title": "UpFront",
+      "sub_title": "Ep",
+      "desc": "14 Redi Tlhabi asks former Israeli Prime Minister Ehud Olmert about the direction of his country and what it wants from its wars in Lebanon and Iran.",
+      "language": "en",
+      "categories": [
+        "News & Documentary",
+        "Politics"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/142baf96-d034-4dff-b09e-5f7876d02da5/16-9"
+    },
+    {
+      "start": "2026-05-09T20:00:00+05:00",
+      "stop": "2026-05-09T21:00:00+05:00",
+      "title": "Newshour",
+      "desc": "Latest news and in-depth analysis from around the world.",
+      "language": "en",
+      "categories": [
+        "News & Documentary",
+        "World Affairs"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/15431e27-7468-4e80-ac99-8ac2f92f2eed/16-9"
     }
   ]
 }
