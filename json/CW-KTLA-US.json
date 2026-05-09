@@ -4,18 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-09T19:00:00+05:00",
-      "stop": "2026-05-09T21:00:00+05:00",
-      "title": "KTLA 5 Morning News at 7",
-      "desc": "Stay informed with the latest breaking news and headlines.",
-      "date": "1995",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p755453_b_h8_ab.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-05-09T21:00:00+05:00",
       "stop": "2026-05-09T22:00:00+05:00",
       "title": "KTLA 5 Morning News at 9",
@@ -101,6 +89,18 @@
           "Jack Hanna"
         ]
       }
+    },
+    {
+      "start": "2026-05-10T00:30:00+05:00",
+      "stop": "2026-05-10T01:00:00+05:00",
+      "title": "NASCAR Countdown Live",
+      "desc": "A pre-race lead-up to NASCAR racing.",
+      "date": "2024",
+      "language": "en",
+      "categories": [
+        "Auto racing"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p28117800_b_h8_aa.jpg?w=960&h=540"
     }
   ]
 }

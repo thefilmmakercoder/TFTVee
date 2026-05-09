@@ -4,12 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-09T09:30:00+05:00",
-      "stop": "2026-05-09T15:30:00+05:00",
-      "title": "..programmes start at 7.00pm",
-      "language": "en"
-    },
-    {
       "start": "2026-05-09T15:30:00+05:00",
       "stop": "2026-05-09T21:30:00+05:00",
       "title": "..programmes start at 7.00pm",
@@ -51,6 +45,18 @@
         "Game Show"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/ef6420a8-b91b-4b70-8aa6-2b19fcb486ca/16-9"
+    },
+    {
+      "start": "2026-05-10T00:10:00+05:00",
+      "stop": "2026-05-10T01:00:00+05:00",
+      "title": "Hetty Wainthropp Investigates",
+      "desc": "The Wainthropps' nephew has been excluded from school, but has he been wrongly accused of misbehaving? Hetty is determined to find out.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Detective"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/adcdc933-d934-4c12-a077-a316dd680e03/16-9"
     }
   ]
 }
