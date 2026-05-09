@@ -4,18 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-09T15:00:00+05:00",
-      "stop": "2026-05-09T17:00:00+05:00",
-      "title": "Eyewitness News This Morning",
-      "desc": "News coverage to start the day.",
-      "date": "2007",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p677214_b_h8_ad.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-05-09T17:00:00+05:00",
       "stop": "2026-05-09T18:00:00+05:00",
       "title": "Good Morning America",
@@ -114,6 +102,29 @@
       "credits": {
         "actor": [
           "Alfonso Ribeiro"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-09T21:00:00+05:00",
+      "stop": "2026-05-09T21:30:00+05:00",
+      "title": "Hearts of Heroes",
+      "sub_title": "Wings of Bravery",
+      "desc": "The U.S. Coast Guard attempts a high-risk landing to evacuate an injured passenger; when a pilot sacrifices everything to steer a crashing plane away from a crowded shoreline, rescuers race against time to pull him from the water.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Series",
+        "Reality",
+        "Nature",
+        "Science"
+      ],
+      "episode": "S7 E24",
+      "icon": "http://dtil.tmsimg.com/assets/p16722748_b_h10_ac.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Ginger Zee"
         ]
       }
     }

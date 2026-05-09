@@ -4,20 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-09T13:00:00+05:00",
-      "stop": "2026-05-09T15:30:00+05:00",
-      "title": "Mission: Impossible",
-      "desc": "Ethan Hunt, a secret agent, is framed for the deaths of his espionage team and attempts to flee government assassins after him. He races against the clock in order to discover the truth.",
-      "date": "19960522",
-      "language": "en",
-      "categories": [
-        "Espionage Action",
-        "Action",
-        "Movie"
-      ],
-      "icon": "https://images.pluto.tv/episodes/6255bf9378f6d300136e5245/poster_1769471284574.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694"
-    },
-    {
       "start": "2026-05-09T15:30:00+05:00",
       "stop": "2026-05-09T18:15:00+05:00",
       "title": "Mission: Impossible II",
@@ -25,9 +11,9 @@
       "date": "20000524",
       "language": "en",
       "categories": [
-        "Espionage Action",
         "Action",
-        "Movie"
+        "Movie",
+        "Espionage Action"
       ],
       "icon": "https://images.pluto.tv/episodes/6254bcce87cec40013563ff7/poster_1777581365550.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694"
     },
@@ -39,9 +25,9 @@
       "date": "20060505",
       "language": "en",
       "categories": [
-        "Espionage Action",
         "Action",
-        "Movie"
+        "Movie",
+        "Espionage Action"
       ],
       "icon": "https://images.pluto.tv/episodes/61e9ea7bf30167001a6d270d/poster_1777905361710.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694"
     },
@@ -53,9 +39,9 @@
       "date": "19960522",
       "language": "en",
       "categories": [
-        "Espionage Action",
         "Action",
-        "Movie"
+        "Movie",
+        "Espionage Action"
       ],
       "icon": "https://images.pluto.tv/episodes/6255bf9378f6d300136e5245/poster_1769471284574.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694"
     },
@@ -67,9 +53,9 @@
       "date": "20000524",
       "language": "en",
       "categories": [
-        "Espionage Action",
         "Action",
-        "Movie"
+        "Movie",
+        "Espionage Action"
       ],
       "icon": "https://images.pluto.tv/episodes/6254bcce87cec40013563ff7/poster_1777581365550.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694"
     },
@@ -81,11 +67,25 @@
       "date": "20060505",
       "language": "en",
       "categories": [
-        "Espionage Action",
         "Action",
-        "Movie"
+        "Movie",
+        "Espionage Action"
       ],
       "icon": "https://images.pluto.tv/episodes/61e9ea7bf30167001a6d270d/poster_1777905361710.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694"
+    },
+    {
+      "start": "2026-05-10T05:00:00+05:00",
+      "stop": "2026-05-10T08:00:00+05:00",
+      "title": "Forrest Gump",
+      "desc": "Tom Hanks gives an astonishing performance as Forrest, an everyman whose simple innocence comes to embody a generation.",
+      "date": "19940706",
+      "language": "en",
+      "categories": [
+        "Movie",
+        "Historical Drama",
+        "Drama"
+      ],
+      "icon": "https://images.pluto.tv/episodes/629ff609cb032400134d42bc/poster_1769119645456.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694"
     }
   ]
 }

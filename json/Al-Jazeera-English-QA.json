@@ -4,18 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-09T16:30:00+05:00",
-      "stop": "2026-05-09T17:00:00+05:00",
-      "title": "Inside Story",
-      "desc": "Ep.1311 Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds from around the globe.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "World Affairs"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/cb96c18b-a5d2-484d-b217-24f7ac48a86e/16-9"
-    },
-    {
       "start": "2026-05-09T17:00:00+05:00",
       "stop": "2026-05-09T18:00:00+05:00",
       "title": "Al Jazeera World",
@@ -75,6 +63,18 @@
         "World Affairs"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/15431e27-7468-4e80-ac99-8ac2f92f2eed/16-9"
+    },
+    {
+      "start": "2026-05-09T21:00:00+05:00",
+      "stop": "2026-05-09T21:30:00+05:00",
+      "title": "News Live",
+      "desc": "Up-to-date news and analysis from around the world.",
+      "language": "en",
+      "categories": [
+        "News & Documentary",
+        "World Affairs"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/47dbb899-41ad-432b-a4db-e47857482edf/16-9"
     }
   ]
 }
