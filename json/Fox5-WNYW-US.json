@@ -4,45 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-09T12:30:00+05:00",
-      "stop": "2026-05-09T13:00:00+05:00",
-      "title": "Paid Programming",
-      "desc": "Paid programming.",
-      "language": "en",
-      "rating": "TVG",
-      "categories": [
-        "Consumer",
-        "Shopping",
-        "Variety"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-09T13:00:00+05:00",
-      "stop": "2026-05-09T13:30:00+05:00",
-      "title": "POOF! Bye Bye Under Eye Bags!",
-      "desc": "Plexaderm helps reduce Under Eye Bags, Dark Circles, and Wrinkles in just 10 minutes!",
-      "language": "en",
-      "categories": [
-        "Consumer",
-        "Health",
-        "How-to",
-        "Medical"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p30715204_b_h8_aa.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-09T13:30:00+05:00",
-      "stop": "2026-05-09T14:00:00+05:00",
-      "title": "The Aging Brain",
-      "desc": "Learn what's behind mental decline with age, and how to improve memory, focus and concentration with NeuroQ's Darrin Peterson and Dale Bredesen MD.",
-      "language": "en",
-      "categories": [
-        "Consumer"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p30127108_st_h10_aa.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-05-09T14:00:00+05:00",
       "stop": "2026-05-09T14:30:00+05:00",
       "title": "Coffee With America",
@@ -88,6 +49,61 @@
         "Public affairs"
       ],
       "icon": "http://dtil.tmsimg.com/assets/p8083062_b_h10_ab.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-09T15:30:00+05:00",
+      "stop": "2026-05-09T16:00:00+05:00",
+      "title": "Victim of Nursing Home Abuse?",
+      "desc": "Have you or a family member been a victim of nursing home abuse?",
+      "language": "en",
+      "categories": [
+        "Consumer"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p32656820_st_h10_aa.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-09T16:00:00+05:00",
+      "stop": "2026-05-09T16:30:00+05:00",
+      "title": "Xploration Awesome Planet",
+      "sub_title": "Environmental Engineers",
+      "desc": "Engineers use technology to replace more than 500 bridges; a facility offers protection from hurricanes; migrating salmon; Mayan ruins.",
+      "date": "2017",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Science",
+        "Educational"
+      ],
+      "episode": "S4 E16",
+      "icon": "http://dtil.tmsimg.com/assets/p10857086_b_h8_ag.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Philippe Cousteau"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-09T16:30:00+05:00",
+      "stop": "2026-05-09T17:00:00+05:00",
+      "title": "Xploration Outer Space",
+      "sub_title": "Highlights of Apollo",
+      "desc": "Celebrating the 50th anniversary of the moon landing; amazing footage; interviews with astronauts and historians.",
+      "date": "2018",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Science",
+        "Educational"
+      ],
+      "episode": "S5 E8",
+      "icon": "http://dtil.tmsimg.com/assets/p10857096_b_h8_ag.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Emily Calandrelli"
+        ]
+      }
     }
   ]
 }
