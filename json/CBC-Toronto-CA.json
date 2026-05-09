@@ -4,33 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-09T02:00:00+05:00",
-      "stop": "2026-05-09T03:00:00+05:00",
-      "title": "The Great British Baking Show",
-      "sub_title": "Biscuit Week",
-      "desc": "The bakers devise novel chocolate Florentines, stress over filled macaroons, and sculpt memorable meals in biscuit.",
-      "date": "2020",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Series",
-        "Competition Reality",
-        "Cooking"
-      ],
-      "episode": "S11 E2",
-      "icon": "http://dtil.tmsimg.com/assets/p8251114_b_h8_dj.jpg?w=960&h=540",
-      "credits": {
-        "director": [
-          "Jeanette Goulbourn"
-        ],
-        "actor": [
-          "Paul Hollywood",
-          "Prue Leith",
-          "Noel Fielding"
-        ]
-      }
-    },
-    {
       "start": "2026-05-09T03:00:00+05:00",
       "stop": "2026-05-09T04:00:00+05:00",
       "title": "Live: CBC Toronto News",
@@ -117,6 +90,28 @@
         "News"
       ],
       "icon": "http://dtil.tmsimg.com/assets/p12567799_b_h10_ad.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-09T08:30:00+05:00",
+      "stop": "2026-05-09T09:00:00+05:00",
+      "title": "Stuff the British Stole",
+      "sub_title": "Mystery Sphinx",
+      "desc": "The mystery of the sphinx in the British Museum.",
+      "date": "2024",
+      "language": "en",
+      "rating": "PG",
+      "categories": [
+        "Series",
+        "Documentary",
+        "History"
+      ],
+      "episode": "S2 E8",
+      "icon": "http://dtil.tmsimg.com/assets/p23233291_b_h8_ac.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Marc Fennell"
+        ]
+      }
     }
   ]
 }

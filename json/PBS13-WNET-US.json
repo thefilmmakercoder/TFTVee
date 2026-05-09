@@ -4,42 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-09T03:00:00+05:00",
-      "stop": "2026-05-09T03:30:00+05:00",
-      "title": "DW News",
-      "desc": "Presenting a round-up of the most recent news and developments from across the world.",
-      "date": "2002",
-      "language": "en",
-      "rating": "A",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p26245192_b_h10_aa.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Ben Fajzullin"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-09T03:30:00+05:00",
-      "stop": "2026-05-09T04:00:00+05:00",
-      "title": "BBC World News America",
-      "desc": "A detailed look into news stories from around the world from the BBC news desk in Washington, D.C.",
-      "date": "2026",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p32402912_b_h10_aa.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Sumi Somaskanda",
-          "Caitr\u00edona Perry"
-        ]
-      }
-    },
-    {
       "start": "2026-05-09T04:00:00+05:00",
       "stop": "2026-05-09T05:00:00+05:00",
       "title": "PBS News Hour",
@@ -125,6 +89,52 @@
           "Shaina Taub",
           "Nikki M. James",
           "Jenn Colella"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-09T08:30:00+05:00",
+      "stop": "2026-05-09T09:30:00+05:00",
+      "title": "Amanpour and Company",
+      "desc": "Christiane Amanpour leads discussions about world issues and interviews with global leaders.",
+      "date": "2026",
+      "language": "en",
+      "categories": [
+        "Series",
+        "Public affairs"
+      ],
+      "episode": "S8 E158",
+      "icon": "http://dtil.tmsimg.com/assets/p15694932_b_h8_ac.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Christiane Amanpour"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-09T09:30:00+05:00",
+      "stop": "2026-05-09T11:00:00+05:00",
+      "title": "Nature",
+      "sub_title": "Becoming Elephant: The Orphans of Reteti: Baby Steps",
+      "desc": "Following the journey of orphaned elephants at Reteti, the first community-owned elephant sanctuary in Africa.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Anthology",
+        "Nature"
+      ],
+      "episode": "S44 E11 P1/2",
+      "icon": "http://dtil.tmsimg.com/assets/p30915708_b_h8_ab.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "David Heeley"
+        ],
+        "actor": [
+          "F. Murray Abraham",
+          "Nyambi Nyambi",
+          "Jayce Bartok"
         ]
       }
     }

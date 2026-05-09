@@ -4,57 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-09T03:00:00+05:00",
-      "stop": "2026-05-09T03:30:00+05:00",
-      "title": "Eyewitness News at 6",
-      "desc": "Stay informed with the latest breaking news and headlines.",
-      "date": "2017",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p13769035_b_h8_ab.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-09T03:30:00+05:00",
-      "stop": "2026-05-09T04:00:00+05:00",
-      "title": "ABC World News Tonight With David Muir",
-      "desc": "Delivering the news that matters most.",
-      "date": "2026",
-      "language": "en",
-      "categories": [
-        "Series",
-        "News"
-      ],
-      "episode": "E128",
-      "icon": "http://dtil.tmsimg.com/assets/p10880351_b_h8_ah.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "David Muir"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-09T04:00:00+05:00",
-      "stop": "2026-05-09T04:30:00+05:00",
-      "title": "Jeopardy!",
-      "desc": "The Emmy-winning quiz show features a unique answer-and-question format.",
-      "date": "2026",
-      "language": "en",
-      "rating": "TVG",
-      "categories": [
-        "Series",
-        "Game show"
-      ],
-      "episode": "S42 E175",
-      "icon": "http://dtil.tmsimg.com/assets/p184056_b_h10_aa.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Ken Jennings"
-        ]
-      }
-    },
-    {
       "start": "2026-05-09T04:30:00+05:00",
       "stop": "2026-05-09T05:00:00+05:00",
       "title": "Wheel of Fortune",
@@ -118,6 +67,59 @@
         "actor": [
           "David Muir",
           "Deborah Roberts"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-09T08:00:00+05:00",
+      "stop": "2026-05-09T08:35:00+05:00",
+      "title": "Eyewitness News at 11",
+      "desc": "Breaking news.",
+      "date": "2017",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p13769039_b_h8_ab.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-09T08:35:00+05:00",
+      "stop": "2026-05-09T09:37:00+05:00",
+      "title": "Jimmy Kimmel Live!",
+      "desc": "Emmy-winning funnyman Jimmy Kimmel serves up comedy bits and welcomes guests that include other comics, celebrities, athletes and musicians, as well as everyday people with unusual or compelling personal stories. Kimmel's family and friends take part in the festivities, including his Cousin Sal, Uncle Frank (until his death in 2011) and childhood friend Cleto Escobedo III, who leads the show's house band. Recurring segments include the FCC-pleasing This Week in Unnecessary Censorship in which they take TV clips and \"bleep and blur things whether they need it or not,\" as Kimmel describes it. But it's too bad they consistently run out of time for Matt Damon's segment.",
+      "date": "2003",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "Talk",
+        "Comedy"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p31166959_b_h8_ac.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Jimmy Kimmel"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-09T09:37:00+05:00",
+      "stop": "2026-05-09T10:06:00+05:00",
+      "title": "Nightline",
+      "desc": "In-depth reporting on one or more of the major stories in the news, with occasional segments on pop culture; journalists Juju Chang and Byron Pitts share hosting duties for this late-night program.",
+      "date": "2026",
+      "language": "en",
+      "categories": [
+        "Series",
+        "Talk",
+        "News",
+        "Interview"
+      ],
+      "episode": "E95",
+      "icon": "http://dtil.tmsimg.com/assets/p184465_b_h8_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Juju Chang",
+          "Byron Pitts"
         ]
       }
     }

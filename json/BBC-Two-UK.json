@@ -4,18 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-09T02:30:00+05:00",
-      "stop": "2026-05-09T03:15:00+05:00",
-      "title": "Newsnight, followed by Weather",
-      "desc": "Insights and global interviews on the crucial news stories of the day. Followed by Weather.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/686a6413-d2c7-4fcd-8f86-ee1d7fa3bb9f/16-9"
-    },
-    {
       "start": "2026-05-09T03:15:00+05:00",
       "stop": "2026-05-09T04:15:00+05:00",
       "title": "The Misadventures of Romesh Ranganathan",
@@ -73,6 +61,13 @@
         "Factual"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/5db1b698-b9dc-4bdd-bff7-d3a15fcbc06c/16-9"
+    },
+    {
+      "start": "2026-05-09T07:40:00+05:00",
+      "stop": "2026-05-09T10:05:00+05:00",
+      "title": "This is BBC Two",
+      "desc": "Highlights of programmes on BBC Two.",
+      "language": "en"
     }
   ]
 }
