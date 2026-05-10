@@ -4,66 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-10T11:03:00+05:00",
-      "stop": "2026-05-10T11:29:00+05:00",
-      "title": "NBC4 News at 11pm",
-      "desc": "The latest local news, weather and investigative stories impacting the community.",
-      "date": "2011",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p8781143_b_h10_ad.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-10T11:29:00+05:00",
-      "stop": "2026-05-10T13:03:00+05:00",
-      "title": "Saturday Night Live",
-      "sub_title": "Matt Damon; Noah Kahan",
-      "desc": "Host Matt Damon; Noah Kahan performs.",
-      "date": "2026",
-      "language": "en",
-      "rating": "TV14",
-      "categories": [
-        "Series",
-        "Comedy"
-      ],
-      "episode": "S51 E19",
-      "icon": "http://dtil.tmsimg.com/assets/p30996554_b_h8_ab.jpg?w=960&h=540",
-      "credits": {
-        "director": [
-          "Liz Patrick"
-        ],
-        "actor": [
-          "Michael Che",
-          "Mikey Day",
-          "Chloe Fineman"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-10T13:03:00+05:00",
-      "stop": "2026-05-10T13:32:00+05:00",
-      "title": "1st Look",
-      "sub_title": "Destination Basketball: New York City",
-      "desc": "Christian Crosby hosts a fast-paced tour through New York's iconic basketball scene, where style, street culture and the spirit of the city come together to define the game.",
-      "date": "2026",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Series",
-        "Travel"
-      ],
-      "episode": "S17 E7",
-      "icon": "http://dtil.tmsimg.com/assets/p8953716_b_h8_ak.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Johnny \"Bananas\" Devenanzio",
-          "Christian Crosby"
-        ]
-      }
-    },
-    {
       "start": "2026-05-10T13:32:00+05:00",
       "stop": "2026-05-10T14:33:00+05:00",
       "title": "Dateline NBC",
@@ -119,6 +59,65 @@
           "Christian Crosby"
         ]
       }
+    },
+    {
+      "start": "2026-05-10T15:32:00+05:00",
+      "stop": "2026-05-10T16:02:00+05:00",
+      "title": "Open House NYC",
+      "sub_title": "Curated Luxury",
+      "desc": "Space, style and surprises, including a towering apartment with jaw dropping views.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Series",
+        "House/garden",
+        "Home improvement"
+      ],
+      "episode": "S18 E20",
+      "icon": "http://dtil.tmsimg.com/assets/p841103_b_h8_ac.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Sara Gore"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-10T16:02:00+05:00",
+      "stop": "2026-05-10T16:30:00+05:00",
+      "title": "Open House NYC",
+      "sub_title": "Dorinda's Domain",
+      "desc": "TV personality Dorinda Medley's famous estate Bluestone Manor in the Berkshires.",
+      "date": "2024",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Series",
+        "House/garden",
+        "Home improvement"
+      ],
+      "episode": "S17 E6",
+      "icon": "http://dtil.tmsimg.com/assets/p841103_b_h8_ac.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Sara Gore",
+          "Dorinda Medley"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-10T16:30:00+05:00",
+      "stop": "2026-05-10T17:00:00+05:00",
+      "title": "Paid Programming",
+      "desc": "Paid programming.",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Consumer",
+        "Shopping",
+        "Variety"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&h=540"
     }
   ]
 }

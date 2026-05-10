@@ -4,42 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-10T10:00:00+05:00",
-      "stop": "2026-05-10T11:50:00+05:00",
-      "title": "Breakfast",
-      "desc": "The latest news, sport, business and weather from the BBC's Breakfast team.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/09c470d8-f35a-480b-828c-ad76463eafad/16-9"
-    },
-    {
-      "start": "2026-05-10T11:50:00+05:00",
-      "stop": "2026-05-10T13:00:00+05:00",
-      "title": "Match of the Day",
-      "desc": "Gabby Logan presents highlights from the day's five Premier League games, including Manchester City against Brentford and Liverpool versus Chelsea.",
-      "language": "en",
-      "categories": [
-        "Sports",
-        "Football"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/89e7cee1-6d68-4c4c-bb30-1852377381dc/16-9"
-    },
-    {
-      "start": "2026-05-10T13:00:00+05:00",
-      "stop": "2026-05-10T14:00:00+05:00",
-      "title": "Sunday with Laura Kuenssberg",
-      "desc": "Laura Kuenssberg talks to Bridget Phillipson MP, Catherine West MP, James Cleverly MP, Richard Tice MP and Rhun ap Iowerth MS.",
-      "language": "en",
-      "categories": [
-        "Entertainment",
-        "Factual"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/222232cd-2078-4d41-93ef-81fd5e69e9bb/16-9"
-    },
-    {
       "start": "2026-05-10T14:00:00+05:00",
       "stop": "2026-05-10T14:30:00+05:00",
       "title": "Politics London",
@@ -74,6 +38,42 @@
         "Game Show"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/f4544a45-88b6-4199-a48c-a15431df0fbb/16-9"
+    },
+    {
+      "start": "2026-05-10T16:30:00+05:00",
+      "stop": "2026-05-10T17:05:00+05:00",
+      "title": "Escape to the Country",
+      "desc": "Nicki Chapman's buyers are already renting in the beautiful Herefordshire countryside, but they need Nicki's help to find them a house of their own, with space for a holiday let.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Gradening"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/d62c51dc-75f2-3182-a649-6ac94fe22434/16-9"
+    },
+    {
+      "start": "2026-05-10T17:05:00+05:00",
+      "stop": "2026-05-10T17:15:00+05:00",
+      "title": "BBC News",
+      "desc": "The latest national and international news from the BBC.",
+      "language": "en",
+      "categories": [
+        "News & Documentary",
+        "News"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/5bfeb526-ddc1-4d7d-be33-fa435bb2e468/16-9"
+    },
+    {
+      "start": "2026-05-10T17:15:00+05:00",
+      "stop": "2026-05-10T17:20:00+05:00",
+      "title": "Weather for the Week Ahead",
+      "desc": "Detailed weather forecast.",
+      "language": "en",
+      "categories": [
+        "News & Documentary",
+        "News"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/7c0e62be-8dc2-4247-ad5b-c12af19fecc8/16-9"
     }
   ]
 }

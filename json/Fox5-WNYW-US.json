@@ -4,62 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-10T12:00:00+05:00",
-      "stop": "2026-05-10T12:30:00+05:00",
-      "title": "Paid Programming",
-      "desc": "Paid programming.",
-      "language": "en",
-      "rating": "TVG",
-      "categories": [
-        "Consumer",
-        "Shopping",
-        "Variety"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-10T12:30:00+05:00",
-      "stop": "2026-05-10T13:00:00+05:00",
-      "title": "Paid Programming",
-      "desc": "Paid programming.",
-      "language": "en",
-      "rating": "TVG",
-      "categories": [
-        "Consumer",
-        "Shopping",
-        "Variety"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-10T13:00:00+05:00",
-      "stop": "2026-05-10T13:30:00+05:00",
-      "title": "Paid Programming",
-      "desc": "Paid programming.",
-      "language": "en",
-      "rating": "TVG",
-      "categories": [
-        "Consumer",
-        "Shopping",
-        "Variety"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-10T13:30:00+05:00",
-      "stop": "2026-05-10T14:00:00+05:00",
-      "title": "Paid Programming",
-      "desc": "Paid programming.",
-      "language": "en",
-      "rating": "TVG",
-      "categories": [
-        "Consumer",
-        "Shopping",
-        "Variety"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-05-10T14:00:00+05:00",
       "stop": "2026-05-10T14:30:00+05:00",
       "title": "The Aging Brain",
@@ -82,6 +26,80 @@
         "Religious"
       ],
       "icon": "http://dtil.tmsimg.com/assets/p924409_b_h11_aa.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-10T15:00:00+05:00",
+      "stop": "2026-05-10T15:30:00+05:00",
+      "title": "Joel Osteen",
+      "desc": "Author and evangelist Joel Osteen spreads his message of love and hope as he preaches at the 30,000-plus member Lakewood Church in Houston. The program can be seen in more than 100 countries. Osteen urges people to live at their full potential and form a close relationship with God.",
+      "date": "1999",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Religious"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p29200166_b_h10_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Joel Osteen"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-10T15:30:00+05:00",
+      "stop": "2026-05-10T16:00:00+05:00",
+      "title": "Amazing Facts",
+      "desc": "Bible study proclaims God's good news to the world.",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Religious"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p328867_b_h10_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Doug Batchelor"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-10T16:00:00+05:00",
+      "stop": "2026-05-10T16:30:00+05:00",
+      "title": "Joel Osteen",
+      "desc": "Author and evangelist Joel Osteen spreads his message of love and hope as he preaches at the 30,000-plus member Lakewood Church in Houston. The program can be seen in more than 100 countries. Osteen urges people to live at their full potential and form a close relationship with God.",
+      "date": "1999",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Religious"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p29200166_b_h10_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Joel Osteen"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-10T16:30:00+05:00",
+      "stop": "2026-05-10T17:00:00+05:00",
+      "title": "David Jeremiah",
+      "sub_title": "The Final Prophecy: The Triumph of the Gospel",
+      "desc": "The unwavering power of the Gospel.",
+      "date": "2021",
+      "language": "en",
+      "rating": "M 15+",
+      "categories": [
+        "Series",
+        "Religious"
+      ],
+      "episode": "E24",
+      "icon": "http://dtil.tmsimg.com/assets/p518788_b_h8_al.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "David Jeremiah"
+        ]
+      }
     }
   ]
 }

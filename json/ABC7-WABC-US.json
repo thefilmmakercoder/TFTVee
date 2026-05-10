@@ -4,57 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-10T12:00:00+05:00",
-      "stop": "2026-05-10T12:30:00+05:00",
-      "title": "Beautiful Homes & Great Estates",
-      "sub_title": "Luxurious Bradbury Estate",
-      "desc": "Designed by architect Jay Johnson, the Tuscan-style mansion encompasses eight bedrooms and 15 bathrooms; the residence is adorned with Murano chandeliers, Carrara marble and hand painted silk wallpaper.",
-      "date": "2024",
-      "language": "en",
-      "rating": "TVG",
-      "categories": [
-        "Series",
-        "House/garden"
-      ],
-      "episode": "E2",
-      "icon": "http://dtil.tmsimg.com/assets/p338301_b_h10_ae.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-10T12:30:00+05:00",
-      "stop": "2026-05-10T13:00:00+05:00",
-      "title": "The American Athlete",
-      "desc": "Professional soccer player Gisele Thompson; race car driver Matt Hagan; Beast Games winner Tyler Lucas.",
-      "date": "2026",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Series",
-        "Sports talk",
-        "Interview"
-      ],
-      "episode": "E7",
-      "icon": "http://dtil.tmsimg.com/assets/p502818_b_h8_aa.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Byron Allen",
-          "Haiden Deegan",
-          "Andrew Alexander King"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-10T13:00:00+05:00",
-      "stop": "2026-05-10T13:30:00+05:00",
-      "title": "She's in the Game",
-      "desc": "Meet the next generation of superstar female athletes around the country as we go behind the scenes to shine the light on them and their interests off the field, along with catching up with the female legends who paved the way for all this growth.",
-      "date": "2025",
-      "language": "en",
-      "categories": [
-        "Sports talk"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p30612602_b_h10_aa.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-05-10T13:30:00+05:00",
       "stop": "2026-05-10T14:00:00+05:00",
       "title": "Small Town Big Deal",
@@ -101,6 +50,66 @@
         "News"
       ],
       "icon": "http://dtil.tmsimg.com/assets/p13769020_b_h8_ab.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-10T17:00:00+05:00",
+      "stop": "2026-05-10T18:00:00+05:00",
+      "title": "Good Morning America",
+      "desc": "Early morning news and entertainment program that covers important issues with key figures from around the world and a wide spectrum of topics, including medicine, finance, consumer issues, computer technology, education and gardening.",
+      "date": "2026",
+      "language": "en",
+      "categories": [
+        "Series",
+        "Talk",
+        "News",
+        "Variety",
+        "Public affairs"
+      ],
+      "episode": "E149",
+      "icon": "http://dtil.tmsimg.com/assets/p31385280_b_h10_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Whit Johnson",
+          "Janai Norman",
+          "Gio Benitez"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-10T18:00:00+05:00",
+      "stop": "2026-05-10T19:00:00+05:00",
+      "title": "Eyewitness News Sunday Morning",
+      "desc": "News coverage to start the day.",
+      "date": "2017",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p13769020_b_h8_ab.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-10T19:00:00+05:00",
+      "stop": "2026-05-10T20:00:00+05:00",
+      "title": "This Week With George Stephanopoulos",
+      "desc": "Anchor George Stephanopoulos and co-anchors Martha Raddatz and Jonathan Karl interview top newsmakers and officials, with reporting from across the country and roundtable debates over the hottest political issues.",
+      "date": "2026",
+      "language": "en",
+      "categories": [
+        "Series",
+        "Talk",
+        "News",
+        "Public affairs",
+        "Politics"
+      ],
+      "episode": "E19",
+      "icon": "http://dtil.tmsimg.com/assets/p185302_b_h8_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "George Stephanopoulos",
+          "Martha Raddatz",
+          "Jonathan Karl"
+        ]
+      }
     }
   ]
 }

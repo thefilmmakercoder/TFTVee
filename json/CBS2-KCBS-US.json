@@ -4,48 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-10T12:00:00+05:00",
-      "stop": "2026-05-10T12:30:00+05:00",
-      "title": "Inside Edition Weekend",
-      "desc": "A news magazine show covering entertainment news and celebrity reports; investigative reports dig into top stories and human interest headlines.",
-      "date": "2026",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Series",
-        "Talk"
-      ],
-      "episode": "S38 E35",
-      "icon": "http://dtil.tmsimg.com/assets/p186638_b_h10_ac.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Mary Calvi"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-10T12:30:00+05:00",
-      "stop": "2026-05-10T13:00:00+05:00",
-      "title": "Game Time With Boomer Esiason",
-      "sub_title": "Torey Lovullo",
-      "desc": "Manager for the Diamondbacks, Torey Lovullo.",
-      "date": "2026",
-      "language": "en",
-      "categories": [
-        "Series",
-        "Sports talk",
-        "Interview"
-      ],
-      "episode": "S7 E14",
-      "icon": "http://dtil.tmsimg.com/assets/p17167704_b_h8_ac.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Boomer Esiason",
-          "Torey Lovullo"
-        ]
-      }
-    },
-    {
       "start": "2026-05-10T13:00:00+05:00",
       "stop": "2026-05-10T14:00:00+05:00",
       "title": "Fire Country",
@@ -124,6 +82,38 @@
         "Variety"
       ],
       "icon": "http://dtil.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-10T16:00:00+05:00",
+      "stop": "2026-05-10T17:00:00+05:00",
+      "title": "Women on the Move",
+      "sub_title": "Magnificent Mothers",
+      "desc": "Profiles of successful black women.",
+      "date": "2026",
+      "language": "en",
+      "categories": [
+        "Series",
+        "Documentary"
+      ],
+      "episode": "E2",
+      "icon": "http://dtil.tmsimg.com/assets/p531362_b_h10_aa.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Darryl Pitts"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-10T17:00:00+05:00",
+      "stop": "2026-05-10T18:00:00+05:00",
+      "title": "CBS LA Mornings at 5am",
+      "desc": "Start your day with CBS LA Mornings, covering breaking stories from The Desk, and NEXT Weather and Traffic for Southern California.",
+      "date": "2025",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p31308781_b_h10_aa.jpg?w=960&h=540"
     }
   ]
 }
