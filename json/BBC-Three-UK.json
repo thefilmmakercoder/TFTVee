@@ -4,25 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-10T15:30:00+05:00",
-      "stop": "2026-05-10T21:30:00+05:00",
-      "title": "..programmes start at 7.00pm",
-      "language": "en"
-    },
-    {
-      "start": "2026-05-10T21:30:00+05:00",
-      "stop": "2026-05-10T22:58:00+05:00",
-      "title": "..programmes start at 7.00pm",
-      "language": "en"
-    },
-    {
-      "start": "2026-05-10T22:58:00+05:00",
-      "stop": "2026-05-10T23:00:00+05:00",
-      "title": "This is BBC Three",
-      "desc": "Programmes start at 7.00pm.",
-      "language": "en"
-    },
-    {
       "start": "2026-05-10T23:00:00+05:00",
       "stop": "2026-05-10T23:30:00+05:00",
       "title": "EastEnders Omnibus",
@@ -57,6 +38,41 @@
         "Soap"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/07d63342-515a-4283-8e2b-8d0c88e64527/16-9"
+    },
+    {
+      "start": "2026-05-11T00:30:00+05:00",
+      "stop": "2026-05-11T01:00:00+05:00",
+      "title": "EastEnders Omnibus",
+      "desc": "It's election day, and Ian and Elaine are anxiously awaiting the results. Nicola tries to support George, and Max's jealousy mounts.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Soap"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/7b1f6108-de84-43cc-99e3-88c43cfd6269/16-9"
+    },
+    {
+      "start": "2026-05-11T01:00:00+05:00",
+      "stop": "2026-05-11T02:50:00+05:00",
+      "title": "1917",
+      "desc": "During the First World War, two soldiers must cross no-man's-land to deliver a message. Contains some strong language, some violence and some upsetting scenes.",
+      "language": "en",
+      "categories": [
+        "Movie"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/2421bf62-8ed7-4f65-81f3-e13e57aa7d2e/16-9"
+    },
+    {
+      "start": "2026-05-11T02:50:00+05:00",
+      "stop": "2026-05-11T03:50:00+05:00",
+      "title": "James Arthur: Out of Our Minds",
+      "desc": "Singer-songwriter James Arthur explores the roots of his fragile mental health. Contains strong language.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Factual"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/d3f0e006-7f42-4856-9f33-19f2928f1e31/16-9"
     }
   ]
 }

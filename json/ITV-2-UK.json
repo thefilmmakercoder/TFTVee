@@ -4,18 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-10T21:10:00+05:00",
-      "stop": "2026-05-10T21:15:00+05:00",
-      "title": "FYI Daily",
-      "desc": "Latest news from the world of entertainment.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "Showbiz"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/d94c9ff5-c9dd-4525-8071-fe415b4d9216/16-9"
-    },
-    {
       "start": "2026-05-10T21:15:00+05:00",
       "stop": "2026-05-10T22:45:00+05:00",
       "title": "Indiana Jones and the Last Crusade",
@@ -74,6 +62,19 @@
         "Lifestyles"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/384cca2c-6672-4266-ad90-92d5e2f5bc2c/16-9"
+    },
+    {
+      "start": "2026-05-11T02:05:00+05:00",
+      "stop": "2026-05-11T02:30:00+05:00",
+      "title": "Family Guy",
+      "sub_title": "Row v Wade",
+      "desc": "Anarchic animated sitcom. Brian wins a boat on a game show and decides to sail to Texas to help women seeking legal abortions, and Peter becomes a human art exhibit.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Comedy"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/e67902eb-7af2-4b56-a90d-c9bed6615b1a/16-9"
     }
   ]
 }
