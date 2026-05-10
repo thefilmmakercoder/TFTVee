@@ -4,28 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-10T15:15:00+05:00",
-      "stop": "2026-05-10T16:25:00+05:00",
-      "title": "The Great British Sewing Bee: Wardrobe Staples Week",
-      "date": "2022",
-      "language": "en",
-      "categories": [
-        "Entertainment Program"
-      ],
-      "episode": "S8E5"
-    },
-    {
-      "start": "2026-05-10T16:25:00+05:00",
-      "stop": "2026-05-10T17:35:00+05:00",
-      "title": "The Great British Sewing Bee: Wardrobe Staples Week",
-      "date": "2022",
-      "language": "en",
-      "categories": [
-        "Entertainment Program"
-      ],
-      "episode": "S8E6"
-    },
-    {
       "start": "2026-05-10T17:35:00+05:00",
       "stop": "2026-05-10T18:30:00+05:00",
       "title": "The Great American Baking Show",
@@ -70,6 +48,39 @@
         "Documentary Series"
       ],
       "episode": "S1E4"
+    },
+    {
+      "start": "2026-05-10T21:35:00+05:00",
+      "stop": "2026-05-10T22:30:00+05:00",
+      "title": "The First Class Travel Show",
+      "desc": "Presenter Josie Gibson embarks on a unique adventure during which she experiences the highest levels of comfort and elegance.Her journey is full of exclusive attractions and luxurious amenities.",
+      "date": "2025",
+      "language": "en",
+      "categories": [
+        "Documentary Series"
+      ],
+      "episode": "E3",
+      "credits": {
+        "director": [
+          "Ros Edwards"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-10T22:30:00+05:00",
+      "stop": "2026-05-10T23:45:00+05:00",
+      "title": "The Truth about Alcohol",
+      "desc": "British doctor Javid Abdelmoneim shows the impact of alcoholic beverages on our body and the risks associated with their consumption.To present the harmful effects of alcohol, he uses the latest research results.It explains, among other things, why some people get drunk faster.It also verifies the common opinion that drinking wine is good for your health, and whether a drink before going to bed actually makes you sleep better.We will also learn what effect alcohol has on our stomachs and the feeling of hunger.",
+      "date": "2016",
+      "language": "en",
+      "categories": [
+        "Documentary Film"
+      ],
+      "credits": {
+        "director": [
+          "David Briggs"
+        ]
+      }
     }
   ]
 }

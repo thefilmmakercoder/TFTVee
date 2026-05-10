@@ -4,18 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-10T16:00:00+05:00",
-      "stop": "2026-05-10T17:00:00+05:00",
-      "title": "CBS News New York Sunday 7am",
-      "desc": "Stay informed with the latest breaking news and headlines.",
-      "date": "2020",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p18809163_b_h8_ab.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-05-10T17:00:00+05:00",
       "stop": "2026-05-10T18:00:00+05:00",
       "title": "CBS News New York Sunday 8am",
@@ -95,6 +83,18 @@
         "Bull riding"
       ],
       "icon": "http://dtil.tmsimg.com/assets/p32945596_b_h8_aa.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-10T22:00:00+05:00",
+      "stop": "2026-05-11T00:00:00+05:00",
+      "title": "Live: LPGA Tour Golf",
+      "desc": "Professional women golfers try to claim the crown in the final round of the Mizuho Americas Open. The LPGA event is being played at Mountain Ridge Country Club in West Caldwell, N.J.",
+      "language": "en",
+      "categories": [
+        "Sports",
+        "Golf"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p32678706_b_h10_aa.jpg?w=960&h=540"
     }
   ]
 }

@@ -4,42 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-10T15:00:00+05:00",
-      "stop": "2026-05-10T17:00:00+05:00",
-      "title": "Eyewitness News Sunday Morning",
-      "desc": "News coverage to start the day.",
-      "date": "2017",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p13769020_b_h8_ab.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-10T17:00:00+05:00",
-      "stop": "2026-05-10T18:00:00+05:00",
-      "title": "Good Morning America",
-      "desc": "Early morning news and entertainment program that covers important issues with key figures from around the world and a wide spectrum of topics, including medicine, finance, consumer issues, computer technology, education and gardening.",
-      "date": "2026",
-      "language": "en",
-      "categories": [
-        "Series",
-        "Talk",
-        "News",
-        "Variety",
-        "Public affairs"
-      ],
-      "episode": "E149",
-      "icon": "http://dtil.tmsimg.com/assets/p31385280_b_h10_aa.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Whit Johnson",
-          "Janai Norman",
-          "Gio Benitez"
-        ]
-      }
-    },
-    {
       "start": "2026-05-10T18:00:00+05:00",
       "stop": "2026-05-10T19:00:00+05:00",
       "title": "Eyewitness News Sunday Morning",
@@ -107,6 +71,45 @@
         "Public affairs"
       ],
       "icon": "http://dtil.tmsimg.com/assets/p958784_b_h10_aa.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-10T21:00:00+05:00",
+      "stop": "2026-05-10T22:00:00+05:00",
+      "title": "Here and Now",
+      "desc": "Features stories that impact the black community; leaders and experts voice their opinions on a variety of topics including politics, the economy, education and health issues.",
+      "date": "2011",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Community"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p8890329_b_h10_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Sandra Bookman"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-10T22:00:00+05:00",
+      "stop": "2026-05-10T22:30:00+05:00",
+      "title": "Home for Good",
+      "sub_title": "Ronnie Estep",
+      "desc": "Art and the team extend their hand to help firefighter and paramedic, Ronnie Estep, a 27-year-old father whose old home burned to the ground; in just seven days, the team tackles a complete makeover of the kitchen but goes above and beyond by renovating the living room, office space, dining room, plus a special surprise in store for this deserving family.",
+      "date": "2026",
+      "language": "en",
+      "categories": [
+        "Series",
+        "Reality",
+        "Home improvement"
+      ],
+      "episode": "S1 E2",
+      "icon": "http://dtil.tmsimg.com/assets/p32671662_b_h8_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Art Edmonds"
+        ]
+      }
     }
   ]
 }
