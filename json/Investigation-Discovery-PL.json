@@ -4,17 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-10T16:00:00+05:00",
-      "stop": "2026-05-10T19:00:00+05:00",
-      "title": "The Atlanta Child Murders",
-      "desc": "Between 1979 and 1981, 29 black children were kidnapped in Atlanta and later found dead.The police investigated the case, but the identity of the perpetrator could not be confirmed.",
-      "date": "2019",
-      "language": "en",
-      "categories": [
-        "Documentary Film"
-      ]
-    },
-    {
       "start": "2026-05-10T19:00:00+05:00",
       "stop": "2026-05-10T20:00:00+05:00",
       "title": "Casey Anthony: Killer Mom?",
@@ -113,6 +102,26 @@
       "categories": [
         "Documentary Series"
       ]
+    },
+    {
+      "start": "2026-05-11T00:00:00+05:00",
+      "stop": "2026-05-11T02:00:00+05:00",
+      "title": "Gypsy's Revenge",
+      "desc": "The mother and daughter duo of Dee Dee and Gypsy Blancharde seem like the perfect team.However, a Facebook post reveals the story behind this false report.",
+      "date": "2018",
+      "language": "en",
+      "categories": [
+        "Documentary Film"
+      ],
+      "credits": {
+        "director": [
+          "Jesse Vile"
+        ],
+        "actor": [
+          "Herself - Dee Dee Blanchard",
+          "Herself - Gypsy Rose Blanchard"
+        ]
+      }
     }
   ]
 }

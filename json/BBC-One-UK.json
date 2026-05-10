@@ -4,18 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-10T17:55:00+05:00",
-      "stop": "2026-05-10T18:10:00+05:00",
-      "title": "Points of View",
-      "desc": "Viewers have their say on the BBC's television shows. Email your thoughts to pov@bbc.co.uk.",
-      "language": "en",
-      "categories": [
-        "Entertainment",
-        "Factual"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/94bf4123-b5d9-4d69-b61c-89aeb1ffe5bc/16-9"
-    },
-    {
       "start": "2026-05-10T18:10:00+05:00",
       "stop": "2026-05-10T19:35:00+05:00",
       "title": "Despicable Me 3",
@@ -73,6 +61,18 @@
         "News"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/76c698a0-fc47-4d01-9b7e-07b606137760/16-9"
+    },
+    {
+      "start": "2026-05-10T21:00:00+05:00",
+      "stop": "2026-05-10T22:00:00+05:00",
+      "title": "Wild London",
+      "desc": "Sir David Attenborough explores the wildlife of his London hometown, from urban deer to rooftop peregrines and many others, revealing how nature thrives in the world's greenest major city.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Factual"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/d16a22ae-1e28-42ce-9209-518c7be8dc04/16-9"
     }
   ]
 }

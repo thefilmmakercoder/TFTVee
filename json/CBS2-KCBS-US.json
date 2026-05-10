@@ -4,40 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-10T17:00:00+05:00",
-      "stop": "2026-05-10T18:00:00+05:00",
-      "title": "CBS LA Mornings at 5am",
-      "desc": "Start your day with CBS LA Mornings, covering breaking stories from The Desk, and NEXT Weather and Traffic for Southern California.",
-      "date": "2025",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p31308781_b_h10_aa.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-10T18:00:00+05:00",
-      "stop": "2026-05-10T19:30:00+05:00",
-      "title": "CBS News Sunday Morning",
-      "desc": "The turmoil surrounding voting in America; culinary ideas from Martha Stewart; CBS Radio; a group of women who lost their mothers young; Jonathan Vigliotti discusses the 2025 Los Angeles fires; actor Martin Short; the life and legacy of CNN founder Ted Turner; filmmaker Josh Seftel and his mom, Pat.",
-      "date": "2026",
-      "language": "en",
-      "categories": [
-        "Series",
-        "Talk",
-        "Newsmagazine"
-      ],
-      "episode": "E19",
-      "icon": "http://dtil.tmsimg.com/assets/p31419380_b_h8_aa.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Jane Pauley",
-          "Mo Rocca",
-          "Martha Stewart"
-        ]
-      }
-    },
-    {
       "start": "2026-05-10T19:30:00+05:00",
       "stop": "2026-05-10T20:30:00+05:00",
       "title": "Face the Nation",
@@ -95,6 +61,29 @@
         "Golf"
       ],
       "icon": "http://dtil.tmsimg.com/assets/p32678706_b_h10_aa.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-11T00:00:00+05:00",
+      "stop": "2026-05-11T03:00:00+05:00",
+      "title": "Live: PGA Tour Golf",
+      "desc": "The final round of this Signature Event on the PGA TOUR concludes at the Quail Hollow Club in Charlotte, North Carolina. The players compete for the largest portion of the $20 million purse and 700 FedExCup points awarded to the winner.",
+      "language": "en",
+      "categories": [
+        "Sports",
+        "Golf"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p33041531_b_h8_aa.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-11T03:00:00+05:00",
+      "stop": "2026-05-11T04:00:00+05:00",
+      "title": "Sports Central",
+      "date": "2023",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p26402663_b_h10_ac.jpg?w=960&h=540"
     }
   ]
 }

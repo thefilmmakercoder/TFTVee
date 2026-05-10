@@ -4,54 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-10T18:30:00+05:00",
-      "stop": "2026-05-10T19:00:00+05:00",
-      "title": "Paid Programming",
-      "desc": "Paid programming.",
-      "language": "en",
-      "rating": "TVG",
-      "categories": [
-        "Consumer",
-        "Shopping",
-        "Variety"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-10T19:00:00+05:00",
-      "stop": "2026-05-10T19:30:00+05:00",
-      "title": "Paid Programming",
-      "desc": "Paid programming.",
-      "language": "en",
-      "rating": "TVG",
-      "categories": [
-        "Consumer",
-        "Shopping",
-        "Variety"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-10T19:30:00+05:00",
-      "stop": "2026-05-10T20:00:00+05:00",
-      "title": "Moneytalk",
-      "desc": "Industry players provide vital finance information.",
-      "date": "2026",
-      "language": "en",
-      "categories": [
-        "Series",
-        "Talk",
-        "Bus./financial"
-      ],
-      "episode": "E18",
-      "icon": "http://dtil.tmsimg.com/assets/p12163021_b_h10_ab.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Kim Parlee"
-        ]
-      }
-    },
-    {
       "start": "2026-05-10T20:00:00+05:00",
       "stop": "2026-05-10T20:30:00+05:00",
       "title": "The Truth",
@@ -101,6 +53,50 @@
           "Evan Solomon"
         ]
       }
+    },
+    {
+      "start": "2026-05-10T22:00:00+05:00",
+      "stop": "2026-05-10T22:30:00+05:00",
+      "title": "Paid Programming",
+      "desc": "Paid programming.",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Consumer",
+        "Shopping",
+        "Variety"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-10T22:30:00+05:00",
+      "stop": "2026-05-10T23:00:00+05:00",
+      "title": "Paid Programming",
+      "desc": "Paid programming.",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Consumer",
+        "Shopping",
+        "Variety"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-10T23:00:00+05:00",
+      "stop": "2026-05-11T00:00:00+05:00",
+      "title": "East Harbour Heroes",
+      "sub_title": "Boats, Boats, Boats",
+      "desc": "With peak fishing season on the horizon, crane operators launch millions of dollars in boats and one skipper lands his first lobster catch.",
+      "date": "2023",
+      "language": "en",
+      "categories": [
+        "Series",
+        "Reality",
+        "Documentary"
+      ],
+      "episode": "S1 E8",
+      "icon": "http://dtil.tmsimg.com/assets/p24796311_b_h8_aj.jpg?w=960&h=540"
     }
   ]
 }

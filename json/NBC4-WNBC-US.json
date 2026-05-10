@@ -4,37 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-10T18:00:00+05:00",
-      "stop": "2026-05-10T18:30:00+05:00",
-      "title": "Open House NYC",
-      "desc": "Host Sara Gore presents a guide to upscale real estate in and around the Big Apple. In addition to a look at the hottest homes on the market, the show also provides interior design tips from specialists and a wealth of information on renovation and stylish living.",
-      "date": "2007",
-      "language": "en",
-      "rating": "TVG",
-      "categories": [
-        "House/garden",
-        "Home improvement"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p841103_b_h8_ac.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Sara Gore"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-10T18:30:00+05:00",
-      "stop": "2026-05-10T19:30:00+05:00",
-      "title": "Sunday Today in New York",
-      "desc": "Sunday New York news show.",
-      "date": "2014",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p10513239_b_h10_ag.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-05-10T19:30:00+05:00",
       "stop": "2026-05-10T20:30:00+05:00",
       "title": "Meet the Press",
@@ -99,6 +68,31 @@
         "Consumer"
       ],
       "icon": "http://dtil.tmsimg.com/assets/p17463183_b_h10_aa.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-10T22:00:00+05:00",
+      "stop": "2026-05-10T22:30:00+05:00",
+      "title": "Paid Programming",
+      "desc": "Paid programming.",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Consumer",
+        "Shopping",
+        "Variety"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-10T22:30:00+05:00",
+      "stop": "2026-05-10T23:00:00+05:00",
+      "title": "The Aging Brain",
+      "desc": "Learn what's behind mental decline with age, and how to improve memory, focus and concentration with NeuroQ's Darrin Peterson and Dale Bredesen MD.",
+      "language": "en",
+      "categories": [
+        "Consumer"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p30127108_st_h10_aa.jpg?w=960&h=540"
     }
   ]
 }
