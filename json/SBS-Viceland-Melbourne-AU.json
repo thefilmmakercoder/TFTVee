@@ -4,19 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-11T02:50:00+05:00",
-      "stop": "2026-05-11T03:10:00+05:00",
-      "title": "Euronews",
-      "sub_title": "Monday 11 May 2026",
-      "desc": "Headlines, Breaking News & Analysis from the Euronews news centre in Brussels, Belgium, in English.",
-      "language": "en",
-      "rating": "NR",
-      "categories": [
-        "Sports"
-      ],
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/276/image/334x188"
-    },
-    {
       "start": "2026-05-11T03:10:00+05:00",
       "stop": "2026-05-11T03:40:00+05:00",
       "title": "DW English News",
@@ -81,6 +68,20 @@
         "Special Interest"
       ],
       "episode": "E29",
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/130483/image/334x188"
+    },
+    {
+      "start": "2026-05-11T06:05:00+05:00",
+      "stop": "2026-05-11T06:40:00+05:00",
+      "title": "The Movie Show",
+      "sub_title": "Venice Film Festival",
+      "desc": "Film review with Margaret Pomeranz and David Stratton from Venice. Covers The Age of Innocence, Bad Boy Bubby, What's Love Got to Do with It, Hercules Returns, A Bronx Tale, with interviews.",
+      "language": "en",
+      "rating": "PG",
+      "categories": [
+        "Special Interest"
+      ],
+      "episode": "E30",
       "icon": "https://www.fetchtv.com.au/v2/epg/program/130483/image/334x188"
     }
   ]

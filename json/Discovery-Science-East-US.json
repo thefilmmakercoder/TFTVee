@@ -4,33 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-11T02:00:00+05:00",
-      "stop": "2026-05-11T03:00:00+05:00",
-      "title": "Unearthed",
-      "sub_title": "Secrets of Hadrian's Villa",
-      "desc": "Hadrian's Villa is the largest Roman palace ever constructed and demonstrates the opulent peak of Rome's ancient engineering; experts investigate secrets that could reveal the truth behind one of Rome's most enigmatic emperors.",
-      "date": "2022",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Series",
-        "Science",
-        "History",
-        "Documentary"
-      ],
-      "episode": "S10 E4",
-      "icon": "http://dtil.tmsimg.com/assets/p23347242_b_h10_ae.jpg?w=960&h=540",
-      "credits": {
-        "director": [
-          "Martin Gorst",
-          "Tom Ranson"
-        ],
-        "actor": [
-          "Steven Kearney"
-        ]
-      }
-    },
-    {
       "start": "2026-05-11T03:00:00+05:00",
       "stop": "2026-05-11T04:00:00+05:00",
       "title": "Unearthed",
@@ -144,6 +117,21 @@
           "Don Wildman"
         ]
       }
+    },
+    {
+      "start": "2026-05-11T09:00:00+05:00",
+      "stop": "2026-05-11T11:00:00+05:00",
+      "title": "Cleopatra: Sex, Lies and Secrets",
+      "desc": "The latest archaeological research unravels the mystery behind this elusive Egyptian queen, whose name is synonymous with seduction, beauty and scandal.",
+      "date": "2020",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Documentary",
+        "History",
+        "Ancient history"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p18316381_b_h8_ab.jpg?w=960&h=540"
     }
   ]
 }

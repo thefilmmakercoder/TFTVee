@@ -4,30 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-11T02:30:00+05:00",
-      "stop": "2026-05-11T03:00:00+05:00",
-      "title": "The Newsmakers",
-      "desc": "With in-depth reports and strong, unfiltered debates: The Newsmakers examine the people and the stories that are shaping our lives.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/f3e64a3e-eb17-4c84-8f48-0f435b14f494/16-9"
-    },
-    {
-      "start": "2026-05-11T03:00:00+05:00",
-      "stop": "2026-05-11T03:30:00+05:00",
-      "title": "News",
-      "desc": "TRT World brings the latest news from around the globe, when it happens.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/227c5636-c4e1-4c23-9e45-1ca15eed9679/16-9"
-    },
-    {
       "start": "2026-05-11T03:30:00+05:00",
       "stop": "2026-05-11T04:00:00+05:00",
       "title": "The Longest Day: Heat",
@@ -73,6 +49,30 @@
         "News"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/851c3435-69e9-4c04-99df-d190c57e0ee4/16-9"
+    },
+    {
+      "start": "2026-05-11T06:00:00+05:00",
+      "stop": "2026-05-11T06:30:00+05:00",
+      "title": "News",
+      "desc": "TRT World brings the latest news from around the globe, when it happens.",
+      "language": "en",
+      "categories": [
+        "News & Documentary",
+        "News"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/07c25dca-6f4d-42c3-8fc7-f06a25478760/16-9"
+    },
+    {
+      "start": "2026-05-11T06:30:00+05:00",
+      "stop": "2026-05-11T07:00:00+05:00",
+      "title": "Beyond Borders",
+      "desc": "Beyond Borders with David Foster: The untold stories about the people and places left behind, and the communities falling through the cracks.",
+      "language": "en",
+      "categories": [
+        "News & Documentary",
+        "Politics"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/3ace0b8f-2c34-4fba-a13b-44d416dac517/16-9"
     }
   ]
 }

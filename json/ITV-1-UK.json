@@ -4,18 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-11T02:05:00+05:00",
-      "stop": "2026-05-11T02:20:00+05:00",
-      "title": "ITV News",
-      "desc": "National and international news with reports and analysis from ITV's Correspondents in the UK and around the world as well as the latest major sports results.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/f96837f5-600a-46d9-82e6-7f3b19ce466c/16-9"
-    },
-    {
       "start": "2026-05-11T02:20:00+05:00",
       "stop": "2026-05-11T03:25:00+05:00",
       "title": "The Neighbourhood",
@@ -75,6 +63,19 @@
         "Lifestyles"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/e35c282c-3585-4d3f-8fcf-61ba6356e4e4/16-9"
+    },
+    {
+      "start": "2026-05-11T09:05:00+05:00",
+      "stop": "2026-05-11T10:00:00+05:00",
+      "title": "Josie's Taste of the Westcountry",
+      "sub_title": "Dorset",
+      "desc": "Josie tries biscuit-throwing on the Jurassic Coast, meets a group of daring scallop-divers, and gets stuck in harvesting watercress aboard a specialised tractor.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Home"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/fc332a19-826d-4969-8b7a-65f20e64cb81/16-9"
     }
   ]
 }

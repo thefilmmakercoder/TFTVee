@@ -4,18 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-11T00:00:00+05:00",
-      "stop": "2026-05-11T03:00:00+05:00",
-      "title": "Live: PGA Tour Golf",
-      "desc": "The final round of this Signature Event on the PGA TOUR concludes at the Quail Hollow Club in Charlotte, North Carolina. The players compete for the largest portion of the $20 million purse and 700 FedExCup points awarded to the winner.",
-      "language": "en",
-      "categories": [
-        "Sports",
-        "Golf"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p33041531_b_h8_aa.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-05-11T03:00:00+05:00",
       "stop": "2026-05-11T04:00:00+05:00",
       "title": "Sports Central",
@@ -93,6 +81,27 @@
         "News"
       ],
       "icon": "http://dtil.tmsimg.com/assets/p31308575_b_h10_aa.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-11T07:00:00+05:00",
+      "stop": "2026-05-11T08:00:00+05:00",
+      "title": "60 Minutes",
+      "desc": "Newsmagazine with features focusing on people, and events in the news and behind the headlines.",
+      "date": "2026",
+      "language": "en",
+      "categories": [
+        "Series",
+        "Newsmagazine"
+      ],
+      "episode": "S58 E32",
+      "icon": "http://dtil.tmsimg.com/assets/p31308310_b_h10_ae.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Lesley Stahl",
+          "Scott Pelley",
+          "Anderson Cooper"
+        ]
+      }
     }
   ]
 }
