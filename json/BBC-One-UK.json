@@ -4,17 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-10T23:00:00+05:00",
-      "stop": "2026-05-11T01:00:00+05:00",
-      "title": "BAFTA Television Awards 2026",
-      "desc": "Join host Greg Davies as he honours the finest stars and TV programmes of the year. Contains scenes of flashing images.",
-      "language": "en",
-      "categories": [
-        "Entertainment"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/1cc9949d-8e90-4557-9460-342dd47b3bc6/16-9"
-    },
-    {
       "start": "2026-05-11T01:00:00+05:00",
       "stop": "2026-05-11T02:00:00+05:00",
       "title": "The Cage",
@@ -73,6 +62,18 @@
         "Antiques"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/ef92bf69-c211-4677-9b61-570401cf99eb/16-9"
+    },
+    {
+      "start": "2026-05-11T04:45:00+05:00",
+      "stop": "2026-05-11T04:50:00+05:00",
+      "title": "Weather for the Week Ahead",
+      "desc": "Detailed weather forecast.",
+      "language": "en",
+      "categories": [
+        "News & Documentary",
+        "News"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/00f2a449-63f3-4fb0-8a3e-2bb5337e769d/16-9"
     }
   ]
 }
