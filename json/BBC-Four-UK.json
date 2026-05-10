@@ -4,12 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-10T09:30:00+05:00",
-      "stop": "2026-05-10T15:30:00+05:00",
-      "title": "..programmes start at 7.00pm",
-      "language": "en"
-    },
-    {
       "start": "2026-05-10T15:30:00+05:00",
       "stop": "2026-05-10T21:30:00+05:00",
       "title": "..programmes start at 7.00pm",
@@ -51,6 +45,18 @@
         "Factual"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/55847a8e-1562-4fba-a256-d277ddcd6f73/16-9"
+    },
+    {
+      "start": "2026-05-11T01:00:00+05:00",
+      "stop": "2026-05-11T01:55:00+05:00",
+      "title": "Life on Earth: The Infinite Variety",
+      "desc": "Landmark natural history series. David Attenborough explores the wildlife and landscape that inspired Charles Darwin's theory of evolution.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Factual"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/0788a633-4346-470d-a5bf-519735ce2e28/16-9"
     }
   ]
 }

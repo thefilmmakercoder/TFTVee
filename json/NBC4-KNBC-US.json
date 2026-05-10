@@ -4,53 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-10T19:00:00+05:00",
-      "stop": "2026-05-10T20:00:00+05:00",
-      "title": "Today in LA Weekend",
-      "desc": "The latest local news, weather and investigative stories impacting the community.",
-      "date": "2006",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p960593_b_h10_af.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-10T20:00:00+05:00",
-      "stop": "2026-05-10T21:00:00+05:00",
-      "title": "Meet the Press",
-      "desc": "Interviews with public figures and those making news, setting the political agenda and spotlighting the impact Washington decision-making has on Americans.",
-      "date": "2026",
-      "language": "en",
-      "categories": [
-        "Series",
-        "Talk",
-        "Interview",
-        "Politics",
-        "News",
-        "Public affairs"
-      ],
-      "episode": "S79 E16",
-      "icon": "http://dtil.tmsimg.com/assets/p184068_b_h8_ad.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Kristen Welker"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-10T21:00:00+05:00",
-      "stop": "2026-05-10T21:30:00+05:00",
-      "title": "NBC4 News Conference",
-      "desc": "Stay informed with the latest breaking news and headlines.",
-      "date": "2023",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p26464088_b_h10_aa.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-05-10T21:30:00+05:00",
       "stop": "2026-05-10T22:00:00+05:00",
       "title": "Bathroom Makeover",
@@ -101,6 +54,50 @@
           "Sara Gore"
         ]
       }
+    },
+    {
+      "start": "2026-05-10T23:00:00+05:00",
+      "stop": "2026-05-10T23:30:00+05:00",
+      "title": "George to the Rescue",
+      "desc": "George Oliphant comes to the rescue of families in need of renovating their homes.",
+      "date": "2010",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "House/garden"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p29553512_b_h10_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "George Oliphant"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-10T23:30:00+05:00",
+      "stop": "2026-05-11T00:00:00+05:00",
+      "title": "Bathroom Makeover",
+      "desc": "Transform your bath affordably in just one day!",
+      "language": "en",
+      "categories": [
+        "Consumer",
+        "Health",
+        "House/garden",
+        "Self improvement"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p30220270_b_h8_aa.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-11T00:00:00+05:00",
+      "stop": "2026-05-11T03:00:00+05:00",
+      "title": "AMA Supercross Championship",
+      "desc": "The AMA Supercross series makes a stop at Rice-Eccles Stadium in Salt Lake City.",
+      "language": "en",
+      "categories": [
+        "Sports",
+        "Motorcycle racing"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p8119764_b_h10_aa.jpg?w=960&h=540"
     }
   ]
 }
