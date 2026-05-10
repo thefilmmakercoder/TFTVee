@@ -4,31 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-10T14:00:00+05:00",
-      "stop": "2026-05-10T14:30:00+05:00",
-      "title": "News Live",
-      "desc": "Up-to-date news and analysis from around the world.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "World Affairs"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/a2ae730b-1e1c-4922-bb48-d995d237870b/16-9"
-    },
-    {
-      "start": "2026-05-10T14:30:00+05:00",
-      "stop": "2026-05-10T15:00:00+05:00",
-      "title": "The Bottom Line",
-      "sub_title": "Ep",
-      "desc": "19 Economist Richard Wolff argues that the War on Iran will do lasting damage to the global economy.",
-      "language": "en",
-      "categories": [
-        "Entertainment",
-        "Chat Show"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/d53f7d5e-18c6-4a52-a13d-7e32147d0904/16-9"
-    },
-    {
       "start": "2026-05-10T15:00:00+05:00",
       "stop": "2026-05-10T16:00:00+05:00",
       "title": "Newshour",
@@ -75,6 +50,30 @@
         "World Affairs"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/16d15925-a056-4ca1-b85c-5034fe0f234e/16-9"
+    },
+    {
+      "start": "2026-05-10T18:00:00+05:00",
+      "stop": "2026-05-10T19:00:00+05:00",
+      "title": "Newshour",
+      "desc": "Latest news and in-depth analysis from around the world.",
+      "language": "en",
+      "categories": [
+        "News & Documentary",
+        "World Affairs"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/16d15925-a056-4ca1-b85c-5034fe0f234e/16-9"
+    },
+    {
+      "start": "2026-05-10T19:00:00+05:00",
+      "stop": "2026-05-10T19:30:00+05:00",
+      "title": "News Live",
+      "desc": "Up-to-date news and analysis from around the world.",
+      "language": "en",
+      "categories": [
+        "News & Documentary",
+        "World Affairs"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/a2ae730b-1e1c-4922-bb48-d995d237870b/16-9"
     }
   ]
 }

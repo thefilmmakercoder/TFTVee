@@ -4,18 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-10T13:25:00+05:00",
-      "stop": "2026-05-10T13:30:00+05:00",
-      "title": "ITV News",
-      "desc": "National and international news with reports and analysis from ITV's Correspondents in the UK and around the world as well as the latest major sports results.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/06da1b25-60f2-4c78-a231-d042462f10ef/16-9"
-    },
-    {
       "start": "2026-05-10T13:30:00+05:00",
       "stop": "2026-05-10T15:25:00+05:00",
       "title": "Love Your Weekend with Alan Titchmarsh",
@@ -75,6 +63,18 @@
         "Game Show"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/1ba63d54-810c-49a5-8038-423aebd7fc25/16-9"
+    },
+    {
+      "start": "2026-05-10T19:10:00+05:00",
+      "stop": "2026-05-10T21:10:00+05:00",
+      "title": "Mamma Mia!",
+      "desc": "Romantic musical comedy film starring Meryl Streep and Amanda Seyfried, 2008. A spirited bride-to-be invites her mother's old lovers to her wedding to work out who her father is.",
+      "language": "en",
+      "categories": [
+        "Movie",
+        "Musical"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/35e8636e-8d7a-4eb8-a85c-872fdc422eb4/16-9"
     }
   ]
 }

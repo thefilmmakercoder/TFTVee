@@ -4,60 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-10T14:00:00+05:00",
-      "stop": "2026-05-10T14:30:00+05:00",
-      "title": "The Littlest Hobo",
-      "sub_title": "Pandora",
-      "desc": "Hobo finds an undetonated World War II bomb.",
-      "date": "1985",
-      "language": "en",
-      "rating": "TVG",
-      "categories": [
-        "Series",
-        "Drama",
-        "Adventure",
-        "Animals"
-      ],
-      "episode": "S6 E18",
-      "icon": "http://dtil.tmsimg.com/assets/p507740_b_h10_ac.jpg?w=960&h=540",
-      "credits": {
-        "director": [
-          "Eleanor Lindo"
-        ],
-        "actor": [
-          "Jack Blum",
-          "Michael Copeman",
-          "Donald Ewer"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-10T14:30:00+05:00",
-      "stop": "2026-05-10T15:00:00+05:00",
-      "title": "Paid Programming",
-      "desc": "Paid programming.",
-      "language": "en",
-      "rating": "TVG",
-      "categories": [
-        "Consumer",
-        "Shopping",
-        "Variety"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-10T15:00:00+05:00",
-      "stop": "2026-05-10T15:30:00+05:00",
-      "title": "CTV News Toronto",
-      "desc": "CTV News covers stories that matter to Canadians, locally, nationally and internationally.",
-      "date": "2014",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p11226977_b_h8_ae.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-05-10T15:30:00+05:00",
       "stop": "2026-05-10T16:00:00+05:00",
       "title": "CTV National News With Heather Butts",
@@ -122,6 +68,58 @@
           "Robert Buck",
           "Bruce Clayton",
           "Neil Dainard"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-10T17:30:00+05:00",
+      "stop": "2026-05-10T18:00:00+05:00",
+      "title": "The Truth",
+      "date": "2015",
+      "language": "en",
+      "categories": [
+        "Documentary"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p12289951_b_h8_ab.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-10T18:00:00+05:00",
+      "stop": "2026-05-10T18:30:00+05:00",
+      "title": "Comfort Food With Spencer Watts",
+      "sub_title": "Handheld",
+      "desc": "Spencer makes a jumbo rib sandwich with rainbow slaw, a crispy fried fish sandwich with avocado and a French onion soup inspired smashburger.",
+      "date": "2023",
+      "language": "en",
+      "categories": [
+        "Series",
+        "Cooking"
+      ],
+      "episode": "S1 E3",
+      "icon": "http://dtil.tmsimg.com/assets/p25246424_b_h8_ad.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Spencer Watts"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-10T18:30:00+05:00",
+      "stop": "2026-05-10T19:00:00+05:00",
+      "title": "Mary Makes It Easy",
+      "sub_title": "Bare Bones Baking",
+      "desc": "Mary shows how to up the baking game without breaking the bank on fancy gadgets; no specialty equipment needed.",
+      "date": "2022",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Cooking"
+      ],
+      "episode": "S2 E10",
+      "icon": "http://dtil.tmsimg.com/assets/p20486918_b_h8_ah.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Mary Berg"
         ]
       }
     }

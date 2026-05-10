@@ -4,32 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-10T14:00:00+05:00",
-      "stop": "2026-05-10T14:30:00+05:00",
-      "title": "Urdu News",
-      "sub_title": "Sunday 10 May 2026",
-      "desc": "News via satellite from PTV Islamabad Pakistan, in Urdu, no subtitles.",
-      "language": "en",
-      "rating": "NR",
-      "categories": [
-        "Sports"
-      ],
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/249703/image/334x188"
-    },
-    {
-      "start": "2026-05-10T14:30:00+05:00",
-      "stop": "2026-05-10T15:00:00+05:00",
-      "title": "Korean News",
-      "sub_title": "Sunday 17 May 2026",
-      "desc": "News via satellite from YTN Seoul Korea, in Korean, no subtitles.",
-      "language": "en",
-      "rating": "NR",
-      "categories": [
-        "Sports"
-      ],
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/179126/image/334x188"
-    },
-    {
       "start": "2026-05-10T15:00:00+05:00",
       "stop": "2026-05-10T16:00:00+05:00",
       "title": "Insight",
@@ -82,6 +56,32 @@
         "Sports"
       ],
       "icon": "https://www.fetchtv.com.au/v2/epg/program/413550/image/334x188"
+    },
+    {
+      "start": "2026-05-10T17:30:00+05:00",
+      "stop": "2026-05-10T18:00:00+05:00",
+      "title": "Turkish News",
+      "sub_title": "Sunday 17 May 2026",
+      "desc": "Turkish language news from the Turkish Radio & Television Corporation (TRT) in Istanbul Turkiye, no subtitles.",
+      "language": "en",
+      "rating": "NR",
+      "categories": [
+        "Sports"
+      ],
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/221071/image/334x188"
+    },
+    {
+      "start": "2026-05-10T18:00:00+05:00",
+      "stop": "2026-05-10T18:35:00+05:00",
+      "title": "NHK Japanese News",
+      "sub_title": "Sunday 10 May 2026",
+      "desc": "News via satellite from NHK Tokyo in Japanese, no subtitles.",
+      "language": "en",
+      "rating": "NR",
+      "categories": [
+        "Sports"
+      ],
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/132257/image/334x188"
     }
   ]
 }

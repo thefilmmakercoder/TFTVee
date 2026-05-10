@@ -4,17 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-10T07:30:00+05:00",
-      "stop": "2026-05-10T11:00:00+05:00",
-      "title": "Teleshopping",
-      "desc": "Teleshopping.",
-      "language": "en",
-      "categories": [
-        "Specialist",
-        "Shopping"
-      ]
-    },
-    {
       "start": "2026-05-10T11:00:00+05:00",
       "stop": "2026-05-10T15:00:00+05:00",
       "title": "Teleshopping",
@@ -80,6 +69,20 @@
         "War"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/d58c8aa5-8f93-44cf-a604-208eb6adb383/16-9"
+    },
+    {
+      "start": "2026-05-10T22:55:00+05:00",
+      "stop": "2026-05-11T01:00:00+05:00",
+      "title": "Central Intelligence",
+      "desc": "Action-comedy with Dwayne Johnson and Kevin Hart. Two former school buddies team up to thwart a terrorist plot. But things may not be as they seem. With Amy Ryan and Jason Bateman.",
+      "date": "2016",
+      "language": "en",
+      "rating": "PG",
+      "categories": [
+        "Movie",
+        "Action"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/ffff78ad-2f95-45ac-8fc7-57c904a44a8a/16-9"
     }
   ]
 }

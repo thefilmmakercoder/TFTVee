@@ -4,18 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-10T14:00:00+05:00",
-      "stop": "2026-05-10T14:30:00+05:00",
-      "title": "Politics London",
-      "desc": "The latest political news, interviews and debate.",
-      "language": "en",
-      "categories": [
-        "Entertainment",
-        "Factual"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/aa60a691-073c-446d-ac40-ccf99dafd032/16-9"
-    },
-    {
       "start": "2026-05-10T14:30:00+05:00",
       "stop": "2026-05-10T15:30:00+05:00",
       "title": "Homes Under the Hammer",
@@ -74,6 +62,17 @@
         "News"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/7c0e62be-8dc2-4247-ad5b-c12af19fecc8/16-9"
+    },
+    {
+      "start": "2026-05-10T17:20:00+05:00",
+      "stop": "2026-05-10T17:55:00+05:00",
+      "title": "Songs of Praise: Faith in Lincoln",
+      "desc": "Sean Fletcher visits the historic city of Lincoln to explore stories of faith and to introduce modern worship music alongside hymns from the historic cathedral.",
+      "language": "en",
+      "categories": [
+        "Music & Radio"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/8c879b7e-7d96-49b8-93c9-b14c57f5c997/16-9"
     }
   ]
 }

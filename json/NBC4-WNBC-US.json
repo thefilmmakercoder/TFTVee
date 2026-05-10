@@ -4,34 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-10T14:00:00+05:00",
-      "stop": "2026-05-10T14:30:00+05:00",
-      "title": "1st Look",
-      "desc": "Lifestyle trends in food, night life, art, travel and entertainment.",
-      "date": "2008",
-      "language": "en",
-      "rating": "TVG",
-      "categories": [
-        "Talk",
-        "Newsmagazine",
-        "Travel",
-        "Fashion"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p419169_b_h8_az.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-10T14:30:00+05:00",
-      "stop": "2026-05-10T15:00:00+05:00",
-      "title": "Sunday Today in New York",
-      "desc": "Sunday New York news show.",
-      "date": "2014",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p10513239_b_h10_ag.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-05-10T15:00:00+05:00",
       "stop": "2026-05-10T16:00:00+05:00",
       "title": "Sunday Today in New York",
@@ -94,6 +66,41 @@
       "credits": {
         "actor": [
           "Sara Gore"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-10T18:30:00+05:00",
+      "stop": "2026-05-10T19:30:00+05:00",
+      "title": "Sunday Today in New York",
+      "desc": "Sunday New York news show.",
+      "date": "2014",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p10513239_b_h10_ag.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-10T19:30:00+05:00",
+      "stop": "2026-05-10T20:30:00+05:00",
+      "title": "Meet the Press",
+      "desc": "Interviews with public figures and those making news, setting the political agenda and spotlighting the impact Washington decision-making has on Americans.",
+      "date": "2026",
+      "language": "en",
+      "categories": [
+        "Series",
+        "Talk",
+        "Interview",
+        "Politics",
+        "News",
+        "Public affairs"
+      ],
+      "episode": "S79 E16",
+      "icon": "http://dtil.tmsimg.com/assets/p184068_b_h8_ad.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Kristen Welker"
         ]
       }
     }

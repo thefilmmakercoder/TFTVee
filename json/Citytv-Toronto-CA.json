@@ -4,42 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-10T14:00:00+05:00",
-      "stop": "2026-05-10T14:30:00+05:00",
-      "title": "CityNews Tonight Toronto",
-      "desc": "Coverage of the day's top news stories.",
-      "date": "2019",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p16858130_b_h8_aa.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-10T14:30:00+05:00",
-      "stop": "2026-05-10T15:00:00+05:00",
-      "title": "CityNews Tonight Toronto",
-      "desc": "Coverage of the day's top news stories.",
-      "date": "2019",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p16858130_b_h8_aa.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-10T15:00:00+05:00",
-      "stop": "2026-05-10T15:30:00+05:00",
-      "title": "CityNews Tonight Toronto",
-      "desc": "Coverage of the day's top news stories.",
-      "date": "2019",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p16858130_b_h8_aa.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-05-10T15:30:00+05:00",
       "stop": "2026-05-10T16:00:00+05:00",
       "title": "Fish TV",
@@ -106,6 +70,67 @@
           "Taylor Wright"
         ]
       }
+    },
+    {
+      "start": "2026-05-10T17:00:00+05:00",
+      "stop": "2026-05-10T17:30:00+05:00",
+      "title": "Canada in the Rough",
+      "sub_title": "Big Bears & Endless Walleye",
+      "desc": "Keith Beasley is archery hunting big black bears with Cameron Lake Fishing Lodge in Northern Ontario and has some unforgettable encounters.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Series",
+        "Outdoors",
+        "Hunting"
+      ],
+      "episode": "E7",
+      "icon": "http://dtil.tmsimg.com/assets/p216969_b_h8_ab.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Paul Beasley",
+          "Keith Beasley",
+          "Kevin Beasley"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-10T17:30:00+05:00",
+      "stop": "2026-05-10T18:00:00+05:00",
+      "title": "Impractical Jokers",
+      "sub_title": "Subscribe to Survive",
+      "desc": "The Jokers are back as wacky inventors pitching a whole new line of AI-themed gadgets; they fill out bogus incident reports with unsuspecting deli customers; the loser will be forced to demonstrate mentally absurd and physically grueling apps.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "Series",
+        "Reality",
+        "Comedy"
+      ],
+      "episode": "S12 E13",
+      "icon": "http://dtil.tmsimg.com/assets/p30353577_b_h8_ac.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Brian \"Q\" Quinn",
+          "James \"Murr\" Murray",
+          "Sal Vulcano"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-10T18:00:00+05:00",
+      "stop": "2026-05-10T19:00:00+05:00",
+      "title": "CMCTV Em Destaque",
+      "desc": "Covering the Portuguese speaking communities showcasing events, interviews, music and news stories from both Canada and abroad.",
+      "date": "2018",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Community"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p16261047_b_h8_aa.jpg?w=960&h=540"
     }
   ]
 }
