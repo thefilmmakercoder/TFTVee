@@ -4,18 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-10T05:45:00+05:00",
-      "stop": "2026-05-10T10:00:00+05:00",
-      "title": "BBC News",
-      "desc": "BBC One joins the BBC's rolling news channel for a night of news.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/89c23a69-a7ed-4b44-909a-765d99f2c8ac/16-9"
-    },
-    {
       "start": "2026-05-10T10:00:00+05:00",
       "stop": "2026-05-10T11:50:00+05:00",
       "title": "Breakfast",
@@ -74,6 +62,18 @@
         "Factual"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/3cfbf3cf-9a9f-3848-932b-648b15a12b44/16-9"
+    },
+    {
+      "start": "2026-05-10T15:30:00+05:00",
+      "stop": "2026-05-10T16:30:00+05:00",
+      "title": "Bargain Hunt",
+      "desc": "Antiques experts help the reds and the blues race against the clock to uncover hidden gems. Will they make money in the auction room - and win the coveted Golden Gavel.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Game Show"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/f4544a45-88b6-4199-a48c-a15431df0fbb/16-9"
     }
   ]
 }

@@ -4,32 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-10T09:00:00+05:00",
-      "stop": "2026-05-10T09:30:00+05:00",
-      "title": "The Big Bang Theory",
-      "sub_title": "The Septum Deviation",
-      "desc": "Leonard has minor surgery on his nose, causing Sheldon to overreact; Bernadette and Howard work on their marriage.",
-      "date": "2014",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Series",
-        "Sitcom"
-      ],
-      "episode": "S8 E9",
-      "icon": "http://dtil.tmsimg.com/assets/p185554_b_h8_az.jpg?w=960&h=540",
-      "credits": {
-        "director": [
-          "Anthony Rich"
-        ],
-        "actor": [
-          "Johnny Galecki",
-          "Jim Parsons",
-          "Kaley Cuoco-Sweeting"
-        ]
-      }
-    },
-    {
       "start": "2026-05-10T09:30:00+05:00",
       "stop": "2026-05-10T12:00:00+05:00",
       "title": "Queenpins",
@@ -159,6 +133,20 @@
           "Donald Ewer"
         ]
       }
+    },
+    {
+      "start": "2026-05-10T14:30:00+05:00",
+      "stop": "2026-05-10T15:00:00+05:00",
+      "title": "Paid Programming",
+      "desc": "Paid programming.",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Consumer",
+        "Shopping",
+        "Variety"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&h=540"
     }
   ]
 }

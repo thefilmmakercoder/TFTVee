@@ -4,31 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-10T06:00:00+05:00",
-      "stop": "2026-05-10T08:30:00+05:00",
-      "title": "Live: NHL Hockey",
-      "desc": "The Avalanche face the Wild in Game 3 of the West second round at Grand Casino Arena in St. Paul. Colorado has won two straight. Martin Necas scored in Game 2, but Kirill Kaprizov tied it six seconds later for the fifth-fastest response in history.",
-      "language": "en",
-      "categories": [
-        "Sports",
-        "Playoff sports",
-        "Hockey"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/GNLZZGG0033M1BD.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-10T08:30:00+05:00",
-      "stop": "2026-05-10T11:00:00+05:00",
-      "title": "CEBL Basketball",
-      "desc": "Coverage of basketball action from the Canadian Elite Basketball League.",
-      "language": "en",
-      "categories": [
-        "Sports",
-        "Basketball"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/GNLZZGG0032FXRK.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-05-10T11:00:00+05:00",
       "stop": "2026-05-10T12:00:00+05:00",
       "title": "Just for Laughs",
@@ -105,6 +80,47 @@
           "Aba Amuquandoh"
         ]
       }
+    },
+    {
+      "start": "2026-05-10T14:00:00+05:00",
+      "stop": "2026-05-10T15:00:00+05:00",
+      "title": "Escape to the Country",
+      "sub_title": "Buckinghamshire and Oxfordshire",
+      "desc": "Having spent the past four years living in the US state of Texas, a couple and their two young children are looking to find a family home in an Oxfordshire or Buckinghamshire village.",
+      "date": "2024",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Series",
+        "House/garden",
+        "Home improvement",
+        "Bus./financial"
+      ],
+      "episode": "S24 E40",
+      "icon": "http://dtil.tmsimg.com/assets/p379352_b_h10_bn.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Sonali Shah"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-10T15:00:00+05:00",
+      "stop": "2026-05-10T15:11:00+05:00",
+      "title": "Gary's Magic Fort",
+      "sub_title": "Gary's New Friend",
+      "desc": "Gary makes a new friend, and Stuffy becomes jealous; Gary helps Stuffy see that there is always room for new friends, and no one could ever replace him.",
+      "date": "2022",
+      "language": "en",
+      "rating": "TVY",
+      "categories": [
+        "Series",
+        "Animated",
+        "Children",
+        "Educational"
+      ],
+      "episode": "S2 E12",
+      "icon": "http://dtil.tmsimg.com/assets/p22264083_b_h8_aa.jpg?w=960&h=540"
     }
   ]
 }
