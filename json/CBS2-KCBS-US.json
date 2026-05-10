@@ -4,18 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-10T22:00:00+05:00",
-      "stop": "2026-05-11T00:00:00+05:00",
-      "title": "Live: LPGA Tour Golf",
-      "desc": "Professional women golfers try to claim the crown in the final round of the Mizuho Americas Open. The LPGA event is being played at Mountain Ridge Country Club in West Caldwell, N.J.",
-      "language": "en",
-      "categories": [
-        "Sports",
-        "Golf"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p32678706_b_h10_aa.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-05-11T00:00:00+05:00",
       "stop": "2026-05-11T03:00:00+05:00",
       "title": "Live: PGA Tour Golf",
@@ -93,6 +81,18 @@
           "Jericka Duncan"
         ]
       }
+    },
+    {
+      "start": "2026-05-11T06:00:00+05:00",
+      "stop": "2026-05-11T07:00:00+05:00",
+      "title": "CBS LA at 6pm",
+      "desc": "Join the CBS LA team for stories from communities around SoCal, breaking news from The Desk, and NEXT Weather from the Weathersphere.",
+      "date": "2025",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p31308575_b_h10_aa.jpg?w=960&h=540"
     }
   ]
 }

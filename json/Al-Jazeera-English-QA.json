@@ -4,18 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-11T01:00:00+05:00",
-      "stop": "2026-05-11T02:00:00+05:00",
-      "title": "Newshour",
-      "desc": "Latest news and in-depth analysis from around the world.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "World Affairs"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/16d15925-a056-4ca1-b85c-5034fe0f234e/16-9"
-    },
-    {
       "start": "2026-05-11T02:00:00+05:00",
       "stop": "2026-05-11T03:00:00+05:00",
       "title": "Newshour",
@@ -74,6 +62,18 @@
         "World Affairs"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/69947c48-28f5-41a5-a1f0-6dd12269b8c0/16-9"
+    },
+    {
+      "start": "2026-05-11T05:00:00+05:00",
+      "stop": "2026-05-11T06:00:00+05:00",
+      "title": "Newshour",
+      "desc": "Latest news and in-depth analysis from around the world.",
+      "language": "en",
+      "categories": [
+        "News & Documentary",
+        "World Affairs"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/70f178c3-6a37-48f0-8690-b6798a7fb38e/16-9"
     }
   ]
 }

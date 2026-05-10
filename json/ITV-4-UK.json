@@ -4,18 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-11T02:00:00+05:00",
-      "stop": "2026-05-11T02:05:00+05:00",
-      "title": "FYI Daily",
-      "desc": "Latest news from the world of entertainment.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "Showbiz"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/2a16be96-6e7a-4049-b5ba-855cc35f2e09/16-9"
-    },
-    {
       "start": "2026-05-11T02:05:00+05:00",
       "stop": "2026-05-11T03:05:00+05:00",
       "title": "Coogan's Bluff",
@@ -77,6 +65,18 @@
         "Drama"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/cae244c0-08a5-4b06-a68c-72ea3b6fcf69/16-9"
+    },
+    {
+      "start": "2026-05-11T06:50:00+05:00",
+      "stop": "2026-05-11T07:00:00+05:00",
+      "title": "Unwind with ITV",
+      "desc": "Your daily escape designed to calm the mind and encourage relaxation and reflection.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Lifestyles"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/1b143991-7d7a-405a-9465-b5abc74084bf/16-9"
     }
   ]
 }

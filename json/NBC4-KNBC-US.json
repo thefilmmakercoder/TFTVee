@@ -4,20 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-10T23:30:00+05:00",
-      "stop": "2026-05-11T00:00:00+05:00",
-      "title": "Bathroom Makeover",
-      "desc": "Transform your bath affordably in just one day!",
-      "language": "en",
-      "categories": [
-        "Consumer",
-        "Health",
-        "House/garden",
-        "Self improvement"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p30220270_b_h8_aa.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-05-11T00:00:00+05:00",
       "stop": "2026-05-11T03:00:00+05:00",
       "title": "AMA Supercross Championship",
@@ -96,6 +82,18 @@
         "Basketball"
       ],
       "icon": "http://dtil.tmsimg.com/assets/GNLZZGG0033S4S5.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-11T07:00:00+05:00",
+      "stop": "2026-05-11T07:30:00+05:00",
+      "title": "NBC4 Postgame Live",
+      "desc": "Stay informed with the latest breaking news and headlines.",
+      "date": "2026",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p32304000_b_h10_aa.jpg?w=960&h=540"
     }
   ]
 }
