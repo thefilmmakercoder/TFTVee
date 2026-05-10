@@ -4,25 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-10T22:58:00+05:00",
-      "stop": "2026-05-10T23:00:00+05:00",
-      "title": "This is BBC Four",
-      "desc": "Programmes start at 7.00pm.",
-      "language": "en"
-    },
-    {
-      "start": "2026-05-10T23:00:00+05:00",
-      "stop": "2026-05-11T00:00:00+05:00",
-      "title": "Planet Earth III: Wonders of Nature",
-      "desc": "Explore astonishing wild places and the most spectacular moments from Planet Earth III.",
-      "language": "en",
-      "categories": [
-        "Entertainment",
-        "Factual"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/ed2010d0-b2d8-3d05-ac32-4e1931c0d08c/16-9"
-    },
-    {
       "start": "2026-05-11T00:00:00+05:00",
       "stop": "2026-05-11T01:00:00+05:00",
       "title": "David Attenborough: A Life on Air",
@@ -69,6 +50,31 @@
         "Arts"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/ce98e0de-34fb-3fee-9ec4-5bf557ef3a5b/16-9"
+    },
+    {
+      "start": "2026-05-11T03:00:00+05:00",
+      "stop": "2026-05-11T03:50:00+05:00",
+      "title": "Ginger Rogers and Fred Astaire: Omnibus",
+      "desc": "An Omnibus special looking at how the classic Fred and Ginger musicals were made.",
+      "date": "1995",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Arts"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/fa3c6f88-34ab-4dcd-8f03-167913fe9a52/16-9"
+    },
+    {
+      "start": "2026-05-11T03:50:00+05:00",
+      "stop": "2026-05-11T04:05:00+05:00",
+      "title": "Puttin' on the Ritz: The Genius of Fred Astaire",
+      "desc": "A short compilation of clips from Fred Astaire's days at the RKO studio, where he formed an unforgettable partnership with Ginger Rogers.",
+      "language": "en",
+      "categories": [
+        "Music & Radio",
+        "####"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/0aca5a9b-d99f-4305-9591-efcd2abbe6ab/16-9"
     }
   ]
 }

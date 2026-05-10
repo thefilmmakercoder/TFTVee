@@ -4,30 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-10T22:45:00+05:00",
-      "stop": "2026-05-10T23:00:00+05:00",
-      "title": "ITV News London",
-      "desc": "The latest news and weather from London and the South East.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/ff328d23-47a8-4149-bdb2-8f1c387671f2/16-9"
-    },
-    {
-      "start": "2026-05-10T23:00:00+05:00",
-      "stop": "2026-05-11T00:00:00+05:00",
-      "title": "The Chase Celebrity Special",
-      "desc": "Bradley Walsh hosts as Adam Jones, Monica Dolan, Dom Wood and Dick McCourt take on a Chaser in a bid to win thousands of pounds for their chosen charities.",
-      "language": "en",
-      "categories": [
-        "Entertainment",
-        "Game Show"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/21c94de5-a895-36e3-9168-e640dd5ce284/16-9"
-    },
-    {
       "start": "2026-05-11T00:00:00+05:00",
       "stop": "2026-05-11T01:00:00+05:00",
       "title": "Who Wants to Be a Millionaire",
@@ -74,6 +50,30 @@
         "Game Show"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/c5ccb8b7-d768-4558-bb5c-51b995016d51/16-9"
+    },
+    {
+      "start": "2026-05-11T03:25:00+05:00",
+      "stop": "2026-05-11T05:05:00+05:00",
+      "title": "London Has Fallen",
+      "desc": "Action-packed thriller film sequel starring Gerard Butler and Aaron Eckhart, 2016. Mike Banning is caught up in a plot to assassinate the world's most powerful leaders in London.",
+      "language": "en",
+      "categories": [
+        "Movie",
+        "Action"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/f8c51a95-b0d2-4485-b477-831355b71d42/16-9"
+    },
+    {
+      "start": "2026-05-11T05:05:00+05:00",
+      "stop": "2026-05-11T07:00:00+05:00",
+      "title": "Shop on TV",
+      "desc": "Teleshopping.",
+      "language": "en",
+      "categories": [
+        "Specialist",
+        "Shopping"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/d5ec0cf2-7237-4c29-8107-31ef8b60941f/16-9"
     }
   ]
 }

@@ -4,19 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-10T23:00:00+05:00",
-      "stop": "2026-05-10T23:30:00+05:00",
-      "title": "New York Live",
-      "desc": "Celebrity interviews and discussing recipes, beauty, fashion and current events pertinent to the tri-state region.",
-      "date": "2011",
-      "language": "en",
-      "categories": [
-        "News",
-        "Newsmagazine"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p8692580_b_h8_ac.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-05-10T23:30:00+05:00",
       "stop": "2026-05-11T00:00:00+05:00",
       "title": "George to the Rescue",
@@ -88,6 +75,19 @@
         "Basketball"
       ],
       "icon": "http://dtil.tmsimg.com/assets/p30949176_b_h8_ab.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-11T04:30:00+05:00",
+      "stop": "2026-05-11T07:00:00+05:00",
+      "title": "Live: NBA Basketball",
+      "desc": "Western Conference Semifinal, Game 4.",
+      "language": "en",
+      "categories": [
+        "Sports",
+        "Playoff sports",
+        "Basketball"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/GNLZZGG0033M3DN.jpg?w=960&h=540"
     }
   ]
 }

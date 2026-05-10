@@ -4,20 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-10T22:30:00+05:00",
-      "stop": "2026-05-10T23:00:00+05:00",
-      "title": "Paid Programming",
-      "desc": "Paid programming.",
-      "language": "en",
-      "rating": "TVG",
-      "categories": [
-        "Consumer",
-        "Shopping",
-        "Variety"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-05-10T23:00:00+05:00",
       "stop": "2026-05-11T00:00:00+05:00",
       "title": "East Harbour Heroes",
@@ -108,6 +94,33 @@
       "credits": {
         "actor": [
           "Lilly Singh"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-11T05:00:00+05:00",
+      "stop": "2026-05-11T08:00:00+05:00",
+      "title": "Shazam! Fury of the Gods",
+      "desc": "Bestowed with the powers of the gods, Billy Batson and his fellow foster kids are still learning how to juggle teenage life with their adult superhero alter egos. When a vengeful trio of ancient gods arrives on Earth in search of the magic stolen from them long ago, Shazam and his allies get thrust into a battle for their superpowers, their lives, and the fate of the world.",
+      "date": "2023",
+      "language": "en",
+      "rating": "PG-13",
+      "categories": [
+        "Movie",
+        "Action",
+        "Adventure",
+        "Comedy",
+        "Fantasy"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p17745824_v_h8_ae.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "David F. Sandberg"
+        ],
+        "actor": [
+          "Zachary Levi",
+          "Asher Angel",
+          "Jack Dylan Grazer"
         ]
       }
     }

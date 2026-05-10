@@ -4,19 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-10T21:00:00+05:00",
-      "stop": "2026-05-10T22:00:00+05:00",
-      "title": "PBR Road to the Finals",
-      "desc": "Professional Bull Riders keep battling to secure a spot in the World Finals.",
-      "date": "2026",
-      "language": "en",
-      "categories": [
-        "Special",
-        "Bull riding"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p32945596_b_h8_aa.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-05-10T22:00:00+05:00",
       "stop": "2026-05-11T00:00:00+05:00",
       "title": "Live: LPGA Tour Golf",
@@ -85,6 +72,27 @@
         "News"
       ],
       "icon": "http://dtil.tmsimg.com/assets/p31308569_b_h10_aa.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-11T05:30:00+05:00",
+      "stop": "2026-05-11T06:00:00+05:00",
+      "title": "CBS Evening News",
+      "desc": "Tony Dokoupil shares the day's most important stories, delivering context and depth to bring greater understanding to one's world.",
+      "date": "2026",
+      "language": "en",
+      "categories": [
+        "Series",
+        "News"
+      ],
+      "episode": "E130",
+      "icon": "http://dtil.tmsimg.com/assets/p28807922_b_h8_ae.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Tony Dokoupil",
+          "Maurice DuBois",
+          "Jericka Duncan"
+        ]
+      }
     }
   ]
 }
