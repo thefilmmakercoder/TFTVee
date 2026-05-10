@@ -4,27 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-10T15:00:00+05:00",
-      "stop": "2026-05-10T16:00:00+05:00",
-      "title": "CNN This Morning Weekend",
-      "desc": "Stories from across the world and refreshing conversations with Victor Blackwell.",
-      "date": "2026",
-      "language": "en",
-      "categories": [
-        "Series",
-        "News"
-      ],
-      "episode": "E80",
-      "icon": "http://dtil.tmsimg.com/assets/p23278533_b_h8_ac.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Boris Sanchez",
-          "Amara Walker",
-          "Victor Blackwell"
-        ]
-      }
-    },
-    {
       "start": "2026-05-10T16:00:00+05:00",
       "stop": "2026-05-10T17:00:00+05:00",
       "title": "CNN This Morning Weekend",
@@ -132,6 +111,30 @@
       "credits": {
         "actor": [
           "Manu Raju"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-10T21:00:00+05:00",
+      "stop": "2026-05-10T22:00:00+05:00",
+      "title": "State of the Union With Jake Tapper and Dana Bash",
+      "desc": "Jake Tapper and Dana Bash bring together major newsmakers, analysts and experts to tackle pressing domestic issues and diplomacy on the global stage.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "News",
+        "Interview",
+        "Politics"
+      ],
+      "episode": "S4",
+      "icon": "http://dtil.tmsimg.com/assets/p19358336_b_h10_ac.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Jake Tapper",
+          "Dana Bash",
+          "Asa Hutchinson"
         ]
       }
     }

@@ -4,41 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-10T15:30:00+05:00",
-      "stop": "2026-05-10T16:00:00+05:00",
-      "title": "Amazing Facts",
-      "desc": "Bible study proclaims God's good news to the world.",
-      "language": "en",
-      "rating": "TVG",
-      "categories": [
-        "Religious"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p328867_b_h10_aa.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Doug Batchelor"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-10T16:00:00+05:00",
-      "stop": "2026-05-10T16:30:00+05:00",
-      "title": "Joel Osteen",
-      "desc": "Author and evangelist Joel Osteen spreads his message of love and hope as he preaches at the 30,000-plus member Lakewood Church in Houston. The program can be seen in more than 100 countries. Osteen urges people to live at their full potential and form a close relationship with God.",
-      "date": "1999",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Religious"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p29200166_b_h10_aa.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Joel Osteen"
-        ]
-      }
-    },
-    {
       "start": "2026-05-10T16:30:00+05:00",
       "stop": "2026-05-10T17:00:00+05:00",
       "title": "David Jeremiah",
@@ -106,6 +71,42 @@
         "Religious"
       ],
       "icon": "http://dtil.tmsimg.com/assets/p17809970_b_h8_aa.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-10T19:00:00+05:00",
+      "stop": "2026-05-10T20:00:00+05:00",
+      "title": "FOX News Sunday",
+      "desc": "Anchor Shannon Bream interviews the biggest newsmakers of the week and leads guests in providing context and analysis of the issues facing Americans.",
+      "date": "2026",
+      "language": "en",
+      "categories": [
+        "Series",
+        "Talk",
+        "News",
+        "Public affairs",
+        "Politics"
+      ],
+      "episode": "E19",
+      "icon": "http://dtil.tmsimg.com/assets/p21244589_b_h8_ae.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Shannon Bream"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-10T20:00:00+05:00",
+      "stop": "2026-05-10T20:30:00+05:00",
+      "title": "Bathroom Makeover",
+      "desc": "Transform your bath affordably in just one day!",
+      "language": "en",
+      "categories": [
+        "Consumer",
+        "Health",
+        "House/garden",
+        "Self improvement"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p30220270_b_h8_aa.jpg?w=960&h=540"
     }
   ]
 }
