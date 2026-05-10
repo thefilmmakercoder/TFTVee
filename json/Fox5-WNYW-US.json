@@ -4,63 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-10T01:30:00+05:00",
-      "stop": "2026-05-10T04:00:00+05:00",
-      "title": "Live: IndyCar Racing",
-      "desc": "The IndyCar Series road course race meets at the Indianapolis Motor Speedway in Indiana. Pato O'Ward enters the weekend with significant momentum, having maintained a top-five finishing streak. Veteran driver Scott Dixon pursues his 60th career win.",
-      "language": "en",
-      "categories": [
-        "Sports",
-        "Auto racing"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p737330_b_h8_ai.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-10T04:00:00+05:00",
-      "stop": "2026-05-10T07:00:00+05:00",
-      "title": "Live: MLB Baseball",
-      "desc": "From Chase Field in Phoenix.",
-      "language": "en",
-      "categories": [
-        "Sports",
-        "Baseball"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/GNLZZGG00333GS3.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-10T07:00:00+05:00",
-      "stop": "2026-05-10T08:00:00+05:00",
-      "title": "The 10 O'Clock News",
-      "desc": "Live and breaking news for New York City and the surrounding area.",
-      "date": "2023",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p26337524_b_h10_ab.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-10T08:00:00+05:00",
-      "stop": "2026-05-10T09:00:00+05:00",
-      "title": "Fear Factor: House of Fear",
-      "sub_title": "Sealed Fates",
-      "desc": "The pressure quickly builds with the first challenge: being sealed inside airtight bags; a face-off between a coal miner and a cheerleader leads to a shocking end game.",
-      "date": "2026",
-      "language": "en",
-      "rating": "TV14",
-      "categories": [
-        "Series",
-        "Competition Reality"
-      ],
-      "episode": "S1 E1",
-      "icon": "http://dtil.tmsimg.com/assets/p31694821_b_h8_ab.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Johnny Knoxville"
-        ]
-      }
-    },
-    {
       "start": "2026-05-10T09:00:00+05:00",
       "stop": "2026-05-10T10:00:00+05:00",
       "title": "TMZ",
@@ -102,6 +45,62 @@
           "Terri Seymour"
         ]
       }
+    },
+    {
+      "start": "2026-05-10T11:00:00+05:00",
+      "stop": "2026-05-10T11:30:00+05:00",
+      "title": "Paid Programming",
+      "desc": "Paid programming.",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Consumer",
+        "Shopping",
+        "Variety"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-10T11:30:00+05:00",
+      "stop": "2026-05-10T12:00:00+05:00",
+      "title": "Paid Programming",
+      "desc": "Paid programming.",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Consumer",
+        "Shopping",
+        "Variety"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-10T12:00:00+05:00",
+      "stop": "2026-05-10T12:30:00+05:00",
+      "title": "Paid Programming",
+      "desc": "Paid programming.",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Consumer",
+        "Shopping",
+        "Variety"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-10T12:30:00+05:00",
+      "stop": "2026-05-10T13:00:00+05:00",
+      "title": "Paid Programming",
+      "desc": "Paid programming.",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Consumer",
+        "Shopping",
+        "Variety"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&h=540"
     }
   ]
 }

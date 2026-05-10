@@ -4,61 +4,8 @@
   ],
   "programs": [
     {
-      "start": "2026-05-10T04:30:00+05:00",
-      "stop": "2026-05-10T05:00:00+05:00",
-      "title": "TV Shop - Home Shopping",
-      "desc": "Home shopping programme.",
-      "language": "en",
-      "rating": "G",
-      "categories": [
-        "Special Interest"
-      ],
-      "episode": "E6",
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/184500/image/334x188"
-    },
-    {
-      "start": "2026-05-10T05:00:00+05:00",
-      "stop": "2026-05-10T07:00:00+05:00",
-      "title": "Sunday Footy Show - AFL",
-      "desc": "Catch-up on all the news from the AFL, with expert game analysis and high-profile guests, hosted by Tony Jones and joined by Rory Sloane, Matthew Lloyd, Damian Barrett and Nathan Brown.",
-      "language": "en",
-      "rating": "PG",
-      "categories": [
-        "Sports"
-      ],
-      "episode": "E10",
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/166502/image/334x188"
-    },
-    {
-      "start": "2026-05-10T07:00:00+05:00",
-      "stop": "2026-05-10T07:30:00+05:00",
-      "title": "Getaway",
-      "desc": "This week on Getaway we have found paradise in Samoa, skiing Australia's Mt Hotham plus Tassie's spectacular Bay of Fires.",
-      "language": "en",
-      "rating": "PG",
-      "categories": [
-        "Special Interest"
-      ],
-      "episode": "E13",
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/132183/image/334x188"
-    },
-    {
-      "start": "2026-05-10T07:30:00+05:00",
-      "stop": "2026-05-10T08:00:00+05:00",
-      "title": "My Favourite Martian",
-      "sub_title": "Going, Going, Gone",
-      "desc": "Martin's powers are severely curtailed when sun spots flare up, causing him to disappear.",
-      "language": "en",
-      "rating": "G",
-      "categories": [
-        "Drama"
-      ],
-      "episode": "S1 E17",
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/376328/image/334x188"
-    },
-    {
-      "start": "2026-05-10T08:00:00+05:00",
-      "stop": "2026-05-10T09:00:00+05:00",
+      "start": "2026-05-10T08:05:00+05:00",
+      "stop": "2026-05-10T09:03:00+05:00",
       "title": "The Baron",
       "sub_title": "And Suddenly You're Dead",
       "desc": "Cordelia and Mannering meet an American undercover agent in Switzerland who also happens to be an old flame of Cordelia. He reveals that he's stolen a deadly virus from the laboratory where he works.",
@@ -69,6 +16,73 @@
       ],
       "episode": "S1 E9",
       "icon": "https://www.fetchtv.com.au/v2/epg/program/121247/image/334x188"
+    },
+    {
+      "start": "2026-05-10T09:03:00+05:00",
+      "stop": "2026-05-10T10:20:00+05:00",
+      "title": "Edgar Wallace Mysteries",
+      "sub_title": "Candidate for Murder",
+      "desc": "With his marriage failing, a man hires a German assassin to murder his wife, who he suspects is having an affair. Things seem to go to plan at first, until the assassin decides not to kill the woman, but to kidnap her.",
+      "language": "en",
+      "rating": "PG",
+      "categories": [
+        "Drama"
+      ],
+      "episode": "S1 E15",
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/348257/image/334x188"
+    },
+    {
+      "start": "2026-05-10T10:20:00+05:00",
+      "stop": "2026-05-10T12:36:00+05:00",
+      "title": "Where No Vultures Fly",
+      "desc": "An idealistic game warden clashes with ruthless ivory poachers jeopardising his attempts to establish a national game reserve in Kenya. Fact-based drama, starring Anthony Steel, Dinah Sheridan and Harold Warrender.",
+      "language": "en",
+      "rating": "G",
+      "categories": [
+        "Sports"
+      ],
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/5057863/image/334x188"
+    },
+    {
+      "start": "2026-05-10T12:36:00+05:00",
+      "stop": "2026-05-10T14:37:00+05:00",
+      "title": "Midsomer Murders",
+      "sub_title": "Blue Herrings",
+      "desc": "A visit to his convalescent aunt, prompts Barnaby to investigate a series of suspicious deaths at the nursing home where she is staying.",
+      "language": "en",
+      "rating": "PG",
+      "categories": [
+        "Drama"
+      ],
+      "episode": "S3 E2",
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/117750/image/334x188"
+    },
+    {
+      "start": "2026-05-10T14:37:00+05:00",
+      "stop": "2026-05-10T15:43:00+05:00",
+      "title": "David Attenborough's Mammals",
+      "sub_title": "The New Wild",
+      "desc": "Mammals have mastered every environment on Earth, but today the planet is changing faster than ever. Mammals must change with it to have a chance of survival in this, the new wild.",
+      "language": "en",
+      "rating": "PG",
+      "categories": [
+        "Special Interest"
+      ],
+      "episode": "S1 E2",
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/8187546/image/334x188"
+    },
+    {
+      "start": "2026-05-10T15:43:00+05:00",
+      "stop": "2026-05-10T16:43:00+05:00",
+      "title": "Paramedics",
+      "desc": "Can Ray save the life of a farmer with a dangerously blocked heart? Cam earns the trust of a toddler in trouble. A volatile patient puts Amanda in the line of fire. Leonard and Nat help with a spider bite.",
+      "language": "en",
+      "rating": "M",
+      "categories": [
+        "Special Interest"
+      ],
+      "episode": "S2 E12",
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/377530/image/334x188"
     }
   ]
 }

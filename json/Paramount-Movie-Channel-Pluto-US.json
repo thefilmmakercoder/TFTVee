@@ -4,20 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-10T02:15:00+05:00",
-      "stop": "2026-05-10T05:00:00+05:00",
-      "title": "Mission: Impossible III",
-      "desc": "Ethan Hunt hurdles into spectacular new adventures from Rome to Shanghai as he races to rescue a captured agent and stop Davian from eliminating his next target, Ethan\u2019s wife.",
-      "date": "20060505",
-      "language": "en",
-      "categories": [
-        "Action",
-        "Movie",
-        "Espionage Action"
-      ],
-      "icon": "https://images.pluto.tv/episodes/61e9ea7bf30167001a6d270d/poster_1777905361710.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694"
-    },
-    {
       "start": "2026-05-10T05:00:00+05:00",
       "stop": "2026-05-10T08:00:00+05:00",
       "title": "Forrest Gump",
@@ -25,9 +11,9 @@
       "date": "19940706",
       "language": "en",
       "categories": [
-        "Historical Drama",
+        "Movie",
         "Drama",
-        "Movie"
+        "Historical Drama"
       ],
       "icon": "https://images.pluto.tv/episodes/629ff609cb032400134d42bc/poster_1769119645456.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694"
     },
@@ -39,9 +25,9 @@
       "date": "19921231",
       "language": "en",
       "categories": [
-        "Inspirational Drama",
+        "Movie",
         "Drama",
-        "Movie"
+        "Inspirational Drama"
       ],
       "icon": "https://images.pluto.tv/episodes/5c48dc621390b6759598cbbc/poster_1762368371345.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694"
     },
@@ -53,9 +39,9 @@
       "date": "19960101",
       "language": "en",
       "categories": [
-        "Comedy",
         "Movie",
-        "Screwball"
+        "Screwball",
+        "Comedy"
       ],
       "icon": "https://images.pluto.tv/episodes/5ea07dc2c733d6001a1aa56d/poster_1778270042413.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694"
     },
@@ -67,9 +53,9 @@
       "date": "19970919",
       "language": "en",
       "categories": [
-        "Comedy",
+        "Movie",
         "Romantic comedy",
-        "Movie"
+        "Comedy"
       ],
       "icon": "https://images.pluto.tv/episodes/5c64789091482f7c81e5f6ba/poster_1778089693758.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694"
     },
@@ -81,11 +67,25 @@
       "date": "19940706",
       "language": "en",
       "categories": [
-        "Historical Drama",
+        "Movie",
         "Drama",
-        "Movie"
+        "Historical Drama"
       ],
       "icon": "https://images.pluto.tv/episodes/629ff609cb032400134d42bc/poster_1769119645456.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694"
+    },
+    {
+      "start": "2026-05-10T18:30:00+05:00",
+      "stop": "2026-05-10T21:30:00+05:00",
+      "title": "Chaplin",
+      "desc": "Directed by Sir Richard Attenborough and starring Robert Downey, Jr. and an extraordinary cast, CHAPLIN is a loving, grand scale portrait of the Little Tramp\u2019s amazing life and times.",
+      "date": "19921231",
+      "language": "en",
+      "categories": [
+        "Movie",
+        "Drama",
+        "Inspirational Drama"
+      ],
+      "icon": "https://images.pluto.tv/episodes/5c48dc621390b6759598cbbc/poster_1762368371345.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694"
     }
   ]
 }

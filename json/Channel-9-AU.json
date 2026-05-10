@@ -4,57 +4,86 @@
   ],
   "programs": [
     {
-      "start": "2026-05-10T05:00:00+05:00",
-      "stop": "2026-05-10T06:00:00+05:00",
-      "title": "Wide World Of Sports",
-      "desc": "Australia's sporting heroes & stars debate all the juicy topics in a unique & in depth style you've come to love over the 50 years of Wide World of Sports. Plus scores, overnight results & special features. Hosted by Nick McArdle.",
+      "start": "2026-05-10T09:00:00+05:00",
+      "stop": "2026-05-10T10:00:00+05:00",
+      "title": "Oz Off Road TV",
+      "desc": "The Duck and crew attend an iconic country race meeting before exploring the rich history of the Darling River in outback NSW.",
       "language": "en",
       "rating": "PG",
       "categories": [
-        "Sports"
+        "Special Interest"
       ],
-      "episode": "E11",
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/212245/image/334x188"
+      "episode": "S2 E6",
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/11226606/image/334x188"
     },
     {
-      "start": "2026-05-10T06:00:00+05:00",
-      "stop": "2026-05-10T08:00:00+05:00",
-      "title": "Sunday Footy Show",
-      "desc": "Catch-up on all the news from the AFL, with expert game analysis and high-profile guests, hosted by Tony Jones and joined by Rory Sloane, Matthew Lloyd, Damian Barrett and Nathan Brown.",
+      "start": "2026-05-10T10:00:00+05:00",
+      "stop": "2026-05-10T13:00:00+05:00",
+      "title": "NRL Sunday Footy",
+      "sub_title": "Raiders v Panthers",
+      "desc": "Wide World of Sports presents Raiders v Panthers, live from GIO Stadium. Join our expert commentary team for all the action, analysis and post match interviews. Kick off at 4:05PM AEST.",
       "language": "en",
-      "rating": "PG",
+      "rating": "NR",
       "categories": [
         "Sports"
       ],
       "episode": "E10",
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/166502/image/334x188"
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/325750/image/334x188"
     },
     {
-      "start": "2026-05-10T08:00:00+05:00",
-      "stop": "2026-05-10T08:30:00+05:00",
-      "title": "Drive",
-      "desc": "Prepare for an extraordinary season on Drive TV as we explore the Driver Car of the Year Winners on captivating journeys that bring out our love for a drive.",
+      "start": "2026-05-10T13:00:00+05:00",
+      "stop": "2026-05-10T14:00:00+05:00",
+      "title": "9News - Sunday",
+      "sub_title": "Sunday 10 May 2026",
+      "desc": "Join 9News for the latest in news and events that affect you in your local city, as well as news from across Australia and the world.",
       "language": "en",
-      "rating": "G",
+      "rating": "NR",
+      "categories": [
+        "Sports"
+      ],
+      "episode": "S5 E19",
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/426903/image/334x188"
+    },
+    {
+      "start": "2026-05-10T14:00:00+05:00",
+      "stop": "2026-05-10T15:15:00+05:00",
+      "title": "The Floor",
+      "desc": "With just 32 players left on the floor, it's time to turn it up a notch. The nightly bonus prize is doubled to $20,000 for one night only.",
+      "language": "en",
+      "rating": "PG",
       "categories": [
         "Special Interest"
       ],
-      "episode": "E7",
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/434987/image/334x188"
+      "episode": "S2 E7",
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/7422499/image/334x188"
     },
     {
-      "start": "2026-05-10T08:30:00+05:00",
-      "stop": "2026-05-10T09:00:00+05:00",
-      "title": "Reel Destinations",
-      "sub_title": "Mission Beach",
-      "desc": "Join Dyllon Schulz and the Reel Destinations crew on an epic fishing adventure as they catch and cook their way around Queensland.",
+      "start": "2026-05-10T15:15:00+05:00",
+      "stop": "2026-05-10T16:15:00+05:00",
+      "title": "60 Minutes",
+      "sub_title": "Sunday 10 May 2026",
+      "desc": "60 Minutes is Australia's leading current affairs program, with a proven record of excellence over five decades. Join television's top reporters as they uncover, investigate and analyse the issues affecting all Australians.",
       "language": "en",
-      "rating": "G",
+      "rating": "NR",
+      "categories": [
+        "Sports"
+      ],
+      "episode": "E12",
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/142384/image/334x188"
+    },
+    {
+      "start": "2026-05-10T16:15:00+05:00",
+      "stop": "2026-05-10T17:15:00+05:00",
+      "title": "Australian Crime Stories: The Investigators",
+      "sub_title": "The Golden Hour",
+      "desc": "When emergency responders discovered 32-year-old, So Ra Moon fatally stabbed in her Broadbeach apartment, Queensland detectives launched a race against time to catch her killer.",
+      "language": "en",
+      "rating": "M",
       "categories": [
         "Special Interest"
       ],
-      "episode": "S3 E6",
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/18687963/image/334x188"
+      "episode": "S8 E8",
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/13096101/image/334x188"
     }
   ]
 }

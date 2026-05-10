@@ -4,8 +4,60 @@
   ],
   "programs": [
     {
-      "start": "2026-05-10T03:00:00+05:00",
-      "stop": "2026-05-10T06:00:00+05:00",
+      "start": "2026-05-10T06:00:00+05:00",
+      "stop": "2026-05-10T09:00:00+05:00",
+      "title": "Fast & Furious Presents: Hobbs & Shaw",
+      "desc": "Brixton Lore is a cybernetically enhanced soldier who possesses superhuman strength, a brilliant mind and a lethal pathogen that could wipe out half of the world's population. It's now up to hulking lawman Luke Hobbs and lawless operative Deckard Shaw to put aside their past differences and work together to prevent the seemingly indestructible Lore from destroying humanity.",
+      "date": "2019",
+      "language": "en",
+      "rating": "PG-13",
+      "categories": [
+        "Movie",
+        "Action",
+        "Adventure",
+        "Comedy"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p15512904_v_h8_aw.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "David Leitch"
+        ],
+        "actor": [
+          "Dwayne Johnson",
+          "Jason Statham",
+          "Idris Elba"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-10T09:00:00+05:00",
+      "stop": "2026-05-10T12:00:00+05:00",
+      "title": "The Fate of the Furious",
+      "desc": "With Dom and Letty married, Brian and Mia retired and the rest of the crew exonerated, the globe-trotting team has found some semblance of a normal life. They soon face an unexpected challenge when a woman named Cipher forces Dom to betray them all. They must unite to bring home the man who made them a family and stop Cipher from unleashing chaos.",
+      "date": "2017",
+      "language": "en",
+      "rating": "PG-13",
+      "categories": [
+        "Movie",
+        "Action",
+        "Adventure",
+        "Thriller"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p11730466_v_h8_al.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "F. Gary Gray"
+        ],
+        "actor": [
+          "Vin Diesel",
+          "Dwayne Johnson",
+          "Charlize Theron"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-10T12:00:00+05:00",
+      "stop": "2026-05-10T15:00:00+05:00",
       "title": "Fast X",
       "desc": "Over many missions and against impossible odds, Dom Toretto and his family have outsmarted and outdriven every foe in their path. Now, they must confront the most lethal opponent they've ever faced. Fueled by revenge, a terrifying threat emerges from the shadows of the past to shatter Dom's world and destroy everything -- and everyone -- he loves.",
       "date": "2023",
@@ -29,28 +81,83 @@
       }
     },
     {
-      "start": "2026-05-10T06:00:00+05:00",
-      "stop": "2026-05-10T09:00:00+05:00",
-      "title": "Fast & Furious Presents: Hobbs & Shaw",
-      "desc": "Brixton Lore is a cybernetically enhanced soldier who possesses superhuman strength, a brilliant mind and a lethal pathogen that could wipe out half of the world's population. It's now up to hulking lawman Luke Hobbs and lawless operative Deckard Shaw to put aside their past differences and work together to prevent the seemingly indestructible Lore from destroying humanity.",
-      "date": "2019",
+      "start": "2026-05-10T15:00:00+05:00",
+      "stop": "2026-05-10T16:00:00+05:00",
+      "title": "Killjoys",
+      "sub_title": "Reckoning Ball",
+      "desc": "Johnny confronts his nemesis face to face when Delle Seyah suddenly arrives to set terms of war via parley.",
+      "date": "2017",
       "language": "en",
-      "rating": "PG-13",
+      "rating": "TV14",
       "categories": [
-        "Movie",
+        "Series",
+        "Drama",
         "Action",
         "Adventure",
-        "Comedy"
+        "Science fiction",
+        "Crime"
       ],
-      "icon": "http://dtil.tmsimg.com/assets/p15512904_v_h8_aw.jpg?w=960&h=540",
+      "episode": "S3 E9",
+      "icon": "http://dtil.tmsimg.com/assets/p11670661_b_h8_ah.jpg?w=960&h=540",
       "credits": {
-        "director": [
-          "David Leitch"
-        ],
         "actor": [
-          "Dwayne Johnson",
-          "Jason Statham",
-          "Idris Elba"
+          "Hannah John-Kamen",
+          "Aaron Ashmore",
+          "Luke MacFarlane"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-10T16:00:00+05:00",
+      "stop": "2026-05-10T17:00:00+05:00",
+      "title": "Killjoys",
+      "sub_title": "Wargasm",
+      "desc": "The Killjoy militia has everything they need to go to war, but as the battle begins, Aneela changes the entire game.",
+      "date": "2017",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "Series",
+        "Drama",
+        "Action",
+        "Adventure",
+        "Science fiction",
+        "Crime"
+      ],
+      "episode": "S3 E10",
+      "icon": "http://dtil.tmsimg.com/assets/p11670661_b_h8_ah.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Hannah John-Kamen",
+          "Aaron Ashmore",
+          "Luke MacFarlane"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-10T17:00:00+05:00",
+      "stop": "2026-05-10T18:00:00+05:00",
+      "title": "Killjoys",
+      "sub_title": "The Warrior Princess Bride",
+      "desc": "Trapped in the mysterious and mind-bending greenspace and on the run from the deadly Lady, Aneela and her father Khlyen struggle to stay one step ahead while keeping a wounded Dutch alive.",
+      "date": "2018",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "Series",
+        "Drama",
+        "Action",
+        "Adventure",
+        "Science fiction",
+        "Crime"
+      ],
+      "episode": "S4 E1",
+      "icon": "http://dtil.tmsimg.com/assets/p11670661_b_h8_ah.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Hannah John-Kamen",
+          "Aaron Ashmore",
+          "Luke MacFarlane"
         ]
       }
     }

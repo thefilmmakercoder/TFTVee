@@ -4,19 +4,7 @@
   ],
   "programs": [
     {
-      "start": "2026-05-10T05:35:00+05:00",
-      "stop": "2026-05-10T05:40:00+05:00",
-      "title": "Weather for the Week Ahead",
-      "desc": "Detailed weather forecast.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/4489c288-95b6-4196-ba73-766b8b163892/16-9"
-    },
-    {
-      "start": "2026-05-10T05:40:00+05:00",
+      "start": "2026-05-10T05:45:00+05:00",
       "stop": "2026-05-10T10:00:00+05:00",
       "title": "BBC News",
       "desc": "BBC One joins the BBC's rolling news channel for a night of news.",
@@ -26,6 +14,66 @@
         "News"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/89c23a69-a7ed-4b44-909a-765d99f2c8ac/16-9"
+    },
+    {
+      "start": "2026-05-10T10:00:00+05:00",
+      "stop": "2026-05-10T11:50:00+05:00",
+      "title": "Breakfast",
+      "desc": "The latest news, sport, business and weather from the BBC's Breakfast team.",
+      "language": "en",
+      "categories": [
+        "News & Documentary",
+        "News"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/09c470d8-f35a-480b-828c-ad76463eafad/16-9"
+    },
+    {
+      "start": "2026-05-10T11:50:00+05:00",
+      "stop": "2026-05-10T13:00:00+05:00",
+      "title": "Match of the Day",
+      "desc": "Gabby Logan presents highlights from the day's five Premier League games, including Manchester City against Brentford and Liverpool versus Chelsea.",
+      "language": "en",
+      "categories": [
+        "Sports",
+        "Football"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/89e7cee1-6d68-4c4c-bb30-1852377381dc/16-9"
+    },
+    {
+      "start": "2026-05-10T13:00:00+05:00",
+      "stop": "2026-05-10T14:00:00+05:00",
+      "title": "Sunday with Laura Kuenssberg",
+      "desc": "Laura Kuenssberg talks to Bridget Phillipson MP, Catherine West MP, James Cleverly MP, Richard Tice MP and Rhun ap Iowerth MS.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Factual"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/222232cd-2078-4d41-93ef-81fd5e69e9bb/16-9"
+    },
+    {
+      "start": "2026-05-10T14:00:00+05:00",
+      "stop": "2026-05-10T14:30:00+05:00",
+      "title": "Politics London",
+      "desc": "The latest political news, interviews and debate.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Factual"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/aa60a691-073c-446d-ac40-ccf99dafd032/16-9"
+    },
+    {
+      "start": "2026-05-10T14:30:00+05:00",
+      "stop": "2026-05-10T15:30:00+05:00",
+      "title": "Homes Under the Hammer",
+      "desc": "A stunning multimillion-pound project in London that Tommy first saw in 2021 reaches an epic conclusion. Martel encounters two characterful projects in North Yorkshire and Cumbria.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Factual"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/3cfbf3cf-9a9f-3848-932b-648b15a12b44/16-9"
     }
   ]
 }
