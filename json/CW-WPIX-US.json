@@ -4,29 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-10T01:00:00+05:00",
-      "stop": "2026-05-10T04:00:00+05:00",
-      "title": "Live: NASCAR O'Reilly Auto Parts Series",
-      "desc": "NASCAR's 200-mile race at Watkins Glen International meets for the 13th race of the 33-race season. The contestants cover 82 laps, totaling approximately 201 miles. The race takes place during the springtime slot as part of a triple-header weekend.",
-      "language": "en",
-      "categories": [
-        "Sports",
-        "Auto racing"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p31656944_b_h8_aa.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-10T04:00:00+05:00",
-      "stop": "2026-05-10T04:30:00+05:00",
-      "title": "Historic USA Gold",
-      "desc": "Secure the only .9999 fine pure gold coin with the dual date featuring 1776, the year of our nation's founding and the Liberty Bell privy. This unique 1776-2026 American Gold Buffalo comes graded perfect PF70UCAM in an exclusive 1 of 250 holder.",
-      "language": "en",
-      "categories": [
-        "Consumer"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p33035327_st_h10_aa.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-05-10T04:30:00+05:00",
       "stop": "2026-05-10T05:00:00+05:00",
       "title": "Around the Track",
@@ -90,6 +67,52 @@
           "Jerry Seinfeld",
           "Jason Alexander",
           "Michael Richards"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-10T08:30:00+05:00",
+      "stop": "2026-05-10T09:00:00+05:00",
+      "title": "Seinfeld",
+      "sub_title": "The Bris",
+      "desc": "Jerry and Elaine are apprehensive about being the godparents to their friends' newborn son; George is thrilled with his new parking spot.",
+      "date": "1993",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Sitcom"
+      ],
+      "episode": "S5 E5",
+      "icon": "http://dtil.tmsimg.com/assets/p183875_b_h10_ab.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Tom Cherones"
+        ],
+        "actor": [
+          "Jerry Seinfeld",
+          "Jason Alexander",
+          "Michael Richards"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-10T09:00:00+05:00",
+      "stop": "2026-05-10T09:30:00+05:00",
+      "title": "The Honeymooners",
+      "desc": "Ralph Kramden is a perpetually flustered but eternally optimistic New York City bus driver living with his wife, Alice, in a small Brooklyn apartment. Ralph's best friend is sanitation worker Ed Norton, who lives in the same building with wife Trixie.",
+      "date": "1955",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Sitcom"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p9174865_b_h10_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Jackie Gleason",
+          "Audrey Meadows",
+          "Art Carney"
         ]
       }
     }
