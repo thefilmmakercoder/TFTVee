@@ -4,42 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-11T05:05:00+05:00",
-      "stop": "2026-05-11T06:05:00+05:00",
-      "title": "Planet Earth III: Wonders of Nature",
-      "desc": "Explore astonishing wild places and the most spectacular moments from Planet Earth III.",
-      "language": "en",
-      "categories": [
-        "Entertainment",
-        "Factual"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/ed2010d0-b2d8-3d05-ac32-4e1931c0d08c/16-9"
-    },
-    {
-      "start": "2026-05-11T06:05:00+05:00",
-      "stop": "2026-05-11T07:00:00+05:00",
-      "title": "Life on Earth: The Infinite Variety",
-      "desc": "Landmark natural history series. David Attenborough explores the wildlife and landscape that inspired Charles Darwin's theory of evolution.",
-      "language": "en",
-      "categories": [
-        "Entertainment",
-        "Factual"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/0788a633-4346-470d-a5bf-519735ce2e28/16-9"
-    },
-    {
-      "start": "2026-05-11T07:00:00+05:00",
-      "stop": "2026-05-11T08:00:00+05:00",
-      "title": "David Attenborough: A Life on Air",
-      "desc": "Michael Palin presents a profile of the television career of David Attenborough, from controller of BBC Two to his wildlife programmes such as Life on Earth and The Blue Planet.",
-      "language": "en",
-      "categories": [
-        "Entertainment",
-        "Factual"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/55847a8e-1562-4fba-a256-d277ddcd6f73/16-9"
-    },
-    {
       "start": "2026-05-11T08:00:00+05:00",
       "stop": "2026-05-11T09:30:00+05:00",
       "title": "This is BBC Four",
@@ -57,6 +21,31 @@
       "stop": "2026-05-11T21:30:00+05:00",
       "title": "..programmes start at 7.00pm",
       "language": "en"
+    },
+    {
+      "start": "2026-05-11T21:30:00+05:00",
+      "stop": "2026-05-11T22:58:00+05:00",
+      "title": "..programmes start at 7.00pm",
+      "language": "en"
+    },
+    {
+      "start": "2026-05-11T22:58:00+05:00",
+      "stop": "2026-05-11T23:00:00+05:00",
+      "title": "This is BBC Four",
+      "desc": "Programmes start at 7.00pm.",
+      "language": "en"
+    },
+    {
+      "start": "2026-05-11T23:00:00+05:00",
+      "stop": "2026-05-11T23:30:00+05:00",
+      "title": "University Challenge",
+      "desc": "Cranfield University face four students from Royal Holloway in another first-round match.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Game Show"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/0d070b43-95f8-4f47-bfba-a528d9862451/16-9"
     }
   ]
 }

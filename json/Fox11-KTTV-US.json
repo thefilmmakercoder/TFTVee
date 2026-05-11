@@ -4,115 +4,21 @@
   ],
   "programs": [
     {
-      "start": "2026-05-11T05:30:00+05:00",
-      "stop": "2026-05-11T06:00:00+05:00",
-      "title": "FOX 11 Weekend News",
-      "desc": "A stream of breaking news, events and stories taking place across the nation and the world.",
-      "date": "2016",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p12829296_b_h8_ac.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-11T06:00:00+05:00",
-      "stop": "2026-05-11T06:30:00+05:00",
-      "title": "California Politics 360",
-      "date": "2025",
-      "language": "en",
-      "categories": [
-        "Politics",
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p31069121_st_h10_ab.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-11T06:30:00+05:00",
-      "stop": "2026-05-11T07:00:00+05:00",
-      "title": "iCRIME With Elizabeth Vargas",
-      "sub_title": "Gas Station Burglar Throws Molotov Cocktail; Undercover Officers Wear Luxury Watches to Attract Criminals",
-      "desc": "Crimes from across the country that have been captured by ordinary people on their smartphones; stories of victims, witnesses, law enforcement and the videographers themselves.",
+      "start": "2026-05-11T09:31:00+05:00",
+      "stop": "2026-05-11T10:00:00+05:00",
+      "title": "Bob's Burgers",
+      "sub_title": "The Keyboard Kid",
+      "desc": "Tina hopes her fast-but-weird typing style gets her an \"A\" in typing class so she can attend an upcoming field trip.",
       "date": "2026",
       "language": "en",
-      "rating": "TV14",
-      "categories": [
-        "Series",
-        "Reality",
-        "Crime"
-      ],
-      "episode": "E26",
-      "icon": "http://dtil.tmsimg.com/assets/p22620703_b_h10_aa.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Elizabeth Vargas"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-11T07:00:00+05:00",
-      "stop": "2026-05-11T08:00:00+05:00",
-      "title": "Next Level Chef",
-      "sub_title": "The In-Season Tournament",
-      "desc": "The chefs are no longer competing on their teams, and it's each person for themselves as they fight for their place on the top level.",
-      "date": "2026",
-      "language": "en",
-      "rating": "TV14",
-      "categories": [
-        "Series",
-        "Reality",
-        "Cooking"
-      ],
-      "episode": "S5 E11",
-      "icon": "http://dtil.tmsimg.com/assets/p31694899_b_h8_ab.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Gordon Ramsay",
-          "Nyesha Arrington",
-          "Richard Blais"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-11T08:00:00+05:00",
-      "stop": "2026-05-11T08:31:00+05:00",
-      "title": "Family Guy",
-      "sub_title": "Let the Goodtimes Walk",
-      "desc": "A powerful sleeping aid medication gives Joe the ability to walk while he is asleep, but Joe grows concerned when it becomes clear that the guys prefer his sleepwalking self.",
-      "date": "2026",
-      "language": "en",
-      "rating": "TV14",
+      "rating": "TVPG",
       "categories": [
         "Series",
         "Animated",
         "Sitcom",
         "Comedy"
       ],
-      "episode": "S24 E14",
-      "icon": "http://dtil.tmsimg.com/assets/p184483_b_h8_al.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Seth MacFarlane",
-          "Alex Borstein",
-          "Seth Green"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-11T08:31:00+05:00",
-      "stop": "2026-05-11T09:00:00+05:00",
-      "title": "Bob's Burgers",
-      "sub_title": "Driving Miss Ragey",
-      "desc": "Nat the limo driver helps Linda with her road rage; the kids and Bob discover both the joys and the risk involved in riding a mattress down the stairs.",
-      "date": "2026",
-      "language": "en",
-      "rating": "TV14",
-      "categories": [
-        "Series",
-        "Animated",
-        "Sitcom"
-      ],
-      "episode": "S16 E13",
+      "episode": "S16 E11",
       "icon": "http://dtil.tmsimg.com/assets/p8127591_b_h8_ah.jpg?w=960&h=540",
       "credits": {
         "actor": [
@@ -121,6 +27,110 @@
           "Eugene Mirman"
         ]
       }
+    },
+    {
+      "start": "2026-05-11T10:00:00+05:00",
+      "stop": "2026-05-11T11:00:00+05:00",
+      "title": "Good Nite LA",
+      "desc": "Stay informed with the breaking news and headlines.",
+      "date": "2024",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p26513988_b_h8_ae.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-11T11:00:00+05:00",
+      "stop": "2026-05-11T12:00:00+05:00",
+      "title": "Good Morning Football: Overtime",
+      "desc": "The crew breaks down emerging storylines post-draft across the league; White Board Wednesday and NFL Mystery Mom.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Series",
+        "Sports talk",
+        "Football"
+      ],
+      "episode": "E267",
+      "icon": "http://dtil.tmsimg.com/assets/p27635286_b_h8_ac.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "David Olshaske"
+        ],
+        "actor": [
+          "Jamie Erdahl",
+          "Kyle Brandt",
+          "Manti Te'o"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-11T12:00:00+05:00",
+      "stop": "2026-05-11T12:30:00+05:00",
+      "title": "The Simpsons",
+      "sub_title": "Homer and Her Sisters",
+      "desc": "After a fight in an escape room, Krusty's aunt fixes Homer's relationship with Patty and Selma.",
+      "date": "2024",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "Series",
+        "Animated",
+        "Sitcom"
+      ],
+      "episode": "S36 E9",
+      "icon": "http://dtil.tmsimg.com/assets/p183872_b_h8_aj.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Matthew Nastuk"
+        ],
+        "actor": [
+          "Dan Castellaneta",
+          "Julie Kavner",
+          "Nancy Cartwright"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-11T12:30:00+05:00",
+      "stop": "2026-05-11T13:00:00+05:00",
+      "title": "The Simpsons",
+      "sub_title": "Stew Lies",
+      "desc": "Homer reinvigorates a celebrity chef's lost passion for food -- with some help from the mob.",
+      "date": "2025",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Animated",
+        "Sitcom"
+      ],
+      "episode": "S36 E16",
+      "icon": "http://dtil.tmsimg.com/assets/p183872_b_h8_aj.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Debbie Bruce Mahan"
+        ],
+        "actor": [
+          "Dan Castellaneta",
+          "Julie Kavner",
+          "Nancy Cartwright"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-11T13:00:00+05:00",
+      "stop": "2026-05-11T14:00:00+05:00",
+      "title": "Good Nite LA",
+      "desc": "Stay informed with the breaking news and headlines.",
+      "date": "2024",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p26513988_b_h8_ae.jpg?w=960&h=540"
     }
   ]
 }

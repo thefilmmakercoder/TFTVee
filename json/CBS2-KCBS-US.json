@@ -4,86 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-11T05:30:00+05:00",
-      "stop": "2026-05-11T06:00:00+05:00",
-      "title": "CBS Evening News",
-      "desc": "Tony Dokoupil shares the day's most important stories, delivering context and depth to bring greater understanding to one's world.",
-      "date": "2026",
-      "language": "en",
-      "categories": [
-        "Series",
-        "News"
-      ],
-      "episode": "E130",
-      "icon": "http://dtil.tmsimg.com/assets/p28807922_b_h8_ae.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Tony Dokoupil",
-          "Maurice DuBois",
-          "Jericka Duncan"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-11T06:00:00+05:00",
-      "stop": "2026-05-11T07:00:00+05:00",
-      "title": "CBS LA at 6pm",
-      "desc": "Join the CBS LA team for stories from communities around SoCal, breaking news from The Desk, and NEXT Weather from the Weathersphere.",
-      "date": "2025",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p31308575_b_h10_aa.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-11T07:00:00+05:00",
-      "stop": "2026-05-11T08:00:00+05:00",
-      "title": "60 Minutes",
-      "desc": "Newsmagazine with features focusing on people, and events in the news and behind the headlines.",
-      "date": "2026",
-      "language": "en",
-      "categories": [
-        "Series",
-        "Newsmagazine"
-      ],
-      "episode": "S58 E32",
-      "icon": "http://dtil.tmsimg.com/assets/p31308310_b_h10_ae.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Lesley Stahl",
-          "Scott Pelley",
-          "Anderson Cooper"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-11T08:00:00+05:00",
-      "stop": "2026-05-11T09:00:00+05:00",
-      "title": "Marshals",
-      "sub_title": "On Thin Ice",
-      "desc": "With a dangerous prison escapee in tow, Kayce and Cal struggle to survive a freezing night on a mountain, a task made all the more challenging by an unhealed wound from their past that threatens their ability to work as a team in the present.",
-      "date": "2026",
-      "language": "en",
-      "rating": "TV14",
-      "categories": [
-        "Series",
-        "Drama"
-      ],
-      "episode": "S1 E11",
-      "icon": "http://dtil.tmsimg.com/assets/p31739615_b_h8_ab.jpg?w=960&h=540",
-      "credits": {
-        "director": [
-          "John Erick Dowdle"
-        ],
-        "actor": [
-          "Luke Grimes",
-          "Logan Marshall-Green",
-          "Arielle Kebbel"
-        ]
-      }
-    },
-    {
       "start": "2026-05-11T09:00:00+05:00",
       "stop": "2026-05-11T10:00:00+05:00",
       "title": "Tracker",
@@ -113,31 +33,85 @@
     {
       "start": "2026-05-11T10:00:00+05:00",
       "stop": "2026-05-11T11:00:00+05:00",
-      "title": "Watson",
-      "desc": "Six months after the death of his friend and partner Sherlock Holmes at the hands of Moriarty, Dr. John Watson resumes his medical career as the head of a clinic dedicated to treating rare disorders. Watson's old life isn't done with him, though -- Moriarty and Watson are set to write their own chapter of a story that has fascinated audiences for more than a century. \"Watson\" is a medical show with a strong investigative spine, featuring a modern version of one of history's greatest detectives as he turns his attention from solving crimes to solving medical mysteries.",
-      "date": "2025",
+      "title": "Marshals",
+      "sub_title": "Zone of Death",
+      "desc": "As Kayce tries to embrace his new beginning, a Marshals op to stop a domestic terror attack lands him in a valley of buried Dutton family skeletons; while confronting his past, Kayce must also learn to ingratiate himself with his new teammates.",
+      "date": "2026",
       "language": "en",
       "rating": "TV14",
       "categories": [
-        "Drama",
-        "Medical"
+        "Series",
+        "Drama"
       ],
-      "icon": "http://dtil.tmsimg.com/assets/p30698207_b_h8_aa.jpg?w=960&h=540",
+      "episode": "S1 E2",
+      "icon": "http://dtil.tmsimg.com/assets/p31739615_b_h8_ab.jpg?w=960&h=540",
       "credits": {
         "director": [
-          "Larry Teng",
-          "Sheelin Choksey",
-          "Jeffrey W. Byrd",
-          "Clara Aranovich",
-          "Jennifer Lynch",
-          "Tara Nicole Weyr"
+          "Greg Yaitanes"
         ],
         "actor": [
-          "Morris Chestnut",
-          "Eve Harlow",
-          "Peter Mark Kendall"
+          "Luke Grimes",
+          "Logan Marshall-Green",
+          "Arielle Kebbel"
         ]
       }
+    },
+    {
+      "start": "2026-05-11T11:00:00+05:00",
+      "stop": "2026-05-11T11:35:00+05:00",
+      "title": "CBS LA at 11pm",
+      "desc": "Join the CBS LA team for stories from communities around SoCal, breaking news from The Desk, and NEXT Weather from the Weathersphere.",
+      "date": "2025",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p31308578_b_h10_aa.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-11T11:35:00+05:00",
+      "stop": "2026-05-11T12:00:00+05:00",
+      "title": "Sports Central",
+      "date": "2023",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p26402663_b_h10_ac.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-11T12:00:00+05:00",
+      "stop": "2026-05-11T12:30:00+05:00",
+      "title": "Joni Table Talk",
+      "desc": "Joni and guests tackle a wide range of relevant issues, controversial subjects and hard-hitting news topics with candor and wit.",
+      "date": "2013",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Religious",
+        "Talk",
+        "Community"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p32105729_b_h8_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Joni Lamb"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-11T12:30:00+05:00",
+      "stop": "2026-05-11T13:00:00+05:00",
+      "title": "Paid Programming",
+      "desc": "Paid programming.",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Consumer",
+        "Shopping",
+        "Variety"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&h=540"
     }
   ]
 }

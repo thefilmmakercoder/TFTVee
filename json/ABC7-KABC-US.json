@@ -4,92 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-11T05:30:00+05:00",
-      "stop": "2026-05-11T06:00:00+05:00",
-      "title": "ABC World News Tonight With David Muir",
-      "desc": "Delivering the news that matters most.",
-      "date": "2026",
-      "language": "en",
-      "categories": [
-        "Series",
-        "News"
-      ],
-      "episode": "E130",
-      "icon": "http://dtil.tmsimg.com/assets/p10880351_b_h8_ah.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "David Muir"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-11T06:00:00+05:00",
-      "stop": "2026-05-11T06:30:00+05:00",
-      "title": "Eyewitness News 6PM",
-      "desc": "Local, national and international news.",
-      "date": "2004",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p677004_b_h8_af.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-11T06:30:00+05:00",
-      "stop": "2026-05-11T07:00:00+05:00",
-      "title": "Eyewitness News 6:30PM",
-      "date": "2023",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p25365339_st_h10_aa.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-11T07:00:00+05:00",
-      "stop": "2026-05-11T08:01:00+05:00",
-      "title": "America's Funniest Home Videos",
-      "sub_title": "Summer Snafus, Birthday Blunders, and Second Guy Bites It",
-      "desc": "Ten of the season's biggest winners vie for a $100,000 cash prize; highlights include birthday blunders, summer snafus and kids saying the silliest things.",
-      "date": "2026",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Series",
-        "Reality",
-        "Comedy"
-      ],
-      "episode": "S36 E21",
-      "icon": "http://dtil.tmsimg.com/assets/p30740119_b_h8_aa.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Alfonso Ribeiro"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-11T08:01:00+05:00",
-      "stop": "2026-05-11T09:02:00+05:00",
-      "title": "America's Funniest Home Videos",
-      "sub_title": "Sleep Snafus and That Was Not on My Bingo Card",
-      "desc": "Pint-sized meltdowns, bedtime blunders and dramatic freak-outs.",
-      "date": "2026",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Series",
-        "Reality",
-        "Comedy"
-      ],
-      "episode": "S36 E12",
-      "icon": "http://dtil.tmsimg.com/assets/p30740119_b_h8_aa.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Alfonso Ribeiro"
-        ]
-      }
-    },
-    {
       "start": "2026-05-11T09:02:00+05:00",
       "stop": "2026-05-11T10:02:00+05:00",
       "title": "Celebrity Jeopardy!",
@@ -109,6 +23,97 @@
           "Ken Jennings",
           "Robin Thede",
           "Patton Oswalt"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-11T10:02:00+05:00",
+      "stop": "2026-05-11T11:00:00+05:00",
+      "title": "Betrayal: Secrets & Lies",
+      "sub_title": "Marked for Murder",
+      "desc": "Ramon finds the perfect wife and business partner in Lulu, but when their love turns cold, an unthinkable betrayal leaves him fighting for his life.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Documentary"
+      ],
+      "episode": "S1 E7",
+      "icon": "http://dtil.tmsimg.com/assets/p32637303_b_h8_aa.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-11T11:00:00+05:00",
+      "stop": "2026-05-11T11:35:00+05:00",
+      "title": "Eyewitness News 11PM",
+      "desc": "Local, national and international news.",
+      "date": "2004",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p676925_b_h8_af.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-11T11:35:00+05:00",
+      "stop": "2026-05-11T12:00:00+05:00",
+      "title": "ABC7's Sunday Night Sports",
+      "desc": "Fast paced wrap up of the day's sports news.",
+      "date": "2017",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p14526038_st_h10_aa.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-11T12:00:00+05:00",
+      "stop": "2026-05-11T13:00:00+05:00",
+      "title": "9-1-1",
+      "sub_title": "What's Next?",
+      "desc": "The 118 rush to save lives in the aftermath of a massive train derailment.",
+      "date": "2020",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "Series",
+        "Drama",
+        "Action"
+      ],
+      "episode": "S3 E18",
+      "icon": "http://dtil.tmsimg.com/assets/p14154513_b_h8_bg.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Angela Bassett",
+          "Peter Krause",
+          "Oliver Stark"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-11T13:00:00+05:00",
+      "stop": "2026-05-11T14:00:00+05:00",
+      "title": "The Rookie",
+      "sub_title": "Revelations",
+      "desc": "Officer Nolan's decision to return to school to become a training officer proves to be much harder than he expected; Officer Chen considers going into undercover work after getting a taste of the job.",
+      "date": "2021",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "Series",
+        "Crime drama",
+        "Action"
+      ],
+      "episode": "S3 E6",
+      "icon": "http://dtil.tmsimg.com/assets/p15523389_b_h8_bc.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Chi-Yoon Chung"
+        ],
+        "actor": [
+          "Nathan Fillion",
+          "Mekia Cox",
+          "Alyssa Diaz"
         ]
       }
     }

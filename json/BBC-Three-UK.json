@@ -4,42 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-11T05:50:00+05:00",
-      "stop": "2026-05-11T06:20:00+05:00",
-      "title": "Charlie Cooper's Myth Country",
-      "desc": "Charlie digs out his metal detector and embarks on an Arthurian investigation. Contains some strong language.",
-      "language": "en",
-      "categories": [
-        "Entertainment",
-        "Arts"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/def0486d-8661-3426-9de6-ff226e4a0251/16-9"
-    },
-    {
-      "start": "2026-05-11T06:20:00+05:00",
-      "stop": "2026-05-11T07:10:00+05:00",
-      "title": "Doctor Who",
-      "desc": "Sci-fi drama. A Dalek fleet surrounds a lone rebel ship, and only the Doctor can help them. As he faces his greatest enemy, he needs Clara by his side.",
-      "language": "en",
-      "categories": [
-        "Entertainment",
-        "Sci-Fi"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/ee04b20b-c042-47ab-8032-2baf60341142/16-9"
-    },
-    {
-      "start": "2026-05-11T07:10:00+05:00",
-      "stop": "2026-05-11T07:55:00+05:00",
-      "title": "Doctor Who",
-      "desc": "Sci-fi drama. When robots threaten Sherwood Forest, the Doctor must join forces with Robin Hood to stop the evil reign of the Sheriff of Nottingham.",
-      "language": "en",
-      "categories": [
-        "Entertainment",
-        "Sci-Fi"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/93348037-9136-4186-a383-014953592631/16-9"
-    },
-    {
       "start": "2026-05-11T07:55:00+05:00",
       "stop": "2026-05-11T09:30:00+05:00",
       "title": "This is BBC Three",
@@ -57,6 +21,31 @@
       "stop": "2026-05-11T21:30:00+05:00",
       "title": "..programmes start at 7.00pm",
       "language": "en"
+    },
+    {
+      "start": "2026-05-11T21:30:00+05:00",
+      "stop": "2026-05-11T22:58:00+05:00",
+      "title": "..programmes start at 7.00pm",
+      "language": "en"
+    },
+    {
+      "start": "2026-05-11T22:58:00+05:00",
+      "stop": "2026-05-11T23:00:00+05:00",
+      "title": "This is BBC Three",
+      "desc": "Programmes start at 7.00pm.",
+      "language": "en"
+    },
+    {
+      "start": "2026-05-11T23:00:00+05:00",
+      "stop": "2026-05-11T23:05:00+05:00",
+      "title": "The Catch Up",
+      "desc": "A round-up of the day's news.",
+      "language": "en",
+      "categories": [
+        "News & Documentary",
+        "News"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/6264d2b7-4283-45f4-818e-fcf7d1076df4/16-9"
     }
   ]
 }
