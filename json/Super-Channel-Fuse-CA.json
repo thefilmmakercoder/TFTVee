@@ -4,101 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-11T11:45:00+05:00",
-      "stop": "2026-05-11T13:15:00+05:00",
-      "title": "Campton Manor",
-      "desc": "A horror writer spends the night alone in a mansion to solve a decades-old mystery.",
-      "date": "2024",
-      "language": "en",
-      "rating": "15",
-      "categories": [
-        "Movie",
-        "Horror",
-        "Mystery"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p26722884_v_h8_aa.jpg?w=960&h=540",
-      "credits": {
-        "director": [
-          "Cat Hostick"
-        ],
-        "actor": [
-          "Shawn Roberts",
-          "Jason London",
-          "Kenneth Welsh"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-11T13:15:00+05:00",
-      "stop": "2026-05-11T15:00:00+05:00",
-      "title": "This Place",
-      "desc": "Two women fall in love for the first time. As they grow closer, each must confront their family histories in unexpected ways while navigating multiple legacies of grief and love.",
-      "date": "2022",
-      "language": "en",
-      "categories": [
-        "Movie",
-        "Drama"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p25148995_v_h10_ab.jpg?w=960&h=540",
-      "credits": {
-        "director": [
-          "V.T. Nayani"
-        ],
-        "actor": [
-          "Devery Jacobs",
-          "Priya Guns",
-          "Janisa Weekes"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-11T15:00:00+05:00",
-      "stop": "2026-05-11T15:45:00+05:00",
-      "title": "Almost Unsolved Heists",
-      "sub_title": "Alter Ego",
-      "desc": "When a retired city bureaucrat turned bank robber is finally arrested, a long distance friend is stunned to see his familiar face online in connection with a high-speed chase and a string of armed bank robberies.",
-      "date": "2024",
-      "language": "en",
-      "categories": [
-        "Series",
-        "Documentary",
-        "Crime"
-      ],
-      "episode": "S1 E7",
-      "icon": "http://dtil.tmsimg.com/assets/p27683275_b_h8_ab.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Andrew Wall"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-11T15:45:00+05:00",
-      "stop": "2026-05-11T16:30:00+05:00",
-      "title": "Charmed to Death",
-      "sub_title": "The Id and the Ego",
-      "desc": "When a student meets an esteemed psychologist, she's certain she's found her soul mate; when he suddenly disappears, she discovers he has been living a bizarre double life in Detroit's most notorious neighborhood.",
-      "date": "2023",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Series",
-        "Crime"
-      ],
-      "episode": "S2 E7",
-      "icon": "http://dtil.tmsimg.com/assets/p24276162_b_h8_ab.jpg?w=960&h=540",
-      "credits": {
-        "director": [
-          "Shannon McKinnon"
-        ],
-        "actor": [
-          "Sarah Orton",
-          "Phil Day",
-          "Buffalo Bonker"
-        ]
-      }
-    },
-    {
       "start": "2026-05-11T16:30:00+05:00",
       "stop": "2026-05-11T17:15:00+05:00",
       "title": "Targeted for Murder",
@@ -133,6 +38,98 @@
       ],
       "episode": "S4 E9",
       "icon": "http://dtil.tmsimg.com/assets/p23660963_b_h8_ae.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-11T18:00:00+05:00",
+      "stop": "2026-05-11T19:30:00+05:00",
+      "title": "Anacoreta",
+      "desc": "A group of friends travels for a weekend away to an isolated cabin in the woods to shoot an experimental horror movie. Slowly the film begins to unravel, and we see the true monster appear from the shadows. The director.",
+      "date": "2022",
+      "language": "en",
+      "categories": [
+        "Movie",
+        "Horror"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p29489265_v_h8_ab.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Jeremy Schuetze"
+        ],
+        "actor": [
+          "Antonia Thomas",
+          "Jeremy Schuetze",
+          "Matt Visser"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-11T19:30:00+05:00",
+      "stop": "2026-05-11T21:17:00+05:00",
+      "title": "Bif Naked",
+      "desc": "Bif Naked rips the lid off the life of one of Canada's most fearless and iconic artists. With unprecedented access and Bif's own unapologetic voice, this is a ride from gritty punk clubs to platinum albums, through cancer wards, courtrooms, and backstage chaos, proving that survival is the most punk rock thing of all.",
+      "date": "2025",
+      "language": "en",
+      "rating": "13+",
+      "categories": [
+        "Movie",
+        "Documentary"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p31582830_v_h8_aa.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Pollyanna Hardwicke-Brown"
+        ],
+        "actor": [
+          "George Stroumboulopoulos",
+          "Jann Arden",
+          "Bif Naked"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-11T21:17:00+05:00",
+      "stop": "2026-05-11T23:15:00+05:00",
+      "title": "This Time Next Year",
+      "desc": "Minnie and Quinn are born on the same day, one minute apart. Their lives may begin together, but their worlds couldn't be more different. Years later they find themselves together again. Maybe it's time to take a chance on love.",
+      "date": "2024",
+      "language": "en",
+      "rating": "12",
+      "categories": [
+        "Movie",
+        "Romance"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p27294872_v_h8_af.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Nick Moore"
+        ],
+        "actor": [
+          "Golda Rosheuvel",
+          "John Hannah",
+          "Sophie Cookson"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-11T23:15:00+05:00",
+      "stop": "2026-05-12T00:00:00+05:00",
+      "title": "Almost Unsolved Heists",
+      "sub_title": "Alter Ego",
+      "desc": "When a retired city bureaucrat turned bank robber is finally arrested, a long distance friend is stunned to see his familiar face online in connection with a high-speed chase and a string of armed bank robberies.",
+      "date": "2024",
+      "language": "en",
+      "categories": [
+        "Series",
+        "Documentary",
+        "Crime"
+      ],
+      "episode": "S1 E7",
+      "icon": "http://dtil.tmsimg.com/assets/p27683275_b_h8_ab.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Andrew Wall"
+        ]
+      }
     }
   ]
 }

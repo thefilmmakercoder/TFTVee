@@ -4,24 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-11T13:00:00+05:00",
-      "stop": "2026-05-11T13:30:00+05:00",
-      "title": "Family Guy",
-      "sub_title": "Joe's Revenge",
-      "desc": "Bobby Briggs, the criminal who crippled Joe years ago, has broken out of jail so Quagmire, Joe and Peter team up to hunt him down. Brian gets jealous when Quagmire gives Lois his cat to look after.",
-      "language": "en",
-      "rating": "M"
-    },
-    {
-      "start": "2026-05-11T13:30:00+05:00",
-      "stop": "2026-05-11T15:30:00+05:00",
-      "title": "Movie: Ride Along",
-      "sub_title": "Ride Along",
-      "desc": "Security guard Ben must prove himself to his girlfriend's brother, top police officer James. He rides along James on a 24-hour patrol of Atlanta. Starring Kevin Hart and Ice Cube..",
-      "language": "en",
-      "rating": "M-VL"
-    },
-    {
       "start": "2026-05-11T15:30:00+05:00",
       "stop": "2026-05-11T17:30:00+05:00",
       "title": "Movie: Ride Along 2",
@@ -56,6 +38,23 @@
       "title": "Duke - Back In The Future",
       "desc": "We'll catch you later on DUKE.",
       "language": "en"
+    },
+    {
+      "start": "2026-05-11T23:00:00+05:00",
+      "stop": "2026-05-12T04:20:00+05:00",
+      "title": "On Duke Today...",
+      "desc": "Here's what's on DUKE today.",
+      "language": "en"
+    },
+    {
+      "start": "2026-05-12T04:20:00+05:00",
+      "stop": "2026-05-12T04:45:00+05:00",
+      "title": "The Simpsons",
+      "sub_title": "A Serious Flanders Part 1",
+      "desc": "When a ruthless debt collector comes to Springfield, Homer and Ned's lives are sucked into the artfully violent world of prestige TV.",
+      "language": "en",
+      "rating": "M",
+      "episode": "S33 E6"
     }
   ]
 }

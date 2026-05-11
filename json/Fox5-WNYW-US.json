@@ -4,30 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-11T13:30:00+05:00",
-      "stop": "2026-05-11T14:00:00+05:00",
-      "title": "Good Day Wake Up",
-      "desc": "Morning news coverage.",
-      "date": "2009",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p706488_b_h8_ab.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-11T14:00:00+05:00",
-      "stop": "2026-05-11T15:00:00+05:00",
-      "title": "Good Day Wake Up",
-      "desc": "Morning news coverage.",
-      "date": "2009",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p706488_b_h8_ab.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-05-11T15:00:00+05:00",
       "stop": "2026-05-11T16:00:00+05:00",
       "title": "Good Day Wake Up 2",
@@ -83,6 +59,40 @@
           "Sherri Shepherd"
         ]
       }
+    },
+    {
+      "start": "2026-05-11T20:00:00+05:00",
+      "stop": "2026-05-11T21:00:00+05:00",
+      "title": "The Jennifer Hudson Show",
+      "desc": "Model and actress Winnie Harlow and Jennifer chat about her new children's book, \"Simply Winnie\"; body language expert Vanessa Van Edwards from Orange County, Calif., stops by; Jennifer welcomes viral 8-year-old basketball prodigy Faith Micknich.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Talk"
+      ],
+      "episode": "S4 E134",
+      "icon": "http://dtil.tmsimg.com/assets/p31041660_b_h8_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Jennifer Hudson",
+          "Winnie Harlow",
+          "Vanessa Van Edwards"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-11T21:00:00+05:00",
+      "stop": "2026-05-11T22:00:00+05:00",
+      "title": "The Noon",
+      "desc": "Midday news update.",
+      "date": "2019",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p17326137_b_h8_ab.jpg?w=960&h=540"
     }
   ]
 }

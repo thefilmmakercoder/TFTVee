@@ -4,13 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-11T07:55:00+05:00",
-      "stop": "2026-05-11T09:30:00+05:00",
-      "title": "This is BBC Three",
-      "desc": "Programmes start at 7.00pm.",
-      "language": "en"
-    },
-    {
       "start": "2026-05-11T09:30:00+05:00",
       "stop": "2026-05-11T15:30:00+05:00",
       "title": "..programmes start at 7.00pm",
@@ -46,6 +39,18 @@
         "News"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/6264d2b7-4283-45f4-818e-fcf7d1076df4/16-9"
+    },
+    {
+      "start": "2026-05-11T23:05:00+05:00",
+      "stop": "2026-05-11T23:35:00+05:00",
+      "title": "Deadly 60",
+      "sub_title": "Sharks and Eels",
+      "desc": "Steve heads to the Mexican island of Cabo Pulmo, where the people have worked tirelessly to bring their surrounding oceans back to life and make it a marine reserve.",
+      "language": "en",
+      "categories": [
+        "Children"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/d3627e0a-cd71-34eb-bf85-7a2f0bafcd9f/16-9"
     }
   ]
 }
