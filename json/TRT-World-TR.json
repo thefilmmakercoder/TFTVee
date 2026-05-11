@@ -4,8 +4,32 @@
   ],
   "programs": [
     {
-      "start": "2026-05-11T10:00:00+05:00",
-      "stop": "2026-05-11T10:30:00+05:00",
+      "start": "2026-05-11T13:00:00+05:00",
+      "stop": "2026-05-11T14:00:00+05:00",
+      "title": "Newshour",
+      "desc": "TRT World brings the latest news from around the globe, when it happens.",
+      "language": "en",
+      "categories": [
+        "News & Documentary",
+        "News"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/42c67923-e90d-41d4-9cbc-4ac9b2d7b31e/16-9"
+    },
+    {
+      "start": "2026-05-11T14:00:00+05:00",
+      "stop": "2026-05-11T15:00:00+05:00",
+      "title": "Storyteller: Ice And Fire",
+      "desc": "In the face of a rapidly warming planet, scientists and visionaries work to mitigate climate change and minimise climate-related events.",
+      "language": "en",
+      "categories": [
+        "News & Documentary",
+        "Nature"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/c4e6fa56-c702-4c48-8dbf-ca28fe34429b/16-9"
+    },
+    {
+      "start": "2026-05-11T15:00:00+05:00",
+      "stop": "2026-05-11T15:30:00+05:00",
       "title": "News",
       "desc": "TRT World brings the latest news from around the globe, when it happens.",
       "language": "en",
@@ -13,47 +37,11 @@
         "News & Documentary",
         "News"
       ],
-      "icon": "https://images.metadata.sky.com/pd-image/be357331-8b15-4f56-bf18-751176c9e72b/16-9"
+      "icon": "https://images.metadata.sky.com/pd-image/f71cab78-58ae-426c-866a-3a3e98204995/16-9"
     },
     {
-      "start": "2026-05-11T10:30:00+05:00",
-      "stop": "2026-05-11T11:00:00+05:00",
-      "title": "Roundtable",
-      "desc": "Ideas are changing our world. See them discussed and dissected, every weekday.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/46173c1f-dc2a-4962-a556-2e68d70da9ae/16-9"
-    },
-    {
-      "start": "2026-05-11T11:00:00+05:00",
-      "stop": "2026-05-11T11:30:00+05:00",
-      "title": "News",
-      "desc": "TRT World brings the latest news from around the globe, when it happens.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/043a3aa1-39df-4a58-a915-f820d7898307/16-9"
-    },
-    {
-      "start": "2026-05-11T11:30:00+05:00",
-      "stop": "2026-05-11T12:00:00+05:00",
-      "title": "Bigger Than Five",
-      "desc": "A critical look at foreign policy decisions made in Washington DC and other global centres of power and their impact on the rest of the world.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "Feature"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/c5805cf4-6165-4129-bc46-62e9f2df065c/16-9"
-    },
-    {
-      "start": "2026-05-11T12:00:00+05:00",
-      "stop": "2026-05-11T12:30:00+05:00",
+      "start": "2026-05-11T15:30:00+05:00",
+      "stop": "2026-05-11T16:00:00+05:00",
       "title": "Business News",
       "desc": "As the world grapples with ever changing politics and crises, economy is always center stage. TRT World's Business News gives you the insight.",
       "language": "en",
@@ -61,19 +49,31 @@
         "News & Documentary",
         "Business"
       ],
-      "icon": "https://images.metadata.sky.com/pd-image/a9aa23fb-b4eb-4543-8d54-412a6b27e544/16-9"
+      "icon": "https://images.metadata.sky.com/pd-image/e616e69e-bb07-4bb3-a433-48b9eaa5ee51/16-9"
     },
     {
-      "start": "2026-05-11T12:30:00+05:00",
-      "stop": "2026-05-11T13:00:00+05:00",
-      "title": "NexTech",
-      "desc": "NexTech looks at tomorrow's industries, getting ahead of future trends and understanding the challenges that come with any new technological breakthroughs.",
+      "start": "2026-05-11T16:00:00+05:00",
+      "stop": "2026-05-11T16:30:00+05:00",
+      "title": "News",
+      "desc": "TRT World brings the latest news from around the globe, when it happens.",
       "language": "en",
       "categories": [
         "News & Documentary",
-        "Science"
+        "News"
       ],
-      "icon": "https://images.metadata.sky.com/pd-image/e38426d6-8eb4-4125-97d9-f06ce1198580/16-9"
+      "icon": "https://images.metadata.sky.com/pd-image/849e4e40-dc8d-4a74-aab4-5d0cbad62ea3/16-9"
+    },
+    {
+      "start": "2026-05-11T16:30:00+05:00",
+      "stop": "2026-05-11T17:00:00+05:00",
+      "title": "Across the Balkans",
+      "desc": "Across The Balkans takes you to a land of breathtaking beauty with a painful past, to discover the issues and fault lines shaping Southeast Europe today.",
+      "language": "en",
+      "categories": [
+        "News & Documentary",
+        "World Affairs"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/ecc25c85-2b29-4535-99c8-0f01a141c62d/16-9"
     }
   ]
 }

@@ -4,56 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-11T06:00:00+05:00",
-      "stop": "2026-05-11T08:30:00+05:00",
-      "title": "The Outfit",
-      "desc": "Leonard is an English tailor who makes suits on London's Savile Row. He must outsmart a group of criminals to survive a fateful night.",
-      "date": "2022",
-      "language": "en",
-      "rating": "R",
-      "categories": [
-        "Movie",
-        "Thriller",
-        "Crime drama"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p21031766_v_h8_ad.jpg?w=960&h=540",
-      "credits": {
-        "director": [
-          "Graham Moore"
-        ],
-        "actor": [
-          "Mark Rylance",
-          "Dylan O'Brien",
-          "Zoey Deutch"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-11T08:30:00+05:00",
-      "stop": "2026-05-11T11:30:00+05:00",
-      "title": "Face/Off",
-      "desc": "Obsessed with bringing terrorist Castor Troy (Nicolas Cage) to justice, FBI agent Sean Archer (John Travolta) tracks down Troy, who has boarded a plane in Los Angeles. After the plane crashes and Troy is severely injured, possibly dead, Archer undergoes surgery to remove his face and replace it with Troy's. As Archer tries to use his disguise to elicit information about a bomb from Troy's brother, Troy awakes from a coma and forces the doctor who performed the surgery to give him Archer's face.",
-      "date": "1997",
-      "language": "en",
-      "rating": "R",
-      "categories": [
-        "Movie",
-        "Action",
-        "Crime drama"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p19525_v_h8_aq.jpg?w=960&h=540",
-      "credits": {
-        "director": [
-          "John Woo"
-        ],
-        "actor": [
-          "John Travolta",
-          "Nicolas Cage",
-          "Joan Allen"
-        ]
-      }
-    },
-    {
       "start": "2026-05-11T11:30:00+05:00",
       "stop": "2026-05-11T14:00:00+05:00",
       "title": "Operation Fortune: Ruse de guerre",
@@ -160,6 +110,60 @@
           "Richard Dean Anderson",
           "Amanda Tapping",
           "Christopher Judge"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-11T17:00:00+05:00",
+      "stop": "2026-05-11T18:00:00+05:00",
+      "title": "Stargate SG-1",
+      "sub_title": "Frozen",
+      "desc": "The team struggles to survive in Antarctica with a young woman found in the ice.",
+      "date": "2002",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Science fiction",
+        "Adventure"
+      ],
+      "episode": "S6 E4",
+      "icon": "http://dtil.tmsimg.com/assets/p184337_b_h10_ao.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Martin Wood"
+        ],
+        "actor": [
+          "Richard Dean Anderson",
+          "Amanda Tapping",
+          "Christopher Judge"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-11T18:00:00+05:00",
+      "stop": "2026-05-11T19:00:00+05:00",
+      "title": "Castle",
+      "sub_title": "Secret's Safe With Me",
+      "desc": "When a woman is murdered, Castle and Beckett think a repossessed storage unit may have a connection to her death.",
+      "date": "2012",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Crime drama",
+        "Comedy"
+      ],
+      "episode": "S5 E3",
+      "icon": "http://dtil.tmsimg.com/assets/p9264751_b_h10_aa.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "John Terlesky"
+        ],
+        "actor": [
+          "Nathan Fillion",
+          "Stana Katic",
+          "Susan Sullivan"
         ]
       }
     }
