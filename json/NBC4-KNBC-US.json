@@ -4,26 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-12T00:00:00+05:00",
-      "stop": "2026-05-12T01:00:00+05:00",
-      "title": "NBC News Daily",
-      "desc": "NBC News provides viewers with the latest national and international news; consumer, health and personal finance reporting; up-to-the-minute local news.",
-      "date": "2026",
-      "language": "en",
-      "categories": [
-        "Series",
-        "News"
-      ],
-      "episode": "E82",
-      "icon": "http://dtil.tmsimg.com/assets/p22712535_b_h8_ad.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Vicky Nguyen",
-          "Morgan Radford"
-        ]
-      }
-    },
-    {
       "start": "2026-05-12T01:00:00+05:00",
       "stop": "2026-05-12T02:00:00+05:00",
       "title": "Access Daily With Mario & Kit",
@@ -112,6 +92,19 @@
         "News"
       ],
       "icon": "http://dtil.tmsimg.com/assets/p9358491_b_h10_ae.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-12T05:00:00+05:00",
+      "stop": "2026-05-12T08:00:00+05:00",
+      "title": "Live: NBA Basketball",
+      "desc": "Detroit battles Cleveland in Game 4 of the East Semifinals with the Pistons leading the series 2-1. Cleveland secured a 116-109 victory last game as both teams seek a pivotal postseason advantage in this match at Rocket Arena today.",
+      "language": "en",
+      "categories": [
+        "Sports",
+        "Playoff sports",
+        "Basketball"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/GNLZZGG0033M72M.jpg?w=960&h=540"
     }
   ]
 }

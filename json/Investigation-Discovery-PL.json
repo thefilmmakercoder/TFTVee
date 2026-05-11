@@ -4,23 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-12T00:00:00+05:00",
-      "stop": "2026-05-12T01:00:00+05:00",
-      "title": "Devil In The Web",
-      "sub_title": "Dangerous game",
-      "desc": "Investigation Discovery provides true crime documentaries, real-life investigations, and mystery-focused programming.",
-      "date": "2022",
-      "language": "en",
-      "categories": [
-        "Documentary Series"
-      ],
-      "credits": {
-        "actor": [
-          "Katie - Caitlin Borek"
-        ]
-      }
-    },
-    {
       "start": "2026-05-12T01:00:00+05:00",
       "stop": "2026-05-12T02:00:00+05:00",
       "title": "Killer Confessions: Case Files Of A Texas Ranger",
@@ -84,6 +67,25 @@
         "Crime Series"
       ],
       "episode": "E1"
+    },
+    {
+      "start": "2026-05-12T07:00:00+05:00",
+      "stop": "2026-05-12T08:00:00+05:00",
+      "title": "Reasonable Doubt",
+      "sub_title": "Justice in the South",
+      "desc": "Investigation Discovery provides true crime documentaries, real-life investigations, and mystery-focused programming.",
+      "date": "2017",
+      "language": "en",
+      "categories": [
+        "Documentary Series"
+      ],
+      "episode": "S1",
+      "credits": {
+        "actor": [
+          "Himself - Chris Anderson",
+          "Herself - Melissa Lewkowicz"
+        ]
+      }
     }
   ]
 }
