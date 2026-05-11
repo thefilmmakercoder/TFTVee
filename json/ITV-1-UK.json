@@ -4,18 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-12T02:30:00+05:00",
-      "stop": "2026-05-12T02:45:00+05:00",
-      "title": "ITV News London",
-      "desc": "The latest news and weather from London and the South East.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/33cd31e8-77f1-4e01-89d1-e7ca3fb2317b/16-9"
-    },
-    {
       "start": "2026-05-12T02:45:00+05:00",
       "stop": "2026-05-12T03:35:00+05:00",
       "title": "The Neighbourhood",
@@ -76,6 +64,18 @@
         "Comedy"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/b07a3a7f-2bcc-4759-a7be-6753a0511360/16-9"
+    },
+    {
+      "start": "2026-05-12T07:50:00+05:00",
+      "stop": "2026-05-12T09:05:00+05:00",
+      "title": "Unwind with ITV",
+      "desc": "Your daily escape designed to calm the mind and encourage relaxation and reflection.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Lifestyles"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/a074c695-2a07-4153-b93a-e0f042735c8f/16-9"
     }
   ]
 }

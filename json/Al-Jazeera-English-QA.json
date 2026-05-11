@@ -4,18 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-12T01:30:00+05:00",
-      "stop": "2026-05-12T02:00:00+05:00",
-      "title": "Witness",
-      "desc": "The Flotilla Diaries: Determined to break the siege on Gaza, two filmmakers share their dramatic first-hand accounts aboard the Global Sumud Flotilla.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "Politics"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/e8e598e2-fe5f-479e-9669-82b41c98e8fc/16-9"
-    },
-    {
       "start": "2026-05-12T02:00:00+05:00",
       "stop": "2026-05-12T03:00:00+05:00",
       "title": "Newshour",
@@ -74,6 +62,14 @@
         "World Affairs"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/d1dce67b-803d-48f1-9074-73d7a8a41b44/16-9"
+    },
+    {
+      "start": "2026-05-12T06:00:00+05:00",
+      "stop": "2026-05-12T06:30:00+05:00",
+      "title": "News Live",
+      "desc": "Up-to-date news and analysis from around the world.",
+      "language": "en",
+      "icon": "https://images.metadata.sky.com/pd-image/302d2cbb-6f6f-47b6-8e59-267badc5aacc/16-9"
     }
   ]
 }

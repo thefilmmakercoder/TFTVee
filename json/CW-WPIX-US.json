@@ -4,30 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-12T01:00:00+05:00",
-      "stop": "2026-05-12T02:00:00+05:00",
-      "title": "PIX11 News at 4",
-      "desc": "Staying informed with the news and headlines.",
-      "date": "2021",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p20535966_b_h8_ab.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-12T02:00:00+05:00",
-      "stop": "2026-05-12T03:00:00+05:00",
-      "title": "PIX11 News at 5",
-      "desc": "Staying informed with the news and headlines.",
-      "date": "2014",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p10829683_b_h8_ab.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-05-12T03:00:00+05:00",
       "stop": "2026-05-12T03:30:00+05:00",
       "title": "PIX11 News at 6",
@@ -100,6 +76,55 @@
           "Johnny Galecki",
           "Jim Parsons",
           "Kaley Cuoco"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-12T05:00:00+05:00",
+      "stop": "2026-05-12T06:00:00+05:00",
+      "title": "Sullivan's Crossing",
+      "sub_title": "Gut Instincts",
+      "desc": "Maggie's residency gets off to a rocky start as Cal shows Ben the ropes at the Crossing and begins to wonder if Liam has any intention of leaving.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Drama"
+      ],
+      "episode": "S4 E4",
+      "icon": "http://dtil.tmsimg.com/assets/p24187342_b_h8_at.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Morgan Kohan",
+          "Chad Michael Murray",
+          "Scott Patterson"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-12T06:00:00+05:00",
+      "stop": "2026-05-12T07:00:00+05:00",
+      "title": "Wild Cards",
+      "sub_title": "Hot Tub Death Machine",
+      "desc": "Max and Ellis investigate a locked-room mystery after the death of a high-powered fixer electrocuted in her penthouse hot tub, where she was the only one present at the time; actors, Vanessa Morgan, Giacomo Gianniotti, Jason Priestley, Tamara Taylor, Terry Chen, Amy Goodmurphy, Fletcher Donovan, Kaylah Zander.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Crime drama"
+      ],
+      "episode": "S3 E5",
+      "icon": "http://dtil.tmsimg.com/assets/p25877512_b_h8_aj.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Alexandra La Roche"
+        ],
+        "actor": [
+          "Giacomo Gianniotti",
+          "Vanessa Morgan",
+          "Karin Konoval"
         ]
       }
     }
