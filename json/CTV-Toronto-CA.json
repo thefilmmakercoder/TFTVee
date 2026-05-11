@@ -4,18 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-11T03:00:00+05:00",
-      "stop": "2026-05-11T04:00:00+05:00",
-      "title": "Live: CTV News Toronto",
-      "desc": "CTV News covers stories that matter to Canadians, locally, nationally and internationally.",
-      "date": "2014",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p11226977_b_h8_ae.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-05-11T04:00:00+05:00",
       "stop": "2026-05-11T06:00:00+05:00",
       "title": "A Zest for Death: A Hannah Swensen Mystery",
@@ -112,6 +100,32 @@
         "News"
       ],
       "icon": "http://dtil.tmsimg.com/assets/p11226977_b_h8_ae.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-11T09:00:00+05:00",
+      "stop": "2026-05-11T09:30:00+05:00",
+      "title": "The Big Bang Theory",
+      "sub_title": "The Champagne Reflection",
+      "desc": "Sheldon says goodbye to Fun With Flags; Howard, Leonard and Raj look through their dead professor's research; Bernadette learns her co-workers' true feelings.",
+      "date": "2014",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Sitcom"
+      ],
+      "episode": "S8 E10",
+      "icon": "http://dtil.tmsimg.com/assets/p185554_b_h8_az.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Mark Cendrowski"
+        ],
+        "actor": [
+          "Johnny Galecki",
+          "Jim Parsons",
+          "Kaley Cuoco-Sweeting"
+        ]
+      }
     }
   ]
 }

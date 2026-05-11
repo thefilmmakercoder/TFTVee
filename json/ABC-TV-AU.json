@@ -4,20 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-11T01:00:00+05:00",
-      "stop": "2026-05-11T04:00:00+05:00",
-      "title": "ABC News Breakfast",
-      "sub_title": "Monday 11 May 2026",
-      "desc": "James Glenday and Emma Rebellato bring you the latest news, overnight developments, interviews and new details on the top stories this morning, joined by Catherine Murphy with sport and Lillian Rangiah with weather.",
-      "language": "en",
-      "rating": "NR",
-      "categories": [
-        "Sports"
-      ],
-      "episode": "E93",
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/231375/image/334x188"
-    },
-    {
       "start": "2026-05-11T04:00:00+05:00",
       "stop": "2026-05-11T05:00:00+05:00",
       "title": "ABC News Mornings",
@@ -85,6 +71,20 @@
       ],
       "episode": "E13",
       "icon": "https://www.fetchtv.com.au/v2/epg/program/131336/image/334x188"
+    },
+    {
+      "start": "2026-05-11T09:00:00+05:00",
+      "stop": "2026-05-11T09:25:00+05:00",
+      "title": "Spicks and Specks",
+      "sub_title": "Angie Mcmahon, Mel Tracina, Jason Arrow & Hamish Blake",
+      "desc": "Will Hamish Blake replace Jason Arrow in Hamilton? Will Adam and Angie McMahon recite every Meatloaf lyric? Will Mel Tracina convince Alan she knows the secret song? Will Myf have to sing the whole song to work out the title?",
+      "language": "en",
+      "rating": "PG",
+      "categories": [
+        "Music"
+      ],
+      "episode": "S11 E10",
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/176223/image/334x188"
     }
   ]
 }
