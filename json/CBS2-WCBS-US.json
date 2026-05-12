@@ -4,64 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-12T03:00:00+05:00",
-      "stop": "2026-05-12T03:30:00+05:00",
-      "title": "CBS News New York 6pm",
-      "desc": "Stay informed with the latest breaking news and headlines.",
-      "date": "2008",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p605164_b_h8_ab.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-12T03:30:00+05:00",
-      "stop": "2026-05-12T04:00:00+05:00",
-      "title": "CBS Evening News",
-      "desc": "Tony Dokoupil shares the day's most important stories, delivering context and depth to bring greater understanding to one's world.",
-      "date": "2026",
-      "language": "en",
-      "categories": [
-        "Series",
-        "News"
-      ],
-      "episode": "E131",
-      "icon": "http://dtil.tmsimg.com/assets/p28807922_b_h8_ae.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Tony Dokoupil",
-          "Maurice DuBois",
-          "Jericka Duncan"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-12T04:00:00+05:00",
-      "stop": "2026-05-12T04:30:00+05:00",
-      "title": "Inside Edition",
-      "sub_title": "Father-Son Bike Trail",
-      "desc": "A father and son's bike ride took a turn when unexpected danger stopped them in their tracks.",
-      "date": "2026",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Series",
-        "Newsmagazine",
-        "Public affairs",
-        "Interview"
-      ],
-      "episode": "S38 E176",
-      "icon": "http://dtil.tmsimg.com/assets/p184110_b_h10_aa.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Eva Pilgrim",
-          "Mary Calvi",
-          "Jim Moret"
-        ]
-      }
-    },
-    {
       "start": "2026-05-12T04:30:00+05:00",
       "stop": "2026-05-12T05:00:00+05:00",
       "title": "Entertainment Tonight",
@@ -132,6 +74,73 @@
           "Tony Cavalero"
         ]
       }
+    },
+    {
+      "start": "2026-05-12T06:00:00+05:00",
+      "stop": "2026-05-12T07:00:00+05:00",
+      "title": "FBI",
+      "sub_title": "Long Shot",
+      "desc": "Following the assassination of a major corporate executive, the team races to find leaders of a dormant terrorist organization that has re-emerged; OA is temporarily reassigned after refusing to follow orders but is paired up with a familiar face.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "Series",
+        "Crime drama",
+        "Action",
+        "Thriller"
+      ],
+      "episode": "S8 E21",
+      "icon": "http://dtil.tmsimg.com/assets/p30698199_b_h8_ab.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Carlos Bernard"
+        ],
+        "actor": [
+          "Missy Peregrym",
+          "Zeeko Zaki",
+          "Jeremy Sisto"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-12T07:00:00+05:00",
+      "stop": "2026-05-12T08:00:00+05:00",
+      "title": "CIA",
+      "sub_title": "Forbidden Eye",
+      "desc": "When Colin learns his CIA mentor has gone dark, he enlists Bill and the team to help track them down; as they get closer, the operation reveals significant information about the identity of the mole.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "Series",
+        "Crime drama"
+      ],
+      "episode": "S1 E11",
+      "icon": "http://dtil.tmsimg.com/assets/p30177490_b_h8_ab.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Milena Govich"
+        ],
+        "actor": [
+          "Tom Ellis",
+          "Nick Gehlfuss",
+          "Necar Zadegan"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-12T08:00:00+05:00",
+      "stop": "2026-05-12T08:35:00+05:00",
+      "title": "CBS News New York 11pm",
+      "desc": "Local news coverage.",
+      "date": "2011",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p8492450_b_h8_ab.jpg?w=960&h=540"
     }
   ]
 }

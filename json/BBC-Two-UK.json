@@ -4,18 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-12T02:30:00+05:00",
-      "stop": "2026-05-12T03:00:00+05:00",
-      "title": "Newsnight, followed by Weather",
-      "desc": "Insights and global interviews on the news stories of the day. With Victoria Derbyshire. Followed by Weather.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/895a040e-8387-463b-80c5-6b84483e4505/16-9"
-    },
-    {
       "start": "2026-05-12T03:00:00+05:00",
       "stop": "2026-05-12T05:00:00+05:00",
       "title": "A Bigger Splash",
@@ -73,6 +61,13 @@
         "Comedy"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/280c5999-3f46-46e5-b55e-962a8a82c0dd/16-9"
+    },
+    {
+      "start": "2026-05-12T07:55:00+05:00",
+      "stop": "2026-05-12T10:15:00+05:00",
+      "title": "This is BBC Two",
+      "desc": "Highlights of programmes on BBC Two.",
+      "language": "en"
     }
   ]
 }

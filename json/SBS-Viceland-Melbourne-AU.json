@@ -4,31 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-12T03:10:00+05:00",
-      "stop": "2026-05-12T03:40:00+05:00",
-      "title": "NHK Newsline",
-      "sub_title": "Tuesday 12 May 2026",
-      "desc": "English news from Japan's Broadcasting Corporation, NHK, delivering the latest in business, technology, health, environmental and world news.",
-      "language": "en",
-      "rating": "NR",
-      "categories": [
-        "Sports"
-      ],
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/439062/image/334x188"
-    },
-    {
-      "start": "2026-05-12T03:40:00+05:00",
-      "stop": "2026-05-12T04:30:00+05:00",
-      "title": "Cbc The National",
-      "desc": "CBC's flagship nightly news with hosts Adrienne Arsenault and Andrew Chang from Toronto, Canada.",
-      "language": "en",
-      "rating": "NR",
-      "categories": [
-        "Sports"
-      ],
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/413666/image/334x188"
-    },
-    {
       "start": "2026-05-12T04:30:00+05:00",
       "stop": "2026-05-12T05:00:00+05:00",
       "title": "BBC News At Six",
@@ -79,6 +54,32 @@
       ],
       "episode": "E33",
       "icon": "https://www.fetchtv.com.au/v2/epg/program/130483/image/334x188"
+    },
+    {
+      "start": "2026-05-12T06:40:00+05:00",
+      "stop": "2026-05-12T07:10:00+05:00",
+      "title": "The Movie Show",
+      "desc": "Film review with Margaret Pomeranz and David Stratton. Covers This Won't Hurt a Bit with Chris Kennedy, Dave with Kevin Kline & Ivan Reitman, and The Nostradamus Kid with Bob Ellis.",
+      "language": "en",
+      "rating": "PG",
+      "categories": [
+        "Special Interest"
+      ],
+      "episode": "E34",
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/130483/image/334x188"
+    },
+    {
+      "start": "2026-05-12T07:10:00+05:00",
+      "stop": "2026-05-12T07:40:00+05:00",
+      "title": "DW The Day",
+      "sub_title": "Tuesday 12 May 2026",
+      "desc": "DW The Day is a news show that helps you understand emerging stories from Europe, the US and across the globe, in English, no subtitles.",
+      "language": "en",
+      "rating": "NR",
+      "categories": [
+        "Sports"
+      ],
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/436904/image/334x188"
     }
   ]
 }

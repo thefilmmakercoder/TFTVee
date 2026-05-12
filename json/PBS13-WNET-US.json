@@ -4,42 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-12T03:00:00+05:00",
-      "stop": "2026-05-12T03:30:00+05:00",
-      "title": "DW News",
-      "desc": "Presenting a round-up of the most recent news and developments from across the world.",
-      "date": "2002",
-      "language": "en",
-      "rating": "A",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p26245192_b_h10_aa.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Ben Fajzullin"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-12T03:30:00+05:00",
-      "stop": "2026-05-12T04:00:00+05:00",
-      "title": "BBC World News America",
-      "desc": "A detailed look into news stories from around the world from the BBC news desk in Washington, D.C.",
-      "date": "2026",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p32402912_b_h10_aa.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Sumi Somaskanda",
-          "Caitr\u00edona Perry"
-        ]
-      }
-    },
-    {
       "start": "2026-05-12T04:00:00+05:00",
       "stop": "2026-05-12T05:00:00+05:00",
       "title": "PBS News Hour",
@@ -119,6 +83,49 @@
       ],
       "episode": "S27 E11",
       "icon": "http://dtil.tmsimg.com/assets/p185854_b_h8_ac.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-12T08:30:00+05:00",
+      "stop": "2026-05-12T09:30:00+05:00",
+      "title": "Amanpour and Company",
+      "desc": "Christiane Amanpour leads discussions about world issues and interviews with global leaders.",
+      "date": "2026",
+      "language": "en",
+      "categories": [
+        "Series",
+        "Public affairs"
+      ],
+      "episode": "S8 E159",
+      "icon": "http://dtil.tmsimg.com/assets/p15694932_b_h8_ac.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Christiane Amanpour"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-12T09:30:00+05:00",
+      "stop": "2026-05-12T10:30:00+05:00",
+      "title": "Call the Midwife",
+      "desc": "Sister Veronica weighs her future with the Order; Dr. Turner makes a final stand against the council's news before the maternity home closes; the Mullucks campaign for the rights of all thalidomide victims.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "Series",
+        "Drama",
+        "Medical",
+        "Historical drama"
+      ],
+      "episode": "S15 E8",
+      "icon": "http://dtil.tmsimg.com/assets/p9025596_b_h8_ct.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Jennifer A Agutter",
+          "Annabelle Apsion",
+          "Linda Bassett"
+        ]
+      }
     }
   ]
 }
