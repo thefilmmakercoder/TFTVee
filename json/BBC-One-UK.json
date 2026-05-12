@@ -4,18 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-12T04:55:00+05:00",
-      "stop": "2026-05-12T05:00:00+05:00",
-      "title": "Weather for the Week Ahead",
-      "desc": "Detailed weather forecast.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/87a2a77e-3f0b-48f0-b638-36bf29be7646/16-9"
-    },
-    {
       "start": "2026-05-12T05:00:00+05:00",
       "stop": "2026-05-12T10:00:00+05:00",
       "title": "BBC News",
@@ -73,6 +61,18 @@
         "Factual"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/947d8737-ba16-3fb6-b080-d707a0a3da2f/16-9"
+    },
+    {
+      "start": "2026-05-12T16:15:00+05:00",
+      "stop": "2026-05-12T17:00:00+05:00",
+      "title": "Bargain Hunt: Art Special",
+      "desc": "Count down some of Bargain Hunt's most art-tastic purchases, with Natasha Raskin Sharp and a host of experts.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Game Show"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/3ee7ba69-e481-3877-ae19-a36c320c0402/16-9"
     }
   ]
 }

@@ -4,18 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-12T07:50:00+05:00",
-      "stop": "2026-05-12T09:05:00+05:00",
-      "title": "Unwind with ITV",
-      "desc": "Your daily escape designed to calm the mind and encourage relaxation and reflection.",
-      "language": "en",
-      "categories": [
-        "Entertainment",
-        "Lifestyles"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/a074c695-2a07-4153-b93a-e0f042735c8f/16-9"
-    },
-    {
       "start": "2026-05-12T09:05:00+05:00",
       "stop": "2026-05-12T10:00:00+05:00",
       "title": "Alan Titchmarsh's Gardening Club",
@@ -75,6 +63,18 @@
         "Chat Show"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/7ff7da3f-7a62-44d5-92de-6484e4bc32c5/16-9"
+    },
+    {
+      "start": "2026-05-12T17:30:00+05:00",
+      "stop": "2026-05-12T17:55:00+05:00",
+      "title": "ITV Lunchtime News",
+      "desc": "The latest headlines from around the world at lunchtime with reports and analysis from ITV's Correspondents, all of which are followed by a national weather forecast.",
+      "language": "en",
+      "categories": [
+        "News & Documentary",
+        "News"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/dbc86125-50d5-49d4-b496-dd0bb996d32b/16-9"
     }
   ]
 }

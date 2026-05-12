@@ -4,86 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-12T08:00:00+05:00",
-      "stop": "2026-05-12T08:34:00+05:00",
-      "title": "Live: CTV News Barrie",
-      "desc": "CTV News covers stories that matter to Canadians - locally, nationally, & internationally.",
-      "date": "2014",
-      "language": "en",
-      "rating": "TV14",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p11226354_b_h8_ad.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-12T08:34:00+05:00",
-      "stop": "2026-05-12T09:37:00+05:00",
-      "title": "The Tonight Show Starring Jimmy Fallon",
-      "sub_title": "Olivia Rodrigo; Richard Gadd; Reid Wiseman; Victor Glover; Christina Koch; Jeremy Hansen; Bruce Hornsby",
-      "desc": "Singer Olivia Rodrigo; actor Richard Gadd; NASA's Artemis II astronauts Reid Wiseman, Victor Glover, Christina Koch and Jeremy Hansen; Bruce Hornsby performs.",
-      "date": "2026",
-      "language": "en",
-      "rating": "TV14",
-      "categories": [
-        "Series",
-        "Talk",
-        "Comedy"
-      ],
-      "episode": "S13 E98",
-      "icon": "http://dtil.tmsimg.com/assets/p31242381_b_h8_ac.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Jimmy Fallon",
-          "Olivia Rodrigo",
-          "Richard Gadd"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-12T09:37:00+05:00",
-      "stop": "2026-05-12T10:07:00+05:00",
-      "title": "CTV National News With Omar Sachedina",
-      "desc": "CTV News covers stories that matter to Canadians - locally, nationally, & internationally.",
-      "date": "2026",
-      "language": "en",
-      "categories": [
-        "Series",
-        "News"
-      ],
-      "episode": "E77",
-      "icon": "http://dtil.tmsimg.com/assets/p22894284_b_h8_ab.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-12T10:07:00+05:00",
-      "stop": "2026-05-12T11:05:00+05:00",
-      "title": "Criminal Minds",
-      "sub_title": "Route 66",
-      "desc": "As Hotch fights for his life after being stabbed, he has visions of his late wife and his nemesis; when a teen goes missing, suspicions arise about her estranged father.",
-      "date": "2013",
-      "language": "en",
-      "rating": "TV14",
-      "categories": [
-        "Series",
-        "Crime drama",
-        "Mystery",
-        "Thriller",
-        "Drama"
-      ],
-      "episode": "S9 E5",
-      "icon": "http://dtil.tmsimg.com/assets/p185123_b_h8_ac.jpg?w=960&h=540",
-      "credits": {
-        "director": [
-          "Doug Aarniokoski"
-        ],
-        "actor": [
-          "Joe Mantegna",
-          "Thomas Gibson",
-          "Shemar Moore"
-        ]
-      }
-    },
-    {
       "start": "2026-05-12T11:05:00+05:00",
       "stop": "2026-05-12T12:05:00+05:00",
       "title": "Suits",
@@ -136,6 +56,86 @@
           "Amy Jo Johnson"
         ]
       }
+    },
+    {
+      "start": "2026-05-12T13:05:00+05:00",
+      "stop": "2026-05-12T13:35:00+05:00",
+      "title": "TMZ",
+      "desc": "TMZ TV tracks down today's hottest stars with their cameras, whether they are hitting the clubs or the dry cleaners.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Newsmagazine",
+        "Entertainment"
+      ],
+      "episode": "S19 E217",
+      "icon": "http://dtil.tmsimg.com/assets/p30985766_b_h10_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Harvey Levin"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-12T13:35:00+05:00",
+      "stop": "2026-05-12T14:00:00+05:00",
+      "title": "Just for Laughs: Gags",
+      "sub_title": "A Bee's Life",
+      "desc": "A look at Jesus' thoughts on adult literature and many more pranks from the masters of pranking.",
+      "date": "2013",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "Series",
+        "Comedy",
+        "Entertainment"
+      ],
+      "episode": "S13 E12",
+      "icon": "http://dtil.tmsimg.com/assets/p185761_b_h8_ad.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-12T14:00:00+05:00",
+      "stop": "2026-05-12T14:30:00+05:00",
+      "title": "The Littlest Hobo",
+      "sub_title": "Winner Take All",
+      "desc": "Hobo is reunited with an old friend who has just become the owner of a winning lottery ticket.",
+      "date": "1983",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Series",
+        "Drama",
+        "Adventure",
+        "Animals"
+      ],
+      "episode": "S4 E15",
+      "icon": "http://dtil.tmsimg.com/assets/p507740_b_h10_ac.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Allan Eastman"
+        ],
+        "actor": [
+          "Matt Craven",
+          "Jan Filips",
+          "Mimi Kuzyk"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-12T14:30:00+05:00",
+      "stop": "2026-05-12T15:00:00+05:00",
+      "title": "Paid Programming",
+      "desc": "Paid programming.",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Consumer",
+        "Shopping",
+        "Variety"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&h=540"
     }
   ]
 }

@@ -4,18 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-12T06:20:00+05:00",
-      "stop": "2026-05-12T07:20:00+05:00",
-      "title": "Art That Made Us",
-      "desc": "With the industrial revolution transforming the British Isles, the cities and country are divided, and artists respond to the upheavals to lives and the landscape.",
-      "language": "en",
-      "categories": [
-        "Entertainment",
-        "Arts"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/a04775a4-0071-4280-ab5e-8d5d6e09b6ee/16-9"
-    },
-    {
       "start": "2026-05-12T07:20:00+05:00",
       "stop": "2026-05-12T09:30:00+05:00",
       "title": "This is BBC Four",
@@ -46,6 +34,18 @@
       "title": "This is BBC Four",
       "desc": "Programmes start at 7.00pm.",
       "language": "en"
+    },
+    {
+      "start": "2026-05-12T23:00:00+05:00",
+      "stop": "2026-05-12T23:30:00+05:00",
+      "title": "University Challenge",
+      "desc": "The University of Glasgow takes on Queen's University Belfast in another first-round match in the quiz competition for students. Jeremy Paxman asks the questions.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Game Show"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/c7349b9f-29fe-41df-a8ef-707123861882/16-9"
     }
   ]
 }

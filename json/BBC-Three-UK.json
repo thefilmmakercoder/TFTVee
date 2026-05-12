@@ -4,17 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-12T07:30:00+05:00",
-      "stop": "2026-05-12T08:00:00+05:00",
-      "title": "Charlotte in Sunderland",
-      "desc": "Jake and Charlotte travel to Australia for work, missing Letitia's crucial mammogram. Contains some strong language.",
-      "language": "en",
-      "categories": [
-        "Entertainment"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/1f3d41b7-cf07-3a0d-87cb-129357779038/16-9"
-    },
-    {
       "start": "2026-05-12T08:00:00+05:00",
       "stop": "2026-05-12T09:30:00+05:00",
       "title": "This is BBC Three",
@@ -45,6 +34,18 @@
       "title": "This is BBC Three",
       "desc": "Programmes start at 7.00pm.",
       "language": "en"
+    },
+    {
+      "start": "2026-05-12T23:00:00+05:00",
+      "stop": "2026-05-12T23:05:00+05:00",
+      "title": "The Catch Up",
+      "desc": "A round-up of the day's news.",
+      "language": "en",
+      "categories": [
+        "News & Documentary",
+        "News"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/03da30f6-1f6e-479b-ae75-f9ea6b34d192/16-9"
     }
   ]
 }
