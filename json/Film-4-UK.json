@@ -4,17 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-12T07:40:00+05:00",
-      "stop": "2026-05-12T11:00:00+05:00",
-      "title": "Teleshopping",
-      "desc": "Teleshopping.",
-      "language": "en",
-      "categories": [
-        "Specialist",
-        "Shopping"
-      ]
-    },
-    {
       "start": "2026-05-12T11:00:00+05:00",
       "stop": "2026-05-12T15:00:00+05:00",
       "title": "Teleshopping",
@@ -80,6 +69,20 @@
         "War"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/9d1150f7-bb43-403e-b602-0b0d651be3b7/16-9"
+    },
+    {
+      "start": "2026-05-12T23:10:00+05:00",
+      "stop": "2026-05-13T01:00:00+05:00",
+      "title": "Jerry & Marge Go Large",
+      "desc": "Fact-based comedy starring Bryan Cranston and Annette Bening as a retired couple who find a way to exploit a lottery loophole. But then some rich kids try to muscle in..",
+      "date": "2022",
+      "language": "en",
+      "rating": "PG",
+      "categories": [
+        "Movie",
+        "Comedy"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/d6a9bcbe-62fc-481f-ae8a-0fd12a9f5284/16-9"
     }
   ]
 }

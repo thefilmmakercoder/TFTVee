@@ -4,70 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-12T11:30:00+05:00",
-      "stop": "2026-05-12T12:00:00+05:00",
-      "title": "Paid Programming",
-      "desc": "Paid programming.",
-      "language": "en",
-      "rating": "TVG",
-      "categories": [
-        "Consumer",
-        "Shopping",
-        "Variety"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-12T12:00:00+05:00",
-      "stop": "2026-05-12T12:30:00+05:00",
-      "title": "Paid Programming",
-      "desc": "Paid programming.",
-      "language": "en",
-      "rating": "TVG",
-      "categories": [
-        "Consumer",
-        "Shopping",
-        "Variety"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-12T12:30:00+05:00",
-      "stop": "2026-05-12T13:00:00+05:00",
-      "title": "Peter Popoff Ministries",
-      "desc": "For over 30 years, Reverend Peter Popoff has provided spiritual direction and powerful testimonies to receive God's blessings in your life.",
-      "language": "en",
-      "categories": [
-        "Consumer"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p12072954_b_h10_aa.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-12T13:00:00+05:00",
-      "stop": "2026-05-12T13:30:00+05:00",
-      "title": "Good Night New York",
-      "desc": "Christal Young and Ryan Kristafer's edgy perspective on entertainment and lifestyle news in NYC and beyond.",
-      "date": "2024",
-      "language": "en",
-      "rating": "TV14",
-      "categories": [
-        "Newsmagazine"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p27878460_b_h8_aa.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-12T13:30:00+05:00",
-      "stop": "2026-05-12T14:00:00+05:00",
-      "title": "Good Day Wake Up",
-      "desc": "Morning news coverage.",
-      "date": "2009",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p706488_b_h8_ab.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-05-12T14:00:00+05:00",
       "stop": "2026-05-12T15:00:00+05:00",
       "title": "Good Day Wake Up",
@@ -78,6 +14,84 @@
         "News"
       ],
       "icon": "http://dtil.tmsimg.com/assets/p706488_b_h8_ab.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-12T15:00:00+05:00",
+      "stop": "2026-05-12T16:00:00+05:00",
+      "title": "Good Day Wake Up 2",
+      "desc": "Morning news and entertainment.",
+      "date": "2009",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p706489_b_h8_ab.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-12T16:00:00+05:00",
+      "stop": "2026-05-12T18:00:00+05:00",
+      "title": "Good Day New York",
+      "desc": "Morning news.",
+      "date": "2007",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p706448_b_h8_ab.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-12T18:00:00+05:00",
+      "stop": "2026-05-12T19:00:00+05:00",
+      "title": "Good Day New York",
+      "desc": "Morning news.",
+      "date": "2007",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p706448_b_h8_ab.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-12T19:00:00+05:00",
+      "stop": "2026-05-12T20:00:00+05:00",
+      "title": "Sherri",
+      "desc": "Actress, comic and Emmy Award-winning longtime co-host of \"The View\" Sherri Shepherd appears before a live audience with a daily dose of pop culture, comedy, conversations and daytime talk staples, including celebrity and human-interest interviews.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Talk",
+        "Interview"
+      ],
+      "episode": "S4 E130",
+      "icon": "http://dtil.tmsimg.com/assets/p21805765_b_h8_ab.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Sherri Shepherd"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-12T20:00:00+05:00",
+      "stop": "2026-05-12T21:00:00+05:00",
+      "title": "The Jennifer Hudson Show",
+      "desc": "Actress Jenifer Lewis stops by for a special musical moment with Jennifer; after unimaginable loss and life-threatening health complications, Jennifer and Cesar Parra opened their hearts and built the family they always dreamed of through foster care and adoption -- proving that love, not only blood, is what truly makes a family whole.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Talk"
+      ],
+      "episode": "S4 E135",
+      "icon": "http://dtil.tmsimg.com/assets/p31041660_b_h8_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Jennifer Hudson",
+          "Jenifer Lewis"
+        ]
+      }
     }
   ]
 }
