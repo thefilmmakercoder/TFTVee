@@ -4,8 +4,40 @@
   ],
   "programs": [
     {
-      "start": "2026-05-12T04:30:00+05:00",
-      "stop": "2026-05-12T05:00:00+05:00",
+      "start": "2026-05-12T08:00:00+05:00",
+      "stop": "2026-05-12T09:00:00+05:00",
+      "title": "Dream Cruises",
+      "sub_title": "Belle De L'adriatique",
+      "desc": "Custom-built to navigate the Adriatic Sea and the Dalmatian Coast, the Belle de L'Adriatique sails along the Croatian coast; ports-of-call are Dubrovnik, Split, Hvar and Korcula.",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Travel",
+        "Documentary"
+      ],
+      "episode": "S2 E15",
+      "icon": "http://dtil.tmsimg.com/assets/p9789899_b_h10_ae.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-12T09:00:00+05:00",
+      "stop": "2026-05-12T09:30:00+05:00",
+      "title": "Travel in Style",
+      "sub_title": "Florence & Brittany",
+      "desc": "Visiting Michelangelo's David in Florence, Italy; silk factories; a gastronomic tour of Brittany.",
+      "date": "2016",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Series",
+        "Travel"
+      ],
+      "episode": "S3 E11",
+      "icon": "http://dtil.tmsimg.com/assets/p9447816_b_h10_aa.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-12T09:30:00+05:00",
+      "stop": "2026-05-12T10:00:00+05:00",
       "title": "Private Islands",
       "sub_title": "Hawaii",
       "desc": "Host Amber Wyatt tours Lanai, where Hawaiian history and culture mixes with five-star modern luxury on this exclusive island getaway.",
@@ -20,8 +52,8 @@
       "icon": "http://dtil.tmsimg.com/assets/p865073_b_h10_ab.jpg?w=960&h=540"
     },
     {
-      "start": "2026-05-12T05:00:00+05:00",
-      "stop": "2026-05-12T05:30:00+05:00",
+      "start": "2026-05-12T10:00:00+05:00",
+      "stop": "2026-05-12T10:30:00+05:00",
       "title": "Behind the Gates",
       "sub_title": "Hidden Hills",
       "desc": "A tour of a Spanish home; a modern pad on the water with spectacular views; a home that sits on the highest point of Hidden Hills, Calabasas.",
@@ -37,8 +69,8 @@
       "icon": "http://dtil.tmsimg.com/assets/p13227213_b_h10_ab.jpg?w=960&h=540"
     },
     {
-      "start": "2026-05-12T05:30:00+05:00",
-      "stop": "2026-05-12T06:00:00+05:00",
+      "start": "2026-05-12T10:30:00+05:00",
+      "stop": "2026-05-12T11:00:00+05:00",
       "title": "Travel Thru History",
       "sub_title": "San Antonio",
       "desc": "The Alamo, Missions National Historical Park, and the Natural Bridge Caverns underground.",
@@ -53,53 +85,21 @@
       "icon": "http://dtil.tmsimg.com/assets/p13037047_b_h8_aa.jpg?w=960&h=540"
     },
     {
-      "start": "2026-05-12T06:00:00+05:00",
-      "stop": "2026-05-12T07:00:00+05:00",
-      "title": "Dream Cruises",
-      "sub_title": "Meraviglia",
-      "desc": "A look at what are considered to be some of the best cruises in the world.",
-      "date": "2020",
+      "start": "2026-05-12T11:00:00+05:00",
+      "stop": "2026-05-12T12:00:00+05:00",
+      "title": "5 Star Getaways",
+      "sub_title": "Portugal",
+      "desc": "This series is a sun-filled invitation to travel and visit magnificent all-inclusive 5 star resorts throughout the world, their magnificent surroundings and the exciting excursions one can do at each destination.",
+      "date": "2021",
       "language": "en",
       "rating": "TVG",
       "categories": [
         "Series",
         "Travel",
-        "Documentary"
+        "Entertainment"
       ],
-      "icon": "http://dtil.tmsimg.com/assets/p9789899_b_h10_ae.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-12T07:00:00+05:00",
-      "stop": "2026-05-12T07:30:00+05:00",
-      "title": "Selling Mega Mansions",
-      "sub_title": "Dallas and Miami",
-      "desc": "Tara West helps buyers Mark and Tasha search for their dream home; Kevin Tally and JD Gonzales show their clients another property.",
-      "date": "2017",
-      "language": "en",
-      "rating": "TVG",
-      "categories": [
-        "Series",
-        "House/garden"
-      ],
-      "episode": "S1 E12 P1/2",
-      "icon": "http://dtil.tmsimg.com/assets/p12720929_b_h10_ab.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-12T07:30:00+05:00",
-      "stop": "2026-05-12T08:00:00+05:00",
-      "title": "Find Me a Luxury Home",
-      "sub_title": "Amanda",
-      "desc": "Canadian fitness expert Amanda is about to make a big move to Southern California and sees three homes in a few upscale L.A. neighborhoods.",
-      "date": "2018",
-      "language": "en",
-      "rating": "TVG",
-      "categories": [
-        "Series",
-        "Home improvement",
-        "House/garden"
-      ],
-      "episode": "S1 E13",
-      "icon": "http://dtil.tmsimg.com/assets/p14589458_b_h10_aa.jpg?w=960&h=540"
+      "episode": "E5",
+      "icon": "http://dtil.tmsimg.com/assets/p18726350_b_h8_aa.jpg?w=960&h=540"
     }
   ]
 }

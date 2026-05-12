@@ -4,10 +4,10 @@
   ],
   "programs": [
     {
-      "start": "2026-05-12T04:05:00+05:00",
-      "stop": "2026-05-12T05:00:00+05:00",
+      "start": "2026-05-12T08:10:00+05:00",
+      "stop": "2026-05-12T09:00:00+05:00",
       "title": "Who Wants to Be a Millionaire With Jeremy Clarkson",
-      "desc": "Jeremy Clarkson, former host of 'Top Gear', presents a refreshed version of the iconic game show, in which correct answers to 12 questions guarantee participants a prize of one million pounds.",
+      "desc": "Jeremy Clarkson, former host of 'Top Gear', presents a refreshed version of the cult game show, in which correct answers to 12 questions guarantee participants a prize of one million pounds.",
       "date": "2020",
       "language": "en",
       "categories": [
@@ -16,31 +16,60 @@
       "episode": "S4E3"
     },
     {
-      "start": "2026-05-12T05:00:00+05:00",
-      "stop": "2026-05-12T05:50:00+05:00",
+      "start": "2026-05-12T09:00:00+05:00",
+      "stop": "2026-05-12T10:00:00+05:00",
       "title": "Impossible Engineering",
       "date": "2017",
       "language": "en",
       "categories": [
         "Documentary Series"
       ],
-      "episode": "S3E7"
+      "episode": "S3E8"
     },
     {
-      "start": "2026-05-12T05:50:00+05:00",
-      "stop": "2026-05-12T06:40:00+05:00",
-      "title": "Top Gear: Planes, Trains and Automobiles",
-      "desc": "A carefully selected compilation of fragments of 'Top Gear' episodes, in which Clarkson, Hammond and May travel across land and space by all possible means of transport.",
-      "date": "2019",
+      "start": "2026-05-12T10:00:00+05:00",
+      "stop": "2026-05-12T11:15:00+05:00",
+      "title": "Top Gear",
+      "desc": "The next, nineteenth series of the popular automotive program, presented by Jeremy Clarkson, Richard Hammond and James May.",
+      "date": "2012",
       "language": "en",
       "categories": [
         "Automotive Magazine"
       ],
-      "episode": "E1"
+      "episode": "S19E2",
+      "credits": {
+        "director": [
+          "Brian Klein"
+        ]
+      }
     },
     {
-      "start": "2026-05-12T06:40:00+05:00",
-      "stop": "2026-05-12T07:25:00+05:00",
+      "start": "2026-05-12T11:15:00+05:00",
+      "stop": "2026-05-12T12:20:00+05:00",
+      "title": "Top Gear",
+      "desc": "The premiere series of an automotive show.We will see new tests and new guests.",
+      "date": "2008",
+      "language": "en",
+      "categories": [
+        "Automotive Magazine"
+      ],
+      "episode": "S12E2"
+    },
+    {
+      "start": "2026-05-12T12:20:00+05:00",
+      "stop": "2026-05-12T13:25:00+05:00",
+      "title": "The Best of Top Gear Series 31 \\u0026 32",
+      "desc": "Freddie Flintoff, Chris Harris and Paddy McGuinness go to Florida, known as the home of amateur racing.They test old police cars and suggest which new cars could function as them.",
+      "date": "2022",
+      "language": "en",
+      "categories": [
+        "Automotive Magazine"
+      ],
+      "episode": "E4"
+    },
+    {
+      "start": "2026-05-12T13:25:00+05:00",
+      "stop": "2026-05-12T14:25:00+05:00",
       "title": "Richard Hammond's Workshop",
       "desc": "Richard Hammond invites you behind the scenes of his workshop specializing in the restoration of classic cars.",
       "date": "2025",
@@ -49,35 +78,6 @@
         "Documentary Series"
       ],
       "episode": "S5E8"
-    },
-    {
-      "start": "2026-05-12T07:25:00+05:00",
-      "stop": "2026-05-12T08:10:00+05:00",
-      "title": "The Weakest Link Celebrity Specials",
-      "desc": "Comedian Romesh Ranganathan hosts a quiz in which contestants have to create a chain of correct answers.After each round, one person considered by the team to be the weakest link is eliminated.",
-      "date": "2025",
-      "language": "en",
-      "categories": [
-        "Game Show"
-      ],
-      "episode": "S4E2",
-      "credits": {
-        "director": [
-          "Derek Hallworth"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-12T08:10:00+05:00",
-      "stop": "2026-05-12T09:00:00+05:00",
-      "title": "Who Wants to Be a Millionaire With Jeremy Clarkson",
-      "desc": "Jeremy Clarkson, former host of 'Top Gear', presents a refreshed version of the iconic game show, in which correct answers to 12 questions guarantee participants a prize of one million pounds.",
-      "date": "2020",
-      "language": "en",
-      "categories": [
-        "Game Show"
-      ],
-      "episode": "S4E3"
     }
   ]
 }
