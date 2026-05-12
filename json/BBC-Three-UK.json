@@ -4,12 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-12T09:30:00+05:00",
-      "stop": "2026-05-12T15:30:00+05:00",
-      "title": "..programmes start at 7.00pm",
-      "language": "en"
-    },
-    {
       "start": "2026-05-12T15:30:00+05:00",
       "stop": "2026-05-12T21:30:00+05:00",
       "title": "..programmes start at 7.00pm",
@@ -51,6 +45,18 @@
         "Children"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/9a615372-c700-3074-a261-439533dda12f/16-9"
+    },
+    {
+      "start": "2026-05-12T23:30:00+05:00",
+      "stop": "2026-05-13T00:00:00+05:00",
+      "title": "Deadly 60",
+      "sub_title": "Cheetah Special",
+      "desc": "Steve Backshall tracks cheetahs across Zambia by motorbike, witnessing epic hunting and the challenges faced by this endangered predator.",
+      "language": "en",
+      "categories": [
+        "Children"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/37433228-f030-4b9f-b75d-d92e79073398/16-9"
     }
   ]
 }
