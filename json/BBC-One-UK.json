@@ -4,30 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-12T23:30:00+05:00",
-      "stop": "2026-05-13T00:00:00+05:00",
-      "title": "EastEnders",
-      "desc": "Bea finds herself in hot water, Mark tries to ask for help, and George and Nicola face questions from their family.",
-      "language": "en",
-      "categories": [
-        "Entertainment",
-        "Soap"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/0ff2d4d7-27a1-40ac-ae4b-eebeeaa915c3/16-9"
-    },
-    {
-      "start": "2026-05-13T00:00:00+05:00",
-      "stop": "2026-05-13T02:15:00+05:00",
-      "title": "Eurovision Song Contest Semi-Final 1, 2026",
-      "desc": "Rylan and Angela Scanlon are live from Vienna for the first semi-final of Eurovision 2026. Contains scenes of flashing images.",
-      "language": "en",
-      "categories": [
-        "Entertainment",
-        "Game Show"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/33545aac-3412-480c-999f-a2e423bfe3ec/16-9"
-    },
-    {
       "start": "2026-05-13T02:15:00+05:00",
       "stop": "2026-05-13T02:45:00+05:00",
       "title": "BBC News and Weather",
@@ -74,6 +50,30 @@
         "Game Show"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/a4b73c3b-3041-4ac8-8ae1-a6f7013c6d1c/16-9"
+    },
+    {
+      "start": "2026-05-13T04:35:00+05:00",
+      "stop": "2026-05-13T04:40:00+05:00",
+      "title": "Weather for the Week Ahead",
+      "desc": "Detailed weather forecast.",
+      "language": "en",
+      "categories": [
+        "News & Documentary",
+        "News"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/f68c1375-6d1e-4b6c-ae20-0bd425d1e490/16-9"
+    },
+    {
+      "start": "2026-05-13T04:40:00+05:00",
+      "stop": "2026-05-13T10:00:00+05:00",
+      "title": "BBC News",
+      "desc": "BBC One joins the BBC's rolling news channel for a night of news.",
+      "language": "en",
+      "categories": [
+        "News & Documentary",
+        "News"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/158071d0-1887-4aae-8974-bb38384b41c3/16-9"
     }
   ]
 }
