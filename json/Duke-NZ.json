@@ -4,24 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-12T13:00:00+05:00",
-      "stop": "2026-05-12T13:30:00+05:00",
-      "title": "Family Guy",
-      "sub_title": "Lois Comes Out Of Her Shell",
-      "desc": "Lois experiences a mid-life crisis and decides to become youthful once more, but Peter struggles tries to keep up with her new, wild lifestyle.",
-      "language": "en",
-      "rating": "PG-C"
-    },
-    {
-      "start": "2026-05-12T13:30:00+05:00",
-      "stop": "2026-05-12T15:50:00+05:00",
-      "title": "Movie: Atomic Blonde",
-      "sub_title": "Atomic Blonde",
-      "desc": "MI6's most lethal assassin is sent on a covert mission into Cold War Berlin, she must use all of the spycraft, sensuality and savagery she has to stay alive. Starring Charlize Theron..",
-      "language": "en",
-      "rating": "16-VLS"
-    },
-    {
       "start": "2026-05-12T15:50:00+05:00",
       "stop": "2026-05-12T16:50:00+05:00",
       "title": "Outrageous Fortune",
@@ -54,6 +36,23 @@
       "title": "Duke - Back In The Future",
       "desc": "We'll catch you later on DUKE.",
       "language": "en"
+    },
+    {
+      "start": "2026-05-12T23:00:00+05:00",
+      "stop": "2026-05-13T04:20:00+05:00",
+      "title": "On Duke Today...",
+      "desc": "Here's what's on DUKE today.",
+      "language": "en"
+    },
+    {
+      "start": "2026-05-13T04:20:00+05:00",
+      "stop": "2026-05-13T04:45:00+05:00",
+      "title": "The Simpsons",
+      "sub_title": "Portrait Of A Lackey On Fire",
+      "desc": "Smithers finds true love with a famous fashion designer, but his new relationship may destroy Springfield.",
+      "language": "en",
+      "rating": "PG",
+      "episode": "S33 E8"
     }
   ]
 }

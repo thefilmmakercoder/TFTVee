@@ -4,17 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-12T11:00:00+05:00",
-      "stop": "2026-05-12T15:00:00+05:00",
-      "title": "Teleshopping",
-      "desc": "Teleshopping.",
-      "language": "en",
-      "categories": [
-        "Specialist",
-        "Shopping"
-      ]
-    },
-    {
       "start": "2026-05-12T15:00:00+05:00",
       "stop": "2026-05-12T16:45:00+05:00",
       "title": "The Virginian",
@@ -83,6 +72,20 @@
         "Comedy"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/d6a9bcbe-62fc-481f-ae8a-0fd12a9f5284/16-9"
+    },
+    {
+      "start": "2026-05-13T01:00:00+05:00",
+      "stop": "2026-05-13T03:10:00+05:00",
+      "title": "Venom",
+      "desc": "Dark sci-fi action with Tom Hardy as Marvel's anti-hero. A reporter becomes inhabited by a ferocious extraterrestrial that has its own ideas on how to behave. With Michelle Williams.",
+      "date": "2018",
+      "language": "en",
+      "rating": "15",
+      "categories": [
+        "Movie",
+        "Sci-Fi"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/f838b095-3c71-4de3-a092-07b22d2103e9/16-9"
     }
   ]
 }

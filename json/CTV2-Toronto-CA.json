@@ -4,46 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-12T14:30:00+05:00",
-      "stop": "2026-05-12T15:00:00+05:00",
-      "title": "Paid Programming",
-      "desc": "Paid programming.",
-      "language": "en",
-      "rating": "TVG",
-      "categories": [
-        "Consumer",
-        "Shopping",
-        "Variety"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-12T15:00:00+05:00",
-      "stop": "2026-05-12T15:40:00+05:00",
-      "title": "CTV News Barrie",
-      "desc": "CTV News covers stories that matter to Canadians - locally, nationally, & internationally.",
-      "date": "2014",
-      "language": "en",
-      "rating": "TV14",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p11226354_b_h8_ad.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-12T15:40:00+05:00",
-      "stop": "2026-05-12T16:20:00+05:00",
-      "title": "CTV News Barrie",
-      "desc": "CTV News covers stories that matter to Canadians - locally, nationally, & internationally.",
-      "date": "2014",
-      "language": "en",
-      "rating": "TV14",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p11226354_b_h8_ad.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-05-12T16:20:00+05:00",
       "stop": "2026-05-12T17:00:00+05:00",
       "title": "CTV News Barrie",
@@ -109,6 +69,71 @@
           "Hadley Kay",
           "Don Lake",
           "Nonnie Griffin"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-12T18:00:00+05:00",
+      "stop": "2026-05-12T18:30:00+05:00",
+      "title": "The Littlest Hobo",
+      "sub_title": "The Five Labours of Hercules",
+      "desc": "Hobo helps a disabled boy (Hadley Kay) earn enough money to buy his own puppy by starting a dog-sitting service.",
+      "date": "1983",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Series",
+        "Drama",
+        "Adventure",
+        "Animals"
+      ],
+      "episode": "S4 E18 P2/2",
+      "icon": "http://dtil.tmsimg.com/assets/p507740_b_h10_ac.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Mario Azzopardi"
+        ],
+        "actor": [
+          "Brian George",
+          "Eric Fink",
+          "Linda Goranson"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-12T18:30:00+05:00",
+      "stop": "2026-05-12T19:00:00+05:00",
+      "title": "Paid Programming",
+      "desc": "Paid programming.",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Consumer",
+        "Shopping",
+        "Variety"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-12T19:00:00+05:00",
+      "stop": "2026-05-12T19:30:00+05:00",
+      "title": "Corner Gas",
+      "sub_title": "No Time Like the Presents",
+      "desc": "Emma goes Christmas shopping early making everyone curious to find out what they are getting.",
+      "date": "2008",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Sitcom"
+      ],
+      "episode": "S5 E15",
+      "icon": "http://dtil.tmsimg.com/assets/p8495814_b_h10_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Brent Butt",
+          "Eric Peterson",
+          "Janet Wright"
         ]
       }
     }

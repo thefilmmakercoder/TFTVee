@@ -4,74 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-12T14:07:00+05:00",
-      "stop": "2026-05-12T14:37:00+05:00",
-      "title": "NBC Nightly News With Tom Llamas",
-      "desc": "Tom Llamas anchors the latest news, going beyond the headlines to see how lives are affected by the world around them.",
-      "date": "2026",
-      "language": "en",
-      "categories": [
-        "Series",
-        "News"
-      ],
-      "episode": "S2 E122",
-      "icon": "http://dtil.tmsimg.com/assets/p30141511_b_h8_aa.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Tom Llamas"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-12T14:37:00+05:00",
-      "stop": "2026-05-12T15:30:00+05:00",
-      "title": "The Kelly Clarkson Show",
-      "desc": "Kellyoke: \"Austin (Boots Stop Workin')\"; Luke Evans and Stephanie Hsu; Isa Briones; Shea McGee; Ghost Hounds perform; Hope Scarves.",
-      "date": "2026",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Series",
-        "Talk",
-        "Variety",
-        "Entertainment"
-      ],
-      "episode": "S7 E133",
-      "icon": "http://dtil.tmsimg.com/assets/p16993616_b_h8_af.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Kelly Clarkson",
-          "Luke Evans",
-          "Stephanie Hsu"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-12T15:30:00+05:00",
-      "stop": "2026-05-12T16:00:00+05:00",
-      "title": "Early Today",
-      "desc": "This early-morning news covers overnight events, breaking domestic and international news as well as a preview of the day's anticipated events. The program also presents regular reports from the worlds of business, entertainment and sports.",
-      "date": "1999",
-      "language": "en",
-      "rating": "TVG",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p185301_b_h8_ag.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-12T16:00:00+05:00",
-      "stop": "2026-05-12T16:30:00+05:00",
-      "title": "Today in LA @ 4AM",
-      "desc": "The latest local news, weather and investigative stories impacting the community.",
-      "date": "2020",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p18627049_b_h10_ab.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-05-12T16:30:00+05:00",
       "stop": "2026-05-12T17:00:00+05:00",
       "title": "Today in LA @ 4:30AM",
@@ -94,6 +26,87 @@
         "News"
       ],
       "icon": "http://dtil.tmsimg.com/assets/p18627056_b_h10_ab.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-12T18:00:00+05:00",
+      "stop": "2026-05-12T19:00:00+05:00",
+      "title": "Today in LA @ 6AM",
+      "desc": "The latest local news, weather and investigative stories impacting the community.",
+      "date": "2020",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p18627061_b_h10_ab.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-12T19:00:00+05:00",
+      "stop": "2026-05-12T21:00:00+05:00",
+      "title": "Today",
+      "desc": "Sports Illustrated swimsuit cover reveal; medicine and health products with Shanley Chien; viral Amazon finds with Chassie Post; Today Food with Hillary Sperling.",
+      "date": "2026",
+      "language": "en",
+      "rating": "G",
+      "categories": [
+        "Series",
+        "Talk",
+        "News",
+        "Public affairs"
+      ],
+      "episode": "S74 E196",
+      "icon": "http://dtil.tmsimg.com/assets/p30939383_b_h8_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Savannah Guthrie",
+          "Craig Melvin",
+          "Al Roker"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-12T21:00:00+05:00",
+      "stop": "2026-05-12T22:00:00+05:00",
+      "title": "Today 3rd Hour",
+      "desc": "Journalist Joanna Stern; Sports Illustrated swimsuit cover reveal; actress Emily Blunt; specialist in fluency disorders Heather Grossman; actor Scott Foley; Today Food with Billy Dec.",
+      "date": "2026",
+      "language": "en",
+      "categories": [
+        "Series",
+        "Talk",
+        "News"
+      ],
+      "episode": "S8 E166",
+      "icon": "http://dtil.tmsimg.com/assets/p30939266_b_h8_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Craig Melvin",
+          "Al Roker",
+          "Dylan Dreyer"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-12T22:00:00+05:00",
+      "stop": "2026-05-12T23:00:00+05:00",
+      "title": "Today With Jenna & Sheinelle",
+      "desc": "Sports Illustrated swimsuit cover model; psychotherapist Esther Perel; rapper Rick Ross; author Shannon Garvey.",
+      "date": "2026",
+      "language": "en",
+      "categories": [
+        "Series",
+        "Talk",
+        "Newsmagazine",
+        "Entertainment"
+      ],
+      "episode": "S1 E86",
+      "icon": "http://dtil.tmsimg.com/assets/p31933424_b_h8_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Jenna Bush-Hager",
+          "Sheinelle Jones",
+          "Esther Perel"
+        ]
+      }
     }
   ]
 }

@@ -4,13 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-12T08:00:00+05:00",
-      "stop": "2026-05-12T09:30:00+05:00",
-      "title": "This is BBC Three",
-      "desc": "Programmes start at 7.00pm.",
-      "language": "en"
-    },
-    {
       "start": "2026-05-12T09:30:00+05:00",
       "stop": "2026-05-12T15:30:00+05:00",
       "title": "..programmes start at 7.00pm",
@@ -46,6 +39,18 @@
         "News"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/03da30f6-1f6e-479b-ae75-f9ea6b34d192/16-9"
+    },
+    {
+      "start": "2026-05-12T23:05:00+05:00",
+      "stop": "2026-05-12T23:30:00+05:00",
+      "title": "Deadly 60",
+      "sub_title": "Mexico Mayhem",
+      "desc": "Steve goes in search of ocean acrobats, mischievous coyotes and deadlies in miniature - but he ends up having an encounter with a humpback whale he will never forget.",
+      "language": "en",
+      "categories": [
+        "Children"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/9a615372-c700-3074-a261-439533dda12f/16-9"
     }
   ]
 }
