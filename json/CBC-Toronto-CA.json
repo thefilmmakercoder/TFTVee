@@ -4,88 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-12T21:00:00+05:00",
-      "stop": "2026-05-12T22:00:00+05:00",
-      "title": "Live: CBC Newsroom",
-      "desc": "News program bringing Canadians breaking news and live coverage from across Canada and around the world.",
-      "date": "2017",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p14555206_b_h8_af.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-12T22:00:00+05:00",
-      "stop": "2026-05-12T23:00:00+05:00",
-      "title": "Escape to the Country",
-      "sub_title": "County Antrim and County Down",
-      "desc": "It's an emotional homecoming for Jules Hudson as he visits County Down and County Antrim; he's with a couple who want to relocate there after a lifetime spent in the Canadian city of Toronto.",
-      "date": "2024",
-      "language": "en",
-      "rating": "TVG",
-      "categories": [
-        "Series",
-        "House/garden",
-        "Home improvement",
-        "Bus./financial"
-      ],
-      "episode": "S24 E45",
-      "icon": "http://dtil.tmsimg.com/assets/p379352_b_h10_bn.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Jules Hudson"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-12T23:00:00+05:00",
-      "stop": "2026-05-12T23:30:00+05:00",
-      "title": "Coronation Street",
-      "desc": "Todd struggles to get back to normality, and Carl gives his decision on Ronnie's offer.",
-      "date": "2026",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Series",
-        "Soap",
-        "Drama",
-        "Romance"
-      ],
-      "episode": "E76",
-      "icon": "http://dtil.tmsimg.com/assets/p31898227_b_h11_aa.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Tanisha Gorey",
-          "Aaron McCusker",
-          "Jane Hazlegrove"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-12T23:30:00+05:00",
-      "stop": "2026-05-13T00:00:00+05:00",
-      "title": "Schitt's Creek",
-      "sub_title": "Ronnie's Party",
-      "desc": "Johnny and Moira meet with a key demographic; Alexis struggles with her new job; David offers emotional support to his boss' daughter.",
-      "date": "2016",
-      "language": "en",
-      "rating": "TV14",
-      "categories": [
-        "Series",
-        "Sitcom"
-      ],
-      "episode": "S2 E10",
-      "icon": "http://dtil.tmsimg.com/assets/p11311723_b_h8_ak.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Eugene Levy",
-          "Catherine O'Hara",
-          "Annie Murphy"
-        ]
-      }
-    },
-    {
       "start": "2026-05-13T00:00:00+05:00",
       "stop": "2026-05-13T01:00:00+05:00",
       "title": "Murdoch Mysteries",
@@ -133,6 +51,89 @@
           "Jennifer A Agutter",
           "Linda Bassett",
           "Helen George"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-13T02:00:00+05:00",
+      "stop": "2026-05-13T03:00:00+05:00",
+      "title": "The Great British Baking Show",
+      "sub_title": "Chocolate Week",
+      "desc": "The chefs hope to score points with gooey brownies, get twisted over chocolate babkas and beat the heat with white chocolate-tiered celebration cakes.",
+      "date": "2020",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Competition Reality",
+        "Cooking"
+      ],
+      "episode": "S11 E4",
+      "icon": "http://dtil.tmsimg.com/assets/p8251114_b_h8_dj.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Jeanette Goulbourn"
+        ],
+        "actor": [
+          "Paul Hollywood",
+          "Prue Leith",
+          "Noel Fielding"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-13T03:00:00+05:00",
+      "stop": "2026-05-13T04:00:00+05:00",
+      "title": "Live: CBC Toronto News",
+      "desc": "Dwight Drummond and team take a comprehensive look at the top stories, with breaking news, reports and updates relevant to the city of Toronto.",
+      "date": "2016",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p12466091_b_h10_ac.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Dwight Drummond"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-13T04:00:00+05:00",
+      "stop": "2026-05-13T06:30:00+05:00",
+      "title": "Live: NHL Hockey",
+      "desc": "Eastern Conference Second Round, Game 4.",
+      "language": "en",
+      "categories": [
+        "Sports",
+        "Playoff sports",
+        "Hockey"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/GNLZZGG0033NSK1.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-13T06:30:00+05:00",
+      "stop": "2026-05-13T07:00:00+05:00",
+      "title": "Son of a Critch",
+      "sub_title": "Family Tree",
+      "desc": "Mark uncovers dark family secrets when he researches the Critch family tree; a death in the family causes Pop to reassess his relationship with his son.",
+      "date": "2023",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Sitcom"
+      ],
+      "episode": "S2 E5",
+      "icon": "http://dtil.tmsimg.com/assets/p21339232_b_h8_am.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Deanne Foley"
+        ],
+        "actor": [
+          "Benjamin Evan Ainsworth",
+          "Mark Critch",
+          "Malcolm McDowell"
         ]
       }
     }

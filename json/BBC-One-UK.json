@@ -4,41 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-12T22:00:00+05:00",
-      "stop": "2026-05-12T22:30:00+05:00",
-      "title": "BBC News",
-      "desc": "The latest national and international news from the BBC.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/20ada5ef-5f54-40b2-b717-6eac39ddd5da/16-9"
-    },
-    {
-      "start": "2026-05-12T22:30:00+05:00",
-      "stop": "2026-05-12T23:00:00+05:00",
-      "title": "BBC London News",
-      "desc": "The latest news, sport and weather from London.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/47b21e3e-5784-4243-8203-9ce6b2036581/16-9"
-    },
-    {
-      "start": "2026-05-12T23:00:00+05:00",
-      "stop": "2026-05-12T23:30:00+05:00",
-      "title": "The One Show",
-      "desc": "Alex Jones and Roman Kemp bring you the stories that matter from across the country.",
-      "language": "en",
-      "categories": [
-        "Entertainment"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/76fe8c87-e552-468e-a50e-fa740ffa5c9c/16-9"
-    },
-    {
       "start": "2026-05-12T23:30:00+05:00",
       "stop": "2026-05-13T00:00:00+05:00",
       "title": "EastEnders",
@@ -73,6 +38,42 @@
         "News"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/6d6f037c-6f08-4b0c-9cd1-2b52dd09cdaa/16-9"
+    },
+    {
+      "start": "2026-05-13T02:45:00+05:00",
+      "stop": "2026-05-13T02:55:00+05:00",
+      "title": "BBC London News",
+      "desc": "The latest news, sport and weather from London.",
+      "language": "en",
+      "categories": [
+        "News & Documentary",
+        "News"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/2fe8e148-f47d-4858-8bd9-ff91a47f0a2f/16-9"
+    },
+    {
+      "start": "2026-05-13T02:55:00+05:00",
+      "stop": "2026-05-13T03:50:00+05:00",
+      "title": "Half Man",
+      "desc": "1993. Niall struggles to decide whether to lie to save Ruben from a prison sentence. Contains very strong language.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Drama"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/fd4b4f5d-d60e-4012-97a5-b1b700ef6980/16-9"
+    },
+    {
+      "start": "2026-05-13T03:50:00+05:00",
+      "stop": "2026-05-13T04:35:00+05:00",
+      "title": "Celebrity Bridge of Lies",
+      "desc": "Ross Kemp presents a celebrity special edition of the high-stakes quiz. Actor Charlie Brooks, Dr Amir Khan, presenter Sara Damergi and comedian Tim Vine face the Bridge of Lies.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Game Show"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/a4b73c3b-3041-4ac8-8ae1-a6f7013c6d1c/16-9"
     }
   ]
 }

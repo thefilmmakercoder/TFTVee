@@ -4,41 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-12T21:00:00+05:00",
-      "stop": "2026-05-12T22:00:00+05:00",
-      "title": "Good Day LA at 9am",
-      "desc": "Morning news coverage.",
-      "date": "2012",
-      "language": "en",
-      "categories": [
-        "Talk"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p9542653_b_h8_ac.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-12T22:00:00+05:00",
-      "stop": "2026-05-12T23:00:00+05:00",
-      "title": "Good Day LA at 10am",
-      "desc": "Morning news coverage.",
-      "date": "2022",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p22751421_b_h8_ab.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-12T23:00:00+05:00",
-      "stop": "2026-05-13T00:00:00+05:00",
-      "title": "GDLA+",
-      "date": "2024",
-      "language": "en",
-      "categories": [
-        "Newsmagazine"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p26513975_b_h8_ab.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-05-13T00:00:00+05:00",
       "stop": "2026-05-13T01:00:00+05:00",
       "title": "Sherri",
@@ -99,6 +64,62 @@
           "Meredith Vieira"
         ]
       }
+    },
+    {
+      "start": "2026-05-13T03:00:00+05:00",
+      "stop": "2026-05-13T04:00:00+05:00",
+      "title": "Dateline",
+      "sub_title": "She Never Left",
+      "desc": "Two decades after a Jacksonville, Fla., woman goes missing, her son solves the mystery that haunted his childhood.",
+      "date": "2020",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Newsmagazine",
+        "Documentary"
+      ],
+      "episode": "S4 E38",
+      "icon": "http://dtil.tmsimg.com/assets/p13159645_b_h10_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Natalie Morales",
+          "Craig Melvin"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-13T04:00:00+05:00",
+      "stop": "2026-05-13T05:00:00+05:00",
+      "title": "TMZ Live",
+      "desc": "A candid look at how the gossip site operates, bringing viewers into the site's newsroom, where the daily chats take place; viewers present their opinions on the featured topics through social media, phone calls and video chat.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Newsmagazine",
+        "Entertainment"
+      ],
+      "episode": "S14 E182",
+      "icon": "http://dtil.tmsimg.com/assets/p9132568_b_h10_ab.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Harvey Levin"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-13T05:00:00+05:00",
+      "stop": "2026-05-13T06:00:00+05:00",
+      "title": "FOX 11 News at 5pm",
+      "desc": "Latest local and regional news.",
+      "date": "2016",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p12829248_b_h8_ae.jpg?w=960&h=540"
     }
   ]
 }

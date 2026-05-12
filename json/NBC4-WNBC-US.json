@@ -4,72 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-12T21:00:00+05:00",
-      "stop": "2026-05-12T22:00:00+05:00",
-      "title": "NBC News Daily",
-      "desc": "NBC News provides viewers with the latest national and international news; consumer, health and personal finance reporting; up-to-the-minute local news.",
-      "date": "2026",
-      "language": "en",
-      "categories": [
-        "Series",
-        "News"
-      ],
-      "episode": "E83",
-      "icon": "http://dtil.tmsimg.com/assets/p22712535_b_h8_ad.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Vicky Nguyen",
-          "Morgan Radford"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-12T22:00:00+05:00",
-      "stop": "2026-05-12T23:00:00+05:00",
-      "title": "Dateline",
-      "sub_title": "She Never Left",
-      "desc": "Two decades after a Jacksonville, Fla., woman goes missing, her son solves the mystery that haunted his childhood.",
-      "date": "2020",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Series",
-        "Newsmagazine",
-        "Documentary"
-      ],
-      "episode": "S4 E38",
-      "icon": "http://dtil.tmsimg.com/assets/p13159645_b_h10_aa.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Natalie Morales",
-          "Craig Melvin"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-12T23:00:00+05:00",
-      "stop": "2026-05-13T00:00:00+05:00",
-      "title": "Access Daily With Mario & Kit",
-      "desc": "Actor Bryan Cranston discusses his Dos Hombres line; singer Tonio Armani; Daily feed; MorningSave shoppable finds!",
-      "date": "2026",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Series",
-        "Newsmagazine",
-        "Entertainment"
-      ],
-      "episode": "S16 E143",
-      "icon": "http://dtil.tmsimg.com/assets/p22894952_b_h8_ab.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Mario Lopez",
-          "Kit Hoover",
-          "Scott Evans"
-        ]
-      }
-    },
-    {
       "start": "2026-05-13T00:00:00+05:00",
       "stop": "2026-05-13T01:00:00+05:00",
       "title": "The Kelly Clarkson Show",
@@ -123,6 +57,42 @@
         "News"
       ],
       "icon": "http://dtil.tmsimg.com/assets/p14883147_b_h10_ab.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-13T02:00:00+05:00",
+      "stop": "2026-05-13T02:30:00+05:00",
+      "title": "Live: News 4 NY at 5",
+      "desc": "The latest local news, weather and investigative stories impacting your community.",
+      "date": "2011",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p8846204_b_h10_ae.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-13T02:30:00+05:00",
+      "stop": "2026-05-13T03:00:00+05:00",
+      "title": "Live: News 4 NY at 5:30",
+      "desc": "NY news.",
+      "date": "2017",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p14883149_b_h10_ac.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-13T03:00:00+05:00",
+      "stop": "2026-05-13T03:30:00+05:00",
+      "title": "Live: News 4 NY at 6",
+      "desc": "The latest local news, weather and investigative stories impacting your community.",
+      "date": "2011",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p8846208_b_h10_ae.jpg?w=960&h=540"
     }
   ]
 }

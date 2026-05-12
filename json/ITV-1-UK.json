@@ -4,54 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-12T22:00:00+05:00",
-      "stop": "2026-05-12T22:30:00+05:00",
-      "title": "ITV News London",
-      "desc": "The latest news and weather from London and the South East.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/d9c7a4ec-7191-4f69-8398-c7b258b87f13/16-9"
-    },
-    {
-      "start": "2026-05-12T22:30:00+05:00",
-      "stop": "2026-05-12T23:15:00+05:00",
-      "title": "ITV Evening News",
-      "desc": "National and international news with reports and analysis from ITV's Correspondents in the UK and around the world, plus a focus on the stories that matter to you.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/dfa54ff5-8af6-461a-b77d-208df06e85ff/16-9"
-    },
-    {
-      "start": "2026-05-12T23:15:00+05:00",
-      "stop": "2026-05-13T00:00:00+05:00",
-      "title": "The Martin Lewis Money Show Live",
-      "desc": "Martin will be joined by investment specialists, offering a run-through on all the need-to-knows about Stocks & Shares ISAs.",
-      "language": "en",
-      "categories": [
-        "Entertainment",
-        "Factual"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/03af55e8-1311-46e7-aec9-8ffd3cd0f465/16-9"
-    },
-    {
-      "start": "2026-05-13T00:00:00+05:00",
-      "stop": "2026-05-13T00:30:00+05:00",
-      "title": "Emmerdale",
-      "desc": "Cain fakes pain to avoid being discharged. Dr Todd and Vanessa arrange a date. Todd spots an opportunity to make money.",
-      "language": "en",
-      "categories": [
-        "Entertainment",
-        "Soap"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/0794f41f-833d-4b4e-b31f-a1cb94d2f1a8/16-9"
-    },
-    {
       "start": "2026-05-13T00:30:00+05:00",
       "stop": "2026-05-13T01:00:00+05:00",
       "title": "Coronation Street",
@@ -75,6 +27,54 @@
         "Feature"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/4f02badb-0902-4284-b881-ad726fe44fd7/16-9"
+    },
+    {
+      "start": "2026-05-13T02:00:00+05:00",
+      "stop": "2026-05-13T02:30:00+05:00",
+      "title": "ITV News at Ten",
+      "desc": "ITV News provides a fresh perspective on the major stories of the day with national and international news with reports and analysis from ITV's Correspondents.",
+      "language": "en",
+      "categories": [
+        "News & Documentary",
+        "News"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/7c236de1-347f-4fb6-9a75-ab601a882db6/16-9"
+    },
+    {
+      "start": "2026-05-13T02:30:00+05:00",
+      "stop": "2026-05-13T02:45:00+05:00",
+      "title": "ITV News London",
+      "desc": "The latest news and weather from London and the South East.",
+      "language": "en",
+      "categories": [
+        "News & Documentary",
+        "News"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/a99f0c0e-a565-4b06-98cf-0c4fa9c7b474/16-9"
+    },
+    {
+      "start": "2026-05-13T02:45:00+05:00",
+      "stop": "2026-05-13T03:40:00+05:00",
+      "title": "The Neighbourhood",
+      "desc": "It's the final day in the Neighbourhood as the last two households go head-to-head in the grand finale for a life-changing \u00a3250,000.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Game Show"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/1352a364-4c80-407e-b488-9e1a88f3279f/16-9"
+    },
+    {
+      "start": "2026-05-13T03:40:00+05:00",
+      "stop": "2026-05-13T04:00:00+05:00",
+      "title": "The Assembly",
+      "desc": "Lenny Henry faces the grilling of a lifetime from neurodivergent interviewers. Who does he regret idolising? In what order does he wash his body parts? No question is off limits.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Chat Show"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/d8d80103-0f1b-4482-b8aa-c7de459ed975/16-9"
     }
   ]
 }
