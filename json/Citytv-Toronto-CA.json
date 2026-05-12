@@ -4,59 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-12T14:30:00+05:00",
-      "stop": "2026-05-12T15:00:00+05:00",
-      "title": "CityNews Tonight Toronto",
-      "desc": "Coverage of the day's top news stories.",
-      "date": "2019",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p16858130_b_h8_aa.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-12T15:00:00+05:00",
-      "stop": "2026-05-12T17:30:00+05:00",
-      "title": "Breakfast Television Toronto",
-      "desc": "The latest in local news, weather and traffic, as well as celebrity interviews and lifestyle trends.",
-      "date": "2000",
-      "language": "en",
-      "categories": [
-        "Talk",
-        "Newsmagazine"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p599792_b_h8_ab.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Dina Pugliese",
-          "Melanie Ng"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-12T17:30:00+05:00",
-      "stop": "2026-05-12T19:00:00+05:00",
-      "title": "Breakfast Television",
-      "desc": "The latest in local news, weather, traffic, celebrity interviews and lifestyle trends.",
-      "date": "2026",
-      "language": "en",
-      "categories": [
-        "Series",
-        "Talk",
-        "Newsmagazine"
-      ],
-      "episode": "E93",
-      "icon": "http://dtil.tmsimg.com/assets/p9093159_b_h8_ab.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Dina Pugliese",
-          "Tim Bolen",
-          "Frank Ferragine"
-        ]
-      }
-    },
-    {
       "start": "2026-05-12T19:00:00+05:00",
       "stop": "2026-05-12T20:00:00+05:00",
       "title": "The Kelly Clarkson Show",
@@ -117,6 +64,71 @@
       "credits": {
         "actor": [
           "Wayne Brady"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-12T22:00:00+05:00",
+      "stop": "2026-05-12T22:30:00+05:00",
+      "title": "Family Feud",
+      "desc": "Family Feud is an American television game show where two families compete to name the responses to survey questions in order to win cash and prizes.",
+      "date": "2024",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Game show"
+      ],
+      "episode": "S25 E169",
+      "icon": "http://dtil.tmsimg.com/assets/p8314079_b_h8_ah.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Steve Harvey"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-12T22:30:00+05:00",
+      "stop": "2026-05-12T23:00:00+05:00",
+      "title": "Family Feud",
+      "desc": "Family Feud is an American television game show where two families compete to name the responses to survey questions in order to win cash and prizes.",
+      "date": "2024",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Game show"
+      ],
+      "episode": "S25 E166",
+      "icon": "http://dtil.tmsimg.com/assets/p8314079_b_h8_ah.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Steve Harvey"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-12T23:00:00+05:00",
+      "stop": "2026-05-13T00:00:00+05:00",
+      "title": "General Hospital",
+      "desc": "Lulu seeks out Britt; Dante has words with \"Nathan\"; Curtis takes on a mission; Rocco clashes with Danny and Charlotte; Isaiah is in the hot seat.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "Series",
+        "Soap",
+        "Medical",
+        "Drama",
+        "Romance"
+      ],
+      "episode": "S63 E168",
+      "icon": "http://dtil.tmsimg.com/assets/p183893_b_h8_al.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Maurice Benard",
+          "Steve Burton",
+          "Michael Easton"
         ]
       }
     }
