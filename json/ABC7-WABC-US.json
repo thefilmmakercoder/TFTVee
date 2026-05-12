@@ -4,42 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-13T01:00:00+05:00",
-      "stop": "2026-05-13T02:00:00+05:00",
-      "title": "Eyewitness News First at 4",
-      "desc": "Local and regional news coverage.",
-      "date": "2011",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p8679870_b_h8_ad.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-13T02:00:00+05:00",
-      "stop": "2026-05-13T03:00:00+05:00",
-      "title": "Eyewitness News at 5",
-      "desc": "Local and regional news.",
-      "date": "2017",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p13769033_b_h8_ab.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-13T03:00:00+05:00",
-      "stop": "2026-05-13T03:30:00+05:00",
-      "title": "Eyewitness News at 6",
-      "desc": "Stay informed with the latest breaking news and headlines.",
-      "date": "2017",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p13769035_b_h8_ab.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-05-13T03:30:00+05:00",
       "stop": "2026-05-13T04:00:00+05:00",
       "title": "ABC World News Tonight With David Muir",
@@ -97,6 +61,69 @@
         "actor": [
           "Ryan Seacrest",
           "Vanna White"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-13T05:00:00+05:00",
+      "stop": "2026-05-13T06:00:00+05:00",
+      "title": "Celebrity Jeopardy!",
+      "sub_title": "Semifinal #1: TBD",
+      "desc": "Celebrity contestants compete for a chance to win money for a charity of their choice.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Game show"
+      ],
+      "episode": "S4 E7",
+      "icon": "http://dtil.tmsimg.com/assets/p22206206_b_h8_ah.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Ken Jennings"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-13T06:00:00+05:00",
+      "stop": "2026-05-13T07:00:00+05:00",
+      "title": "The Mystery of Richard Simmons: A Diane Sawyer Special",
+      "desc": "The beloved fitness personality's remarkable rise to fame; examining the cultural impact that made him a household name.",
+      "date": "2026",
+      "language": "en",
+      "categories": [
+        "Special",
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p33019253_st_h10_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Diane Sawyer"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-13T07:00:00+05:00",
+      "stop": "2026-05-13T08:00:00+05:00",
+      "title": "High Potential",
+      "sub_title": "Second Sunday",
+      "desc": "Wagner joins Morgan and the team on a hunt for the crew behind a series of heists ripping through elite private vaults -- only to uncover a far more dangerous endgame.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "Series",
+        "Comedy drama",
+        "Crime drama"
+      ],
+      "episode": "S2 E17",
+      "icon": "http://dtil.tmsimg.com/assets/p30740070_b_h8_ac.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Kaitlin Olson",
+          "Daniel Sunjata",
+          "Javicia Leslie"
         ]
       }
     }

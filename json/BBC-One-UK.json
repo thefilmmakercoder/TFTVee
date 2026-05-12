@@ -4,30 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-13T02:15:00+05:00",
-      "stop": "2026-05-13T02:45:00+05:00",
-      "title": "BBC News and Weather",
-      "desc": "The latest national and international news, with reports from BBC correspondents worldwide.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/6d6f037c-6f08-4b0c-9cd1-2b52dd09cdaa/16-9"
-    },
-    {
-      "start": "2026-05-13T02:45:00+05:00",
-      "stop": "2026-05-13T02:55:00+05:00",
-      "title": "BBC London News",
-      "desc": "The latest news, sport and weather from London.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/2fe8e148-f47d-4858-8bd9-ff91a47f0a2f/16-9"
-    },
-    {
       "start": "2026-05-13T02:55:00+05:00",
       "stop": "2026-05-13T03:50:00+05:00",
       "title": "Half Man",
@@ -74,6 +50,29 @@
         "News"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/158071d0-1887-4aae-8974-bb38384b41c3/16-9"
+    },
+    {
+      "start": "2026-05-13T10:00:00+05:00",
+      "stop": "2026-05-13T13:30:00+05:00",
+      "title": "Breakfast",
+      "desc": "The latest news, sport, business and weather from the BBC's Breakfast team.",
+      "language": "en",
+      "categories": [
+        "News & Documentary",
+        "News"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/b1a1b20d-7328-4307-bd7e-0ed25c9236fe/16-9"
+    },
+    {
+      "start": "2026-05-13T13:30:00+05:00",
+      "stop": "2026-05-13T14:30:00+05:00",
+      "title": "Morning Live",
+      "desc": "Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier.",
+      "language": "en",
+      "categories": [
+        "Entertainment"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/7ebca12a-022f-4dd1-9019-24e2c1d36670/16-9"
     }
   ]
 }
