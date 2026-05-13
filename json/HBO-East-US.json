@@ -4,78 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-13T12:24:00+05:00",
-      "stop": "2026-05-13T14:55:00+05:00",
-      "title": "Marty Supreme",
-      "desc": "Marty Mauser, a wily hustler with a dream no one respects, goes to hell and back in pursuit of greatness.",
-      "date": "2025",
-      "language": "en",
-      "rating": "R",
-      "categories": [
-        "Movie",
-        "Thriller",
-        "Drama"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p29640343_v_h8_ad.jpg?w=960&h=540",
-      "credits": {
-        "director": [
-          "Josh Safdie"
-        ],
-        "actor": [
-          "Timoth\u00e9e Chalamet",
-          "Gwyneth Paltrow",
-          "Kevin O'Leary"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-13T14:55:00+05:00",
-      "stop": "2026-05-13T17:10:00+05:00",
-      "title": "Call Me by Your Name",
-      "desc": "It's the summer of 1983, and precocious 17-year-old Elio Perlman is spending the days with his family at their 17th-century villa in Lombardy, Italy. He soon meets Oliver, a handsome doctoral student who's working as an intern for Elio's father. Amid the sun-drenched splendor of their surroundings, Elio and Oliver discover the heady beauty of awakening desire over the course of a summer that will alter their lives forever.",
-      "date": "2017",
-      "language": "en",
-      "rating": "R",
-      "categories": [
-        "Movie",
-        "Romance",
-        "Drama",
-        "LGBTQ"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p14169043_v_h8_aa.jpg?w=960&h=540",
-      "credits": {
-        "director": [
-          "Luca Guadagnino"
-        ],
-        "actor": [
-          "Armie Hammer",
-          "Timoth\u00e9e Chalamet",
-          "Michael Stuhlbarg"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-13T17:10:00+05:00",
-      "stop": "2026-05-13T17:51:00+05:00",
-      "title": "Last Week Tonight With John Oliver",
-      "desc": "Comedian John Oliver hosts an in-depth, satirical look at developments from the past seven days in news, politics and current events.",
-      "date": "2026",
-      "language": "en",
-      "rating": "TVMA",
-      "categories": [
-        "Series",
-        "Talk",
-        "Comedy"
-      ],
-      "episode": "S13 E11",
-      "icon": "http://dtil.tmsimg.com/assets/p32202276_b_h8_ac.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "John Oliver"
-        ]
-      }
-    },
-    {
       "start": "2026-05-13T17:51:00+05:00",
       "stop": "2026-05-13T18:23:00+05:00",
       "title": "Rooster",
@@ -146,6 +74,72 @@
           "Rob Reiner",
           "Michael McKean",
           "Christopher Guest"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-13T20:35:00+05:00",
+      "stop": "2026-05-13T21:35:00+05:00",
+      "title": "Real Time With Bill Maher",
+      "desc": "Acerbic comic Bill Maher welcomes a panel of guests from diverse parts of the political spectrum for a lively discussion of current events, as well as offering his own perspective on contemporary issues.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TVMA",
+      "categories": [
+        "Series",
+        "Talk",
+        "Comedy"
+      ],
+      "episode": "S24 E14",
+      "icon": "http://dtil.tmsimg.com/assets/p185450_b_h10_ac.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Bill Maher"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-13T21:35:00+05:00",
+      "stop": "2026-05-13T23:04:00+05:00",
+      "title": "Table 19",
+      "desc": "Ex-maid of honor Eloise - having been relieved of her duties after being unceremoniously dumped by the best man via text - decides to hold her head high and attend her oldest friend's wedding anyway. She finds herself seated at the random table in the back of the ballroom with a disparate group of strangers, most of whom should have known to just send regrets. As everyone's secrets are revealed, Eloise learns a thing or two from the denizens of Table 19.",
+      "date": "2017",
+      "language": "en",
+      "rating": "PG-13",
+      "categories": [
+        "Movie",
+        "Comedy drama"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p12857878_v_h10_ac.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Jeffrey Blitz"
+        ],
+        "actor": [
+          "Anna Kendrick",
+          "Craig Robinson",
+          "Lisa Kudrow"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-13T23:04:00+05:00",
+      "stop": "2026-05-13T23:45:00+05:00",
+      "title": "Last Week Tonight With John Oliver",
+      "desc": "Comedian John Oliver hosts an in-depth, satirical look at developments from the past seven days in news, politics and current events.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TVMA",
+      "categories": [
+        "Series",
+        "Talk",
+        "Comedy"
+      ],
+      "episode": "S13 E11",
+      "icon": "http://dtil.tmsimg.com/assets/p32202276_b_h8_ac.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "John Oliver"
         ]
       }
     }

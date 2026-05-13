@@ -4,18 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-13T15:00:00+05:00",
-      "stop": "2026-05-13T16:00:00+05:00",
-      "title": "PIX11 Morning News at 6am",
-      "desc": "Staying informed with the news and headlines.",
-      "date": "2018",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p16250992_b_h8_ab.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-05-13T16:00:00+05:00",
       "stop": "2026-05-13T18:00:00+05:00",
       "title": "PIX11 Morning News at 7am",
@@ -95,6 +83,27 @@
           "Petri Hawkins-Byrd",
           "Patricia DiMango",
           "Tanya Acker"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-13T21:00:00+05:00",
+      "stop": "2026-05-13T22:00:00+05:00",
+      "title": "The Steve Wilkos Show",
+      "sub_title": "Young Lovers Devastated After Results",
+      "desc": "Dontay thinks Alexis is still cheating on him; Audrey's fianc\u00e9 accuses her of sleeping with one of his relatives.",
+      "date": "2020",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "Series",
+        "Talk"
+      ],
+      "episode": "S13 E72",
+      "icon": "http://dtil.tmsimg.com/assets/p185706_b_h8_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Steve Wilkos"
         ]
       }
     }

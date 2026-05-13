@@ -4,33 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-13T14:30:00+05:00",
-      "stop": "2026-05-13T15:00:00+05:00",
-      "title": "Paid Programming",
-      "desc": "Paid programming.",
-      "language": "en",
-      "rating": "TVG",
-      "categories": [
-        "Consumer",
-        "Shopping",
-        "Variety"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-13T15:00:00+05:00",
-      "stop": "2026-05-13T18:00:00+05:00",
-      "title": "Global News Morning",
-      "desc": "Greater Toronto's top local news stories and latest weather forecast to start your day.",
-      "date": "2019",
-      "language": "en",
-      "categories": [
-        "News",
-        "Weather"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p16568475_b_h10_ad.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-05-13T15:00:00+05:00",
       "stop": "2026-05-13T18:00:00+05:00",
       "title": "Global News Morning",
@@ -101,6 +74,51 @@
       "credits": {
         "actor": [
           "Tamron Hall"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-13T19:00:00+05:00",
+      "stop": "2026-05-13T20:00:00+05:00",
+      "title": "Tamron Hall",
+      "sub_title": "I Survived",
+      "desc": "The people behind incredible stories of survival; a woman who survived a freak highway accident when a metal pole crashed through her vehicle; a couple recount the terrifying moment they came face-to-face with a 10,000-pound elephant; a skier shares how he survived being buried alive in the snow; a pilot who had to make an emergency landing on a Phoenix Street.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Talk"
+      ],
+      "episode": "S7 E163",
+      "icon": "http://dtil.tmsimg.com/assets/p17197549_b_h8_af.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Tamron Hall"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-13T20:00:00+05:00",
+      "stop": "2026-05-13T21:00:00+05:00",
+      "title": "Property Brothers: Forever Home",
+      "sub_title": "Kimberli & Sheldon",
+      "desc": "Kimberli and Sheldon's home has been in Sheldon's family for three generations; the home is rich with character and memories of significant life events but the dated, disjointed space is not functioning for this young family's modern needs.",
+      "date": "2021",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Series",
+        "Reality",
+        "House/garden",
+        "Home improvement"
+      ],
+      "episode": "S5 E17",
+      "icon": "http://dtil.tmsimg.com/assets/p16607789_b_h8_bg.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Drew Scott",
+          "Jonathan Scott"
         ]
       }
     }
