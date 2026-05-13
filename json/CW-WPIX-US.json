@@ -4,65 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-13T16:00:00+05:00",
-      "stop": "2026-05-13T18:00:00+05:00",
-      "title": "PIX11 Morning News at 7am",
-      "desc": "Staying informed with the news and headlines.",
-      "date": "2018",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p16250994_b_h8_ab.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-13T18:00:00+05:00",
-      "stop": "2026-05-13T19:00:00+05:00",
-      "title": "PIX11 Morning News at 9am",
-      "desc": "Staying informed with the news and headlines.",
-      "date": "2020",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p17722468_b_h8_ab.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-13T19:00:00+05:00",
-      "stop": "2026-05-13T20:00:00+05:00",
-      "title": "New York Living",
-      "date": "2022",
-      "language": "en",
-      "categories": [
-        "Newsmagazine"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p21493460_st_h10_aa.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-13T20:00:00+05:00",
-      "stop": "2026-05-13T20:30:00+05:00",
-      "title": "Tribunal Justice",
-      "sub_title": "Dog Grooming Anxiety and Injury",
-      "desc": "A woman sues a dog groomer for $5K; she claims negligence in injuring her pet; the groomer claims she neglected to disclose her dog's behavioral issues.",
-      "date": "2025",
-      "language": "en",
-      "rating": "TV14",
-      "categories": [
-        "Series",
-        "Law",
-        "Reality"
-      ],
-      "episode": "S2 E51",
-      "icon": "http://dtil.tmsimg.com/assets/p24616934_b_h10_ad.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Petri Hawkins-Byrd",
-          "Patricia DiMango",
-          "Tanya Acker"
-        ]
-      }
-    },
-    {
       "start": "2026-05-13T20:30:00+05:00",
       "stop": "2026-05-13T21:00:00+05:00",
       "title": "Tribunal Justice",
@@ -106,6 +47,99 @@
           "Steve Wilkos"
         ]
       }
+    },
+    {
+      "start": "2026-05-13T22:00:00+05:00",
+      "stop": "2026-05-13T23:00:00+05:00",
+      "title": "Karamo",
+      "sub_title": "\"Mom, You Failed Me!\"; Unlock: Cheating With a Ghost!?",
+      "desc": "Did Shine fall short as a mother to her son, Alajhuan? He says she did and wants her to finally take accountability; Timothy says his girlfriend Joanna admitted to sleeping with her realtor.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "Series",
+        "Talk",
+        "Interview",
+        "Self improvement"
+      ],
+      "episode": "S4 E116",
+      "icon": "http://dtil.tmsimg.com/assets/p22388212_b_h8_ac.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Karamo Brown"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-13T23:00:00+05:00",
+      "stop": "2026-05-13T23:30:00+05:00",
+      "title": "Judy Justice",
+      "sub_title": "Business Review Bombshell",
+      "desc": "An electrical contractor sues for the 10K court maximum for negative online business reviews that he claims hurt his business; he is countersued for 10K for allegedly filing a frivoulous lawsuit.",
+      "date": "2023",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "Series",
+        "Reality",
+        "Law"
+      ],
+      "episode": "S2 E58",
+      "icon": "http://dtil.tmsimg.com/assets/p20641302_b_h10_af.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Randy Douthit"
+        ],
+        "actor": [
+          "Judy Sheindlin",
+          "Kevin Rasco",
+          "Whitney Kumar"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-13T23:30:00+05:00",
+      "stop": "2026-05-14T00:00:00+05:00",
+      "title": "Judy Justice",
+      "sub_title": "Small Business Grudge",
+      "desc": "A battle of bad online reviews is waged in rural Michigan.",
+      "date": "2023",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "Series",
+        "Reality",
+        "Law"
+      ],
+      "episode": "S2 E128",
+      "icon": "http://dtil.tmsimg.com/assets/p20641302_b_h10_af.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Randy Douthit"
+        ],
+        "actor": [
+          "Judy Sheindlin",
+          "Kevin Rasco",
+          "Whitney Kumar"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-14T00:00:00+05:00",
+      "stop": "2026-05-14T00:30:00+05:00",
+      "title": "Live PD Presents",
+      "date": "2025",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "Series",
+        "Reality",
+        "Law",
+        "Crime"
+      ],
+      "episode": "S1 E15",
+      "icon": "http://dtil.tmsimg.com/assets/p31045528_b_h8_aa.jpg?w=960&h=540"
     }
   ]
 }

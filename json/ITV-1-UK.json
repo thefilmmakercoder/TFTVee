@@ -4,18 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-13T17:50:00+05:00",
-      "stop": "2026-05-13T18:00:00+05:00",
-      "title": "ITV News London",
-      "desc": "The latest news and weather from London and the South East.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/b64e0af8-fac7-4fb6-b47e-e1a22c801ee6/16-9"
-    },
-    {
       "start": "2026-05-13T18:00:00+05:00",
       "stop": "2026-05-13T21:00:00+05:00",
       "title": "ITV Racing: Live from York",
@@ -74,6 +62,18 @@
         "Nature"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/95988299-8215-45ba-acf1-d2792d0be30c/16-9"
+    },
+    {
+      "start": "2026-05-14T00:00:00+05:00",
+      "stop": "2026-05-14T00:30:00+05:00",
+      "title": "Emmerdale",
+      "desc": "Todd has evidence and wants Charity to pay. Vanessa gets her woman. Sarah heads to confront Cain about his self-pity.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Soap"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/f3f63add-6d55-4a99-ac81-f57ed24a3fc5/16-9"
     }
   ]
 }

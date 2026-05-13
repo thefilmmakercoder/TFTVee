@@ -4,30 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-13T17:00:00+05:00",
-      "stop": "2026-05-13T18:00:00+05:00",
-      "title": "Good Day LA at 5am",
-      "desc": "Morning news coverage.",
-      "date": "2019",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p16719270_b_h8_ab.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-13T18:00:00+05:00",
-      "stop": "2026-05-13T19:00:00+05:00",
-      "title": "Good Day LA at 6am",
-      "desc": "Morning news coverage.",
-      "date": "2019",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p16719279_b_h8_ab.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-05-13T19:00:00+05:00",
       "stop": "2026-05-13T21:00:00+05:00",
       "title": "Good Day LA at 7am",
@@ -73,6 +49,51 @@
         "Newsmagazine"
       ],
       "icon": "http://dtil.tmsimg.com/assets/p26513975_b_h8_ab.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-14T00:00:00+05:00",
+      "stop": "2026-05-14T01:00:00+05:00",
+      "title": "Sherri",
+      "sub_title": "Deborah Roberts",
+      "desc": "Sherri kicks off the show with laughs in The Stand-Up Spot; ABC News anchor Deborah Roberts tells Sherri about her book \"Sisters Loved and Treasured: Stories of Unbreakable Bonds\" and the \"20/20\" podcast; Sherri's Funny Over 50 contestants perform standup for a chance to advance to the final round.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Talk",
+        "Interview"
+      ],
+      "episode": "S4 E131",
+      "icon": "http://dtil.tmsimg.com/assets/p21805765_b_h8_ab.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Sherri Shepherd",
+          "Deborah Roberts"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-14T01:00:00+05:00",
+      "stop": "2026-05-14T02:00:00+05:00",
+      "title": "The Jennifer Hudson Show",
+      "desc": "Actress Taraji P. Henson stops by to chat about her new Broadway show, \"Joe Turner's Come and Gone\"; Jennifer welcomes 12-year-old Tony Barisano, aka \"Tony Cash,\" who has gone viral for his spot-on Italian pronunciation videos, love of Italian food, and big Italian-American personality; Boston Celtic Jaylen Brown and Jennifer chat about his sneaker and apparel brand 741.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Talk"
+      ],
+      "episode": "S4 E136",
+      "icon": "http://dtil.tmsimg.com/assets/p31041660_b_h8_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Jennifer Hudson",
+          "Taraji P. Henson",
+          "Jaylen Brown"
+        ]
+      }
     }
   ]
 }
