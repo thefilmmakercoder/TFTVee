@@ -4,31 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-14T00:00:00+05:00",
-      "stop": "2026-05-14T01:00:00+05:00",
-      "title": "Murdoch Mysteries",
-      "sub_title": "Shakespeare's Beard",
-      "desc": "Murdoch and Brackenreid are stunned when an actor in a performance of \"Hamlet\" dies on stage before their eyes.",
-      "date": "2025",
-      "language": "en",
-      "rating": "TV14",
-      "categories": [
-        "Series",
-        "Drama",
-        "Mystery",
-        "Crime"
-      ],
-      "episode": "S18 E16",
-      "icon": "http://dtil.tmsimg.com/assets/p811777_b_h8_at.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Yannick Bisson",
-          "Helene Joy",
-          "Jonny Harris"
-        ]
-      }
-    },
-    {
       "start": "2026-05-14T01:00:00+05:00",
       "stop": "2026-05-14T02:00:00+05:00",
       "title": "Call the Midwife",
@@ -145,6 +120,19 @@
           "Gerry Dee"
         ]
       }
+    },
+    {
+      "start": "2026-05-14T05:00:00+05:00",
+      "stop": "2026-05-14T07:30:00+05:00",
+      "title": "Live: NHL Hockey",
+      "desc": "The Avalanche host the Wild at Ball Arena for Game 5 of the Central Division Finals. Minnesota relies on Kirill Kaprizov, who tallied 45 goals this season, to counter a Colorado offense led by Nathan MacKinnon and his league-leading transition speed.",
+      "language": "en",
+      "categories": [
+        "Sports",
+        "Playoff sports",
+        "Hockey"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/GNLZZGG0033TP3Q.jpg?w=960&h=540"
     }
   ]
 }

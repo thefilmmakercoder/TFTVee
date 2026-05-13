@@ -4,18 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-14T00:20:00+05:00",
-      "stop": "2026-05-14T00:25:00+05:00",
-      "title": "FYI Daily",
-      "desc": "Latest news from the world of entertainment.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "Showbiz"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/d8b72baa-71d8-4ed1-b8f5-ab747323c6ae/16-9"
-    },
-    {
       "start": "2026-05-14T00:25:00+05:00",
       "stop": "2026-05-14T02:00:00+05:00",
       "title": "GoldenEye",
@@ -76,6 +64,18 @@
         "Drama"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/d02dffb2-afe0-4f4b-ad45-ac54a6ef305e/16-9"
+    },
+    {
+      "start": "2026-05-14T06:45:00+05:00",
+      "stop": "2026-05-14T07:00:00+05:00",
+      "title": "Unwind with ITV",
+      "desc": "Your daily escape designed to calm the mind and encourage relaxation and reflection.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Lifestyles"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/aa163e3b-3ab0-484a-8ba7-924f1ab02091/16-9"
     }
   ]
 }

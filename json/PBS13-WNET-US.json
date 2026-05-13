@@ -4,47 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-14T00:00:00+05:00",
-      "stop": "2026-05-14T01:00:00+05:00",
-      "title": "Antiques Roadshow",
-      "sub_title": "Charleston Hour 2",
-      "desc": "A collection of Marilyn Monroe stills; a British rainbow spatterware pot; an 1949 ship's log and register chronicling a journey from Boston to San Francisco during the Gold Rush.",
-      "date": "2015",
-      "language": "en",
-      "rating": "TVG",
-      "categories": [
-        "Series",
-        "Collectibles",
-        "Art"
-      ],
-      "episode": "S19 E18 P2/3",
-      "icon": "http://dtil.tmsimg.com/assets/p185479_b_h8_ag.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Mark L. Walberg"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-14T01:00:00+05:00",
-      "stop": "2026-05-14T02:00:00+05:00",
-      "title": "Amanpour and Company",
-      "desc": "Christiane Amanpour leads discussions about world issues and interviews with global leaders.",
-      "date": "2026",
-      "language": "en",
-      "categories": [
-        "Series",
-        "Public affairs"
-      ],
-      "episode": "S8 E160",
-      "icon": "http://dtil.tmsimg.com/assets/p15694932_b_h8_ac.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Christiane Amanpour"
-        ]
-      }
-    },
-    {
       "start": "2026-05-14T02:00:00+05:00",
       "stop": "2026-05-14T02:30:00+05:00",
       "title": "BBC News The Context",
@@ -107,6 +66,48 @@
         "actor": [
           "Sumi Somaskanda",
           "Caitr\u00edona Perry"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-14T04:00:00+05:00",
+      "stop": "2026-05-14T05:00:00+05:00",
+      "title": "PBS News Hour",
+      "desc": "Co-anchors Amna Nawaz and Geoff Bennett and correspondents offer in-depth analysis of current events.",
+      "date": "2026",
+      "language": "en",
+      "categories": [
+        "Series",
+        "News"
+      ],
+      "episode": "S52 E227",
+      "icon": "http://dtil.tmsimg.com/assets/p27608822_b_h8_ac.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Amna Nawaz",
+          "Geoff Bennett"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-14T05:00:00+05:00",
+      "stop": "2026-05-14T06:00:00+05:00",
+      "title": "Nature",
+      "sub_title": "Attenborough and the Sea Dragon",
+      "desc": "Onsite extraction of fossils of an ichthyosaur, a fish lizard that ruled during the time of the dinosaurs, and a 3-D reconstruction of the creature; host David Attenborough.",
+      "date": "2019",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Anthology",
+        "Nature"
+      ],
+      "episode": "S37 E7",
+      "icon": "http://dtil.tmsimg.com/assets/p185481_b_h8_ap.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "David Attenborough"
         ]
       }
     }
