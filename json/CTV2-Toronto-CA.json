@@ -4,45 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-13T02:59:00+05:00",
-      "stop": "2026-05-13T04:00:00+05:00",
-      "title": "Live: CTV News Barrie",
-      "desc": "CTV News covers stories that matter to Canadians - locally, nationally, & internationally.",
-      "date": "2014",
-      "language": "en",
-      "rating": "TV14",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p11226354_b_h8_ad.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-13T04:00:00+05:00",
-      "stop": "2026-05-13T04:30:00+05:00",
-      "title": "The Big Bang Theory",
-      "sub_title": "The Spoiler Alert Segmentation",
-      "desc": "A fight between Sheldon and Leonard impacts Amy and Penny's living arrangements; while Howard is away, Raj helps Mrs. Wolowitz out.",
-      "date": "2013",
-      "language": "en",
-      "rating": "TV14",
-      "categories": [
-        "Series",
-        "Sitcom"
-      ],
-      "episode": "S6 E15",
-      "icon": "http://dtil.tmsimg.com/assets/p185554_b_h8_az.jpg?w=960&h=540",
-      "credits": {
-        "director": [
-          "Mark Cendrowski"
-        ],
-        "actor": [
-          "Johnny Galecki",
-          "Jim Parsons",
-          "Kaley Cuoco"
-        ]
-      }
-    },
-    {
       "start": "2026-05-13T04:30:00+05:00",
       "stop": "2026-05-13T05:00:00+05:00",
       "title": "etalk",
@@ -129,6 +90,44 @@
         "News"
       ],
       "icon": "http://dtil.tmsimg.com/assets/p11226354_b_h8_ad.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-13T08:34:00+05:00",
+      "stop": "2026-05-13T09:37:00+05:00",
+      "title": "The Tonight Show Starring Jimmy Fallon",
+      "sub_title": "Sigourney Weaver; Andrew Rannells; The Black Keys",
+      "desc": "Actress Sigourney Weaver; actor Andrew Rannells; The Black Keys perform.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "Series",
+        "Talk",
+        "Comedy"
+      ],
+      "episode": "S13 E103",
+      "icon": "http://dtil.tmsimg.com/assets/p9898935_b_h8_am.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Jimmy Fallon",
+          "Sigourney Weaver",
+          "Andrew Rannells"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-13T09:37:00+05:00",
+      "stop": "2026-05-13T10:07:00+05:00",
+      "title": "CTV National News With Omar Sachedina",
+      "desc": "CTV News covers stories that matter to Canadians - locally, nationally, & internationally.",
+      "date": "2026",
+      "language": "en",
+      "categories": [
+        "Series",
+        "News"
+      ],
+      "episode": "E78",
+      "icon": "http://dtil.tmsimg.com/assets/p22894284_b_h8_ab.jpg?w=960&h=540"
     }
   ]
 }

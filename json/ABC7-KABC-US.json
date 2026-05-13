@@ -4,37 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-13T03:30:00+05:00",
-      "stop": "2026-05-13T04:00:00+05:00",
-      "title": "ABC World News Tonight With David Muir",
-      "desc": "Delivering the news that matters most.",
-      "date": "2026",
-      "language": "en",
-      "categories": [
-        "Series",
-        "News"
-      ],
-      "episode": "E132",
-      "icon": "http://dtil.tmsimg.com/assets/p10880351_b_h8_ah.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "David Muir"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-13T04:00:00+05:00",
-      "stop": "2026-05-13T05:00:00+05:00",
-      "title": "Eyewitness News 4PM",
-      "desc": "Early evening news.",
-      "date": "2004",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p676966_b_h8_af.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-05-13T05:00:00+05:00",
       "stop": "2026-05-13T06:00:00+05:00",
       "title": "Eyewitness News 5PM",
@@ -94,6 +63,51 @@
       "credits": {
         "actor": [
           "Ken Jennings"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-13T07:30:00+05:00",
+      "stop": "2026-05-13T08:00:00+05:00",
+      "title": "Wheel of Fortune",
+      "sub_title": "Yaamava Resort & Casino Week",
+      "desc": "In a classic game-show version of \"Hangman,\" contestants solve word puzzles for cash and prizes.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Series",
+        "Game show"
+      ],
+      "episode": "S43 E177",
+      "icon": "http://dtil.tmsimg.com/assets/p184057_b_h8_ai.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Ryan Seacrest",
+          "Vanna White"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-13T08:00:00+05:00",
+      "stop": "2026-05-13T09:00:00+05:00",
+      "title": "Celebrity Jeopardy!",
+      "sub_title": "SEMIFINAL #1: Lisa Ann Walter, Katie Nolan and Mina Kimes",
+      "desc": "Lisa Ann Walter, Katie Nolan and Mina Kimes compete.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Game show"
+      ],
+      "episode": "S4 E7",
+      "icon": "http://dtil.tmsimg.com/assets/p22206206_b_h8_ah.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Ken Jennings",
+          "Lisa Ann Walter",
+          "Katie Nolan"
         ]
       }
     }
