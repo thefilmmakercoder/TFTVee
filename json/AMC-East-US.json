@@ -4,56 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-13T02:00:00+05:00",
-      "stop": "2026-05-13T05:00:00+05:00",
-      "title": "The Shawshank Redemption",
-      "desc": "Andy Dufresne (Tim Robbins) is sentenced to two consecutive life terms in prison for the murders of his wife and her lover and is sentenced to a tough prison. However, only Andy knows he didn't commit the crimes. While there, he forms a friendship with Red (Morgan Freeman), experiences brutality of prison life, adapts, helps the warden, etc., all in 19 years.",
-      "date": "1994",
-      "language": "en",
-      "rating": "R",
-      "categories": [
-        "Movie",
-        "Drama"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p15987_v_h8_au.jpg?w=960&h=540",
-      "credits": {
-        "director": [
-          "Frank Darabont"
-        ],
-        "actor": [
-          "Tim Robbins",
-          "Morgan Freeman",
-          "Bob Gunton"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-13T05:00:00+05:00",
-      "stop": "2026-05-13T07:00:00+05:00",
-      "title": "Unstoppable",
-      "desc": "When a massive, unmanned locomotive roars out of control, the threat is more ominous than just a derailment. The train is laden with toxic chemicals, and an accident would decimate human life and cause an environmental disaster. The only hope of bringing the train to a safe stop is in the hands of a veteran engineer (Denzel Washington) and a young conductor (Chris Pine), who must risk their lives to save those in the runaway's path. Inspired by true events.",
-      "date": "2010",
-      "language": "en",
-      "rating": "PG-13",
-      "categories": [
-        "Movie",
-        "Action",
-        "Thriller",
-        "Drama"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p8129775_v_h10_ao.jpg?w=960&h=540",
-      "credits": {
-        "director": [
-          "Tony Scott"
-        ],
-        "actor": [
-          "Denzel Washington",
-          "Chris Pine",
-          "Rosario Dawson"
-        ]
-      }
-    },
-    {
       "start": "2026-05-13T07:00:00+05:00",
       "stop": "2026-05-13T10:00:00+05:00",
       "title": "Shooter",
@@ -160,6 +110,46 @@
           "Sean Bean"
         ]
       }
+    },
+    {
+      "start": "2026-05-13T14:39:00+05:00",
+      "stop": "2026-05-13T15:00:00+05:00",
+      "title": "The Three Stooges",
+      "sub_title": "Corny Casanovas",
+      "desc": "The boys are loony lovers.",
+      "date": "1952",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Comedy"
+      ],
+      "episode": "E3",
+      "icon": "http://dtil.tmsimg.com/assets/p15992694_b_h10_aa.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Jules White"
+        ],
+        "actor": [
+          "Moe Howard",
+          "Larry Fine",
+          "Shemp Howard"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-13T15:00:00+05:00",
+      "stop": "2026-05-13T15:30:00+05:00",
+      "title": "Paid Programming",
+      "desc": "Paid programming.",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Consumer",
+        "Shopping",
+        "Variety"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&h=540"
     }
   ]
 }

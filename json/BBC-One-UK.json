@@ -4,18 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-13T04:35:00+05:00",
-      "stop": "2026-05-13T04:40:00+05:00",
-      "title": "Weather for the Week Ahead",
-      "desc": "Detailed weather forecast.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/f68c1375-6d1e-4b6c-ae20-0bd425d1e490/16-9"
-    },
-    {
       "start": "2026-05-13T04:40:00+05:00",
       "stop": "2026-05-13T10:00:00+05:00",
       "title": "BBC News",
@@ -73,6 +61,18 @@
         "Game Show"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/bf4f22c0-cc33-3a1f-90aa-19df5ec18eb1/16-9"
+    },
+    {
+      "start": "2026-05-13T17:00:00+05:00",
+      "stop": "2026-05-13T18:00:00+05:00",
+      "title": "BBC News at One including BBC London News",
+      "desc": "The latest national and international news from the BBC.",
+      "language": "en",
+      "categories": [
+        "News & Documentary",
+        "News"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/88fa1211-2ef5-45fd-bbbb-061a8bbae300/16-9"
     }
   ]
 }
