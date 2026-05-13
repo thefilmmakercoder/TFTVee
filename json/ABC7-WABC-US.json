@@ -4,42 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-14T01:00:00+05:00",
-      "stop": "2026-05-14T02:00:00+05:00",
-      "title": "Eyewitness News First at 4",
-      "desc": "Local and regional news coverage.",
-      "date": "2011",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p8679870_b_h8_ad.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-14T02:00:00+05:00",
-      "stop": "2026-05-14T03:00:00+05:00",
-      "title": "Eyewitness News at 5",
-      "desc": "Local and regional news.",
-      "date": "2017",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p13769033_b_h8_ab.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-14T03:00:00+05:00",
-      "stop": "2026-05-14T03:30:00+05:00",
-      "title": "Eyewitness News at 6",
-      "desc": "Stay informed with the latest breaking news and headlines.",
-      "date": "2017",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p13769035_b_h8_ab.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-05-14T03:30:00+05:00",
       "stop": "2026-05-14T04:00:00+05:00",
       "title": "ABC World News Tonight With David Muir",
@@ -97,6 +61,75 @@
         "actor": [
           "Ryan Seacrest",
           "Vanna White"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-14T05:00:00+05:00",
+      "stop": "2026-05-14T06:00:00+05:00",
+      "title": "Celebrity Jeopardy!",
+      "sub_title": "SEMIFINAL #2: W. Kamau Bell, Steven Weber and Sean Gunn",
+      "desc": "W. Kamau Bell, Steven Weber and Sean Gunn compete.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Game show"
+      ],
+      "episode": "S4 E8",
+      "icon": "http://dtil.tmsimg.com/assets/p22206206_b_h8_ah.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Ken Jennings",
+          "W. Kamau Bell",
+          "Steven Weber"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-14T06:00:00+05:00",
+      "stop": "2026-05-14T07:00:00+05:00",
+      "title": "Shark Tank",
+      "sub_title": "Million Dollar Offer: See Which Shark Makes a Million Dollar Offer for a Never-Before-Seen Idea!",
+      "desc": "Wildfire and tornado-proof homes; cologne-infused body butter; an allergy-free caf\u00e9; specialized traction pads for athletes.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Reality"
+      ],
+      "episode": "S17 E17",
+      "icon": "http://dtil.tmsimg.com/assets/p3560383_b_h8_bd.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Daymond John",
+          "Barbara Corcoran",
+          "Robert Herjavec"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-14T07:00:00+05:00",
+      "stop": "2026-05-14T08:00:00+05:00",
+      "title": "Shark Tank",
+      "sub_title": "Season Finale: Which Shark Will Get a Slice of a Unique Family Based Pizza Business? Plus an Update on Pete Davidson's Sock Company",
+      "desc": "A beginner-friendly social investing platform; tasty low-calorie sweets; a shipping service for over-packers; a frozen pizza brand that champions the deaf community.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Reality"
+      ],
+      "episode": "S17 E18",
+      "icon": "http://dtil.tmsimg.com/assets/p3560383_b_h8_bd.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Daymond John",
+          "Barbara Corcoran",
+          "Robert Herjavec"
         ]
       }
     }

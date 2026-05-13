@@ -4,19 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-14T02:00:00+05:00",
-      "stop": "2026-05-14T02:30:00+05:00",
-      "title": "Entertainment Tonight",
-      "desc": "Still the gold standard in entertainment news, ET delivers daily exclusives, red carpet coverage, and celebrity interviews.",
-      "language": "en",
-      "rating": "NR",
-      "categories": [
-        "Special Interest"
-      ],
-      "episode": "S45 E177",
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/132140/image/334x188"
-    },
-    {
       "start": "2026-05-14T02:30:00+05:00",
       "stop": "2026-05-14T03:30:00+05:00",
       "title": "The Late Show With Stephen Colbert",
@@ -80,6 +67,19 @@
       ],
       "episode": "S1 E175",
       "icon": "https://www.fetchtv.com.au/v2/epg/program/427295/image/334x188"
+    },
+    {
+      "start": "2026-05-14T06:00:00+05:00",
+      "stop": "2026-05-14T06:30:00+05:00",
+      "title": "Millionaire Hot Seat",
+      "desc": "In this episode, proud minimalist Umair competes for the ultimate prize alongside six determined contestants, including actor Jess and surfboard designer Aaron.",
+      "language": "en",
+      "rating": "PG",
+      "categories": [
+        "Special Interest"
+      ],
+      "episode": "S16 E61",
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/325091/image/334x188"
     }
   ]
 }
