@@ -4,52 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-13T22:00:00+05:00",
-      "stop": "2026-05-13T23:00:00+05:00",
-      "title": "Dateline",
-      "sub_title": "Unchecked Evil",
-      "desc": "A 21-year-old college senior is shot and killed in a public park just months before her graduation.",
-      "date": "2020",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Series",
-        "Newsmagazine",
-        "Documentary"
-      ],
-      "episode": "S4 E39",
-      "icon": "http://dtil.tmsimg.com/assets/p13159645_b_h10_aa.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Natalie Morales",
-          "Craig Melvin"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-13T23:00:00+05:00",
-      "stop": "2026-05-14T00:00:00+05:00",
-      "title": "Access Daily With Mario & Kit",
-      "desc": "The daily one-hour syndicated entertainment news and lifestyle talk show co-hosted by Mario Lopez, Kit Hoover and Scott Evans features celebrity interviews and gives viewers insider access to Hollywood's biggest stories.",
-      "date": "2026",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Series",
-        "Newsmagazine",
-        "Entertainment"
-      ],
-      "episode": "S16 E144",
-      "icon": "http://dtil.tmsimg.com/assets/p22894952_b_h8_ab.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Mario Lopez",
-          "Kit Hoover",
-          "Scott Evans"
-        ]
-      }
-    },
-    {
       "start": "2026-05-14T00:00:00+05:00",
       "stop": "2026-05-14T01:00:00+05:00",
       "title": "The Kelly Clarkson Show",
@@ -115,6 +69,30 @@
         "News"
       ],
       "icon": "http://dtil.tmsimg.com/assets/p8846204_b_h10_ae.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-14T02:30:00+05:00",
+      "stop": "2026-05-14T03:00:00+05:00",
+      "title": "Live: News 4 NY at 5:30",
+      "desc": "NY news.",
+      "date": "2017",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p14883149_b_h10_ac.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-14T03:00:00+05:00",
+      "stop": "2026-05-14T03:30:00+05:00",
+      "title": "Live: News 4 NY at 6",
+      "desc": "The latest local news, weather and investigative stories impacting your community.",
+      "date": "2011",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p8846208_b_h10_ae.jpg?w=960&h=540"
     }
   ]
 }

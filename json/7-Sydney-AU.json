@@ -4,48 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-13T22:30:00+05:00",
-      "stop": "2026-05-13T23:00:00+05:00",
-      "title": "Home Shopping",
-      "sub_title": "TIVA Heater (A2830TIV28QRA)",
-      "desc": "Shopping program.",
-      "language": "en",
-      "rating": "G",
-      "categories": [
-        "Special Interest"
-      ],
-      "episode": "S1 E270",
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/234200/image/334x188"
-    },
-    {
-      "start": "2026-05-13T23:00:00+05:00",
-      "stop": "2026-05-14T00:00:00+05:00",
-      "title": "NBC Today",
-      "sub_title": "Thursday 14 May 2026",
-      "desc": "International news and weather including interviews with newsmakers in the world of politics, business, media, entertainment and sport.",
-      "language": "en",
-      "rating": "NR",
-      "categories": [
-        "Sports"
-      ],
-      "episode": "S26 E133",
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/132440/image/334x188"
-    },
-    {
-      "start": "2026-05-14T00:00:00+05:00",
-      "stop": "2026-05-14T00:30:00+05:00",
-      "title": "Sunrise Early News",
-      "sub_title": "Thursday 14 May 2026",
-      "desc": "Wake up to a better breakfast with Edwina Bartholomew for all the latest news, sport and weather.",
-      "language": "en",
-      "rating": "NR",
-      "categories": [
-        "Sports"
-      ],
-      "episode": "S26 E96",
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/434344/image/334x188"
-    },
-    {
       "start": "2026-05-14T00:30:00+05:00",
       "stop": "2026-05-14T01:00:00+05:00",
       "title": "Sunrise",
@@ -85,6 +43,47 @@
       ],
       "episode": "S26 E84",
       "icon": "https://www.fetchtv.com.au/v2/epg/program/206396/image/334x188"
+    },
+    {
+      "start": "2026-05-14T07:00:00+05:00",
+      "stop": "2026-05-14T08:00:00+05:00",
+      "title": "Seven's National News At Noon",
+      "sub_title": "Thursday 14 May 2026",
+      "desc": "Seven News live coverage of local, national and international news, plus sport, finance and weather updates. Go to 7NEWS.com.au today for more live updates.",
+      "language": "en",
+      "rating": "NR",
+      "categories": [
+        "Sports"
+      ],
+      "episode": "S26 E74",
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/434212/image/334x188"
+    },
+    {
+      "start": "2026-05-14T08:00:00+05:00",
+      "stop": "2026-05-14T08:02:00+05:00",
+      "title": "Seven News With Alex Cullen",
+      "sub_title": "Thursday 14 May 2026",
+      "desc": "Join Alex Cullen for all the latest news headlines, as he kicks off Seven's Winning Arvo featuring an entertaining lineup of quiz shows and news updates every hour.",
+      "language": "en",
+      "rating": "NR",
+      "categories": [
+        "Sports"
+      ],
+      "episode": "S26 E74",
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/438848/image/334x188"
+    },
+    {
+      "start": "2026-05-14T08:02:00+05:00",
+      "stop": "2026-05-14T09:00:00+05:00",
+      "title": "Beat The Chasers UK",
+      "desc": "Contestants try to beat five chasers in order to win cash and bragging rights.",
+      "language": "en",
+      "rating": "G",
+      "categories": [
+        "Special Interest"
+      ],
+      "episode": "S2 E2",
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/2583300/image/334x188"
     }
   ]
 }
