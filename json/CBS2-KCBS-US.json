@@ -4,28 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-14T16:00:00+05:00",
-      "stop": "2026-05-14T18:00:00+05:00",
-      "title": "CBS Mornings",
-      "desc": "An eliminated \"Survivor\" contestant.",
-      "date": "2026",
-      "language": "en",
-      "categories": [
-        "Series",
-        "Talk",
-        "News"
-      ],
-      "episode": "E96",
-      "icon": "http://dtil.tmsimg.com/assets/p20589677_b_h8_ai.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Gayle King",
-          "Tony Dokoupil",
-          "Nate Burleson"
-        ]
-      }
-    },
-    {
       "start": "2026-05-14T18:00:00+05:00",
       "stop": "2026-05-14T19:00:00+05:00",
       "title": "CBS LA Mornings at 6am",
@@ -110,6 +88,28 @@
         "News"
       ],
       "icon": "http://dtil.tmsimg.com/assets/p31308558_b_h10_aa.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-14T23:30:00+05:00",
+      "stop": "2026-05-15T00:30:00+05:00",
+      "title": "The Young and the Restless",
+      "desc": "Victor gives Nick some tough love; Jack turns the tables on Patty; Phyllis sets a trap.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "Series",
+        "Soap"
+      ],
+      "episode": "S53 E152",
+      "icon": "http://dtil.tmsimg.com/assets/p183904_b_h8_ai.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Peter Bergman",
+          "Eric Braeden",
+          "Christel Khalil"
+        ]
+      }
     }
   ]
 }

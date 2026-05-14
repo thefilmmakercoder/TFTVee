@@ -4,18 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-14T17:00:00+05:00",
-      "stop": "2026-05-14T18:00:00+05:00",
-      "title": "Good Day LA at 5am",
-      "desc": "Morning news coverage.",
-      "date": "2019",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p16719270_b_h8_ab.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-05-14T18:00:00+05:00",
       "stop": "2026-05-14T19:00:00+05:00",
       "title": "Good Day LA at 6am",
@@ -73,6 +61,30 @@
         "Newsmagazine"
       ],
       "icon": "http://dtil.tmsimg.com/assets/p26513975_b_h8_ab.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-15T00:00:00+05:00",
+      "stop": "2026-05-15T01:00:00+05:00",
+      "title": "Sherri",
+      "sub_title": "Bob the Drag Queen",
+      "desc": "Sherri kicks off the show with laughs in The Stand-Up Spot; Bob the Drag Queen tells Sherri about his recent run in Broadway's \"Moulin Rouge\" and new projects with his production company; comedian Sindhu Vee drops in to Sherri's Laugh Lounge.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Talk",
+        "Interview"
+      ],
+      "episode": "S4 E132",
+      "icon": "http://dtil.tmsimg.com/assets/p21805765_b_h8_ab.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Sherri Shepherd",
+          "Bob the Drag Queen",
+          "Sindhu Vee"
+        ]
+      }
     }
   ]
 }

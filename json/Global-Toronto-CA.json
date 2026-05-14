@@ -4,82 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-14T15:00:00+05:00",
-      "stop": "2026-05-14T18:00:00+05:00",
-      "title": "Global News Morning",
-      "desc": "Greater Toronto's top local news stories and latest weather forecast to start your day.",
-      "date": "2019",
-      "language": "en",
-      "categories": [
-        "News",
-        "Weather"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p16568475_b_h10_ad.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-14T18:00:00+05:00",
-      "stop": "2026-05-14T19:00:00+05:00",
-      "title": "The Morning Show",
-      "desc": "Viewers from across the country are welcomed in for an hour of smart conversation, lifestyle segments, big-name guests and live performances.",
-      "date": "2011",
-      "language": "en",
-      "categories": [
-        "News",
-        "Interview"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p8861345_b_h8_aa.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Carolyn Mackenzie",
-          "Jeff McArthur",
-          "Liem Vu"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-14T18:00:00+05:00",
-      "stop": "2026-05-14T19:00:00+05:00",
-      "title": "The Morning Show",
-      "desc": "Viewers from across the country are welcomed in for an hour of smart conversation, lifestyle segments, big-name guests and live performances.",
-      "date": "2011",
-      "language": "en",
-      "categories": [
-        "News",
-        "Interview"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p8861345_b_h8_aa.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Carolyn Mackenzie",
-          "Jeff McArthur",
-          "Liem Vu"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-14T19:00:00+05:00",
-      "stop": "2026-05-14T20:00:00+05:00",
-      "title": "Tamron Hall",
-      "sub_title": "The Chi",
-      "desc": "\"The Chi\" creator Lena Waithe alongside stars Jason Weaver, Jacob Latimore, Birgundi Baker, Hannaha Hall and Luke James, reflect on the show's cultural impact, their journey together, and what viewers can expect as the final season begins.",
-      "date": "2026",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Series",
-        "Talk"
-      ],
-      "episode": "S7 E164",
-      "icon": "http://dtil.tmsimg.com/assets/p17197549_b_h8_af.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Tamron Hall",
-          "Lena Waithe",
-          "Jason Weaver"
-        ]
-      }
-    },
-    {
       "start": "2026-05-14T19:00:00+05:00",
       "stop": "2026-05-14T20:00:00+05:00",
       "title": "Tamron Hall",
@@ -123,6 +47,79 @@
         "actor": [
           "Jonathan Scott",
           "Drew Scott"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-14T20:00:00+05:00",
+      "stop": "2026-05-14T21:00:00+05:00",
+      "title": "Property Brothers: Forever Home",
+      "sub_title": "Janet & Kristopher",
+      "desc": "A couple thought they found a starter house in her old neighborhood, but three years and two kids later, they've decided to stay; Drew and Jonathan are tackling the dated kitchen and floors, so the family can keep making memories in the home.",
+      "date": "2021",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Series",
+        "Reality",
+        "House/garden",
+        "Home improvement"
+      ],
+      "episode": "S5 E13",
+      "icon": "http://dtil.tmsimg.com/assets/p16607789_b_h8_bg.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Jonathan Scott",
+          "Drew Scott"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-14T21:00:00+05:00",
+      "stop": "2026-05-14T21:30:00+05:00",
+      "title": "Global News at Noon",
+      "desc": "Greater Toronto's top local news stories and latest weather forecast.",
+      "date": "2012",
+      "language": "en",
+      "categories": [
+        "News",
+        "Weather"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p9380798_b_h10_ab.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-14T21:00:00+05:00",
+      "stop": "2026-05-14T21:30:00+05:00",
+      "title": "Global News at Noon",
+      "desc": "Greater Toronto's top local news stories and latest weather forecast.",
+      "date": "2012",
+      "language": "en",
+      "categories": [
+        "News",
+        "Weather"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p9380798_b_h10_ab.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-14T21:30:00+05:00",
+      "stop": "2026-05-14T22:00:00+05:00",
+      "title": "Save My Reno",
+      "sub_title": "Justin & Randy",
+      "desc": "Sebastian and Samantha are challenged to give a new look to an old home without losing character.",
+      "date": "2021",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Series",
+        "House/garden",
+        "Reality"
+      ],
+      "episode": "S4 E6",
+      "icon": "http://dtil.tmsimg.com/assets/p19606173_b_h8_ac.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Sebastian Clovis",
+          "Samantha Pynn"
         ]
       }
     }
