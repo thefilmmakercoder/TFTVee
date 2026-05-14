@@ -4,42 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-14T12:30:00+05:00",
-      "stop": "2026-05-14T13:00:00+05:00",
-      "title": "The Aging Brain",
-      "desc": "Learn what's behind mental decline with age, and how to improve memory, focus and concentration with NeuroQ's Darrin Peterson and Dale Bredesen MD.",
-      "language": "en",
-      "categories": [
-        "Consumer"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p30127108_st_h10_aa.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-14T13:00:00+05:00",
-      "stop": "2026-05-14T13:30:00+05:00",
-      "title": "Good Night New York",
-      "desc": "Christal Young and Ryan Kristafer's edgy perspective on entertainment and lifestyle news in NYC and beyond.",
-      "date": "2024",
-      "language": "en",
-      "rating": "TV14",
-      "categories": [
-        "Newsmagazine"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p27878460_b_h8_aa.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-14T13:30:00+05:00",
-      "stop": "2026-05-14T14:00:00+05:00",
-      "title": "Good Day Wake Up",
-      "desc": "Morning news coverage.",
-      "date": "2009",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p706488_b_h8_ab.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-05-14T14:00:00+05:00",
       "stop": "2026-05-14T15:00:00+05:00",
       "title": "Good Day Wake Up",
@@ -74,6 +38,63 @@
         "News"
       ],
       "icon": "http://dtil.tmsimg.com/assets/p706448_b_h8_ab.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-14T18:00:00+05:00",
+      "stop": "2026-05-14T19:00:00+05:00",
+      "title": "Good Day New York",
+      "desc": "Morning news.",
+      "date": "2007",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p706448_b_h8_ab.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-14T19:00:00+05:00",
+      "stop": "2026-05-14T20:00:00+05:00",
+      "title": "Sherri",
+      "sub_title": "Bob the Drag Queen",
+      "desc": "Sherri kicks off the show with laughs in The Stand-Up Spot; Bob the Drag Queen tells Sherri about his recent run in Broadway's \"Moulin Rouge\" and new projects with his production company; comedian Sindhu Vee drops in to Sherri's Laugh Lounge.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Talk",
+        "Interview"
+      ],
+      "episode": "S4 E132",
+      "icon": "http://dtil.tmsimg.com/assets/p21805765_b_h8_ab.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Sherri Shepherd",
+          "Bob the Drag Queen",
+          "Sindhu Vee"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-14T20:00:00+05:00",
+      "stop": "2026-05-14T21:00:00+05:00",
+      "title": "The Jennifer Hudson Show",
+      "desc": "Jennifer welcomes back comedian and actor Jay Pharoah; the McBride family discuss their emotional journey after receiving a second chance at life, and how staying at Ronald McDonald House became a source of comfort, strength and hope during their most difficult moments; joined by global president and CEO Katie Fitzgerald, we learn how Ronald McDonald House has supported more than 1.6 million families around the world by providing care, community and a home away from home when it's needed most.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Talk"
+      ],
+      "episode": "S4 E137",
+      "icon": "http://dtil.tmsimg.com/assets/p31041660_b_h8_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Jennifer Hudson",
+          "Jay Pharoah"
+        ]
+      }
     }
   ]
 }
