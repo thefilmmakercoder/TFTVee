@@ -4,32 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-14T18:15:00+05:00",
-      "stop": "2026-05-14T20:15:00+05:00",
-      "title": "Airplane!",
-      "desc": "This spoof comedy takes shots at the slew of disaster movies that were released in the 70s. When the passengers and crew of a jet are incapacitated due to food poisoning, a rogue pilot with a drinking problem must cooperate with his ex-girlfriend turned stewardess to bring the plane to a safe landing.",
-      "date": "1980",
-      "language": "en",
-      "rating": "PG",
-      "categories": [
-        "Movie",
-        "Dark comedy"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p1671_v_h8_ag.jpg?w=960&h=540",
-      "credits": {
-        "director": [
-          "Jim Abrahams",
-          "David Zucker",
-          "Jerry Zucker"
-        ],
-        "actor": [
-          "Robert Hays",
-          "Julie Hagerty",
-          "Peter Graves"
-        ]
-      }
-    },
-    {
       "start": "2026-05-14T20:15:00+05:00",
       "stop": "2026-05-14T22:15:00+05:00",
       "title": "Airplane II: The Sequel",
@@ -154,6 +128,35 @@
           "Bruce Willis",
           "Gary Oldman",
           "Ian Holm"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-15T09:00:00+05:00",
+      "stop": "2026-05-15T10:00:00+05:00",
+      "title": "NCIS",
+      "sub_title": "Love & War",
+      "desc": "The team discovers a link between a sergeant's murder and his possibly treasonous private life.",
+      "date": "2009",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "Series",
+        "Crime drama",
+        "Action",
+        "Adventure",
+        "Mystery"
+      ],
+      "episode": "S6 E14",
+      "icon": "http://dtil.tmsimg.com/assets/p184930_b_h8_ap.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Terrence O'Hara"
+        ],
+        "actor": [
+          "Mark Harmon",
+          "Michael Weatherly",
+          "Cote de Pablo"
         ]
       }
     }

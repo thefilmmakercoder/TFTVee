@@ -4,18 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-14T09:30:00+05:00",
-      "stop": "2026-05-14T15:30:00+05:00",
-      "title": "..programmes start at 7.00pm",
-      "language": "en"
-    },
-    {
-      "start": "2026-05-14T15:30:00+05:00",
-      "stop": "2026-05-14T21:30:00+05:00",
-      "title": "..programmes start at 7.00pm",
-      "language": "en"
-    },
-    {
       "start": "2026-05-14T21:30:00+05:00",
       "stop": "2026-05-14T22:58:00+05:00",
       "title": "..programmes start at 7.00pm",
@@ -51,6 +39,30 @@
         "Factual"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/05baec28-66d0-38ab-ba64-6113287d2923/16-9"
+    },
+    {
+      "start": "2026-05-15T00:00:00+05:00",
+      "stop": "2026-05-15T01:00:00+05:00",
+      "title": "Freddie Flintoff's Field of Dreams: On Tour",
+      "desc": "For Freddie Flintoff's team, the struggles of life on tour in India start to hit home.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Factual"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/219abcf8-8a16-304b-be01-d195a3c975dc/16-9"
+    },
+    {
+      "start": "2026-05-15T01:00:00+05:00",
+      "stop": "2026-05-15T02:15:00+05:00",
+      "title": "The Traitors India",
+      "desc": "The face-to-face mission brings out the players' true colours, and the Traitors must pull off a 'deadly' mission amidst the palace's first party. Contains some strong language.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Game Show"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/b7227b97-a1c2-4d02-970e-5e40d5402c3e/16-9"
     }
   ]
 }
