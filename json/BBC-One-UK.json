@@ -4,30 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-15T00:00:00+05:00",
-      "stop": "2026-05-15T02:15:00+05:00",
-      "title": "Eurovision Song Contest Semi-Final 2, 2026",
-      "desc": "Eurovision week continues as the UK's Look Mum No Computer takes to the stage. Contains scenes of flashing images.",
-      "language": "en",
-      "categories": [
-        "Entertainment",
-        "Game Show"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/9c1dfec7-230e-4817-a10d-dd301a41dc08/16-9"
-    },
-    {
-      "start": "2026-05-15T02:15:00+05:00",
-      "stop": "2026-05-15T02:45:00+05:00",
-      "title": "BBC News and Weather",
-      "desc": "The latest national and international news, with reports from BBC correspondents worldwide.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/8500fb26-038b-415d-9fe4-e3103d4d97fb/16-9"
-    },
-    {
       "start": "2026-05-15T02:45:00+05:00",
       "stop": "2026-05-15T02:55:00+05:00",
       "title": "BBC London News",
@@ -74,6 +50,30 @@
         "News"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/fa80e3f3-3b6b-4996-86be-891824f22684/16-9"
+    },
+    {
+      "start": "2026-05-15T04:30:00+05:00",
+      "stop": "2026-05-15T10:00:00+05:00",
+      "title": "BBC News",
+      "desc": "BBC One joins the BBC's rolling news channel for a night of news.",
+      "language": "en",
+      "categories": [
+        "News & Documentary",
+        "News"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/50a8693e-e8d1-4dc2-a1d8-4e166b092d14/16-9"
+    },
+    {
+      "start": "2026-05-15T10:00:00+05:00",
+      "stop": "2026-05-15T13:30:00+05:00",
+      "title": "Breakfast",
+      "desc": "The latest news, sport, business and weather from the BBC's Breakfast team.",
+      "language": "en",
+      "categories": [
+        "News & Documentary",
+        "News"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/145a099b-34e9-4146-9e69-6d17ffc09bfd/16-9"
     }
   ]
 }
