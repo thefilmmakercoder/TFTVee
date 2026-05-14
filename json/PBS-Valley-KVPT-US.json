@@ -4,105 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-14T05:30:00+05:00",
-      "stop": "2026-05-14T06:00:00+05:00",
-      "title": "BBC News America",
-      "desc": "Live news program produced out of BBC's Washington, D.C. bureau; host Sumi Somaskanda.",
-      "date": "2023",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p24458358_b_h10_ab.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Sumi Somaskanda"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-14T06:00:00+05:00",
-      "stop": "2026-05-14T07:00:00+05:00",
-      "title": "PBS News Hour",
-      "desc": "Co-anchors Amna Nawaz and Geoff Bennett and correspondents offer in-depth analysis of current events.",
-      "date": "2026",
-      "language": "en",
-      "categories": [
-        "Series",
-        "News"
-      ],
-      "episode": "S52 E227",
-      "icon": "http://dtil.tmsimg.com/assets/p27608822_b_h8_ac.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Amna Nawaz",
-          "Geoff Bennett"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-14T07:00:00+05:00",
-      "stop": "2026-05-14T07:30:00+05:00",
-      "title": "Energy Switch",
-      "sub_title": "Public Opinion on Climate",
-      "desc": "Two veteran pollsters discuss climate, environment and energy; featuring Ashley Grosse and Alec Tyson.",
-      "date": "2026",
-      "language": "en",
-      "rating": "TVG",
-      "categories": [
-        "Series",
-        "Talk",
-        "Environment"
-      ],
-      "episode": "S8 E3",
-      "icon": "http://dtil.tmsimg.com/assets/p22833157_b_h8_ab.jpg?w=960&h=540",
-      "credits": {
-        "director": [
-          "Harry Lynch"
-        ],
-        "actor": [
-          "Scott Tinker"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-14T07:30:00+05:00",
-      "stop": "2026-05-14T08:00:00+05:00",
-      "title": "American Grown: My Job Depends on Ag",
-      "sub_title": "Field of Dreams",
-      "desc": "Stories of adaptation include a microbrewery and non-traditional crops.",
-      "date": "2024",
-      "language": "en",
-      "categories": [
-        "Series",
-        "Agriculture"
-      ],
-      "episode": "E4",
-      "icon": "http://dtil.tmsimg.com/assets/p17374716_st_h10_aa.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-14T08:00:00+05:00",
-      "stop": "2026-05-14T09:00:00+05:00",
-      "title": "Nature",
-      "sub_title": "Attenborough and the Sea Dragon",
-      "desc": "Onsite extraction of fossils of an ichthyosaur, a fish lizard that ruled during the time of the dinosaurs, and a 3-D reconstruction of the creature; host David Attenborough.",
-      "date": "2019",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Series",
-        "Anthology",
-        "Nature"
-      ],
-      "episode": "S37 E7",
-      "icon": "http://dtil.tmsimg.com/assets/p185481_b_h8_ap.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "David Attenborough"
-        ]
-      }
-    },
-    {
       "start": "2026-05-14T09:00:00+05:00",
       "stop": "2026-05-14T10:00:00+05:00",
       "title": "NOVA",
@@ -125,6 +26,88 @@
           "Jay O. Sanders"
         ]
       }
+    },
+    {
+      "start": "2026-05-14T10:00:00+05:00",
+      "stop": "2026-05-14T11:00:00+05:00",
+      "title": "Shared Planet",
+      "sub_title": "Forests",
+      "desc": "Pioneers from Guatemala to Japan share space with wildlife and restore the way we coexist and cultivate among the trees.",
+      "date": "2025",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Documentary"
+      ],
+      "episode": "S1 E4",
+      "icon": "http://dtil.tmsimg.com/assets/p31531763_b_h8_aa.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-14T11:00:00+05:00",
+      "stop": "2026-05-14T12:00:00+05:00",
+      "title": "Nature",
+      "sub_title": "Attenborough and the Sea Dragon",
+      "desc": "Onsite extraction of fossils of an ichthyosaur, a fish lizard that ruled during the time of the dinosaurs, and a 3-D reconstruction of the creature; host David Attenborough.",
+      "date": "2019",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Anthology",
+        "Nature"
+      ],
+      "episode": "S37 E7",
+      "icon": "http://dtil.tmsimg.com/assets/p185481_b_h8_ap.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "David Attenborough"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-14T12:00:00+05:00",
+      "stop": "2026-05-14T13:00:00+05:00",
+      "title": "Amanpour and Company",
+      "desc": "Christiane Amanpour leads discussions about world issues and interviews with global leaders.",
+      "date": "2026",
+      "language": "en",
+      "categories": [
+        "Series",
+        "Public affairs"
+      ],
+      "episode": "S8 E161",
+      "icon": "http://dtil.tmsimg.com/assets/p15694932_b_h8_ac.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Christiane Amanpour"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-14T13:00:00+05:00",
+      "stop": "2026-05-14T13:30:00+05:00",
+      "title": "BBC News",
+      "desc": "News. Reporting on the day's international news from London and from BBC correspondents around the world.",
+      "date": "1991",
+      "language": "en",
+      "rating": "G",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p335785_b_h10_ag.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-14T13:30:00+05:00",
+      "stop": "2026-05-14T14:00:00+05:00",
+      "title": "NHK Newsline",
+      "desc": "This daily news program, produced by Japanese public broadcaster NHK, focuses on headlines and current events in Japan and other Asian countries. English-speaking presenters also cover other areas of interest, including business news, science and technology trends, sports highlights, and global weather forecasts.",
+      "date": "2009",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p269690_b_h11_ad.jpg?w=960&h=540"
     }
   ]
 }

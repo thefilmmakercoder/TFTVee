@@ -4,18 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-14T04:55:00+05:00",
-      "stop": "2026-05-14T05:00:00+05:00",
-      "title": "Weather for the Week Ahead",
-      "desc": "Detailed weather forecast.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/eb07d333-f519-4316-8c22-4b48feba9aea/16-9"
-    },
-    {
       "start": "2026-05-14T05:00:00+05:00",
       "stop": "2026-05-14T10:00:00+05:00",
       "title": "BBC News",
@@ -73,6 +61,18 @@
         "Factual"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/5aae6f37-aa1d-3764-b939-7cd1dc28b894/16-9"
+    },
+    {
+      "start": "2026-05-14T16:15:00+05:00",
+      "stop": "2026-05-14T17:00:00+05:00",
+      "title": "Bargain Hunt",
+      "desc": "Christina Trevanion is in Carmarthenshire, where experts Philip Serrell and Charles Hanson assist the red and blue teams as they shop for antiques in Llandeilo.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Game Show"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/feb656ab-190c-4d2e-8ed1-f7d40e7f9a5b/16-9"
     }
   ]
 }

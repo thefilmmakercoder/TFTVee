@@ -4,32 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-14T04:00:00+05:00",
-      "stop": "2026-05-14T05:00:00+05:00",
-      "title": "Live: NHL on TNT Face Off",
-      "desc": "Wayne Gretzky, Liam McHugh, Anson Carter, and Paul Bissonnette present pregame coverage.",
-      "date": "2021",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Hockey"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p20789172_b_h8_ab.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-14T05:00:00+05:00",
-      "stop": "2026-05-14T08:00:00+05:00",
-      "title": "Live: NHL Hockey",
-      "desc": "The Avalanche host the Wild at Ball Arena for Game 5 of the Central Division Finals. Minnesota relies on Kirill Kaprizov, who tallied 45 goals this season, to counter a Colorado offense led by Nathan MacKinnon and his league-leading transition speed.",
-      "language": "en",
-      "categories": [
-        "Sports",
-        "Playoff sports",
-        "Hockey"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/GNLZZGG0033FHSF.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-05-14T08:00:00+05:00",
       "stop": "2026-05-14T08:30:00+05:00",
       "title": "Live: NHL Post-Game on TNT",
@@ -50,48 +24,86 @@
     },
     {
       "start": "2026-05-14T08:30:00+05:00",
-      "stop": "2026-05-14T09:30:00+05:00",
-      "title": "To Be Announced",
-      "desc": "Programming to be announced.",
-      "date": "2014",
+      "stop": "2026-05-14T10:45:00+05:00",
+      "title": "Dumb & Dumber",
+      "desc": "Imbecilic best friends Lloyd Christmas (Jim Carrey) and Harry Dunne (Jeff Daniels) stumble across a suitcase full of money left behind in Harry's car by Mary Swanson (Lauren Holly), who was on her way to the airport. The pair decide to go to Aspen, Colo., to return the money, unaware that it is connected to a kidnapping. As Harry and Lloyd -- who has fallen in love with Mary -- are pursued across the country by hired killers and police, they find both their friendship and their brains tested.",
+      "date": "1994",
       "language": "en",
-      "rating": "B",
+      "rating": "PG-13",
       "categories": [
-        "Special",
-        "Entertainment"
+        "Movie",
+        "Comedy"
       ],
-      "icon": "http://dtil.tmsimg.com/assets/p514472_b_h8_ad.jpg?w=960&h=540",
+      "icon": "http://dtil.tmsimg.com/assets/p16298_v_h10_af.jpg?w=960&h=540",
       "credits": {
         "director": [
-          "Kinga Michalska"
+          "Peter Farrelly",
+          "Bobby Farrelly"
+        ],
+        "actor": [
+          "Jim Carrey",
+          "Jeff Daniels",
+          "Lauren Holly"
         ]
       }
     },
     {
-      "start": "2026-05-14T09:30:00+05:00",
-      "stop": "2026-05-14T11:00:00+05:00",
-      "title": "To Be Announced",
-      "desc": "Programming to be announced.",
-      "date": "2014",
+      "start": "2026-05-14T10:45:00+05:00",
+      "stop": "2026-05-14T12:30:00+05:00",
+      "title": "Fist Fight",
+      "desc": "On the last day before summer vacation, high school teacher Andy Campbell tries his best to keep it together amid senior pranks, a dysfunctional administration and budget cuts that threaten his job. Things go from bad to worse when he crosses Ron Strickland, the school's toughest and most feared teacher. When Strickland gets fired, he challenges Campbell to a fight after school. As news of the showdown spreads like wildfire, poor Andy desperately seeks any way out of his date with certain doom.",
+      "date": "2017",
       "language": "en",
-      "rating": "B",
+      "rating": "R",
       "categories": [
-        "Special",
-        "Entertainment"
+        "Movie",
+        "Comedy"
       ],
-      "icon": "http://dtil.tmsimg.com/assets/p514472_b_h8_ad.jpg?w=960&h=540",
+      "icon": "http://dtil.tmsimg.com/assets/p13166297_v_h8_aa.jpg?w=960&h=540",
       "credits": {
         "director": [
-          "Kinga Michalska"
+          "Richie Keen"
+        ],
+        "actor": [
+          "Charlie Day",
+          "Ice Cube",
+          "Tracy Morgan"
         ]
       }
     },
     {
-      "start": "2026-05-14T11:00:00+05:00",
-      "stop": "2026-05-14T12:00:00+05:00",
+      "start": "2026-05-14T12:30:00+05:00",
+      "stop": "2026-05-14T13:00:00+05:00",
+      "title": "Impractical Jokers",
+      "sub_title": "Dopamine Denier",
+      "desc": "The Jokers play unprofessional actors in a fake commercial then make wild assumptions about other mall goers; one Joker breaks and is tasked with becoming the strictest security guard imaginable in his punishment.",
+      "date": "2025",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "Series",
+        "Reality",
+        "Comedy"
+      ],
+      "episode": "S12 E8",
+      "icon": "http://dtil.tmsimg.com/assets/p30353577_b_h8_ac.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Mike Damiani"
+        ],
+        "actor": [
+          "Brian \"Q\" Quinn",
+          "James \"Murr\" Murray",
+          "Sal Vulcano"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-14T13:00:00+05:00",
+      "stop": "2026-05-14T14:00:00+05:00",
       "title": "Cold Case",
-      "sub_title": "Sabotage",
-      "desc": "The team searches for a serial bomber whose latest attack hit the wrong target.",
+      "sub_title": "Andy in C Minor",
+      "desc": "New evidence confirms that a popular deaf teen was murdered in 2006, prompting the team to launch a search for the boy's body and his killer.",
       "date": "2008",
       "language": "en",
       "rating": "TV14",
@@ -100,11 +112,38 @@
         "Crime drama",
         "Mystery"
       ],
-      "episode": "S5 E12",
+      "episode": "S5 E14",
       "icon": "http://dtil.tmsimg.com/assets/p7893204_b_h8_aa.jpg?w=960&h=540",
       "credits": {
         "director": [
-          "Nicole Kassell"
+          "Jeannot Szwarc"
+        ],
+        "actor": [
+          "Kathryn Morris",
+          "Danny Pino",
+          "John Finn"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-14T14:00:00+05:00",
+      "stop": "2026-05-14T15:00:00+05:00",
+      "title": "Cold Case",
+      "sub_title": "The Road",
+      "desc": "Lilly and Valens go to West Virginia to retrieve a suspect for the presumed homicide of a woman who was abducted from the parking lot outside her engagement party.",
+      "date": "2008",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "Series",
+        "Crime drama",
+        "Mystery"
+      ],
+      "episode": "S5 E15",
+      "icon": "http://dtil.tmsimg.com/assets/p7893204_b_h8_aa.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Holly Dale"
         ],
         "actor": [
           "Kathryn Morris",
