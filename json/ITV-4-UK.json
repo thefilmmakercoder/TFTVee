@@ -4,42 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-14T08:00:00+05:00",
-      "stop": "2026-05-14T10:00:00+05:00",
-      "title": "Teleshopping",
-      "desc": "Shopping from home.",
-      "language": "en",
-      "categories": [
-        "Specialist",
-        "Shopping"
-      ]
-    },
-    {
-      "start": "2026-05-14T10:00:00+05:00",
-      "stop": "2026-05-14T11:00:00+05:00",
-      "title": "Magnum, P.I.",
-      "sub_title": "Unfinished Business",
-      "desc": "Classic US action drama series. Thomas learns that old enemy Quang Ki is about to be traded for an American serviceman held captive since the Vietnam War.",
-      "language": "en",
-      "categories": [
-        "Entertainment",
-        "Action"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/c7958c3e-dc28-302b-8513-9b332209c3b3/16-9"
-    },
-    {
-      "start": "2026-05-14T11:00:00+05:00",
-      "stop": "2026-05-14T12:05:00+05:00",
-      "title": "Kojak",
-      "desc": "May the Horse Be with You: Classic US detective drama. A retired police officer is hurt after trying to prevent the theft of a racehorse that he illegally housed in the NYPD stables.",
-      "language": "en",
-      "categories": [
-        "Entertainment",
-        "Detective"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/78bc9f0d-b5e6-35ef-93c9-0af56885d4b0/16-9"
-    },
-    {
       "start": "2026-05-14T12:05:00+05:00",
       "stop": "2026-05-14T13:10:00+05:00",
       "title": "The Saint",
@@ -77,6 +41,45 @@
         "Drama"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/c9ca84ae-b2f7-4308-bc5c-394347b2660c/16-9"
+    },
+    {
+      "start": "2026-05-14T15:25:00+05:00",
+      "stop": "2026-05-14T16:25:00+05:00",
+      "title": "BattleBots",
+      "sub_title": "The Final Slugfest",
+      "desc": "US robot combat series. The final Sin City Slugfest sees eight contenders fight to take on the gatekeeper of the last vacant spot in the Golden Bolt Tournament.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Game Show"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/1089ceb3-2034-4adb-967e-89613fbe72e1/16-9"
+    },
+    {
+      "start": "2026-05-14T16:25:00+05:00",
+      "stop": "2026-05-14T17:30:00+05:00",
+      "title": "Magnum, P.I.",
+      "sub_title": "The Great Hawaiian Adventure Company",
+      "desc": "Classic US action drama series. TC's son is shot while trying to escape a gang that has been pressuring him to steal goods from the docks.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Action"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/e9870b05-72a2-34dd-bdef-f7986f690af8/16-9"
+    },
+    {
+      "start": "2026-05-14T17:30:00+05:00",
+      "stop": "2026-05-14T18:35:00+05:00",
+      "title": "Kojak",
+      "sub_title": "Photo Must Credit Joe Paxton",
+      "desc": "Classic US detective drama. A paparazzi photographer becomes the prime suspect in a jewel theft and the phony kidnapping of a former actress.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Detective"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/bc6c00e0-5e3b-3798-a89a-328a68e129ee/16-9"
     }
   ]
 }
