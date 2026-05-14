@@ -4,73 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-14T15:00:00+05:00",
-      "stop": "2026-05-14T15:40:00+05:00",
-      "title": "CTV News Barrie",
-      "desc": "CTV News covers stories that matter to Canadians - locally, nationally, & internationally.",
-      "date": "2014",
-      "language": "en",
-      "rating": "TV14",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p11226354_b_h8_ad.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-14T15:40:00+05:00",
-      "stop": "2026-05-14T16:20:00+05:00",
-      "title": "CTV News Barrie",
-      "desc": "CTV News covers stories that matter to Canadians - locally, nationally, & internationally.",
-      "date": "2014",
-      "language": "en",
-      "rating": "TV14",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p11226354_b_h8_ad.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-14T16:20:00+05:00",
-      "stop": "2026-05-14T17:00:00+05:00",
-      "title": "CTV News Barrie",
-      "desc": "CTV News covers stories that matter to Canadians - locally, nationally, & internationally.",
-      "date": "2014",
-      "language": "en",
-      "rating": "TV14",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p11226354_b_h8_ad.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-14T17:00:00+05:00",
-      "stop": "2026-05-14T17:30:00+05:00",
-      "title": "The Littlest Hobo",
-      "sub_title": "Lumberjacks",
-      "desc": "A gambler plans to sabotage a lumberjack contest.",
-      "date": "1983",
-      "language": "en",
-      "rating": "TVG",
-      "categories": [
-        "Series",
-        "Drama",
-        "Adventure",
-        "Animals"
-      ],
-      "episode": "S5 E8",
-      "icon": "http://dtil.tmsimg.com/assets/p507740_b_h10_ac.jpg?w=960&h=540",
-      "credits": {
-        "director": [
-          "Allan Eastman"
-        ],
-        "actor": [
-          "Lawrence Dane",
-          "Doug Stratton",
-          "Jeff Wincott"
-        ]
-      }
-    },
-    {
       "start": "2026-05-14T17:30:00+05:00",
       "stop": "2026-05-14T18:00:00+05:00",
       "title": "The Littlest Hobo",
@@ -123,6 +56,86 @@
           "Don Granberry",
           "Sharry Flett",
           "Ian Heath"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-14T18:30:00+05:00",
+      "stop": "2026-05-14T19:00:00+05:00",
+      "title": "Paid Programming",
+      "desc": "Paid programming.",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Consumer",
+        "Shopping",
+        "Variety"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-14T19:00:00+05:00",
+      "stop": "2026-05-14T19:30:00+05:00",
+      "title": "Corner Gas",
+      "sub_title": "Final Countdown",
+      "desc": "It's the eve of Brent's 40th birthday; to celebrate, the town has planned a midnight party complete with fireworks and a parade.",
+      "date": "2008",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Sitcom"
+      ],
+      "episode": "S5 E19",
+      "icon": "http://dtil.tmsimg.com/assets/p8495814_b_h10_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Brent Butt",
+          "Eric Peterson",
+          "Janet Wright"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-14T19:30:00+05:00",
+      "stop": "2026-05-14T20:00:00+05:00",
+      "title": "Corner Gas",
+      "sub_title": "Ruby Reborn",
+      "desc": "A big city girl from Toronto moves in to run the coffee shop next door to the Corner Gas station.",
+      "date": "2004",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Sitcom"
+      ],
+      "episode": "S1 E1",
+      "icon": "http://dtil.tmsimg.com/assets/p8495153_b_h10_ab.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Brent Butt",
+          "Eric Peterson",
+          "Janet Wright"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-14T20:00:00+05:00",
+      "stop": "2026-05-14T20:30:00+05:00",
+      "title": "Cash Cab",
+      "desc": "Taxi passengers win money by answering trivia questions.",
+      "date": "2012",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Game show"
+      ],
+      "episode": "S6 E8",
+      "icon": "http://dtil.tmsimg.com/assets/p217679_b_h8_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Adam Growe"
         ]
       }
     }

@@ -4,56 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-14T13:30:00+05:00",
-      "stop": "2026-05-14T14:00:00+05:00",
-      "title": "NHK Newsline",
-      "desc": "This daily news program, produced by Japanese public broadcaster NHK, focuses on headlines and current events in Japan and other Asian countries. English-speaking presenters also cover other areas of interest, including business news, science and technology trends, sports highlights, and global weather forecasts.",
-      "date": "2009",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p269690_b_h11_ad.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-14T14:00:00+05:00",
-      "stop": "2026-05-14T17:00:00+05:00",
-      "title": "Valley PBS Favorites",
-      "date": "2024",
-      "language": "en",
-      "categories": [
-        "Special",
-        "Variety"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p28116494_st_h10_aa.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-14T17:00:00+05:00",
-      "stop": "2026-05-14T17:30:00+05:00",
-      "title": "Lyla in the Loop",
-      "sub_title": "Crack You Up; Power Out Cookout",
-      "desc": "The Loops play fun practical jokes on each other; Loops Lunch moves outside because of a blackout, but it causes many problems.",
-      "date": "2025",
-      "language": "en",
-      "rating": "TVY",
-      "categories": [
-        "Series",
-        "Animated",
-        "Children",
-        "Entertainment",
-        "Educational"
-      ],
-      "episode": "S1 E28",
-      "icon": "http://dtil.tmsimg.com/assets/p26268938_b_h8_aa.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Liyou Abere",
-          "Izzy Woodbury",
-          "Elijah Lindo"
-        ]
-      }
-    },
-    {
       "start": "2026-05-14T17:30:00+05:00",
       "stop": "2026-05-14T18:00:00+05:00",
       "title": "Wild Kratts",
@@ -116,6 +66,69 @@
         "Educational"
       ],
       "icon": "http://dtil.tmsimg.com/assets/p20048411_st_h10_aa.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-14T19:00:00+05:00",
+      "stop": "2026-05-14T19:30:00+05:00",
+      "title": "KVPT Reading Explorers",
+      "date": "2021",
+      "language": "en",
+      "categories": [
+        "Educational"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p20048411_st_h10_aa.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-14T19:30:00+05:00",
+      "stop": "2026-05-14T20:00:00+05:00",
+      "title": "Weather Hunters",
+      "sub_title": "The Leaf Painter",
+      "desc": "The Hunter kids head to the state park to learn why leaves change color.",
+      "date": "2025",
+      "language": "en",
+      "rating": "TVY",
+      "categories": [
+        "Series",
+        "Animated",
+        "Entertainment",
+        "Educational",
+        "Children"
+      ],
+      "episode": "S1 E6",
+      "icon": "http://dtil.tmsimg.com/assets/p30699963_b_h8_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Tandi Fomukong",
+          "Al Roker",
+          "Holly Robinson Peete"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-14T20:00:00+05:00",
+      "stop": "2026-05-14T20:30:00+05:00",
+      "title": "Lyla in the Loop",
+      "sub_title": "Lyla's Lucky Strike; Lyla Out of the Loop",
+      "desc": "Lyla gets a strike her first time bowling but gets frustrated when she realizes bowling isn't as easy as she thought it was; Lyla feels left out when Everett and Ale's friendship thrives.",
+      "date": "2024",
+      "language": "en",
+      "rating": "TVY",
+      "categories": [
+        "Series",
+        "Animated",
+        "Children",
+        "Entertainment",
+        "Educational"
+      ],
+      "episode": "S1 E19",
+      "icon": "http://dtil.tmsimg.com/assets/p26268938_b_h8_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Liyou Abere",
+          "Izzy Woodbury",
+          "Elijah Lindo"
+        ]
+      }
     }
   ]
 }

@@ -4,51 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-14T15:00:00+05:00",
-      "stop": "2026-05-14T15:15:00+05:00",
-      "title": "Hidden Habitats",
-      "sub_title": "Serengeti",
-      "desc": "The grassland of the Serengeti is home to herbivores in Africa.",
-      "date": "2014",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Series",
-        "Nature",
-        "Documentary"
-      ],
-      "episode": "S1 E2",
-      "icon": "http://dtil.tmsimg.com/assets/p10972507_b_h8_aa.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Steve Backshall"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-14T15:15:00+05:00",
-      "stop": "2026-05-14T16:15:00+05:00",
-      "title": "Weird Wonders",
-      "sub_title": "Worm Balls",
-      "desc": "Discover the science behind the puzzle of strange balls of worms on a road, and how an Australian town became plagued by giant bats.",
-      "date": "2017",
-      "language": "en",
-      "rating": "TVG",
-      "categories": [
-        "Series",
-        "Documentary",
-        "Nature",
-        "Animals"
-      ],
-      "episode": "S2 E4",
-      "icon": "http://dtil.tmsimg.com/assets/p13951867_b_h11_ah.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Chris Packham"
-        ]
-      }
-    },
-    {
       "start": "2026-05-14T16:15:00+05:00",
       "stop": "2026-05-14T17:15:00+05:00",
       "title": "Weird Wonders",
@@ -142,6 +97,56 @@
           "Robert Hays",
           "Julie Hagerty",
           "Lloyd Bridges"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-14T22:15:00+05:00",
+      "stop": "2026-05-15T00:45:00+05:00",
+      "title": "Total Recall",
+      "desc": "Douglas Quaid is a bored construction worker in the year 2084 who dreams of visiting colonized Mars. He visits \"Rekall,\" a company that plants false memories into people's brains, in order to experience the thrill of Mars without having to travel there. But something goes wrong during the procedure; Quaid discovers that his entire life is actually a false memory and that the people who implanted it in his head now want him dead.",
+      "date": "1990",
+      "language": "en",
+      "rating": "R",
+      "categories": [
+        "Movie",
+        "Science fiction",
+        "Action"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p12531_v_h8_ar.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Paul Verhoeven"
+        ],
+        "actor": [
+          "Arnold Schwarzenegger",
+          "Rachel Ticotin",
+          "Sharon Stone"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-15T00:45:00+05:00",
+      "stop": "2026-05-15T03:45:00+05:00",
+      "title": "Starship Troopers",
+      "desc": "In the distant future, the Earth is at war with a race of giant alien insects. Little is known about the Bugs except that they are intent on the eradication of all human life. But there was a time before the war... A Mobile Infantry travels to distant alien planets to take the war to the Bugs. They are a ruthless enemy with only one mission: Survival of their species no matter what the cost...",
+      "date": "1997",
+      "language": "en",
+      "rating": "R",
+      "categories": [
+        "Movie",
+        "Science fiction",
+        "Action"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p20046_v_h10_an.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Paul Verhoeven"
+        ],
+        "actor": [
+          "Casper Van Dien",
+          "Dina Meyer",
+          "Denise Richards"
         ]
       }
     }
