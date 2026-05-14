@@ -4,19 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-14T02:59:00+05:00",
-      "stop": "2026-05-14T04:00:00+05:00",
-      "title": "Live: CTV News Barrie",
-      "desc": "CTV News covers stories that matter to Canadians - locally, nationally, & internationally.",
-      "date": "2014",
-      "language": "en",
-      "rating": "TV14",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p11226354_b_h8_ad.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-05-14T04:00:00+05:00",
       "stop": "2026-05-14T06:00:00+05:00",
       "title": "Live: WNBA Basketball",
@@ -120,6 +107,20 @@
           "Chace Crawford"
         ]
       }
+    },
+    {
+      "start": "2026-05-14T09:37:00+05:00",
+      "stop": "2026-05-14T10:07:00+05:00",
+      "title": "CTV National News With Omar Sachedina",
+      "desc": "CTV News covers stories that matter to Canadians - locally, nationally, & internationally.",
+      "date": "2026",
+      "language": "en",
+      "categories": [
+        "Series",
+        "News"
+      ],
+      "episode": "E79",
+      "icon": "http://dtil.tmsimg.com/assets/p22894284_b_h8_ab.jpg?w=960&h=540"
     }
   ]
 }

@@ -4,57 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-14T03:10:00+05:00",
-      "stop": "2026-05-14T03:40:00+05:00",
-      "title": "NHK Newsline",
-      "sub_title": "Thursday 14 May 2026",
-      "desc": "English news from Japan's Broadcasting Corporation, NHK, delivering the latest in business, technology, health, environmental and world news.",
-      "language": "en",
-      "rating": "NR",
-      "categories": [
-        "Sports"
-      ],
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/439062/image/334x188"
-    },
-    {
-      "start": "2026-05-14T03:40:00+05:00",
-      "stop": "2026-05-14T04:30:00+05:00",
-      "title": "Cbc The National",
-      "desc": "CBC's flagship nightly news with hosts Adrienne Arsenault and Andrew Chang from Toronto, Canada.",
-      "language": "en",
-      "rating": "NR",
-      "categories": [
-        "Sports"
-      ],
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/413666/image/334x188"
-    },
-    {
-      "start": "2026-05-14T04:30:00+05:00",
-      "stop": "2026-05-14T05:00:00+05:00",
-      "title": "BBC News At Six",
-      "sub_title": "Thursday 14 May 2026",
-      "desc": "The latest national and international news stories from the BBC News team from London, UK, in English.",
-      "language": "en",
-      "rating": "NR",
-      "categories": [
-        "Sports"
-      ],
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/11514500/image/334x188"
-    },
-    {
-      "start": "2026-05-14T05:00:00+05:00",
-      "stop": "2026-05-14T05:30:00+05:00",
-      "title": "France 24 English News",
-      "sub_title": "France 24 Eng. 1000 Viceland",
-      "desc": "International news and current affairs television from Paris, offering a French perspective on world events, in English.",
-      "language": "en",
-      "rating": "NR",
-      "categories": [
-        "Sports"
-      ],
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/310649/image/334x188"
-    },
-    {
       "start": "2026-05-14T05:30:00+05:00",
       "stop": "2026-05-14T06:00:00+05:00",
       "title": "Euronews The Ring",
@@ -79,6 +28,60 @@
       ],
       "episode": "E38",
       "icon": "https://www.fetchtv.com.au/v2/epg/program/130483/image/334x188"
+    },
+    {
+      "start": "2026-05-14T06:35:00+05:00",
+      "stop": "2026-05-14T07:10:00+05:00",
+      "title": "The Movie Show",
+      "desc": "Film review with Margaret Pomeranz and David Stratton. Covers The Assassin, Malice, King of the Hill with Steven Soderbergh, and Wide Sargasso Sea with Jan Sharp interviews.",
+      "language": "en",
+      "rating": "NR",
+      "categories": [
+        "Special Interest"
+      ],
+      "episode": "E39",
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/130483/image/334x188"
+    },
+    {
+      "start": "2026-05-14T07:10:00+05:00",
+      "stop": "2026-05-14T07:40:00+05:00",
+      "title": "DW The Day",
+      "sub_title": "Thursday 14 May 2026",
+      "desc": "DW The Day is a news show that helps you understand emerging stories from Europe, the US and across the globe, in English, no subtitles.",
+      "language": "en",
+      "rating": "NR",
+      "categories": [
+        "Sports"
+      ],
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/436904/image/334x188"
+    },
+    {
+      "start": "2026-05-14T07:40:00+05:00",
+      "stop": "2026-05-14T08:55:00+05:00",
+      "title": "Alone",
+      "sub_title": "Infestation",
+      "desc": "As winter rapidly approaches, the survivalists struggle to keep up with the demands of solitary living; one participant struggles with nocturnal invaders, and another reaches a breaking point.",
+      "language": "en",
+      "rating": "M",
+      "categories": [
+        "Special Interest"
+      ],
+      "episode": "S10 E8",
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/328237/image/334x188"
+    },
+    {
+      "start": "2026-05-14T08:55:00+05:00",
+      "stop": "2026-05-14T09:50:00+05:00",
+      "title": "UFOs: Investigating The Unknown",
+      "sub_title": "The Ufo Whistleblower",
+      "desc": "A whistleblower provides explosive testimony, military personnel describe strange sightings, and the U.S. government must consider a new approach.",
+      "language": "en",
+      "rating": "M",
+      "categories": [
+        "Special Interest"
+      ],
+      "episode": "S2 E1",
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/5306747/image/334x188"
     }
   ]
 }

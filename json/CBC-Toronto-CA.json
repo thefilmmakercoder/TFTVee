@@ -4,49 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-14T03:00:00+05:00",
-      "stop": "2026-05-14T04:00:00+05:00",
-      "title": "Live: CBC Toronto News",
-      "desc": "Dwight Drummond and team take a comprehensive look at the top stories, with breaking news, reports and updates relevant to the city of Toronto.",
-      "date": "2016",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p12466091_b_h10_ac.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Dwight Drummond"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-14T04:00:00+05:00",
-      "stop": "2026-05-14T04:30:00+05:00",
-      "title": "Son of a Critch",
-      "sub_title": "Who Dares Dare Hudaro?",
-      "desc": "Mark falls under the spell of a visiting hypnotist and lets his grades slip; Pop struggles to lose weight when he gets too fat for his pants.",
-      "date": "2023",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Series",
-        "Sitcom"
-      ],
-      "episode": "S2 E6",
-      "icon": "http://dtil.tmsimg.com/assets/p21339232_b_h8_am.jpg?w=960&h=540",
-      "credits": {
-        "director": [
-          "Deanne Foley"
-        ],
-        "actor": [
-          "Benjamin Evan Ainsworth",
-          "Mark Critch",
-          "Malcolm McDowell"
-        ]
-      }
-    },
-    {
       "start": "2026-05-14T04:30:00+05:00",
       "stop": "2026-05-14T05:00:00+05:00",
       "title": "Family Feud Canada",
@@ -111,6 +68,61 @@
         "News"
       ],
       "icon": "http://dtil.tmsimg.com/assets/p12567799_b_h10_ad.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-14T09:00:00+05:00",
+      "stop": "2026-05-14T09:30:00+05:00",
+      "title": "Coronation Street",
+      "desc": "Carl tries to goad Theo into committing an assault, and Will and Megan plan their future.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Soap",
+        "Drama",
+        "Romance"
+      ],
+      "episode": "E77",
+      "icon": "http://dtil.tmsimg.com/assets/p31898227_b_h11_aa.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Gary Williams"
+        ],
+        "actor": [
+          "Sally Carman-Duttine",
+          "Aaron McCusker",
+          "Sydney Martin"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-14T09:30:00+05:00",
+      "stop": "2026-05-14T10:30:00+05:00",
+      "title": "Coroner",
+      "sub_title": "Fire",
+      "desc": "As Jenny investigates a devastating fire in a low-income apartment building, she connects with a woman who has lost everything.",
+      "date": "2020",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Medical",
+        "Crime drama",
+        "Mystery"
+      ],
+      "episode": "S2 E1 P1/2",
+      "icon": "http://dtil.tmsimg.com/assets/p15557744_b_h10_aq.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Adrienne Mitchell"
+        ],
+        "actor": [
+          "Serinda Swan",
+          "Roger Cross",
+          "Lovell Adams-Gray"
+        ]
+      }
     }
   ]
 }

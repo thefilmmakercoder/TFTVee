@@ -4,70 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-14T03:30:00+05:00",
-      "stop": "2026-05-14T04:00:00+05:00",
-      "title": "PIX11 Evening News",
-      "desc": "Staying informed with the news and headlines.",
-      "date": "2022",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p21846983_b_h8_aa.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-14T04:00:00+05:00",
-      "stop": "2026-05-14T04:30:00+05:00",
-      "title": "Seinfeld",
-      "sub_title": "The Parking Space",
-      "desc": "George and Elaine have some explaining to do when they take Jerry's car for a ride.",
-      "date": "1992",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Series",
-        "Sitcom"
-      ],
-      "episode": "S3 E22",
-      "icon": "http://dtil.tmsimg.com/assets/p183875_b_h10_ab.jpg?w=960&h=540",
-      "credits": {
-        "director": [
-          "Tom Cherones"
-        ],
-        "actor": [
-          "Jerry Seinfeld",
-          "Jason Alexander",
-          "Michael Richards"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-14T04:30:00+05:00",
-      "stop": "2026-05-14T05:00:00+05:00",
-      "title": "The Big Bang Theory",
-      "sub_title": "The Creepy Candy Coating Corollary",
-      "desc": "Sheldon seeks revenge on his nemesis, Wil Wheaton; Wolowitz wants Penny to set him up with one of her friends.",
-      "date": "2009",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Series",
-        "Sitcom"
-      ],
-      "episode": "S3 E5",
-      "icon": "http://dtil.tmsimg.com/assets/p7895968_b_h10_aa.jpg?w=960&h=540",
-      "credits": {
-        "director": [
-          "Mark Cendrowski"
-        ],
-        "actor": [
-          "Johnny Galecki",
-          "Jim Parsons",
-          "Kaley Cuoco"
-        ]
-      }
-    },
-    {
       "start": "2026-05-14T05:00:00+05:00",
       "stop": "2026-05-14T06:00:00+05:00",
       "title": "Police 24/7",
@@ -121,6 +57,66 @@
         "News"
       ],
       "icon": "http://dtil.tmsimg.com/assets/p10829690_b_h8_ab.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-14T08:00:00+05:00",
+      "stop": "2026-05-14T08:30:00+05:00",
+      "title": "New York Nightcap",
+      "date": "2025",
+      "language": "en",
+      "categories": [
+        "Community"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p31821949_st_h10_aa.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-14T08:30:00+05:00",
+      "stop": "2026-05-14T09:00:00+05:00",
+      "title": "Seinfeld",
+      "sub_title": "The Non-Fat Yogurt",
+      "desc": "Jerry and Elaine begin gaining weight and suspect a nonfat-yogurt shop may be making false claims; Jerry's use of a bad word influences Maryedith's son.",
+      "date": "1993",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Sitcom"
+      ],
+      "episode": "S5 E7",
+      "icon": "http://dtil.tmsimg.com/assets/p183875_b_h10_ab.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Tom Cherones"
+        ],
+        "actor": [
+          "Jerry Seinfeld",
+          "Jason Alexander",
+          "Michael Richards"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-14T09:00:00+05:00",
+      "stop": "2026-05-14T09:30:00+05:00",
+      "title": "Friends",
+      "sub_title": "The One With the Breast Milk",
+      "desc": "While tending his son, Ross expresses his displeasure when Phoebe tastes Carol's breast milk to check the temperature.",
+      "date": "1995",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Sitcom"
+      ],
+      "episode": "S2 E2",
+      "icon": "http://dtil.tmsimg.com/assets/p7892599_b_h10_ab.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Jennifer Aniston",
+          "Courteney Cox",
+          "Lisa Kudrow"
+        ]
+      }
     }
   ]
 }
