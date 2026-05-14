@@ -4,20 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-15T00:00:00+05:00",
-      "stop": "2026-05-15T00:30:00+05:00",
-      "title": "Sunrise Early News",
-      "sub_title": "Friday 15 May 2026",
-      "desc": "Wake up to a better breakfast with Edwina Bartholomew for all the latest news, sport and weather.",
-      "language": "en",
-      "rating": "NR",
-      "categories": [
-        "Sports"
-      ],
-      "episode": "S26 E97",
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/434344/image/334x188"
-    },
-    {
       "start": "2026-05-15T00:30:00+05:00",
       "stop": "2026-05-15T01:00:00+05:00",
       "title": "Sunrise",
@@ -83,6 +69,19 @@
         "Drama"
       ],
       "icon": "https://www.fetchtv.com.au/v2/epg/program/3599867/image/334x188"
+    },
+    {
+      "start": "2026-05-15T10:00:00+05:00",
+      "stop": "2026-05-15T11:00:00+05:00",
+      "title": "The Chase",
+      "desc": "Bradley Walsh hosts as four strangers - Stephen from Morecambe, Rachel from Gateshead, Tom from High Wycombe and Bev from Liverpool - take on a Chaser.",
+      "language": "en",
+      "rating": "G",
+      "categories": [
+        "Special Interest"
+      ],
+      "episode": "S12 E122",
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/301143/image/334x188"
     }
   ]
 }
