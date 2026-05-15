@@ -4,17 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-15T11:00:00+05:00",
-      "stop": "2026-05-15T15:00:00+05:00",
-      "title": "Teleshopping",
-      "desc": "Teleshopping.",
-      "language": "en",
-      "categories": [
-        "Specialist",
-        "Shopping"
-      ]
-    },
-    {
       "start": "2026-05-15T15:00:00+05:00",
       "stop": "2026-05-15T16:50:00+05:00",
       "title": "Canyon Passage",
@@ -83,6 +72,20 @@
         "Action"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/3df6fb6a-a92d-40c9-8141-306c585a16b6/16-9"
+    },
+    {
+      "start": "2026-05-16T01:00:00+05:00",
+      "stop": "2026-05-16T03:50:00+05:00",
+      "title": "Bad Times at the El Royale",
+      "desc": "Crime thriller with Jeff Bridges, Jon Hamm, Dakota Johnson and Chris Hemsworth. Shifty strangers collide in a sleazy-but-glamorous deserted motel with its own buried secrets.",
+      "date": "2018",
+      "language": "en",
+      "rating": "15",
+      "categories": [
+        "Movie",
+        "Thriller"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/9c1c5c35-2fdf-4524-8673-89f5bbd8d792/16-9"
     }
   ]
 }

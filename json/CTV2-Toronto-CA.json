@@ -4,59 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-15T14:30:00+05:00",
-      "stop": "2026-05-15T15:00:00+05:00",
-      "title": "Paid Programming",
-      "desc": "Paid programming.",
-      "language": "en",
-      "rating": "TVG",
-      "categories": [
-        "Consumer",
-        "Shopping",
-        "Variety"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-15T15:00:00+05:00",
-      "stop": "2026-05-15T15:40:00+05:00",
-      "title": "CTV News Barrie",
-      "desc": "CTV News covers stories that matter to Canadians - locally, nationally, & internationally.",
-      "date": "2014",
-      "language": "en",
-      "rating": "TV14",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p11226354_b_h8_ad.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-15T15:40:00+05:00",
-      "stop": "2026-05-15T16:20:00+05:00",
-      "title": "CTV News Barrie",
-      "desc": "CTV News covers stories that matter to Canadians - locally, nationally, & internationally.",
-      "date": "2014",
-      "language": "en",
-      "rating": "TV14",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p11226354_b_h8_ad.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-15T16:20:00+05:00",
-      "stop": "2026-05-15T17:00:00+05:00",
-      "title": "CTV News Barrie",
-      "desc": "CTV News covers stories that matter to Canadians - locally, nationally, & internationally.",
-      "date": "2014",
-      "language": "en",
-      "rating": "TV14",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p11226354_b_h8_ad.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-05-15T17:00:00+05:00",
       "stop": "2026-05-15T17:30:00+05:00",
       "title": "Paid Programming",
@@ -95,6 +42,94 @@
           "Lee J. Campbell",
           "Helen Hughes",
           "Candace O'Connor"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-15T18:00:00+05:00",
+      "stop": "2026-05-15T18:30:00+05:00",
+      "title": "The Littlest Hobo",
+      "sub_title": "Ghost Station",
+      "desc": "Hobo becomes involved in a subterranean manhunt.",
+      "date": "1984",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Series",
+        "Drama",
+        "Adventure",
+        "Animals"
+      ],
+      "episode": "S5 E15",
+      "icon": "http://dtil.tmsimg.com/assets/p507740_b_h10_ac.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Jack Nixon-Browne"
+        ],
+        "actor": [
+          "J. Winston Carroll",
+          "James Edmond",
+          "Lori Hallier"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-15T18:30:00+05:00",
+      "stop": "2026-05-15T19:00:00+05:00",
+      "title": "Paid Programming",
+      "desc": "Paid programming.",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Consumer",
+        "Shopping",
+        "Variety"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-15T19:00:00+05:00",
+      "stop": "2026-05-15T19:30:00+05:00",
+      "title": "Corner Gas",
+      "sub_title": "Hook, Line and Sinker",
+      "desc": "Brent puts a sign with slogans in front of the gas station and coffee shop; Brent and Emma worry about Oscar's memory.",
+      "date": "2004",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Sitcom"
+      ],
+      "episode": "S1 E11",
+      "icon": "http://dtil.tmsimg.com/assets/p8495153_b_h10_ab.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Brent Butt",
+          "Eric Peterson",
+          "Janet Wright"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-15T19:30:00+05:00",
+      "stop": "2026-05-15T20:00:00+05:00",
+      "title": "Corner Gas",
+      "sub_title": "Face Off",
+      "desc": "The Dog River hockey team finds itself at a crossroads; Brent is a great goalie and is being taken for granted by his teammates; when an offer from a rival team comes his way, he has a decision to make.",
+      "date": "2004",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Sitcom"
+      ],
+      "episode": "S1 E12",
+      "icon": "http://dtil.tmsimg.com/assets/p8495153_b_h10_ab.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Brent Butt",
+          "Eric Peterson",
+          "Janet Wright"
         ]
       }
     }

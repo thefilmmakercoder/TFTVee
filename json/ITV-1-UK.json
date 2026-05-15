@@ -4,42 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-15T13:30:00+05:00",
-      "stop": "2026-05-15T14:00:00+05:00",
-      "title": "Lorraine",
-      "desc": "Lorraine Kelly presents a topical mix of entertainment, discussion and showbiz glamour as well as the latest fashion, food and celebrity gossip.",
-      "language": "en",
-      "categories": [
-        "Entertainment",
-        "Magazine"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/2cc480b5-2d85-4599-8822-246e5eeda160/16-9"
-    },
-    {
-      "start": "2026-05-15T14:00:00+05:00",
-      "stop": "2026-05-15T16:30:00+05:00",
-      "title": "This Morning",
-      "desc": "Magazine show with news and topical items, celebrity guests, expert advice, real-life stories, competitions and a mix of cookery, health, beauty, lifestyle and more.",
-      "language": "en",
-      "categories": [
-        "Entertainment",
-        "Magazine"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/1584e6b4-c489-4c4e-8124-9ba61157e8f2/16-9"
-    },
-    {
-      "start": "2026-05-15T16:30:00+05:00",
-      "stop": "2026-05-15T17:30:00+05:00",
-      "title": "Loose Women",
-      "desc": "Join the Loose Women panellists as they interview celebrity guests and discuss the day's most topical issues, from current affairs to celebrity gossip and the latest showbiz news.",
-      "language": "en",
-      "categories": [
-        "Entertainment",
-        "Chat Show"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/e974bd74-36e4-423e-8303-e4ab47121971/16-9"
-    },
-    {
       "start": "2026-05-15T17:30:00+05:00",
       "stop": "2026-05-15T17:50:00+05:00",
       "title": "ITV Lunchtime News",
@@ -74,6 +38,42 @@
         "Racing"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/6cafddd2-8b12-4285-8664-075969e9136f/16-9"
+    },
+    {
+      "start": "2026-05-15T21:00:00+05:00",
+      "stop": "2026-05-15T22:00:00+05:00",
+      "title": "The Chase",
+      "desc": "Bradley Walsh hosts and is behind Jacob from Bolton, Sahdiyya from London, Frank from Huntingdon and Claire from Holmfirth all the way as they try to beat one of the Chasers.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Game Show"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/077d57c0-9f2b-30d3-9fd9-c92ef2effa15/16-9"
+    },
+    {
+      "start": "2026-05-15T22:00:00+05:00",
+      "stop": "2026-05-15T22:30:00+05:00",
+      "title": "ITV News London",
+      "desc": "The latest news and weather from London and the South East.",
+      "language": "en",
+      "categories": [
+        "News & Documentary",
+        "News"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/936c64dd-9422-42aa-8e79-5651ed237c4c/16-9"
+    },
+    {
+      "start": "2026-05-15T22:30:00+05:00",
+      "stop": "2026-05-15T23:30:00+05:00",
+      "title": "ITV Evening News",
+      "desc": "National and international news with reports and analysis from ITV's Correspondents in the UK and around the world, plus a focus on the stories that matter to you.",
+      "language": "en",
+      "categories": [
+        "News & Documentary",
+        "News"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/ab8cd145-a2b2-43f4-86eb-c7857f214f15/16-9"
     }
   ]
 }

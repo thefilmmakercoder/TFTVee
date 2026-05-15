@@ -4,38 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-15T15:00:00+05:00",
-      "stop": "2026-05-15T15:30:00+05:00",
-      "title": "Flu? Urgent Care at Home with The Wellness Docs",
-      "desc": "Brutal flu/cold season is here. Have an urgent care and pharmacy in your home - with The Wellness Doctors.",
-      "language": "en",
-      "categories": [
-        "Consumer"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p32369363_st_h10_aa.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-15T15:30:00+05:00",
-      "stop": "2026-05-15T16:00:00+05:00",
-      "title": "TMZ",
-      "desc": "TMZ TV tracks down today's hottest stars with their cameras, whether they are hitting the clubs or the dry cleaners.",
-      "date": "2026",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Series",
-        "Newsmagazine",
-        "Entertainment"
-      ],
-      "episode": "S19 E220",
-      "icon": "http://dtil.tmsimg.com/assets/p30985766_b_h10_aa.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Harvey Levin"
-        ]
-      }
-    },
-    {
       "start": "2026-05-15T16:00:00+05:00",
       "stop": "2026-05-15T17:00:00+05:00",
       "title": "Good Day LA at 4am",
@@ -82,6 +50,30 @@
         "Talk"
       ],
       "icon": "http://dtil.tmsimg.com/assets/p9542652_b_h8_ac.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-15T21:00:00+05:00",
+      "stop": "2026-05-15T22:00:00+05:00",
+      "title": "Good Day LA at 9am",
+      "desc": "Morning news coverage.",
+      "date": "2012",
+      "language": "en",
+      "categories": [
+        "Talk"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p9542653_b_h8_ac.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-15T22:00:00+05:00",
+      "stop": "2026-05-15T23:00:00+05:00",
+      "title": "Good Day LA at 10am",
+      "desc": "Morning news coverage.",
+      "date": "2022",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p22751421_b_h8_ab.jpg?w=960&h=540"
     }
   ]
 }

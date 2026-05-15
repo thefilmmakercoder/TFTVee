@@ -4,20 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-15T14:30:00+05:00",
-      "stop": "2026-05-15T15:00:00+05:00",
-      "title": "Bathroom Makeover",
-      "desc": "Transform your bath affordably in just one day!",
-      "language": "en",
-      "categories": [
-        "Consumer",
-        "Health",
-        "House/garden",
-        "Self improvement"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p30220270_b_h8_aa.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-05-15T15:00:00+05:00",
       "stop": "2026-05-15T17:00:00+05:00",
       "title": "Tournament of Champions",
@@ -113,6 +99,33 @@
         ],
         "actor": [
           "Guy Fieri"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-15T21:00:00+05:00",
+      "stop": "2026-05-15T22:00:00+05:00",
+      "title": "Guy's Grocery Games",
+      "sub_title": "Dessert Games",
+      "desc": "Guy Fieri opens Flavortown's doors to four dessert chefs for a night of sweet treat showdowns; they hit the ground running to make a handheld fried dessert out of only ingredients they can carry and craft their signature sweets using vegetables.",
+      "date": "2022",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Series",
+        "Cooking",
+        "Competition Reality"
+      ],
+      "episode": "S31 E3",
+      "icon": "http://dtil.tmsimg.com/assets/p10181605_b_h8_af.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "J. Rupert Thompson"
+        ],
+        "actor": [
+          "Guy Fieri",
+          "Troy Johnson",
+          "Catherine McCord"
         ]
       }
     }
