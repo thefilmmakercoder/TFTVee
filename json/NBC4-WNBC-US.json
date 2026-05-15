@@ -4,64 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-15T15:00:00+05:00",
-      "stop": "2026-05-15T16:00:00+05:00",
-      "title": "Today in New York @ 6AM",
-      "desc": "The latest local news, weather and investigative stories impacting the community.",
-      "date": "2023",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p24315242_b_h10_aa.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-15T16:00:00+05:00",
-      "stop": "2026-05-15T18:00:00+05:00",
-      "title": "Today",
-      "desc": "The CEO of Zillow; actors Ella Bright and Belmont Cameli (\"Off Campus\"); tips and tricks for a yard sale; Today Food with Neil Kleinberg.",
-      "date": "2026",
-      "language": "en",
-      "rating": "G",
-      "categories": [
-        "Series",
-        "Talk",
-        "News",
-        "Public affairs"
-      ],
-      "episode": "S74 E199",
-      "icon": "http://dtil.tmsimg.com/assets/p30939383_b_h8_aa.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Savannah Guthrie",
-          "Craig Melvin",
-          "Al Roker"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-15T18:00:00+05:00",
-      "stop": "2026-05-15T19:00:00+05:00",
-      "title": "Today 3rd Hour",
-      "desc": "Patton Oswalt guest co-hosts; Black history of Williamsburg with Priscilla Thompson; small biz fun finds of Williamsburg with Betsy Watson; American history trivia; celebrating the \"Pancake Capital of the World.\".",
-      "date": "2026",
-      "language": "en",
-      "categories": [
-        "Series",
-        "Talk",
-        "News"
-      ],
-      "episode": "S8 E169",
-      "icon": "http://dtil.tmsimg.com/assets/p30939266_b_h8_aa.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Craig Melvin",
-          "Al Roker",
-          "Dylan Dreyer"
-        ]
-      }
-    },
-    {
       "start": "2026-05-15T19:00:00+05:00",
       "stop": "2026-05-15T20:00:00+05:00",
       "title": "Today With Jenna & Sheinelle",
@@ -108,6 +50,73 @@
         "Newsmagazine"
       ],
       "icon": "http://dtil.tmsimg.com/assets/p8692580_b_h8_ac.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-15T21:00:00+05:00",
+      "stop": "2026-05-15T22:00:00+05:00",
+      "title": "NBC News Daily",
+      "desc": "NBC News provides viewers with the latest national and international news; consumer, health and personal finance reporting; up-to-the-minute local news.",
+      "date": "2026",
+      "language": "en",
+      "categories": [
+        "Series",
+        "News"
+      ],
+      "episode": "E86",
+      "icon": "http://dtil.tmsimg.com/assets/p22712535_b_h8_ad.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Vicky Nguyen",
+          "Morgan Radford"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-15T22:00:00+05:00",
+      "stop": "2026-05-15T23:00:00+05:00",
+      "title": "Dateline",
+      "sub_title": "Open Desert",
+      "desc": "When 16-year-old Britney Ujlaky disappears, a small town in Nevada bands together to track down a potential suspect - an unknown cowboy; Soon, their focus turns to someone much closer to Britney.",
+      "date": "2025",
+      "language": "en",
+      "categories": [
+        "Series",
+        "Newsmagazine",
+        "Mystery",
+        "Crime"
+      ],
+      "episode": "S9 E1",
+      "icon": "http://dtil.tmsimg.com/assets/p31054010_b_h10_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Craig Melvin",
+          "Andrea Canning",
+          "Natalie Morales"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-15T23:00:00+05:00",
+      "stop": "2026-05-16T00:00:00+05:00",
+      "title": "Access Daily With Mario & Kit",
+      "desc": "Actor Y'lan Noel (Netflix's \"Nemesis\"); podcaster Kelly Rizzo talks about her \"Comfort Food With Kelly Rizzo\" podcast; group chat with actor Dondr\u00e9 Whitfield and Dr. Shay Taylor!",
+      "date": "2026",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Newsmagazine",
+        "Entertainment"
+      ],
+      "episode": "S16 E146",
+      "icon": "http://dtil.tmsimg.com/assets/p22894952_b_h8_ab.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Mario Lopez",
+          "Kit Hoover",
+          "Scott Evans"
+        ]
+      }
     }
   ]
 }

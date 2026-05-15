@@ -4,86 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-15T15:00:00+05:00",
-      "stop": "2026-05-15T16:00:00+05:00",
-      "title": "CBS News New York This Morning 6am",
-      "desc": "News coverage to start the day.",
-      "date": "2020",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p18809073_b_h8_ad.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-15T16:00:00+05:00",
-      "stop": "2026-05-15T18:00:00+05:00",
-      "title": "CBS Mornings",
-      "desc": "Clinical psychologist Dr. Orna Guralnik; actors John Krasinski and Sienna Miller (\"Tom Clancy's Jack Ryan: Ghost War\").",
-      "date": "2026",
-      "language": "en",
-      "categories": [
-        "Series",
-        "Talk",
-        "News"
-      ],
-      "episode": "E97",
-      "icon": "http://dtil.tmsimg.com/assets/p20589677_b_h8_ai.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Gayle King",
-          "Tony Dokoupil",
-          "Nate Burleson"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-15T18:00:00+05:00",
-      "stop": "2026-05-15T18:30:00+05:00",
-      "title": "The Drew Barrymore Show",
-      "sub_title": "Nate Berkus; Jeremy Pope",
-      "desc": "Drew and Ross cover the headlines with pals Valerie Bertinelli and Nate Berkus; Jeremy Pope tells Drew about his show \"The Beauty.\".",
-      "date": "2026",
-      "language": "en",
-      "rating": "TVG",
-      "categories": [
-        "Series",
-        "Talk",
-        "Entertainment"
-      ],
-      "episode": "S6 E193",
-      "icon": "http://dtil.tmsimg.com/assets/p31124897_b_h8_aa.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Drew Barrymore",
-          "Ross Mathews",
-          "Valerie Bertinelli"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-15T18:30:00+05:00",
-      "stop": "2026-05-15T19:00:00+05:00",
-      "title": "The Drew Barrymore Show",
-      "sub_title": "The Honey Pot CEO Beatrice Dixon",
-      "desc": "Drew chats with the CEO and co-founder of The Honey Pot, Beatrice Dixon.",
-      "date": "2026",
-      "language": "en",
-      "rating": "TVG",
-      "categories": [
-        "Series",
-        "Talk",
-        "Entertainment"
-      ],
-      "episode": "S6 E194",
-      "icon": "http://dtil.tmsimg.com/assets/p31124897_b_h8_aa.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Drew Barrymore"
-        ]
-      }
-    },
-    {
       "start": "2026-05-15T19:00:00+05:00",
       "stop": "2026-05-15T20:00:00+05:00",
       "title": "Let's Make a Deal",
@@ -120,6 +40,88 @@
       "credits": {
         "actor": [
           "Drew Carey"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-15T21:00:00+05:00",
+      "stop": "2026-05-15T21:30:00+05:00",
+      "title": "CBS News New York 12pm",
+      "desc": "Midday news update.",
+      "date": "2011",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p8492448_b_h8_aa.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-15T21:30:00+05:00",
+      "stop": "2026-05-15T22:30:00+05:00",
+      "title": "The Young and the Restless",
+      "desc": "Lily catches Cane off guard; Holden and Claire explore new territory; Nick strikes a dangerous deal.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "Series",
+        "Soap"
+      ],
+      "episode": "S53 E153",
+      "icon": "http://dtil.tmsimg.com/assets/p183904_b_h8_ai.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Peter Bergman",
+          "Eric Braeden",
+          "Christel Khalil"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-15T22:30:00+05:00",
+      "stop": "2026-05-15T23:00:00+05:00",
+      "title": "The Bold and the Beautiful",
+      "desc": "Zende grows frustrated with his role as a designer; Brooke is hopeful Ridge will make the right decision.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "Series",
+        "Soap",
+        "Drama",
+        "Romance"
+      ],
+      "episode": "S39 E169",
+      "icon": "http://dtil.tmsimg.com/assets/p31167565_b_h10_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Katherine Kelly Lang",
+          "Jacqueline MacInnes Wood",
+          "Thorsten Kaye"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-15T23:00:00+05:00",
+      "stop": "2026-05-16T00:00:00+05:00",
+      "title": "Beyond the Gates",
+      "desc": "Jacob and Smitty realize the plasma ring operation is about to come to an end; Grayson receives a new life or death deadline; Marcel questions Lia; Ted enlists Monica's help with Shanice; Eva bolsters Samantha, but Tyrell brings her to tears.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "Series",
+        "Soap",
+        "Drama"
+      ],
+      "episode": "S2 E89",
+      "icon": "http://dtil.tmsimg.com/assets/p28339808_b_h8_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Clifton Davis",
+          "Tamara Tunie",
+          "Daphnee Duplaix"
         ]
       }
     }

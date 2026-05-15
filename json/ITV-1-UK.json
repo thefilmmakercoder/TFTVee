@@ -4,18 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-15T17:30:00+05:00",
-      "stop": "2026-05-15T17:50:00+05:00",
-      "title": "ITV Lunchtime News",
-      "desc": "The latest headlines from around the world at lunchtime with reports and analysis from ITV's Correspondents, all of which are followed by a national weather forecast.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/1a5c29b5-5d4a-4c0a-8c1d-65cbeee11e13/16-9"
-    },
-    {
       "start": "2026-05-15T17:50:00+05:00",
       "stop": "2026-05-15T18:00:00+05:00",
       "title": "ITV News London",
@@ -74,6 +62,18 @@
         "News"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/ab8cd145-a2b2-43f4-86eb-c7857f214f15/16-9"
+    },
+    {
+      "start": "2026-05-15T23:30:00+05:00",
+      "stop": "2026-05-16T00:00:00+05:00",
+      "title": "Bradley and Barney Walsh: Breaking Dad",
+      "desc": "The boys have hit the Gold Coast, where Barney has sun, sea and some serious action planned - including setting his old man on fire in an epic stunt.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Travel"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/8434e533-3835-4b32-ad8f-2699512a0bce/16-9"
     }
   ]
 }
