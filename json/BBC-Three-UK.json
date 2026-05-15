@@ -4,13 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-15T08:00:00+05:00",
-      "stop": "2026-05-15T09:30:00+05:00",
-      "title": "This is BBC Three",
-      "desc": "Programmes start at 7.00pm.",
-      "language": "en"
-    },
-    {
       "start": "2026-05-15T09:30:00+05:00",
       "stop": "2026-05-15T15:30:00+05:00",
       "title": "..programmes start at 7.00pm",
@@ -46,6 +39,18 @@
         "News"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/deeafaea-68f0-4744-921c-6fc6867d79ac/16-9"
+    },
+    {
+      "start": "2026-05-15T23:05:00+05:00",
+      "stop": "2026-05-15T23:10:00+05:00",
+      "title": "Dance Race",
+      "desc": "Corey Baker's film rallies dancers, drones, precision drivers and a closed track. Buckle up for dance like you've never seen it before.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Arts"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/3ea0a2f2-719d-30f0-8643-499b21ba3b58/16-9"
     }
   ]
 }

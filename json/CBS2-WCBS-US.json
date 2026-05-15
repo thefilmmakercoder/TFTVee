@@ -4,118 +4,116 @@
   ],
   "programs": [
     {
-      "start": "2026-05-15T08:00:00+05:00",
-      "stop": "2026-05-15T08:35:00+05:00",
-      "title": "CBS News New York 11pm",
-      "desc": "Local news coverage.",
-      "date": "2011",
+      "start": "2026-05-15T14:00:00+05:00",
+      "stop": "2026-05-15T15:00:00+05:00",
+      "title": "CBS News New York This Morning 5am",
+      "desc": "News coverage to start the day.",
+      "date": "2020",
       "language": "en",
-      "rating": "TVPG",
       "categories": [
         "News"
       ],
-      "icon": "http://dtil.tmsimg.com/assets/p8492450_b_h8_ab.jpg?w=960&h=540"
+      "icon": "http://dtil.tmsimg.com/assets/p18809052_b_h8_ac.jpg?w=960&h=540"
     },
     {
-      "start": "2026-05-15T08:35:00+05:00",
-      "stop": "2026-05-15T09:37:00+05:00",
-      "title": "The Late Show With Stephen Colbert",
-      "sub_title": "David Letterman; The Strokes",
-      "desc": "TV host David Letterman; The Strokes perform.",
+      "start": "2026-05-15T15:00:00+05:00",
+      "stop": "2026-05-15T16:00:00+05:00",
+      "title": "CBS News New York This Morning 6am",
+      "desc": "News coverage to start the day.",
+      "date": "2020",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p18809073_b_h8_ad.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-15T16:00:00+05:00",
+      "stop": "2026-05-15T18:00:00+05:00",
+      "title": "CBS Mornings",
+      "desc": "Clinical psychologist Dr. Orna Guralnik; actors John Krasinski and Sienna Miller (\"Tom Clancy's Jack Ryan: Ghost War\").",
       "date": "2026",
       "language": "en",
-      "rating": "TVPG",
       "categories": [
         "Series",
         "Talk",
-        "Comedy"
+        "News"
       ],
-      "episode": "S11 E114",
-      "icon": "http://dtil.tmsimg.com/assets/p31135627_b_h8_ab.jpg?w=960&h=540",
+      "episode": "E97",
+      "icon": "http://dtil.tmsimg.com/assets/p20589677_b_h8_ai.jpg?w=960&h=540",
       "credits": {
         "actor": [
-          "Stephen Colbert",
-          "David Letterman",
-          "The Strokes"
+          "Gayle King",
+          "Tony Dokoupil",
+          "Nate Burleson"
         ]
       }
     },
     {
-      "start": "2026-05-15T09:37:00+05:00",
-      "stop": "2026-05-15T10:07:00+05:00",
-      "title": "Comics Unleashed With Byron Allen",
-      "sub_title": "Sierra Tothero; TuRae; Zane Lamprey; Scott Simpson",
-      "desc": "Sierra Tothero; TuRae; Zane Lamprey; Scott Simpson.",
+      "start": "2026-05-15T18:00:00+05:00",
+      "stop": "2026-05-15T18:30:00+05:00",
+      "title": "The Drew Barrymore Show",
+      "sub_title": "Nate Berkus; Jeremy Pope",
+      "desc": "Drew and Ross cover the headlines with pals Valerie Bertinelli and Nate Berkus; Jeremy Pope tells Drew about his show \"The Beauty.\".",
+      "date": "2026",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Series",
+        "Talk",
+        "Entertainment"
+      ],
+      "episode": "S6 E193",
+      "icon": "http://dtil.tmsimg.com/assets/p31124897_b_h8_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Drew Barrymore",
+          "Ross Mathews",
+          "Valerie Bertinelli"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-15T18:30:00+05:00",
+      "stop": "2026-05-15T19:00:00+05:00",
+      "title": "The Drew Barrymore Show",
+      "sub_title": "The Honey Pot CEO Beatrice Dixon",
+      "desc": "Drew chats with the CEO and co-founder of The Honey Pot, Beatrice Dixon.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Series",
+        "Talk",
+        "Entertainment"
+      ],
+      "episode": "S6 E194",
+      "icon": "http://dtil.tmsimg.com/assets/p31124897_b_h8_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Drew Barrymore"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-15T19:00:00+05:00",
+      "stop": "2026-05-15T20:00:00+05:00",
+      "title": "Let's Make a Deal",
+      "desc": "Costumed contestants compete for cash and prizes.",
       "date": "2026",
       "language": "en",
       "rating": "TVPG",
       "categories": [
         "Series",
-        "Comedy"
+        "Game show"
       ],
-      "episode": "S4 E105",
-      "icon": "http://dtil.tmsimg.com/assets/p186631_b_h8_ad.jpg?w=960&h=540",
+      "episode": "S17 E155",
+      "icon": "http://dtil.tmsimg.com/assets/p31082663_b_h8_aa.jpg?w=960&h=540",
       "credits": {
         "actor": [
-          "Byron Allen",
-          "TuRae",
-          "Zane Lamprey"
+          "Wayne Brady"
         ]
       }
-    },
-    {
-      "start": "2026-05-15T10:07:00+05:00",
-      "stop": "2026-05-15T10:37:00+05:00",
-      "title": "Comics Unleashed With Byron Allen",
-      "desc": "Elon Gold; Nick Guerra; Greg Morton; Michelle Biloon.",
-      "date": "2023",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Series",
-        "Comedy"
-      ],
-      "episode": "S3 E48",
-      "icon": "http://dtil.tmsimg.com/assets/p186631_b_h8_ad.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Byron Allen",
-          "Elon Gold",
-          "Nick Guerra"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-15T10:37:00+05:00",
-      "stop": "2026-05-15T11:07:00+05:00",
-      "title": "Funny You Should Ask",
-      "desc": "Guest stars include Jamie Kennedy, Sheryl Underwood, Adam Carolla, Byron Allen, Natasha Leggero and Jay Mohr.",
-      "date": "2026",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Series",
-        "Game show",
-        "Comedy"
-      ],
-      "episode": "S9 E62",
-      "icon": "http://dtil.tmsimg.com/assets/p28608175_b_h10_aa.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Jon Kelley"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-15T11:07:00+05:00",
-      "stop": "2026-05-15T11:37:00+05:00",
-      "title": "Operation Smile",
-      "desc": "Transforming lives and bringing smiles to children around the world.",
-      "language": "en",
-      "categories": [
-        "Consumer"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p19033352_st_h10_aa.jpg?w=960&h=540"
     }
   ]
 }
