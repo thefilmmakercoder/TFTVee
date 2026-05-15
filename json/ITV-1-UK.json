@@ -4,30 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-15T17:50:00+05:00",
-      "stop": "2026-05-15T18:00:00+05:00",
-      "title": "ITV News London",
-      "desc": "The latest news and weather from London and the South East.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/89d98d26-6306-481b-8579-29507116b677/16-9"
-    },
-    {
-      "start": "2026-05-15T18:00:00+05:00",
-      "stop": "2026-05-15T21:00:00+05:00",
-      "title": "ITV Racing: Live from York",
-      "desc": "Ed Chamberlin and Francesca Cumani present live racing from day three of the Dante meeting at York. Today's feature race is the Yorkshire Cup, and there's racing from Newbury.",
-      "language": "en",
-      "categories": [
-        "Sports",
-        "Racing"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/6cafddd2-8b12-4285-8664-075969e9136f/16-9"
-    },
-    {
       "start": "2026-05-15T21:00:00+05:00",
       "stop": "2026-05-15T22:00:00+05:00",
       "title": "The Chase",
@@ -74,6 +50,30 @@
         "Travel"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/8434e533-3835-4b32-ad8f-2699512a0bce/16-9"
+    },
+    {
+      "start": "2026-05-16T00:00:00+05:00",
+      "stop": "2026-05-16T00:30:00+05:00",
+      "title": "Emmerdale",
+      "desc": "Robert remains anxious to settle things with Cain. Manpreet lets some news slip. Robert is attacked and knocked unconscious.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Soap"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/21d17e71-4758-42f6-a28f-06002eb1bc7c/16-9"
+    },
+    {
+      "start": "2026-05-16T00:30:00+05:00",
+      "stop": "2026-05-16T01:00:00+05:00",
+      "title": "Coronation Street",
+      "desc": "Sam shows Roy a tracking device he found in his school bag, Cassie gets distracted while childminding, Kit and Lisa's investigation stalls, and Ben suffers a meltdown.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Soap"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/b04f81c6-cd56-453e-b565-e05bbfe8c053/16-9"
     }
   ]
 }

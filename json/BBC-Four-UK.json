@@ -4,12 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-15T09:30:00+05:00",
-      "stop": "2026-05-15T15:30:00+05:00",
-      "title": "..programmes start at 7.00pm",
-      "language": "en"
-    },
-    {
       "start": "2026-05-15T15:30:00+05:00",
       "stop": "2026-05-15T21:30:00+05:00",
       "title": "..programmes start at 7.00pm",
@@ -51,6 +45,18 @@
         "Rock&Pop"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/f0356a65-b624-4abd-8fc6-7aa6ecb70561/16-9"
+    },
+    {
+      "start": "2026-05-15T23:55:00+05:00",
+      "stop": "2026-05-16T00:30:00+05:00",
+      "title": "TOTP: 1985",
+      "desc": "Peter Powell and Gary Davies present the pop chart programme. Featuring Kim Wilde, Bryan Ferry, Duran Duran, Jimmy Nail, Debarge, Phyllis Nelson, Paul Hardcastle and Divine.",
+      "language": "en",
+      "categories": [
+        "Music & Radio",
+        "Rock&Pop"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/efa2fb3b-a3ae-4a19-8226-cb0f424f5798/16-9"
     }
   ]
 }
