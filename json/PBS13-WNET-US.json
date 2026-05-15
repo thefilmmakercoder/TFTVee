@@ -4,36 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-16T02:30:00+05:00",
-      "stop": "2026-05-16T03:00:00+05:00",
-      "title": "NJ Spotlight News with Briana Vannozzi",
-      "desc": "Statewide reporting on the latest news and issues affecting communities across the Garden State.",
-      "date": "2020",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p18850294_b_h10_aa.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-16T03:00:00+05:00",
-      "stop": "2026-05-16T03:30:00+05:00",
-      "title": "DW News",
-      "desc": "Presenting a round-up of the most recent news and developments from across the world.",
-      "date": "2002",
-      "language": "en",
-      "rating": "A",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p26245192_b_h10_aa.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Ben Fajzullin"
-        ]
-      }
-    },
-    {
       "start": "2026-05-16T03:30:00+05:00",
       "stop": "2026-05-16T04:00:00+05:00",
       "title": "BBC World News America",
@@ -110,6 +80,43 @@
       "credits": {
         "actor": [
           "Margaret Hoover"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-16T06:00:00+05:00",
+      "stop": "2026-05-16T08:30:00+05:00",
+      "title": "Great Performances",
+      "sub_title": "Irving Berlin's Top Hat",
+      "desc": "Based on the 1935 movie musical starring Fred Astaire and Ginger Rogers, \"Top Hat\" features dazzling choreography and period sets, with an Irving Berlin score featuring \"Cheek to Cheek,\" \"Let's Face the Music and Dance\" and \"Puttin' on the Ritz.\".",
+      "date": "2026",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Music",
+        "Dance",
+        "Performing arts"
+      ],
+      "episode": "S53 E14",
+      "icon": "http://dtil.tmsimg.com/assets/p31082022_b_h10_aa.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-16T08:30:00+05:00",
+      "stop": "2026-05-16T09:30:00+05:00",
+      "title": "Amanpour and Company",
+      "desc": "Christiane Amanpour leads discussions about world issues and interviews with global leaders.",
+      "date": "2026",
+      "language": "en",
+      "categories": [
+        "Series",
+        "Public affairs"
+      ],
+      "episode": "S8 E163",
+      "icon": "http://dtil.tmsimg.com/assets/p15694932_b_h8_ac.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Christiane Amanpour"
         ]
       }
     }

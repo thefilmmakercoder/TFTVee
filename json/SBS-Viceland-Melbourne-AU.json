@@ -4,32 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-16T02:50:00+05:00",
-      "stop": "2026-05-16T03:00:00+05:00",
-      "title": "France 24 Feature",
-      "sub_title": "First Edition",
-      "desc": "News feature in English from France 24, Paris.",
-      "language": "en",
-      "rating": "NR",
-      "categories": [
-        "Sports"
-      ],
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/337182/image/334x188"
-    },
-    {
-      "start": "2026-05-16T03:00:00+05:00",
-      "stop": "2026-05-16T03:10:00+05:00",
-      "title": "Euronews",
-      "sub_title": "Saturday 16 May 2026",
-      "desc": "Headlines, Breaking News & Analysis from the Euronews news centre in Brussels, Belgium, in English.",
-      "language": "en",
-      "rating": "NR",
-      "categories": [
-        "Sports"
-      ],
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/276/image/334x188"
-    },
-    {
       "start": "2026-05-16T03:10:00+05:00",
       "stop": "2026-05-16T03:40:00+05:00",
       "title": "NHK Newsline",
@@ -79,6 +53,34 @@
         "Sports"
       ],
       "icon": "https://www.fetchtv.com.au/v2/epg/program/310649/image/334x188"
+    },
+    {
+      "start": "2026-05-16T05:30:00+05:00",
+      "stop": "2026-05-16T08:00:00+05:00",
+      "title": "Eurovision Song Contest",
+      "sub_title": "Eurovision Semi Final 1 Access All Areas",
+      "desc": "Join commentators Courtney Act for and Danny Estrin with exclusive backstage access in Eurovision Semi Final 1.",
+      "language": "en",
+      "rating": "NR",
+      "categories": [
+        "Special Interest"
+      ],
+      "episode": "E2",
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/2004689/image/334x188"
+    },
+    {
+      "start": "2026-05-16T08:00:00+05:00",
+      "stop": "2026-05-16T08:10:00+05:00",
+      "title": "Lee Lin Chin's Fashionista",
+      "sub_title": "Mad Cortes",
+      "desc": "Fashion series hosted by SBS TV's iconic fashion guru, Lee Lin Chin. This episode goes behind-the-scenes of label Mad Cortes, with Sarajevo-born designer Mira Vukovic.",
+      "language": "en",
+      "rating": "G",
+      "categories": [
+        "Special Interest"
+      ],
+      "episode": "S2 E21",
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/158604/image/334x188"
     }
   ]
 }

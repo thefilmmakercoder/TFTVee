@@ -4,25 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-16T02:30:00+05:00",
-      "stop": "2026-05-16T02:59:00+05:00",
-      "title": "CTV National News With Heather Butts",
-      "desc": "CTV News covers stories that matter to Canadians - locally, nationally, & internationally.",
-      "date": "2026",
-      "language": "en",
-      "categories": [
-        "Series",
-        "News"
-      ],
-      "episode": "E58",
-      "icon": "http://dtil.tmsimg.com/assets/p26024787_b_h8_aa.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Heather Butts"
-        ]
-      }
-    },
-    {
       "start": "2026-05-16T02:59:00+05:00",
       "stop": "2026-05-16T04:00:00+05:00",
       "title": "Live: CTV News Barrie",
@@ -132,6 +113,19 @@
           "Janet Wright"
         ]
       }
+    },
+    {
+      "start": "2026-05-16T08:00:00+05:00",
+      "stop": "2026-05-16T08:34:00+05:00",
+      "title": "Live: CTV News Barrie",
+      "desc": "CTV News covers stories that matter to Canadians - locally, nationally, & internationally.",
+      "date": "2014",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p11226354_b_h8_ad.jpg?w=960&h=540"
     }
   ]
 }
