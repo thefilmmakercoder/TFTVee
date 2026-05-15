@@ -4,50 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-15T21:00:00+05:00",
-      "stop": "2026-05-15T22:00:00+05:00",
-      "title": "NBC News Daily",
-      "desc": "NBC News provides viewers with the latest national and international news; consumer, health and personal finance reporting; up-to-the-minute local news.",
-      "date": "2026",
-      "language": "en",
-      "categories": [
-        "Series",
-        "News"
-      ],
-      "episode": "E86",
-      "icon": "http://dtil.tmsimg.com/assets/p22712535_b_h8_ad.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Vicky Nguyen",
-          "Morgan Radford"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-15T22:00:00+05:00",
-      "stop": "2026-05-15T23:00:00+05:00",
-      "title": "Dateline",
-      "sub_title": "Open Desert",
-      "desc": "When 16-year-old Britney Ujlaky disappears, a small town in Nevada bands together to track down a potential suspect - an unknown cowboy; Soon, their focus turns to someone much closer to Britney.",
-      "date": "2025",
-      "language": "en",
-      "categories": [
-        "Series",
-        "Newsmagazine",
-        "Mystery",
-        "Crime"
-      ],
-      "episode": "S9 E1",
-      "icon": "http://dtil.tmsimg.com/assets/p31054010_b_h10_aa.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Craig Melvin",
-          "Andrea Canning",
-          "Natalie Morales"
-        ]
-      }
-    },
-    {
       "start": "2026-05-15T23:00:00+05:00",
       "stop": "2026-05-16T00:00:00+05:00",
       "title": "Access Daily With Mario & Kit",
@@ -124,6 +80,30 @@
         "News"
       ],
       "icon": "http://dtil.tmsimg.com/assets/p14883147_b_h10_ab.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-16T02:00:00+05:00",
+      "stop": "2026-05-16T02:30:00+05:00",
+      "title": "Live: News 4 NY at 5",
+      "desc": "The latest local news, weather and investigative stories impacting your community.",
+      "date": "2011",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p8846204_b_h10_ae.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-16T02:30:00+05:00",
+      "stop": "2026-05-16T03:00:00+05:00",
+      "title": "Live: News 4 NY at 5:30",
+      "desc": "NY news.",
+      "date": "2017",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p14883149_b_h10_ac.jpg?w=960&h=540"
     }
   ]
 }

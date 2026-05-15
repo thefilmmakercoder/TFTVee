@@ -4,30 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-15T21:00:00+05:00",
-      "stop": "2026-05-15T22:00:00+05:00",
-      "title": "Good Day LA at 9am",
-      "desc": "Morning news coverage.",
-      "date": "2012",
-      "language": "en",
-      "categories": [
-        "Talk"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p9542653_b_h8_ac.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-15T22:00:00+05:00",
-      "stop": "2026-05-15T23:00:00+05:00",
-      "title": "Good Day LA at 10am",
-      "desc": "Morning news coverage.",
-      "date": "2022",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p22751421_b_h8_ab.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-05-15T23:00:00+05:00",
       "stop": "2026-05-16T00:00:00+05:00",
       "title": "GDLA+",
@@ -104,6 +80,51 @@
           "Meredith Vieira",
           "Kelly McCreary",
           "Matt Iseman"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-16T03:00:00+05:00",
+      "stop": "2026-05-16T04:00:00+05:00",
+      "title": "Dateline",
+      "sub_title": "Open Desert",
+      "desc": "When 16-year-old Britney Ujlaky disappears, a small town in Nevada bands together to track down a potential suspect - an unknown cowboy; Soon, their focus turns to someone much closer to Britney.",
+      "date": "2025",
+      "language": "en",
+      "categories": [
+        "Series",
+        "Newsmagazine",
+        "Mystery",
+        "Crime"
+      ],
+      "episode": "S9 E1",
+      "icon": "http://dtil.tmsimg.com/assets/p31054010_b_h10_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Craig Melvin",
+          "Andrea Canning",
+          "Natalie Morales"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-16T04:00:00+05:00",
+      "stop": "2026-05-16T05:00:00+05:00",
+      "title": "TMZ Live",
+      "desc": "A candid look at how the gossip site operates, bringing viewers into the site's newsroom, where the daily chats take place; viewers present their opinions on the featured topics through social media, phone calls and video chat.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Newsmagazine",
+        "Entertainment"
+      ],
+      "episode": "S14 E185",
+      "icon": "http://dtil.tmsimg.com/assets/p9132568_b_h10_ab.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Harvey Levin"
         ]
       }
     }
