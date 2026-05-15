@@ -4,18 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-15T03:05:00+05:00",
-      "stop": "2026-05-15T03:35:00+05:00",
-      "title": "Ligue 1 Highlights",
-      "desc": "Action from the top flight of French football, featuring Lens v Nantes, Auxerre v Nice, Le Havre v Marseille, Monaco v Lille, PSG v Brest and Toulouse v Lyon.",
-      "language": "en",
-      "categories": [
-        "Sports",
-        "Football"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/35b8a558-285f-4f52-8365-a9d1738e462b/16-9"
-    },
-    {
       "start": "2026-05-15T03:35:00+05:00",
       "stop": "2026-05-15T04:40:00+05:00",
       "title": "Berlin Station",
@@ -77,6 +65,17 @@
         "Lifestyles"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/7880882a-7a2d-4fcd-a2ed-8ecbb72994c3/16-9"
+    },
+    {
+      "start": "2026-05-15T07:00:00+05:00",
+      "stop": "2026-05-15T07:30:00+05:00",
+      "title": "Teleshopping",
+      "desc": "Shopping from home.",
+      "language": "en",
+      "categories": [
+        "Specialist",
+        "Shopping"
+      ]
     }
   ]
 }

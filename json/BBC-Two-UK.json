@@ -4,30 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-15T02:30:00+05:00",
-      "stop": "2026-05-15T03:00:00+05:00",
-      "title": "Newsnight, followed by Weather",
-      "desc": "Insights and global interviews on the news stories of the day. With Paddy O'Connell. Followed by Weather.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/b02fd172-aa0e-4a06-8df8-ecbbe8b71459/16-9"
-    },
-    {
-      "start": "2026-05-15T03:00:00+05:00",
-      "stop": "2026-05-15T04:00:00+05:00",
-      "title": "Surgeons: At the Edge of Life",
-      "desc": "Surgeons face tricky dilemmas in bile duct tumour and chest sarcoma operations. Contains graphic medical scenes.",
-      "language": "en",
-      "categories": [
-        "Entertainment",
-        "Factual"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/e4bde923-e52f-4750-bbe7-55dda02d7a9e/16-9"
-    },
-    {
       "start": "2026-05-15T04:00:00+05:00",
       "stop": "2026-05-15T04:40:00+05:00",
       "title": "This Is a Bomb: The Nevada Casino Heist",
@@ -73,6 +49,25 @@
         "Detective"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/0df957e5-36d8-4e51-90f8-28d673e69135/16-9"
+    },
+    {
+      "start": "2026-05-15T07:40:00+05:00",
+      "stop": "2026-05-15T10:45:00+05:00",
+      "title": "This is BBC Two",
+      "desc": "Highlights of programmes on BBC Two.",
+      "language": "en"
+    },
+    {
+      "start": "2026-05-15T10:45:00+05:00",
+      "stop": "2026-05-15T11:30:00+05:00",
+      "title": "Escape to the Country",
+      "desc": "Nicki Chapman helps Carol find a new home for her and her husband to be near the sea. It's an escape featuring homes with roses around the door and breathtaking mountain views.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Gradening"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/543a67b4-81bc-4d93-8d1d-7ed3799974ff/16-9"
     }
   ]
 }

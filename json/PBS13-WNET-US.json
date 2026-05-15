@@ -4,42 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-15T03:00:00+05:00",
-      "stop": "2026-05-15T03:30:00+05:00",
-      "title": "DW News",
-      "desc": "Presenting a round-up of the most recent news and developments from across the world.",
-      "date": "2002",
-      "language": "en",
-      "rating": "A",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p26245192_b_h10_aa.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Ben Fajzullin"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-15T03:30:00+05:00",
-      "stop": "2026-05-15T04:00:00+05:00",
-      "title": "BBC World News America",
-      "desc": "A detailed look into news stories from around the world from the BBC news desk in Washington, D.C.",
-      "date": "2026",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p32402912_b_h10_aa.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Sumi Somaskanda",
-          "Caitr\u00edona Perry"
-        ]
-      }
-    },
-    {
       "start": "2026-05-15T04:00:00+05:00",
       "stop": "2026-05-15T05:00:00+05:00",
       "title": "PBS News Hour",
@@ -125,6 +89,52 @@
       "credits": {
         "actor": [
           "Christiane Amanpour"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-15T09:30:00+05:00",
+      "stop": "2026-05-15T10:30:00+05:00",
+      "title": "Nature",
+      "sub_title": "Attenborough and the Sea Dragon",
+      "desc": "Onsite extraction of fossils of an ichthyosaur, a fish lizard that ruled during the time of the dinosaurs, and a 3-D reconstruction of the creature; host David Attenborough.",
+      "date": "2019",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Anthology",
+        "Nature"
+      ],
+      "episode": "S37 E7",
+      "icon": "http://dtil.tmsimg.com/assets/p185481_b_h8_ap.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "David Attenborough"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-15T10:30:00+05:00",
+      "stop": "2026-05-15T11:30:00+05:00",
+      "title": "NOVA",
+      "sub_title": "Decoding the Universe: Quantum",
+      "desc": "Exploring the quantum universe.",
+      "date": "2024",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Series",
+        "Science",
+        "Nature",
+        "Anthology",
+        "Documentary"
+      ],
+      "episode": "S51 E14",
+      "icon": "http://dtil.tmsimg.com/assets/p26187128_b_h8_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Jay O. Sanders"
         ]
       }
     }

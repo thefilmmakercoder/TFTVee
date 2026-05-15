@@ -4,63 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-15T03:00:00+05:00",
-      "stop": "2026-05-15T03:30:00+05:00",
-      "title": "CBS News New York 6pm",
-      "desc": "Stay informed with the latest breaking news and headlines.",
-      "date": "2008",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p605164_b_h8_ab.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-15T03:30:00+05:00",
-      "stop": "2026-05-15T04:00:00+05:00",
-      "title": "CBS Evening News",
-      "desc": "Tony Dokoupil shares the day's most important stories, delivering context and depth to bring greater understanding to one's world.",
-      "date": "2026",
-      "language": "en",
-      "categories": [
-        "Series",
-        "News"
-      ],
-      "episode": "E134",
-      "icon": "http://dtil.tmsimg.com/assets/p28807922_b_h8_ae.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Tony Dokoupil",
-          "Maurice DuBois",
-          "Jericka Duncan"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-15T04:00:00+05:00",
-      "stop": "2026-05-15T04:30:00+05:00",
-      "title": "Inside Edition",
-      "desc": "A syndicated news magazine includes investigative reports, interviews with newsmakers, human interest stories and celebrity and pop-culture features.",
-      "date": "2026",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Series",
-        "Newsmagazine",
-        "Public affairs",
-        "Interview"
-      ],
-      "episode": "S38 E179",
-      "icon": "http://dtil.tmsimg.com/assets/p184110_b_h10_aa.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Eva Pilgrim",
-          "Mary Calvi",
-          "Jim Moret"
-        ]
-      }
-    },
-    {
       "start": "2026-05-15T04:30:00+05:00",
       "stop": "2026-05-15T05:00:00+05:00",
       "title": "Entertainment Tonight",
@@ -139,6 +82,73 @@
           "Brandon Scott Jones"
         ]
       }
+    },
+    {
+      "start": "2026-05-15T06:01:00+05:00",
+      "stop": "2026-05-15T07:00:00+05:00",
+      "title": "Elsbeth",
+      "sub_title": "Catch and Kill",
+      "desc": "Elsbeth battles a veteran gossip columnist who trades in people's secrets -- and may have killed to keep her own.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "Series",
+        "Drama",
+        "Law"
+      ],
+      "episode": "S3 E19",
+      "icon": "http://dtil.tmsimg.com/assets/p30698170_b_h8_aa.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Nancy Hower"
+        ],
+        "actor": [
+          "Carrie Preston",
+          "Wendell Pierce",
+          "Carra Patterson"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-15T07:00:00+05:00",
+      "stop": "2026-05-15T08:00:00+05:00",
+      "title": "Elsbeth",
+      "sub_title": "Deadutante",
+      "desc": "After a powerful patriarch is stabbed with a sword at New York's most exclusive debutante ball, Elsbeth must engage in combat with the imperious ball director.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "Series",
+        "Drama",
+        "Law"
+      ],
+      "episode": "S3 E14",
+      "icon": "http://dtil.tmsimg.com/assets/p30698170_b_h8_aa.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Peter Sollett"
+        ],
+        "actor": [
+          "Carrie Preston",
+          "Wendell Pierce",
+          "Carra Patterson"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-15T08:00:00+05:00",
+      "stop": "2026-05-15T08:35:00+05:00",
+      "title": "CBS News New York 11pm",
+      "desc": "Local news coverage.",
+      "date": "2011",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p8492450_b_h8_ab.jpg?w=960&h=540"
     }
   ]
 }
