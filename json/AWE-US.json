@@ -4,8 +4,23 @@
   ],
   "programs": [
     {
-      "start": "2026-05-15T04:30:00+05:00",
-      "stop": "2026-05-15T05:00:00+05:00",
+      "start": "2026-05-15T09:00:00+05:00",
+      "stop": "2026-05-15T09:30:00+05:00",
+      "title": "Travel in Style",
+      "sub_title": "Malaysia & LA",
+      "desc": "From Asia to America, exploring the different cultures of Malaysia and Los Angeles.",
+      "date": "2019",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Series",
+        "Travel"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p9447816_b_h10_aa.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-15T09:30:00+05:00",
+      "stop": "2026-05-15T10:00:00+05:00",
       "title": "Private Islands",
       "sub_title": "Hamilton Island",
       "desc": "Amber Wyatt visits Australia's Hamilton Island, where she rediscovers her homeland, marvels at the tropical colors of the Great Barrier Reef, indulges in island life, and samples fresh local cuisine.",
@@ -20,8 +35,8 @@
       "icon": "http://dtil.tmsimg.com/assets/p865073_b_h10_ab.jpg?w=960&h=540"
     },
     {
-      "start": "2026-05-15T05:00:00+05:00",
-      "stop": "2026-05-15T05:30:00+05:00",
+      "start": "2026-05-15T10:00:00+05:00",
+      "stop": "2026-05-15T10:30:00+05:00",
       "title": "Behind the Gates",
       "sub_title": "Beach Front Malibu",
       "desc": "A brand-new villa inspired property located in the Hollywood Hills. All access pass into the beachfront Malibu home of the Robb Report. Visit a beautiful ocean view home with its own vineyard.",
@@ -37,8 +52,8 @@
       "icon": "http://dtil.tmsimg.com/assets/p13227213_b_h10_ab.jpg?w=960&h=540"
     },
     {
-      "start": "2026-05-15T05:30:00+05:00",
-      "stop": "2026-05-15T06:00:00+05:00",
+      "start": "2026-05-15T10:30:00+05:00",
+      "stop": "2026-05-15T11:00:00+05:00",
       "title": "Travel Thru History",
       "sub_title": "Louisville",
       "desc": "We learn the history of the world-famous Kentucky Derby, and call our shot, at one of America's most famous brands, Louisville Slugger. Also, we zip line in the world's only underground zip line attraction.",
@@ -52,54 +67,46 @@
       "icon": "http://dtil.tmsimg.com/assets/p9459138_b_h10_ab.jpg?w=960&h=540"
     },
     {
-      "start": "2026-05-15T06:00:00+05:00",
-      "stop": "2026-05-15T07:00:00+05:00",
+      "start": "2026-05-15T11:00:00+05:00",
+      "stop": "2026-05-15T12:00:00+05:00",
       "title": "5 Star Getaways",
-      "sub_title": "Punta Cana",
-      "desc": "A visit to Punta Cana's hotels, the Secret Cap Cana Resort and Spa, Excellence El Carmen, Nickelodeon Hotel and Resort and Luxury Baha Principe Fantasia Don Pable Collection.",
+      "desc": "This series is a sun-filled invitation to travel and visit magnificent all-inclusive 5-star resorts throughout the world, their magnificent surroundings and the exciting excursions one can do at each destination.",
       "date": "2020",
       "language": "en",
       "rating": "TVG",
       "categories": [
-        "Series",
         "Travel",
         "Entertainment"
       ],
-      "episode": "E3",
       "icon": "http://dtil.tmsimg.com/assets/p18726350_b_h8_aa.jpg?w=960&h=540"
     },
     {
-      "start": "2026-05-15T07:00:00+05:00",
-      "stop": "2026-05-15T07:30:00+05:00",
-      "title": "Selling Mega Mansions",
-      "sub_title": "Coming to America",
-      "desc": "Mahmood is ready to relocate back to Beverly Hills and invest heavily in the Los Angeles and Beverly Hills real estate market.",
+      "start": "2026-05-15T12:00:00+05:00",
+      "stop": "2026-05-15T12:30:00+05:00",
+      "title": "Facing Waves",
+      "sub_title": "Paddling the Swedish-Norwegian Borderlands",
+      "desc": "Heather Herbeck explores Sweden with her stand up paddle board and pushes her limits in a 35 mile kayak race.",
       "date": "2017",
       "language": "en",
       "rating": "TVG",
       "categories": [
         "Series",
-        "House/garden"
+        "Kayaking",
+        "Outdoors"
       ],
-      "episode": "S2 E2",
-      "icon": "http://dtil.tmsimg.com/assets/p12720929_b_h10_ab.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-15T07:30:00+05:00",
-      "stop": "2026-05-15T08:00:00+05:00",
-      "title": "Find Me a Luxury Home",
-      "sub_title": "Marjorie",
-      "desc": "Property manager Marjorie tours three gorgeous estates in West Los Angeles and Pacific Palisades that are out of this world.",
-      "date": "2018",
-      "language": "en",
-      "rating": "TVG",
-      "categories": [
-        "Series",
-        "Home improvement",
-        "House/garden"
-      ],
-      "episode": "S1 E18",
-      "icon": "http://dtil.tmsimg.com/assets/p14589458_b_h10_aa.jpg?w=960&h=540"
+      "episode": "S5 E4",
+      "icon": "http://dtil.tmsimg.com/assets/p9897159_b_h8_ae.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Alex Heaslip",
+          "Brendan Mark"
+        ],
+        "actor": [
+          "Ken Whiting",
+          "Luke Hopkins",
+          "Alex Kellar"
+        ]
+      }
     }
   ]
 }

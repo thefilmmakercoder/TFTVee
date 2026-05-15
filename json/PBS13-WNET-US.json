@@ -4,76 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-15T04:00:00+05:00",
-      "stop": "2026-05-15T05:00:00+05:00",
-      "title": "PBS News Hour",
-      "desc": "Co-anchors Amna Nawaz and Geoff Bennett and correspondents offer in-depth analysis of current events.",
-      "date": "2026",
-      "language": "en",
-      "categories": [
-        "Series",
-        "News"
-      ],
-      "episode": "S52 E228",
-      "icon": "http://dtil.tmsimg.com/assets/p27608822_b_h8_ac.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Amna Nawaz",
-          "Geoff Bennett"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-15T05:00:00+05:00",
-      "stop": "2026-05-15T07:00:00+05:00",
-      "title": "Great Performances",
-      "sub_title": "Josh Groban: An Evening at Union Chapel",
-      "desc": "Josh Groban performs many of his beloved songs as well as new material at London's historic Union Chapel.",
-      "date": "2026",
-      "language": "en",
-      "rating": "TVG",
-      "categories": [
-        "Series",
-        "Anthology",
-        "Music",
-        "Dance",
-        "Drama",
-        "Performing arts"
-      ],
-      "episode": "S53 E13",
-      "icon": "http://dtil.tmsimg.com/assets/p31082022_b_h10_aa.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Josh Groban"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-15T07:00:00+05:00",
-      "stop": "2026-05-15T08:30:00+05:00",
-      "title": "Lucy Worsley's Holmes vs. Doyle",
-      "sub_title": "Doctor and Detective",
-      "desc": "The origins of Holmes in Arthur Conan Doyle's early life as a medical student in Edinburgh, and the author's growing disenchantment with his detective.",
-      "date": "2024",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Series",
-        "Documentary",
-        "History"
-      ],
-      "episode": "S1 E1",
-      "icon": "http://dtil.tmsimg.com/assets/p28527709_b_h8_ad.jpg?w=960&h=540",
-      "credits": {
-        "director": [
-          "Simon George"
-        ],
-        "actor": [
-          "Lucy Worsley"
-        ]
-      }
-    },
-    {
       "start": "2026-05-15T08:30:00+05:00",
       "stop": "2026-05-15T09:30:00+05:00",
       "title": "Amanpour and Company",
@@ -137,6 +67,50 @@
           "Jay O. Sanders"
         ]
       }
+    },
+    {
+      "start": "2026-05-15T11:30:00+05:00",
+      "stop": "2026-05-15T12:30:00+05:00",
+      "title": "Shared Planet",
+      "sub_title": "Forests",
+      "desc": "Pioneers from Guatemala to Japan share space with wildlife and restore the way we coexist and cultivate among the trees.",
+      "date": "2025",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Documentary"
+      ],
+      "episode": "S1 E4",
+      "icon": "http://dtil.tmsimg.com/assets/p31531763_b_h8_aa.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-15T12:30:00+05:00",
+      "stop": "2026-05-15T14:00:00+05:00",
+      "title": "Repairing the World: Stories From the Tree of Life",
+      "desc": "Pittsburgh's community response to hate following the assault on three congregations at the Tree of Life synagogue in 2018.",
+      "date": "2023",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Special",
+        "Documentary"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p25480239_b_h10_aa.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-15T14:00:00+05:00",
+      "stop": "2026-05-15T15:00:00+05:00",
+      "title": "Grandma Stand",
+      "desc": "Grandmothers sit behind a lemonade-style stand in New York's Central Park, offering heartfelt life lessons to passersby.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Special",
+        "Documentary"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p32549683_st_h10_aa.jpg?w=960&h=540"
     }
   ]
 }
