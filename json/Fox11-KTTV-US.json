@@ -4,17 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-15T23:00:00+05:00",
-      "stop": "2026-05-16T00:00:00+05:00",
-      "title": "GDLA+",
-      "date": "2024",
-      "language": "en",
-      "categories": [
-        "Newsmagazine"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p26513975_b_h8_ab.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-05-16T00:00:00+05:00",
       "stop": "2026-05-16T01:00:00+05:00",
       "title": "Sherri",
@@ -127,6 +116,18 @@
           "Harvey Levin"
         ]
       }
+    },
+    {
+      "start": "2026-05-16T05:00:00+05:00",
+      "stop": "2026-05-16T06:00:00+05:00",
+      "title": "FOX 11 News at 5pm",
+      "desc": "Latest local and regional news.",
+      "date": "2016",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p12829248_b_h8_ae.jpg?w=960&h=540"
     }
   ]
 }

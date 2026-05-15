@@ -4,38 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-15T23:30:00+05:00",
-      "stop": "2026-05-16T00:00:00+05:00",
-      "title": "Find Me a Vacation Home",
-      "sub_title": "To the Coast",
-      "desc": "Jennifer tours three beautiful properties in Orange County, Calif., looking for her coastal vacation dream pad.",
-      "date": "2018",
-      "language": "en",
-      "rating": "TVG",
-      "categories": [
-        "Series",
-        "House/garden"
-      ],
-      "episode": "S1 E2",
-      "icon": "http://dtil.tmsimg.com/assets/p15563076_b_h8_aa.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-16T00:00:00+05:00",
-      "stop": "2026-05-16T00:30:00+05:00",
-      "title": "Selling Private Islands",
-      "sub_title": "Isle A Quatre",
-      "desc": "The Isle A Quatre is a Caribbean island located in St. Vincent and the Grenadines.",
-      "date": "2018",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Series",
-        "Entertainment"
-      ],
-      "episode": "S1 E4",
-      "icon": "http://dtil.tmsimg.com/assets/p15045184_b_h8_aa.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-05-16T00:30:00+05:00",
       "stop": "2026-05-16T01:00:00+05:00",
       "title": "Travel in Style",
@@ -95,6 +63,51 @@
         "Entertainment"
       ],
       "icon": "http://dtil.tmsimg.com/assets/p20569268_b_h8_aa.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-16T03:00:00+05:00",
+      "stop": "2026-05-16T03:30:00+05:00",
+      "title": "Distant Shores",
+      "sub_title": "Dusseldorf & Launch",
+      "desc": "Paul and Sheryl Shard are on a diverse voyage from England through the inland waterways of France to the Mediterranean Sea, an Atlantic crossing and island-hopping in the Caribbean aboard their 49-foot sailboat, Distant Shores II.",
+      "date": "2020",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Series",
+        "Outdoors",
+        "Nature",
+        "Travel"
+      ],
+      "episode": "S10 E711",
+      "icon": "http://dtil.tmsimg.com/assets/p13187476_b_h10_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Sheryl Shard",
+          "Paul Shard"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-16T03:30:00+05:00",
+      "stop": "2026-05-16T04:00:00+05:00",
+      "title": "Boys Toys",
+      "sub_title": "East to West",
+      "desc": "Amber travels to the Newport Boat Show to find what's hot in the world of water and samples the finest red wine in Rhode Island.",
+      "date": "2019",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Series",
+        "Documentary",
+        "History"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p11950083_b_h8_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Jenn Barlow"
+        ]
+      }
     }
   ]
 }

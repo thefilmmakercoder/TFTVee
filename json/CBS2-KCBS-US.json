@@ -4,40 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-15T23:00:00+05:00",
-      "stop": "2026-05-15T23:30:00+05:00",
-      "title": "CBS LA at 11am",
-      "desc": "Join the CBS LA team for stories from communities around SoCal, breaking news from The Desk, and NEXT Weather from the Weathersphere.",
-      "date": "2025",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p31308558_b_h10_aa.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-15T23:30:00+05:00",
-      "stop": "2026-05-16T00:30:00+05:00",
-      "title": "The Young and the Restless",
-      "desc": "Lily catches Cane off guard; Holden and Claire explore new territory; Nick strikes a dangerous deal.",
-      "date": "2026",
-      "language": "en",
-      "rating": "TV14",
-      "categories": [
-        "Series",
-        "Soap"
-      ],
-      "episode": "S53 E153",
-      "icon": "http://dtil.tmsimg.com/assets/p183904_b_h8_ai.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Peter Bergman",
-          "Eric Braeden",
-          "Christel Khalil"
-        ]
-      }
-    },
-    {
       "start": "2026-05-16T00:30:00+05:00",
       "stop": "2026-05-16T01:00:00+05:00",
       "title": "The Bold and the Beautiful",
@@ -127,6 +93,50 @@
       "credits": {
         "actor": [
           "Drew Barrymore"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-16T03:00:00+05:00",
+      "stop": "2026-05-16T03:30:00+05:00",
+      "title": "Judge Judy",
+      "sub_title": "Fender Bender Con Artist?; Dueling Divorcee Hard Drives",
+      "desc": "A motorist says the woman whose car she hit is running a scam; a mother sues her ex for the value of a laptop she says he took from their son and gave to his stepdaughter.",
+      "date": "2015",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Reality",
+        "Law"
+      ],
+      "episode": "S19 E205",
+      "icon": "http://dtil.tmsimg.com/assets/p184382_b_h8_af.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Judy Sheindlin"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-16T03:30:00+05:00",
+      "stop": "2026-05-16T04:00:00+05:00",
+      "title": "Judge Judy",
+      "sub_title": "Arrested for Stealing Your Own Van?!; Assault Joke?",
+      "desc": "A woman fails to tell her ex-friend that she is repossessing her van; former roommates say the police laughed at the assault charges made against them.",
+      "date": "2015",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Reality",
+        "Law"
+      ],
+      "episode": "S19 E206",
+      "icon": "http://dtil.tmsimg.com/assets/p184382_b_h8_af.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Judy Sheindlin"
         ]
       }
     }

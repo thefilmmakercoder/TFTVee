@@ -4,18 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-15T23:00:00+05:00",
-      "stop": "2026-05-16T00:00:00+05:00",
-      "title": "Eyewitness News 11AM",
-      "desc": "Midday news update.",
-      "date": "2008",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p676923_b_h8_af.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-05-16T00:00:00+05:00",
       "stop": "2026-05-16T01:00:00+05:00",
       "title": "GMA3",
@@ -117,6 +105,18 @@
           "David Muir"
         ]
       }
+    },
+    {
+      "start": "2026-05-16T04:00:00+05:00",
+      "stop": "2026-05-16T05:00:00+05:00",
+      "title": "Eyewitness News 4PM",
+      "desc": "Early evening news.",
+      "date": "2004",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p676966_b_h8_af.jpg?w=960&h=540"
     }
   ]
 }
