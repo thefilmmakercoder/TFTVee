@@ -4,85 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-16T05:30:00+05:00",
-      "stop": "2026-05-16T06:00:00+05:00",
-      "title": "BBC News America",
-      "desc": "Live news program produced out of BBC's Washington, D.C. bureau; host Sumi Somaskanda.",
-      "date": "2023",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p24458358_b_h10_ab.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Sumi Somaskanda"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-16T06:00:00+05:00",
-      "stop": "2026-05-16T07:00:00+05:00",
-      "title": "PBS News Hour",
-      "desc": "Co-anchors Amna Nawaz and Geoff Bennett and correspondents offer in-depth analysis of current events.",
-      "date": "2026",
-      "language": "en",
-      "categories": [
-        "Series",
-        "News"
-      ],
-      "episode": "S52 E229",
-      "icon": "http://dtil.tmsimg.com/assets/p27608822_b_h8_ac.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Amna Nawaz",
-          "Geoff Bennett"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-16T07:00:00+05:00",
-      "stop": "2026-05-16T07:30:00+05:00",
-      "title": "Washington Week With The Atlantic",
-      "desc": "A panel of journalists provides reporting and analysis of the major stories emanating from the United States capital.",
-      "date": "2026",
-      "language": "en",
-      "categories": [
-        "Series",
-        "News",
-        "Public affairs",
-        "Politics"
-      ],
-      "episode": "S60 E46",
-      "icon": "http://dtil.tmsimg.com/assets/p25350982_b_h8_aa.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Jeffrey Goldberg"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-16T07:30:00+05:00",
-      "stop": "2026-05-16T08:00:00+05:00",
-      "title": "Firing Line With Margaret Hoover",
-      "desc": "Margaret Hoover leads interviews and debates.",
-      "date": "2026",
-      "language": "en",
-      "categories": [
-        "Series",
-        "Public affairs",
-        "Interview",
-        "Debate"
-      ],
-      "episode": "S9 E46",
-      "icon": "http://dtil.tmsimg.com/assets/p15429319_b_h8_aa.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Margaret Hoover"
-        ]
-      }
-    },
-    {
       "start": "2026-05-16T08:00:00+05:00",
       "stop": "2026-05-16T09:00:00+05:00",
       "title": "Finding Your Roots With Henry Louis Gates, Jr.",
@@ -127,6 +48,67 @@
       ],
       "episode": "S53 E14",
       "icon": "http://dtil.tmsimg.com/assets/p31082022_b_h10_aa.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-16T11:30:00+05:00",
+      "stop": "2026-05-16T12:00:00+05:00",
+      "title": "History With David Rubenstein",
+      "desc": "David Rubenstein interviews renowned scholars and public figures in the U.S.",
+      "date": "2020",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Interview"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p18342437_b_h10_ab.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "David Rubenstein"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-16T12:00:00+05:00",
+      "stop": "2026-05-16T13:00:00+05:00",
+      "title": "Amanpour and Company",
+      "desc": "Christiane Amanpour leads discussions about world issues and interviews with global leaders.",
+      "date": "2026",
+      "language": "en",
+      "categories": [
+        "Series",
+        "Public affairs"
+      ],
+      "episode": "S8 E163",
+      "icon": "http://dtil.tmsimg.com/assets/p15694932_b_h8_ac.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Christiane Amanpour"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-16T13:00:00+05:00",
+      "stop": "2026-05-16T14:00:00+05:00",
+      "title": "NHK Newsline",
+      "desc": "This daily news program, produced by Japanese public broadcaster NHK, focuses on headlines and current events in Japan and other Asian countries. English-speaking presenters also cover other areas of interest, including business news, science and technology trends, sports highlights, and global weather forecasts.",
+      "date": "2009",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p269690_b_h11_ad.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-16T14:00:00+05:00",
+      "stop": "2026-05-16T16:00:00+05:00",
+      "title": "Valley PBS Favorites",
+      "date": "2024",
+      "language": "en",
+      "categories": [
+        "Special",
+        "Variety"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p28116494_st_h10_aa.jpg?w=960&h=540"
     }
   ]
 }

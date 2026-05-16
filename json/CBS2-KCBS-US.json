@@ -4,99 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-16T05:00:00+05:00",
-      "stop": "2026-05-16T06:00:00+05:00",
-      "title": "CBS LA at 5pm",
-      "desc": "Join the CBS LA team for stories from communities around SoCal, breaking news from The Desk, and NEXT Weather from the Weathersphere.",
-      "date": "2025",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p31308569_b_h10_aa.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-16T06:00:00+05:00",
-      "stop": "2026-05-16T06:30:00+05:00",
-      "title": "CBS LA at 6pm",
-      "desc": "Join the CBS LA team for stories from communities around SoCal, breaking news from The Desk, and NEXT Weather from the Weathersphere.",
-      "date": "2025",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p31308575_b_h10_aa.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-16T06:30:00+05:00",
-      "stop": "2026-05-16T07:00:00+05:00",
-      "title": "CBS Evening News",
-      "desc": "Tony Dokoupil shares the day's most important stories, delivering context and depth to bring greater understanding to one's world.",
-      "date": "2026",
-      "language": "en",
-      "categories": [
-        "Series",
-        "News"
-      ],
-      "episode": "E135",
-      "icon": "http://dtil.tmsimg.com/assets/p28807922_b_h8_ae.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Tony Dokoupil",
-          "Maurice DuBois",
-          "Jericka Duncan"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-16T07:00:00+05:00",
-      "stop": "2026-05-16T07:30:00+05:00",
-      "title": "Inside Edition",
-      "desc": "A syndicated news magazine includes investigative reports, interviews with newsmakers, human interest stories and celebrity and pop-culture features.",
-      "date": "2026",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Series",
-        "Newsmagazine",
-        "Public affairs",
-        "Interview"
-      ],
-      "episode": "S38 E180",
-      "icon": "http://dtil.tmsimg.com/assets/p184110_b_h10_aa.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Eva Pilgrim",
-          "Mary Calvi",
-          "Jim Moret"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-16T07:30:00+05:00",
-      "stop": "2026-05-16T08:00:00+05:00",
-      "title": "Entertainment Tonight",
-      "sub_title": "ET Then & Now Exclusive",
-      "desc": "Cary Elwes (Peacock's \"M.I.A.\") walks through four decades of roles; premieres of \"The Mandalorian & Grogu\" and \"Spider Noir\"; the Sports Illustrated swimsuit issue launch; 61st Academy of Country Music Awards preview.",
-      "date": "2026",
-      "language": "en",
-      "rating": "M 15+",
-      "categories": [
-        "Series",
-        "Newsmagazine",
-        "Entertainment"
-      ],
-      "episode": "S45 E220",
-      "icon": "http://dtil.tmsimg.com/assets/p184256_b_h8_aa.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Kevin Frazier",
-          "Nischelle Turner",
-          "Rachel Smith"
-        ]
-      }
-    },
-    {
       "start": "2026-05-16T08:00:00+05:00",
       "stop": "2026-05-16T09:00:00+05:00",
       "title": "Sheriff Country",
@@ -119,6 +26,117 @@
           "Morena Baccarin",
           "W. Earl Brown",
           "Matt Lauria"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-16T09:00:00+05:00",
+      "stop": "2026-05-16T10:00:00+05:00",
+      "title": "Fire Country",
+      "sub_title": "Rain Check for Tomorrow",
+      "desc": "When a volatile blaze at the Pineville Dam triggers a cascading infrastructure failure, Station 42 races to execute a series of perilous rescues.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "Series",
+        "Drama"
+      ],
+      "episode": "S4 E19",
+      "icon": "http://dtil.tmsimg.com/assets/p22213607_b_h8_al.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Ruben Garcia"
+        ],
+        "actor": [
+          "Max Thieriot",
+          "Billy Burke",
+          "Kevin Alejandro"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-16T10:00:00+05:00",
+      "stop": "2026-05-16T11:00:00+05:00",
+      "title": "Boston Blue",
+      "sub_title": "Chasing Monsters",
+      "desc": "A deadly threat strikes close to home, pulling Lena, Danny and the team into an intense investigation; Mae faces a political and personal reckoning, prompting a revelation that pushes Lena toward a life-changing decision.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "Series",
+        "Crime drama"
+      ],
+      "episode": "S1 E19",
+      "icon": "http://dtil.tmsimg.com/assets/p30698304_b_h8_aa.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Sherwin Shilati"
+        ],
+        "actor": [
+          "Donnie Wahlberg",
+          "Sonequa Martin-Green",
+          "Ernie Hudson"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-16T11:00:00+05:00",
+      "stop": "2026-05-16T11:35:00+05:00",
+      "title": "CBS LA at 11pm",
+      "desc": "Join the CBS LA team for stories from communities around SoCal, breaking news from The Desk, and NEXT Weather from the Weathersphere.",
+      "date": "2025",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p31308578_b_h10_aa.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-16T11:35:00+05:00",
+      "stop": "2026-05-16T12:37:00+05:00",
+      "title": "The Late Show With Stephen Colbert",
+      "sub_title": "Jimmy Fallon; Jimmy Kimmel; Seth Meyers; John Oliver",
+      "desc": "Podcast hosts Jimmy Fallon, Jimmy Kimmel, Seth Meyers and John Oliver (\"Strike Force Five\").",
+      "date": "2026",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Talk",
+        "Comedy"
+      ],
+      "episode": "S11 E111",
+      "icon": "http://dtil.tmsimg.com/assets/p31135627_b_h8_ab.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Stephen Colbert",
+          "Jimmy Fallon",
+          "Jimmy Kimmel"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-16T12:37:00+05:00",
+      "stop": "2026-05-16T13:07:00+05:00",
+      "title": "Comics Unleashed With Byron Allen",
+      "sub_title": "Talia Reese; DeRay Davis; Matty Chymbor; Gabriel Rutledge",
+      "desc": "Talia Reese; DeRay Davis; Matty Chymbor; Gabriel Rutledge.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Comedy"
+      ],
+      "episode": "S4 E65",
+      "icon": "http://dtil.tmsimg.com/assets/p186631_b_h8_ad.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Byron Allen",
+          "Talia Reese",
+          "DeRay Davis"
         ]
       }
     }

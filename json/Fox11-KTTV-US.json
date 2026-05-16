@@ -4,26 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-16T05:00:00+05:00",
-      "stop": "2026-05-16T06:00:00+05:00",
-      "title": "FOX 11 News at 5pm",
-      "desc": "Latest local and regional news.",
-      "date": "2016",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p12829248_b_h8_ae.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-16T06:00:00+05:00",
-      "stop": "2026-05-16T06:30:00+05:00",
-      "title": "Live: Angels Pregame",
-      "date": "2014",
-      "language": "en",
-      "icon": "http://dtil.tmsimg.com/assets/p10709163_st_h10_aa.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-05-16T06:30:00+05:00",
       "stop": "2026-05-16T09:30:00+05:00",
       "title": "Live: MLB Baseball",
@@ -66,6 +46,39 @@
         "Soccer"
       ],
       "icon": "http://dtil.tmsimg.com/assets/p31774634_b_h8_ab.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-16T11:00:00+05:00",
+      "stop": "2026-05-16T11:30:00+05:00",
+      "title": "Good Nite LA",
+      "desc": "Stay informed with the breaking news and headlines.",
+      "date": "2024",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p26513988_b_h8_ae.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-16T11:30:00+05:00",
+      "stop": "2026-05-16T12:00:00+05:00",
+      "title": "TMZ",
+      "desc": "TMZ TV tracks down today's hottest stars with their cameras, whether they are hitting the clubs or the dry cleaners.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Newsmagazine",
+        "Entertainment"
+      ],
+      "episode": "S19 E221",
+      "icon": "http://dtil.tmsimg.com/assets/p30985766_b_h10_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Harvey Levin"
+        ]
+      }
     }
   ]
 }

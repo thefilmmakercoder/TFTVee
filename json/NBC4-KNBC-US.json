@@ -4,90 +4,11 @@
   ],
   "programs": [
     {
-      "start": "2026-05-16T05:00:00+05:00",
-      "stop": "2026-05-16T06:00:00+05:00",
-      "title": "NBC4 News at 5pm",
-      "desc": "The latest local news, weather and investigative stories impacting the community.",
-      "date": "2011",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p8781144_b_h10_ad.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-16T06:00:00+05:00",
-      "stop": "2026-05-16T06:30:00+05:00",
-      "title": "NBC 4 News at 6pm",
-      "desc": "Stay informed with the latest breaking news and headlines.",
-      "date": "2015",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p12394505_b_h10_aa.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-16T06:30:00+05:00",
-      "stop": "2026-05-16T07:00:00+05:00",
-      "title": "NBC Nightly News With Tom Llamas",
-      "desc": "Tom Llamas anchors the latest news, going beyond the headlines to see how lives are affected by the world around them.",
-      "date": "2026",
-      "language": "en",
-      "categories": [
-        "Series",
-        "News"
-      ],
-      "episode": "S2 E126",
-      "icon": "http://dtil.tmsimg.com/assets/p30141511_b_h8_aa.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Tom Llamas"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-16T07:00:00+05:00",
-      "stop": "2026-05-16T07:30:00+05:00",
-      "title": "NBC4 News at 7 PM",
-      "desc": "The latest in local breaking news, weather reports and feature stories covering the vast Southern California region.",
-      "date": "2020",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p18102973_b_h10_ab.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-16T07:30:00+05:00",
-      "stop": "2026-05-16T08:00:00+05:00",
-      "title": "Access Hollywood",
-      "desc": "Interviews with the cast of \"Star Wars: The Mandalorian and Grogu\" at the red-carpet premiere; \"Dutton Ranch\" premiere get-ready with Natalie Alyn Lind; Sports Illustrated swimsuit issue launch event.",
-      "date": "2026",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Series",
-        "Newsmagazine",
-        "Entertainment",
-        "Interview"
-      ],
-      "episode": "S30 E173",
-      "icon": "http://dtil.tmsimg.com/assets/p30926755_b_h8_ab.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Mario Lopez",
-          "Kit Hoover",
-          "Scott Evans"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-16T08:00:00+05:00",
-      "stop": "2026-05-16T08:30:00+05:00",
+      "start": "2026-05-16T08:30:00+05:00",
+      "stop": "2026-05-16T09:01:00+05:00",
       "title": "Happy's Place",
-      "sub_title": "Social Discontent",
-      "desc": "When Steve and Isabella begin shooting marketing content for the tavern, they quickly realize Bobbie has a case of camera madness, causing them to recast her with a local influencer.",
+      "sub_title": "The Name Game",
+      "desc": "Bobbie doesn't want Gabby to get her hopes up too soon about her potential pregnancy, but accidentally rains on her parade in the process; Isabella hires Takoda's band to play at the tavern unaware he's in a death metal band.",
       "date": "2026",
       "language": "en",
       "rating": "TVPG",
@@ -96,11 +17,11 @@
         "Comedy",
         "Drama"
       ],
-      "episode": "S2 E12",
+      "episode": "S2 E8",
       "icon": "http://dtil.tmsimg.com/assets/p30959008_b_h8_aa.jpg?w=960&h=540",
       "credits": {
         "director": [
-          "Victor Gonzalez"
+          "Pamela Fryman"
         ],
         "actor": [
           "Reba McEntire",
@@ -108,6 +29,104 @@
           "Melissa Peterman"
         ]
       }
+    },
+    {
+      "start": "2026-05-16T09:01:00+05:00",
+      "stop": "2026-05-16T11:00:00+05:00",
+      "title": "Dateline NBC",
+      "sub_title": "In the Matter of Alex Murdaugh",
+      "desc": "The latest in the Alex Murdaugh case after his double murder convictions were overturned, and a new trial was ordered for the murders of his wife and son; key insiders speak out in new interviews about the developments.",
+      "date": "2026",
+      "language": "en",
+      "rating": "MA 15+",
+      "categories": [
+        "Series",
+        "Newsmagazine",
+        "Mystery",
+        "Crime"
+      ],
+      "episode": "S34 E25",
+      "icon": "http://dtil.tmsimg.com/assets/p184061_b_h8_ab.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Lester Holt",
+          "Andrea Canning",
+          "Josh Mankiewicz"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-16T11:00:00+05:00",
+      "stop": "2026-05-16T11:34:00+05:00",
+      "title": "NBC4 News at 11pm",
+      "desc": "The latest local news, weather and investigative stories impacting the community.",
+      "date": "2011",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p8781143_b_h10_ad.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-16T11:34:00+05:00",
+      "stop": "2026-05-16T12:37:00+05:00",
+      "title": "The Tonight Show Starring Jimmy Fallon",
+      "sub_title": "Stanley Tucci; Brenda Song; Diljit Dosanjh",
+      "desc": "Actor Stanley Tucci; actress Brenda Song; Diljit Dosanjh talks and performs.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "Series",
+        "Talk",
+        "Comedy"
+      ],
+      "episode": "S13 E95",
+      "icon": "http://dtil.tmsimg.com/assets/p31242381_b_h8_ac.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Jimmy Fallon",
+          "Stanley Tucci",
+          "Brenda Song"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-16T12:37:00+05:00",
+      "stop": "2026-05-16T13:37:00+05:00",
+      "title": "Late Night With Seth Meyers",
+      "sub_title": "Nathan Lane; Noah Kahan",
+      "desc": "Actor Nathan Lane; musician Noah Kahan.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "Series",
+        "Talk",
+        "Comedy",
+        "Political News Satire & Talk"
+      ],
+      "episode": "S13 E94",
+      "icon": "http://dtil.tmsimg.com/assets/p31240203_b_h8_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Seth Meyers",
+          "Nathan Lane",
+          "Noah Kahan"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-16T13:37:00+05:00",
+      "stop": "2026-05-16T14:07:00+05:00",
+      "title": "NBC4 News at 11pm",
+      "desc": "The latest local news, weather and investigative stories impacting the community.",
+      "date": "2011",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p8781143_b_h10_ad.jpg?w=960&h=540"
     }
   ]
 }
