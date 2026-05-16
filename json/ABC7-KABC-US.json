@@ -4,18 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-16T20:00:00+05:00",
-      "stop": "2026-05-16T21:00:00+05:00",
-      "title": "Eyewitness News 8AM",
-      "desc": "News coverage to start the day.",
-      "date": "2009",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p677447_b_h10_ae.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-05-16T21:00:00+05:00",
       "stop": "2026-05-17T00:00:00+05:00",
       "title": "Live: United Football League",
@@ -82,6 +70,19 @@
         "News"
       ],
       "icon": "http://dtil.tmsimg.com/assets/p676966_b_h8_af.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-17T05:00:00+05:00",
+      "stop": "2026-05-17T08:00:00+05:00",
+      "title": "Live: NHL Hockey",
+      "desc": "The Canadiens play the Sabres in Game 6 of their Eastern Conference Second Round. Montreal holds a 3-2 edge after a Game 5 win, highlighted by rookie Ivan Demidov's first playoff goal. Buffalo fights to stave off elimination and force a Game 7.",
+      "language": "en",
+      "categories": [
+        "Sports",
+        "Playoff sports",
+        "Hockey"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/GNLZZGG0033E1KY.jpg?w=960&h=540"
     }
   ]
 }

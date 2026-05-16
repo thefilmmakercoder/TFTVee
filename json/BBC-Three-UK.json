@@ -4,25 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-16T15:30:00+05:00",
-      "stop": "2026-05-16T21:30:00+05:00",
-      "title": "..programmes start at 7.00pm",
-      "language": "en"
-    },
-    {
-      "start": "2026-05-16T21:30:00+05:00",
-      "stop": "2026-05-16T22:58:00+05:00",
-      "title": "..programmes start at 7.00pm",
-      "language": "en"
-    },
-    {
-      "start": "2026-05-16T22:58:00+05:00",
-      "stop": "2026-05-16T23:00:00+05:00",
-      "title": "This is BBC Three",
-      "desc": "Programmes start at 7.00pm.",
-      "language": "en"
-    },
-    {
       "start": "2026-05-16T23:00:00+05:00",
       "stop": "2026-05-16T23:50:00+05:00",
       "title": "The Women's Football Show",
@@ -57,6 +38,42 @@
         "Comedy"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/1455922d-075a-4228-9ff9-675e73c10c34/16-9"
+    },
+    {
+      "start": "2026-05-17T01:05:00+05:00",
+      "stop": "2026-05-17T01:35:00+05:00",
+      "title": "Ghosts",
+      "desc": "While Alison and Mike gear up to make a big investment, the Captain and Kitty work together with the other ghosts to solve an unfolding mystery before it's too late.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Comedy"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/9966c7bf-e28a-4356-86d1-227836414154/16-9"
+    },
+    {
+      "start": "2026-05-17T01:35:00+05:00",
+      "stop": "2026-05-17T02:05:00+05:00",
+      "title": "Mrs Brown's Boys New Year Special",
+      "desc": "Festive edition of the sitcom. Determined to help son Dermot set up a new business, Agnes must face old rival Hillary Nicholson in the poker final. Contains some strong language.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Comedy"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/104b4848-11c7-4b58-8273-e48d5b461fba/16-9"
+    },
+    {
+      "start": "2026-05-17T02:05:00+05:00",
+      "stop": "2026-05-17T02:35:00+05:00",
+      "title": "Mrs Brown's Boys New Year Special",
+      "desc": "Comedy series. When a handsome stranger appears in Foley's Pub, everyone thinks he's after Cathy. But the stranger only has eyes for Agnes Brown herself. Contains strong language.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Comedy"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/83a95c1c-83d8-4a7c-b19d-5c15fcd91e18/16-9"
     }
   ]
 }
