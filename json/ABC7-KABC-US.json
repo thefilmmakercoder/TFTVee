@@ -4,48 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-16T13:06:00+05:00",
-      "stop": "2026-05-16T13:36:00+05:00",
-      "title": "ABC World News Tonight With David Muir",
-      "desc": "Delivering the news that matters most.",
-      "date": "2026",
-      "language": "en",
-      "categories": [
-        "Series",
-        "News"
-      ],
-      "episode": "E135",
-      "icon": "http://dtil.tmsimg.com/assets/p10880351_b_h8_ah.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "David Muir"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-16T13:36:00+05:00",
-      "stop": "2026-05-16T14:36:00+05:00",
-      "title": "Live with Kelly and Mark",
-      "sub_title": "Cooking School",
-      "desc": "ABC's \"American Idol\" runner-up performs; the \"Cooking School\" series concludes with Melba Wilson!",
-      "date": "2026",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Series",
-        "Talk"
-      ],
-      "episode": "S4 E185",
-      "icon": "http://dtil.tmsimg.com/assets/p24324378_b_h8_ab.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Kelly Ripa",
-          "Mark Consuelos",
-          "Melba Wilson"
-        ]
-      }
-    },
-    {
       "start": "2026-05-16T14:36:00+05:00",
       "stop": "2026-05-16T15:30:00+05:00",
       "title": "Tamron Hall",
@@ -114,6 +72,42 @@
         "News"
       ],
       "icon": "http://dtil.tmsimg.com/assets/p676994_b_h8_af.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-16T18:00:00+05:00",
+      "stop": "2026-05-16T19:00:00+05:00",
+      "title": "Eyewitness News 6AM",
+      "desc": "News coverage to start the day.",
+      "date": "2004",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p677002_b_h8_af.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-16T19:00:00+05:00",
+      "stop": "2026-05-16T20:00:00+05:00",
+      "title": "Good Morning America",
+      "desc": "Early morning news and entertainment program that covers important issues with key figures from around the world and a wide spectrum of topics, including medicine, finance, consumer issues, computer technology, education and gardening.",
+      "date": "2026",
+      "language": "en",
+      "categories": [
+        "Series",
+        "Talk",
+        "News",
+        "Variety",
+        "Public affairs"
+      ],
+      "episode": "E155",
+      "icon": "http://dtil.tmsimg.com/assets/p31385280_b_h10_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Whit Johnson",
+          "Janai Norman",
+          "Gio Benitez"
+        ]
+      }
     }
   ]
 }

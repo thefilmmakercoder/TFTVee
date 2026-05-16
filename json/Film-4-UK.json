@@ -4,17 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-16T07:25:00+05:00",
-      "stop": "2026-05-16T11:00:00+05:00",
-      "title": "Teleshopping",
-      "desc": "Teleshopping.",
-      "language": "en",
-      "categories": [
-        "Specialist",
-        "Shopping"
-      ]
-    },
-    {
       "start": "2026-05-16T11:00:00+05:00",
       "stop": "2026-05-16T15:00:00+05:00",
       "title": "Teleshopping",
@@ -80,6 +69,20 @@
         "Drama"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/b15a406d-ff17-4414-9b14-3944b0d87a91/16-9"
+    },
+    {
+      "start": "2026-05-16T23:10:00+05:00",
+      "stop": "2026-05-17T01:30:00+05:00",
+      "title": "The Day After Tomorrow",
+      "desc": "Tense sci-fi thriller starring Dennis Quaid and Jake Gyllenhaal. Can a scientist save his son from a sudden climatic catastrophe.",
+      "date": "2004",
+      "language": "en",
+      "rating": "PG",
+      "categories": [
+        "Movie",
+        "Sci-Fi"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/a11ede52-e6ba-4ffc-83e8-cf407e17d158/16-9"
     }
   ]
 }

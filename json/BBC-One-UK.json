@@ -4,18 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-16T10:00:00+05:00",
-      "stop": "2026-05-16T14:00:00+05:00",
-      "title": "Breakfast",
-      "desc": "The latest news, sport, business and weather from the BBC's Breakfast team.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/c01e7419-4a38-43a2-8db2-dcf82ae3fcaa/16-9"
-    },
-    {
       "start": "2026-05-16T14:00:00+05:00",
       "stop": "2026-05-16T15:30:00+05:00",
       "title": "Saturday Kitchen Live",
@@ -74,6 +62,18 @@
         "News"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/603c7fd6-36a7-4874-b24c-25ee3b0e8b58/16-9"
+    },
+    {
+      "start": "2026-05-16T17:15:00+05:00",
+      "stop": "2026-05-16T18:00:00+05:00",
+      "title": "FA Cup Final - Live from Wembley",
+      "desc": "Jason Mohammad presents live from Wembley Stadium ahead of the 145th FA Cup final.",
+      "language": "en",
+      "categories": [
+        "Sports",
+        "Football"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/22635e1d-de7b-430c-bee1-03da72be8a8d/16-9"
     }
   ]
 }

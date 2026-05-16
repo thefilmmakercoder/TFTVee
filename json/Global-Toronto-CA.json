@@ -4,62 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-16T13:37:00+05:00",
-      "stop": "2026-05-16T14:00:00+05:00",
-      "title": "SIGN OFF",
-      "desc": "Sign off.",
-      "date": "2005",
-      "language": "en",
-      "rating": "TVG",
-      "categories": [
-        "Special",
-        "Entertainment"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p480440_b_h8_bw.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-16T14:00:00+05:00",
-      "stop": "2026-05-16T14:30:00+05:00",
-      "title": "Paid Programming",
-      "desc": "Paid programming.",
-      "language": "en",
-      "rating": "TVG",
-      "categories": [
-        "Consumer",
-        "Shopping",
-        "Variety"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-16T14:00:00+05:00",
-      "stop": "2026-05-16T14:30:00+05:00",
-      "title": "Paid Programming",
-      "desc": "Paid programming.",
-      "language": "en",
-      "rating": "TVG",
-      "categories": [
-        "Consumer",
-        "Shopping",
-        "Variety"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-16T14:30:00+05:00",
-      "stop": "2026-05-16T15:00:00+05:00",
-      "title": "Paid Programming",
-      "desc": "Paid programming.",
-      "language": "en",
-      "rating": "TVG",
-      "categories": [
-        "Consumer",
-        "Shopping",
-        "Variety"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-05-16T14:30:00+05:00",
       "stop": "2026-05-16T15:00:00+05:00",
       "title": "Paid Programming",
@@ -100,6 +44,110 @@
           "Avery Shoaf",
           "Mike Hall",
           "Connor Hall"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-16T15:00:00+05:00",
+      "stop": "2026-05-16T16:00:00+05:00",
+      "title": "Rust Valley Restorers",
+      "sub_title": "High Octane",
+      "desc": "Mike converts a 1957 GMC truck to run on alcohol for a truck-obsessed teenage girl; Avery goes the extra mile, finishing the Unimog for its hard-to-please owner.",
+      "date": "2021",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "Series",
+        "Reality",
+        "Auto"
+      ],
+      "episode": "S3 E3",
+      "icon": "http://dtil.tmsimg.com/assets/p19430894_b_h8_ac.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Jereme Watt",
+          "Adam Naugler",
+          "Tyson Hepburn",
+          "Matthew Shewchuk"
+        ],
+        "actor": [
+          "Avery Shoaf",
+          "Mike Hall",
+          "Connor Hall"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-16T16:00:00+05:00",
+      "stop": "2026-05-16T17:00:00+05:00",
+      "title": "Fire Masters",
+      "sub_title": "In the Line of Fire",
+      "desc": "Three chefs think they have what it takes to be a Fire Masters Champion; the Crossfire Round is a battle of pizzas; the Feast of Fire has the judges hooked on a sizzling seafood spread.",
+      "date": "2022",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Series",
+        "Competition Reality",
+        "Cooking"
+      ],
+      "episode": "S5 E8",
+      "icon": "http://dtil.tmsimg.com/assets/p15598103_b_h8_ab.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Frank Samson",
+          "Ryan Shaw"
+        ],
+        "actor": [
+          "Dylan Benoit"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-16T16:00:00+05:00",
+      "stop": "2026-05-16T17:00:00+05:00",
+      "title": "Fire Masters",
+      "sub_title": "In the Line of Fire",
+      "desc": "Three chefs think they have what it takes to be a Fire Masters Champion; the Crossfire Round is a battle of pizzas; the Feast of Fire has the judges hooked on a sizzling seafood spread.",
+      "date": "2022",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Series",
+        "Competition Reality",
+        "Cooking"
+      ],
+      "episode": "S5 E8",
+      "icon": "http://dtil.tmsimg.com/assets/p15598103_b_h8_ab.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Frank Samson",
+          "Ryan Shaw"
+        ],
+        "actor": [
+          "Dylan Benoit"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-16T17:00:00+05:00",
+      "stop": "2026-05-16T17:30:00+05:00",
+      "title": "Fish'n Canada",
+      "sub_title": "The Pipestone Foursome",
+      "desc": "Showcasing the best fishing spots in Canada.",
+      "date": "2026",
+      "language": "en",
+      "categories": [
+        "Series",
+        "Outdoors",
+        "Fishing"
+      ],
+      "episode": "E4",
+      "icon": "http://dtil.tmsimg.com/assets/p8331888_b_h10_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Angelo Viola",
+          "Pete Bowman"
         ]
       }
     }
