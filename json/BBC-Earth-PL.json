@@ -4,24 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-16T20:20:00+05:00",
-      "stop": "2026-05-16T20:55:00+05:00",
-      "title": "David Attenborough's Natural Curiosities",
-      "desc": "In each episode, David Attenborough presents two cases of natural curiosities that have something in common.",
-      "date": "2014",
-      "language": "en",
-      "categories": [
-        "Documentary Series"
-      ],
-      "episode": "S2E2",
-      "credits": {
-        "director": [
-          "Sharmila Choudhury",
-          "Hilary Jeffkins"
-        ]
-      }
-    },
-    {
       "start": "2026-05-16T20:55:00+05:00",
       "stop": "2026-05-16T21:55:00+05:00",
       "title": "Eden: Untamed Planet",
@@ -108,6 +90,23 @@
         "Documentary Series"
       ],
       "episode": "S1E5"
+    },
+    {
+      "start": "2026-05-17T02:05:00+05:00",
+      "stop": "2026-05-17T03:05:00+05:00",
+      "title": "Islands: Nature's Wild Laboratories",
+      "desc": "The creators of the series take viewers on a journey through the unique ecosystems of islands, from the Arctic to the tropics.The trek includes Borneo, the Okavango Delta, Vancouver Islands, Baffin Island, K'gari and Sri Lanka.",
+      "date": "2023",
+      "language": "en",
+      "categories": [
+        "Documentary Series"
+      ],
+      "episode": "S1E6",
+      "credits": {
+        "director": [
+          "Alex Burr"
+        ]
+      }
     }
   ]
 }

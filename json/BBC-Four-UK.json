@@ -4,12 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-16T09:30:00+05:00",
-      "stop": "2026-05-16T15:30:00+05:00",
-      "title": "..programmes start at 7.00pm",
-      "language": "en"
-    },
-    {
       "start": "2026-05-16T15:30:00+05:00",
       "stop": "2026-05-16T21:30:00+05:00",
       "title": "..programmes start at 7.00pm",
@@ -51,6 +45,18 @@
         "Game Show"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/2480c540-9e59-4891-ac74-0dc23a9938ee/16-9"
+    },
+    {
+      "start": "2026-05-17T00:00:00+05:00",
+      "stop": "2026-05-17T00:50:00+05:00",
+      "title": "Hetty Wainthropp Investigates",
+      "desc": "When Hetty represents her neighbour at a creditor's meeting, she is hired to find a man who may have stolen from the neighbour.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Detective"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/da3fcb6e-cb64-4e41-bf74-2431ee4c8eb4/16-9"
     }
   ]
 }

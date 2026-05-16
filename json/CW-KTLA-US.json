@@ -4,18 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-16T19:00:00+05:00",
-      "stop": "2026-05-16T21:00:00+05:00",
-      "title": "KTLA 5 Morning News at 7",
-      "desc": "Stay informed with the latest breaking news and headlines.",
-      "date": "1995",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p755453_b_h8_ab.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-05-16T21:00:00+05:00",
       "stop": "2026-05-16T22:00:00+05:00",
       "title": "KTLA 5 Morning News at 9",
@@ -84,6 +72,18 @@
         "Auto racing"
       ],
       "icon": "http://dtil.tmsimg.com/assets/p28117800_b_h8_aa.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-17T01:00:00+05:00",
+      "stop": "2026-05-17T03:30:00+05:00",
+      "title": "Live: NASCAR O'Reilly Auto Parts Series",
+      "desc": "The NASCAR racing series contests 200 laps and 200 miles of racing at Dover Motor Speedway. The event serves as the 14th race of the 2026 season and precedes the Monster Mile Bash fan festival hosted at Miles Beach following the checkered flag.",
+      "language": "en",
+      "categories": [
+        "Sports",
+        "Auto racing"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p32239623_b_h10_aa.jpg?w=960&h=540"
     }
   ]
 }

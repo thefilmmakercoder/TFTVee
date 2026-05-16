@@ -4,18 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-16T20:45:00+05:00",
-      "stop": "2026-05-16T20:55:00+05:00",
-      "title": "ITV News London",
-      "desc": "The latest news and weather from London and the South East.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/bcf76cb7-4c01-406a-88c0-642acc6d2a3e/16-9"
-    },
-    {
       "start": "2026-05-16T20:55:00+05:00",
       "stop": "2026-05-16T22:00:00+05:00",
       "title": "The Chase: The Bloopers",
@@ -74,6 +62,18 @@
         "News"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/082b14db-d7bb-41bc-a00a-8399fc42a9fe/16-9"
+    },
+    {
+      "start": "2026-05-17T01:25:00+05:00",
+      "stop": "2026-05-17T04:30:00+05:00",
+      "title": "The Batman",
+      "desc": "Epic action crime drama film reboot starring Robert Pattinson and Zoe Kravitz, 2022. A sadistic serial killer causes a superhero to investigate the corruption of his home city.",
+      "language": "en",
+      "categories": [
+        "Movie",
+        "Action"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/c8a1b520-5ead-42d7-acbc-c61a501abcd9/16-9"
     }
   ]
 }
