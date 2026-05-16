@@ -4,18 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-16T16:30:00+05:00",
-      "stop": "2026-05-16T16:45:00+05:00",
-      "title": "ITV News",
-      "desc": "National and international news with reports and analysis from ITV's Correspondents in the UK and around the world as well as the latest major sports results.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/2b175f0e-3962-4ed3-aca8-42facd127909/16-9"
-    },
-    {
       "start": "2026-05-16T16:45:00+05:00",
       "stop": "2026-05-16T17:15:00+05:00",
       "title": "James Martin's American Adventure",
@@ -75,6 +63,18 @@
         "News"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/bcf76cb7-4c01-406a-88c0-642acc6d2a3e/16-9"
+    },
+    {
+      "start": "2026-05-16T20:55:00+05:00",
+      "stop": "2026-05-16T22:00:00+05:00",
+      "title": "The Chase: The Bloopers",
+      "desc": "Bradley Walsh presents the 2025 bloopers reel - The Governess, The Sinnerman, The Beast, The Vixen, The Dark Destroyer and The Menace might be clever, but they still make mistakes.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Game Show"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/58a21a9b-ad6a-4007-a5ef-a7853f3c16ff/16-9"
     }
   ]
 }

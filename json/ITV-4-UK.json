@@ -4,17 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-16T15:30:00+05:00",
-      "stop": "2026-05-16T15:50:00+05:00",
-      "title": "World of Sport",
-      "desc": "TV Firsts: Richard Henwood takes a look back at some television sporting firsts that include a 14-year-old Ronnie O'Sullivan.",
-      "language": "en",
-      "categories": [
-        "Sports"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/5f638ddc-38c2-469b-b10a-517089bfeec4/16-9"
-    },
-    {
       "start": "2026-05-16T15:50:00+05:00",
       "stop": "2026-05-16T17:00:00+05:00",
       "title": "The Adventures of Sherlock Holmes",
@@ -76,6 +65,18 @@
         "War"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/fc8e6eb2-6d2d-4892-9ad1-36728a9c69af/16-9"
+    },
+    {
+      "start": "2026-05-16T22:50:00+05:00",
+      "stop": "2026-05-16T22:55:00+05:00",
+      "title": "FYI Daily",
+      "desc": "Latest news from the world of entertainment.",
+      "language": "en",
+      "categories": [
+        "News & Documentary",
+        "Showbiz"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/e5c9350d-52af-415a-af84-3c3ea36d1338/16-9"
     }
   ]
 }

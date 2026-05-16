@@ -4,28 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-16T15:15:00+05:00",
-      "stop": "2026-05-16T16:35:00+05:00",
-      "title": "The Great Kiwi Bake Off",
-      "date": "2025",
-      "language": "en",
-      "categories": [
-        "Entertainment Program"
-      ],
-      "episode": "S2E8"
-    },
-    {
-      "start": "2026-05-16T16:35:00+05:00",
-      "stop": "2026-05-16T18:00:00+05:00",
-      "title": "The Great Kiwi Bake Off",
-      "date": "2025",
-      "language": "en",
-      "categories": [
-        "Entertainment Program"
-      ],
-      "episode": "S2E9"
-    },
-    {
       "start": "2026-05-16T18:00:00+05:00",
       "stop": "2026-05-16T18:35:00+05:00",
       "title": "Malaysia Gourmet With Justine Schofield",
@@ -70,6 +48,35 @@
         "Documentary Film"
       ],
       "episode": "E3"
+    },
+    {
+      "start": "2026-05-16T21:50:00+05:00",
+      "stop": "2026-05-16T22:50:00+05:00",
+      "title": "The First Class Travel Show",
+      "desc": "Presenter Josie Gibson embarks on a unique adventure during which she experiences the highest levels of comfort and elegance.Her journey is full of exclusive attractions and luxurious amenities.",
+      "date": "2025",
+      "language": "en",
+      "categories": [
+        "Documentary Series"
+      ],
+      "episode": "E4",
+      "credits": {
+        "director": [
+          "Ros Edwards"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-16T22:50:00+05:00",
+      "stop": "2026-05-16T23:50:00+05:00",
+      "title": "The Great Canadian Baking Show",
+      "desc": "Another installment of the program in which a group of non-professional confectioners compete with each other in a competition.He faces demanding tasks.The jury includes chef Bruno Feldeisen and Rochelle Adonis.",
+      "date": "2018",
+      "language": "en",
+      "categories": [
+        "Entertainment Program"
+      ],
+      "episode": "S2E3"
     }
   ]
 }
