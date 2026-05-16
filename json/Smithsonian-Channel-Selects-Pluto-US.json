@@ -4,22 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-16T19:00:00+05:00",
-      "stop": "2026-05-16T20:00:00+05:00",
-      "title": "Hell Below",
-      "sub_title": "Hitler's Revenge",
-      "desc": "Sail into New York Harbor and learn the chilling story of Hitler's campaign to bring World War II to America's shores.",
-      "date": "20160725",
-      "language": "en",
-      "categories": [
-        "Series",
-        "History",
-        "Educational"
-      ],
-      "episode": "S01E02",
-      "icon": "https://images.pluto.tv/series/627a998a9f694b0013764f3d/tile_1768863241834.jpg?fill=blur&fit=fill&fm=jpg&h=900&q=75&w=900"
-    },
-    {
       "start": "2026-05-16T20:00:00+05:00",
       "stop": "2026-05-16T21:00:00+05:00",
       "title": "Mighty Cruise Ships",
@@ -88,10 +72,23 @@
       "language": "en",
       "categories": [
         "History",
-        "Movie",
-        "Educational"
+        "Educational",
+        "Movie"
       ],
       "icon": "https://images.pluto.tv/episodes/66b15db061ac500014e1aab7/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694"
+    },
+    {
+      "start": "2026-05-17T01:00:00+05:00",
+      "stop": "2026-05-17T02:00:00+05:00",
+      "title": "B2: Stealth at War",
+      "desc": "Discover some of the secrets of one of the Air Force's most highly classified weapons: the B-2 Stealth Bomber.",
+      "date": "20130917",
+      "language": "en",
+      "categories": [
+        "Documentary",
+        "Movie"
+      ],
+      "icon": "https://images.pluto.tv/episodes/5fa343cde906e1001a03e0b6/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694"
     }
   ]
 }

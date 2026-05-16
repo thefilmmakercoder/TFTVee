@@ -4,44 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-16T19:30:00+05:00",
-      "stop": "2026-05-16T20:00:00+05:00",
-      "title": "One World Kitchen",
-      "sub_title": "Fun with Woks",
-      "desc": "Using her trusty wok, host Mary Tang cooks up some classic Chinese take-out favorites including Wonton Soup and Chicken Chow Mein.",
-      "date": "2017",
-      "language": "en",
-      "rating": "TVG",
-      "categories": [
-        "Series",
-        "Cooking",
-        "Anthology"
-      ],
-      "episode": "S3 E13",
-      "icon": "http://dtil.tmsimg.com/assets/p14626058_b_h10_aa.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Natalia Machado",
-          "Vijaya Selvaraju",
-          "Vanessa Gianfrancesco"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-16T20:00:00+05:00",
-      "stop": "2026-05-16T20:30:00+05:00",
-      "title": "Paid Programming",
-      "desc": "Paid programming.",
-      "language": "en",
-      "rating": "TVG",
-      "categories": [
-        "Consumer",
-        "Shopping",
-        "Variety"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-05-16T20:30:00+05:00",
       "stop": "2026-05-16T21:00:00+05:00",
       "title": "Watts on the Grill",
@@ -101,6 +63,51 @@
         "Golf"
       ],
       "icon": "http://dtil.tmsimg.com/assets/p32512159_b_h10_aa.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-17T04:00:00+05:00",
+      "stop": "2026-05-17T05:00:00+05:00",
+      "title": "Battle of the Generations",
+      "sub_title": "Battle 34",
+      "desc": "Four contestants from different generations; Baby Boomer, Gen X, Millennial, and Gen Z face-off through multiple rounds of pop culture trivia.",
+      "date": "2025",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Game show",
+        "Entertainment",
+        "Competition Reality"
+      ],
+      "episode": "S2 E14",
+      "icon": "http://dtil.tmsimg.com/assets/p30293762_b_h10_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Lilly Singh"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-17T05:00:00+05:00",
+      "stop": "2026-05-17T06:00:00+05:00",
+      "title": "Forensic Factor",
+      "sub_title": "Lasting Impressions",
+      "desc": "Criminals are betrayed by the clues their own bodies leave behind.",
+      "date": "2003",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Documentary",
+        "Crime"
+      ],
+      "episode": "S1 E3",
+      "icon": "http://dtil.tmsimg.com/assets/p236520_b_h8_ae.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "John Robinson"
+        ]
+      }
     }
   ]
 }

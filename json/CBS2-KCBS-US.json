@@ -4,44 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-16T19:00:00+05:00",
-      "stop": "2026-05-16T20:00:00+05:00",
-      "title": "CBS LA Mornings at 7am",
-      "desc": "Start your day with CBS LA Mornings, covering breaking stories from The Desk, and NEXT Weather and Traffic for Southern California.",
-      "date": "2025",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p31308696_b_h10_aa.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-16T20:00:00+05:00",
-      "stop": "2026-05-16T20:30:00+05:00",
-      "title": "Lucky Dog: Reunions",
-      "sub_title": "Lizzie Reunion",
-      "desc": "A terrier mix is acclimated to boat rides and trained to alert its hearing-impaired adopter when the telephone is ringing.",
-      "date": "2026",
-      "language": "en",
-      "rating": "TVG",
-      "categories": [
-        "Series",
-        "Reality",
-        "Animals",
-        "Pets",
-        "Docudrama",
-        "Adventure"
-      ],
-      "episode": "S3 E21",
-      "icon": "http://dtil.tmsimg.com/assets/p28310521_b_h8_ab.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Brandon McMillan",
-          "Michael Berger"
-        ]
-      }
-    },
-    {
       "start": "2026-05-16T20:30:00+05:00",
       "stop": "2026-05-16T21:00:00+05:00",
       "title": "Lucky Dog: Down Under",
@@ -98,6 +60,39 @@
         "News"
       ],
       "icon": "http://dtil.tmsimg.com/assets/p26402663_b_h10_ac.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-17T05:00:00+05:00",
+      "stop": "2026-05-17T05:30:00+05:00",
+      "title": "CBS LA at 5pm",
+      "desc": "Join the CBS LA team for stories from communities around SoCal, breaking news from The Desk, and NEXT Weather from the Weathersphere.",
+      "date": "2025",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p31308569_b_h10_aa.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-17T05:30:00+05:00",
+      "stop": "2026-05-17T06:00:00+05:00",
+      "title": "CBS Evening News",
+      "desc": "Tony Dokoupil shares the day's most important stories, delivering context and depth to bring greater understanding to one's world.",
+      "date": "2026",
+      "language": "en",
+      "categories": [
+        "Series",
+        "News"
+      ],
+      "episode": "E136",
+      "icon": "http://dtil.tmsimg.com/assets/p28807922_b_h8_ae.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Tony Dokoupil",
+          "Maurice DuBois",
+          "Jericka Duncan"
+        ]
+      }
     }
   ]
 }

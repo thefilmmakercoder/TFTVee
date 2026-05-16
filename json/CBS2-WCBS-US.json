@@ -4,44 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-16T19:00:00+05:00",
-      "stop": "2026-05-16T20:00:00+05:00",
-      "title": "CBS News New York Saturday 10am",
-      "desc": "Weekend news coverage.",
-      "date": "2022",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p21040169_b_h8_ab.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-16T20:00:00+05:00",
-      "stop": "2026-05-16T20:30:00+05:00",
-      "title": "Lucky Dog: Reunions",
-      "sub_title": "Lizzie Reunion",
-      "desc": "A terrier mix is acclimated to boat rides and trained to alert its hearing-impaired adopter when the telephone is ringing.",
-      "date": "2026",
-      "language": "en",
-      "rating": "TVG",
-      "categories": [
-        "Series",
-        "Reality",
-        "Animals",
-        "Pets",
-        "Docudrama",
-        "Adventure"
-      ],
-      "episode": "S3 E21",
-      "icon": "http://dtil.tmsimg.com/assets/p28310521_b_h8_ab.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Brandon McMillan",
-          "Michael Berger"
-        ]
-      }
-    },
-    {
       "start": "2026-05-16T20:30:00+05:00",
       "stop": "2026-05-16T21:00:00+05:00",
       "title": "Lucky Dog: Down Under",
@@ -99,6 +61,57 @@
         "News"
       ],
       "icon": "http://dtil.tmsimg.com/assets/p21788475_b_h8_aa.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-17T05:00:00+05:00",
+      "stop": "2026-05-17T06:00:00+05:00",
+      "title": "CIA",
+      "sub_title": "Orbital",
+      "desc": "When a crashed satellite containing dangerous nuclear material disappears, Bill and Colin work with an undercover Gina to recruit the help of a retired arms dealer to help track it down.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "Series",
+        "Crime drama"
+      ],
+      "episode": "S1 E8",
+      "icon": "http://dtil.tmsimg.com/assets/p30177490_b_h8_ab.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Ken Girotti"
+        ],
+        "actor": [
+          "Tom Ellis",
+          "Nick Gehlfuss",
+          "Necar Zadegan"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-17T06:00:00+05:00",
+      "stop": "2026-05-17T07:00:00+05:00",
+      "title": "48 Hours",
+      "sub_title": "Joe Hunter's Mission",
+      "desc": "\"Survivor\" contestant Joe Hunter says his sister, whose death was officially ruled a suicide, was murdered.",
+      "date": "2025",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "Series",
+        "Newsmagazine",
+        "Crime",
+        "Law"
+      ],
+      "episode": "S39 E10",
+      "icon": "http://dtil.tmsimg.com/assets/p30698125_b_h8_af.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Erin Moriarty",
+          "Peter Van Sant",
+          "Natalie Morales"
+        ]
+      }
     }
   ]
 }

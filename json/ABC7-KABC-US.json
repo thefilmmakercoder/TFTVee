@@ -4,30 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-16T19:00:00+05:00",
-      "stop": "2026-05-16T20:00:00+05:00",
-      "title": "Good Morning America",
-      "desc": "Early morning news and entertainment program that covers important issues with key figures from around the world and a wide spectrum of topics, including medicine, finance, consumer issues, computer technology, education and gardening.",
-      "date": "2026",
-      "language": "en",
-      "categories": [
-        "Series",
-        "Talk",
-        "News",
-        "Variety",
-        "Public affairs"
-      ],
-      "episode": "E155",
-      "icon": "http://dtil.tmsimg.com/assets/p31385280_b_h10_aa.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Whit Johnson",
-          "Janai Norman",
-          "Gio Benitez"
-        ]
-      }
-    },
-    {
       "start": "2026-05-16T20:00:00+05:00",
       "stop": "2026-05-16T21:00:00+05:00",
       "title": "Eyewitness News 8AM",
@@ -94,6 +70,18 @@
           "David Muir"
         ]
       }
+    },
+    {
+      "start": "2026-05-17T04:00:00+05:00",
+      "stop": "2026-05-17T05:00:00+05:00",
+      "title": "Eyewitness News 4PM",
+      "desc": "Early evening news.",
+      "date": "2004",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p676966_b_h8_af.jpg?w=960&h=540"
     }
   ]
 }

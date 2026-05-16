@@ -4,19 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-16T19:30:00+05:00",
-      "stop": "2026-05-16T20:00:00+05:00",
-      "title": "Counting the Cost",
-      "sub_title": "Ep",
-      "desc": "30 Counting the Cost provides background to the economics stories that shape our world and impact the lives of ordinary people.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "Business"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/abb0c192-3f76-4cdd-b4a9-7b98aaa243b5/16-9"
-    },
-    {
       "start": "2026-05-16T20:00:00+05:00",
       "stop": "2026-05-16T21:00:00+05:00",
       "title": "Newshour",
@@ -76,6 +63,18 @@
         "World Affairs"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/8a08c831-d94c-4d3d-ab12-704422bb6470/16-9"
+    },
+    {
+      "start": "2026-05-16T23:00:00+05:00",
+      "stop": "2026-05-17T00:00:00+05:00",
+      "title": "Newshour",
+      "desc": "Latest news and in-depth analysis from around the world.",
+      "language": "en",
+      "categories": [
+        "News & Documentary",
+        "World Affairs"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/f05f0086-6a44-442e-a79b-e4f9ce78ab1b/16-9"
     }
   ]
 }
