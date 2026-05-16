@@ -4,24 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-16T17:30:00+05:00",
-      "stop": "2026-05-16T18:00:00+05:00",
-      "title": "California Cooking With Jessica Holmes",
-      "desc": "KTLA Morning News anchor Jessica Holmes is in the kitchen whipping up California-inspired dishes.",
-      "date": "2018",
-      "language": "en",
-      "rating": "TVG",
-      "categories": [
-        "Cooking"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p15960347_b_h10_aa.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Jessica Holmes"
-        ]
-      }
-    },
-    {
       "start": "2026-05-16T18:00:00+05:00",
       "stop": "2026-05-16T19:00:00+05:00",
       "title": "KTLA 5 Morning News at 6",
@@ -79,6 +61,29 @@
         "Consumer"
       ],
       "icon": "http://dtil.tmsimg.com/assets/p30074472_b_h8_aa.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-17T00:00:00+05:00",
+      "stop": "2026-05-17T00:30:00+05:00",
+      "title": "Friends",
+      "sub_title": "The One With Chandler's Work Laugh",
+      "desc": "Monica is put off by the laugh Chandler uses to impress his boss (Sam McMurray); Ross shocks everyone by dating Janice (Maggie Wheeler).",
+      "date": "1999",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Sitcom"
+      ],
+      "episode": "S5 E12",
+      "icon": "http://dtil.tmsimg.com/assets/p7892578_b_h10_ap.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Jennifer Aniston",
+          "Courteney Cox",
+          "Lisa Kudrow"
+        ]
+      }
     }
   ]
 }

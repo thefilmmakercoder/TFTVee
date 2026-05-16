@@ -4,19 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-16T18:00:00+05:00",
-      "stop": "2026-05-16T18:35:00+05:00",
-      "title": "NHK Japanese News",
-      "sub_title": "Saturday 16 May 2026",
-      "desc": "News via satellite from NHK Tokyo in Japanese, no subtitles.",
-      "language": "en",
-      "rating": "NR",
-      "categories": [
-        "Sports"
-      ],
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/132257/image/334x188"
-    },
-    {
       "start": "2026-05-16T18:35:00+05:00",
       "stop": "2026-05-16T19:10:00+05:00",
       "title": "Telugu News DD Yadagiri",
@@ -80,6 +67,19 @@
         "Sports"
       ],
       "icon": "https://www.fetchtv.com.au/v2/epg/program/335199/image/334x188"
+    },
+    {
+      "start": "2026-05-17T01:00:00+05:00",
+      "stop": "2026-05-17T01:30:00+05:00",
+      "title": "Sri Lankan Sinhala News",
+      "sub_title": "Sunday 17 May 2026",
+      "desc": "News from Sri Lanka Rupavahini Corporation Colombo Sri Lanka, in Sinhala, no subtitles.",
+      "language": "en",
+      "rating": "NR",
+      "categories": [
+        "Sports"
+      ],
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/413756/image/334x188"
     }
   ]
 }
