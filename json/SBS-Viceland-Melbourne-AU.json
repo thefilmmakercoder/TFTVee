@@ -4,45 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-17T00:00:00+05:00",
-      "stop": "2026-05-17T01:00:00+05:00",
-      "title": "Al Jazeera News Hour",
-      "sub_title": "Sunday 17 May 2026",
-      "desc": "In-depth global news from Al Jazeera Satellite Network, Doha, Qatar, in English.",
-      "language": "en",
-      "rating": "NR",
-      "categories": [
-        "Sports"
-      ],
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/264846/image/334x188"
-    },
-    {
-      "start": "2026-05-17T01:00:00+05:00",
-      "stop": "2026-05-17T01:30:00+05:00",
-      "title": "TRT World News",
-      "sub_title": "Sunday 17 May 2026",
-      "desc": "The latest news from around the globe from TRT World, Istanbul, Turkiye, in English.",
-      "language": "en",
-      "rating": "NR",
-      "categories": [
-        "Sports"
-      ],
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/413685/image/334x188"
-    },
-    {
-      "start": "2026-05-17T01:30:00+05:00",
-      "stop": "2026-05-17T01:50:00+05:00",
-      "title": "France 24 Africa News",
-      "sub_title": "Sunday 17 May 2026",
-      "desc": "Join France24's Georja Calvin-Smith for a round up of the week's cultural and current affairs stories from across the African continent. Delivered via satellite from Paris, in English, no subtitles.",
-      "language": "en",
-      "rating": "NR",
-      "categories": [
-        "Sports"
-      ],
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/413084/image/334x188"
-    },
-    {
       "start": "2026-05-17T01:50:00+05:00",
       "stop": "2026-05-17T02:20:00+05:00",
       "title": "DW English News",
@@ -82,6 +43,44 @@
         "Sports"
       ],
       "icon": "https://www.fetchtv.com.au/v2/epg/program/337182/image/334x188"
+    },
+    {
+      "start": "2026-05-17T03:00:00+05:00",
+      "stop": "2026-05-17T03:10:00+05:00",
+      "title": "Euronews",
+      "sub_title": "Sunday 17 May 2026",
+      "desc": "Headlines, Breaking News & Analysis from the Euronews news centre in Brussels, Belgium, in English.",
+      "language": "en",
+      "rating": "NR",
+      "categories": [
+        "Sports"
+      ],
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/276/image/334x188"
+    },
+    {
+      "start": "2026-05-17T03:10:00+05:00",
+      "stop": "2026-05-17T03:40:00+05:00",
+      "title": "DW Global Us",
+      "sub_title": "Sunday 17 May 2026",
+      "desc": "Deutsche Welle's news magazine looks at the issues that are moving us today and shows how people are living with the opportunities and risks of globalisation.",
+      "language": "en",
+      "rating": "M",
+      "categories": [
+        "Special Interest"
+      ],
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/224193/image/334x188"
+    },
+    {
+      "start": "2026-05-17T03:40:00+05:00",
+      "stop": "2026-05-17T04:30:00+05:00",
+      "title": "Cbc The National",
+      "desc": "CBC's flagship nightly news with hosts Adrienne Arsenault and Andrew Chang from Toronto, Canada.",
+      "language": "en",
+      "rating": "NR",
+      "categories": [
+        "Sports"
+      ],
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/413666/image/334x188"
     }
   ]
 }

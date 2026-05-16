@@ -4,19 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-16T22:10:00+05:00",
-      "stop": "2026-05-17T00:05:00+05:00",
-      "title": "Midsomer Murders",
-      "sub_title": "Let Us Prey",
-      "desc": "Barnaby and Nelson investigate a series of murders in Midsomer St Claire that seem to be inspired by macabre images on a medieval fresco discovered in the church crypt.",
-      "language": "en",
-      "categories": [
-        "Entertainment",
-        "Detective"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/f6facdff-df02-43c5-a87f-38f991ea4998/16-9"
-    },
-    {
       "start": "2026-05-17T00:05:00+05:00",
       "stop": "2026-05-17T02:05:00+05:00",
       "title": "Midsomer Murders",
@@ -77,6 +64,19 @@
         "Shopping"
       ],
       "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/ITV-3-UK.png"
+    },
+    {
+      "start": "2026-05-17T10:00:00+05:00",
+      "stop": "2026-05-17T10:35:00+05:00",
+      "title": "On the Buses",
+      "sub_title": "The Poster",
+      "desc": "Sitcom about a bus driver and his conductor pal. The company mounts an advertising campaign to attract more passengers.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Comedy"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/c5aecd18-6f5c-45fd-83ac-9a8fd5051e0d/16-9"
     }
   ]
 }
