@@ -4,18 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-17T02:00:00+05:00",
-      "stop": "2026-05-17T03:00:00+05:00",
-      "title": "Newshour",
-      "desc": "Latest news and in-depth analysis from around the world.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "World Affairs"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/f05f0086-6a44-442e-a79b-e4f9ce78ab1b/16-9"
-    },
-    {
       "start": "2026-05-17T03:00:00+05:00",
       "stop": "2026-05-17T04:00:00+05:00",
       "title": "Newshour",
@@ -74,6 +62,19 @@
         "World Affairs"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/effde8c7-2f69-45bd-ab7c-9be1341801d1/16-9"
+    },
+    {
+      "start": "2026-05-17T06:30:00+05:00",
+      "stop": "2026-05-17T07:00:00+05:00",
+      "title": "UpFront",
+      "sub_title": "Ep",
+      "desc": "15 Redi Tlhabi speaks to Spain's Foreign Minister about his country's fractious relationship with the Trump administration.",
+      "language": "en",
+      "categories": [
+        "News & Documentary",
+        "Politics"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/153caaf0-be58-4e12-a6ce-ba680b4a102c/16-9"
     }
   ]
 }

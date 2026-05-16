@@ -4,19 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-17T03:00:00+05:00",
-      "stop": "2026-05-17T03:10:00+05:00",
-      "title": "Euronews",
-      "sub_title": "Sunday 17 May 2026",
-      "desc": "Headlines, Breaking News & Analysis from the Euronews news centre in Brussels, Belgium, in English.",
-      "language": "en",
-      "rating": "NR",
-      "categories": [
-        "Sports"
-      ],
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/276/image/334x188"
-    },
-    {
       "start": "2026-05-17T03:10:00+05:00",
       "stop": "2026-05-17T03:40:00+05:00",
       "title": "DW Global Us",
@@ -81,6 +68,20 @@
       ],
       "episode": "E4",
       "icon": "https://www.fetchtv.com.au/v2/epg/program/2004689/image/334x188"
+    },
+    {
+      "start": "2026-05-17T08:05:00+05:00",
+      "stop": "2026-05-17T08:15:00+05:00",
+      "title": "Lee Lin Chin's Fashionista",
+      "sub_title": "Material By-Product",
+      "desc": "Susan Dimasi and Chantal McDonald, designers of Material By-Product, invite Lee Lin Chin to their Melbourne based workshop and explain their philosophical approach to design.",
+      "language": "en",
+      "rating": "PG",
+      "categories": [
+        "Special Interest"
+      ],
+      "episode": "S2 E22",
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/158604/image/334x188"
     }
   ]
 }
