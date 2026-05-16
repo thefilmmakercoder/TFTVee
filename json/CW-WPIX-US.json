@@ -4,31 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-16T23:30:00+05:00",
-      "stop": "2026-05-17T00:00:00+05:00",
-      "title": "Making the Team",
-      "date": "2022",
-      "language": "en",
-      "categories": [
-        "Special",
-        "Rodeo"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p22761802_b_h8_aa.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-17T00:00:00+05:00",
-      "stop": "2026-05-17T00:30:00+05:00",
-      "title": "Around the Track",
-      "desc": "Previews for upcoming NASCAR races from tracks around the country.",
-      "date": "2022",
-      "language": "en",
-      "categories": [
-        "Auto racing",
-        "Sports talk"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p21457515_b_h8_aa.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-05-17T00:30:00+05:00",
       "stop": "2026-05-17T01:00:00+05:00",
       "title": "NASCAR Countdown Live",
@@ -82,6 +57,44 @@
       "credits": {
         "actor": [
           "Craig Ferguson"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-17T07:00:00+05:00",
+      "stop": "2026-05-17T08:00:00+05:00",
+      "title": "PIX11 News at Ten",
+      "desc": "Staying informed with the news and headlines.",
+      "date": "2014",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p10829690_b_h8_ab.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-17T08:00:00+05:00",
+      "stop": "2026-05-17T08:30:00+05:00",
+      "title": "Seinfeld",
+      "sub_title": "The Conversion",
+      "desc": "Jerry thinks his girlfriend (Kimberly Campbell) has a fungus; George converts to the Latvian Orthodox religion.",
+      "date": "1993",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Sitcom"
+      ],
+      "episode": "S5 E11",
+      "icon": "http://dtil.tmsimg.com/assets/p183875_b_h10_ab.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Tom Cherones"
+        ],
+        "actor": [
+          "Jerry Seinfeld",
+          "Jason Alexander",
+          "Michael Richards"
         ]
       }
     }

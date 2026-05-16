@@ -1,9 +1,73 @@
 <?xml version='1.0' encoding='utf-8'?>
 <tv>
   <channel id="SBS-World-Movies-Sydney-AU">
-    <display-name>SBS World Movies Sydney</display-name>
-    <icon src="https://thefilmtuition.com/tvlogo/SBS-World-Movies-Sydney-AU.png" />
-  </channel><programme channel="SBS-World-Movies-Sydney-AU" start="20260516044000 +0500" stop="20260516060500 +0500">
+    <icon src="https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/SBS-World-Movies-Sydney-AU.png" />
+    <url>https://tv.thefilmtuition.com</url>
+    <display-name>SBS World Movies</display-name>
+  </channel><programme channel="SBS-World-Movies-Sydney-AU" start="20260515215000 +0500" stop="20260515233000 +0500">
+    <title>The Vourdalak</title>
+    <sub-title />
+    <desc>Lost in a hostile forest, the Marquis d'Urfe, a noble emissary of the King of France, finds refuge in the home of a strange family.</desc>
+    <category lang="en">Drama</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/9108902/image/334x188" />
+    <rating system="AU">
+      <value>MA</value>
+    </rating>
+  </programme><programme channel="SBS-World-Movies-Sydney-AU" start="20260515233000 +0500" stop="20260516000000 +0500">
+    <title>The Movie Show</title>
+    <sub-title />
+    <desc>The Movie Show was an Australian film review program which was broadcast on SBS TV. Its history is divided into three parts, until it finally wound up in 2008.Reviews and interviews from the movie world.An attraction of the programme were the occasional disagreements of the hosts. Stratton and Pomeranz presented the show for the last time on 12 May 2004 and left SBS because of a perceived \.</desc>
+    <episode-num system="onscreen">E18</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/130483/image/334x188" />
+    <rating system="AU">
+      <value>M</value>
+    </rating>
+  </programme><programme channel="SBS-World-Movies-Sydney-AU" start="20260516000000 +0500" stop="20260516003500 +0500">
+    <title>The Movie Show</title>
+    <sub-title />
+    <desc>The Movie Show was an Australian film review program which was broadcast on SBS TV. Its history is divided into three parts, until it finally wound up in 2008.Reviews and interviews from the movie world.An attraction of the programme were the occasional disagreements of the hosts. Stratton and Pomeranz presented the show for the last time on 12 May 2004 and left SBS because of a perceived \.</desc>
+    <episode-num system="onscreen">E19</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/130483/image/334x188" />
+    <rating system="AU">
+      <value>M</value>
+    </rating>
+  </programme><programme channel="SBS-World-Movies-Sydney-AU" start="20260516003500 +0500" stop="20260516011000 +0500">
+    <title>The Movie Show</title>
+    <sub-title />
+    <desc>Margaret Pomeranz and David Stratton Review: Enemies, A Love Story, Glory, The Fabulous Baker Boys, Tango and Cash and the Berlin Film Festival.</desc>
+    <episode-num system="onscreen">E2</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/130483/image/334x188" />
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme><programme channel="SBS-World-Movies-Sydney-AU" start="20260516011000 +0500" stop="20260516030000 +0500">
+    <title>Grandpas</title>
+    <sub-title />
+    <desc>Three entrepreneurial grandfathers face an uphill battle when they try to open a day care center.</desc>
+    <category lang="en">Comedy</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/7680009/image/334x188" />
+    <rating system="AU">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="SBS-World-Movies-Sydney-AU" start="20260516030000 +0500" stop="20260516044000 +0500">
+    <title>Vai</title>
+    <sub-title />
+    <desc>Vai is a film about female empowerment telling the story of one woman's life in eight separate moments from the perspective of eight different Pacific Island cultures. Beautifully shot, celebratory and epic, at times heartbreaking and uplifting, Vai is a seamless portmanteau film directed by eight female Pacific directors.</desc>
+    <category lang="en">Drama</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/5258405/image/334x188" />
+    <rating system="AU">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="SBS-World-Movies-Sydney-AU" start="20260516044000 +0500" stop="20260516060500 +0500">
     <title>Oink</title>
     <sub-title />
     <desc>A young girl sets out to prove to her disapproving mother she can house-train the endearing but unruly little piglet she gets as a birthday gift from her estranged oddball grandfather.</desc>
@@ -242,46 +306,6 @@
     <icon src="https://www.fetchtv.com.au/v2/epg/program/1390689/image/334x188" />
     <rating system="AU">
       <value>G</value>
-    </rating>
-  </programme><programme channel="SBS-World-Movies-Sydney-AU" start="20260518012500 +0500" stop="20260518034000 +0500">
-    <title>Castle In The Sky</title>
-    <sub-title />
-    <desc>This high-flying adventure begins when Pazu, an engineer's apprentice, spies a young girl, Sheeta, floating down from the sky, held aloft by a glowing pendant. Both Sheeta and Pazu are searching for the legendary floating castle, Laputa, and they vow to travel there together to unravel the mystery of the luminous crystal. But their quest won't be easy, as soon they are being pursued by greedy air pirates, the military and secret government agents, who all seek the power Sheeta alone can control.</desc>
-    <category lang="en">Kids &amp; Family</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/1423790/image/334x188" />
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme><programme channel="SBS-World-Movies-Sydney-AU" start="20260518034000 +0500" stop="20260518052000 +0500">
-    <title>Delfin</title>
-    <sub-title />
-    <desc>Life isn't easy for Delfin, an 11-year-old boy who lives alone with his father in a small town outside of Buenos Aires. Delfin's ambition is to join a children's orchestra in a neighbouring village.</desc>
-    <category lang="en">Drama</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/14567965/image/334x188" />
-    <rating system="AU">
-      <value>PG</value>
-    </rating>
-  </programme><programme channel="SBS-World-Movies-Sydney-AU" start="20260518052000 +0500" stop="20260518075500 +0500">
-    <title>The Talented Mr Ripley</title>
-    <sub-title />
-    <desc>Tom, a calculating young man, believes it's better to be a fake somebody than a real nobody. Opportunity knocks in the form of a wealthy US shipbuilder who hires Tom to travel to Italy to bring back his playboy son, Dickie. Ripley worms his way into the idyllic lives of Dickie and his girlfriend, plunging into a daring scheme of duplicity, lies and murder.</desc>
-    <category lang="en">Drama</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/145443/image/334x188" />
-    <rating system="AU">
-      <value>R</value>
-    </rating>
-  </programme><programme channel="SBS-World-Movies-Sydney-AU" start="20260518075500 +0500" stop="20260518093500 +0500">
-    <title>Hounds</title>
-    <sub-title />
-    <desc>Living precariously on the margins of society, Hassan and his son Isaam earn money as lackeys for a local crime boss, who likes to fight dogs on the side. One night, when he loses his favourite dog in a fight, he sets Hassan and Isaam the task of kidnapping his rival’s right-hand man.</desc>
-    <category lang="en">Drama</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/8697209/image/334x188" />
-    <rating system="AU">
-      <value>M</value>
     </rating>
   </programme>
 </tv>

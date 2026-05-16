@@ -1,9 +1,141 @@
 <?xml version='1.0' encoding='utf-8'?>
 <tv>
   <channel id="Hallmark-Mystery-US">
+    <icon src="https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/Hallmark-Mystery-US.png" />
+    <url>https://tv.thefilmtuition.com</url>
     <display-name>Hallmark Mystery</display-name>
-    <icon src="https://thefilmtuition.com/tvlogo/Hallmark-Mystery-US.png" />
-  </channel><programme channel="Hallmark-Mystery-US" start="20260516050000 +0500" stop="20260516070000 +0500">
+  </channel><programme channel="Hallmark-Mystery-US" start="20260515210000 +0500" stop="20260515220000 +0500">
+    <title>Murder, She Wrote</title>
+    <sub-title>Badge of Honor</sub-title>
+    <desc>Seth's old Army pal (Gerald S. O'Loughlin) is accused of murdering his new employer (Cliff DeYoung), a yacht dealer.</desc>
+    <episode-num system="onscreen">S8 E21</episode-num>
+    <credits>
+      <director>David Moessinger</director>
+      <actor>Angela Lansbury</actor>
+      <actor>William Windom</actor>
+      <actor>Ron Masak</actor>
+    </credits><date>1992</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Mystery</category>
+    <category lang="en">Crime</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p7895445_b_h8_ab.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="Kijkwijzer">
+      <value>9</value>
+    </rating>
+  </programme><programme channel="Hallmark-Mystery-US" start="20260515220000 +0500" stop="20260515230000 +0500">
+    <title>Murder, She Wrote</title>
+    <sub-title>Murder on Madison Avenue</sub-title>
+    <desc>Jessica is in the process of designing a murder-mystery board game for a toy company when an executive (Barbara Babcock) is murdered.</desc>
+    <episode-num system="onscreen">S8 E22</episode-num>
+    <credits>
+      <director>Jerry Jameson</director>
+      <actor>Angela Lansbury</actor>
+      <actor>Barbara Babcock</actor>
+      <actor>John Hillerman</actor>
+    </credits><date>1992</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Mystery</category>
+    <category lang="en">Crime</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p7895445_b_h8_ab.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="Kijkwijzer">
+      <value>9</value>
+    </rating>
+  </programme><programme channel="Hallmark-Mystery-US" start="20260515230000 +0500" stop="20260516010000 +0500">
+    <title>Gourmet Detective Mysteries</title>
+    <sub-title>A Healthy Place to Die</sub-title>
+    <desc>When Henry is invited as a guest speaker at a luxury resort spa, he quickly finds himself at the center of another murder.</desc>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <credits>
+      <director>Scott Smith</director>
+      <actor>Dylan Neal</actor>
+      <actor>Brooke Burns</actor>
+      <actor>Matthew Kevin Anderson</actor>
+    </credits><date>2015</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Mystery</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p15490194_b_h10_ab.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating><rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating>
+  </programme><programme channel="Hallmark-Mystery-US" start="20260516010000 +0500" stop="20260516030000 +0500">
+    <title>Gourmet Detective Mysteries</title>
+    <sub-title>Death al Dente</sub-title>
+    <desc>Henry is hired to find the best Italian chef for a new high-end eatery but it turns out that murder is on the menu.</desc>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <credits>
+      <director>Terry Ingram</director>
+      <actor>Dylan Neal</actor>
+      <actor>Brooke Burns</actor>
+      <actor>Matthew Kevin Anderson</actor>
+    </credits><date>2016</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Mystery</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p15490194_b_h10_ab.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating>
+  </programme><programme channel="Hallmark-Mystery-US" start="20260516030000 +0500" stop="20260516050000 +0500">
+    <title>Gourmet Detective Mysteries</title>
+    <sub-title>Eat, Drink &amp; Be Buried</sub-title>
+    <desc>A wealthy family hires Henry to oversee the menu for an annual summer gala; when one of the host's sons dies at the event, Maggie and Henry are on the case once again, finding themselves in the middle of a feud between heirs to a family fortune.</desc>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <credits>
+      <director>Mark Jean</director>
+      <actor>Dylan Neal</actor>
+      <actor>Brooke Burns</actor>
+      <actor>Matthew Kevin Anderson</actor>
+    </credits><date>2017</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Mystery</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p15490194_b_h10_ab.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+  </programme><programme channel="Hallmark-Mystery-US" start="20260516050000 +0500" stop="20260516070000 +0500">
     <title>Gourmet Detective Mysteries</title>
     <sub-title>Roux the Day</sub-title>
     <desc>Henry and Maggie find themselves in a murder mystery where secrets hidden within a treasured recipe book have dire consequences for all who own it.</desc>
@@ -914,134 +1046,6 @@
       <value>G</value>
     </rating><rating system="Medierådet">
       <value>11</value>
-    </rating>
-  </programme><programme channel="Hallmark-Mystery-US" start="20260518010000 +0500" stop="20260518030000 +0500">
-    <title>Murder She Baked: A Deadly Recipe</title>
-    <sub-title />
-    <desc>Bakery owner Hannah Swensen just can't keep her hands out of the batter when murder stirs things up in Lake Eden, Minn.</desc>
-    <credits>
-      <director>Kristoffer Tabori</director>
-      <actor>Alison Sweeney</actor>
-      <actor>Cameron Mathison</actor>
-      <actor>Barbara Niven</actor>
-    </credits><date>2016</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Mystery</category>
-    <category lang="en">Drama</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p12813225_v_h10_aa.jpg?w=960&amp;h=540" />
-    <rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>B</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>AL</value>
-    </rating><rating system="Medierådet">
-      <value>11</value>
-    </rating>
-  </programme><programme channel="Hallmark-Mystery-US" start="20260518030000 +0500" stop="20260518050000 +0500">
-    <title>Nelly Knows Mysteries</title>
-    <sub-title>Nelly Knows Mysteries: All Manners of Murder</sub-title>
-    <desc>Advice columnist Nelly is invited to a lavish dinner at Grand Arlott manor after encouraging an eccentric widow to reconcile with her estranged family and brings Detective Michael as her date.</desc>
-    <episode-num system="onscreen">S1 E2</episode-num>
-    <credits>
-      <actor>Pascale Hutton</actor>
-      <actor>Kavan Smith</actor>
-    </credits><date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Mystery</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p28029163_b_h8_ab.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating>
-  </programme><programme channel="Hallmark-Mystery-US" start="20260518050000 +0500" stop="20260518070000 +0500">
-    <title>Murder, She Baked: Just Desserts</title>
-    <sub-title />
-    <desc>Hannah Swensen is thrilled when she is chosen as a guest for the first Eden Lake Dessert Bake-Off, but when fellow judge, coach Boyd Watson is found murdered, Hannah takes it upon herself to find the killer.</desc>
-    <credits>
-      <director>Kristoffer Tabori</director>
-      <actor>Alison Sweeney</actor>
-      <actor>Cameron Mathison</actor>
-      <actor>Barbara Niven</actor>
-    </credits><date>2017</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Mystery</category>
-    <category lang="en">Crime drama</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p13797168_v_h10_ac.jpg?w=960&amp;h=540" />
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>12</value>
-    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>B</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="Medierådet">
-      <value>11</value>
-    </rating><rating system="Arcom">
-      <value>-10</value>
-    </rating><rating system="Australian Classification Board">
-      <value>PG</value>
-    </rating>
-  </programme><programme channel="Hallmark-Mystery-US" start="20260518070000 +0500" stop="20260518080000 +0500">
-    <title>Murder, She Wrote</title>
-    <sub-title>Lone Witness</sub-title>
-    <desc>A delivery boy (Neil Patrick Harris) who witnessed a murder becomes the prime suspect and disappears.</desc>
-    <episode-num system="onscreen">S9 E19</episode-num>
-    <credits>
-      <director>Walter Grauman</director>
-      <actor>Angela Lansbury</actor>
-      <actor>Neil Patrick Harris</actor>
-      <actor>Laurence Luckinbill</actor>
-    </credits><date>1993</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Mystery</category>
-    <category lang="en">Crime</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p7895446_b_h8_ah.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>G</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating><rating system="Kijkwijzer">
-      <value>9</value>
-    </rating>
-  </programme><programme channel="Hallmark-Mystery-US" start="20260518080000 +0500" stop="20260518090000 +0500">
-    <title>Murder, She Wrote</title>
-    <sub-title>Ship of Thieves</sub-title>
-    <desc>Jessica is enjoying a Caribbean cruise on a ship where her old friend (Keith Michell) is chief of security when a woman is found dead in the ship's cargo net.</desc>
-    <episode-num system="onscreen">S9 E20</episode-num>
-    <credits>
-      <director>Anthony Shaw</director>
-      <actor>Angela Lansbury</actor>
-      <actor>Keith Michell</actor>
-      <actor>Jon Cypher</actor>
-    </credits><date>1993</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Mystery</category>
-    <category lang="en">Crime</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p7895446_b_h8_ah.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>G</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating><rating system="Kijkwijzer">
-      <value>9</value>
     </rating>
   </programme>
 </tv>

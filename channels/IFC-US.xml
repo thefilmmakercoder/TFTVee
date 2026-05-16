@@ -1,9 +1,192 @@
 <?xml version='1.0' encoding='utf-8'?>
 <tv>
   <channel id="IFC-US">
+    <icon src="https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/IFC-US.png" />
+    <url>https://tv.thefilmtuition.com</url>
     <display-name>IFC</display-name>
-    <icon src="https://thefilmtuition.com/tvlogo/IFC-US.png" />
-  </channel><programme channel="IFC-US" start="20260516023000 +0500" stop="20260516051500 +0500">
+  </channel><programme channel="IFC-US" start="20260515171500 +0500" stop="20260515200000 +0500">
+    <title>Patriot Games</title>
+    <sub-title />
+    <desc>When former CIA agent Jack Ryan (Harrison Ford) hampers an IRA terrorist attack in London, he kills one of the terrorists. The dead man's brother, another member of the group named Sean Miller (Sean Bean), is arrested but quickly escapes. Vowing revenge against Ryan, Miller travels to the United States, where he forces Ryan's wife (Anne Archer) and daughter (Thora Birch) into a car accident that badly injures them. This convinces Ryan to rejoin the CIA in order to track down Miller.</desc>
+    <credits>
+      <director>Phillip Noyce</director>
+      <actor>Harrison Ford</actor>
+      <actor>Anne Archer</actor>
+      <actor>Patrick Bergin</actor>
+    </credits><date>1992</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Thriller</category>
+    <category lang="en">Action</category>
+    <category lang="en">Crime drama</category>
+    <category lang="en">Adventure</category>
+    <category lang="en">Mystery</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p14051_v_h10_as.jpg?w=960&amp;h=540" />
+    <rating system="Motion Picture Association">
+      <value>R</value>
+    </rating><rating system="British Board of Film Classification">
+      <value>15</value>
+    </rating><rating system="UK Content Provider">
+      <value>15</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>12</value>
+    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K12</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating><rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating><rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating><rating system="Ontario Film Authority">
+      <value>AA</value>
+    </rating><rating system="Instituto Nacional de Cine y Artes Audiovisuales">
+      <value>SAM 16</value>
+    </rating><rating system="Film &amp; Publication Board">
+      <value>16</value>
+    </rating><rating system="Statens medieråd">
+      <value>Från 15 år</value>
+    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B15</value>
+    </rating><rating system="映倫">
+      <value>G</value>
+    </rating><rating system="Medietilsynet">
+      <value>15 år</value>
+    </rating><rating system="영상물등급위원회">
+      <value>12+</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating><rating system="Kijkwijzer">
+      <value>12</value>
+    </rating><rating system="Medierådet">
+      <value>15</value>
+    </rating><rating system="Arcom">
+      <value>-10</value>
+    </rating><star-rating>
+      <value>6.0/10</value>
+    </star-rating>
+  </programme><programme channel="IFC-US" start="20260515200000 +0500" stop="20260515231500 +0500">
+    <title>Clear and Present Danger</title>
+    <sub-title />
+    <desc>Agent Jack Ryan (Harrison Ford) becomes acting deputy director of the CIA when Admiral Greer (James Earl Jones) is diagnosed with cancer. When an American businessman, and friend of the president, is murdered on a yacht, Ryan starts discovering links between the man and drug dealers. As CIA agent John Clark (Willem Dafoe) is sent to Colombia to kill drug kingpins in retaliation, Ryan must fight through multiple cover-ups to figure out what happened and who's responsible.</desc>
+    <credits>
+      <director>Phillip Noyce</director>
+      <actor>Harrison Ford</actor>
+      <actor>Willem Dafoe</actor>
+      <actor>Anne Archer</actor>
+    </credits><date>1994</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Thriller</category>
+    <category lang="en">Drama</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p15855_v_h10_ac.jpg?w=960&amp;h=540" />
+    <rating system="Motion Picture Association">
+      <value>PG-13</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="British Board of Film Classification">
+      <value>12</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>12</value>
+    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K12</value>
+    </rating><rating system="Film &amp; Publication Board">
+      <value>16</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating><rating system="UK Content Provider">
+      <value>12</value>
+    </rating><rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating><rating system="Arcom">
+      <value>-10</value>
+    </rating><rating system="Ontario Film Authority">
+      <value>AA</value>
+    </rating><rating system="Instituto Nacional de Cine y Artes Audiovisuales">
+      <value>ATP</value>
+    </rating><rating system="Statens medieråd">
+      <value>Från 15 år</value>
+    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B15</value>
+    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
+      <value>12</value>
+    </rating><rating system="映倫">
+      <value>G</value>
+    </rating><rating system="Medietilsynet">
+      <value>15 år</value>
+    </rating><rating system="영상물등급위원회">
+      <value>15+</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating><rating system="Kijkwijzer">
+      <value>12</value>
+    </rating><rating system="Medierådet">
+      <value>15</value>
+    </rating><rating system="Alberta's Film Classification Board">
+      <value>PG</value>
+    </rating><star-rating>
+      <value>6.0/10</value>
+    </star-rating>
+  </programme><programme channel="IFC-US" start="20260515231500 +0500" stop="20260516023000 +0500">
+    <title>A Few Good Men</title>
+    <sub-title />
+    <desc>Lt. Daniel Kaffee (Tom Cruise) is a military lawyer defending two U.S. Marines charged with killing a fellow Marine at the Guantánamo Bay Naval Base in Cuba. Although Kaffee is known for seeking plea bargains, a fellow lawyer, Lt. Cdr. JoAnne Galloway (Demi Moore), convinces him that the accused marines were most likely carrying out an order from a commanding officer. Kaffee takes a risk by calling Col. Nathan R. Jessep (Jack Nicholson) to the stand in an effort to uncover the conspiracy.</desc>
+    <credits>
+      <director>Rob Reiner</director>
+      <actor>Tom Cruise</actor>
+      <actor>Jack Nicholson</actor>
+      <actor>Demi Moore</actor>
+    </credits><date>1992</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Drama</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p14383_v_h10_aa.jpg?w=960&amp;h=540" />
+    <rating system="Motion Picture Association">
+      <value>R</value>
+    </rating><rating system="British Board of Film Classification">
+      <value>15</value>
+    </rating><rating system="Manitoba Film Classification Board">
+      <value>PG</value>
+    </rating><rating system="Maritime Film Classification Board">
+      <value>14</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="UK Content Provider">
+      <value>15</value>
+    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K7</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>10</value>
+    </rating><rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating><rating system="Ontario Film Authority">
+      <value>PG</value>
+    </rating><rating system="Instituto Nacional de Cine y Artes Audiovisuales">
+      <value>SAM 13</value>
+    </rating><rating system="Film &amp; Publication Board">
+      <value>13</value>
+    </rating><rating system="Statens medieråd">
+      <value>Från 11 år</value>
+    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
+      <value>12</value>
+    </rating><rating system="Kijkwijzer">
+      <value>12</value>
+    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating><rating system="영상물등급위원회">
+      <value>15+</value>
+    </rating><rating system="Arcom">
+      <value>-10</value>
+    </rating><rating system="Central Board of Film Certification">
+      <value>U</value>
+    </rating><star-rating>
+      <value>7.0/10</value>
+    </star-rating>
+  </programme><programme channel="IFC-US" start="20260516023000 +0500" stop="20260516051500 +0500">
     <title>Road House</title>
     <sub-title />
     <desc>The Double Deuce is the meanest, loudest and rowdiest bar south of the Mason-Dixon Line, and Dalton (Patrick Swayze) has been hired to clean it up. He might not look like much, but the Ph.D.-educated bouncer proves he's more than capable -- busting the heads of troublemakers and turning the roadhouse into a jumping hot-spot. But Dalton's romance with the gorgeous Dr. Clay (Kelly Lynch) puts him on the bad side of cutthroat local big shot Brad Wesley (Ben Gazzara).</desc>
@@ -821,62 +1004,72 @@
     </rating><star-rating>
       <value>7.0/10</value>
     </star-rating>
-  </programme><programme channel="IFC-US" start="20260517133000 +0500" stop="20260517140000 +0500">
-    <title>Night Court</title>
-    <sub-title>Some Like It Hot</sub-title>
-    <desc>A Russian immigrant, charged with possession of stolen merchandise, threatens to set himself on fire.</desc>
-    <episode-num system="onscreen">S1 E10</episode-num>
+  </programme><programme channel="IFC-US" start="20260517133000 +0500" stop="20260517140500 +0500">
+    <title>SisterS</title>
+    <sub-title>Rid of Me</sub-title>
+    <desc>After a life-changing discovery, Suze embarks on a road trip to reconnect with her estranged sister Sare.</desc>
+    <episode-num system="onscreen">S2 E1</episode-num>
     <credits>
-      <actor>Harry Anderson</actor>
-      <actor>John Larroquette</actor>
-      <actor>Richard Moll</actor>
-    </credits><date>1984</date>
+      <director>Yael Staav</director>
+      <actor>Susan Stanley</actor>
+      <actor>Sarah Goldberg</actor>
+      <actor>Sophie Thompson</actor>
+    </credits><date>2026</date>
     <category lang="en">Series</category>
-    <category lang="en">Sitcom</category>
+    <category lang="en">Comedy drama</category>
+    <category lang="en">Dark comedy</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p184004_b_h10_ab.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
+    <icon src="http://dtil.tmsimg.com/assets/p32186975_b_h10_aa.jpg?w=960&amp;h=540" />
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TVMA</value>
     </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
+      <value>18+</value>
     </rating>
-  </programme><programme channel="IFC-US" start="20260517140000 +0500" stop="20260517143000 +0500">
-    <title>Night Court</title>
-    <sub-title>Harry and the Rock Star</sub-title>
-    <desc>Harry falls for a rock star, but soon learns that the relationship won't work.</desc>
-    <episode-num system="onscreen">S1 E11</episode-num>
+  </programme><programme channel="IFC-US" start="20260517140500 +0500" stop="20260517144000 +0500">
+    <title>SisterS</title>
+    <sub-title>Notions</sub-title>
+    <desc>Suze discovers that she wasn't invited to the wedding but stays to help Sare.</desc>
+    <episode-num system="onscreen">S2 E2</episode-num>
     <credits>
-      <actor>Harry Anderson</actor>
-      <actor>John Larroquette</actor>
-      <actor>Richard Moll</actor>
-    </credits><date>1984</date>
+      <actor>Susan Stanley</actor>
+      <actor>Sarah Goldberg</actor>
+      <actor>Sophie Thompson</actor>
+    </credits><date>2026</date>
     <category lang="en">Series</category>
-    <category lang="en">Sitcom</category>
+    <category lang="en">Comedy drama</category>
+    <category lang="en">Dark comedy</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p184004_b_h10_ab.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
+    <icon src="http://dtil.tmsimg.com/assets/p32186975_b_h10_aa.jpg?w=960&amp;h=540" />
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TVMA</value>
     </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
+      <value>18+</value>
     </rating>
-  </programme><programme channel="IFC-US" start="20260517143000 +0500" stop="20260517151500 +0500">
-    <title>Night Court</title>
-    <sub-title>Bull's Baby</sub-title>
-    <desc>Bull takes care of a neighbor's baby, not realizing that the mother has abandoned the child.</desc>
-    <episode-num system="onscreen">S1 E12</episode-num>
+  </programme><programme channel="IFC-US" start="20260517144000 +0500" stop="20260517151500 +0500">
+    <title>SisterS</title>
+    <sub-title>Just a Ride</sub-title>
+    <desc>Suze battles grief, uncovers family secrets, and faces surprises at Sare's pre-wedding spa day.</desc>
+    <episode-num system="onscreen">S2 E3</episode-num>
     <credits>
-      <actor>Harry Anderson</actor>
-      <actor>John Larroquette</actor>
-      <actor>Richard Moll</actor>
-    </credits><date>1984</date>
+      <actor>Susan Stanley</actor>
+      <actor>Sarah Goldberg</actor>
+      <actor>Sophie Thompson</actor>
+    </credits><date>2026</date>
     <category lang="en">Series</category>
-    <category lang="en">Sitcom</category>
+    <category lang="en">Comedy drama</category>
+    <category lang="en">Dark comedy</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p184004_b_h10_ab.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
+    <icon src="http://dtil.tmsimg.com/assets/p32186975_b_h10_aa.jpg?w=960&amp;h=540" />
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TVMA</value>
     </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
+      <value>18+</value>
     </rating>
   </programme><programme channel="IFC-US" start="20260517151500 +0500" stop="20260517155000 +0500">
     <title>SisterS</title>
@@ -1153,360 +1346,5 @@
     </rating><star-rating>
       <value>4.0/10</value>
     </star-rating>
-  </programme><programme channel="IFC-US" start="20260518011500 +0500" stop="20260518040000 +0500">
-    <title>Olympus Has Fallen</title>
-    <sub-title />
-    <desc>The unthinkable happens when heavily armed and highly trained terrorists launch a bold daytime attack on the White House. The building is overrun, and President Benjamin Asher (Aaron Eckhart) and his staff are taken hostage. Luckily for Asher, former presidential security officer Mike Banning (Gerard Butler) is on the scene. With time running out, it's up to Banning to locate Asher's son before the extremists do and rescue the president before his captors unleash their ultimate plan.</desc>
-    <credits>
-      <director>Antoine Fuqua</director>
-      <actor>Gerard Butler</actor>
-      <actor>Aaron Eckhart</actor>
-      <actor>Morgan Freeman</actor>
-    </credits><date>2013</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Action</category>
-    <category lang="en">Thriller</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p9568543_v_h10_ad.jpg?w=960&amp;h=540" />
-    <rating system="Motion Picture Association">
-      <value>R</value>
-    </rating><rating system="B.C. Film Classification Office">
-      <value>14A</value>
-    </rating><rating system="Saskatchewan Film and Video Classification Board">
-      <value>14A</value>
-    </rating><rating system="Ontario Film Authority">
-      <value>14A</value>
-    </rating><rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating><rating system="Alberta's Film Classification Board">
-      <value>14A</value>
-    </rating><rating system="Manitoba Film Classification Board">
-      <value>14A</value>
-    </rating><rating system="British Board of Film Classification">
-      <value>15</value>
-    </rating><rating system="Maritime Film Classification Board">
-      <value>14</value>
-    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
-      <value>16</value>
-    </rating><rating system="Arcom">
-      <value>-12</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>16</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating><rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K16</value>
-    </rating><rating system="Medietilsynet">
-      <value>15 år</value>
-    </rating><rating system="Kijkwijzer">
-      <value>12</value>
-    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>B15</value>
-    </rating><rating system="Ministero della Cultura">
-      <value>VM14</value>
-    </rating><rating system="映倫">
-      <value>PG12</value>
-    </rating><rating system="Medierådet">
-      <value>15</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>16</value>
-    </rating><rating system="영상물등급위원회">
-      <value>18+</value>
-    </rating><rating system="Instituto Nacional de Cine y Artes Audiovisuales">
-      <value>ATP</value>
-    </rating><rating system="UK Content Provider">
-      <value>15</value>
-    </rating><star-rating>
-      <value>5.0/10</value>
-    </star-rating>
-  </programme><programme channel="IFC-US" start="20260518040000 +0500" stop="20260518043000 +0500">
-    <title>Everybody Loves Raymond</title>
-    <sub-title>The Sitter</sub-title>
-    <desc>Debra grows jealous when the babysitter she hired becomes more popular with the children than she is.</desc>
-    <episode-num system="onscreen">S3 E3</episode-num>
-    <credits>
-      <director>Will Mackenzie</director>
-      <actor>Ray Romano</actor>
-      <actor>Patricia Heaton</actor>
-      <actor>Doris Roberts</actor>
-    </credits><date>1998</date>
-    <category lang="en">Series</category>
-    <category lang="en">Sitcom</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p7896309_b_h8_aa.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Australian Classification Board">
-      <value>PG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>L</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>0</value>
-    </rating>
-  </programme><programme channel="IFC-US" start="20260518043000 +0500" stop="20260518050000 +0500">
-    <title>Everybody Loves Raymond</title>
-    <sub-title>Getting Even</sub-title>
-    <desc>Ray fears the wrath of Debra after he embarrasses her in front of everyone at a school auction.</desc>
-    <episode-num system="onscreen">S3 E4</episode-num>
-    <credits>
-      <director>Steve Zuckerman</director>
-      <actor>Ray Romano</actor>
-      <actor>Patricia Heaton</actor>
-      <actor>Doris Roberts</actor>
-    </credits><date>1998</date>
-    <category lang="en">Series</category>
-    <category lang="en">Sitcom</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p7896309_b_h8_aa.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Australian Classification Board">
-      <value>PG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>L</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>0</value>
-    </rating>
-  </programme><programme channel="IFC-US" start="20260518050000 +0500" stop="20260518053000 +0500">
-    <title>Everybody Loves Raymond</title>
-    <sub-title>Halloween Candy</sub-title>
-    <desc>Frank mistakenly passes out Ray's colorfully wrapped "chocolate coins.".</desc>
-    <episode-num system="onscreen">S3 E6</episode-num>
-    <credits>
-      <director>Steve Zuckerman</director>
-      <actor>Ray Romano</actor>
-      <actor>Patricia Heaton</actor>
-      <actor>Doris Roberts</actor>
-    </credits><date>1998</date>
-    <category lang="en">Series</category>
-    <category lang="en">Holiday</category>
-    <category lang="en">Sitcom</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p7896309_b_h8_aa.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Australian Classification Board">
-      <value>PG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>L</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>0</value>
-    </rating>
-  </programme><programme channel="IFC-US" start="20260518053000 +0500" stop="20260518060000 +0500">
-    <title>Everybody Loves Raymond</title>
-    <sub-title>Moving Out</sub-title>
-    <desc>Robert moves into his own apartment, leaving a void in the rest of the Barone household.</desc>
-    <episode-num system="onscreen">S3 E7</episode-num>
-    <credits>
-      <director>Will Mackenzie</director>
-      <actor>Ray Romano</actor>
-      <actor>Patricia Heaton</actor>
-      <actor>Doris Roberts</actor>
-    </credits><date>1998</date>
-    <category lang="en">Series</category>
-    <category lang="en">Sitcom</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p7896309_b_h8_aa.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating><rating system="Australian Classification Board">
-      <value>PG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>G</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>L</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>0</value>
-    </rating>
-  </programme><programme channel="IFC-US" start="20260518060000 +0500" stop="20260518063000 +0500">
-    <title>Everybody Loves Raymond</title>
-    <sub-title>The Article</sub-title>
-    <desc>Ray receives a large blow to his ego when Andy sells an article to Sports Illustrated.</desc>
-    <episode-num system="onscreen">S3 E8</episode-num>
-    <credits>
-      <director>Will Mackenzie</director>
-      <actor>Ray Romano</actor>
-      <actor>Patricia Heaton</actor>
-      <actor>Doris Roberts</actor>
-    </credits><date>1998</date>
-    <category lang="en">Series</category>
-    <category lang="en">Sitcom</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p7896309_b_h8_aa.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Australian Classification Board">
-      <value>PG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>L</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>0</value>
-    </rating>
-  </programme><programme channel="IFC-US" start="20260518063000 +0500" stop="20260518070000 +0500">
-    <title>Everybody Loves Raymond</title>
-    <sub-title>The Lone Barone</sub-title>
-    <desc>Nobody likes Raymond after his negative comments about marriage lead to the breakup of Robert and Amy.</desc>
-    <episode-num system="onscreen">S3 E9</episode-num>
-    <credits>
-      <director>Will Mackenzie</director>
-      <actor>Ray Romano</actor>
-      <actor>Patricia Heaton</actor>
-      <actor>Doris Roberts</actor>
-    </credits><date>1998</date>
-    <category lang="en">Series</category>
-    <category lang="en">Sitcom</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p7896309_b_h8_aa.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Australian Classification Board">
-      <value>PG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>L</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>0</value>
-    </rating>
-  </programme><programme channel="IFC-US" start="20260518070000 +0500" stop="20260518073000 +0500">
-    <title>Everybody Loves Raymond</title>
-    <sub-title>No Fat</sub-title>
-    <desc>Ray and his family are crushed when Marie cooks up a tofu turkey for Thanksgiving dinner.</desc>
-    <episode-num system="onscreen">S3 E10</episode-num>
-    <credits>
-      <director>Steve Zuckerman</director>
-      <actor>Ray Romano</actor>
-      <actor>Patricia Heaton</actor>
-      <actor>Doris Roberts</actor>
-    </credits><date>1998</date>
-    <category lang="en">Series</category>
-    <category lang="en">Holiday</category>
-    <category lang="en">Sitcom</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p7896309_b_h8_aa.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Australian Classification Board">
-      <value>PG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>L</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>0</value>
-    </rating>
-  </programme><programme channel="IFC-US" start="20260518073000 +0500" stop="20260518080000 +0500">
-    <title>Everybody Loves Raymond</title>
-    <sub-title>The Apartment</sub-title>
-    <desc>Debra learns that beautiful neighbors are the real reason Ray is spending so much time at Robert's apartment.</desc>
-    <episode-num system="onscreen">S3 E11</episode-num>
-    <credits>
-      <director>Steve Zuckerman</director>
-      <actor>Ray Romano</actor>
-      <actor>Patricia Heaton</actor>
-      <actor>Doris Roberts</actor>
-    </credits><date>1998</date>
-    <category lang="en">Series</category>
-    <category lang="en">Sitcom</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p7896309_b_h8_aa.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating><rating system="Australian Classification Board">
-      <value>PG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>G</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>L</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>0</value>
-    </rating>
-  </programme><programme channel="IFC-US" start="20260518080000 +0500" stop="20260518083000 +0500">
-    <title>Everybody Loves Raymond</title>
-    <sub-title>The Toaster</sub-title>
-    <desc>Marie and Frank devastate Ray by trading in their gift, a personally engraved toaster, for a coffee maker.</desc>
-    <episode-num system="onscreen">S3 E12</episode-num>
-    <credits>
-      <director>Steve Zuckerman</director>
-      <actor>Ray Romano</actor>
-      <actor>Patricia Heaton</actor>
-      <actor>Doris Roberts</actor>
-    </credits><date>1998</date>
-    <category lang="en">Series</category>
-    <category lang="en">Holiday</category>
-    <category lang="en">Sitcom</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p7896309_b_h8_aa.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Australian Classification Board">
-      <value>PG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>L</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>0</value>
-    </rating>
-  </programme><programme channel="IFC-US" start="20260518083000 +0500" stop="20260518090000 +0500">
-    <title>Everybody Loves Raymond</title>
-    <sub-title>Ping Pong</sub-title>
-    <desc>Ray challenges his father to a game of table tennis after learning that the elder Barone purposely let him win.</desc>
-    <episode-num system="onscreen">S3 E13</episode-num>
-    <credits>
-      <director>Will Mackenzie</director>
-      <actor>Ray Romano</actor>
-      <actor>Patricia Heaton</actor>
-      <actor>Doris Roberts</actor>
-    </credits><date>1999</date>
-    <category lang="en">Series</category>
-    <category lang="en">Sitcom</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p7896309_b_h8_aa.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Australian Classification Board">
-      <value>PG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>L</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>0</value>
-    </rating>
   </programme>
 </tv>

@@ -1,9 +1,263 @@
 <?xml version='1.0' encoding='utf-8'?>
 <tv>
   <channel id="CTV-Drama-CA">
+    <icon src="https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/CTV-Drama-CA.png" />
+    <url>https://tv.thefilmtuition.com</url>
     <display-name>CTV Drama</display-name>
-    <icon src="https://thefilmtuition.com/tvlogo/CTV-Drama-CA.png" />
-  </channel><programme channel="CTV-Drama-CA" start="20260516060000 +0500" stop="20260516070000 +0500">
+  </channel><programme channel="CTV-Drama-CA" start="20260515220000 +0500" stop="20260515230000 +0500">
+    <title>Flashpoint</title>
+    <sub-title>Remote Control</sub-title>
+    <desc>The SRU is called in when a bank employee whose wife is being held captive hacks into the computer system to steal money to pay off her captors.</desc>
+    <episode-num system="onscreen">S2 E10</episode-num>
+    <credits>
+      <director>Charles Binamé</director>
+      <actor>Enrico Colantoni</actor>
+      <actor>Hugh Dillon</actor>
+      <actor>Amy Jo Johnson</actor>
+    </credits><date>2009</date>
+    <category lang="en">Series</category>
+    <category lang="en">Crime drama</category>
+    <category lang="en">Thriller</category>
+    <category lang="en">Action</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p186582_b_h8_ak.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>16</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+  </programme><programme channel="CTV-Drama-CA" start="20260515230000 +0500" stop="20260516000000 +0500">
+    <title>Forensic Factor</title>
+    <sub-title>Fremont Bomber</sub-title>
+    <desc>Explosive experts sifting through bomb evidence discover a more insidious plan.</desc>
+    <episode-num system="onscreen">S3 E1</episode-num>
+    <credits>
+      <director>Jonny Silver</director>
+      <actor>John Robinson</actor>
+    </credits><date>2005</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Crime</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p236520_b_h8_ae.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+  </programme><programme channel="CTV-Drama-CA" start="20260516000000 +0500" stop="20260516010000 +0500">
+    <title>Boston Blue</title>
+    <sub-title>Personal Foul</sub-title>
+    <desc>When a college basketball star is threatened, Danny and Lena race to protect them while solving a murder; deeply personal conflicts and moral dilemmas surface, forcing the team to confront difficult truths about loyalty, identity and justice.</desc>
+    <episode-num system="onscreen">S1 E18</episode-num>
+    <credits>
+      <director>Anton Cropper</director>
+      <actor>Donnie Wahlberg</actor>
+      <actor>Sonequa Martin-Green</actor>
+      <actor>Ernie Hudson</actor>
+    </credits><date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Crime drama</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p30698304_b_h8_aa.jpg?w=960&amp;h=540" />
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating><rating system="Kijkwijzer">
+      <value>12</value>
+    </rating>
+  </programme><programme channel="CTV-Drama-CA" start="20260516010000 +0500" stop="20260516020000 +0500">
+    <title>The Rookie</title>
+    <sub-title>Pilot</sub-title>
+    <desc>After a life-altering incident, John Nolan decides to pursue his dream of becoming a police officer; as the force's oldest rookie, John is met with skepticism from some higher-ups.</desc>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <credits>
+      <director>Liz Friedlander</director>
+      <actor>Nathan Fillion</actor>
+      <actor>Alyssa Diaz</actor>
+      <actor>Richard T. Jones</actor>
+    </credits><date>2018</date>
+    <category lang="en">Series</category>
+    <category lang="en">Crime drama</category>
+    <category lang="en">Action</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p15523389_b_h8_bc.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating><rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating><rating system="Arcom">
+      <value>-10</value>
+    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
+      <value>12</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating><rating system="Kijkwijzer">
+      <value>12</value>
+    </rating>
+  </programme><programme channel="CTV-Drama-CA" start="20260516020000 +0500" stop="20260516030000 +0500">
+    <title>The Rookie</title>
+    <sub-title>Crash Course</sub-title>
+    <desc>Talia forces Nolan to confront his personal moral instincts after he encounters a kidnapping victim; Lucy is temporarily placed with a new training officer who tests her patience; Jackson must confront his failures.</desc>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <credits>
+      <director>Adam Davidson</director>
+      <actor>Nathan Fillion</actor>
+      <actor>Alyssa Diaz</actor>
+      <actor>Richard T. Jones</actor>
+    </credits><date>2018</date>
+    <category lang="en">Series</category>
+    <category lang="en">Crime drama</category>
+    <category lang="en">Action</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p15523389_b_h8_bc.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating><rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
+      <value>12</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating><rating system="Kijkwijzer">
+      <value>12</value>
+    </rating>
+  </programme><programme channel="CTV-Drama-CA" start="20260516030000 +0500" stop="20260516040000 +0500">
+    <title>The Rookie</title>
+    <sub-title>The Good, the Bad and the Ugly</sub-title>
+    <desc>After Nolan and Talia lose control of a crime scene, they begin to debate whether people are fundamentally good or bad; Lucy worries Tim is enabling his wife's destructive behavior and not taking care of himself.</desc>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <credits>
+      <director>Greg Beeman</director>
+      <actor>Nathan Fillion</actor>
+      <actor>Alyssa Diaz</actor>
+      <actor>Richard T. Jones</actor>
+    </credits><date>2018</date>
+    <category lang="en">Series</category>
+    <category lang="en">Crime drama</category>
+    <category lang="en">Action</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p15523389_b_h8_bc.jpg?w=960&amp;h=540" />
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating><rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
+      <value>12</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating><rating system="Kijkwijzer">
+      <value>12</value>
+    </rating>
+  </programme><programme channel="CTV-Drama-CA" start="20260516040000 +0500" stop="20260516050000 +0500">
+    <title>The Rookie</title>
+    <sub-title>The Switch</sub-title>
+    <desc>The rookies are temporarily paired with new training officers; when Nolan and Lopez track down an escaped criminal, they discover a little kindness goes a long way; Jackson is forced to face his fears when he is partnered with officer Bradford.</desc>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <credits>
+      <director>Toa Fraser</director>
+      <actor>Nathan Fillion</actor>
+      <actor>Alyssa Diaz</actor>
+      <actor>Richard T. Jones</actor>
+    </credits><date>2018</date>
+    <category lang="en">Series</category>
+    <category lang="en">Crime drama</category>
+    <category lang="en">Action</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p15523389_b_h8_bc.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating><rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
+      <value>12</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating><rating system="Kijkwijzer">
+      <value>12</value>
+    </rating>
+  </programme><programme channel="CTV-Drama-CA" start="20260516050000 +0500" stop="20260516060000 +0500">
+    <title>Boston Blue</title>
+    <sub-title>Personal Foul</sub-title>
+    <desc>When a college basketball star is threatened, Danny and Lena race to protect them while solving a murder; deeply personal conflicts and moral dilemmas surface, forcing the team to confront difficult truths about loyalty, identity and justice.</desc>
+    <episode-num system="onscreen">S1 E18</episode-num>
+    <credits>
+      <director>Anton Cropper</director>
+      <actor>Donnie Wahlberg</actor>
+      <actor>Sonequa Martin-Green</actor>
+      <actor>Ernie Hudson</actor>
+    </credits><date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Crime drama</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p30698304_b_h8_aa.jpg?w=960&amp;h=540" />
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating><rating system="Kijkwijzer">
+      <value>12</value>
+    </rating>
+  </programme><programme channel="CTV-Drama-CA" start="20260516060000 +0500" stop="20260516070000 +0500">
     <title>Tracker</title>
     <sub-title>Reclamation</sub-title>
     <desc>Colter's search for a woman who went missing from a rehab facility takes an unexpected turn when he runs into Billie, uncovering a possible link between each of their cases.</desc>
@@ -18,7 +272,7 @@
     <category lang="en">Drama</category>
     <category lang="en">Crime drama</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p23665385_b_h8_ah.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p30698321_b_h8_ab.jpg?w=960&amp;h=540" />
     <rating system="Canadian Parental Rating">
       <value>14+</value>
     </rating><rating system="USA Parental Rating">
@@ -133,7 +387,7 @@
     <category lang="en">Drama</category>
     <category lang="en">Crime drama</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p23665385_b_h8_ah.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p30698321_b_h8_ab.jpg?w=960&amp;h=540" />
     <rating system="Canadian Parental Rating">
       <value>14+</value>
     </rating><rating system="USA Parental Rating">
@@ -884,7 +1138,7 @@
     <category lang="en">Drama</category>
     <category lang="en">Crime drama</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p23665385_b_h8_ah.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p30698321_b_h8_ab.jpg?w=960&amp;h=540" />
     <rating system="Canadian Parental Rating">
       <value>14+</value>
     </rating><rating system="USA Parental Rating">
@@ -1530,411 +1784,6 @@
     <episode-num system="onscreen">S1 E18</episode-num>
     <credits>
       <director>Karen Gaviola</director>
-      <actor>Jesse Spencer</actor>
-      <actor>Taylor Kinney</actor>
-      <actor>Charlie Barnett</actor>
-    </credits><date>2013</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Action</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p9257455_b_h8_bb.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K12</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating><rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>B</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating><rating system="Kijkwijzer">
-      <value>12</value>
-    </rating><rating system="Arcom">
-      <value>-10</value>
-    </rating><rating system="방송통신심의위원회">
-      <value>15</value>
-    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
-      <value>16</value>
-    </rating><rating system="Medietilsynet">
-      <value>15 år</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>14</value>
-    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
-      <value>12</value>
-    </rating>
-  </programme><programme channel="CTV-Drama-CA" start="20260518000000 +0500" stop="20260518010000 +0500">
-    <title>Chicago Fire</title>
-    <sub-title>A Coffin That Small</sub-title>
-    <desc>A failed rescue attempt deeply affects the men and women of firehouse 51; Dawson and Shay deal with a junkie's crazy behavior during a call; the team upsets local drug dealers.</desc>
-    <episode-num system="onscreen">S1 E19</episode-num>
-    <credits>
-      <director>Darnell Martin</director>
-      <actor>Jesse Spencer</actor>
-      <actor>Taylor Kinney</actor>
-      <actor>Charlie Barnett</actor>
-    </credits><date>2013</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Action</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p9257455_b_h8_bb.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K12</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating><rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>B</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating><rating system="Kijkwijzer">
-      <value>12</value>
-    </rating><rating system="Arcom">
-      <value>-10</value>
-    </rating><rating system="방송통신심의위원회">
-      <value>15</value>
-    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
-      <value>16</value>
-    </rating><rating system="Medietilsynet">
-      <value>15 år</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>14</value>
-    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
-      <value>12</value>
-    </rating>
-  </programme><programme channel="CTV-Drama-CA" start="20260518010000 +0500" stop="20260518020000 +0500">
-    <title>Chicago Fire</title>
-    <sub-title>Warm and Dead</sub-title>
-    <desc>A man dies in a fire set by a troubled teenager; Severide contacts his father; Otis fills in for some shifts at the slowest firehouse in the city; Shay and Dawson wind up in a bad situation.</desc>
-    <episode-num system="onscreen">S1 E13</episode-num>
-    <credits>
-      <director>Alik Sakharov</director>
-      <actor>Jesse Spencer</actor>
-      <actor>Taylor Kinney</actor>
-      <actor>Charlie Barnett</actor>
-    </credits><date>2013</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Action</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p9257455_b_h8_bb.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K12</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating><rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>B</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating><rating system="Kijkwijzer">
-      <value>12</value>
-    </rating><rating system="Arcom">
-      <value>-10</value>
-    </rating><rating system="방송통신심의위원회">
-      <value>15</value>
-    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
-      <value>16</value>
-    </rating><rating system="Medietilsynet">
-      <value>15 år</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>14</value>
-    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
-      <value>12</value>
-    </rating>
-  </programme><programme channel="CTV-Drama-CA" start="20260518020000 +0500" stop="20260518030000 +0500">
-    <title>Chicago Fire</title>
-    <sub-title>A Little Taste</sub-title>
-    <desc>Severide realizes he shares a similar past with the lieutenant who has been helping out at the firehouse; Dawson shares a secret with Shay; Casey faces family issues.</desc>
-    <episode-num system="onscreen">S1 E14</episode-num>
-    <credits>
-      <director>Arthur W. Forney</director>
-      <actor>Jesse Spencer</actor>
-      <actor>Taylor Kinney</actor>
-      <actor>Charlie Barnett</actor>
-    </credits><date>2013</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Action</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p9257455_b_h8_bb.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K12</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating><rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>B</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating><rating system="Kijkwijzer">
-      <value>12</value>
-    </rating><rating system="Arcom">
-      <value>-10</value>
-    </rating><rating system="방송통신심의위원회">
-      <value>15</value>
-    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
-      <value>16</value>
-    </rating><rating system="Medietilsynet">
-      <value>15 år</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>14</value>
-    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
-      <value>12</value>
-    </rating>
-  </programme><programme channel="CTV-Drama-CA" start="20260518030000 +0500" stop="20260518040000 +0500">
-    <title>Chicago Fire</title>
-    <sub-title>Nazdarovya!</sub-title>
-    <desc>Dawson turns to an unlikely source for assistance as she tries to help her brother; Severide does a favor for Lt. Whaley; Herrmann and Otis make tough discoveries about their silent partner.</desc>
-    <episode-num system="onscreen">S1 E15</episode-num>
-    <credits>
-      <director>Joe Chappelle</director>
-      <actor>Jesse Spencer</actor>
-      <actor>Taylor Kinney</actor>
-      <actor>Charlie Barnett</actor>
-    </credits><date>2013</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Action</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p9257455_b_h8_bb.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K12</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating><rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>B</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating><rating system="Kijkwijzer">
-      <value>12</value>
-    </rating><rating system="Arcom">
-      <value>-10</value>
-    </rating><rating system="방송통신심의위원회">
-      <value>15</value>
-    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
-      <value>16</value>
-    </rating><rating system="Medietilsynet">
-      <value>15 år</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>14</value>
-    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
-      <value>12</value>
-    </rating>
-  </programme><programme channel="CTV-Drama-CA" start="20260518040000 +0500" stop="20260518050000 +0500">
-    <title>Chicago Fire</title>
-    <sub-title>Viral</sub-title>
-    <desc>Cruz puts himself and his fellow firefighters in danger; Casey tries to resolve issues with his sister and mother; the team assists the bomb squad with a dangerous call.</desc>
-    <episode-num system="onscreen">S1 E16</episode-num>
-    <credits>
-      <director>Michael Brandt</director>
-      <actor>Jesse Spencer</actor>
-      <actor>Taylor Kinney</actor>
-      <actor>Charlie Barnett</actor>
-    </credits><date>2013</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Action</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p9257455_b_h8_bb.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K12</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating><rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>B</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating><rating system="Kijkwijzer">
-      <value>12</value>
-    </rating><rating system="Arcom">
-      <value>-10</value>
-    </rating><rating system="방송통신심의위원회">
-      <value>15</value>
-    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
-      <value>16</value>
-    </rating><rating system="Medietilsynet">
-      <value>15 år</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>14</value>
-    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
-      <value>12</value>
-    </rating>
-  </programme><programme channel="CTV-Drama-CA" start="20260518050000 +0500" stop="20260518060000 +0500">
-    <title>Chicago Fire</title>
-    <sub-title>Better to Lie</sub-title>
-    <desc>When Severide's father (Treat Williams) visits, he clashes with Chief Boden over a former colleague's death; Shay makes a decision about Clarice; the mystery about Herrmann, Otis and Dawson's bar is revealed.</desc>
-    <episode-num system="onscreen">S1 E17</episode-num>
-    <credits>
-      <director>Joe Chappelle</director>
-      <actor>Jesse Spencer</actor>
-      <actor>Taylor Kinney</actor>
-      <actor>Charlie Barnett</actor>
-    </credits><date>2013</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Action</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p9257455_b_h8_bb.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K12</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating><rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>B</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating><rating system="Kijkwijzer">
-      <value>12</value>
-    </rating><rating system="Arcom">
-      <value>-10</value>
-    </rating><rating system="방송통신심의위원회">
-      <value>15</value>
-    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
-      <value>16</value>
-    </rating><rating system="Medietilsynet">
-      <value>15 år</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>14</value>
-    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
-      <value>12</value>
-    </rating>
-  </programme><programme channel="CTV-Drama-CA" start="20260518060000 +0500" stop="20260518070000 +0500">
-    <title>Chicago Fire</title>
-    <sub-title>Fireworks</sub-title>
-    <desc>Mills questions Bennie about the fire that killed Mills' father; Casey, Severide and Bennie investigate two mysterious diner fires.</desc>
-    <episode-num system="onscreen">S1 E18</episode-num>
-    <credits>
-      <director>Karen Gaviola</director>
-      <actor>Jesse Spencer</actor>
-      <actor>Taylor Kinney</actor>
-      <actor>Charlie Barnett</actor>
-    </credits><date>2013</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Action</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p9257455_b_h8_bb.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K12</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating><rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>B</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating><rating system="Kijkwijzer">
-      <value>12</value>
-    </rating><rating system="Arcom">
-      <value>-10</value>
-    </rating><rating system="방송통신심의위원회">
-      <value>15</value>
-    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
-      <value>16</value>
-    </rating><rating system="Medietilsynet">
-      <value>15 år</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>14</value>
-    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
-      <value>12</value>
-    </rating>
-  </programme><programme channel="CTV-Drama-CA" start="20260518070000 +0500" stop="20260518080000 +0500">
-    <title>Chicago Fire</title>
-    <sub-title>A Coffin That Small</sub-title>
-    <desc>A failed rescue attempt deeply affects the men and women of firehouse 51; Dawson and Shay deal with a junkie's crazy behavior during a call; the team upsets local drug dealers.</desc>
-    <episode-num system="onscreen">S1 E19</episode-num>
-    <credits>
-      <director>Darnell Martin</director>
-      <actor>Jesse Spencer</actor>
-      <actor>Taylor Kinney</actor>
-      <actor>Charlie Barnett</actor>
-    </credits><date>2013</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Action</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p9257455_b_h8_bb.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K12</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating><rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>B</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating><rating system="Kijkwijzer">
-      <value>12</value>
-    </rating><rating system="Arcom">
-      <value>-10</value>
-    </rating><rating system="방송통신심의위원회">
-      <value>15</value>
-    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
-      <value>16</value>
-    </rating><rating system="Medietilsynet">
-      <value>15 år</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>14</value>
-    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
-      <value>12</value>
-    </rating>
-  </programme><programme channel="CTV-Drama-CA" start="20260518080000 +0500" stop="20260518090000 +0500">
-    <title>Chicago Fire</title>
-    <sub-title>Warm and Dead</sub-title>
-    <desc>A man dies in a fire set by a troubled teenager; Severide contacts his father; Otis fills in for some shifts at the slowest firehouse in the city; Shay and Dawson wind up in a bad situation.</desc>
-    <episode-num system="onscreen">S1 E13</episode-num>
-    <credits>
-      <director>Alik Sakharov</director>
       <actor>Jesse Spencer</actor>
       <actor>Taylor Kinney</actor>
       <actor>Charlie Barnett</actor>

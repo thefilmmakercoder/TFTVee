@@ -1,10 +1,22 @@
 <?xml version='1.0' encoding='utf-8'?>
 <tv>
   <channel id="TYT-US">
-    <icon src="https://thefilmtuition.com/tvlogo/TYT-US.png" />
-    <url>https://thefilmtuition.com/tv/</url>
+    <icon src="https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/TYT-US.png" />
+    <url>https://tv.thefilmtuition.com</url>
     <display-name>TYT</display-name>
-  </channel><programme channel="TYT-US" start="20260516220000 +0500" stop="20260516230000 +0500">
+  </channel><programme channel="TYT-US" start="20260516183000 +0500" stop="20260516200000 +0500">
+    <title>Dr. Rashad Richey: Indisputable</title>
+    <sub-title />
+    <desc>Dr. Richey delivers fact-based truth on top news stories on policy, social justice, politics and more</desc>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/ada705bace822479a26a690c97f9669e/rokuFeed/assets/cb2e60dc5f975013a2b056938d758eb1.jpeg" />
+  </programme><programme channel="TYT-US" start="20260516200000 +0500" stop="20260516220000 +0500">
+    <title>The Young Turks</title>
+    <sub-title />
+    <desc>TYT's juggernaut daily show breaking down each day's critical news stories.</desc>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/3284fca6ed757f8769c8daf2b0e68130/rokuFeed/assets/0a7594f390775a0c92c1c9bf78f4aa73.jpg" />
+  </programme><programme channel="TYT-US" start="20260516220000 +0500" stop="20260516230000 +0500">
     <title>The Damage Report</title>
     <sub-title />
     <desc>The globe is under attack and the enemy...is us. Watch a daily breakdown of the most pressing threats we face</desc>
@@ -154,137 +166,5 @@
     <desc>Dr. Richey delivers fact-based truth on top news stories on policy, social justice, politics and more</desc>
     <language>en</language>
     <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/f725dd7a95e7575368e92efb3abbd069/rokuFeed/assets/cb2e60dc5f975013a2b056938d758eb1.jpeg" />
-  </programme><programme channel="TYT-US" start="20260518010000 +0500" stop="20260518020000 +0500">
-    <title>The Damage Report</title>
-    <sub-title />
-    <desc>The globe is under attack and the enemy...is us. Watch a daily breakdown of the most pressing threats we face</desc>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/e5f39ef8115d871c709c765cd3d3d813/rokuFeed/assets/9a21d62479e457a783ead6db64f3f3a3.jpeg" />
-  </programme><programme channel="TYT-US" start="20260518020000 +0500" stop="20260518023000 +0500">
-    <title>The Conversation</title>
-    <sub-title />
-    <desc>Cenk Uygur interviews political and cultural thought leaders from around the US and the world.</desc>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/a72625f73b37a141eb9b61147dce33d7/rokuFeed/assets/d53703014f895406b204388de26256a1.jpeg" />
-  </programme><programme channel="TYT-US" start="20260518023000 +0500" stop="20260518030000 +0500">
-    <title>TYT Investigates</title>
-    <sub-title />
-    <desc>TYT Investigates delivers key government moments, from White House briefings to congressional hearings.</desc>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/67b90abb5a275d89f1f57e10a9121c02/rokuFeed/assets/fb39c6a22e255017b1c97eec0b3f2f6b.jpeg" />
-  </programme><programme channel="TYT-US" start="20260518030000 +0500" stop="20260518050000 +0500">
-    <title>The Young Turks</title>
-    <sub-title />
-    <desc>TYT's juggernaut daily show breaking down each day's critical news stories.</desc>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/f25792a9af6b5ebb0491f829c61ce1c7/rokuFeed/assets/0a7594f390775a0c92c1c9bf78f4aa73.jpg" />
-  </programme><programme channel="TYT-US" start="20260518050000 +0500" stop="20260518053000 +0500">
-    <title>Rebel HQ</title>
-    <sub-title />
-    <desc>Host David Shuster cuts through the chaos with sharp, engaging analysis of today’s top political stories.</desc>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/6d94c7ea9930a6335ab8ff3a5859886d/rokuFeed/assets/bc49f78a8ad7568195c86222de0c9af2.jpeg" />
-  </programme><programme channel="TYT-US" start="20260518053000 +0500" stop="20260518063000 +0500">
-    <title>The Damage Report</title>
-    <sub-title />
-    <desc>The globe is under attack and the enemy...is us. Watch a daily breakdown of the most pressing threats we face</desc>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/ad776572859160b5061271dc13e80db4/rokuFeed/assets/9a21d62479e457a783ead6db64f3f3a3.jpeg" />
-  </programme><programme channel="TYT-US" start="20260518063000 +0500" stop="20260518080000 +0500">
-    <title>Dr. Rashad Richey: Indisputable</title>
-    <sub-title />
-    <desc>Dr. Richey delivers fact-based truth on top news stories on policy, social justice, politics and more</desc>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/ada705bace822479a26a690c97f9669e/rokuFeed/assets/cb2e60dc5f975013a2b056938d758eb1.jpeg" />
-  </programme><programme channel="TYT-US" start="20260518080000 +0500" stop="20260518100000 +0500">
-    <title>The Young Turks</title>
-    <sub-title />
-    <desc>TYT's juggernaut daily show breaking down each day's critical news stories.</desc>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/6db397fb03fafa9101786d23de573223/rokuFeed/assets/0a7594f390775a0c92c1c9bf78f4aa73.jpg" />
-  </programme><programme channel="TYT-US" start="20260518100000 +0500" stop="20260518110000 +0500">
-    <title>The Damage Report</title>
-    <sub-title />
-    <desc>The globe is under attack and the enemy...is us. Watch a daily breakdown of the most pressing threats we face</desc>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/d14f7540e7916f516dc1f3cf8c9a130d/rokuFeed/assets/9a21d62479e457a783ead6db64f3f3a3.jpeg" />
-  </programme><programme channel="TYT-US" start="20260518110000 +0500" stop="20260518113000 +0500">
-    <title>TYT Sports</title>
-    <sub-title />
-    <desc>Join Rick Strom on TYT Sports for sharp takes on the day’s news at the crossroads of sports and politics.</desc>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/0703677e97f67b0294c4f9ce9f8893fc/rokuFeed/assets/c45219bc13fe5e11b30c8afb2a3ecd63.jpeg" />
-  </programme><programme channel="TYT-US" start="20260518113000 +0500" stop="20260518130000 +0500">
-    <title>Dr. Rashad Richey: Indisputable</title>
-    <sub-title />
-    <desc>Dr. Richey delivers fact-based truth on top news stories on policy, social justice, politics and more</desc>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/f725dd7a95e7575368e92efb3abbd069/rokuFeed/assets/cb2e60dc5f975013a2b056938d758eb1.jpeg" />
-  </programme><programme channel="TYT-US" start="20260518130000 +0500" stop="20260518140000 +0500">
-    <title>The Damage Report</title>
-    <sub-title />
-    <desc>The globe is under attack and the enemy...is us. Watch a daily breakdown of the most pressing threats we face</desc>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/e5f39ef8115d871c709c765cd3d3d813/rokuFeed/assets/9a21d62479e457a783ead6db64f3f3a3.jpeg" />
-  </programme><programme channel="TYT-US" start="20260518140000 +0500" stop="20260518143000 +0500">
-    <title>The Conversation</title>
-    <sub-title />
-    <desc>Cenk Uygur interviews political and cultural thought leaders from around the US and the world.</desc>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/a72625f73b37a141eb9b61147dce33d7/rokuFeed/assets/d53703014f895406b204388de26256a1.jpeg" />
-  </programme><programme channel="TYT-US" start="20260518143000 +0500" stop="20260518150000 +0500">
-    <title>Indisputable: The Bullpen</title>
-    <sub-title />
-    <desc>The Bullpen with Dr. Richey delivers sharp debates with right-wing voices and deep interviews with leaders.</desc>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/15139a87da3f69b748cdb58960861f54/rokuFeed/assets/2f4dd20da5e4551a9019705d1b67dd4a.jpeg" />
-  </programme><programme channel="TYT-US" start="20260518150000 +0500" stop="20260518170000 +0500">
-    <title>The Young Turks</title>
-    <sub-title />
-    <desc>TYT's juggernaut daily show breaking down each day's critical news stories.</desc>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/f25792a9af6b5ebb0491f829c61ce1c7/rokuFeed/assets/0a7594f390775a0c92c1c9bf78f4aa73.jpg" />
-  </programme><programme channel="TYT-US" start="20260518170000 +0500" stop="20260518173000 +0500">
-    <title>Rebel HQ</title>
-    <sub-title />
-    <desc>Host David Shuster cuts through the chaos with sharp, engaging analysis of today’s top political stories.</desc>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/6d94c7ea9930a6335ab8ff3a5859886d/rokuFeed/assets/bc49f78a8ad7568195c86222de0c9af2.jpeg" />
-  </programme><programme channel="TYT-US" start="20260518173000 +0500" stop="20260518183000 +0500">
-    <title>The Damage Report</title>
-    <sub-title />
-    <desc>The globe is under attack and the enemy...is us. Watch a daily breakdown of the most pressing threats we face</desc>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/ad776572859160b5061271dc13e80db4/rokuFeed/assets/9a21d62479e457a783ead6db64f3f3a3.jpeg" />
-  </programme><programme channel="TYT-US" start="20260518183000 +0500" stop="20260518200000 +0500">
-    <title>Dr. Rashad Richey: Indisputable</title>
-    <sub-title />
-    <desc>Dr. Richey delivers fact-based truth on top news stories on policy, social justice, politics and more</desc>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/ada705bace822479a26a690c97f9669e/rokuFeed/assets/cb2e60dc5f975013a2b056938d758eb1.jpeg" />
-  </programme><programme channel="TYT-US" start="20260518200000 +0500" stop="20260518220000 +0500">
-    <title>The Young Turks</title>
-    <sub-title />
-    <desc>TYT's juggernaut daily show breaking down each day's critical news stories.</desc>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/6db397fb03fafa9101786d23de573223/rokuFeed/assets/0a7594f390775a0c92c1c9bf78f4aa73.jpg" />
-  </programme><programme channel="TYT-US" start="20260518220000 +0500" stop="20260518230000 +0500">
-    <title>The Damage Report</title>
-    <sub-title />
-    <desc>The globe is under attack and the enemy...is us. Watch a daily breakdown of the most pressing threats we face.</desc>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/0119650bf51b505776a040036309b95d/rokuFeed/assets/9a21d62479e457a783ead6db64f3f3a3.jpeg" />
-  </programme><programme channel="TYT-US" start="20260518230000 +0500" stop="20260518233000 +0500">
-    <title>TYT Investigates</title>
-    <sub-title />
-    <desc>TYT Investigates delivers key government moments, from White House briefings to congressional hearings.</desc>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/0ffe3e8910c6dd9046f16c28e4f4b6b2/rokuFeed/assets/fb39c6a22e255017b1c97eec0b3f2f6b.jpeg" />
-  </programme><programme channel="TYT-US" start="20260518233000 +0500" stop="20260519010000 +0500">
-    <title>Indisputable: The Bullpen</title>
-    <sub-title />
-    <desc>The Bullpen with Dr. Richey delivers sharp debates with right-wing voices and deep interviews with leaders.</desc>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/17906cb4803dfce63e9df2f9db3ffbe7/rokuFeed/assets/2f4dd20da5e4551a9019705d1b67dd4a.jpeg" />
   </programme>
 </tv>

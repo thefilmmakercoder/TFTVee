@@ -4,30 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-16T23:00:00+05:00",
-      "stop": "2026-05-17T00:00:00+05:00",
-      "title": "Newshour",
-      "desc": "Latest news and in-depth analysis from around the world.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "World Affairs"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/f05f0086-6a44-442e-a79b-e4f9ce78ab1b/16-9"
-    },
-    {
-      "start": "2026-05-17T00:00:00+05:00",
-      "stop": "2026-05-17T00:30:00+05:00",
-      "title": "News Live",
-      "desc": "Up-to-date news and analysis from around the world.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "World Affairs"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/832ec50c-4a76-407a-aff0-332ee4b09a2f/16-9"
-    },
-    {
       "start": "2026-05-17T00:30:00+05:00",
       "stop": "2026-05-17T01:00:00+05:00",
       "title": "The Listening Post",
@@ -76,6 +52,30 @@
         "World Affairs"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/f05f0086-6a44-442e-a79b-e4f9ce78ab1b/16-9"
+    },
+    {
+      "start": "2026-05-17T03:00:00+05:00",
+      "stop": "2026-05-17T04:00:00+05:00",
+      "title": "Newshour",
+      "desc": "Latest news and in-depth analysis from around the world.",
+      "language": "en",
+      "categories": [
+        "News & Documentary",
+        "World Affairs"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/f05f0086-6a44-442e-a79b-e4f9ce78ab1b/16-9"
+    },
+    {
+      "start": "2026-05-17T04:00:00+05:00",
+      "stop": "2026-05-17T04:30:00+05:00",
+      "title": "News Live",
+      "desc": "Up-to-date news and analysis from around the world.",
+      "language": "en",
+      "categories": [
+        "News & Documentary",
+        "World Affairs"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/832ec50c-4a76-407a-aff0-332ee4b09a2f/16-9"
     }
   ]
 }

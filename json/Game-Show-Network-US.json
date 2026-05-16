@@ -4,47 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-16T23:30:00+05:00",
-      "stop": "2026-05-17T00:00:00+05:00",
-      "title": "Bingo Blitz",
-      "sub_title": "Fun Story",
-      "desc": "Contestants compete in a dynamic blend of trivia and bingo.",
-      "date": "2025",
-      "language": "en",
-      "categories": [
-        "Series",
-        "Game show"
-      ],
-      "episode": "S1 E22",
-      "icon": "http://dtil.tmsimg.com/assets/p29797522_b_h8_aa.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Valerie Bertinelli"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-17T00:00:00+05:00",
-      "stop": "2026-05-17T00:30:00+05:00",
-      "title": "America Says",
-      "sub_title": "Working Moms vs. Friendsgiving",
-      "desc": "John Michael Higgins hosts as two teams of friends race against a clock to guess how America filled in the blanks on a series of survey questions covering every topic under the sun.",
-      "date": "2019",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Series",
-        "Game show"
-      ],
-      "episode": "S2 E49",
-      "icon": "http://dtil.tmsimg.com/assets/p15529148_b_h8_ab.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "John Michael Higgins"
-        ]
-      }
-    },
-    {
       "start": "2026-05-17T00:30:00+05:00",
       "stop": "2026-05-17T01:00:00+05:00",
       "title": "America Says",
@@ -120,6 +79,45 @@
       ],
       "episode": "S1 E59",
       "icon": "http://dtil.tmsimg.com/assets/p30947082_b_h10_aa.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-17T02:30:00+05:00",
+      "stop": "2026-05-17T03:00:00+05:00",
+      "title": "Family Feud Favorites",
+      "desc": "\"Family Feud\" has seen some crazy moments over the years, so buckle up as we revisit these fan favorites.",
+      "date": "2025",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Comedy",
+        "Game show"
+      ],
+      "episode": "S1 E59",
+      "icon": "http://dtil.tmsimg.com/assets/p30947082_b_h10_aa.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-17T03:00:00+05:00",
+      "stop": "2026-05-17T04:00:00+05:00",
+      "title": "Celebrity Wheel of Fortune",
+      "sub_title": "Marcia Cross, Karl-Anthony Towns and Anthony Anderson",
+      "desc": "Celebrity contestants Marcia Cross, Karl-Anthony Towns and Anthony Anderson.",
+      "date": "2022",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Game show"
+      ],
+      "episode": "S2 E11",
+      "icon": "http://dtil.tmsimg.com/assets/p19081569_b_h8_as.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Pat Sajak",
+          "Vanna White",
+          "Marcia Cross"
+        ]
+      }
     }
   ]
 }

@@ -1,9 +1,145 @@
 <?xml version='1.0' encoding='utf-8'?>
 <tv>
   <channel id="AMC-East-US">
+    <icon src="https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/AMC-East-US.png" />
+    <url>https://tv.thefilmtuition.com</url>
     <display-name>AMC East</display-name>
-    <icon src="https://thefilmtuition.com/tvlogo/AMC-East-US.png" />
-  </channel><programme channel="AMC-East-US" start="20260516010000 +0500" stop="20260516043000 +0500">
+  </channel><programme channel="AMC-East-US" start="20260515183000 +0500" stop="20260515190000 +0500">
+    <title>The Three Stooges</title>
+    <sub-title>Horses' Collars</sub-title>
+    <desc>Out West, the boys help an innocent maiden recover her inheritance.</desc>
+    <episode-num system="onscreen">E1</episode-num>
+    <credits>
+      <director>Clyde Bruckman</director>
+      <actor>Moe Howard</actor>
+      <actor>Larry Fine</actor>
+      <actor>Curly Howard</actor>
+    </credits><date>1935</date>
+    <category lang="en">Series</category>
+    <category lang="en">Comedy</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p184232_b_h10_aa.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="AMC-East-US" start="20260515190000 +0500" stop="20260515220000 +0500">
+    <title>U.S. Marshals</title>
+    <sub-title />
+    <desc>An airplane bearing gruff U.S. Marshal Sam Gerard (Tommy Lee Jones) crashes in the wilderness. On board the same flight is Mark Sheridan (Wesley Snipes), a federal prisoner accused of double murder, who escapes during the ensuing chaos, but not before rescuing several people from the wreckage. Gerard is ordered to hunt down the fugitive along with State Department agent John Royce (Robert Downey Jr.), and the two pursue Sheridan relentlessly, despite growing doubts about his guilt.</desc>
+    <credits>
+      <director>Stuart Baird</director>
+      <actor>Tommy Lee Jones</actor>
+      <actor>Wesley Snipes</actor>
+      <actor>Robert Downey</actor>
+    </credits><date>1998</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Action</category>
+    <category lang="en">Thriller</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p20797_v_h10_aa.jpg?w=960&amp;h=540" />
+    <rating system="Motion Picture Association">
+      <value>PG-13</value>
+    </rating><rating system="Alberta's Film Classification Board">
+      <value>14A</value>
+    </rating><rating system="Ontario Film Authority">
+      <value>14A</value>
+    </rating><rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating><rating system="British Board of Film Classification">
+      <value>15</value>
+    </rating><rating system="UK Content Provider">
+      <value>15</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K16</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating><rating system="Instituto Nacional de Cine y Artes Audiovisuales">
+      <value>SAM 13</value>
+    </rating><rating system="Film &amp; Publication Board">
+      <value>13</value>
+    </rating><rating system="Statens medieråd">
+      <value>Från 15 år</value>
+    </rating><rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B</value>
+    </rating><rating system="Medietilsynet">
+      <value>15 år</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating><rating system="Ministero della Cultura">
+      <value>T</value>
+    </rating><rating system="Kijkwijzer">
+      <value>16</value>
+    </rating><rating system="영상물등급위원회">
+      <value>15+</value>
+    </rating><star-rating>
+      <value>4.0/10</value>
+    </star-rating>
+  </programme><programme channel="AMC-East-US" start="20260515220000 +0500" stop="20260516010000 +0500">
+    <title>Enemy of the State</title>
+    <sub-title />
+    <desc>Corrupt National Security Agency official Thomas Reynolds (Jon Voight) has a congressman assassinated to assure the passage of expansive new surveillance legislation. When a videotape of the murder ends up in the hands of Robert Clayton Dean (Will Smith), a labor lawyer and dedicated family man, he is framed for murder. With the help of ex-intelligence agent Edward "Brill" Lyle (Gene Hackman), Dean attempts to throw Reynolds off his trail and prove his innocence.</desc>
+    <credits>
+      <director>Tony Scott</director>
+      <actor>Will Smith</actor>
+      <actor>Gene Hackman</actor>
+      <actor>Jon Voight</actor>
+    </credits><date>1998</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Thriller</category>
+    <category lang="en">Action</category>
+    <category lang="en">Adventure</category>
+    <category lang="en">Mystery</category>
+    <category lang="en">Crime drama</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p22072_v_h8_aq.jpg?w=960&amp;h=540" />
+    <rating system="Motion Picture Association">
+      <value>R</value>
+    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B</value>
+    </rating><rating system="British Board of Film Classification">
+      <value>15</value>
+    </rating><rating system="UK Content Provider">
+      <value>15</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating><rating system="Medietilsynet">
+      <value>15 år</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating><rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K12</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="Ontario Film Authority">
+      <value>AA</value>
+    </rating><rating system="Instituto Nacional de Cine y Artes Audiovisuales">
+      <value>SAM 13</value>
+    </rating><rating system="Statens medieråd">
+      <value>Från 11 år</value>
+    </rating><rating system="Medierådet">
+      <value>15</value>
+    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
+      <value>12</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating><rating system="Kijkwijzer">
+      <value>12</value>
+    </rating><rating system="영상물등급위원회">
+      <value>15+</value>
+    </rating><rating system="Arcom">
+      <value>-10</value>
+    </rating><star-rating>
+      <value>6.0/10</value>
+    </star-rating>
+  </programme><programme channel="AMC-East-US" start="20260516010000 +0500" stop="20260516043000 +0500">
     <title>The Hunger Games: The Ballad of Songbirds &amp; Snakes</title>
     <sub-title />
     <desc>Years before he becomes the tyrannical president of Panem, 18-year-old Coriolanus Snow remains the last hope for his fading lineage. With the 10th annual Hunger Games fast approaching, the young Snow becomes alarmed when he's assigned to mentor Lucy Gray Baird. Uniting their instincts for showmanship and political savvy, they race against time to ultimately reveal who's a songbird and who's a snake.</desc>
@@ -1044,214 +1180,6 @@
       <value>A</value>
     </rating><star-rating>
       <value>8.0/10</value>
-    </star-rating>
-  </programme><programme channel="AMC-East-US" start="20260518000000 +0500" stop="20260518030000 +0500">
-    <title>Star Wars: The Empire Strikes Back</title>
-    <sub-title />
-    <desc>The adventure continues in this "Star Wars" sequel. Luke Skywalker (Mark Hamill), Han Solo (Harrison Ford), Princess Leia (Carrie Fisher) and Chewbacca (Peter Mayhew) face attack by the Imperial forces and its AT-AT walkers on the ice planet Hoth. While Han and Leia escape in the Millennium Falcon, Luke travels to Dagobah in search of Yoda. Only with the Jedi master's help will Luke survive when the dark side of the Force beckons him into the ultimate duel with Darth Vader (David Prowse).</desc>
-    <credits>
-      <director>Irvin Kershner</director>
-      <actor>Mark Hamill</actor>
-      <actor>Harrison Ford</actor>
-      <actor>Carrie Fisher</actor>
-    </credits><date>1980</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Science fiction</category>
-    <category lang="en">Adventure</category>
-    <category lang="en">Action</category>
-    <category lang="en">Fantasy</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p8884_v_h8_ao.jpg?w=960&amp;h=540" />
-    <rating system="Motion Picture Association">
-      <value>PG</value>
-    </rating><rating system="Australian Classification Board">
-      <value>PG</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K12</value>
-    </rating><rating system="Ministero della Cultura">
-      <value>T</value>
-    </rating><rating system="Ontario Film Authority">
-      <value>PG</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="Statens medieråd">
-      <value>Från 11 år</value>
-    </rating><rating system="Instituto Nacional de Cine y Artes Audiovisuales">
-      <value>ATP</value>
-    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>A</value>
-    </rating><rating system="Alberta's Film Classification Board">
-      <value>PG</value>
-    </rating><rating system="映倫">
-      <value>G</value>
-    </rating><rating system="British Board of Film Classification">
-      <value>PG</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
-    </rating><rating system="영상물등급위원회">
-      <value>All</value>
-    </rating><rating system="Kijkwijzer">
-      <value>12</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>12</value>
-    </rating><rating system="Central Board of Film Certification">
-      <value>U</value>
-    </rating><rating system="UK Content Provider">
-      <value>PG</value>
-    </rating><star-rating>
-      <value>8.0/10</value>
-    </star-rating>
-  </programme><programme channel="AMC-East-US" start="20260518030000 +0500" stop="20260518060000 +0500">
-    <title>Star Wars: Return of the Jedi</title>
-    <sub-title />
-    <desc>Luke Skywalker (Mark Hamill) battles horrible Jabba the Hutt and cruel Darth Vader to save his comrades in the Rebel Alliance and triumph over the Galactic Empire. Han Solo (Harrison Ford) and Princess Leia (Carrie Fisher) reaffirm their love and team with Chewbacca, Lando Calrissian (Billy Dee Williams), the Ewoks and the androids C-3PO and R2-D2 to aid in the disruption of the Dark Side and the defeat of the evil emperor.</desc>
-    <credits>
-      <director>Richard Marquand</director>
-      <actor>Mark Hamill</actor>
-      <actor>Harrison Ford</actor>
-      <actor>Carrie Fisher</actor>
-    </credits><date>1983</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Science fiction</category>
-    <category lang="en">Adventure</category>
-    <category lang="en">Action</category>
-    <category lang="en">Fantasy</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p8890_v_h8_ah.jpg?w=960&amp;h=540" />
-    <rating system="Motion Picture Association">
-      <value>PG</value>
-    </rating><rating system="British Board of Film Classification">
-      <value>U</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating><rating system="UK Content Provider">
-      <value>U</value>
-    </rating><rating system="Australian Classification Board">
-      <value>PG</value>
-    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K12</value>
-    </rating><rating system="Ministero della Cultura">
-      <value>T</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="Ontario Film Authority">
-      <value>PG</value>
-    </rating><rating system="Statens medieråd">
-      <value>Från 11 år</value>
-    </rating><rating system="Instituto Nacional de Cine y Artes Audiovisuales">
-      <value>ATP</value>
-    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>A</value>
-    </rating><rating system="Alberta's Film Classification Board">
-      <value>PG</value>
-    </rating><rating system="영상물등급위원회">
-      <value>All</value>
-    </rating><rating system="Kijkwijzer">
-      <value>12</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>12</value>
-    </rating><star-rating>
-      <value>7.0/10</value>
-    </star-rating>
-  </programme><programme channel="AMC-East-US" start="20260518060000 +0500" stop="20260518072200 +0500">
-    <title>The Audacity</title>
-    <sub-title>Sandbox</sub-title>
-    <desc>JoAnne trusts Sheldon to do her dirty work. Ruffery is shattered; Duncan can't escape Hamish's legacy of flashy machinations; Tess discovers Orson's dark secret; Chekhov's gun might go off; Lili hits upon the greatest metaphor ever.</desc>
-    <episode-num system="onscreen">S1 E6</episode-num>
-    <credits>
-      <director>Daniel Gray Longino</director>
-      <actor>Billy Magnussen</actor>
-      <actor>Sarah Goldberg</actor>
-      <actor>Zach Galifianakis</actor>
-    </credits><date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Comedy drama</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p32164004_b_h8_ac.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-  </programme><programme channel="AMC-East-US" start="20260518072200 +0500" stop="20260518084400 +0500">
-    <title>The Audacity</title>
-    <sub-title>Sandbox</sub-title>
-    <desc>JoAnne trusts Sheldon to do her dirty work. Ruffery is shattered; Duncan can't escape Hamish's legacy of flashy machinations; Tess discovers Orson's dark secret; Chekhov's gun might go off; Lili hits upon the greatest metaphor ever.</desc>
-    <episode-num system="onscreen">S1 E6</episode-num>
-    <credits>
-      <director>Daniel Gray Longino</director>
-      <actor>Billy Magnussen</actor>
-      <actor>Sarah Goldberg</actor>
-      <actor>Zach Galifianakis</actor>
-    </credits><date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Comedy drama</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p32164004_b_h8_ac.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-  </programme><programme channel="AMC-East-US" start="20260518084400 +0500" stop="20260518114400 +0500">
-    <title>The Fifth Element</title>
-    <sub-title />
-    <desc>The Earth is about to be destroyed by a huge ball of fire racing toward the planet. Cornelius, an old monk, knows how to stop the burning sphere with the help of Korben Dallas, a taxi driver and former secret agent and a woman named Leeloo.</desc>
-    <credits>
-      <director>Luc Besson</director>
-      <actor>Bruce Willis</actor>
-      <actor>Gary Oldman</actor>
-      <actor>Ian Holm</actor>
-    </credits><date>1997</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Science fiction</category>
-    <category lang="en">Adventure</category>
-    <category lang="en">Action</category>
-    <category lang="en">Fantasy</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p19352_v_h8_ah.jpg?w=960&amp;h=540" />
-    <rating system="Motion Picture Association">
-      <value>PG-13</value>
-    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>B</value>
-    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K12</value>
-    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
-      <value>7</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>14</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating><rating system="Australian Classification Board">
-      <value>PG</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="Ministero della Cultura">
-      <value>T</value>
-    </rating><rating system="Ontario Film Authority">
-      <value>AA</value>
-    </rating><rating system="Statens medieråd">
-      <value>Från 11 år</value>
-    </rating><rating system="Medierådet">
-      <value>11</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
-    </rating><rating system="British Board of Film Classification">
-      <value>12</value>
-    </rating><rating system="UK Content Provider">
-      <value>12</value>
-    </rating><rating system="영상물등급위원회">
-      <value>15+</value>
-    </rating><rating system="Kijkwijzer">
-      <value>6</value>
-    </rating><rating system="Alberta's Film Classification Board">
-      <value>PG</value>
-    </rating><star-rating>
-      <value>6.0/10</value>
     </star-rating>
   </programme>
 </tv>

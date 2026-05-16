@@ -4,18 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-16T23:40:00+05:00",
-      "stop": "2026-05-16T23:45:00+05:00",
-      "title": "FYI Daily",
-      "desc": "Latest news from the world of entertainment.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "Showbiz"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/44a71226-e15a-4e68-9cfb-b9524e27f5ab/16-9"
-    },
-    {
       "start": "2026-05-16T23:45:00+05:00",
       "stop": "2026-05-17T01:00:00+05:00",
       "title": "Tomb Raider",
@@ -75,6 +63,19 @@
         "Comedy"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/06c72cca-b1fa-46b8-9e59-c3122dae44f4/16-9"
+    },
+    {
+      "start": "2026-05-17T03:40:00+05:00",
+      "stop": "2026-05-17T04:10:00+05:00",
+      "title": "Family Guy",
+      "sub_title": "Death is a B****",
+      "desc": "Animated comedy about the everyday trials and tribulations of family life. When Lois finds a lump in Peter's breast, he goes to hospital.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Comedy"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/cabd62f1-c2c2-4eed-b769-5cbbe57bbe9d/16-9"
     }
   ]
 }

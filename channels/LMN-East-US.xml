@@ -1,9 +1,95 @@
 <?xml version='1.0' encoding='utf-8'?>
 <tv>
   <channel id="LMN-East-US">
+    <icon src="https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/LMN-East-US.png" />
+    <url>https://tv.thefilmtuition.com</url>
     <display-name>LMN East</display-name>
-    <icon src="https://thefilmtuition.com/tvlogo/LMN-East-US.png" />
-  </channel><programme channel="LMN-East-US" start="20260516030000 +0500" stop="20260516050000 +0500">
+  </channel><programme channel="LMN-East-US" start="20260515190000 +0500" stop="20260515210000 +0500">
+    <title>Bad Tutor</title>
+    <sub-title />
+    <desc>Single mom Karen is focused on getting daughter Emily graduated and off to college. When she hires Devin to boost Emily's grades, the tutor becomes dangerously obsessed.</desc>
+    <credits>
+      <director>Jeff Hare</director>
+      <actor>Vanessa Marcil</actor>
+      <actor>Alex Frnka</actor>
+      <actor>Charles Hittinger</actor>
+    </credits><date>2018</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Thriller</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p15160594_v_h10_af.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
+      <value>12</value>
+    </rating><rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating>
+  </programme><programme channel="LMN-East-US" start="20260515210000 +0500" stop="20260515230000 +0500">
+    <title>A Professor's Vengeance</title>
+    <sub-title />
+    <desc>When Nicole Atkins returns to graduate school, a previous affair with a married professor is the last thing on her mind. However, someone else on campus has his eye on Nicole, someone who knows all her secrets.</desc>
+    <credits>
+      <director>Danny J. Boyle</director>
+      <actor>Bryan Bachman</actor>
+      <actor>Kate Dailey</actor>
+      <actor>Crystal Day</actor>
+    </credits><date>2021</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Thriller</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p20504695_v_h8_aa.jpg?w=960&amp;h=540" />
+    <rating system="Arcom">
+      <value>-10</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating>
+  </programme><programme channel="LMN-East-US" start="20260515230000 +0500" stop="20260516010000 +0500">
+    <title>Lethal Love Triangle</title>
+    <sub-title />
+    <desc>Criminology class students Julia and Erin meet Cole, a man who claims he is falsely imprisoned for a crime he did not commit. The girls' professor warns them of Cole's infamously manipulative tactics to gain researchers' trust to prove his innocence.</desc>
+    <credits>
+      <director>David Benullo</director>
+      <actor>Savvy Shay</actor>
+      <actor>Taylor Jabara</actor>
+      <actor>Jacob Taylor</actor>
+    </credits><date>2021</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Thriller</category>
+    <category lang="en">Drama</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p20428699_v_h8_aa.jpg?w=960&amp;h=540" />
+    <rating system="Arcom">
+      <value>-10</value>
+    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K12</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating><rating system="Medietilsynet">
+      <value>15 år</value>
+    </rating><rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+  </programme><programme channel="LMN-East-US" start="20260516010000 +0500" stop="20260516030000 +0500">
+    <title>Twisted Little Lies</title>
+    <sub-title />
+    <desc>Upon discovering her boyfriend's infidelity, Brianna turns to the internet, where she meets an intriguing man named William. When she learns his true identity, she rejects him, but he refuses to let her go.</desc>
+    <credits>
+      <director>Ali Zamani</director>
+      <actor>Jessica Morris</actor>
+      <actor>Conlan Kisilewicz</actor>
+      <actor>Ulyses Espinoza</actor>
+    </credits><date>2021</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Drama</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p21045601_v_h8_aj.jpg?w=960&amp;h=540" />
+    <rating system="Arcom">
+      <value>-10</value>
+    </rating><rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating>
+  </programme><programme channel="LMN-East-US" start="20260516030000 +0500" stop="20260516050000 +0500">
     <title>My Professor's Deadly Secret</title>
     <sub-title />
     <desc>With help from her daughter's tutor, a woman uncovers a shocking family betrayal while investigating the death of her sister.</desc>
@@ -483,78 +569,6 @@
       <value>A14</value>
     </rating><rating system="영상물등급위원회">
       <value>12+</value>
-    </rating>
-  </programme><programme channel="LMN-East-US" start="20260518010000 +0500" stop="20260518030000 +0500">
-    <title>My Husband's Worst Mistake</title>
-    <sub-title />
-    <desc>Brad Collins' love for his wife, Amy, becomes an all-encompassing obsession, and he grows more and more controlling of her with each passing year. When Brad finds out that Amy had an affair with a colleague, a huge fight ensues and tragedy results.</desc>
-    <credits>
-      <director>Roxanne Boisvert</director>
-      <actor>Matt Wells</actor>
-      <actor>Sarah Cleveland</actor>
-      <actor>Scott Gibson</actor>
-    </credits><date>2023</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Thriller</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p24741070_v_h8_aa.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
-  </programme><programme channel="LMN-East-US" start="20260518030000 +0500" stop="20260518050000 +0500">
-    <title>Secret Life of the Surgeon's Wife</title>
-    <sub-title />
-    <desc>A woman tries to prove her husband is having an affair so she can initiate a divorce. She soon finds herself romantically involved with the other woman's husband, unaware that her own husband and his mistress are plotting to kill them.</desc>
-    <credits>
-      <actor>Gina Vitori</actor>
-      <actor>Justin Berti</actor>
-    </credits><date>2025</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Thriller</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p30018541_v_h8_aa.jpg?w=960&amp;h=540" />
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A14</value>
-    </rating><rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating>
-  </programme><programme channel="LMN-East-US" start="20260518050000 +0500" stop="20260518070000 +0500">
-    <title>Eat, Pray, Lie</title>
-    <sub-title />
-    <desc>When an altercation between her cheating husband, Will, and another man has deadly consequences, Sophia must figure out if Will is her knight in shining armor or an obsessed soon-to-be ex.</desc>
-    <credits>
-      <director>Crystal Lowe</director>
-      <actor>Chelsea Rose Cook</actor>
-      <actor>Jake Foy</actor>
-      <actor>Zane Haney</actor>
-    </credits><date>2025</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Thriller</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p30784991_v_h8_aa.jpg?w=960&amp;h=540" />
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A14</value>
-    </rating>
-  </programme><programme channel="LMN-East-US" start="20260518070000 +0500" stop="20260518090100 +0500">
-    <title>My Wife's Hidden Lover</title>
-    <sub-title />
-    <desc>An unhappily married woman convinces her lover to move into her attic. However, when she finds him dead, she starts to suspect her husband knew about the affair.</desc>
-    <credits>
-      <director>Damián Romay</director>
-      <actor>Abigail Hawk</actor>
-      <actor>Donny Boaz</actor>
-      <actor>Marc Herrmann</actor>
-    </credits><date>2023</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Thriller</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p26066141_v_h8_aa.jpg?w=960&amp;h=540" />
-    <rating system="Arcom">
-      <value>-10</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>7</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A14</value>
     </rating>
   </programme>
 </tv>

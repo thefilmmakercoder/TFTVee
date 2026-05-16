@@ -4,32 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-16T20:05:00+05:00",
-      "stop": "2026-05-17T00:00:00+05:00",
-      "title": "France 24 English News",
-      "sub_title": "Sunday 17 May 2026",
-      "desc": "International news and current affairs from Paris, offering a French perspective on world events via satellite in English.",
-      "language": "en",
-      "rating": "NR",
-      "categories": [
-        "Sports"
-      ],
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/310649/image/334x188"
-    },
-    {
-      "start": "2026-05-17T00:00:00+05:00",
-      "stop": "2026-05-17T00:30:00+05:00",
-      "title": "Thai News",
-      "sub_title": "Sunday 17 May 2026",
-      "desc": "News via satellite from Thai Public Broadcasting Service, in Thai, no subtitles.",
-      "language": "en",
-      "rating": "NR",
-      "categories": [
-        "Sports"
-      ],
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/335203/image/334x188"
-    },
-    {
       "start": "2026-05-17T00:30:00+05:00",
       "stop": "2026-05-17T01:00:00+05:00",
       "title": "Bangla News",
@@ -80,6 +54,32 @@
         "Sports"
       ],
       "icon": "https://www.fetchtv.com.au/v2/epg/program/158479/image/334x188"
+    },
+    {
+      "start": "2026-05-17T02:30:00+05:00",
+      "stop": "2026-05-17T03:10:00+05:00",
+      "title": "Italian News",
+      "sub_title": "Sunday 17 May 2026",
+      "desc": "News via satellite from RAI Rome in Italian, no subtitles.",
+      "language": "en",
+      "rating": "NR",
+      "categories": [
+        "Sports"
+      ],
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/158476/image/334x188"
+    },
+    {
+      "start": "2026-05-17T03:10:00+05:00",
+      "stop": "2026-05-17T03:40:00+05:00",
+      "title": "Filipino News",
+      "sub_title": "Sunday 17 May 2026",
+      "desc": "TV Patrol is the flagship national newscast of ABS-CBN and is currently the longest-running Filipino language evening newscast.",
+      "language": "en",
+      "rating": "NR",
+      "categories": [
+        "Sports"
+      ],
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/158474/image/334x188"
     }
   ]
 }

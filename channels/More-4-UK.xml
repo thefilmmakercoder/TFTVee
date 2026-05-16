@@ -1,9 +1,74 @@
 <?xml version='1.0' encoding='utf-8'?>
 <tv>
   <channel id="More-4-UK">
+    <icon src="https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/More-4-UK.png" />
+    <url>https://tv.thefilmtuition.com</url>
     <display-name>More 4</display-name>
-    <icon src="https://thefilmtuition.com/tvlogo/More-4-UK.png" />
-  </channel><programme channel="More-4-UK" start="20260516062000 +0500" stop="20260516072500 +0500">
+  </channel><programme channel="More-4-UK" start="20260515222000 +0500" stop="20260515225000 +0500">
+    <title>Four in a Bed</title>
+    <sub-title />
+    <desc>It's payment day, and the group are close to breaking point as they battle through their issues, with dramatic consequences and an admission of game-playing, before the winner is announced.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Factual</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/155296d3-6a45-3a5c-a65c-56e9e0e0babd/16-9" />
+  </programme><programme channel="More-4-UK" start="20260515225000 +0500" stop="20260515235500 +0500">
+    <title>Location, Location, Location</title>
+    <sub-title />
+    <desc>In east London, can Kirstie hit the right note with musicians Molly and Sam, who need a place to grow into? And Phil tackles Barrie and Tash's small search area and big wish list.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Home</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/aaa952e7-0c80-3619-8298-074157bd287b/16-9" />
+  </programme><programme channel="More-4-UK" start="20260515235500 +0500" stop="20260516010000 +0500">
+    <title>Kirstie and Phil's Love It or List It</title>
+    <sub-title />
+    <desc>Aneri and Nihar's Radlett cottage is as cute as a button, but Aneri's tired of its tight layout. Kirstie has a plan, but Phil's search leaves everyone speechless.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Home</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/98c086ce-233e-4ee4-ae43-64c174a72e62/16-9" />
+  </programme><programme channel="More-4-UK" start="20260516010000 +0500" stop="20260516020000 +0500">
+    <title>Panda</title>
+    <sub-title>Brand new series</sub-title>
+    <desc>Murder Overlooked: Comical French drama from Walter Presents. Can Lola and Panda agree on who killed a man when there are suspects galore? In French/subs.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Detective</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/077ab7a8-e026-44d3-9bff-7b99816c5cfe/16-9" />
+  </programme><programme channel="More-4-UK" start="20260516020000 +0500" stop="20260516030500 +0500">
+    <title>24 Hours in A&amp;E</title>
+    <sub-title />
+    <desc>Nikkita, who's 27, comes to A&amp;E with her dad after a severe epileptic seizure. Phillip, who's 89, has collapsed at home. Plumber Sebastian has sliced off the tops of his fingers.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">Feature</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/4d62e902-03cd-401c-afdc-d056afbd96dc/16-9" />
+  </programme><programme channel="More-4-UK" start="20260516030500 +0500" stop="20260516041000 +0500">
+    <title>24 Hours in A&amp;E</title>
+    <sub-title />
+    <desc>Psychiatric nurse Christie has severe burns after being attacked by a patient. Joe's cousin accidentally stabbed him in the thigh. Freddie, who's two, has pain in his eye.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">Feature</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/c1615c79-9f27-43b2-9c09-b6922aee1feb/16-9" />
+  </programme><programme channel="More-4-UK" start="20260516041000 +0500" stop="20260516051500 +0500">
+    <title>999: On the Front Line</title>
+    <sub-title />
+    <desc>Paramedics treat a woman who's collapsed and is unconscious in the street, a homeless man who's struggling to walk and a woman in excruciating pain.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">Feature</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/700267a0-960f-49df-9fe0-0dbb59e61be1/16-9" />
+  </programme><programme channel="More-4-UK" start="20260516051500 +0500" stop="20260516062000 +0500">
+    <title>24 Hours in A&amp;E</title>
+    <sub-title />
+    <desc>Nikkita, who's 27, comes to A&amp;E with her dad after a severe epileptic seizure. Phillip, who's 89, has collapsed at home. Plumber Sebastian has sliced off the tops of his fingers.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">Feature</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/4d62e902-03cd-401c-afdc-d056afbd96dc/16-9" />
+  </programme><programme channel="More-4-UK" start="20260516062000 +0500" stop="20260516072500 +0500">
     <title>24 Hours in A&amp;E</title>
     <sub-title />
     <desc>Psychiatric nurse Christie has severe burns after being attacked by a patient. Joe's cousin accidentally stabbed him in the thigh. Freddie, who's two, has pain in his eye.</desc>
@@ -387,77 +452,5 @@
     <category lang="en">Lifestyles</category>
     <language>en</language>
     <icon src="https://images.metadata.sky.com/pd-image/3babb436-cb88-43de-b284-5e46a9b53863/16-9" />
-  </programme><programme channel="More-4-UK" start="20260518002500 +0500" stop="20260518010000 +0500">
-    <title>Four in a Bed</title>
-    <sub-title />
-    <desc>After the high drama of stray hairs in drawers and grumbles about not having somewhere convenient to put a towel, the week draws to a close with payment day.</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Lifestyles</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/258f476f-e849-4ada-83ef-ae94ef5683b8/16-9" />
-  </programme><programme channel="More-4-UK" start="20260518010000 +0500" stop="20260518020000 +0500">
-    <title>The Emergency Ward</title>
-    <sub-title>Brand new series</sub-title>
-    <desc>Dr Andrew acts fast to save a builder's lacerated arm. A surfer has crashed into a sandbank. And doctor becomes patient when Dr David falls off his skateboard.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">Feature</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/d38f6fac-263d-45af-b74e-f790b0736db4/16-9" />
-  </programme><programme channel="More-4-UK" start="20260518020000 +0500" stop="20260518030500 +0500">
-    <title>24 Hours in A&amp;E</title>
-    <sub-title />
-    <desc>This episode explores the chances that people take in life. Megan, who's 20, has been in a high-speed car crash. James, who's 78, has suspected internal bleeding.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">Feature</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/d64edee8-7242-4e20-900d-661e32e83f85/16-9" />
-  </programme><programme channel="More-4-UK" start="20260518030500 +0500" stop="20260518041000 +0500">
-    <title>24 Hours in A&amp;E</title>
-    <sub-title />
-    <desc>Tim's come off his bike and has suspected spinal injuries. Jeanette is struggling to breathe. Mollie, who's 91, is in A&amp;E after her daughter accidentally crashed into a lamp post.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">Feature</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/ab47b69a-0058-4d7b-a9d3-9321d832f841/16-9" />
-  </programme><programme channel="More-4-UK" start="20260518041000 +0500" stop="20260518051500 +0500">
-    <title>The Emergency Ward</title>
-    <sub-title>Brand new series</sub-title>
-    <desc>Dr Andrew acts fast to save a builder's lacerated arm. A surfer has crashed into a sandbank. And doctor becomes patient when Dr David falls off his skateboard.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">Feature</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/d38f6fac-263d-45af-b74e-f790b0736db4/16-9" />
-  </programme><programme channel="More-4-UK" start="20260518051500 +0500" stop="20260518062000 +0500">
-    <title>24 Hours in A&amp;E</title>
-    <sub-title />
-    <desc>This episode explores the chances that people take in life. Megan, who's 20, has been in a high-speed car crash. James, who's 78, has suspected internal bleeding.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">Feature</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/d64edee8-7242-4e20-900d-661e32e83f85/16-9" />
-  </programme><programme channel="More-4-UK" start="20260518062000 +0500" stop="20260518072500 +0500">
-    <title>24 Hours in A&amp;E</title>
-    <sub-title />
-    <desc>Tim's come off his bike and has suspected spinal injuries. Jeanette is struggling to breathe. Mollie, who's 91, is in A&amp;E after her daughter accidentally crashed into a lamp post.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">Feature</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/ab47b69a-0058-4d7b-a9d3-9321d832f841/16-9" />
-  </programme><programme channel="More-4-UK" start="20260518072500 +0500" stop="20260518075500 +0500">
-    <title>Food Unwrapped's Nordic Adventure</title>
-    <sub-title />
-    <desc>Jimmy Doherty and Briony May Williams go Nordic for some radical cod farming, the essence of Swedish meatballs, and some happy food in Finland - the happiest place on the planet.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">Feature</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/e28c0951-9205-437a-83b1-6f9bb6ea9256/16-9" />
-  </programme><programme channel="More-4-UK" start="20260518075500 +0500" stop="20260518110000 +0500">
-    <title>Discover Must Have Ideas: Shopping</title>
-    <sub-title />
-    <desc>Discover the very latest must-haves for your home and garden with Must Have Ideas.</desc>
-    <category lang="en">Specialist</category>
-    <category lang="en">Shopping</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/9c05fefb-5c2b-4de4-afef-e141038f4c13/16-9" />
   </programme>
 </tv>

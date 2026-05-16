@@ -1,9 +1,190 @@
 <?xml version='1.0' encoding='utf-8'?>
 <tv>
   <channel id="Hallmark-Channel-US">
+    <icon src="https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/Hallmark-Channel-US.png" />
+    <url>https://tv.thefilmtuition.com</url>
     <display-name>Hallmark Channel</display-name>
-    <icon src="https://thefilmtuition.com/tvlogo/Hallmark-Channel-US.png" />
-  </channel><programme channel="Hallmark-Channel-US" start="20260516073000 +0500" stop="20260516080000 +0500">
+  </channel><programme channel="Hallmark-Channel-US" start="20260515210000 +0500" stop="20260515220000 +0500">
+    <title>Gilmore Girls</title>
+    <sub-title>Bridesmaids Revisited</sub-title>
+    <desc>Lorelai offers to help Christopher by baby-sitting his 4-year-old daughter, but the child's behavior horrifies her.</desc>
+    <episode-num system="onscreen">S6 E16</episode-num>
+    <credits>
+      <actor>Lauren Graham</actor>
+      <actor>Alexis Bledel</actor>
+      <actor>Melissa McCarthy</actor>
+    </credits><date>2006</date>
+    <category lang="en">Series</category>
+    <category lang="en">Comedy drama</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p7894446_b_h8_ac.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>6</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>12</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>12</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>0</value>
+    </rating><rating system="Kijkwijzer">
+      <value>6</value>
+    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>S</value>
+    </rating>
+  </programme><programme channel="Hallmark-Channel-US" start="20260515220000 +0500" stop="20260515230000 +0500">
+    <title>Gilmore Girls</title>
+    <sub-title>I'm OK, You're OK</sub-title>
+    <desc>Rory pays a visit to Lorelai in Stars Hollow; Zack finally asks Mrs. Kim for permission to marry Lane.</desc>
+    <episode-num system="onscreen">S6 E17</episode-num>
+    <credits>
+      <director>Lee Shallat Chemel</director>
+      <actor>Lauren Graham</actor>
+      <actor>Alexis Bledel</actor>
+      <actor>Melissa McCarthy</actor>
+    </credits><date>2006</date>
+    <category lang="en">Series</category>
+    <category lang="en">Comedy drama</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p7894446_b_h8_ac.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>6</value>
+    </rating><rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>12</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>0</value>
+    </rating><rating system="Kijkwijzer">
+      <value>6</value>
+    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>S</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>L</value>
+    </rating>
+  </programme><programme channel="Hallmark-Channel-US" start="20260515230000 +0500" stop="20260516010000 +0500">
+    <title>Summer Love</title>
+    <sub-title />
+    <desc>After going back to school, a widowed suburban mom struggles to adjust when an internship lands her in the fast-paced world of millionaire app designers.</desc>
+    <credits>
+      <director>Lynne Stopkewich</director>
+      <actor>Rachael Leigh Cook</actor>
+      <actor>Lucas Bryant</actor>
+      <actor>Travis Milne</actor>
+    </credits><date>2016</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Romance</category>
+    <category lang="en">Drama</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p13053453_v_h10_aa.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>L</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>0</value>
+    </rating><rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating>
+  </programme><programme channel="Hallmark-Channel-US" start="20260516010000 +0500" stop="20260516030000 +0500">
+    <title>To Barcelona, Forever</title>
+    <sub-title />
+    <desc>As Anna travels back to Barcelona, reuniting with Erica to celebrate her engagement to Nico, she meets a charming farmer and accidentally finds herself engaged to save his family's legacy.</desc>
+    <credits>
+      <director>Ron Oliver</director>
+      <actor>Alison Sweeney</actor>
+      <actor>Miguel Brocca</actor>
+      <actor>Ashley Williams</actor>
+    </credits><date>2025</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Romance</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p30143028_v_h8_aa.jpg?w=960&amp;h=540" />
+  </programme><programme channel="Hallmark-Channel-US" start="20260516030000 +0500" stop="20260516050000 +0500">
+    <title>The Nine Lives of Christmas</title>
+    <sub-title />
+    <desc>As the Christmas holiday draws near, a veterinary student (Kimberly Sustad) and a stray cat challenge a fireman's (Brandon Routh) commitment to life as a bachelor.</desc>
+    <credits>
+      <director>Mark Jean</director>
+      <actor>Brandon Routh</actor>
+      <actor>Kimberly Sustad</actor>
+      <actor>Gregory Harrison</actor>
+    </credits><date>2014</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Children</category>
+    <category lang="en">Holiday</category>
+    <category lang="en">Romance</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p11076646_v_h10_aa.jpg?w=960&amp;h=540" />
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>L</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="Australian Classification Board">
+      <value>G</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>6</value>
+    </rating><rating system="British Board of Film Classification">
+      <value>U</value>
+    </rating>
+  </programme><programme channel="Hallmark-Channel-US" start="20260516050000 +0500" stop="20260516070000 +0500">
+    <title>Christmas at the Catnip Café</title>
+    <sub-title />
+    <desc>Sparks fly between a marketing executive and a veterinarian as they work together to plan a fundraising event to help stray cats find homes during the holidays.</desc>
+    <credits>
+      <director>Lucie Guest</director>
+      <actor>Erin Cahill</actor>
+      <actor>Paul Campbell</actor>
+      <actor>Meganne Young</actor>
+    </credits><date>2025</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Holiday</category>
+    <category lang="en">Romance</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p31338172_v_h8_aa.jpg?w=960&amp;h=540" />
+    <rating system="UK Content Provider">
+      <value>U</value>
+    </rating>
+  </programme><programme channel="Hallmark-Channel-US" start="20260516070000 +0500" stop="20260516073000 +0500">
+    <title>The Golden Girls</title>
+    <sub-title>An Illegitimate Concern</sub-title>
+    <desc>A young man claims to be the illegitimate son of Blanche's late husband.</desc>
+    <episode-num system="onscreen">S5 E18</episode-num>
+    <credits>
+      <director>Terry Hughes</director>
+      <actor>Bea Arthur</actor>
+      <actor>Rue McClanahan</actor>
+      <actor>Betty White</actor>
+    </credits><date>1990</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sitcom</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p7895180_b_h10_aa.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating><rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>0</value>
+    </rating>
+  </programme><programme channel="Hallmark-Channel-US" start="20260516073000 +0500" stop="20260516080000 +0500">
     <title>The Golden Girls</title>
     <sub-title>72 Hours</sub-title>
     <desc>Rose must test for AIDS following the revelation that she may have received a tainted transfusion.</desc>
@@ -552,7 +733,7 @@
   </programme><programme channel="Hallmark-Channel-US" start="20260517050000 +0500" stop="20260517070000 +0500">
     <title>Hannah Swensen Mysteries</title>
     <sub-title>Best Served Cold: A Hannah Swensen Mystery</sub-title>
-    <desc>When a suspect in a forgery case is murdered and the prosecutor goes missing, Hannah and Chad must uncover how the two cases are connected and solve them in time for the trial. Stars Alison Sweeney, Victor Webster, Barbara Niven.</desc>
+    <desc>When a suspect in a forgery case is murdered and the prosecutor goes missing, Hannah and Chad must uncover how the two cases are connected and solve them in time for the trial.</desc>
     <credits>
       <director>Pat Williams</director>
       <actor>Alison Sweeney</actor>
@@ -1014,107 +1195,6 @@
       <value>TVG</value>
     </rating><rating system="UK Content Provider">
       <value>U</value>
-    </rating>
-  </programme><programme channel="Hallmark-Channel-US" start="20260518000000 +0500" stop="20260518020000 +0500">
-    <title>A Scottish Love Scheme</title>
-    <sub-title />
-    <desc>Lily travels to Scotland with her mom and reconnects with Logan, a childhood family friend. Unbeknownst to Lily and Logan, their meddling mothers hatch a plan to play matchmaker.</desc>
-    <credits>
-      <director>Heather Hawthorn-Doyle</director>
-      <actor>Erica Durance</actor>
-      <actor>Jordan Young</actor>
-      <actor>Jo Cameron Brown</actor>
-    </credits><date>2024</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Romantic comedy</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p26235303_v_h8_aa.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating><rating system="UK Content Provider">
-      <value>PG</value>
-    </rating>
-  </programme><programme channel="Hallmark-Channel-US" start="20260518020000 +0500" stop="20260518040000 +0500">
-    <title>A Greek Recipe for Romance</title>
-    <sub-title />
-    <desc>While visiting her mother in Greece, Abby decides to open a restaurant with a man she just met.</desc>
-    <credits>
-      <director>Colin Theys</director>
-      <actor>Danielle C. Ryan</actor>
-      <actor>Rafael Kariotakis</actor>
-      <actor>Peru Kavalieri</actor>
-    </credits><date>2024</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Romance</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p27320812_v_h8_aa.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating>
-  </programme><programme channel="Hallmark-Channel-US" start="20260518040000 +0500" stop="20260518060000 +0500">
-    <title>The Birthday Wish</title>
-    <sub-title />
-    <desc>When her boyfriend fails to propose, a woman makes a powerful birthday wish that leaves her surprised at the outcome.</desc>
-    <credits>
-      <director>Peter DeLuise</director>
-      <actor>Jessy Schram</actor>
-      <actor>Luke Macfarlane</actor>
-      <actor>Marcus Rosner</actor>
-    </credits><date>2017</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Romantic comedy</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p13602851_v_h10_aa.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
-    </rating><rating system="Kijkwijzer">
-      <value>AL</value>
-    </rating><rating system="Australian Classification Board">
-      <value>G</value>
-    </rating>
-  </programme><programme channel="Hallmark-Channel-US" start="20260518060000 +0500" stop="20260518070000 +0500">
-    <title>The Way Home</title>
-    <sub-title>Don't Cry Out Loud</sub-title>
-    <desc>When Nick joins Kat on her search for more information about Elliot's mother in the 1920s, the two realize they may be in over their heads.</desc>
-    <episode-num system="onscreen">S4 E5</episode-num>
-    <credits>
-      <actor>Andie MacDowell</actor>
-      <actor>Chyler Leigh</actor>
-      <actor>Sadie Laflamme-Snow</actor>
-    </credits><date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Romance</category>
-    <category lang="en">Fantasy</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p32792014_b_h8_aa.jpg?w=960&amp;h=540" />
-    <rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating>
-  </programme><programme channel="Hallmark-Channel-US" start="20260518070000 +0500" stop="20260518090000 +0500">
-    <title>Catch of the Day</title>
-    <sub-title />
-    <desc>On the eve of becoming a New York executive chef, Sophie returns home to help her family's flailing restaurant and runs into Cam, an old crush who makes her question everything.</desc>
-    <credits>
-      <director>Jessica Harmon</director>
-      <actor>Emilie Ullerup</actor>
-      <actor>Michael Rady</actor>
-      <actor>Katie Lee Biegel</actor>
-    </credits><date>2025</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Romance</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p30724565_v_h8_aa.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating><rating system="UK Content Provider">
-      <value>PG</value>
     </rating>
   </programme>
 </tv>

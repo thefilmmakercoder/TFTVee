@@ -1,9 +1,359 @@
 <?xml version='1.0' encoding='utf-8'?>
 <tv>
   <channel id="TV-One-US">
-    <display-name>TV One US</display-name>
-    <icon src="https://thefilmtuition.com/tvlogo/TV-One-US.png" />
-  </channel><programme channel="TV-One-US" start="20260516073000 +0500" stop="20260516080000 +0500">
+    <icon src="https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/TV-One-US.png" />
+    <url>https://tv.thefilmtuition.com</url>
+    <display-name>TV One</display-name>
+  </channel><programme channel="TV-One-US" start="20260515220000 +0500" stop="20260515230000 +0500">
+    <title>For My Man</title>
+    <sub-title>Blood is Thicker Than Water</sub-title>
+    <desc>After a painful divorce, a single mother didn't expect to ever love again; after a charming stranger wins her heart, she becomes desperate to do anything to keep her new man's love.</desc>
+    <episode-num system="onscreen">S6 E19</episode-num>
+    <date>2021</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Crime</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p11970049_b_h8_aa.jpg?w=960&amp;h=540" />
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+  </programme><programme channel="TV-One-US" start="20260515230000 +0500" stop="20260516000000 +0500">
+    <title>For My Man</title>
+    <sub-title>By Any Means Necessary</sub-title>
+    <desc>A young woman finds solace in a new boyfriend after her father passes away; he ropes her into one of his criminal schemes; she finds herself in the midst of a brutal blood bath.</desc>
+    <episode-num system="onscreen">S6 E20</episode-num>
+    <date>2021</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Crime</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p11970049_b_h8_aa.jpg?w=960&amp;h=540" />
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+  </programme><programme channel="TV-One-US" start="20260516000000 +0500" stop="20260516010000 +0500">
+    <title>For My Man</title>
+    <sub-title>Love and Lies</sub-title>
+    <desc>Sparks fly when a young mother reunites with her childhood crush, but her new man is guarding a deadly secret that will put her and her son's lives in danger; when she gets caught in the crosshairs, she must choose to save her man or herself.</desc>
+    <episode-num system="onscreen">S6 E21</episode-num>
+    <date>2021</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Crime</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p11970049_b_h8_aa.jpg?w=960&amp;h=540" />
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+  </programme><programme channel="TV-One-US" start="20260516010000 +0500" stop="20260516013000 +0500">
+    <title>A Different World</title>
+    <sub-title>To Tell the Truth</sub-title>
+    <desc>Dwayne gets into hot water when he is spotted holding hands with a woman other than Whitley.</desc>
+    <episode-num system="onscreen">S5 E9</episode-num>
+    <credits>
+      <actor>Jasmine Guy</actor>
+      <actor>Kadeem Hardison</actor>
+      <actor>Dawnn Lewis</actor>
+    </credits><date>1991</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sitcom</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p184628_b_h10_ad.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A12</value>
+    </rating><rating system="Kijkwijzer">
+      <value>12</value>
+    </rating>
+  </programme><programme channel="TV-One-US" start="20260516013000 +0500" stop="20260516020000 +0500">
+    <title>A Different World</title>
+    <sub-title>Do You Take This Woman?</sub-title>
+    <desc>As his wedding nears, Dwayne's cold feet are thawed by the hot tempers of the combative future mothers-in-law.</desc>
+    <episode-num system="onscreen">S5 E10</episode-num>
+    <credits>
+      <actor>Jasmine Guy</actor>
+      <actor>Kadeem Hardison</actor>
+      <actor>Dawnn Lewis</actor>
+    </credits><date>1991</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sitcom</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p184628_b_h10_ad.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A12</value>
+    </rating><rating system="Kijkwijzer">
+      <value>12</value>
+    </rating>
+  </programme><programme channel="TV-One-US" start="20260516020000 +0500" stop="20260516023000 +0500">
+    <title>A Different World</title>
+    <sub-title>Mammy Dearest</sub-title>
+    <desc>Whitley plans for a display of slave art until Lena (Jada Pinkett) reveals that Gilbert's ancestors owned slaves.</desc>
+    <episode-num system="onscreen">S5 E11</episode-num>
+    <credits>
+      <actor>Jasmine Guy</actor>
+      <actor>Kadeem Hardison</actor>
+      <actor>Dawnn Lewis</actor>
+    </credits><date>1991</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sitcom</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p184628_b_h10_ad.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A12</value>
+    </rating><rating system="Kijkwijzer">
+      <value>12</value>
+    </rating>
+  </programme><programme channel="TV-One-US" start="20260516023000 +0500" stop="20260516030000 +0500">
+    <title>A Different World</title>
+    <sub-title>The Twelve Steps of Christmas</sub-title>
+    <desc>Dwayne and Whitley go separately to a Christmas party, unaware the other will be there.</desc>
+    <episode-num system="onscreen">S5 E12</episode-num>
+    <credits>
+      <actor>Jasmine Guy</actor>
+      <actor>Kadeem Hardison</actor>
+      <actor>Dawnn Lewis</actor>
+    </credits><date>1991</date>
+    <category lang="en">Series</category>
+    <category lang="en">Holiday</category>
+    <category lang="en">Sitcom</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p184628_b_h10_ad.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A12</value>
+    </rating><rating system="Kijkwijzer">
+      <value>12</value>
+    </rating>
+  </programme><programme channel="TV-One-US" start="20260516030000 +0500" stop="20260516033000 +0500">
+    <title>The Cosby Show</title>
+    <sub-title>No More Mr. Nice Guy</sub-title>
+    <desc>Theo's special dinner for his girlfriend (Julie Satterfield) is derailed by a variety of visitors.</desc>
+    <episode-num system="onscreen">S7 E20</episode-num>
+    <credits>
+      <actor>Bill Cosby</actor>
+      <actor>Phylicia Rashad</actor>
+      <actor>Malcolm-Jamal Warner</actor>
+    </credits><date>1991</date>
+    <category lang="en">Series</category>
+    <category lang="en">Family</category>
+    <category lang="en">Sitcom</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p7894759_b_h10_aa.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+  </programme><programme channel="TV-One-US" start="20260516033000 +0500" stop="20260516040000 +0500">
+    <title>The Cosby Show</title>
+    <sub-title>Total Control</sub-title>
+    <desc>A father-to-be (John Ritter) misuses his basketball coaching skills when he coaches his wife (Amy Yasbeck) through labor.</desc>
+    <episode-num system="onscreen">S7 E16</episode-num>
+    <credits>
+      <actor>Bill Cosby</actor>
+      <actor>Phylicia Rashad</actor>
+      <actor>Malcolm-Jamal Warner</actor>
+    </credits><date>1991</date>
+    <category lang="en">Series</category>
+    <category lang="en">Family</category>
+    <category lang="en">Sitcom</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p7894759_b_h8_aa.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+  </programme><programme channel="TV-One-US" start="20260516040000 +0500" stop="20260516043000 +0500">
+    <title>The Cosby Show</title>
+    <sub-title>Adventures in Babysitting</sub-title>
+    <desc>Things go bump in the night for Rudy the first time she baby-sits Olivia; Cliff and his friend decide to ditch their wives and become partners for the annual pinochle tournament.</desc>
+    <episode-num system="onscreen">S7 E17</episode-num>
+    <credits>
+      <actor>Bill Cosby</actor>
+      <actor>Phylicia Rashad</actor>
+      <actor>Malcolm-Jamal Warner</actor>
+    </credits><date>1991</date>
+    <category lang="en">Series</category>
+    <category lang="en">Family</category>
+    <category lang="en">Sitcom</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p7894759_b_h10_aa.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+  </programme><programme channel="TV-One-US" start="20260516043000 +0500" stop="20260516050000 +0500">
+    <title>The Cosby Show</title>
+    <sub-title>27 and Still Cooking</sub-title>
+    <desc>Cliff and Clair's 27th wedding anniversary is approaching and he has great plans for the celebration.</desc>
+    <episode-num system="onscreen">S7 E18</episode-num>
+    <credits>
+      <actor>Bill Cosby</actor>
+      <actor>Phylicia Rashad</actor>
+      <actor>Malcolm-Jamal Warner</actor>
+    </credits><date>1991</date>
+    <category lang="en">Series</category>
+    <category lang="en">Family</category>
+    <category lang="en">Sitcom</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p7894759_b_h8_aa.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+  </programme><programme channel="TV-One-US" start="20260516050000 +0500" stop="20260516053000 +0500">
+    <title>The Cosby Show</title>
+    <sub-title>The Return of the Clairettes</sub-title>
+    <desc>Clair recalls old times with high-school friend Kris (Leslie Uggams); Rudy tries to arrange her first date.</desc>
+    <episode-num system="onscreen">S7 E19</episode-num>
+    <credits>
+      <actor>Bill Cosby</actor>
+      <actor>Phylicia Rashad</actor>
+      <actor>Malcolm-Jamal Warner</actor>
+    </credits><date>1991</date>
+    <category lang="en">Series</category>
+    <category lang="en">Family</category>
+    <category lang="en">Sitcom</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p7894759_b_h10_aa.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+  </programme><programme channel="TV-One-US" start="20260516053000 +0500" stop="20260516060000 +0500">
+    <title>The Cosby Show</title>
+    <sub-title>Home Remedies</sub-title>
+    <desc>When Olivia's cold upsets her plans to sing at an anniversary party, Cliff saves the show.</desc>
+    <episode-num system="onscreen">S7 E21</episode-num>
+    <credits>
+      <actor>Bill Cosby</actor>
+      <actor>Phylicia Rashad</actor>
+      <actor>Malcolm-Jamal Warner</actor>
+    </credits><date>1991</date>
+    <category lang="en">Series</category>
+    <category lang="en">Family</category>
+    <category lang="en">Sitcom</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p7894759_b_h8_aa.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+  </programme><programme channel="TV-One-US" start="20260516060000 +0500" stop="20260516063000 +0500">
+    <title>The Cosby Show</title>
+    <sub-title>Nightmare on Stigwood Avenue</sub-title>
+    <desc>Rudy dreams that Olivia bewitches the Huxtables and indulges in all sorts of mischief.</desc>
+    <episode-num system="onscreen">S7 E22</episode-num>
+    <credits>
+      <actor>Bill Cosby</actor>
+      <actor>Phylicia Rashad</actor>
+      <actor>Malcolm-Jamal Warner</actor>
+    </credits><date>1991</date>
+    <category lang="en">Series</category>
+    <category lang="en">Family</category>
+    <category lang="en">Sitcom</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p7894759_b_h10_aa.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+  </programme><programme channel="TV-One-US" start="20260516063000 +0500" stop="20260516070000 +0500">
+    <title>The Cosby Show</title>
+    <sub-title>There's Still No Joy in Mudville</sub-title>
+    <desc>Cliff and Russell (Earle Hyman) recall baseball's great old days with two retired Negro League players (Frank Robinson, Joe Black).</desc>
+    <episode-num system="onscreen">S7 E23</episode-num>
+    <credits>
+      <actor>Bill Cosby</actor>
+      <actor>Phylicia Rashad</actor>
+      <actor>Malcolm-Jamal Warner</actor>
+    </credits><date>1991</date>
+    <category lang="en">Series</category>
+    <category lang="en">Family</category>
+    <category lang="en">Sitcom</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p7894759_b_h10_aa.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+  </programme><programme channel="TV-One-US" start="20260516070000 +0500" stop="20260516073000 +0500">
+    <title>The Cosby Show</title>
+    <sub-title>Cliff and Jake</sub-title>
+    <desc>Cliff urges two old friends (Red Buttons, E.G. Marshall) who have not spoken to each other for years to reunite.</desc>
+    <episode-num system="onscreen">S7 E24</episode-num>
+    <credits>
+      <actor>Bill Cosby</actor>
+      <actor>Phylicia Rashad</actor>
+      <actor>Malcolm-Jamal Warner</actor>
+    </credits><date>1991</date>
+    <category lang="en">Series</category>
+    <category lang="en">Family</category>
+    <category lang="en">Sitcom</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p7894759_b_h10_aa.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+  </programme><programme channel="TV-One-US" start="20260516073000 +0500" stop="20260516080000 +0500">
     <title>The Cosby Show</title>
     <sub-title>Theo and the Kids</sub-title>
     <desc>When Theo counsels at a community center, he gets an unexpected reaction from the kids.</desc>
@@ -1507,428 +1857,6 @@
       <value>A12</value>
     </rating><rating system="Kijkwijzer">
       <value>12</value>
-    </rating>
-  </programme><programme channel="TV-One-US" start="20260518000000 +0500" stop="20260518003000 +0500">
-    <title>A Different World</title>
-    <sub-title>Home Is Where the Fire Is</sub-title>
-    <desc>Bickering distracts Whitley and Kim from a hazard in Lena's (Jada Pinkett) room.</desc>
-    <episode-num system="onscreen">S5 E3</episode-num>
-    <credits>
-      <actor>Jasmine Guy</actor>
-      <actor>Kadeem Hardison</actor>
-      <actor>Dawnn Lewis</actor>
-    </credits><date>1991</date>
-    <category lang="en">Series</category>
-    <category lang="en">Sitcom</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p184628_b_h10_ad.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="Australian Classification Board">
-      <value>PG</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A12</value>
-    </rating><rating system="Kijkwijzer">
-      <value>12</value>
-    </rating>
-  </programme><programme channel="TV-One-US" start="20260518003000 +0500" stop="20260518010000 +0500">
-    <title>A Different World</title>
-    <sub-title>Almost Working Girl</sub-title>
-    <desc>When Jaleesa sends Freddie on a temporary job at Whitley's workplace, she insults an executive (Beverly Todd).</desc>
-    <episode-num system="onscreen">S5 E4</episode-num>
-    <credits>
-      <actor>Jasmine Guy</actor>
-      <actor>Kadeem Hardison</actor>
-      <actor>Dawnn Lewis</actor>
-    </credits><date>1991</date>
-    <category lang="en">Series</category>
-    <category lang="en">Sitcom</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p184628_b_h10_ad.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="Australian Classification Board">
-      <value>PG</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A12</value>
-    </rating><rating system="Kijkwijzer">
-      <value>12</value>
-    </rating>
-  </programme><programme channel="TV-One-US" start="20260518010000 +0500" stop="20260518013000 +0500">
-    <title>A Different World</title>
-    <sub-title>In the Eye of the Storm</sub-title>
-    <desc>As a hurricane batters the campus, Ron and Freddie confront their differences while trapped together.</desc>
-    <episode-num system="onscreen">S5 E5</episode-num>
-    <credits>
-      <actor>Jasmine Guy</actor>
-      <actor>Kadeem Hardison</actor>
-      <actor>Dawnn Lewis</actor>
-    </credits><date>1991</date>
-    <category lang="en">Series</category>
-    <category lang="en">Sitcom</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p184628_b_h10_ad.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="Australian Classification Board">
-      <value>PG</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A12</value>
-    </rating><rating system="Kijkwijzer">
-      <value>12</value>
-    </rating>
-  </programme><programme channel="TV-One-US" start="20260518013000 +0500" stop="20260518020000 +0500">
-    <title>A Different World</title>
-    <sub-title>Rule Number One ..</sub-title>
-    <desc>Dwayne fails to foresee the consequences of his tutoring Lena (Jada Pinkett); Ron goes into the cosmetics business.</desc>
-    <episode-num system="onscreen">S5 E6</episode-num>
-    <credits>
-      <actor>Jasmine Guy</actor>
-      <actor>Kadeem Hardison</actor>
-      <actor>Dawnn Lewis</actor>
-    </credits><date>1991</date>
-    <category lang="en">Series</category>
-    <category lang="en">Sitcom</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p184628_b_h10_ad.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="Australian Classification Board">
-      <value>PG</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A12</value>
-    </rating><rating system="Kijkwijzer">
-      <value>12</value>
-    </rating>
-  </programme><programme channel="TV-One-US" start="20260518020000 +0500" stop="20260518023000 +0500">
-    <title>A Different World</title>
-    <sub-title>Baby, I'm a Star</sub-title>
-    <desc>Kim's new-found arrogance loses her a spot in Ron's band; Col. Taylor frets over his age.</desc>
-    <episode-num system="onscreen">S5 E7</episode-num>
-    <credits>
-      <actor>Jasmine Guy</actor>
-      <actor>Kadeem Hardison</actor>
-      <actor>Dawnn Lewis</actor>
-    </credits><date>1991</date>
-    <category lang="en">Series</category>
-    <category lang="en">Sitcom</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p184628_b_h10_ad.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="Australian Classification Board">
-      <value>PG</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A12</value>
-    </rating><rating system="Kijkwijzer">
-      <value>12</value>
-    </rating>
-  </programme><programme channel="TV-One-US" start="20260518023000 +0500" stop="20260518030000 +0500">
-    <title>A Different World</title>
-    <sub-title>Liza Who-Little</sub-title>
-    <desc>Whitley's wealthy cousin Liza (Jasmine Guy in a dual role) goes husband-hunting at Hillman.</desc>
-    <episode-num system="onscreen">S5 E8</episode-num>
-    <credits>
-      <actor>Jasmine Guy</actor>
-      <actor>Kadeem Hardison</actor>
-      <actor>Dawnn Lewis</actor>
-    </credits><date>1991</date>
-    <category lang="en">Series</category>
-    <category lang="en">Sitcom</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p184628_b_h10_ad.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="Australian Classification Board">
-      <value>PG</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A12</value>
-    </rating><rating system="Kijkwijzer">
-      <value>12</value>
-    </rating>
-  </programme><programme channel="TV-One-US" start="20260518030000 +0500" stop="20260518033000 +0500">
-    <title>A Different World</title>
-    <sub-title>To Tell the Truth</sub-title>
-    <desc>Dwayne gets into hot water when he is spotted holding hands with a woman other than Whitley.</desc>
-    <episode-num system="onscreen">S5 E9</episode-num>
-    <credits>
-      <actor>Jasmine Guy</actor>
-      <actor>Kadeem Hardison</actor>
-      <actor>Dawnn Lewis</actor>
-    </credits><date>1991</date>
-    <category lang="en">Series</category>
-    <category lang="en">Sitcom</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p184628_b_h10_ad.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>G</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="Australian Classification Board">
-      <value>PG</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A12</value>
-    </rating><rating system="Kijkwijzer">
-      <value>12</value>
-    </rating>
-  </programme><programme channel="TV-One-US" start="20260518033000 +0500" stop="20260518040000 +0500">
-    <title>A Different World</title>
-    <sub-title>Do You Take This Woman?</sub-title>
-    <desc>As his wedding nears, Dwayne's cold feet are thawed by the hot tempers of the combative future mothers-in-law.</desc>
-    <episode-num system="onscreen">S5 E10</episode-num>
-    <credits>
-      <actor>Jasmine Guy</actor>
-      <actor>Kadeem Hardison</actor>
-      <actor>Dawnn Lewis</actor>
-    </credits><date>1991</date>
-    <category lang="en">Series</category>
-    <category lang="en">Sitcom</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p184628_b_h10_ad.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="Australian Classification Board">
-      <value>PG</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A12</value>
-    </rating><rating system="Kijkwijzer">
-      <value>12</value>
-    </rating>
-  </programme><programme channel="TV-One-US" start="20260518040000 +0500" stop="20260518043000 +0500">
-    <title>A Different World</title>
-    <sub-title>Mammy Dearest</sub-title>
-    <desc>Whitley plans for a display of slave art until Lena (Jada Pinkett) reveals that Gilbert's ancestors owned slaves.</desc>
-    <episode-num system="onscreen">S5 E11</episode-num>
-    <credits>
-      <actor>Jasmine Guy</actor>
-      <actor>Kadeem Hardison</actor>
-      <actor>Dawnn Lewis</actor>
-    </credits><date>1991</date>
-    <category lang="en">Series</category>
-    <category lang="en">Sitcom</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p184628_b_h10_ad.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="Australian Classification Board">
-      <value>PG</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A12</value>
-    </rating><rating system="Kijkwijzer">
-      <value>12</value>
-    </rating>
-  </programme><programme channel="TV-One-US" start="20260518043000 +0500" stop="20260518050000 +0500">
-    <title>A Different World</title>
-    <sub-title>Just Another Four-Letter Word</sub-title>
-    <desc>Ron is forced to move out of his apartment after he spends the rent money pursuing his music career.</desc>
-    <episode-num system="onscreen">S5 E13</episode-num>
-    <credits>
-      <actor>Jasmine Guy</actor>
-      <actor>Kadeem Hardison</actor>
-      <actor>Dawnn Lewis</actor>
-    </credits><date>1992</date>
-    <category lang="en">Series</category>
-    <category lang="en">Sitcom</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p184628_b_h10_ad.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="Australian Classification Board">
-      <value>PG</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A12</value>
-    </rating><rating system="Kijkwijzer">
-      <value>12</value>
-    </rating>
-  </programme><programme channel="TV-One-US" start="20260518050000 +0500" stop="20260518053000 +0500">
-    <title>A Different World</title>
-    <sub-title>The Cat's in the Cradle</sub-title>
-    <desc>Ron and Dwayne's version of a racial clash differs from that of three students from a rival school, landing all the students in jail.</desc>
-    <episode-num system="onscreen">S5 E14</episode-num>
-    <credits>
-      <actor>Jasmine Guy</actor>
-      <actor>Kadeem Hardison</actor>
-      <actor>Dawnn Lewis</actor>
-    </credits><date>1992</date>
-    <category lang="en">Series</category>
-    <category lang="en">Sitcom</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p184628_b_h10_ad.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="Australian Classification Board">
-      <value>PG</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A12</value>
-    </rating><rating system="Kijkwijzer">
-      <value>12</value>
-    </rating>
-  </programme><programme channel="TV-One-US" start="20260518053000 +0500" stop="20260518060000 +0500">
-    <title>A Different World</title>
-    <sub-title>Prisoner of Love</sub-title>
-    <desc>Dwayne and Ron are suspicious of a new student who attracts Whitley.</desc>
-    <episode-num system="onscreen">S5 E15</episode-num>
-    <credits>
-      <actor>Jasmine Guy</actor>
-      <actor>Kadeem Hardison</actor>
-      <actor>Dawnn Lewis</actor>
-    </credits><date>1992</date>
-    <category lang="en">Series</category>
-    <category lang="en">Sitcom</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p184628_b_h10_ad.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="Australian Classification Board">
-      <value>PG</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A12</value>
-    </rating><rating system="Kijkwijzer">
-      <value>12</value>
-    </rating>
-  </programme><programme channel="TV-One-US" start="20260518060000 +0500" stop="20260518063000 +0500">
-    <title>A Different World</title>
-    <sub-title>Bedroom at the Top</sub-title>
-    <desc>Whitley's boss (Tom Wright) puts her in a difficult position; Terrence (Cory Tyler) finally decides on a major.</desc>
-    <episode-num system="onscreen">S5 E16</episode-num>
-    <credits>
-      <actor>Jasmine Guy</actor>
-      <actor>Kadeem Hardison</actor>
-      <actor>Dawnn Lewis</actor>
-    </credits><date>1992</date>
-    <category lang="en">Series</category>
-    <category lang="en">Sitcom</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p184628_b_h10_ad.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="Australian Classification Board">
-      <value>PG</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A12</value>
-    </rating><rating system="Kijkwijzer">
-      <value>12</value>
-    </rating>
-  </programme><programme channel="TV-One-US" start="20260518063000 +0500" stop="20260518070000 +0500">
-    <title>A Different World</title>
-    <sub-title>May the Best Man Win</sub-title>
-    <desc>A Hillman graduate (Joe Morton) asks the group to join his campaign for state senator; the Pit may close.</desc>
-    <episode-num system="onscreen">S5 E17</episode-num>
-    <credits>
-      <actor>Jasmine Guy</actor>
-      <actor>Kadeem Hardison</actor>
-      <actor>Dawnn Lewis</actor>
-    </credits><date>1992</date>
-    <category lang="en">Series</category>
-    <category lang="en">Sitcom</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p184628_b_h10_ad.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="Australian Classification Board">
-      <value>PG</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A12</value>
-    </rating><rating system="Kijkwijzer">
-      <value>12</value>
-    </rating>
-  </programme><programme channel="TV-One-US" start="20260518070000 +0500" stop="20260518073000 +0500">
-    <title>A Different World</title>
-    <sub-title>Kiss You Back</sub-title>
-    <desc>Dwayne is left out as Byron (Joe Morton) romances Whitley; Ron's playboy reputation dooms his dating days.</desc>
-    <episode-num system="onscreen">S5 E18 P1/2</episode-num>
-    <credits>
-      <actor>Jasmine Guy</actor>
-      <actor>Kadeem Hardison</actor>
-      <actor>Dawnn Lewis</actor>
-    </credits><date>1992</date>
-    <category lang="en">Series</category>
-    <category lang="en">Sitcom</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p184628_b_h10_ad.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="Australian Classification Board">
-      <value>PG</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A12</value>
-    </rating><rating system="Kijkwijzer">
-      <value>12</value>
-    </rating>
-  </programme><programme channel="TV-One-US" start="20260518073000 +0500" stop="20260518080000 +0500">
-    <title>A Different World</title>
-    <sub-title>Conflict of Interest</sub-title>
-    <desc>Charmaine (Karen Malina White) and Lance (Allen Payne) visit the campus after she is accepted; Dwayne is caught in Whitley's room.</desc>
-    <episode-num system="onscreen">S5 E19 P2/2</episode-num>
-    <credits>
-      <actor>Jasmine Guy</actor>
-      <actor>Kadeem Hardison</actor>
-      <actor>Dawnn Lewis</actor>
-    </credits><date>1992</date>
-    <category lang="en">Series</category>
-    <category lang="en">Sitcom</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p184628_b_h10_ad.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="Australian Classification Board">
-      <value>PG</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A12</value>
-    </rating><rating system="Kijkwijzer">
-      <value>12</value>
-    </rating>
-  </programme><programme channel="TV-One-US" start="20260518080000 +0500" stop="20260518090000 +0500">
-    <title>Unsung</title>
-    <sub-title>Pete Rock</sub-title>
-    <desc>Pete Rock is the first producer to be honored on "Unsung Presents: The Hitmakers"; the stories behind some of his top productions, including "T.R.O.Y.," with CL Smooth, Run-DMC's "Down with the King," "The World Is Yours" by Nas, and others.</desc>
-    <episode-num system="onscreen">S16 E6</episode-num>
-    <credits>
-      <actor>Gary Anthony Williams</actor>
-    </credits><date>2022</date>
-    <category lang="en">Series</category>
-    <category lang="en">Documentary</category>
-    <category lang="en">Biography</category>
-    <category lang="en">Music</category>
-    <category lang="en">R&amp;B</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p309954_b_h8_aa.jpg?w=960&amp;h=540" />
-    <rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TV14</value>
     </rating>
   </programme>
 </tv>

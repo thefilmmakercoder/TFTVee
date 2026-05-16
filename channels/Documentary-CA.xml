@@ -1,37 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
 <tv>
   <channel id="Documentary-CA">
+    <icon src="https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/Documentary-CA.png" />
+    <url>https://tv.thefilmtuition.com</url>
     <display-name>Documentary</display-name>
-    <icon src="https://thefilmtuition.com/tvlogo/Documentary-CA.png" />
-  </channel><programme channel="Documentary-CA" start="20260516050000 +0500" stop="20260516060000 +0500">
-    <title>Michelle Ross: Unknown Icon</title>
-    <sub-title />
-    <desc>A drag icon's legacy unfolds through her family - and the fierce love of her chosen family.</desc>
-    <date>2026</date>
-    <category lang="en">Documentary</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p32194039_b_h8_aa.jpg?w=960&amp;h=540" />
-    <rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
-  </programme><programme channel="Documentary-CA" start="20260516060000 +0500" stop="20260516080000 +0500">
-    <title>Rising Through the Fray</title>
-    <sub-title />
-    <desc>Indigenous Rising skates to claim their space on the roller derby track as the first borderless team in the sport.</desc>
-    <date>2026</date>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p32856654_b_h8_aa.jpg?w=960&amp;h=540" />
-  </programme><programme channel="Documentary-CA" start="20260516080000 +0500" stop="20260516090000 +0500">
-    <title>Doppelgängers: Face to Face</title>
-    <sub-title />
-    <desc>People meet their lookalikes and find out the resemblance is more than skin deep.</desc>
-    <date>2024</date>
-    <category lang="en">Special</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p26329321_b_h8_aa.jpg?w=960&amp;h=540" />
-  </programme><programme channel="Documentary-CA" start="20260516090000 +0500" stop="20260516110000 +0500">
+  </channel><programme channel="Documentary-CA" start="20260516090000 +0500" stop="20260516110000 +0500">
     <title>Rising Through the Fray</title>
     <sub-title />
     <desc>Indigenous Rising skates to claim their space on the roller derby track as the first borderless team in the sport.</desc>
@@ -651,116 +624,5 @@
     </rating><rating system="Canadian Parental Rating">
       <value>PG</value>
     </rating>
-  </programme><programme channel="Documentary-CA" start="20260518000000 +0500" stop="20260518010000 +0500">
-    <title>The Nature of Things</title>
-    <sub-title>Secret World of Sound: Finding a Voice</sub-title>
-    <desc>Using the latest technology, "Sounds of Nature" brings viewers to a world beyond their own, discovering secrets hidden until now; director: Bridget Appleby.</desc>
-    <episode-num system="onscreen">S63 E9</episode-num>
-    <credits>
-      <director>Bridget Appleby</director>
-      <actor>Sarika Cullis-Suzuki</actor>
-      <actor>Anthony Morgan</actor>
-    </credits><date>2024</date>
-    <category lang="en">Series</category>
-    <category lang="en">Documentary</category>
-    <category lang="en">Science</category>
-    <category lang="en">Nature</category>
-    <category lang="en">Animals</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p185885_b_h8_aq.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>L</value>
-    </rating><rating system="Australian Classification Board">
-      <value>PG</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating>
-  </programme><programme channel="Documentary-CA" start="20260518010000 +0500" stop="20260518020000 +0500">
-    <title>Cirque Life</title>
-    <sub-title>Leaving Montreal</sub-title>
-    <desc>The cast celebrate LUZIA's grand finale in Montréal; Eric stumbles through a meeting at Cirque HQ; Naomi discovers how to keep her creative spark alive; Olivia and Nelson say goodbye.</desc>
-    <episode-num system="onscreen">S1 E5</episode-num>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Entertainment</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p32452806_b_h8_aa.jpg?w=960&amp;h=540" />
-  </programme><programme channel="Documentary-CA" start="20260518020000 +0500" stop="20260518030000 +0500">
-    <title>Arctic Blue with Peter Mansbridge</title>
-    <sub-title />
-    <desc>As Canada's Arctic melts, a new ocean emerges, filled with promise and peril.</desc>
-    <date>2022</date>
-    <category lang="en">Special</category>
-    <category lang="en">Documentary</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p21847794_b_h10_aa.jpg?w=960&amp;h=540" />
-  </programme><programme channel="Documentary-CA" start="20260518030000 +0500" stop="20260518050000 +0500">
-    <title>The Passionate Eye</title>
-    <sub-title>Lilith Fair: Building a Mystery</sub-title>
-    <desc>The untold story of the groundbreaking all-women music festival, started by singer-songwriter Sarah McLachlan in the late 1990s.</desc>
-    <episode-num system="onscreen">E1</episode-num>
-    <date>2025</date>
-    <category lang="en">Series</category>
-    <category lang="en">Documentary</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p301911_b_h10_ad.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating>
-  </programme><programme channel="Documentary-CA" start="20260518050000 +0500" stop="20260518060000 +0500">
-    <title>The Nature of Things</title>
-    <sub-title>Secret World of Sound: Finding a Voice</sub-title>
-    <desc>Using the latest technology, "Sounds of Nature" brings viewers to a world beyond their own, discovering secrets hidden until now; director: Bridget Appleby.</desc>
-    <episode-num system="onscreen">S63 E9</episode-num>
-    <credits>
-      <director>Bridget Appleby</director>
-      <actor>Sarika Cullis-Suzuki</actor>
-      <actor>Anthony Morgan</actor>
-    </credits><date>2024</date>
-    <category lang="en">Series</category>
-    <category lang="en">Documentary</category>
-    <category lang="en">Science</category>
-    <category lang="en">Nature</category>
-    <category lang="en">Animals</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p185885_b_h8_aq.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>L</value>
-    </rating><rating system="Australian Classification Board">
-      <value>PG</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating>
-  </programme><programme channel="Documentary-CA" start="20260518060000 +0500" stop="20260518080000 +0500">
-    <title>Blue Rodeo: Lost Together</title>
-    <sub-title />
-    <desc>An engaging dive into the world of one of Canada's most beloved bands, Blue Rodeo. This documentary blends humour, honesty, and heart to tell the story of their incredible 40-year journey.</desc>
-    <date>2025</date>
-    <category lang="en">Documentary</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p29279068_b_h8_aa.jpg?w=960&amp;h=540" />
-  </programme><programme channel="Documentary-CA" start="20260518080000 +0500" stop="20260518090000 +0500">
-    <title>The Killing of Philip Boudreau</title>
-    <sub-title />
-    <desc>The story of a death that tore apart the Nova Scotia community of Isle Madame, a postcard-perfect collection of Acadian fishing villages off the coast of Cape Breton Island.</desc>
-    <date>2020</date>
-    <category lang="en">Special</category>
-    <category lang="en">Documentary</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p26720547_b_h8_aa.jpg?w=960&amp;h=540" />
   </programme>
 </tv>

@@ -4,21 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-16T23:00:00+05:00",
-      "stop": "2026-05-17T00:00:00+05:00",
-      "title": "Mighty Cruise Ships",
-      "sub_title": "Seven Seas Explorer",
-      "desc": "Seven Seas Explorer's first-ever voyage up the western coast of South America brings luxury and adventure to guests and unexpected challenges to the crew.",
-      "date": "20220710",
-      "language": "en",
-      "categories": [
-        "Series",
-        "Documentary"
-      ],
-      "episode": "S04E01",
-      "icon": "https://images.pluto.tv/series/66a1d2005b669a00135e24df/tile.jpg?fill=blur&fit=fill&fm=jpg&h=900&q=75&w=900"
-    },
-    {
       "start": "2026-05-17T00:00:00+05:00",
       "stop": "2026-05-17T01:00:00+05:00",
       "title": "America's Lost Airship: Weapon of War",
@@ -27,8 +12,8 @@
       "language": "en",
       "categories": [
         "History",
-        "Movie",
-        "Educational"
+        "Educational",
+        "Movie"
       ],
       "icon": "https://images.pluto.tv/episodes/66b15db061ac500014e1aab7/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694"
     },
@@ -80,11 +65,27 @@
       "date": "20181210",
       "language": "en",
       "categories": [
-        "History",
         "Series",
+        "History",
         "Educational"
       ],
       "episode": "S02E04",
+      "icon": "https://images.pluto.tv/series/61243518d343140013d451c0/tile.jpg?fill=blur&fit=fill&fm=jpg&h=900&q=75&w=900"
+    },
+    {
+      "start": "2026-05-17T05:00:00+05:00",
+      "stop": "2026-05-17T06:00:00+05:00",
+      "title": "America in Color",
+      "sub_title": "The Wild West",
+      "desc": "From Buffalo Bill to the construction of the Hoover Dam, this is the story of America's Wild West in color.",
+      "date": "20181119",
+      "language": "en",
+      "categories": [
+        "Series",
+        "History",
+        "Educational"
+      ],
+      "episode": "S02E01",
       "icon": "https://images.pluto.tv/series/61243518d343140013d451c0/tile.jpg?fill=blur&fit=fill&fm=jpg&h=900&q=75&w=900"
     }
   ]

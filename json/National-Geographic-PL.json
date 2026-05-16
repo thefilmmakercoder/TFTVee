@@ -4,19 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-16T23:00:00+05:00",
-      "stop": "2026-05-17T00:00:00+05:00",
-      "title": "Drain the Oceans 6",
-      "sub_title": "Alaska",
-      "desc": "The sea depths hide many secrets.Scientists can unravel further mysteries thanks to groundbreaking research and modern technologies.Viewers can expect exciting expeditions to the underwater world.",
-      "date": "2022",
-      "language": "en",
-      "categories": [
-        "Documentary Series"
-      ],
-      "episode": "S6E4"
-    },
-    {
       "start": "2026-05-17T00:00:00+05:00",
       "stop": "2026-05-17T01:00:00+05:00",
       "title": "Lost Treasures of the Bible: Secrets of Faith",
@@ -27,7 +14,8 @@
       "categories": [
         "Documentary Series"
       ],
-      "episode": "E4"
+      "episode": "E4",
+      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/National-Geographic-PL.png"
     },
     {
       "start": "2026-05-17T01:00:00+05:00",
@@ -40,31 +28,36 @@
       "categories": [
         "Documentary Series"
       ],
-      "episode": "E3"
+      "episode": "E3",
+      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/National-Geographic-PL.png"
     },
     {
       "start": "2026-05-17T02:00:00+05:00",
       "stop": "2026-05-17T03:00:00+05:00",
       "title": "Trafficked: Underworlds with Mariana Van Zeller",
       "sub_title": "Cartel USA",
+      "desc": "National Geographic inspires the explorer in everyone through breathtaking documentaries on science, history, and the natural wonders of our planet.",
       "date": "2025",
       "language": "en",
       "categories": [
         "Documentary Series"
       ],
-      "episode": "S2E9"
+      "episode": "S2E9",
+      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/National-Geographic-PL.png"
     },
     {
       "start": "2026-05-17T03:00:00+05:00",
       "stop": "2026-05-17T04:00:00+05:00",
       "title": "Trafficked: Underworlds with Mariana Van Zeller",
       "sub_title": "City of cheaters",
+      "desc": "National Geographic inspires the explorer in everyone through breathtaking documentaries on science, history, and the natural wonders of our planet.",
       "date": "2025",
       "language": "en",
       "categories": [
         "Documentary Series"
       ],
-      "episode": "S2E8"
+      "episode": "S2E8",
+      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/National-Geographic-PL.png"
     },
     {
       "start": "2026-05-17T04:00:00+05:00",
@@ -76,7 +69,22 @@
       "categories": [
         "Documentary Series"
       ],
-      "episode": "S3E7"
+      "episode": "S3E7",
+      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/National-Geographic-PL.png"
+    },
+    {
+      "start": "2026-05-17T05:00:00+05:00",
+      "stop": "2026-05-17T06:00:00+05:00",
+      "title": "Drain the Oceans 6",
+      "sub_title": "On the trail of dinosaurs",
+      "desc": "The sea depths hide many secrets.Scientists can unravel further mysteries thanks to groundbreaking research and modern technologies.Viewers can expect exciting expeditions to the underwater world.",
+      "date": "2022",
+      "language": "en",
+      "categories": [
+        "Documentary Series"
+      ],
+      "episode": "S6E3",
+      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/National-Geographic-PL.png"
     }
   ]
 }

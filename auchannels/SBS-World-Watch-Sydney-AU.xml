@@ -1,9 +1,160 @@
 <?xml version='1.0' encoding='utf-8'?>
 <tv>
   <channel id="SBS-World-Watch-Sydney-AU">
-    <display-name>SBS World Watch Sydney</display-name>
-    <icon src="https://thefilmtuition.com/tvlogo/SBS-World-Watch-Sydney-AU.png" />
-  </channel><programme channel="SBS-World-Watch-Sydney-AU" start="20260516073000 +0500" stop="20260516080000 +0500">
+    <icon src="https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/SBS-World-Watch-Sydney-AU.png" />
+    <url>https://tv.thefilmtuition.com</url>
+    <display-name>SBS World Watch</display-name>
+  </channel><programme channel="SBS-World-Watch-Sydney-AU" start="20260515191000 +0500" stop="20260515200500 +0500">
+    <title>Indonesian News</title>
+    <sub-title>Saturday 16 May 2026</sub-title>
+    <desc>News via satellite from TVRI Jakarta Indonesia, in Indonesian, no subtitles.</desc>
+    <category lang="en">Sports</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/157746/image/334x188" />
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme><programme channel="SBS-World-Watch-Sydney-AU" start="20260515200500 +0500" stop="20260516000000 +0500">
+    <title>DW English News</title>
+    <sub-title>Overnight</sub-title>
+    <desc>News and analysis of the top international and European news and current affairs from Berlin, in English.</desc>
+    <category lang="en">Sports</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/16790181/image/334x188" />
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme><programme channel="SBS-World-Watch-Sydney-AU" start="20260516000000 +0500" stop="20260516003000 +0500">
+    <title>Thai News</title>
+    <sub-title>Saturday 16 May 2026</sub-title>
+    <desc>News via satellite from Thai Public Broadcasting Service, in Thai, no subtitles.</desc>
+    <category lang="en">Sports</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/335203/image/334x188" />
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme><programme channel="SBS-World-Watch-Sydney-AU" start="20260516003000 +0500" stop="20260516010000 +0500">
+    <title>Bangla News</title>
+    <sub-title>Saturday 16 May 2026</sub-title>
+    <desc>News via satellite from Channel i Bangladesh, in Bangla, no subtitles.</desc>
+    <category lang="en">Sports</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/335199/image/334x188" />
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme><programme channel="SBS-World-Watch-Sydney-AU" start="20260516010000 +0500" stop="20260516013000 +0500">
+    <title>Sri Lankan Sinhala News</title>
+    <sub-title>Saturday 16 May 2026</sub-title>
+    <desc>News from Sri Lanka Rupavahini Corporation Colombo Sri Lanka, in Sinhala, no subtitles.</desc>
+    <category lang="en">Sports</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/413756/image/334x188" />
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme><programme channel="SBS-World-Watch-Sydney-AU" start="20260516013000 +0500" stop="20260516020000 +0500">
+    <title>Indonesian News</title>
+    <sub-title>Saturday 16 May 2026</sub-title>
+    <desc>News via satellite from TVRI Jakarta Indonesia, in Indonesian, no subtitles.</desc>
+    <category lang="en">Sports</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/157746/image/334x188" />
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme><programme channel="SBS-World-Watch-Sydney-AU" start="20260516020000 +0500" stop="20260516023000 +0500">
+    <title>Polish News</title>
+    <sub-title>Saturday 16 May 2026</sub-title>
+    <desc>Wydarzenia from Polsat in Warsaw via satellite, in Polish, no subtitles.</desc>
+    <category lang="en">Sports</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/158479/image/334x188" />
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme><programme channel="SBS-World-Watch-Sydney-AU" start="20260516023000 +0500" stop="20260516031000 +0500">
+    <title>Italian News</title>
+    <sub-title>Saturday 16 May 2026</sub-title>
+    <desc>News via satellite from RAI Rome in Italian, no subtitles.</desc>
+    <category lang="en">Sports</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/158476/image/334x188" />
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme><programme channel="SBS-World-Watch-Sydney-AU" start="20260516031000 +0500" stop="20260516034000 +0500">
+    <title>Filipino News</title>
+    <sub-title>Saturday 16 May 2026</sub-title>
+    <desc>TV Patrol is the flagship national newscast of ABS-CBN and is currently the longest-running Filipino language evening newscast.</desc>
+    <category lang="en">Sports</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/158474/image/334x188" />
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme><programme channel="SBS-World-Watch-Sydney-AU" start="20260516034000 +0500" stop="20260516043000 +0500">
+    <title>French News</title>
+    <sub-title>20h</sub-title>
+    <desc>News via satellite from FT2 Paris, in French, no subtitles.</desc>
+    <category lang="en">Sports</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/164170/image/334x188" />
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme><programme channel="SBS-World-Watch-Sydney-AU" start="20260516043000 +0500" stop="20260516053000 +0500">
+    <title>Greek News ERT</title>
+    <sub-title />
+    <desc>News via file transfer from ERT Athens Greece, in Greek, no subtitles.</desc>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/20590752/image/334x188" />
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme><programme channel="SBS-World-Watch-Sydney-AU" start="20260516053000 +0500" stop="20260516060000 +0500">
+    <title>German News</title>
+    <sub-title>Saturday 16 May 2026</sub-title>
+    <desc>The news of the day from Germany and the World. With reports and interviews from politics, society and culture. Provided by Zweites Deutsches Fernsehen ZDF in Mainz, Germany. In German, no subtitles.</desc>
+    <category lang="en">Sports</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/164171/image/334x188" />
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme><programme channel="SBS-World-Watch-Sydney-AU" start="20260516060000 +0500" stop="20260516063000 +0500">
+    <title>Spanish News</title>
+    <sub-title>Saturday 16 May 2026</sub-title>
+    <desc>News via satellite from RTVE Madrid Spain, in Spanish, no subtitles.</desc>
+    <category lang="en">Sports</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/158480/image/334x188" />
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme><programme channel="SBS-World-Watch-Sydney-AU" start="20260516063000 +0500" stop="20260516070000 +0500">
+    <title>Spanish News France 24</title>
+    <sub-title>Saturday 16 May 2026</sub-title>
+    <desc>International news and current affairs from France24 studios in Bogota, offering a Latin American &amp; French perspective on world events, in Spanish, no subtitles.</desc>
+    <category lang="en">Sports</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/435224/image/334x188" />
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme><programme channel="SBS-World-Watch-Sydney-AU" start="20260516070000 +0500" stop="20260516073000 +0500">
+    <title>Arabic News France 24</title>
+    <sub-title>First Edition</sub-title>
+    <desc>International news and current affairs from France 24 Arabic, via satellite, in Arabic, no subtitles.</desc>
+    <category lang="en">Sports</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/413219/image/334x188" />
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme><programme channel="SBS-World-Watch-Sydney-AU" start="20260516073000 +0500" stop="20260516080000 +0500">
     <title>Dutch News</title>
     <sub-title>Saturday 16 May 2026</sub-title>
     <desc>News via stream and file delivery from BVN-NOS Netherlands, in Dutch, no subtitles.</desc>
@@ -595,177 +746,6 @@
     <category lang="en">News</category>
     <language>en</language>
     <icon src="https://www.fetchtv.com.au/v2/epg/program/310649/image/334x188" />
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme><programme channel="SBS-World-Watch-Sydney-AU" start="20260518000000 +0500" stop="20260518003000 +0500">
-    <title>Thai News</title>
-    <sub-title>Monday 18 May 2026</sub-title>
-    <desc>News via satellite from Thai Public Broadcasting Service, in Thai, no subtitles.</desc>
-    <category lang="en">News</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/335203/image/334x188" />
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme><programme channel="SBS-World-Watch-Sydney-AU" start="20260518003000 +0500" stop="20260518010000 +0500">
-    <title>Bangla News</title>
-    <sub-title>Monday 18 May 2026</sub-title>
-    <desc>News via satellite from Channel i Bangladesh, in Bangla, no subtitles.</desc>
-    <category lang="en">News</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/335199/image/334x188" />
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme><programme channel="SBS-World-Watch-Sydney-AU" start="20260518010000 +0500" stop="20260518013000 +0500">
-    <title>Sri Lankan Sinhala News</title>
-    <sub-title>Monday 18 May 2026</sub-title>
-    <desc>News from Sri Lanka Rupavahini Corporation Colombo Sri Lanka, in Sinhala, no subtitles.</desc>
-    <category lang="en">News</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/413756/image/334x188" />
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme><programme channel="SBS-World-Watch-Sydney-AU" start="20260518013000 +0500" stop="20260518020000 +0500">
-    <title>Indonesian News</title>
-    <sub-title>Monday 18 May 2026</sub-title>
-    <desc>News via satellite from TVRI Jakarta Indonesia, in Indonesian, no subtitles.</desc>
-    <category lang="en">News</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/157746/image/334x188" />
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme><programme channel="SBS-World-Watch-Sydney-AU" start="20260518020000 +0500" stop="20260518023000 +0500">
-    <title>Polish News</title>
-    <sub-title>Monday 18 May 2026</sub-title>
-    <desc>Wydarzenia from Polsat in Warsaw via satellite, in Polish, no subtitles.</desc>
-    <category lang="en">News</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/158479/image/334x188" />
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme><programme channel="SBS-World-Watch-Sydney-AU" start="20260518023000 +0500" stop="20260518031000 +0500">
-    <title>Italian News</title>
-    <sub-title>Monday 18 May 2026</sub-title>
-    <desc>News via satellite from RAI Rome in Italian, no subtitles.</desc>
-    <category lang="en">News</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/158476/image/334x188" />
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme><programme channel="SBS-World-Watch-Sydney-AU" start="20260518031000 +0500" stop="20260518034000 +0500">
-    <title>Filipino News</title>
-    <sub-title>Monday 18 May 2026</sub-title>
-    <desc>TV Patrol is the flagship national newscast of ABS-CBN and is currently the longest-running Filipino language evening newscast.</desc>
-    <category lang="en">News</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/158474/image/334x188" />
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme><programme channel="SBS-World-Watch-Sydney-AU" start="20260518034000 +0500" stop="20260518043000 +0500">
-    <title>French News</title>
-    <sub-title>20h</sub-title>
-    <desc>News via satellite from FT2 Paris, in French, no subtitles.</desc>
-    <category lang="en">News</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/164170/image/334x188" />
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme><programme channel="SBS-World-Watch-Sydney-AU" start="20260518043000 +0500" stop="20260518053000 +0500">
-    <title>Greek News ERT</title>
-    <sub-title />
-    <desc>News via file transfer from ERT Athens Greece, in Greek, no subtitles.</desc>
-    <category lang="en">News</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/20590752/image/334x188" />
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme><programme channel="SBS-World-Watch-Sydney-AU" start="20260518053000 +0500" stop="20260518060000 +0500">
-    <title>German News</title>
-    <sub-title>Monday 18 May 2026</sub-title>
-    <desc>The news of the day from Germany and the World. With reports and interviews from politics, society and culture. Provided by Zweites Deutsches Fernsehen ZDF in Mainz, Germany. In German, no subtitles.</desc>
-    <category lang="en">News</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/164171/image/334x188" />
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme><programme channel="SBS-World-Watch-Sydney-AU" start="20260518060000 +0500" stop="20260518063000 +0500">
-    <title>Spanish News</title>
-    <sub-title>Monday 18 May 2026</sub-title>
-    <desc>News via satellite from RTVE Madrid Spain, in Spanish, no subtitles.</desc>
-    <category lang="en">News</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/158480/image/334x188" />
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme><programme channel="SBS-World-Watch-Sydney-AU" start="20260518063000 +0500" stop="20260518070000 +0500">
-    <title>Spanish News France 24</title>
-    <sub-title>Monday 18 May 2026</sub-title>
-    <desc>International news and current affairs from France24 studios in Bogota, offering a Latin American &amp; French perspective on world events, in Spanish, no subtitles.</desc>
-    <category lang="en">News</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/435224/image/334x188" />
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme><programme channel="SBS-World-Watch-Sydney-AU" start="20260518070000 +0500" stop="20260518073000 +0500">
-    <title>Arabic News France 24</title>
-    <sub-title>First Edition</sub-title>
-    <desc>International news and current affairs from France 24 Arabic, via satellite, in Arabic, no subtitles.</desc>
-    <category lang="en">News</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/413219/image/334x188" />
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme><programme channel="SBS-World-Watch-Sydney-AU" start="20260518073000 +0500" stop="20260518075000 +0500">
-    <title>Dutch News</title>
-    <sub-title>Monday 18 May 2026</sub-title>
-    <desc>News via stream and file delivery from BVN-NOS Netherlands, in Dutch, no subtitles.</desc>
-    <category lang="en">News</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/201459/image/334x188" />
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme><programme channel="SBS-World-Watch-Sydney-AU" start="20260518075000 +0500" stop="20260518080000 +0500">
-    <title>Weatherwatch And SBS Chill</title>
-    <sub-title>May</sub-title>
-    <desc>A continuously updated weather report, bringing you the latest weather conditions from around Australia and a selection of quality music.</desc>
-    <episode-num system="onscreen">E4</episode-num>
-    <category lang="en">News</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/428342/image/334x188" />
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme><programme channel="SBS-World-Watch-Sydney-AU" start="20260518080000 +0500" stop="20260518083000 +0500">
-    <title>Macedonian News</title>
-    <sub-title>Monday 18 May 2026</sub-title>
-    <desc>News via satellite from MRT in Skopje, North Macedonia, in Macedonian, no subtitles.</desc>
-    <category lang="en">News</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/222059/image/334x188" />
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme><programme channel="SBS-World-Watch-Sydney-AU" start="20260518083000 +0500" stop="20260518090000 +0500">
-    <title>Croatian News</title>
-    <sub-title>Monday 18 May 2026</sub-title>
-    <desc>News via satellite from Hrvatska Radiotelevizija (HRT) Croatia, in Croatian, no subtitles.</desc>
-    <category lang="en">News</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/221067/image/334x188" />
     <rating system="AU">
       <value>NR</value>
     </rating>
