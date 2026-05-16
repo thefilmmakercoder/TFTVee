@@ -4,18 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-16T02:30:00+05:00",
-      "stop": "2026-05-16T02:45:00+05:00",
-      "title": "ITV News London",
-      "desc": "The latest news and weather from London and the South East.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/b81da178-94c7-49c9-8b61-a900a8a4d4f4/16-9"
-    },
-    {
       "start": "2026-05-16T02:45:00+05:00",
       "stop": "2026-05-16T05:35:00+05:00",
       "title": "The Dark Knight Rises",
@@ -76,6 +64,18 @@
         "Cooking"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/a23bd3eb-74a5-3755-b5bd-86c5560e2970/16-9"
+    },
+    {
+      "start": "2026-05-16T10:00:00+05:00",
+      "stop": "2026-05-16T11:50:00+05:00",
+      "title": "Mamma Mia!",
+      "desc": "Romantic musical comedy film starring Meryl Streep and Amanda Seyfried, 2008. A spirited bride-to-be invites her mother's old lovers to her wedding to work out who her father is.",
+      "language": "en",
+      "categories": [
+        "Movie",
+        "Musical"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/35e8636e-8d7a-4eb8-a85c-872fdc422eb4/16-9"
     }
   ]
 }

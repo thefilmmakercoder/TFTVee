@@ -4,37 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-16T03:30:00+05:00",
-      "stop": "2026-05-16T04:00:00+05:00",
-      "title": "NBC Nightly News With Tom Llamas",
-      "desc": "Tom Llamas anchors the latest news, going beyond the headlines to see how lives are affected by the world around them.",
-      "date": "2026",
-      "language": "en",
-      "categories": [
-        "Series",
-        "News"
-      ],
-      "episode": "S2 E126",
-      "icon": "http://dtil.tmsimg.com/assets/p30141511_b_h8_aa.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Tom Llamas"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-16T04:00:00+05:00",
-      "stop": "2026-05-16T05:00:00+05:00",
-      "title": "NBC4 News at 4pm",
-      "desc": "The latest local news, weather and investigative stories impacting the community.",
-      "date": "2012",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p9358491_b_h10_ae.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-05-16T05:00:00+05:00",
       "stop": "2026-05-16T06:00:00+05:00",
       "title": "NBC4 News at 5pm",
@@ -88,6 +57,57 @@
         "News"
       ],
       "icon": "http://dtil.tmsimg.com/assets/p18102973_b_h10_ab.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-16T07:30:00+05:00",
+      "stop": "2026-05-16T08:00:00+05:00",
+      "title": "Access Hollywood",
+      "desc": "Interviews with the cast of \"Star Wars: The Mandalorian and Grogu\" at the red-carpet premiere; \"Dutton Ranch\" premiere get-ready with Natalie Alyn Lind; Sports Illustrated swimsuit issue launch event.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Newsmagazine",
+        "Entertainment",
+        "Interview"
+      ],
+      "episode": "S30 E173",
+      "icon": "http://dtil.tmsimg.com/assets/p30926755_b_h8_ab.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Mario Lopez",
+          "Kit Hoover",
+          "Scott Evans"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-16T08:00:00+05:00",
+      "stop": "2026-05-16T08:30:00+05:00",
+      "title": "Happy's Place",
+      "sub_title": "Social Discontent",
+      "desc": "When Steve and Isabella begin shooting marketing content for the tavern, they quickly realize Bobbie has a case of camera madness, causing them to recast her with a local influencer.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Comedy",
+        "Drama"
+      ],
+      "episode": "S2 E12",
+      "icon": "http://dtil.tmsimg.com/assets/p30959008_b_h8_aa.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Victor Gonzalez"
+        ],
+        "actor": [
+          "Reba McEntire",
+          "Belissa Escobedo",
+          "Melissa Peterman"
+        ]
+      }
     }
   ]
 }
