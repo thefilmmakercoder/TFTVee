@@ -4,30 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-16T04:20:00+05:00",
-      "stop": "2026-05-16T04:25:00+05:00",
-      "title": "Weather for the Week Ahead",
-      "desc": "Detailed weather forecast.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/4e8aab6e-18bf-418a-9101-f83b23705d58/16-9"
-    },
-    {
-      "start": "2026-05-16T04:25:00+05:00",
-      "stop": "2026-05-16T10:00:00+05:00",
-      "title": "BBC News",
-      "desc": "BBC One joins the BBC's rolling news channel for a night of news.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/d9d83cd1-cc7a-499c-b5f0-6f0cf503f08e/16-9"
-    },
-    {
       "start": "2026-05-16T10:00:00+05:00",
       "stop": "2026-05-16T14:00:00+05:00",
       "title": "Breakfast",
@@ -74,6 +50,30 @@
         "Football"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/8553a54d-9a13-4cfb-bd35-e834c55155c8/16-9"
+    },
+    {
+      "start": "2026-05-16T17:00:00+05:00",
+      "stop": "2026-05-16T17:10:00+05:00",
+      "title": "BBC News",
+      "desc": "The latest national and international news from the BBC.",
+      "language": "en",
+      "categories": [
+        "News & Documentary",
+        "News"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/51c1313c-022c-4dd9-9300-33f93fa046e4/16-9"
+    },
+    {
+      "start": "2026-05-16T17:10:00+05:00",
+      "stop": "2026-05-16T17:15:00+05:00",
+      "title": "Weather",
+      "desc": "The latest weather forecast.",
+      "language": "en",
+      "categories": [
+        "News & Documentary",
+        "News"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/603c7fd6-36a7-4874-b24c-25ee3b0e8b58/16-9"
     }
   ]
 }
