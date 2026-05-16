@@ -4,34 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-16T15:00:00+05:00",
-      "stop": "2026-05-16T15:30:00+05:00",
-      "title": "The Littlest Hobo",
-      "sub_title": "Applejack",
-      "desc": "Hobo befriends a migrant worker who is being threatened by locals.",
-      "date": "1984",
-      "language": "en",
-      "rating": "TVG",
-      "categories": [
-        "Series",
-        "Drama",
-        "Adventure",
-        "Animals"
-      ],
-      "episode": "S5 E17",
-      "icon": "http://dtil.tmsimg.com/assets/p507740_b_h10_ac.jpg?w=960&h=540",
-      "credits": {
-        "director": [
-          "Allan Eastman"
-        ],
-        "actor": [
-          "Tom Butler",
-          "Beverly Cooper",
-          "David Fox"
-        ]
-      }
-    },
-    {
       "start": "2026-05-16T15:30:00+05:00",
       "stop": "2026-05-16T16:30:00+05:00",
       "title": "MasterChef Canada",
@@ -125,6 +97,23 @@
         "Variety"
       ],
       "icon": "http://dtil.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-16T19:00:00+05:00",
+      "stop": "2026-05-16T19:30:00+05:00",
+      "title": "Cook Like a Chef",
+      "sub_title": "Egg Episode With Chef Katie Ardington",
+      "desc": "Chef Katie Ardington demonstrates techniques for preparing the perfect egg.",
+      "date": "2020",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Series",
+        "Cooking",
+        "How-to"
+      ],
+      "episode": "S6 E11",
+      "icon": "http://dtil.tmsimg.com/assets/p222325_b_h8_ac.jpg?w=960&h=540"
     }
   ]
 }

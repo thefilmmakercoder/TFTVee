@@ -4,30 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-16T15:30:00+05:00",
-      "stop": "2026-05-16T15:45:00+05:00",
-      "title": "Debrief",
-      "desc": "DEBRIEF is a weekly show that delivers the most important news and stories from the week in a concise format.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/ea2ff53b-b38e-4d53-bb4f-7539d54743a7/16-9"
-    },
-    {
-      "start": "2026-05-16T15:45:00+05:00",
-      "stop": "2026-05-16T16:00:00+05:00",
-      "title": "Newsfeed",
-      "desc": "Newsfeed reflects the day's events and opinions, as reported or discussed on social media.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/4f8b1282-1b51-4332-8185-3b588d91af1b/16-9"
-    },
-    {
       "start": "2026-05-16T16:00:00+05:00",
       "stop": "2026-05-16T16:30:00+05:00",
       "title": "News",
@@ -74,6 +50,30 @@
         "News"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/a2200fb2-73f7-4f8e-947c-a365b65359e1/16-9"
+    },
+    {
+      "start": "2026-05-16T18:00:00+05:00",
+      "stop": "2026-05-16T18:30:00+05:00",
+      "title": "News",
+      "desc": "TRT World brings the latest news from around the globe, when it happens.",
+      "language": "en",
+      "categories": [
+        "News & Documentary",
+        "News"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/7347cb83-4d42-4fdc-881b-74b4d1d6303d/16-9"
+    },
+    {
+      "start": "2026-05-16T18:30:00+05:00",
+      "stop": "2026-05-16T19:00:00+05:00",
+      "title": "Money Talks",
+      "desc": "Helping the 99% navigate their financial world. With in-depth reports and analysis, Money Talks makes the news your business.",
+      "language": "en",
+      "categories": [
+        "News & Documentary",
+        "Business"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/67a288a9-a9a4-4eb2-9bd7-e5e8e49fc520/16-9"
     }
   ]
 }

@@ -4,50 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-16T14:30:00+05:00",
-      "stop": "2026-05-16T15:00:00+05:00",
-      "title": "Paid Programming",
-      "desc": "Paid programming.",
-      "language": "en",
-      "rating": "TVG",
-      "categories": [
-        "Consumer",
-        "Shopping",
-        "Variety"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-16T15:00:00+05:00",
-      "stop": "2026-05-16T16:00:00+05:00",
-      "title": "Rust Valley Restorers",
-      "sub_title": "High Octane",
-      "desc": "Mike converts a 1957 GMC truck to run on alcohol for a truck-obsessed teenage girl; Avery goes the extra mile, finishing the Unimog for its hard-to-please owner.",
-      "date": "2021",
-      "language": "en",
-      "rating": "TV14",
-      "categories": [
-        "Series",
-        "Reality",
-        "Auto"
-      ],
-      "episode": "S3 E3",
-      "icon": "http://dtil.tmsimg.com/assets/p19430894_b_h8_ac.jpg?w=960&h=540",
-      "credits": {
-        "director": [
-          "Jereme Watt",
-          "Adam Naugler",
-          "Tyson Hepburn",
-          "Matthew Shewchuk"
-        ],
-        "actor": [
-          "Avery Shoaf",
-          "Mike Hall",
-          "Connor Hall"
-        ]
-      }
-    },
-    {
       "start": "2026-05-16T15:00:00+05:00",
       "stop": "2026-05-16T16:00:00+05:00",
       "title": "Rust Valley Restorers",
@@ -148,6 +104,51 @@
         "actor": [
           "Angelo Viola",
           "Pete Bowman"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-16T17:00:00+05:00",
+      "stop": "2026-05-16T17:30:00+05:00",
+      "title": "Fish'n Canada",
+      "sub_title": "The Pipestone Foursome",
+      "desc": "Showcasing the best fishing spots in Canada.",
+      "date": "2026",
+      "language": "en",
+      "categories": [
+        "Series",
+        "Outdoors",
+        "Fishing"
+      ],
+      "episode": "E4",
+      "icon": "http://dtil.tmsimg.com/assets/p8331888_b_h10_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Angelo Viola",
+          "Pete Bowman"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-16T17:30:00+05:00",
+      "stop": "2026-05-16T18:00:00+05:00",
+      "title": "Disaster DIY",
+      "sub_title": "Kitchen Calamity",
+      "desc": "A woman has been repairing kitchen walls with paper mache.",
+      "date": "2010",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Series",
+        "Reality",
+        "House/garden",
+        "Home improvement",
+        "How-to"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p185798_b_h10_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Bryan Baeumler"
         ]
       }
     }
