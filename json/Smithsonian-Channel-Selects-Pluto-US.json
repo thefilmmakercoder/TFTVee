@@ -4,28 +4,15 @@
   ],
   "programs": [
     {
-      "start": "2026-05-17T01:00:00+05:00",
-      "stop": "2026-05-17T02:00:00+05:00",
-      "title": "B2: Stealth at War",
-      "desc": "Discover some of the secrets of one of the Air Force's most highly classified weapons: the B-2 Stealth Bomber.",
-      "date": "20130917",
-      "language": "en",
-      "categories": [
-        "Documentary",
-        "Movie"
-      ],
-      "icon": "https://images.pluto.tv/episodes/5fa343cde906e1001a03e0b6/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694"
-    },
-    {
       "start": "2026-05-17T02:00:00+05:00",
       "stop": "2026-05-17T03:00:00+05:00",
       "title": "Bird vs. Plane: Miracle on the Hudson",
       "desc": "Revisit the 2009 \"Miracle on the Hudson\" and see what's being done to solve the bird strike problem.",
-      "date": "20190116",
+      "date": "00010101",
       "language": "en",
       "categories": [
-        "Documentary",
-        "Movie"
+        "Movie",
+        "Documentary"
       ],
       "icon": "https://images.pluto.tv/episodes/5fa343cce906e1001a03e08f/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694"
     },
@@ -34,11 +21,11 @@
       "stop": "2026-05-17T04:00:00+05:00",
       "title": "Black Wings",
       "desc": "Meet the men and women who took to the skies during the 20th century, proving to a segregated nation that skin color doesn't determine skill level.",
-      "date": "20120115",
+      "date": "00010101",
       "language": "en",
       "categories": [
-        "Documentary",
-        "Movie"
+        "Movie",
+        "Documentary"
       ],
       "icon": "https://images.pluto.tv/episodes/5fa343cbe906e1001a03e068/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694"
     },
@@ -48,11 +35,11 @@
       "title": "America in Color",
       "sub_title": "Playtime",
       "desc": "Visit Coney Island, Disneyland, the Kentucky Derby, and Notre Dame football, in their infancy and in color.",
-      "date": "20181210",
+      "date": "00010101",
       "language": "en",
       "categories": [
-        "Series",
         "History",
+        "Series",
         "Educational"
       ],
       "episode": "S02E04",
@@ -64,11 +51,11 @@
       "title": "America in Color",
       "sub_title": "The Wild West",
       "desc": "From Buffalo Bill to the construction of the Hoover Dam, this is the story of America's Wild West in color.",
-      "date": "20181119",
+      "date": "00010101",
       "language": "en",
       "categories": [
-        "Series",
         "History",
+        "Series",
         "Educational"
       ],
       "episode": "S02E01",
@@ -83,11 +70,26 @@
       "date": "20170716",
       "language": "en",
       "categories": [
-        "Series",
         "History",
+        "Series",
         "Educational"
       ],
       "episode": "S01E03",
+      "icon": "https://images.pluto.tv/series/61243518d343140013d451c0/tile.jpg?fill=blur&fit=fill&fm=jpg&h=900&q=75&w=900"
+    },
+    {
+      "start": "2026-05-17T07:00:00+05:00",
+      "stop": "2026-05-17T08:00:00+05:00",
+      "title": "America in Color",
+      "sub_title": "Alaska",
+      "desc": "The story of Alaska's evolution, from isolated wilderness to America's 49th state, during the first half of the 20th century.",
+      "date": "20191202",
+      "language": "en",
+      "categories": [
+        "Series",
+        "Documentary"
+      ],
+      "episode": "S03E03",
       "icon": "https://images.pluto.tv/series/61243518d343140013d451c0/tile.jpg?fill=blur&fit=fill&fm=jpg&h=900&q=75&w=900"
     }
   ]
