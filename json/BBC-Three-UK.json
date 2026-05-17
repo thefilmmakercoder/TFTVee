@@ -4,14 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-17T08:00:00+05:00",
-      "stop": "2026-05-17T09:30:00+05:00",
-      "title": "This is BBC Three",
-      "desc": "Programmes start at 7.00pm.",
-      "language": "en",
-      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/BBC-Three-UK.png"
-    },
-    {
       "start": "2026-05-17T09:30:00+05:00",
       "stop": "2026-05-17T15:30:00+05:00",
       "title": "..programmes start at 7.00pm",
@@ -54,6 +46,18 @@
         "Soap"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/9bf56417-3f50-44f8-a165-8478efd7a199/16-9"
+    },
+    {
+      "start": "2026-05-17T23:30:00+05:00",
+      "stop": "2026-05-18T00:00:00+05:00",
+      "title": "EastEnders Omnibus",
+      "desc": "Bea finds herself in hot water, Mark tries to ask for help, and George and Nicola face questions from their family.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Soap"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/0ff2d4d7-27a1-40ac-ae4b-eebeeaa915c3/16-9"
     }
   ]
 }

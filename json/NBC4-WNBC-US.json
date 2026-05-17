@@ -4,18 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-17T14:30:00+05:00",
-      "stop": "2026-05-17T15:00:00+05:00",
-      "title": "Sunday Today in New York",
-      "desc": "Sunday New York news show.",
-      "date": "2014",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p10513239_b_h10_ag.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-05-17T15:00:00+05:00",
       "stop": "2026-05-17T16:00:00+05:00",
       "title": "Sunday Today in New York",
@@ -92,6 +80,31 @@
         "News"
       ],
       "icon": "http://dtil.tmsimg.com/assets/p10513239_b_h10_ag.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-17T19:30:00+05:00",
+      "stop": "2026-05-17T20:30:00+05:00",
+      "title": "Meet the Press",
+      "desc": "Sen. Lindsey Graham (R-S.C.); Sen. Chris Van Hollen (D-Md.); former FBI Director James Comey; roundtable with Lanhee Chen, Adrienne Elrod and Ryan Nobles.",
+      "date": "2026",
+      "language": "en",
+      "categories": [
+        "Series",
+        "Talk",
+        "Interview",
+        "Politics",
+        "News",
+        "Public affairs"
+      ],
+      "episode": "S79 E17",
+      "icon": "http://dtil.tmsimg.com/assets/p184068_b_h8_ad.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Kristen Welker",
+          "Lindsey Graham",
+          "Chris Van Hollen"
+        ]
+      }
     }
   ]
 }

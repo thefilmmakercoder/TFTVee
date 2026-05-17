@@ -4,32 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-17T14:30:00+05:00",
-      "stop": "2026-05-17T15:00:00+05:00",
-      "title": "Paid Programming",
-      "desc": "Paid programming.",
-      "language": "en",
-      "rating": "TVG",
-      "categories": [
-        "Consumer",
-        "Shopping",
-        "Variety"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-17T15:00:00+05:00",
-      "stop": "2026-05-17T15:30:00+05:00",
-      "title": "CTV News Toronto",
-      "desc": "CTV News covers stories that matter to Canadians, locally, nationally and internationally.",
-      "date": "2014",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p11226977_b_h8_ae.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-05-17T15:30:00+05:00",
       "stop": "2026-05-17T16:00:00+05:00",
       "title": "CTV National News With Heather Butts",
@@ -108,6 +82,47 @@
         "Documentary"
       ],
       "icon": "http://dtil.tmsimg.com/assets/p12289951_b_h8_ab.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-17T18:00:00+05:00",
+      "stop": "2026-05-17T18:30:00+05:00",
+      "title": "Comfort Food With Spencer Watts",
+      "sub_title": "Soup, Bowl, Blanket, Couch",
+      "desc": "Spencer cooks a turkey and wild rice blanquette with fluffy bannock, a rich cauliflower korma soup and ends with a sweet dulche deleche mug pudding cake.",
+      "date": "2023",
+      "language": "en",
+      "categories": [
+        "Series",
+        "Cooking"
+      ],
+      "episode": "S1 E4",
+      "icon": "http://dtil.tmsimg.com/assets/p25246424_b_h8_ad.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Spencer Watts"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-17T18:30:00+05:00",
+      "stop": "2026-05-17T19:00:00+05:00",
+      "title": "Mary Makes It Easy",
+      "sub_title": "Livin' on the Veg",
+      "desc": "Celebrating the \"veg life\" with Mary's meatless recipes that are so much more than a bowl of greens.",
+      "date": "2022",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Cooking"
+      ],
+      "episode": "S2 E12",
+      "icon": "http://dtil.tmsimg.com/assets/p20486918_b_h8_ah.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Mary Berg"
+        ]
+      }
     }
   ]
 }

@@ -4,65 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-17T15:02:00+05:00",
-      "stop": "2026-05-17T15:03:00+05:00",
-      "title": "Paid Programming",
-      "desc": "Paid programming.",
-      "language": "en",
-      "rating": "TVG",
-      "categories": [
-        "Consumer",
-        "Shopping",
-        "Variety"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-17T15:03:00+05:00",
-      "stop": "2026-05-17T15:32:00+05:00",
-      "title": "1st Look",
-      "sub_title": "Destination West Maui",
-      "desc": "Tabitha Lipkin visits the stunning beaches and spectacular resorts of West Maui.",
-      "date": "2025",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Series",
-        "Travel"
-      ],
-      "episode": "S16 E10",
-      "icon": "http://dtil.tmsimg.com/assets/p8953716_b_h8_ak.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Johnny \"Bananas\" Devenanzio",
-          "Tabitha Lipkin"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-17T15:32:00+05:00",
-      "stop": "2026-05-17T16:02:00+05:00",
-      "title": "Open House NYC",
-      "sub_title": "Dorinda's Domain",
-      "desc": "TV personality Dorinda Medley's famous estate Bluestone Manor in the Berkshires.",
-      "date": "2024",
-      "language": "en",
-      "rating": "TVG",
-      "categories": [
-        "Series",
-        "House/garden",
-        "Home improvement"
-      ],
-      "episode": "S17 E6",
-      "icon": "http://dtil.tmsimg.com/assets/p841103_b_h8_ac.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Sara Gore",
-          "Dorinda Medley"
-        ]
-      }
-    },
-    {
       "start": "2026-05-17T16:02:00+05:00",
       "stop": "2026-05-17T16:30:00+05:00",
       "title": "Open House NYC",
@@ -108,6 +49,65 @@
         "Variety"
       ],
       "icon": "http://dtil.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-17T17:30:00+05:00",
+      "stop": "2026-05-17T18:00:00+05:00",
+      "title": "Open House",
+      "sub_title": "Higley",
+      "desc": "After a devastating Thanksgiving fire leaves an Egyptian immigrant family with nothing, George steps in to restore not just their house but their home.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "How-to",
+        "House/garden",
+        "Home improvement"
+      ],
+      "episode": "S18 E15",
+      "icon": "http://dtil.tmsimg.com/assets/p31035951_b_h10_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "George Oliphant",
+          "Sara Gore"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-17T18:00:00+05:00",
+      "stop": "2026-05-17T19:00:00+05:00",
+      "title": "Sunday Today With Willie Geist",
+      "desc": "Sharp conversational coverage of the week's news, along with in-depth profiles of the people and personalities shaping American culture, assessing the highs and lows of the week and looking ahead to the next one.",
+      "date": "2026",
+      "language": "en",
+      "categories": [
+        "Series",
+        "Talk",
+        "Newsmagazine",
+        "News",
+        "Politics",
+        "Public affairs"
+      ],
+      "episode": "S10 E31",
+      "icon": "http://dtil.tmsimg.com/assets/p13402709_b_h8_ac.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Willie Geist"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-17T19:00:00+05:00",
+      "stop": "2026-05-17T20:00:00+05:00",
+      "title": "Today in LA Weekend",
+      "desc": "The latest local news, weather and investigative stories impacting the community.",
+      "date": "2006",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p960593_b_h10_af.jpg?w=960&h=540"
     }
   ]
 }

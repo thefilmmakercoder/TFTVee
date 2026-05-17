@@ -4,22 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-17T14:00:00+05:00",
-      "stop": "2026-05-17T15:00:00+05:00",
-      "title": "CNN Newsroom Live",
-      "desc": "The latest news from around the world.",
-      "date": "2026",
-      "language": "en",
-      "categories": [
-        "Series",
-        "News",
-        "Interview",
-        "Politics"
-      ],
-      "episode": "E241",
-      "icon": "http://dtil.tmsimg.com/assets/p11873759_b_h10_aa.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-05-17T15:00:00+05:00",
       "stop": "2026-05-17T16:00:00+05:00",
       "title": "CNN This Morning Weekend",
@@ -126,6 +110,28 @@
       "credits": {
         "actor": [
           "Fareed Zakaria"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-17T20:00:00+05:00",
+      "stop": "2026-05-17T21:00:00+05:00",
+      "title": "Inside Politics With Manu Raju",
+      "desc": "Manu Raju leads an in-depth conversation on the week's most important political storylines, with a diverse set of analysts and news-making interviews.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "News",
+        "Interview",
+        "Politics"
+      ],
+      "episode": "E21",
+      "icon": "http://dtil.tmsimg.com/assets/p25612453_b_h8_ac.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Manu Raju"
         ]
       }
     }
