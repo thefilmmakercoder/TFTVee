@@ -4,31 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-17T14:30:00+05:00",
-      "stop": "2026-05-17T15:00:00+05:00",
-      "title": "Protect Our Children: Advocates and Allies",
-      "desc": "WABC-TV delivers premier local news and community programming for the New York tri-state area, specializing in breaking news coverage, investigative journalism, and high-profile live events.",
-      "date": "2026",
-      "language": "en",
-      "categories": [
-        "Special",
-        "Community"
-      ],
-      "icon": "http://dtil.tmsimg.com/tvbanners/generic/generic_tvbanners_h12.png"
-    },
-    {
-      "start": "2026-05-17T15:00:00+05:00",
-      "stop": "2026-05-17T17:00:00+05:00",
-      "title": "Eyewitness News Sunday Morning",
-      "desc": "News coverage to start the day.",
-      "date": "2017",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p13769020_b_h8_ab.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-05-17T17:00:00+05:00",
       "stop": "2026-05-17T18:00:00+05:00",
       "title": "Good Morning America",
@@ -105,6 +80,37 @@
         "actor": [
           "Bill Ritter",
           "Eyewitness News Anchors"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-17T20:30:00+05:00",
+      "stop": "2026-05-17T21:00:00+05:00",
+      "title": "Tiempo",
+      "desc": "Hosted by Joe Torres.",
+      "date": "2000",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Public affairs"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p958784_b_h10_aa.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-17T21:00:00+05:00",
+      "stop": "2026-05-17T22:00:00+05:00",
+      "title": "Here and Now",
+      "desc": "Features stories that impact the black community; leaders and experts voice their opinions on a variety of topics including politics, the economy, education and health issues.",
+      "date": "2011",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Community"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p8890329_b_h10_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Sandra Bookman"
         ]
       }
     }

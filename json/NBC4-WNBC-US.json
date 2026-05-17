@@ -4,53 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-17T15:00:00+05:00",
-      "stop": "2026-05-17T16:00:00+05:00",
-      "title": "Sunday Today in New York",
-      "desc": "Sunday New York news show.",
-      "date": "2014",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p10513239_b_h10_ag.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-17T16:00:00+05:00",
-      "stop": "2026-05-17T17:00:00+05:00",
-      "title": "Sunday Today in New York",
-      "desc": "Sunday New York news show.",
-      "date": "2014",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p10513239_b_h10_ag.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-17T17:00:00+05:00",
-      "stop": "2026-05-17T18:00:00+05:00",
-      "title": "Sunday Today With Willie Geist",
-      "desc": "Sharp conversational coverage of the week's news, along with in-depth profiles of the people and personalities shaping American culture, assessing the highs and lows of the week and looking ahead to the next one.",
-      "date": "2026",
-      "language": "en",
-      "categories": [
-        "Series",
-        "Talk",
-        "Newsmagazine",
-        "News",
-        "Politics",
-        "Public affairs"
-      ],
-      "episode": "S10 E31",
-      "icon": "http://dtil.tmsimg.com/assets/p13402709_b_h8_ac.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Willie Geist"
-        ]
-      }
-    },
-    {
       "start": "2026-05-17T18:00:00+05:00",
       "stop": "2026-05-17T18:30:00+05:00",
       "title": "Open House NYC",
@@ -105,6 +58,49 @@
           "Chris Van Hollen"
         ]
       }
+    },
+    {
+      "start": "2026-05-17T20:30:00+05:00",
+      "stop": "2026-05-17T21:00:00+05:00",
+      "title": "Joel Osteen",
+      "desc": "Author and evangelist Joel Osteen spreads his message of love and hope as he preaches at the 30,000-plus member Lakewood Church in Houston. The program can be seen in more than 100 countries. Osteen urges people to live at their full potential and form a close relationship with God.",
+      "date": "1999",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Religious"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p29200166_b_h10_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Joel Osteen"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-17T21:00:00+05:00",
+      "stop": "2026-05-17T21:30:00+05:00",
+      "title": "Paid Programming",
+      "desc": "Paid programming.",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Consumer",
+        "Shopping",
+        "Variety"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-17T21:30:00+05:00",
+      "stop": "2026-05-17T22:00:00+05:00",
+      "title": "The Aging Brain",
+      "desc": "Learn what's behind mental decline with age, and how to improve memory, focus and concentration with NeuroQ's Darrin Peterson and Dale Bredesen MD.",
+      "language": "en",
+      "categories": [
+        "Consumer"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p30127108_st_h10_aa.jpg?w=960&h=540"
     }
   ]
 }

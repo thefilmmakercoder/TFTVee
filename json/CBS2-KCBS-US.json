@@ -4,43 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-17T15:30:00+05:00",
-      "stop": "2026-05-17T16:00:00+05:00",
-      "title": "Paid Programming",
-      "desc": "Paid programming.",
-      "language": "en",
-      "rating": "TVG",
-      "categories": [
-        "Consumer",
-        "Shopping",
-        "Variety"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-17T16:00:00+05:00",
-      "stop": "2026-05-17T17:00:00+05:00",
-      "title": "Entertainment Tonight",
-      "desc": "News and features about performers, productions and the milieu.",
-      "date": "2026",
-      "language": "en",
-      "rating": "M 15+",
-      "categories": [
-        "Series",
-        "Newsmagazine",
-        "Entertainment"
-      ],
-      "episode": "S45 E221",
-      "icon": "http://dtil.tmsimg.com/assets/p184256_b_h8_aa.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Kevin Frazier",
-          "Nischelle Turner",
-          "Rachel Smith"
-        ]
-      }
-    },
-    {
       "start": "2026-05-17T17:00:00+05:00",
       "stop": "2026-05-17T18:00:00+05:00",
       "title": "CBS LA Mornings at 5am",
@@ -108,6 +71,31 @@
         "News"
       ],
       "icon": "http://dtil.tmsimg.com/assets/p32046835_st_h10_aa.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-17T21:00:00+05:00",
+      "stop": "2026-05-17T22:00:00+05:00",
+      "title": "PBR Road to the Gold Buckle",
+      "desc": "Rodeo pros try to navigate the path to winning the coveted Gold Buckle.",
+      "date": "2026",
+      "language": "en",
+      "categories": [
+        "Special",
+        "Bull riding"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p32945605_b_h8_aa.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-17T22:00:00+05:00",
+      "stop": "2026-05-18T04:00:00+05:00",
+      "title": "Live: 2026 PGA Championship",
+      "desc": "The PGA Championship concludes with the final round at Aronimink Golf Club in Pennsylvania. The remaining field navigates the 7,394-yard, par-70 layout over the final 18 holes to secure a share of the $19 million tournament prize purse.",
+      "language": "en",
+      "categories": [
+        "Sports",
+        "Golf"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p32512159_b_h10_aa.jpg?w=960&h=540"
     }
   ]
 }
