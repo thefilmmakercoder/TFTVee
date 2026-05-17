@@ -4,33 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-17T22:00:00+05:00",
-      "stop": "2026-05-17T23:00:00+05:00",
-      "title": "Masters of Flip",
-      "sub_title": "Classic Charm",
-      "desc": "Dave works on a master suite addition; Kortney's design will compliment the home's existing charm.",
-      "date": "2016",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Series",
-        "Reality",
-        "House/garden",
-        "Home improvement"
-      ],
-      "episode": "S2 E10",
-      "icon": "http://dtil.tmsimg.com/assets/p11680488_b_h10_at.jpg?w=960&h=540",
-      "credits": {
-        "director": [
-          "James Wilkes"
-        ],
-        "actor": [
-          "Kortney Wilson",
-          "Dave Wilson"
-        ]
-      }
-    },
-    {
       "start": "2026-05-17T23:00:00+05:00",
       "stop": "2026-05-18T00:00:00+05:00",
       "title": "Rust Valley Restorers",
@@ -129,6 +102,26 @@
         "Weather"
       ],
       "icon": "http://dtil.tmsimg.com/assets/p9123094_b_h10_ab.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-18T03:30:00+05:00",
+      "stop": "2026-05-18T04:00:00+05:00",
+      "title": "Global National",
+      "desc": "The top stories from around the world.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Series",
+        "News"
+      ],
+      "episode": "E137",
+      "icon": "http://dtil.tmsimg.com/assets/p185876_b_h8_ae.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Dawna Friesen"
+        ]
+      }
     }
   ]
 }

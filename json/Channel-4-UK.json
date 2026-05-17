@@ -4,18 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-17T22:30:00+05:00",
-      "stop": "2026-05-17T23:00:00+05:00",
-      "title": "Channel 4 News",
-      "desc": "Channel 4's flagship news programme. Including the weather.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/ae6a666e-1232-485a-9b91-f7e95eaa531d/16-9"
-    },
-    {
       "start": "2026-05-17T23:00:00+05:00",
       "stop": "2026-05-18T00:00:00+05:00",
       "title": "The Great Celebrity Bake Off for Stand Up To Cancer",
@@ -77,6 +65,18 @@
         "Action"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/8343ef47-ab8f-4238-8f0e-b780f59060f2/16-9"
+    },
+    {
+      "start": "2026-05-18T05:30:00+05:00",
+      "stop": "2026-05-18T06:25:00+05:00",
+      "title": "Do You Know This Man?",
+      "desc": "Documentary. One woman's social media post sparks an extraordinary fight for justice in the face of horrific sexual abuse and failures by the criminal justice system.",
+      "language": "en",
+      "categories": [
+        "News & Documentary",
+        "Biography"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/113fd661-4ceb-4bf3-8a26-802b3822b064/16-9"
     }
   ]
 }

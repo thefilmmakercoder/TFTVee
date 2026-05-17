@@ -4,18 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-17T22:45:00+05:00",
-      "stop": "2026-05-17T23:00:00+05:00",
-      "title": "ITV News London",
-      "desc": "The latest news and weather from London and the South East.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/3bf603dd-02cd-4873-804b-0da5a1e9e750/16-9"
-    },
-    {
       "start": "2026-05-17T23:00:00+05:00",
       "stop": "2026-05-18T00:00:00+05:00",
       "title": "The Chase Celebrity Special",
@@ -75,6 +63,19 @@
         "Drama"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/f7c9270d-70f1-48e2-95d7-4c4f67afba7c/16-9"
+    },
+    {
+      "start": "2026-05-18T03:20:00+05:00",
+      "stop": "2026-05-18T04:20:00+05:00",
+      "title": "The Family Next Door",
+      "sub_title": "Essie",
+      "desc": "Australian mystery drama. Struggling with the idea that motherhood isn't a joy, Essie finds a new friend in Isabelle while blissfully unaware that she has a hidden agenda.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Drama"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/0fa3b1b0-9cf9-4760-b734-aa741975a7dd/16-9"
     }
   ]
 }

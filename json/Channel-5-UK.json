@@ -4,18 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-17T22:30:00+05:00",
-      "stop": "2026-05-17T22:35:00+05:00",
-      "title": "5 News Weekend",
-      "desc": "National and international news.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/83c678ef-3579-49d6-bd83-98c13570d11f/16-9"
-    },
-    {
       "start": "2026-05-17T22:35:00+05:00",
       "stop": "2026-05-18T00:00:00+05:00",
       "title": "Secrets of the Chocolate Factories",
@@ -76,6 +64,18 @@
         "Feature"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/e2acafca-be32-4d76-94dd-8d0c7461327c/16-9"
+    },
+    {
+      "start": "2026-05-18T05:00:00+05:00",
+      "stop": "2026-05-18T06:00:00+05:00",
+      "title": "Cruise TV with LoveitBookit",
+      "desc": "Your one-stop-shop for all things cruise; bringing you the hottest destinations, ground-breaking ships and the latest deals to ensure your next cruise holiday is your greatest one.",
+      "language": "en",
+      "categories": [
+        "Specialist",
+        "Shopping"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/d58ab50f-26de-45a5-9baf-ca4a1c98bc60/16-9"
     }
   ]
 }

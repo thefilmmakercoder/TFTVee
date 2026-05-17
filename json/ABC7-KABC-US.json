@@ -4,31 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-17T22:00:00+05:00",
-      "stop": "2026-05-17T23:00:00+05:00",
-      "title": "Eyewitness News 10AM",
-      "desc": "KABC-TV delivers comprehensive local news and weather coverage for Southern California, specializing in breaking news, investigative reporting, and live community event broadcasts.",
-      "date": "2023",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p25365332_b_h8_aa.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-17T23:00:00+05:00",
-      "stop": "2026-05-17T23:30:00+05:00",
-      "title": "Lasting Wishes: A Disney and Make-A-Wish Celebration",
-      "desc": "KABC-TV delivers comprehensive local news and weather coverage for Southern California, specializing in breaking news, investigative reporting, and live community event broadcasts.",
-      "date": "2026",
-      "language": "en",
-      "categories": [
-        "Special",
-        "Entertainment"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p32929734_b_h8_aa.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-05-17T23:30:00+05:00",
       "stop": "2026-05-18T00:30:00+05:00",
       "title": "NBA Tip-Off",
@@ -95,6 +70,50 @@
         ],
         "actor": [
           "Alfonso Ribeiro"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-18T04:00:00+05:00",
+      "stop": "2026-05-18T04:30:00+05:00",
+      "title": "Home for Good",
+      "sub_title": "Greg Smith",
+      "desc": "Marine Corps veteran and police officer Greg Smith is thanked with a backyard transformation that will provide a much-needed space to decompress and relax after long workdays.",
+      "date": "2026",
+      "language": "en",
+      "categories": [
+        "Series",
+        "Reality",
+        "Home improvement"
+      ],
+      "episode": "S1 E3",
+      "icon": "http://dtil.tmsimg.com/assets/p32671662_b_h8_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Art Edmonds"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-18T04:30:00+05:00",
+      "stop": "2026-05-18T05:00:00+05:00",
+      "title": "Hearts of Heroes",
+      "sub_title": "Burning Courage",
+      "desc": "When a massive fire engulfs an assisted living facility, more than seventy first responders rush inside, risking their own safety to evacuate hundreds of vulnerable elderly residents before the smoke and flames close in; police officers race against time, using ingenuity and grit to save lives from a burning home.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Series",
+        "Reality",
+        "Nature",
+        "Science"
+      ],
+      "episode": "S7 E25",
+      "icon": "http://dtil.tmsimg.com/assets/p16722748_b_h10_ac.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Ginger Zee"
         ]
       }
     }

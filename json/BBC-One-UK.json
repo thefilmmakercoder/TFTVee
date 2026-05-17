@@ -4,30 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-17T20:20:00+05:00",
-      "stop": "2026-05-17T20:25:00+05:00",
-      "title": "Weather",
-      "desc": "The latest weather forecast.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/dd922d4d-460c-49bd-86d2-19cbfcac8f9a/16-9"
-    },
-    {
-      "start": "2026-05-17T20:25:00+05:00",
-      "stop": "2026-05-17T23:15:00+05:00",
-      "title": "Women's Six Nations: France v England",
-      "desc": "France take on reigning champions England in the final match of the Women's Six Nations.",
-      "language": "en",
-      "categories": [
-        "Sports",
-        "Rugby"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/712274d0-dd77-453c-bb3f-305f7e7fc377/16-9"
-    },
-    {
       "start": "2026-05-17T23:15:00+05:00",
       "stop": "2026-05-18T00:15:00+05:00",
       "title": "Antiques Roadshow",
@@ -74,6 +50,30 @@
         "News"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/ab1972bd-11cf-43a1-887a-41b101a895af/16-9"
+    },
+    {
+      "start": "2026-05-18T02:25:00+05:00",
+      "stop": "2026-05-18T02:30:00+05:00",
+      "title": "BBC London News",
+      "desc": "The latest news, sport and weather from London.",
+      "language": "en",
+      "categories": [
+        "News & Documentary",
+        "News"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/b5c50ab0-2188-49c9-9cc7-e573cee978fc/16-9"
+    },
+    {
+      "start": "2026-05-18T02:30:00+05:00",
+      "stop": "2026-05-18T03:55:00+05:00",
+      "title": "Match of the Day",
+      "desc": "Gabby Logan presents highlights from seven games, including Newcastle v West Ham, on the penultimate weekend of the Premier League season.",
+      "language": "en",
+      "categories": [
+        "Sports",
+        "Football"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/14a6b727-98be-4db3-b2f1-16d33adabb3b/16-9"
     }
   ]
 }
