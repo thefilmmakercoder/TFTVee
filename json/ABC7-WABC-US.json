@@ -4,42 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-17T17:00:00+05:00",
-      "stop": "2026-05-17T18:00:00+05:00",
-      "title": "Good Morning America",
-      "desc": "Early morning news and entertainment program that covers important issues with key figures from around the world and a wide spectrum of topics, including medicine, finance, consumer issues, computer technology, education and gardening.",
-      "date": "2026",
-      "language": "en",
-      "categories": [
-        "Series",
-        "Talk",
-        "News",
-        "Variety",
-        "Public affairs"
-      ],
-      "episode": "E157",
-      "icon": "http://dtil.tmsimg.com/assets/p31385280_b_h10_aa.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Whit Johnson",
-          "Janai Norman",
-          "Gio Benitez"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-17T18:00:00+05:00",
-      "stop": "2026-05-17T19:00:00+05:00",
-      "title": "Eyewitness News Sunday Morning",
-      "desc": "News coverage to start the day.",
-      "date": "2017",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p13769020_b_h8_ab.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-05-17T19:00:00+05:00",
       "stop": "2026-05-17T20:00:00+05:00",
       "title": "This Week With George Stephanopoulos",
@@ -111,6 +75,50 @@
       "credits": {
         "actor": [
           "Sandra Bookman"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-17T22:00:00+05:00",
+      "stop": "2026-05-17T22:30:00+05:00",
+      "title": "Hearts of Heroes",
+      "sub_title": "Burning Courage",
+      "desc": "When a massive fire engulfs an assisted living facility, more than seventy first responders rush inside, risking their own safety to evacuate hundreds of vulnerable elderly residents before the smoke and flames close in; police officers race against time, using ingenuity and grit to save lives from a burning home.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Series",
+        "Reality",
+        "Nature",
+        "Science"
+      ],
+      "episode": "S7 E25",
+      "icon": "http://dtil.tmsimg.com/assets/p16722748_b_h10_ac.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Ginger Zee"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-17T22:30:00+05:00",
+      "stop": "2026-05-17T23:00:00+05:00",
+      "title": "Home for Good",
+      "sub_title": "Greg Smith",
+      "desc": "Marine Corps veteran and police officer Greg Smith is thanked with a backyard transformation that will provide a much-needed space to decompress and relax after long workdays.",
+      "date": "2026",
+      "language": "en",
+      "categories": [
+        "Series",
+        "Reality",
+        "Home improvement"
+      ],
+      "episode": "S1 E3",
+      "icon": "http://dtil.tmsimg.com/assets/p32671662_b_h8_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Art Edmonds"
         ]
       }
     }

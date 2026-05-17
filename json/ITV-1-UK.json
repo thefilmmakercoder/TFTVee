@@ -4,18 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-17T16:55:00+05:00",
-      "stop": "2026-05-17T17:05:00+05:00",
-      "title": "ITV News",
-      "desc": "National and international news with reports and analysis from ITV's Correspondents in the UK and around the world as well as the latest major sports results.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/d21ebf69-9c6f-4141-a99b-fa917853e30b/16-9"
-    },
-    {
       "start": "2026-05-17T17:05:00+05:00",
       "stop": "2026-05-17T19:05:00+05:00",
       "title": "Britain's Got Talent",
@@ -74,6 +62,18 @@
         "News"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/4e8fc7a7-741c-4fe2-b28d-163cd0fd1161/16-9"
+    },
+    {
+      "start": "2026-05-17T22:45:00+05:00",
+      "stop": "2026-05-17T23:00:00+05:00",
+      "title": "ITV News London",
+      "desc": "The latest news and weather from London and the South East.",
+      "language": "en",
+      "categories": [
+        "News & Documentary",
+        "News"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/3bf603dd-02cd-4873-804b-0da5a1e9e750/16-9"
     }
   ]
 }

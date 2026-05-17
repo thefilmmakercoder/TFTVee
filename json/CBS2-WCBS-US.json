@@ -4,18 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-17T17:00:00+05:00",
-      "stop": "2026-05-17T18:00:00+05:00",
-      "title": "CBS News New York Sunday 8am",
-      "desc": "Stay informed with the latest breaking news and headlines.",
-      "date": "2020",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p18809169_b_h8_aa.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-05-17T18:00:00+05:00",
       "stop": "2026-05-17T19:30:00+05:00",
       "title": "CBS News Sunday Morning",
@@ -97,6 +85,28 @@
         "Golf"
       ],
       "icon": "http://dtil.tmsimg.com/assets/p32512159_b_h10_aa.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-18T04:00:00+05:00",
+      "stop": "2026-05-18T05:00:00+05:00",
+      "title": "60 Minutes",
+      "sub_title": "Betting on War; The Knowledge; Christopher Nolan",
+      "desc": "The phenomenon of betting on war and the creation of a whole new category of insider trading; London's black cab industry; director Christopher Nolan.",
+      "date": "2026",
+      "language": "en",
+      "categories": [
+        "Series",
+        "Newsmagazine"
+      ],
+      "episode": "S58 E33",
+      "icon": "http://dtil.tmsimg.com/assets/p31308310_b_h10_ae.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Lesley Stahl",
+          "Scott Pelley",
+          "Anderson Cooper"
+        ]
+      }
     }
   ]
 }

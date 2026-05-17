@@ -4,18 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-17T17:00:00+05:00",
-      "stop": "2026-05-17T18:00:00+05:00",
-      "title": "CBS LA Mornings at 5am",
-      "desc": "Start your day with CBS LA Mornings, covering breaking stories from The Desk, and NEXT Weather and Traffic for Southern California.",
-      "date": "2025",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p31308781_b_h10_aa.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-05-17T18:00:00+05:00",
       "stop": "2026-05-17T19:30:00+05:00",
       "title": "CBS News Sunday Morning",
@@ -96,6 +84,18 @@
         "Golf"
       ],
       "icon": "http://dtil.tmsimg.com/assets/p32512159_b_h10_aa.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-18T04:00:00+05:00",
+      "stop": "2026-05-18T05:00:00+05:00",
+      "title": "Sports Central",
+      "desc": "KCBS delivers a comprehensive news and entertainment experience, specializing in award-winning local journalism, live breaking news coverage for the Los Angeles metropolitan area, and a premier lineup of CBS network dramas, comedies, and sporting events.",
+      "date": "2023",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p26402663_b_h10_ac.jpg?w=960&h=540"
     }
   ]
 }
