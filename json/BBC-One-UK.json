@@ -4,18 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-17T05:35:00+05:00",
-      "stop": "2026-05-17T05:40:00+05:00",
-      "title": "Weather for the Week Ahead",
-      "desc": "Detailed weather forecast.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/fb8a77e7-4867-460a-8566-9a7603d5f0ea/16-9"
-    },
-    {
       "start": "2026-05-17T05:40:00+05:00",
       "stop": "2026-05-17T10:00:00+05:00",
       "title": "BBC News",
@@ -74,6 +62,17 @@
         "Factual"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/f624b0bc-8dce-402c-88bc-1b2764ebf54e/16-9"
+    },
+    {
+      "start": "2026-05-17T14:30:00+05:00",
+      "stop": "2026-05-17T15:55:00+05:00",
+      "title": "Minions",
+      "desc": "Minions Kevin, Stuart and Bob land the job of sidekicks to supervillain Scarlet Overkill.",
+      "language": "en",
+      "categories": [
+        "Movie"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/0439d2bb-af83-4d09-8a2b-830686a3329f/16-9"
     }
   ]
 }

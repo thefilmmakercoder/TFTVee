@@ -4,85 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-17T04:00:00+05:00",
-      "stop": "2026-05-17T05:00:00+05:00",
-      "title": "Eyewitness News 4PM",
-      "desc": "Early evening news.",
-      "date": "2004",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p676966_b_h8_af.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-17T05:00:00+05:00",
-      "stop": "2026-05-17T08:00:00+05:00",
-      "title": "Live: NHL Hockey",
-      "desc": "The Canadiens play the Sabres in Game 6 of their Eastern Conference Second Round. Montreal holds a 3-2 edge after a Game 5 win, highlighted by rookie Ivan Demidov's first playoff goal. Buffalo fights to stave off elimination and force a Game 7.",
-      "language": "en",
-      "categories": [
-        "Sports",
-        "Playoff sports",
-        "Hockey"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/GNLZZGG0033E1KY.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-17T08:00:00+05:00",
-      "stop": "2026-05-17T09:00:00+05:00",
-      "title": "Eyewitness News",
-      "desc": "Stay informed with the latest breaking news and headlines.",
-      "date": "2024",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/tvbanners/generic/generic_tvbanners_h12.png"
-    },
-    {
-      "start": "2026-05-17T09:00:00+05:00",
-      "stop": "2026-05-17T09:30:00+05:00",
-      "title": "Wildlife Nation With Jeff Corwin",
-      "sub_title": "Crocs and Corals",
-      "desc": "Jeff explores the conservation success stories of the American crocodile; how climate change is impacting delicate coral reef ecosystems.",
-      "date": "2021",
-      "language": "en",
-      "categories": [
-        "Series",
-        "Nature",
-        "Animals",
-        "Educational"
-      ],
-      "episode": "E4",
-      "icon": "http://dtil.tmsimg.com/assets/p20524958_b_h8_ad.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Jeff Corwin"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-17T09:30:00+05:00",
-      "stop": "2026-05-17T10:00:00+05:00",
-      "title": "Jeopardy!",
-      "desc": "The Emmy-winning quiz show features a unique answer-and-question format.",
-      "date": "2024",
-      "language": "en",
-      "rating": "TVG",
-      "categories": [
-        "Series",
-        "Game show"
-      ],
-      "episode": "S41 E77",
-      "icon": "http://dtil.tmsimg.com/assets/p28134937_b_h10_aa.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Ken Jennings"
-        ]
-      }
-    },
-    {
       "start": "2026-05-17T10:00:00+05:00",
       "stop": "2026-05-17T10:30:00+05:00",
       "title": "Wheel of Fortune",
@@ -101,6 +22,93 @@
         "actor": [
           "Ryan Seacrest",
           "Vanna White"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-17T10:30:00+05:00",
+      "stop": "2026-05-17T11:00:00+05:00",
+      "title": "Eyewitness News",
+      "desc": "Stay informed with the latest breaking news and headlines.",
+      "date": "2024",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/tvbanners/generic/generic_tvbanners_h12.png"
+    },
+    {
+      "start": "2026-05-17T11:00:00+05:00",
+      "stop": "2026-05-17T11:35:00+05:00",
+      "title": "Eyewitness News 11PM",
+      "desc": "Local, national and international news.",
+      "date": "2004",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p676925_b_h8_af.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-17T11:35:00+05:00",
+      "stop": "2026-05-17T12:00:00+05:00",
+      "title": "Eyewitness News Late Edition",
+      "desc": "Local, national and international news.",
+      "date": "2018",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p15873109_b_h8_ab.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-17T12:00:00+05:00",
+      "stop": "2026-05-17T13:00:00+05:00",
+      "title": "9-1-1",
+      "sub_title": "The New Abnormal",
+      "desc": "When the Hollywood Reservoir dam breaks, Bobby and the 118 race into action to save passengers on a city bus that has crashed into a building several stories in the air; the team adjusts to life as first responders during the pandemic.",
+      "date": "2021",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "Series",
+        "Drama",
+        "Action"
+      ],
+      "episode": "S4 E1",
+      "icon": "http://dtil.tmsimg.com/assets/p14154513_b_h8_bg.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Angela Bassett",
+          "Peter Krause",
+          "Oliver Stark"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-17T13:00:00+05:00",
+      "stop": "2026-05-17T14:00:00+05:00",
+      "title": "The Rookie",
+      "sub_title": "True Crime",
+      "desc": "The team gets the true crime docuseries treatment when it analyzes a recent case featuring a former child actor whose adult life has garnered him a cult following.",
+      "date": "2021",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "Series",
+        "Crime drama",
+        "Action"
+      ],
+      "episode": "S3 E7",
+      "icon": "http://dtil.tmsimg.com/assets/p15523389_b_h8_bc.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Bill Roe"
+        ],
+        "actor": [
+          "Nathan Fillion",
+          "Mekia Cox",
+          "Alyssa Diaz"
         ]
       }
     }

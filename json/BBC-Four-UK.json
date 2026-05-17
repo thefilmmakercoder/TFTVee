@@ -4,42 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-17T05:20:00+05:00",
-      "stop": "2026-05-17T06:10:00+05:00",
-      "title": "Hetty Wainthropp",
-      "desc": "When Hetty represents her neighbour at a creditor's meeting, she is hired to find a man who may have stolen from the neighbour.",
-      "language": "en",
-      "categories": [
-        "Entertainment",
-        "Detective"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/da3fcb6e-cb64-4e41-bf74-2431ee4c8eb4/16-9"
-    },
-    {
-      "start": "2026-05-17T06:10:00+05:00",
-      "stop": "2026-05-17T06:40:00+05:00",
-      "title": "Personal Cinema: Maggie Smith",
-      "desc": "In a programme first broadcast in 1970, Maggie Smith talks to Michael Aspel about her career and chooses scenes from some of her favourite films.",
-      "language": "en",
-      "categories": [
-        "Entertainment",
-        "Arts"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/5eae55ca-d4ba-4611-9950-1d77e4822934/16-9"
-    },
-    {
-      "start": "2026-05-17T06:40:00+05:00",
-      "stop": "2026-05-17T07:40:00+05:00",
-      "title": "Ian Hislop Goes off the Rails",
-      "desc": "Ian Hislop takes a look at the notorious Beeching Report of 1963, which led to the closure of a third of the nation's railway lines and forced thousands of people onto the road.",
-      "language": "en",
-      "categories": [
-        "Entertainment",
-        "Factual"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/103402b4-2bcf-452b-880f-887cb25f2802/16-9"
-    },
-    {
       "start": "2026-05-17T07:40:00+05:00",
       "stop": "2026-05-17T09:30:00+05:00",
       "title": "This is BBC Four",
@@ -62,6 +26,34 @@
       "desc": "BBC Four provides an intelligent mix of arts, science, and history programming, offering deep-dive documentaries and world cinema for a curious audience.",
       "language": "en",
       "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/BBC-Four-UK.png"
+    },
+    {
+      "start": "2026-05-17T21:30:00+05:00",
+      "stop": "2026-05-17T22:58:00+05:00",
+      "title": "..programmes start at 7.00pm",
+      "desc": "BBC Four provides an intelligent mix of arts, science, and history programming, offering deep-dive documentaries and world cinema for a curious audience.",
+      "language": "en",
+      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/BBC-Four-UK.png"
+    },
+    {
+      "start": "2026-05-17T22:58:00+05:00",
+      "stop": "2026-05-17T23:00:00+05:00",
+      "title": "This is BBC Four",
+      "desc": "Programmes start at 7.00pm.",
+      "language": "en",
+      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/BBC-Four-UK.png"
+    },
+    {
+      "start": "2026-05-17T23:00:00+05:00",
+      "stop": "2026-05-17T23:15:00+05:00",
+      "title": "Nature: The Classical Collection",
+      "desc": "The natural world has always been a powerful inspiration to composers, and this programme takes us on an evocative journey through some of the best-loved musical responses.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Arts"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/f1b44288-de08-4543-a1c4-f0d22dba2243/16-9"
     }
   ]
 }

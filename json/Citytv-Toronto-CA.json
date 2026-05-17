@@ -4,41 +4,137 @@
   ],
   "programs": [
     {
-      "start": "2026-05-17T04:30:00+05:00",
-      "stop": "2026-05-17T05:00:00+05:00",
-      "title": "Family Feud",
-      "desc": "Family Feud is an American television game show where two families compete to name the responses to survey questions in order to win cash and prizes.",
-      "date": "2026",
+      "start": "2026-05-17T10:00:00+05:00",
+      "stop": "2026-05-17T10:30:00+05:00",
+      "title": "The Twilight Zone",
+      "sub_title": "The Hunt",
+      "desc": "An old man goes raccoon hunting with his beloved dog, a hunt from which neither return.",
+      "date": "1962",
       "language": "en",
       "rating": "TVPG",
       "categories": [
         "Series",
-        "Game show"
+        "Anthology",
+        "Science fiction",
+        "Fantasy",
+        "Thriller",
+        "Drama"
       ],
-      "episode": "S27 E152",
-      "icon": "http://dtil.tmsimg.com/assets/p8314079_b_h8_ah.jpg?w=960&h=540",
+      "episode": "S3 E19",
+      "icon": "http://dtil.tmsimg.com/assets/p7895479_b_h10_aa.jpg?w=960&h=540",
       "credits": {
+        "director": [
+          "Harold Schuster"
+        ],
         "actor": [
-          "Steve Harvey"
+          "Arthur Hunnicutt",
+          "Jeanette Nolan",
+          "Robert Faulk"
         ]
       }
     },
     {
-      "start": "2026-05-17T05:00:00+05:00",
-      "stop": "2026-05-17T08:00:00+05:00",
-      "title": "Live: NHL Hockey",
-      "desc": "The Canadiens play the Sabres in Game 6 of their Eastern Conference Second Round. Montreal holds a 3-2 edge after a Game 5 win, highlighted by rookie Ivan Demidov's first playoff goal. Buffalo fights to stave off elimination and force a Game 7.",
+      "start": "2026-05-17T10:30:00+05:00",
+      "stop": "2026-05-17T11:00:00+05:00",
+      "title": "The Twilight Zone",
+      "sub_title": "Death's Head Revisited",
+      "desc": "At the Dachau concentration camp, a former Nazi is tried by a phantom jury of his tortured victims.",
+      "date": "1961",
       "language": "en",
+      "rating": "TVPG",
       "categories": [
-        "Sports",
-        "Playoff sports",
-        "Hockey"
+        "Series",
+        "Anthology",
+        "Science fiction",
+        "Fantasy",
+        "Thriller",
+        "Drama"
       ],
-      "icon": "http://dtil.tmsimg.com/assets/GNLZZGG00340T50.jpg?w=960&h=540"
+      "episode": "S3 E9",
+      "icon": "http://dtil.tmsimg.com/assets/p7895479_b_h10_aa.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Don Medford"
+        ],
+        "actor": [
+          "Joseph Schildkraut",
+          "Ben Wright",
+          "Karen Verne"
+        ]
+      }
     },
     {
-      "start": "2026-05-17T08:00:00+05:00",
-      "stop": "2026-05-17T08:30:00+05:00",
+      "start": "2026-05-17T11:00:00+05:00",
+      "stop": "2026-05-17T12:00:00+05:00",
+      "title": "Hudson & Rex",
+      "sub_title": "Lost and Found",
+      "desc": "Charlie gets a break in a long-unsolved kidnapping case that has haunted him, but runs into trouble when the abductee refuses his help.",
+      "date": "2023",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Crime drama"
+      ],
+      "episode": "S5 E17",
+      "icon": "http://dtil.tmsimg.com/assets/p16646888_b_h8_bh.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "John Reardon",
+          "Mayko Nguyen",
+          "Kevin Hanchard"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-17T12:00:00+05:00",
+      "stop": "2026-05-17T13:00:00+05:00",
+      "title": "Hudson & Rex",
+      "sub_title": "The Cook, The Chief, The Cop and His Lover",
+      "desc": "Charlie and Rex sniff out the suspects when the Chief Superintendent of the St. John's Police Department dies at a popular restaurant and all signs point to poison.",
+      "date": "2023",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Crime drama"
+      ],
+      "episode": "S5 E19",
+      "icon": "http://dtil.tmsimg.com/assets/p16646888_b_h8_bh.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "John Reardon",
+          "Mayko Nguyen",
+          "Kevin Hanchard"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-17T13:00:00+05:00",
+      "stop": "2026-05-17T14:00:00+05:00",
+      "title": "Hudson & Rex",
+      "sub_title": "Northern Rexposure",
+      "desc": "When Jesse's sister contacts him for help, Jesse, Sarah and Rex head to Northern Ontario and find themselves in the middle of a deadly situation.",
+      "date": "2023",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Crime drama"
+      ],
+      "episode": "S5 E15",
+      "icon": "http://dtil.tmsimg.com/assets/p16646888_b_h8_bh.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "John Reardon",
+          "Mayko Nguyen",
+          "Kevin Hanchard"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-17T14:00:00+05:00",
+      "stop": "2026-05-17T14:30:00+05:00",
       "title": "CityNews Tonight Toronto",
       "desc": "Coverage of the day's top news stories.",
       "date": "2019",
@@ -47,83 +143,6 @@
         "News"
       ],
       "icon": "http://dtil.tmsimg.com/assets/p16858130_b_h8_aa.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-17T08:30:00+05:00",
-      "stop": "2026-05-17T09:00:00+05:00",
-      "title": "Judy Justice",
-      "sub_title": "Life in a Condemned Warehouse",
-      "desc": "A landlord allegedly didn't upgrade a woman's space in a condemned building.",
-      "date": "2022",
-      "language": "en",
-      "rating": "TV14",
-      "categories": [
-        "Series",
-        "Reality",
-        "Law"
-      ],
-      "episode": "S1 E100",
-      "icon": "http://dtil.tmsimg.com/assets/p20641302_b_h10_af.jpg?w=960&h=540",
-      "credits": {
-        "director": [
-          "Randy Douthit"
-        ],
-        "actor": [
-          "Judy Sheindlin",
-          "Kevin Rasco",
-          "Whitney Kumar"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-17T09:00:00+05:00",
-      "stop": "2026-05-17T09:30:00+05:00",
-      "title": "Storage Wars",
-      "sub_title": "Lego My Locker",
-      "desc": "Darrell has to deal with Kimber's eyes on a competitor; Ivy brings a full truck, hoping for a second haul; Dusty unpacks what could be the ultimate assistant; Rene's hunch serves him well, putting together one of his greatest profits.",
-      "date": "2022",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Series",
-        "Reality",
-        "Auction",
-        "Collectibles"
-      ],
-      "episode": "S14 E6",
-      "icon": "http://dtil.tmsimg.com/assets/p8354064_b_h8_aw.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Darrell Sheets",
-          "Jarrod Schulz",
-          "Brandi Passante"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-17T09:30:00+05:00",
-      "stop": "2026-05-17T10:00:00+05:00",
-      "title": "Storage Wars",
-      "sub_title": "Reign or Shine",
-      "desc": "On an uncharacteristically wet day in Montebello, King Darrell is on a mission to defend his throne; Rene and Casey signal their intentions to undermine his plans; Kenny gets bowled over by his locker; Lisa manages to rope herself something decent.",
-      "date": "2022",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Series",
-        "Reality",
-        "Auction",
-        "Collectibles"
-      ],
-      "episode": "S14 E7",
-      "icon": "http://dtil.tmsimg.com/assets/p8354064_b_h8_aw.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Darrell Sheets",
-          "Jarrod Schulz",
-          "Brandi Passante"
-        ]
-      }
     }
   ]
 }

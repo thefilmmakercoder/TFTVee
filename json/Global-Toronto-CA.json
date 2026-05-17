@@ -4,98 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-17T05:00:00+05:00",
-      "stop": "2026-05-17T06:00:00+05:00",
-      "title": "Private Eyes",
-      "sub_title": "Partners in Crime",
-      "desc": "Shade and Angie go undercover to try to expose a con artist; Angie, Jules and Don give Shade romantic advice.",
-      "date": "2016",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Series",
-        "Drama"
-      ],
-      "episode": "S1 E6",
-      "icon": "http://dtil.tmsimg.com/assets/p12830469_b_h10_as.jpg?w=960&h=540",
-      "credits": {
-        "director": [
-          "Rob Lieberman"
-        ],
-        "actor": [
-          "Jason Priestley",
-          "Cindy Sampson"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-17T06:00:00+05:00",
-      "stop": "2026-05-17T07:00:00+05:00",
-      "title": "Ransom",
-      "sub_title": "Stay of Execution",
-      "desc": "When a death row inmate gets a \"ransom\" letter offering him exonerating evidence for $500,000, the team has 48 hours to verify that the information is real.",
-      "date": "2019",
-      "language": "en",
-      "rating": "TV14",
-      "categories": [
-        "Series",
-        "Crime drama"
-      ],
-      "episode": "S3 E6",
-      "icon": "http://dtil.tmsimg.com/assets/p13562530_b_h8_ai.jpg?w=960&h=540",
-      "credits": {
-        "director": [
-          "Charles Officer"
-        ],
-        "actor": [
-          "Luke Roberts",
-          "Brandon Jay McLaren",
-          "Nazneen Contractor"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-17T07:00:00+05:00",
-      "stop": "2026-05-17T08:00:00+05:00",
-      "title": "Salvage Kings",
-      "sub_title": "The Collector",
-      "desc": "A lifelong collector's sprawling property proves to be uniquely challenging for the salvage team as they race to undercover enough valuable treasures to make their long road trip worthwhile; Ron is under pressure to get a vintage truck working.",
-      "date": "2021",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Series",
-        "Reality",
-        "Collectibles",
-        "Documentary"
-      ],
-      "episode": "S2 E4",
-      "icon": "http://dtil.tmsimg.com/assets/p17306565_b_h8_ah.jpg?w=960&h=540",
-      "credits": {
-        "director": [
-          "Jonathan Dueck"
-        ],
-        "actor": [
-          "Ted Finch",
-          "Justin Fortin",
-          "Ryan Priestly"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-17T08:00:00+05:00",
-      "stop": "2026-05-17T08:29:00+05:00",
-      "title": "Global News at 11",
-      "desc": "Greater Toronto's top local news stories and latest weather forecast.",
-      "date": "2012",
-      "language": "en",
-      "categories": [
-        "News",
-        "Weather"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p9123089_b_h10_ab.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-05-17T08:29:00+05:00",
       "stop": "2026-05-17T10:02:00+05:00",
       "title": "Saturday Night Live",
@@ -147,6 +55,77 @@
           "Dave Wilson"
         ]
       }
+    },
+    {
+      "start": "2026-05-17T11:02:00+05:00",
+      "stop": "2026-05-17T11:32:00+05:00",
+      "title": "Global National",
+      "desc": "The top stories from around the world.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Series",
+        "News"
+      ],
+      "episode": "E136",
+      "icon": "http://dtil.tmsimg.com/assets/p185876_b_h8_ae.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Dawna Friesen"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-17T11:32:00+05:00",
+      "stop": "2026-05-17T12:32:00+05:00",
+      "title": "Entertainment Tonight",
+      "desc": "News and features about performers, productions and the milieu.",
+      "date": "2026",
+      "language": "en",
+      "rating": "M 15+",
+      "categories": [
+        "Series",
+        "Newsmagazine",
+        "Entertainment"
+      ],
+      "episode": "S45 E221",
+      "icon": "http://dtil.tmsimg.com/assets/p184256_b_h8_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Kevin Frazier",
+          "Nischelle Turner",
+          "Rachel Smith"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-17T12:32:00+05:00",
+      "stop": "2026-05-17T13:02:00+05:00",
+      "title": "Paid Programming",
+      "desc": "Paid programming.",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Consumer",
+        "Shopping",
+        "Variety"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-17T13:02:00+05:00",
+      "stop": "2026-05-17T13:32:00+05:00",
+      "title": "Paid Programming",
+      "desc": "Paid programming.",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Consumer",
+        "Shopping",
+        "Variety"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&h=540"
     }
   ]
 }

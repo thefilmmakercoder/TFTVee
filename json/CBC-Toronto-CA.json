@@ -4,55 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-17T04:30:00+05:00",
-      "stop": "2026-05-17T05:00:00+05:00",
-      "title": "Live: Hockey Night in Canada: Hockey Central",
-      "desc": "Breaking news, analysis and debate from around the NHL.",
-      "date": "2021",
-      "language": "en",
-      "categories": [
-        "Hockey"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p19197934_b_h8_ab.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-17T05:00:00+05:00",
-      "stop": "2026-05-17T07:30:00+05:00",
-      "title": "Live: NHL Hockey",
-      "desc": "The Canadiens play the Sabres in Game 6 of their Eastern Conference Second Round. Montreal holds a 3-2 edge after a Game 5 win, highlighted by rookie Ivan Demidov's first playoff goal. Buffalo fights to stave off elimination and force a Game 7.",
-      "language": "en",
-      "categories": [
-        "Sports",
-        "Playoff sports",
-        "Hockey"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/GNLZZGG00340T50.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-17T07:30:00+05:00",
-      "stop": "2026-05-17T09:30:00+05:00",
-      "title": "The Grizzlies",
-      "desc": "Lacrosse transforms the lives of Inuit students when they learn how to play the game.",
-      "date": "2018",
-      "language": "en",
-      "rating": "G",
-      "categories": [
-        "Movie",
-        "Drama"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p15907628_v_h8_ad.jpg?w=960&h=540",
-      "credits": {
-        "director": [
-          "Miranda de Pencier"
-        ],
-        "actor": [
-          "Ben Schnetzer",
-          "Emerald MacDonald",
-          "BooBoo Stewart"
-        ]
-      }
-    },
-    {
       "start": "2026-05-17T09:30:00+05:00",
       "stop": "2026-05-17T10:30:00+05:00",
       "title": "CBC Winnipeg Comedy Festival",
@@ -121,6 +72,68 @@
           "Nimesh Patel",
           "Josie Long",
           "Brandon Ash-Mohammed"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-17T12:00:00+05:00",
+      "stop": "2026-05-17T13:00:00+05:00",
+      "title": "Just for Laughs",
+      "sub_title": "Gala: Leslie Jones",
+      "desc": "Leslie Jones hosts the gala, featuring Debra DiGiovanni, Lenny Marcus, Gina Yashere, Charles Haycock and Kyle Kinane.",
+      "date": "2024",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "Series",
+        "Comedy"
+      ],
+      "episode": "E3",
+      "icon": "http://dtil.tmsimg.com/assets/p27074330_b_h11_aa.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-17T13:00:00+05:00",
+      "stop": "2026-05-17T13:30:00+05:00",
+      "title": "This Hour Has 22 Minutes",
+      "sub_title": "At Glenn Gould Studio",
+      "desc": "Mark Critch, Aba Amuquandoh, Trent McClellan and Stacey McGunnigle are live at Toronto's Glenn Gould Studio.",
+      "date": "2022",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "Series",
+        "Comedy"
+      ],
+      "episode": "S30 E4",
+      "icon": "http://dtil.tmsimg.com/assets/p185762_b_h10_ai.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Mark Critch",
+          "Trent McClellan",
+          "Aba Amuquandoh"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-17T13:30:00+05:00",
+      "stop": "2026-05-17T14:00:00+05:00",
+      "title": "This Hour Has 22 Minutes",
+      "sub_title": "This Special Has 30 Years",
+      "desc": "Looking back and exploring what has made the show a cultural force for over 30 seasons; featuring interviews with cast, creatives and collaborators, including Rick Mercer, Mary Walsh and Peter Mansbridge.",
+      "date": "2022",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "Series",
+        "Comedy"
+      ],
+      "episode": "S30 E5",
+      "icon": "http://dtil.tmsimg.com/assets/p185762_b_h10_ai.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Mark Critch",
+          "Trent McClellan",
+          "Aba Amuquandoh"
         ]
       }
     }
