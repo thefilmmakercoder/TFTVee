@@ -4,51 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-17T18:00:00+05:00",
-      "stop": "2026-05-17T19:30:00+05:00",
-      "title": "CBS News Sunday Morning",
-      "sub_title": "By Design",
-      "desc": "Accessory dwelling units; a history of the Ardrossan Estate; actor Jon Favreau; luxury bag maker Louis Vuitton; earthen architecture made of adobe; chandeliers; the design legacy of Frank Furness; artist Lily Hevesh; touring Longwood Gardens.",
-      "date": "2026",
-      "language": "en",
-      "categories": [
-        "Series",
-        "Talk",
-        "Newsmagazine"
-      ],
-      "episode": "E20",
-      "icon": "http://dtil.tmsimg.com/assets/p185497_b_h8_ac.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Jane Pauley",
-          "Mo Rocca",
-          "Jon Favreau"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-17T19:30:00+05:00",
-      "stop": "2026-05-17T20:30:00+05:00",
-      "title": "Face the Nation",
-      "desc": "Margaret Brennan hosts news interviews with distinguished national and foreign figures, offering insight and analysis on the top issues of the day.",
-      "date": "2026",
-      "language": "en",
-      "categories": [
-        "Series",
-        "Talk",
-        "News",
-        "Public affairs",
-        "Politics"
-      ],
-      "episode": "E20",
-      "icon": "http://dtil.tmsimg.com/assets/p184331_b_h8_ac.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Margaret Brennan"
-        ]
-      }
-    },
-    {
       "start": "2026-05-17T20:30:00+05:00",
       "stop": "2026-05-17T21:00:00+05:00",
       "title": "CBS LA at 8:30am",
@@ -96,6 +51,39 @@
         "News"
       ],
       "icon": "http://dtil.tmsimg.com/assets/p26402663_b_h10_ac.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-18T05:00:00+05:00",
+      "stop": "2026-05-18T05:30:00+05:00",
+      "title": "CBS LA at 5pm",
+      "desc": "Join the CBS LA team for stories from communities around SoCal, breaking news from The Desk, and NEXT Weather from the Weathersphere.",
+      "date": "2025",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p31308569_b_h10_aa.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-18T05:30:00+05:00",
+      "stop": "2026-05-18T06:00:00+05:00",
+      "title": "CBS Evening News",
+      "desc": "Tony Dokoupil shares the day's most important stories, delivering context and depth to bring greater understanding to one's world.",
+      "date": "2026",
+      "language": "en",
+      "categories": [
+        "Series",
+        "News"
+      ],
+      "episode": "E137",
+      "icon": "http://dtil.tmsimg.com/assets/p28807922_b_h8_ae.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Tony Dokoupil",
+          "Maurice DuBois",
+          "Jericka Duncan"
+        ]
+      }
     }
   ]
 }

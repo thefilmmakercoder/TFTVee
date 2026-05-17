@@ -4,18 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-17T19:00:00+05:00",
-      "stop": "2026-05-17T20:00:00+05:00",
-      "title": "Eyewitness News 7AM",
-      "desc": "News coverage to start the day.",
-      "date": "2004",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p677007_b_h8_ae.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-05-17T20:00:00+05:00",
       "stop": "2026-05-17T21:00:00+05:00",
       "title": "This Week With George Stephanopoulos",
@@ -94,6 +82,20 @@
           "Shaquille O'Neal"
         ]
       }
+    },
+    {
+      "start": "2026-05-18T00:30:00+05:00",
+      "stop": "2026-05-18T03:00:00+05:00",
+      "title": "Live: NBA Basketball",
+      "desc": "Professional basketball action from the NBA.",
+      "language": "en",
+      "rating": "A",
+      "categories": [
+        "Sports",
+        "Playoff sports",
+        "Basketball"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p191276_b_h8_ad.jpg?w=960&h=540"
     }
   ]
 }

@@ -4,14 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-17T09:30:00+05:00",
-      "stop": "2026-05-17T15:30:00+05:00",
-      "title": "..programmes start at 7.00pm",
-      "desc": "BBC Three delivers bold and provocative content for younger audiences, featuring groundbreaking documentaries, experimental comedy, and fresh drama.",
-      "language": "en",
-      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/BBC-Three-UK.png"
-    },
-    {
       "start": "2026-05-17T15:30:00+05:00",
       "stop": "2026-05-17T21:30:00+05:00",
       "title": "..programmes start at 7.00pm",
@@ -58,6 +50,18 @@
         "Soap"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/0ff2d4d7-27a1-40ac-ae4b-eebeeaa915c3/16-9"
+    },
+    {
+      "start": "2026-05-18T00:00:00+05:00",
+      "stop": "2026-05-18T00:30:00+05:00",
+      "title": "EastEnders Omnibus",
+      "desc": "Grant makes a situation worse, Bea panics about her actions, and Nicola realises she is out of options.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Soap"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/272309ce-f1b1-4ae2-9c21-f2bcd6ca0695/16-9"
     }
   ]
 }
