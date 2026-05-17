@@ -4,43 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-17T12:00:00+05:00",
-      "stop": "2026-05-17T13:00:00+05:00",
-      "title": "CNN NewsNight With Abby Phillip",
-      "desc": "Abby Phillip leads a roundtable discussion on the day's biggest stories and issues shaping our world.",
-      "date": "2026",
-      "language": "en",
-      "categories": [
-        "Series",
-        "News"
-      ],
-      "episode": "E105",
-      "icon": "http://dtil.tmsimg.com/assets/p25850185_b_h8_ad.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Abby Phillip",
-          "Volodymyr Zelenskyy",
-          "Moby"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-17T13:00:00+05:00",
-      "stop": "2026-05-17T14:00:00+05:00",
-      "title": "CNN Newsroom Live",
-      "desc": "The latest news from around the world.",
-      "date": "2026",
-      "language": "en",
-      "categories": [
-        "Series",
-        "News",
-        "Interview",
-        "Politics"
-      ],
-      "episode": "E240",
-      "icon": "http://dtil.tmsimg.com/assets/p11873759_b_h10_aa.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-05-17T14:00:00+05:00",
       "stop": "2026-05-17T15:00:00+05:00",
       "title": "CNN Newsroom Live",
@@ -117,6 +80,52 @@
       "credits": {
         "actor": [
           "Manu Raju"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-17T18:00:00+05:00",
+      "stop": "2026-05-17T19:00:00+05:00",
+      "title": "State of the Union With Jake Tapper and Dana Bash",
+      "desc": "Jake Tapper and Dana Bash bring together major newsmakers, analysts and experts to tackle pressing domestic issues and diplomacy on the global stage.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "News",
+        "Interview",
+        "Politics"
+      ],
+      "episode": "S4",
+      "icon": "http://dtil.tmsimg.com/assets/p19358336_b_h10_ac.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Jake Tapper",
+          "Dana Bash",
+          "Asa Hutchinson"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-17T19:00:00+05:00",
+      "stop": "2026-05-17T20:00:00+05:00",
+      "title": "Fareed Zakaria GPS",
+      "desc": "Insights, analysis and interviews to world leaders, artists, scientists, business leaders, global affairs analysts and other cultural observers.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "News",
+        "Interview",
+        "Politics"
+      ],
+      "episode": "E21",
+      "icon": "http://dtil.tmsimg.com/assets/p234245_b_h8_ac.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Fareed Zakaria"
         ]
       }
     }
