@@ -4,25 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-17T03:30:00+05:00",
-      "stop": "2026-05-17T04:00:00+05:00",
-      "title": "ABC World News Tonight With David Muir",
-      "desc": "Delivering the news that matters most.",
-      "date": "2026",
-      "language": "en",
-      "categories": [
-        "Series",
-        "News"
-      ],
-      "episode": "E136",
-      "icon": "http://dtil.tmsimg.com/assets/p10880351_b_h8_ah.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "David Muir"
-        ]
-      }
-    },
-    {
       "start": "2026-05-17T04:00:00+05:00",
       "stop": "2026-05-17T05:00:00+05:00",
       "title": "Eyewitness News 4PM",
@@ -98,6 +79,28 @@
       "credits": {
         "actor": [
           "Ken Jennings"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-17T10:00:00+05:00",
+      "stop": "2026-05-17T10:30:00+05:00",
+      "title": "Wheel of Fortune",
+      "sub_title": "Great Escapes",
+      "desc": "In a classic game-show version of \"Hangman,\" contestants solve word puzzles for cash and prizes.",
+      "date": "2024",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Series",
+        "Game show"
+      ],
+      "episode": "S42 E58",
+      "icon": "http://dtil.tmsimg.com/assets/p184057_b_h8_ai.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Ryan Seacrest",
+          "Vanna White"
         ]
       }
     }

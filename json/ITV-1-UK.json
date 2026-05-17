@@ -4,18 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-17T01:00:00+05:00",
-      "stop": "2026-05-17T01:25:00+05:00",
-      "title": "ITV News",
-      "desc": "National and international news with reports and analysis from ITV's Correspondents in the UK and around the world as well as the latest major sports results.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/082b14db-d7bb-41bc-a00a-8399fc42a9fe/16-9"
-    },
-    {
       "start": "2026-05-17T01:25:00+05:00",
       "stop": "2026-05-17T04:30:00+05:00",
       "title": "The Batman",
@@ -76,6 +64,19 @@
         "Lifestyles"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/aa2e011b-1278-45a5-b1bf-5eb70ad22462/16-9"
+    },
+    {
+      "start": "2026-05-17T10:00:00+05:00",
+      "stop": "2026-05-17T11:00:00+05:00",
+      "title": "James Martin's French Adventure",
+      "sub_title": "Marseille",
+      "desc": "James's journey takes him to the bustling Provencal port of Marseille, where he visits its oldest bakery and learns the history and importance of the navette biscuit.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Cooking"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/bc3a5658-187d-41a5-8786-c6295e430470/16-9"
     }
   ]
 }

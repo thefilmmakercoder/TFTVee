@@ -4,42 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-16T22:00:00+05:00",
-      "stop": "2026-05-17T04:00:00+05:00",
-      "title": "Live: 2026 PGA Championship",
-      "desc": "The PGA Championship continues with the third round at Aronimink Golf Club in Pennsylvania. The major tournament returns to the 7,394-yard, par-70 layout for the first time since 1962 as the remaining field competes for a $19 million purse.",
-      "language": "en",
-      "categories": [
-        "Sports",
-        "Golf"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p32512159_b_h10_aa.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-17T04:00:00+05:00",
-      "stop": "2026-05-17T05:00:00+05:00",
-      "title": "Sports Central",
-      "desc": "KCBS delivers a comprehensive news and entertainment experience, specializing in award-winning local journalism, live breaking news coverage for the Los Angeles metropolitan area, and a premier lineup of CBS network dramas, comedies, and sporting events.",
-      "date": "2023",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p26402663_b_h10_ac.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-17T05:00:00+05:00",
-      "stop": "2026-05-17T05:30:00+05:00",
-      "title": "CBS LA at 5pm",
-      "desc": "Join the CBS LA team for stories from communities around SoCal, breaking news from The Desk, and NEXT Weather from the Weathersphere.",
-      "date": "2025",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p31308569_b_h10_aa.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-05-17T05:30:00+05:00",
       "stop": "2026-05-17T06:00:00+05:00",
       "title": "CBS Evening News",
@@ -89,6 +53,80 @@
       "credits": {
         "actor": [
           "Mary Calvi"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-17T07:00:00+05:00",
+      "stop": "2026-05-17T08:00:00+05:00",
+      "title": "Entertainment Tonight",
+      "desc": "News and features about performers, productions and the milieu.",
+      "date": "2026",
+      "language": "en",
+      "rating": "M 15+",
+      "categories": [
+        "Series",
+        "Newsmagazine",
+        "Entertainment"
+      ],
+      "episode": "S45 E221",
+      "icon": "http://dtil.tmsimg.com/assets/p184256_b_h8_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Kevin Frazier",
+          "Nischelle Turner",
+          "Rachel Smith"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-17T08:00:00+05:00",
+      "stop": "2026-05-17T09:00:00+05:00",
+      "title": "CIA",
+      "sub_title": "Orbital",
+      "desc": "When a crashed satellite containing dangerous nuclear material disappears, Bill and Colin work with an undercover Gina to recruit the help of a retired arms dealer to help track it down.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "Series",
+        "Crime drama"
+      ],
+      "episode": "S1 E8",
+      "icon": "http://dtil.tmsimg.com/assets/p30177490_b_h8_ab.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Ken Girotti"
+        ],
+        "actor": [
+          "Tom Ellis",
+          "Nick Gehlfuss",
+          "Necar Zadegan"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-17T09:00:00+05:00",
+      "stop": "2026-05-17T10:00:00+05:00",
+      "title": "48 Hours",
+      "sub_title": "Joe Hunter's Mission",
+      "desc": "\"Survivor\" contestant Joe Hunter says his sister, whose death was officially ruled a suicide, was murdered.",
+      "date": "2025",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "Series",
+        "Newsmagazine",
+        "Crime",
+        "Law"
+      ],
+      "episode": "S39 E10",
+      "icon": "http://dtil.tmsimg.com/assets/p30698125_b_h8_af.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Erin Moriarty",
+          "Peter Van Sant",
+          "Natalie Morales"
         ]
       }
     }
