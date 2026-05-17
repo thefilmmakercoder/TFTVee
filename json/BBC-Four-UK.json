@@ -4,30 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-17T23:15:00+05:00",
-      "stop": "2026-05-18T00:15:00+05:00",
-      "title": "A Wild Year",
-      "desc": "In the north east of England lies a wild and remote moorland. This ancient landscape of heather-clad uplands and sheltered dales is home to red grouse and tough moorland sheep.",
-      "language": "en",
-      "categories": [
-        "Entertainment",
-        "Factual"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/5620d02b-5e88-4c54-b25a-486f9d303cb2/16-9"
-    },
-    {
-      "start": "2026-05-18T00:15:00+05:00",
-      "stop": "2026-05-18T02:15:00+05:00",
-      "title": "Romeo and Juliet with Rudolf Nureyev and Margot Fonteyn",
-      "desc": "Margot Fonteyn and Rudolf Nureyev star in the Royal Ballet's Romeo and Juliet. From 1977.",
-      "language": "en",
-      "categories": [
-        "Entertainment",
-        "Arts"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/4846544a-8bb5-44e0-8d9f-15c63d59866c/16-9"
-    },
-    {
       "start": "2026-05-18T02:15:00+05:00",
       "stop": "2026-05-18T03:15:00+05:00",
       "title": "The Magic of Dance with Margot Fonteyn",
@@ -74,6 +50,26 @@
         "Arts"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/b42ec5d2-0b89-4cd0-a3e0-9fa269e88cbe/16-9"
+    },
+    {
+      "start": "2026-05-18T06:15:00+05:00",
+      "stop": "2026-05-18T07:15:00+05:00",
+      "title": "A Wild Year",
+      "desc": "In the north east of England lies a wild and remote moorland. This ancient landscape of heather-clad uplands and sheltered dales is home to red grouse and tough moorland sheep.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Factual"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/5620d02b-5e88-4c54-b25a-486f9d303cb2/16-9"
+    },
+    {
+      "start": "2026-05-18T07:15:00+05:00",
+      "stop": "2026-05-18T09:30:00+05:00",
+      "title": "This is BBC Four",
+      "desc": "Programmes start at 7.00pm.",
+      "language": "en",
+      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/BBC-Four-UK.png"
     }
   ]
 }

@@ -4,30 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-18T01:00:00+05:00",
-      "stop": "2026-05-18T02:00:00+05:00",
-      "title": "The Cage",
-      "desc": "Matty and Leanne are pulled in different directions, and Gary's money laundering unravels at a tense casino night. Contains strong language.",
-      "language": "en",
-      "categories": [
-        "Entertainment",
-        "Detective"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/1050b33f-9bcf-4844-9217-59f80ea60db0/16-9"
-    },
-    {
-      "start": "2026-05-18T02:00:00+05:00",
-      "stop": "2026-05-18T02:25:00+05:00",
-      "title": "BBC News and Weather",
-      "desc": "The latest national and international news from the BBC.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/ab1972bd-11cf-43a1-887a-41b101a895af/16-9"
-    },
-    {
       "start": "2026-05-18T02:25:00+05:00",
       "stop": "2026-05-18T02:30:00+05:00",
       "title": "BBC London News",
@@ -74,6 +50,30 @@
         "News"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/13f468a5-37f4-45bd-9ee3-c47523c5f828/16-9"
+    },
+    {
+      "start": "2026-05-18T04:20:00+05:00",
+      "stop": "2026-05-18T10:00:00+05:00",
+      "title": "BBC News",
+      "desc": "BBC One joins the BBC's rolling news channel for a night of news.",
+      "language": "en",
+      "categories": [
+        "News & Documentary",
+        "News"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/b60f7bd7-44de-4087-b644-125fa6da04ee/16-9"
+    },
+    {
+      "start": "2026-05-18T10:00:00+05:00",
+      "stop": "2026-05-18T13:30:00+05:00",
+      "title": "Breakfast",
+      "desc": "The latest news, sport, business and weather from the BBC's Breakfast team.",
+      "language": "en",
+      "categories": [
+        "News & Documentary",
+        "News"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/96a4ca50-f9b0-4274-a68f-c4b9edc25cfa/16-9"
     }
   ]
 }

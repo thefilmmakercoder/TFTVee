@@ -4,40 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-18T01:30:00+05:00",
-      "stop": "2026-05-18T02:00:00+05:00",
-      "title": "1st Look",
-      "desc": "Lifestyle trends in food, night life, art, travel and entertainment.",
-      "date": "2008",
-      "language": "en",
-      "rating": "TVG",
-      "categories": [
-        "Talk",
-        "Newsmagazine",
-        "Travel",
-        "Fashion"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p419169_b_h8_az.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-18T02:00:00+05:00",
-      "stop": "2026-05-18T02:30:00+05:00",
-      "title": "George to the Rescue",
-      "desc": "George Oliphant comes to the rescue of families in need of renovating their homes.",
-      "date": "2010",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "House/garden"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p29553512_b_h10_aa.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "George Oliphant"
-        ]
-      }
-    },
-    {
       "start": "2026-05-18T02:30:00+05:00",
       "stop": "2026-05-18T03:00:00+05:00",
       "title": "New York Live",
@@ -91,6 +57,43 @@
         "Basketball"
       ],
       "icon": "http://dtil.tmsimg.com/assets/p30949176_b_h8_ab.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-18T04:30:00+05:00",
+      "stop": "2026-05-18T07:00:00+05:00",
+      "title": "Live: NBA Basketball",
+      "desc": "Professional basketball action from the NBA.",
+      "language": "en",
+      "rating": "A",
+      "categories": [
+        "Sports",
+        "Playoff sports",
+        "Basketball"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p191276_b_h8_ad.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-18T07:00:00+05:00",
+      "stop": "2026-05-18T08:00:00+05:00",
+      "title": "Password",
+      "sub_title": "Nikki & Brie Garcia & Jimmy Fallon",
+      "desc": "Jimmy Fallon and celebrity twins Nikki and Brie Garcia pair up with contestants and face off over two games; players from each team guess secret passwords using only one-word clues for a chance to win up to $25,000.",
+      "date": "2024",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Game show"
+      ],
+      "episode": "S2 E5",
+      "icon": "http://dtil.tmsimg.com/assets/p22032897_b_h8_ae.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Keke Palmer",
+          "Jimmy Fallon",
+          "Nikki Garcia"
+        ]
+      }
     }
   ]
 }

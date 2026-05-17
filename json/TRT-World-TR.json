@@ -4,30 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-18T01:30:00+05:00",
-      "stop": "2026-05-18T02:00:00+05:00",
-      "title": "Roundtable",
-      "desc": "Ideas are changing our world. See them discussed and dissected, every weekday.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/d7514316-a6c7-46c2-8302-7ff8f3464223/16-9"
-    },
-    {
-      "start": "2026-05-18T02:00:00+05:00",
-      "stop": "2026-05-18T02:30:00+05:00",
-      "title": "News",
-      "desc": "TRT World brings the latest news from around the globe, when it happens.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/858d6e28-f454-4529-80c4-5cb00e5b6141/16-9"
-    },
-    {
       "start": "2026-05-18T02:30:00+05:00",
       "stop": "2026-05-18T03:00:00+05:00",
       "title": "The Newsmakers",
@@ -74,6 +50,29 @@
         "News"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/948c37e6-e5cd-46cd-9e42-131beff67e12/16-9"
+    },
+    {
+      "start": "2026-05-18T04:30:00+05:00",
+      "stop": "2026-05-18T04:45:00+05:00",
+      "title": "Scoreline",
+      "desc": "Do you need a fast-paced and punchy show to cover all the weekend's sport action? TRT World's Scoreline is your programme on Saturday and Sundays.",
+      "language": "en",
+      "categories": [
+        "Sports"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/3545d29b-184d-4434-931d-b70c929f601a/16-9"
+    },
+    {
+      "start": "2026-05-18T04:45:00+05:00",
+      "stop": "2026-05-18T05:30:00+05:00",
+      "title": "Newsfeed",
+      "desc": "Newsfeed reflects the day's events and opinions, as reported or discussed on social media.",
+      "language": "en",
+      "categories": [
+        "News & Documentary",
+        "News"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/734d6fc6-e062-47ff-b4bf-5f0c99dea9e7/16-9"
     }
   ]
 }
