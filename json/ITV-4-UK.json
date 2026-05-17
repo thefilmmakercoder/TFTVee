@@ -4,18 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-18T00:00:00+05:00",
-      "stop": "2026-05-18T00:05:00+05:00",
-      "title": "FYI Daily",
-      "desc": "Latest news from the world of entertainment.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "Showbiz"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/a0563b66-dff9-40bf-9e69-fc494b4310f1/16-9"
-    },
-    {
       "start": "2026-05-18T00:05:00+05:00",
       "stop": "2026-05-18T01:40:00+05:00",
       "title": "Nevada Smith",
@@ -74,6 +62,19 @@
         "Drama"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/3271aa2e-326e-446e-b00b-5e9bff1af405/16-9"
+    },
+    {
+      "start": "2026-05-18T04:50:00+05:00",
+      "stop": "2026-05-18T05:50:00+05:00",
+      "title": "Robson and Jim's Fly-Fishing Adventures",
+      "sub_title": "The Tyne",
+      "desc": "Robson and Jim pull out all of the stops looking for bars of silver as they travel from source to sea on Robson's home river of the Tyne.",
+      "language": "en",
+      "categories": [
+        "Sports",
+        "Fishing"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/a39cb2c4-2a57-3695-8b27-ac296921edb4/16-9"
     }
   ]
 }

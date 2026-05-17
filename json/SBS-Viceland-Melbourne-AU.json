@@ -4,45 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-17T21:30:00+05:00",
-      "stop": "2026-05-18T00:00:00+05:00",
-      "title": "NHK World English News",
-      "sub_title": "Monday 18 May 2026",
-      "desc": "English news from Japan's Broadcasting Corporation, NHK, delivering the latest in business, technology, health, environmental and world news.",
-      "language": "en",
-      "rating": "NR",
-      "categories": [
-        "News"
-      ],
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/310652/image/334x188"
-    },
-    {
-      "start": "2026-05-18T00:00:00+05:00",
-      "stop": "2026-05-18T01:00:00+05:00",
-      "title": "Al Jazeera News Hour",
-      "sub_title": "Monday 18 May 2026",
-      "desc": "In-depth global news from Al Jazeera Satellite Network, Doha, Qatar, in English.",
-      "language": "en",
-      "rating": "NR",
-      "categories": [
-        "News"
-      ],
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/264846/image/334x188"
-    },
-    {
-      "start": "2026-05-18T01:00:00+05:00",
-      "stop": "2026-05-18T01:30:00+05:00",
-      "title": "TRT World News",
-      "sub_title": "Monday 18 May 2026",
-      "desc": "The latest news from around the globe from TRT World, Istanbul, Turkiye, in English.",
-      "language": "en",
-      "rating": "NR",
-      "categories": [
-        "News"
-      ],
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/413685/image/334x188"
-    },
-    {
       "start": "2026-05-18T01:30:00+05:00",
       "stop": "2026-05-18T01:50:00+05:00",
       "title": "France 24 Feature",
@@ -80,6 +41,46 @@
       ],
       "episode": "E4012026",
       "icon": "https://www.fetchtv.com.au/v2/epg/program/426449/image/334x188"
+    },
+    {
+      "start": "2026-05-18T02:35:00+05:00",
+      "stop": "2026-05-18T02:50:00+05:00",
+      "title": "France 24 Feature",
+      "sub_title": "Second Edition",
+      "desc": "News feature in English from France 24, Paris.",
+      "language": "en",
+      "rating": "NR",
+      "categories": [
+        "News"
+      ],
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/337182/image/334x188"
+    },
+    {
+      "start": "2026-05-18T02:50:00+05:00",
+      "stop": "2026-05-18T03:10:00+05:00",
+      "title": "Euronews",
+      "sub_title": "Monday 18 May 2026",
+      "desc": "Headlines, Breaking News & Analysis from the Euronews news centre in Brussels, Belgium, in English.",
+      "language": "en",
+      "rating": "NR",
+      "categories": [
+        "News"
+      ],
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/276/image/334x188"
+    },
+    {
+      "start": "2026-05-18T03:10:00+05:00",
+      "stop": "2026-05-18T03:40:00+05:00",
+      "title": "DW English News",
+      "sub_title": "Morning",
+      "desc": "News and analysis of the top international and European news and current affairs from Berlin, in English.",
+      "language": "en",
+      "rating": "NR",
+      "categories": [
+        "News"
+      ],
+      "episode": "E4012026",
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/310648/image/334x188"
     }
   ]
 }

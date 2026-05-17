@@ -4,18 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-18T00:10:00+05:00",
-      "stop": "2026-05-18T00:15:00+05:00",
-      "title": "FYI Daily",
-      "desc": "Latest news from the world of entertainment.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "Showbiz"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/89e5d0df-64ef-4a9d-a73d-0b10d4c2675e/16-9"
-    },
-    {
       "start": "2026-05-18T00:15:00+05:00",
       "stop": "2026-05-18T01:00:00+05:00",
       "title": "Mean Girls",
@@ -77,6 +65,19 @@
         "Comedy"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/f8571d4b-99bb-4f80-9c72-6d7df723de23/16-9"
+    },
+    {
+      "start": "2026-05-18T03:35:00+05:00",
+      "stop": "2026-05-18T04:05:00+05:00",
+      "title": "American Dad!",
+      "sub_title": "Star Trek",
+      "desc": "Steve's book becomes a success, but after hooking up with an agent, he abandons his family to lead a celebrity lifestyle.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Comedy"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/68194d57-347c-4627-b68d-7733addd9d52/16-9"
     }
   ]
 }
