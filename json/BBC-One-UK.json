@@ -4,30 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-17T05:40:00+05:00",
-      "stop": "2026-05-17T10:00:00+05:00",
-      "title": "BBC News",
-      "desc": "BBC One joins the BBC's rolling news channel for a night of news.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/b30ef5a5-98a0-4158-9c0e-800b140fb88e/16-9"
-    },
-    {
-      "start": "2026-05-17T10:00:00+05:00",
-      "stop": "2026-05-17T12:25:00+05:00",
-      "title": "Breakfast",
-      "desc": "The latest news, sport, business and weather from the BBC's Breakfast team.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/40ea13e2-5b13-495d-b31e-3eb5b83a8bd0/16-9"
-    },
-    {
       "start": "2026-05-17T12:25:00+05:00",
       "stop": "2026-05-17T13:00:00+05:00",
       "title": "MOTD: FA Cup Highlights",
@@ -73,6 +49,30 @@
         "Movie"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/0439d2bb-af83-4d09-8a2b-830686a3329f/16-9"
+    },
+    {
+      "start": "2026-05-17T15:55:00+05:00",
+      "stop": "2026-05-17T16:20:00+05:00",
+      "title": "Zog (Film)",
+      "desc": "A family film based on the picture book written by Julia Donaldson and illustrated by Axel Scheffler. The story of a keen young dragon in his first years at Dragon School.",
+      "language": "en",
+      "categories": [
+        "Children",
+        "Drama"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/225a70b0-166a-46ef-b608-bab325d366da/16-9"
+    },
+    {
+      "start": "2026-05-17T16:20:00+05:00",
+      "stop": "2026-05-17T16:30:00+05:00",
+      "title": "Zog",
+      "sub_title": "A Friend for Fergus",
+      "desc": "Zog and the doctors want to find Fergus a friend to cure his loneliness. Boom, Twiggy and Mara all try to be his new pal.",
+      "language": "en",
+      "categories": [
+        "Children"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/6bd40229-1163-4c13-8400-452c186e9dc6/16-9"
     }
   ]
 }

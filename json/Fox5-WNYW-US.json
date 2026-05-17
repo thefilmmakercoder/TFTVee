@@ -4,91 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-17T09:00:00+05:00",
-      "stop": "2026-05-17T10:00:00+05:00",
-      "title": "TMZ",
-      "desc": "TMZ TV tracks down today's hottest stars with their cameras, whether they are hitting the clubs or the dry cleaners.",
-      "date": "2026",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Series",
-        "Newsmagazine",
-        "Entertainment"
-      ],
-      "episode": "S19 E222",
-      "icon": "http://dtil.tmsimg.com/assets/p30985766_b_h10_aa.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Harvey Levin"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-17T10:00:00+05:00",
-      "stop": "2026-05-17T11:00:00+05:00",
-      "title": "Extra",
-      "desc": "Inside the entertainment newsgathering process, as reporters coast-to-coast break headlines, advance the stories of the day and sit down with celebrities.",
-      "date": "2026",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Series",
-        "Newsmagazine",
-        "Entertainment"
-      ],
-      "episode": "S32 E222",
-      "icon": "http://dtil.tmsimg.com/assets/p30948222_b_h8_aa.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Mona Kosar Abdi",
-          "Terri Seymour"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-17T11:00:00+05:00",
-      "stop": "2026-05-17T11:30:00+05:00",
-      "title": "Paid Programming",
-      "desc": "Paid programming.",
-      "language": "en",
-      "rating": "TVG",
-      "categories": [
-        "Consumer",
-        "Shopping",
-        "Variety"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-17T11:30:00+05:00",
-      "stop": "2026-05-17T12:00:00+05:00",
-      "title": "Paid Programming",
-      "desc": "Paid programming.",
-      "language": "en",
-      "rating": "TVG",
-      "categories": [
-        "Consumer",
-        "Shopping",
-        "Variety"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-17T12:00:00+05:00",
-      "stop": "2026-05-17T12:30:00+05:00",
-      "title": "Paid Programming",
-      "desc": "Paid programming.",
-      "language": "en",
-      "rating": "TVG",
-      "categories": [
-        "Consumer",
-        "Shopping",
-        "Variety"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-05-17T12:30:00+05:00",
       "stop": "2026-05-17T13:00:00+05:00",
       "title": "Paid Programming",
@@ -101,6 +16,79 @@
         "Variety"
       ],
       "icon": "http://dtil.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-17T13:00:00+05:00",
+      "stop": "2026-05-17T13:30:00+05:00",
+      "title": "Paid Programming",
+      "desc": "Paid programming.",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Consumer",
+        "Shopping",
+        "Variety"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-17T13:30:00+05:00",
+      "stop": "2026-05-17T14:00:00+05:00",
+      "title": "Paid Programming",
+      "desc": "Paid programming.",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Consumer",
+        "Shopping",
+        "Variety"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-17T14:00:00+05:00",
+      "stop": "2026-05-17T14:30:00+05:00",
+      "title": "Bathroom Makeover",
+      "desc": "Transform your bath affordably in just one day!",
+      "language": "en",
+      "categories": [
+        "Consumer",
+        "Health",
+        "House/garden",
+        "Self improvement"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p30220270_b_h8_aa.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-17T14:30:00+05:00",
+      "stop": "2026-05-17T15:00:00+05:00",
+      "title": "The Sunday Mass",
+      "desc": "Sunday religious service.",
+      "date": "2000",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Religious"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p924409_b_h11_aa.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-17T15:00:00+05:00",
+      "stop": "2026-05-17T15:30:00+05:00",
+      "title": "Joel Osteen",
+      "desc": "Author and evangelist Joel Osteen spreads his message of love and hope as he preaches at the 30,000-plus member Lakewood Church in Houston. The program can be seen in more than 100 countries. Osteen urges people to live at their full potential and form a close relationship with God.",
+      "date": "1999",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Religious"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p29200166_b_h10_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Joel Osteen"
+        ]
+      }
     }
   ]
 }

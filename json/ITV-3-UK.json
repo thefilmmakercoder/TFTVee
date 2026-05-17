@@ -4,44 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-17T06:30:00+05:00",
-      "stop": "2026-05-17T10:00:00+05:00",
-      "title": "Teleshopping",
-      "desc": "Shopping from home.",
-      "language": "en",
-      "categories": [
-        "Specialist",
-        "Shopping"
-      ],
-      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/ITV-3-UK.png"
-    },
-    {
-      "start": "2026-05-17T10:00:00+05:00",
-      "stop": "2026-05-17T10:35:00+05:00",
-      "title": "On the Buses",
-      "sub_title": "The Poster",
-      "desc": "Sitcom about a bus driver and his conductor pal. The company mounts an advertising campaign to attract more passengers.",
-      "language": "en",
-      "categories": [
-        "Entertainment",
-        "Comedy"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/c5aecd18-6f5c-45fd-83ac-9a8fd5051e0d/16-9"
-    },
-    {
-      "start": "2026-05-17T10:35:00+05:00",
-      "stop": "2026-05-17T11:05:00+05:00",
-      "title": "On the Buses",
-      "sub_title": "On the Omnibuses",
-      "desc": "Sitcom about a bus driver and his conductor pal. The company celebrates its centenary.",
-      "language": "en",
-      "categories": [
-        "Entertainment",
-        "Comedy"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/78e20f46-ca5b-4574-8f19-f8ff1099e808/16-9"
-    },
-    {
       "start": "2026-05-17T11:05:00+05:00",
       "stop": "2026-05-17T13:20:00+05:00",
       "title": "Inspector Morse",
@@ -79,6 +41,45 @@
         "Detective"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/eb40dd34-43a0-4f4b-88e7-7e882dcb3974/16-9"
+    },
+    {
+      "start": "2026-05-17T15:20:00+05:00",
+      "stop": "2026-05-17T16:25:00+05:00",
+      "title": "Rosemary and Thyme",
+      "sub_title": "Agua Cadaver",
+      "desc": "Light-hearted drama series. Rosemary and Laura investigate the mysterious death of a resident of a Spanish community that one of Rosemary's former boyfriends lives in.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Detective"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/07776825-5b3a-4f44-a58b-9149956e260d/16-9"
+    },
+    {
+      "start": "2026-05-17T16:25:00+05:00",
+      "stop": "2026-05-17T18:25:00+05:00",
+      "title": "Agatha Christie's Marple",
+      "sub_title": "At Bertram's Hotel",
+      "desc": "Crime thriller. Miss Marple arrives at Bertram's Hotel to find that secrets lurk there - however, things take an even more sinister turn when a maid is murdered.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Detective"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/6481afd6-0d39-43c9-8906-08a288738b6e/16-9"
+    },
+    {
+      "start": "2026-05-17T18:25:00+05:00",
+      "stop": "2026-05-17T20:20:00+05:00",
+      "title": "Midsomer Murders",
+      "sub_title": "The Flying Club",
+      "desc": "When a body drops out of a plane and is discovered in a reservoir, Barnaby and Nelson find the world of stunt pilots and aviation heroes hides many dark secrets.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Detective"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/51bbb4e2-8bb3-496e-8b4c-9376de5fdb0e/16-9"
     }
   ]
 }

@@ -4,89 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-17T10:00:00+05:00",
-      "stop": "2026-05-17T10:30:00+05:00",
-      "title": "The Twilight Zone",
-      "sub_title": "The Hunt",
-      "desc": "An old man goes raccoon hunting with his beloved dog, a hunt from which neither return.",
-      "date": "1962",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Series",
-        "Anthology",
-        "Science fiction",
-        "Fantasy",
-        "Thriller",
-        "Drama"
-      ],
-      "episode": "S3 E19",
-      "icon": "http://dtil.tmsimg.com/assets/p7895479_b_h10_aa.jpg?w=960&h=540",
-      "credits": {
-        "director": [
-          "Harold Schuster"
-        ],
-        "actor": [
-          "Arthur Hunnicutt",
-          "Jeanette Nolan",
-          "Robert Faulk"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-17T10:30:00+05:00",
-      "stop": "2026-05-17T11:00:00+05:00",
-      "title": "The Twilight Zone",
-      "sub_title": "Death's Head Revisited",
-      "desc": "At the Dachau concentration camp, a former Nazi is tried by a phantom jury of his tortured victims.",
-      "date": "1961",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Series",
-        "Anthology",
-        "Science fiction",
-        "Fantasy",
-        "Thriller",
-        "Drama"
-      ],
-      "episode": "S3 E9",
-      "icon": "http://dtil.tmsimg.com/assets/p7895479_b_h10_aa.jpg?w=960&h=540",
-      "credits": {
-        "director": [
-          "Don Medford"
-        ],
-        "actor": [
-          "Joseph Schildkraut",
-          "Ben Wright",
-          "Karen Verne"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-17T11:00:00+05:00",
-      "stop": "2026-05-17T12:00:00+05:00",
-      "title": "Hudson & Rex",
-      "sub_title": "Lost and Found",
-      "desc": "Charlie gets a break in a long-unsolved kidnapping case that has haunted him, but runs into trouble when the abductee refuses his help.",
-      "date": "2023",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Series",
-        "Crime drama"
-      ],
-      "episode": "S5 E17",
-      "icon": "http://dtil.tmsimg.com/assets/p16646888_b_h8_bh.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "John Reardon",
-          "Mayko Nguyen",
-          "Kevin Hanchard"
-        ]
-      }
-    },
-    {
       "start": "2026-05-17T12:00:00+05:00",
       "stop": "2026-05-17T13:00:00+05:00",
       "title": "Hudson & Rex",
@@ -143,6 +60,53 @@
         "News"
       ],
       "icon": "http://dtil.tmsimg.com/assets/p16858130_b_h8_aa.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-17T14:30:00+05:00",
+      "stop": "2026-05-17T15:00:00+05:00",
+      "title": "CityNews Tonight Toronto",
+      "desc": "Coverage of the day's top news stories.",
+      "date": "2019",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p16858130_b_h8_aa.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-17T15:00:00+05:00",
+      "stop": "2026-05-17T15:30:00+05:00",
+      "title": "CityNews Tonight Toronto",
+      "desc": "Coverage of the day's top news stories.",
+      "date": "2019",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p16858130_b_h8_aa.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-17T15:30:00+05:00",
+      "stop": "2026-05-17T16:00:00+05:00",
+      "title": "Fish TV",
+      "sub_title": "Blue Spruce on the Ice",
+      "desc": "Catch the action as Jeff & Jason get a chance to catch some beautiful trout through the ice.",
+      "date": "2025",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Series",
+        "Fishing"
+      ],
+      "episode": "E10",
+      "icon": "http://dtil.tmsimg.com/assets/p687113_b_h8_ae.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Leo Stakos",
+          "Ron James",
+          "Jeff Chisholm"
+        ]
+      }
     }
   ]
 }

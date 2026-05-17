@@ -4,52 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-17T09:00:00+05:00",
-      "stop": "2026-05-17T10:00:00+05:00",
-      "title": "America in Color",
-      "sub_title": "Crimes of the Century",
-      "desc": "A look at Bonnie and Clyde, the Scopes \"monkey\" trial, and other crimes of the early 20th century in America, presented through colorized and remastered footage.",
-      "date": "20191216",
-      "language": "en",
-      "categories": [
-        "Series",
-        "Documentary"
-      ],
-      "episode": "S03E05",
-      "icon": "https://images.pluto.tv/series/61243518d343140013d451c0/tile.jpg?fill=blur&fit=fill&fm=jpg&h=900&q=75&w=900"
-    },
-    {
-      "start": "2026-05-17T10:00:00+05:00",
-      "stop": "2026-05-17T11:00:00+05:00",
-      "title": "America in Color",
-      "sub_title": "Organized Crime",
-      "desc": "From the Black Sox Scandal to the St. Valentine's Day Massacre, follow America's history of organized crime, in color.",
-      "date": "20181203",
-      "language": "en",
-      "categories": [
-        "Series",
-        "History",
-        "Educational"
-      ],
-      "episode": "S02E03",
-      "icon": "https://images.pluto.tv/series/61243518d343140013d451c0/tile.jpg?fill=blur&fit=fill&fm=jpg&h=900&q=75&w=900"
-    },
-    {
-      "start": "2026-05-17T11:00:00+05:00",
-      "stop": "2026-05-17T12:00:00+05:00",
-      "title": "America in Color",
-      "sub_title": "Coming to America",
-      "desc": "A look at the immigrant experience in America during the early 1900s, told through colorized home movies and archival footage.",
-      "date": "20191118",
-      "language": "en",
-      "categories": [
-        "Series",
-        "Documentary"
-      ],
-      "episode": "S03E01",
-      "icon": "https://images.pluto.tv/series/61243518d343140013d451c0/tile.jpg?fill=blur&fit=fill&fm=jpg&h=900&q=75&w=900"
-    },
-    {
       "start": "2026-05-17T12:00:00+05:00",
       "stop": "2026-05-17T13:00:00+05:00",
       "title": "America\u2019s Secret Space Heroes",
@@ -58,9 +12,9 @@
       "date": "20170604",
       "language": "en",
       "categories": [
-        "Series",
         "History",
-        "Educational"
+        "Educational",
+        "Series"
       ],
       "episode": "S01E04",
       "icon": "https://images.pluto.tv/series/61b13bc4303dc2001469a897/tile.jpg?fill=blur&fit=fill&fm=jpg&h=900&q=75&w=900"
@@ -74,9 +28,9 @@
       "date": "20170611",
       "language": "en",
       "categories": [
-        "Series",
         "History",
-        "Educational"
+        "Educational",
+        "Series"
       ],
       "episode": "S01E05",
       "icon": "https://images.pluto.tv/series/61b13bc4303dc2001469a897/tile.jpg?fill=blur&fit=fill&fm=jpg&h=900&q=75&w=900"
@@ -90,12 +44,59 @@
       "date": "20170521",
       "language": "en",
       "categories": [
-        "Series",
         "History",
-        "Educational"
+        "Educational",
+        "Series"
       ],
       "episode": "S01E02",
       "icon": "https://images.pluto.tv/series/61b13bc4303dc2001469a897/tile.jpg?fill=blur&fit=fill&fm=jpg&h=900&q=75&w=900"
+    },
+    {
+      "start": "2026-05-17T15:00:00+05:00",
+      "stop": "2026-05-17T16:00:00+05:00",
+      "title": "America\u2019s Secret Space Heroes",
+      "sub_title": "Viking Mars Mission",
+      "desc": "The inside story of Project Viking and the incredible ingenuity that put the first spacecraft on Mars.",
+      "date": "20170618",
+      "language": "en",
+      "categories": [
+        "History",
+        "Educational",
+        "Series"
+      ],
+      "episode": "S01E06",
+      "icon": "https://images.pluto.tv/series/61b13bc4303dc2001469a897/tile.jpg?fill=blur&fit=fill&fm=jpg&h=900&q=75&w=900"
+    },
+    {
+      "start": "2026-05-17T16:00:00+05:00",
+      "stop": "2026-05-17T17:00:00+05:00",
+      "title": "America\u2019s Secret Space Heroes",
+      "sub_title": "Saturn V",
+      "desc": "Witness the incredible story of the engineers who built the mighty rocket that put man on the moon: the Saturn V.",
+      "date": "20170514",
+      "language": "en",
+      "categories": [
+        "History",
+        "Educational",
+        "Series"
+      ],
+      "episode": "S01E01",
+      "icon": "https://images.pluto.tv/series/61b13bc4303dc2001469a897/tile.jpg?fill=blur&fit=fill&fm=jpg&h=900&q=75&w=900"
+    },
+    {
+      "start": "2026-05-17T17:00:00+05:00",
+      "stop": "2026-05-17T18:00:00+05:00",
+      "title": "Alaska Aircrash Investigations",
+      "sub_title": "Stalled Over the Highway",
+      "desc": "Join the investigation of a Big Lake crash, and the fight against dwindling daylight, lost evidence, and dead-end clues.",
+      "date": "20160417",
+      "language": "en",
+      "categories": [
+        "Series",
+        "Reality"
+      ],
+      "episode": "S01E06",
+      "icon": "https://images.pluto.tv/series/612433b0256bf20015ada072/tile.jpg?fill=blur&fit=fill&fm=jpg&h=900&q=75&w=900"
     }
   ]
 }

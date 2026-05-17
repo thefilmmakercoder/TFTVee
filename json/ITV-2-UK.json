@@ -4,44 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-17T07:00:00+05:00",
-      "stop": "2026-05-17T10:00:00+05:00",
-      "title": "Teleshopping",
-      "desc": "Shopping from home.",
-      "language": "en",
-      "categories": [
-        "Specialist",
-        "Shopping"
-      ],
-      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/ITV-2-UK.png"
-    },
-    {
-      "start": "2026-05-17T10:00:00+05:00",
-      "stop": "2026-05-17T10:55:00+05:00",
-      "title": "Project Bakeover",
-      "sub_title": "Squabbles and Spice",
-      "desc": "Canadian reality series. Steve and Tiffany visit the Wannamaker's family bakery, which is nearing collapse with bills piling up and no business leadership.",
-      "language": "en",
-      "categories": [
-        "Entertainment",
-        "Cooking"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/652cdd60-9f28-3e66-b09f-94975df2a563/16-9"
-    },
-    {
-      "start": "2026-05-17T10:55:00+05:00",
-      "stop": "2026-05-17T11:25:00+05:00",
-      "title": "Backyard Builds",
-      "sub_title": "Lynna",
-      "desc": "Greenhouse Bliss: Home improvement programme. Brian and Sarah deliver a beautiful greenhouse for a single mother who wants to have the back garden of her dreams.",
-      "language": "en",
-      "categories": [
-        "Entertainment",
-        "Home"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/3179e331-f812-441e-9afe-6bd52db27675/16-9"
-    },
-    {
       "start": "2026-05-17T11:25:00+05:00",
       "stop": "2026-05-17T12:25:00+05:00",
       "title": "The Real Housewives of Cheshire",
@@ -77,6 +39,42 @@
         "Lifestyles"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/f017fdc6-807b-47dd-953d-ab3f3e3666de/16-9"
+    },
+    {
+      "start": "2026-05-17T14:30:00+05:00",
+      "stop": "2026-05-17T16:40:00+05:00",
+      "title": "Britain's Got Talent",
+      "desc": "Britain's Got Talent goes live on Saturday nights for the Semi-Finals as the acts who impressed the judges during auditions must now compete for a place in the grand finale.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Game Show"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/dff9ad1b-4f74-49dc-92ca-812432a46255/16-9"
+    },
+    {
+      "start": "2026-05-17T16:40:00+05:00",
+      "stop": "2026-05-17T17:45:00+05:00",
+      "title": "Wheel of Fortune",
+      "desc": "Graham Norton invites civil servant Becca, programme insights lead Kurt, and police analyst Soraya to spin the wheel and avoid bankrupts to win a possible 50,000 pounds.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Game Show"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/9cb4df52-1913-339a-97d3-4f4c90ad7004/16-9"
+    },
+    {
+      "start": "2026-05-17T17:45:00+05:00",
+      "stop": "2026-05-17T18:50:00+05:00",
+      "title": "Celebrity Catchphrase",
+      "desc": "Stephen Mulhern hosts a celebrity special of the classic game show with Mark Charnock, Kerry Godliman, and Janet Street-Porter all trying to 'say what they see' in aid of charity.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Game Show"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/38761390-37e9-4e1f-918d-e9d26fbf43cb/16-9"
     }
   ]
 }
