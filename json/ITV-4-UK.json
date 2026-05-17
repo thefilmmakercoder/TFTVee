@@ -4,18 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-18T02:40:00+05:00",
-      "stop": "2026-05-18T02:45:00+05:00",
-      "title": "FYI Daily",
-      "desc": "Latest news from the world of entertainment.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "Showbiz"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/ea24c4ff-9f94-470d-b18e-f2d4cb2fc79a/16-9"
-    },
-    {
       "start": "2026-05-18T02:45:00+05:00",
       "stop": "2026-05-18T04:00:00+05:00",
       "title": "Hang 'Em High",
@@ -76,6 +64,18 @@
         "Lifestyles"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/cc7f0639-f284-48d5-acd8-a876a78034ae/16-9"
+    },
+    {
+      "start": "2026-05-18T07:00:00+05:00",
+      "stop": "2026-05-18T07:30:00+05:00",
+      "title": "Teleshopping",
+      "desc": "Shopping from home.",
+      "language": "en",
+      "categories": [
+        "Specialist",
+        "Shopping"
+      ],
+      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/ITV-4-UK.png"
     }
   ]
 }

@@ -4,57 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-18T00:30:00+05:00",
-      "stop": "2026-05-18T03:00:00+05:00",
-      "title": "Live: NBA Basketball",
-      "desc": "Professional basketball action from the NBA.",
-      "language": "en",
-      "rating": "A",
-      "categories": [
-        "Sports",
-        "Playoff sports",
-        "Basketball"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p191276_b_h8_ad.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-18T03:00:00+05:00",
-      "stop": "2026-05-18T03:30:00+05:00",
-      "title": "Slam Dunk",
-      "desc": "The best basketball clips.",
-      "date": "2017",
-      "language": "en",
-      "categories": [
-        "Sports talk",
-        "Basketball"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p14946607_st_h10_aa.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-18T03:30:00+05:00",
-      "stop": "2026-05-18T04:00:00+05:00",
-      "title": "Jack Hanna's Passport",
-      "sub_title": "Islands of the World",
-      "desc": "Orphaned orangutans on the island of Borneo; tiger sharks in Fiji; wallabies on the island of Tasmania; pink dolphins in Singapore.",
-      "date": "2024",
-      "language": "en",
-      "categories": [
-        "Series",
-        "Animals",
-        "Educational"
-      ],
-      "episode": "S1 E1",
-      "icon": "http://dtil.tmsimg.com/assets/p26975705_b_h8_aa.jpg?w=960&h=540",
-      "credits": {
-        "director": [
-          "Guy Nickerson"
-        ],
-        "actor": [
-          "Alfonso Ribeiro"
-        ]
-      }
-    },
-    {
       "start": "2026-05-18T04:00:00+05:00",
       "stop": "2026-05-18T04:30:00+05:00",
       "title": "Home for Good",
@@ -109,6 +58,49 @@
         "News"
       ],
       "icon": "http://dtil.tmsimg.com/assets/p12821107_b_h8_aa.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-18T05:30:00+05:00",
+      "stop": "2026-05-18T06:00:00+05:00",
+      "title": "ABC World News Tonight With David Muir",
+      "desc": "Delivering the news that matters most.",
+      "date": "2026",
+      "language": "en",
+      "categories": [
+        "Series",
+        "News"
+      ],
+      "episode": "E137",
+      "icon": "http://dtil.tmsimg.com/assets/p10880351_b_h8_ah.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "David Muir"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-18T06:00:00+05:00",
+      "stop": "2026-05-18T06:30:00+05:00",
+      "title": "Eyewitness News 6PM",
+      "desc": "Local, national and international news.",
+      "date": "2004",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p677004_b_h8_af.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-18T06:30:00+05:00",
+      "stop": "2026-05-18T07:00:00+05:00",
+      "title": "Eyewitness News 6:30PM",
+      "desc": "KABC-TV delivers comprehensive local news and weather coverage for Southern California, specializing in breaking news, investigative reporting, and live community event broadcasts.",
+      "date": "2023",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p25365339_st_h10_aa.jpg?w=960&h=540"
     }
   ]
 }

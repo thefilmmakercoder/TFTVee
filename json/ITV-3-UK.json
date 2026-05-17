@@ -4,19 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-18T00:10:00+05:00",
-      "stop": "2026-05-18T02:05:00+05:00",
-      "title": "Midsomer Murders",
-      "sub_title": "A Grain of Truth",
-      "desc": "The world of organic baking begins to crumble after a series of incidents at the newly-revamped Larkton's Mill.",
-      "language": "en",
-      "categories": [
-        "Entertainment",
-        "Detective"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/84346082-3003-338d-8145-a41d52f7e199/16-9"
-    },
-    {
       "start": "2026-05-18T02:05:00+05:00",
       "stop": "2026-05-18T03:55:00+05:00",
       "title": "Vera",
@@ -77,6 +64,18 @@
         "Lifestyles"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/62e1585f-7dcf-350a-bd40-5383b0777031/16-9"
+    },
+    {
+      "start": "2026-05-18T06:30:00+05:00",
+      "stop": "2026-05-18T10:00:00+05:00",
+      "title": "Teleshopping",
+      "desc": "Shopping from home.",
+      "language": "en",
+      "categories": [
+        "Specialist",
+        "Shopping"
+      ],
+      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/ITV-3-UK.png"
     }
   ]
 }
