@@ -4,18 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-17T19:00:00+05:00",
-      "stop": "2026-05-17T21:10:00+05:00",
-      "title": "Leonard Cohen, A Journey, A Song",
-      "desc": "\\.",
-      "language": "en",
-      "rating": "M",
-      "categories": [
-        "Special Interest"
-      ],
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/415909/image/334x188"
-    },
-    {
       "start": "2026-05-17T21:10:00+05:00",
       "stop": "2026-05-17T22:25:00+05:00",
       "title": "Pretty Baby: Brooke Shields",
@@ -84,6 +72,19 @@
       ],
       "episode": "S1 E8",
       "icon": "https://www.fetchtv.com.au/v2/epg/program/367591/image/334x188"
+    },
+    {
+      "start": "2026-05-18T00:00:00+05:00",
+      "stop": "2026-05-18T00:15:00+05:00",
+      "title": "NHK World English News Morning",
+      "sub_title": "Monday 18 May 2026",
+      "desc": "English news from Japan's Broadcasting Corporation, NHK, delivering the latest in business, technology, health, environmental and world news.",
+      "language": "en",
+      "rating": "NR",
+      "categories": [
+        "News"
+      ],
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/412606/image/334x188"
     }
   ]
 }

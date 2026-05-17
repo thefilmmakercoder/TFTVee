@@ -4,18 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-17T20:30:00+05:00",
-      "stop": "2026-05-17T21:00:00+05:00",
-      "title": "CBS LA at 8:30am",
-      "desc": "Stay informed with the latest breaking news and headlines.",
-      "date": "2026",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p32046835_st_h10_aa.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-05-17T21:00:00+05:00",
       "stop": "2026-05-17T22:00:00+05:00",
       "title": "PBR Road to the Gold Buckle",
@@ -84,6 +72,18 @@
           "Jericka Duncan"
         ]
       }
+    },
+    {
+      "start": "2026-05-18T06:00:00+05:00",
+      "stop": "2026-05-18T07:00:00+05:00",
+      "title": "CBS LA at 6pm",
+      "desc": "Join the CBS LA team for stories from communities around SoCal, breaking news from The Desk, and NEXT Weather from the Weathersphere.",
+      "date": "2025",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p31308575_b_h10_aa.jpg?w=960&h=540"
     }
   ]
 }

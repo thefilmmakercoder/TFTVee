@@ -4,22 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-17T15:30:00+05:00",
-      "stop": "2026-05-17T21:30:00+05:00",
-      "title": "..programmes start at 7.00pm",
-      "desc": "BBC Three delivers bold and provocative content for younger audiences, featuring groundbreaking documentaries, experimental comedy, and fresh drama.",
-      "language": "en",
-      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/BBC-Three-UK.png"
-    },
-    {
-      "start": "2026-05-17T21:30:00+05:00",
-      "stop": "2026-05-17T22:58:00+05:00",
-      "title": "..programmes start at 7.00pm",
-      "desc": "BBC Three delivers bold and provocative content for younger audiences, featuring groundbreaking documentaries, experimental comedy, and fresh drama.",
-      "language": "en",
-      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/BBC-Three-UK.png"
-    },
-    {
       "start": "2026-05-17T22:58:00+05:00",
       "stop": "2026-05-17T23:00:00+05:00",
       "title": "This is BBC Three",
@@ -62,6 +46,30 @@
         "Soap"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/272309ce-f1b1-4ae2-9c21-f2bcd6ca0695/16-9"
+    },
+    {
+      "start": "2026-05-18T00:30:00+05:00",
+      "stop": "2026-05-18T01:00:00+05:00",
+      "title": "EastEnders Omnibus",
+      "desc": "Bea is out of options, Mark and Grant's relationship is more strained than ever, and Cindy tries to get through to George.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Soap"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/fa782160-8056-4d05-b1d8-e49bc09d96b3/16-9"
+    },
+    {
+      "start": "2026-05-18T01:00:00+05:00",
+      "stop": "2026-05-18T02:40:00+05:00",
+      "title": "Kidnapped by My Mum",
+      "desc": "At 11 years old, Alex vanished on holiday with his mother and grandfather for six years. Now, he's retracing his steps across Europe to tell the full story for the first time.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Factual"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/4f84c2c0-f7ab-4317-846c-2bdcc513168e/16-9"
     }
   ]
 }

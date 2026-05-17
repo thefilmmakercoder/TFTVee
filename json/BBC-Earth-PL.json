@@ -4,32 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-17T20:40:00+05:00",
-      "stop": "2026-05-17T20:55:00+05:00",
-      "title": "Mammals - Making Of",
-      "desc": "Behind the scenes of the production of a nature production presenting the life of mammals.The most diverse phylum of the animal kingdom includes both the tiny Etruscan shrew and the blue whale.",
-      "date": "2024",
-      "language": "en",
-      "categories": [
-        "Documentary Series"
-      ],
-      "episode": "S1E6",
-      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/BBC-Earth-PL.png"
-    },
-    {
-      "start": "2026-05-17T20:55:00+05:00",
-      "stop": "2026-05-17T21:55:00+05:00",
-      "title": "Life Below Zero: Canada",
-      "desc": "The program shows the everyday life of people in Canada and their struggles with the forces of nature.",
-      "date": "2020",
-      "language": "en",
-      "categories": [
-        "Documentary Series"
-      ],
-      "episode": "S1E6",
-      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/BBC-Earth-PL.png"
-    },
-    {
       "start": "2026-05-17T21:55:00+05:00",
       "stop": "2026-05-17T22:55:00+05:00",
       "title": "The World's Most Scenic Railway Journeys",
@@ -84,6 +58,44 @@
       ],
       "episode": "S1E6",
       "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/BBC-Earth-PL.png"
+    },
+    {
+      "start": "2026-05-18T02:15:00+05:00",
+      "stop": "2026-05-18T03:30:00+05:00",
+      "title": "Changing Planet: River Restoration",
+      "desc": "Presentation of projects aimed at restoring the natural course of rivers.The program discusses the demolition of dams on the Klamath River and the clean-up of the Seine in Paris.",
+      "date": "2025",
+      "language": "en",
+      "categories": [
+        "Documentary Film"
+      ],
+      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/BBC-Earth-PL.png"
+    },
+    {
+      "start": "2026-05-18T03:30:00+05:00",
+      "stop": "2026-05-18T04:35:00+05:00",
+      "title": "Once Upon A Time In Space",
+      "date": "2025",
+      "language": "en",
+      "categories": [
+        "Documentary Series"
+      ],
+      "episode": "E4",
+      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/BBC-Earth-PL.png",
+      "credits": {
+        "actor": [
+          "Self - Sergei Viktorovich Zalyotin",
+          "Self - Terry Virts",
+          "Self - Kristin Fisher",
+          "Self - Mike Mullane",
+          "Self - Anna Fisher",
+          "Self - Charles Bolden",
+          "Self - Jerry Linenger",
+          "Self - Ron McNair",
+          "Self - Carl S. McNair",
+          "Self - Aleksandr Lazutkin"
+        ]
+      }
     }
   ]
 }
