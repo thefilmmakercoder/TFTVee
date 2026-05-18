@@ -4,54 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-19T02:00:00+05:00",
-      "stop": "2026-05-19T02:30:00+05:00",
-      "title": "BBC News The Context",
-      "desc": "A regular panel of guests from across the political spectrum discuss the biggest international stories of the day.",
-      "date": "2022",
-      "language": "en",
-      "categories": [
-        "News",
-        "Talk"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p23647415_b_h8_ac.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Christian Fraser"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-19T02:30:00+05:00",
-      "stop": "2026-05-19T03:00:00+05:00",
-      "title": "NJ Spotlight News with Briana Vannozzi",
-      "desc": "Statewide reporting on the latest news and issues affecting communities across the Garden State.",
-      "date": "2020",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p18850294_b_h10_aa.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-19T03:00:00+05:00",
-      "stop": "2026-05-19T03:30:00+05:00",
-      "title": "DW News",
-      "desc": "Presenting a round-up of the most recent news and developments from across the world.",
-      "date": "2002",
-      "language": "en",
-      "rating": "A",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p26245192_b_h10_aa.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Ben Fajzullin"
-        ]
-      }
-    },
-    {
       "start": "2026-05-19T03:30:00+05:00",
       "stop": "2026-05-19T04:00:00+05:00",
       "title": "BBC World News America",
@@ -108,6 +60,64 @@
       "credits": {
         "actor": [
           "Coral Pena"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-19T06:00:00+05:00",
+      "stop": "2026-05-19T07:00:00+05:00",
+      "title": "Antiques Roadshow",
+      "sub_title": "Cheekwood Estate & Gardens, Hour 1",
+      "desc": "An 1880 Celia Thaxter hand-painted vase; a 1964 Presidential Rolex with the box and papers; a Mary Elizabeth Price painted screen circa 1925.",
+      "date": "2023",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Series",
+        "Collectibles",
+        "Art"
+      ],
+      "episode": "S27 E7 P1/3",
+      "icon": "http://dtil.tmsimg.com/assets/p185479_b_h8_ag.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Coral Pena"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-19T07:00:00+05:00",
+      "stop": "2026-05-19T08:30:00+05:00",
+      "title": "Independent Lens",
+      "sub_title": "Light of the Setting Sun",
+      "desc": "Filmmaker Vicky Du traces her family's mental illness back to the Chinese Communist Revolution of 1949.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "Series",
+        "Documentary",
+        "Entertainment"
+      ],
+      "episode": "S27 E11",
+      "icon": "http://dtil.tmsimg.com/assets/p185854_b_h8_ac.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-19T08:30:00+05:00",
+      "stop": "2026-05-19T09:30:00+05:00",
+      "title": "Amanpour and Company",
+      "desc": "Christiane Amanpour leads discussions about world issues and interviews with global leaders.",
+      "date": "2026",
+      "language": "en",
+      "categories": [
+        "Series",
+        "Public affairs"
+      ],
+      "episode": "S8 E164",
+      "icon": "http://dtil.tmsimg.com/assets/p15694932_b_h8_ac.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Christiane Amanpour"
         ]
       }
     }

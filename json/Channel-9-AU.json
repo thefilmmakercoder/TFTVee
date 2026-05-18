@@ -4,20 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-19T00:00:00+05:00",
-      "stop": "2026-05-19T00:30:00+05:00",
-      "title": "Today Early News",
-      "sub_title": "Tuesday 19 May 2026",
-      "desc": "Today Early News with up to date news from Australia and around the world as well as the latest in sport and weather.",
-      "language": "en",
-      "rating": "NR",
-      "categories": [
-        "News"
-      ],
-      "episode": "E99",
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/428725/image/334x188"
-    },
-    {
       "start": "2026-05-19T00:30:00+05:00",
       "stop": "2026-05-19T04:00:00+05:00",
       "title": "Today",
@@ -84,6 +70,20 @@
       ],
       "episode": "S17 E13",
       "icon": "https://www.fetchtv.com.au/v2/epg/program/157711/image/334x188"
+    },
+    {
+      "start": "2026-05-19T08:45:00+05:00",
+      "stop": "2026-05-19T09:00:00+05:00",
+      "title": "My Way",
+      "sub_title": "Home Above The Clouds",
+      "desc": "Tim Blackwell introduces inspirational Aussies, each with a unique story about how they live their best life. It's a lifestyle program that allows people to tell their own stories firsthand to say, 'I'm doing this My Way'.",
+      "language": "en",
+      "rating": "G",
+      "categories": [
+        "Special Interest"
+      ],
+      "episode": "E14",
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/20475546/image/334x188"
     }
   ]
 }

@@ -4,19 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-19T00:30:00+05:00",
-      "stop": "2026-05-19T01:00:00+05:00",
-      "title": "7.30",
-      "desc": "Sarah Ferguson presents Australia's premier daily current affairs program, delivering agenda-setting public affairs journalism and interviews that hold the powerful to account. Plus political analysis from Jacob Greber.",
-      "language": "en",
-      "rating": "NR",
-      "categories": [
-        "News"
-      ],
-      "episode": "E77",
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/264720/image/334x188"
-    },
-    {
       "start": "2026-05-19T01:00:00+05:00",
       "stop": "2026-05-19T04:00:00+05:00",
       "title": "News Breakfast",
@@ -78,6 +65,18 @@
       ],
       "episode": "S2 E6",
       "icon": "https://www.fetchtv.com.au/v2/epg/program/2821630/image/334x188"
+    },
+    {
+      "start": "2026-05-19T07:00:00+05:00",
+      "stop": "2026-05-19T08:00:00+05:00",
+      "title": "ABC News At Noon",
+      "desc": "The leading news at lunchtime. ABC News brings you the day's top stories and the latest news as it unfolds, with reporters in the community across Australia and around the world reporting on the issues that matter to you.",
+      "language": "en",
+      "rating": "NR",
+      "categories": [
+        "News"
+      ],
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/5979117/image/334x188"
     }
   ]
 }

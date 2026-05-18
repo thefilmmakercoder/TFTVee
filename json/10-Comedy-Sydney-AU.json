@@ -4,19 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-19T02:00:00+05:00",
-      "stop": "2026-05-19T02:30:00+05:00",
-      "title": "Entertainment Tonight",
-      "desc": "Still the gold standard in entertainment news, ET delivers daily exclusives, red carpet coverage, and celebrity interviews.",
-      "language": "en",
-      "rating": "NR",
-      "categories": [
-        "Special Interest"
-      ],
-      "episode": "S45 E180",
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/132140/image/334x188"
-    },
-    {
       "start": "2026-05-19T02:30:00+05:00",
       "stop": "2026-05-19T03:30:00+05:00",
       "title": "The Late Show With Stephen Colbert",
@@ -82,6 +69,20 @@
       ],
       "episode": "S16 E65",
       "icon": "https://www.fetchtv.com.au/v2/epg/program/325091/image/334x188"
+    },
+    {
+      "start": "2026-05-19T06:00:00+05:00",
+      "stop": "2026-05-19T06:30:00+05:00",
+      "title": "Becker",
+      "sub_title": "Take These Pills And Shove 'em",
+      "desc": "Becker arrives at the diner to find Reggie and Jake discussing their plans to take a sculpting class. As usual, Reggie's motive is to find personal fulfillment, while Jake is just out to meet chicks.",
+      "language": "en",
+      "rating": "PG",
+      "categories": [
+        "Comedy"
+      ],
+      "episode": "S1 E2",
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/100193/image/334x188"
     }
   ]
 }
