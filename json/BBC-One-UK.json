@@ -4,30 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-18T04:15:00+05:00",
-      "stop": "2026-05-18T04:20:00+05:00",
-      "title": "Weather for the Week Ahead",
-      "desc": "Detailed weather forecast.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/13f468a5-37f4-45bd-9ee3-c47523c5f828/16-9"
-    },
-    {
-      "start": "2026-05-18T04:20:00+05:00",
-      "stop": "2026-05-18T10:00:00+05:00",
-      "title": "BBC News",
-      "desc": "BBC One joins the BBC's rolling news channel for a night of news.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/b60f7bd7-44de-4087-b644-125fa6da04ee/16-9"
-    },
-    {
       "start": "2026-05-18T10:00:00+05:00",
       "stop": "2026-05-18T13:30:00+05:00",
       "title": "Breakfast",
@@ -73,6 +49,30 @@
         "Factual"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/a8c94bd1-5921-3a94-9806-4c7ff2a8b94a/16-9"
+    },
+    {
+      "start": "2026-05-18T16:15:00+05:00",
+      "stop": "2026-05-18T17:00:00+05:00",
+      "title": "Bargain Hunt",
+      "desc": "Let's hope it's not all downhill for two teams of bargain hunters as they scour the stalls of an antiques centre in Kingston upon Thames.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Game Show"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/f8bba521-2587-4953-aaec-2027839c2c18/16-9"
+    },
+    {
+      "start": "2026-05-18T17:00:00+05:00",
+      "stop": "2026-05-18T18:00:00+05:00",
+      "title": "BBC News at One including BBC London News",
+      "desc": "The latest national and international news from the BBC.",
+      "language": "en",
+      "categories": [
+        "News & Documentary",
+        "News"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/c25e86d4-87f4-4850-aa00-498b0c7058af/16-9"
     }
   ]
 }

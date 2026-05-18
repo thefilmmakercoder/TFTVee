@@ -4,18 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-18T07:05:00+05:00",
-      "stop": "2026-05-18T07:55:00+05:00",
-      "title": "Doctor Who",
-      "desc": "Sci-fi drama. What will the Doctor find at the end of the universe? What scares the Doctor? Ghosts of the past and future - a little boy who doesn't want to join the army.",
-      "language": "en",
-      "categories": [
-        "Entertainment",
-        "Sci-Fi"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/9d28c83d-b47d-42c7-97b8-2739f3521693/16-9"
-    },
-    {
       "start": "2026-05-18T07:55:00+05:00",
       "stop": "2026-05-18T09:30:00+05:00",
       "title": "This is BBC Three",
@@ -54,6 +42,18 @@
       "desc": "Programmes start at 7.00pm.",
       "language": "en",
       "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/BBC-Three-UK.png"
+    },
+    {
+      "start": "2026-05-18T23:00:00+05:00",
+      "stop": "2026-05-18T23:05:00+05:00",
+      "title": "The Catch Up",
+      "desc": "A round-up of the day's news.",
+      "language": "en",
+      "categories": [
+        "News & Documentary",
+        "News"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/a589e6bc-642d-4768-8ac7-f589dc23c1df/16-9"
     }
   ]
 }

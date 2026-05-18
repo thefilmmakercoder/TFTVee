@@ -4,18 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-18T06:15:00+05:00",
-      "stop": "2026-05-18T07:15:00+05:00",
-      "title": "A Wild Year",
-      "desc": "In the north east of England lies a wild and remote moorland. This ancient landscape of heather-clad uplands and sheltered dales is home to red grouse and tough moorland sheep.",
-      "language": "en",
-      "categories": [
-        "Entertainment",
-        "Factual"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/5620d02b-5e88-4c54-b25a-486f9d303cb2/16-9"
-    },
-    {
       "start": "2026-05-18T07:15:00+05:00",
       "stop": "2026-05-18T09:30:00+05:00",
       "title": "This is BBC Four",
@@ -54,6 +42,18 @@
       "desc": "Programmes start at 7.00pm.",
       "language": "en",
       "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/BBC-Four-UK.png"
+    },
+    {
+      "start": "2026-05-18T23:00:00+05:00",
+      "stop": "2026-05-18T23:30:00+05:00",
+      "title": "University Challenge",
+      "desc": "Oriel College, Oxford play Christ's College, Cambridge in another first-round match.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Game Show"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/9895ed83-6392-4030-9451-8903c72a0d44/16-9"
     }
   ]
 }
