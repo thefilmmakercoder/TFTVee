@@ -4,85 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-18T08:00:00+05:00",
-      "stop": "2026-05-18T11:30:00+05:00",
-      "title": "Wonder Woman 1984",
-      "desc": "Diana Prince lives quietly among mortals in the vibrant, sleek 1980s -- an era of excess driven by the pursuit of having it all. Though she's come into her full powers, she maintains a low profile by curating ancient artifacts, and only performing heroic acts incognito. But soon, Diana will have to muster all of her strength, wisdom and courage as she finds herself squaring off against Maxwell Lord and the Cheetah, a villainess who possesses superhuman strength and agility.",
-      "date": "2020",
-      "language": "en",
-      "rating": "PG-13",
-      "categories": [
-        "Movie",
-        "Action",
-        "Adventure",
-        "Fantasy"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p14568836_v_h8_ac.jpg?w=960&h=540",
-      "credits": {
-        "director": [
-          "Patty Jenkins"
-        ],
-        "actor": [
-          "Gal Gadot",
-          "Chris Pine",
-          "Kristen Wiig"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-18T11:30:00+05:00",
-      "stop": "2026-05-18T15:00:00+05:00",
-      "title": "The Flash",
-      "desc": "Worlds collide when the Flash uses his superpowers to travel back in time to change the events of the past. However, when his attempt to save his family inadvertently alters the future, he becomes trapped in a reality in which General Zod has returned, threatening annihilation. With no other superheroes to turn to, the Flash looks to coax a very different Batman out of retirement and rescue an imprisoned Kryptonian -- albeit not the one he's looking for.",
-      "date": "2023",
-      "language": "en",
-      "rating": "PG-13",
-      "categories": [
-        "Movie",
-        "Action",
-        "Adventure",
-        "Fantasy"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p12742479_v_h8_ad.jpg?w=960&h=540",
-      "credits": {
-        "director": [
-          "Andy Muschietti"
-        ],
-        "actor": [
-          "Ezra Miller",
-          "Sasha Calle",
-          "Michael Shannon"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-18T15:00:00+05:00",
-      "stop": "2026-05-18T16:00:00+05:00",
-      "title": "Stargate SG-1",
-      "sub_title": "Full Circle",
-      "desc": "The SG-1 team races to prevent Anubis from capturing a powerful necklace.",
-      "date": "2003",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Series",
-        "Science fiction",
-        "Adventure"
-      ],
-      "episode": "S6 E22",
-      "icon": "http://dtil.tmsimg.com/assets/p184337_b_h10_ao.jpg?w=960&h=540",
-      "credits": {
-        "director": [
-          "Martin Wood"
-        ],
-        "actor": [
-          "Richard Dean Anderson",
-          "Amanda Tapping",
-          "Christopher Judge"
-        ]
-      }
-    },
-    {
       "start": "2026-05-18T16:00:00+05:00",
       "stop": "2026-05-18T17:00:00+05:00",
       "title": "Stargate SG-1",
@@ -160,6 +81,87 @@
           "Nathan Fillion",
           "Stana Katic",
           "Susan Sullivan"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-18T19:00:00+05:00",
+      "stop": "2026-05-18T20:00:00+05:00",
+      "title": "Castle",
+      "sub_title": "Reality Star Struck",
+      "desc": "The young rising star of \"The Wives of Wall Street\" is murdered; Castle tries to give Beckett a Valentine's Day gift, but his plans go awry.",
+      "date": "2013",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Crime drama",
+        "Comedy"
+      ],
+      "episode": "S5 E14",
+      "icon": "http://dtil.tmsimg.com/assets/p9264751_b_h10_aa.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Larry Shaw"
+        ],
+        "actor": [
+          "Nathan Fillion",
+          "Stana Katic",
+          "Susan Sullivan"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-18T20:00:00+05:00",
+      "stop": "2026-05-18T21:00:00+05:00",
+      "title": "Stargate SG-1",
+      "sub_title": "Fragile Balance",
+      "desc": "O'Neill regresses several decades and becomes his teenage self.",
+      "date": "2003",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Science fiction",
+        "Adventure"
+      ],
+      "episode": "S7 E3",
+      "icon": "http://dtil.tmsimg.com/assets/p184337_b_h10_ao.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Peter DeLuise"
+        ],
+        "actor": [
+          "Richard Dean Anderson",
+          "Michael Shanks",
+          "Amanda Tapping"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-18T21:00:00+05:00",
+      "stop": "2026-05-18T22:00:00+05:00",
+      "title": "Stargate SG-1",
+      "sub_title": "Fallen",
+      "desc": "The SG-1 team tries to help Daniel rediscover his identity and foil Anubis' bid for galactic domination.",
+      "date": "2003",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Science fiction",
+        "Adventure"
+      ],
+      "episode": "S7 E1 P1/2",
+      "icon": "http://dtil.tmsimg.com/assets/p184337_b_h10_ao.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Martin Wood"
+        ],
+        "actor": [
+          "Richard Dean Anderson",
+          "Michael Shanks",
+          "Amanda Tapping"
         ]
       }
     }

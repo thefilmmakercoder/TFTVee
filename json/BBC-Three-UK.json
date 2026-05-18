@@ -4,14 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-18T07:55:00+05:00",
-      "stop": "2026-05-18T09:30:00+05:00",
-      "title": "This is BBC Three",
-      "desc": "Programmes start at 7.00pm.",
-      "language": "en",
-      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/BBC-Three-UK.png"
-    },
-    {
       "start": "2026-05-18T09:30:00+05:00",
       "stop": "2026-05-18T15:30:00+05:00",
       "title": "..programmes start at 7.00pm",
@@ -54,6 +46,18 @@
         "News"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/a589e6bc-642d-4768-8ac7-f589dc23c1df/16-9"
+    },
+    {
+      "start": "2026-05-18T23:05:00+05:00",
+      "stop": "2026-05-18T23:30:00+05:00",
+      "title": "Deadly 60",
+      "sub_title": "Camouflage Killers",
+      "desc": "Steve Backshall is in Australia to search for the world's most freaky and venomous fish: the stone fish. He also finds trapdoor spiders and a snake that hunts bats.",
+      "language": "en",
+      "categories": [
+        "Children"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/64921ef2-0baf-4684-935d-1c2cd784ca92/16-9"
     }
   ]
 }

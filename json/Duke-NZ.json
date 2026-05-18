@@ -4,26 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-18T13:00:00+05:00",
-      "stop": "2026-05-18T13:30:00+05:00",
-      "title": "Family Guy",
-      "sub_title": "Brian's Play",
-      "desc": "Brian writes a play that's a hit in Quahog, but just as he lets his success go to his head, Stewie wants him to read a play he's written. Brian humours him at first, but his confidence is shaken.",
-      "language": "en",
-      "rating": "PG-C",
-      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/Duke-NZ.png"
-    },
-    {
-      "start": "2026-05-18T13:30:00+05:00",
-      "stop": "2026-05-18T15:20:00+05:00",
-      "title": "Movie: American Wedding",
-      "sub_title": "American Wedding",
-      "desc": "It's the wedding of Jim and Michelle and the gathering of their families and friends, including Jim's old friends from high school and Michelle's little sister. Stars Jason Biggs..",
-      "language": "en",
-      "rating": "16-LSC",
-      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/Duke-NZ.png"
-    },
-    {
       "start": "2026-05-18T15:20:00+05:00",
       "stop": "2026-05-18T17:35:00+05:00",
       "title": "Movie: American Reunion",
@@ -58,6 +38,28 @@
       "title": "On Duke Today...",
       "desc": "Here's what's on DUKE today.",
       "language": "en",
+      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/Duke-NZ.png"
+    },
+    {
+      "start": "2026-05-19T04:30:00+05:00",
+      "stop": "2026-05-19T04:55:00+05:00",
+      "title": "The Simpsons",
+      "sub_title": "Marge The Meanie",
+      "desc": "A surprise from Marge's past has her bonding with Bart and terrifying Homer.",
+      "language": "en",
+      "rating": "PG",
+      "episode": "S33 E20",
+      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/Duke-NZ.png"
+    },
+    {
+      "start": "2026-05-19T04:55:00+05:00",
+      "stop": "2026-05-19T05:15:00+05:00",
+      "title": "The Simpsons",
+      "sub_title": "Meat Is Murder",
+      "desc": "Grampa reconnects with an old associate in the hamburger business.",
+      "language": "en",
+      "rating": "PG",
+      "episode": "S33 E21",
       "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/Duke-NZ.png"
     }
   ]

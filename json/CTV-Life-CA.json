@@ -4,11 +4,53 @@
   ],
   "programs": [
     {
-      "start": "2026-05-18T12:00:00+05:00",
-      "stop": "2026-05-18T13:00:00+05:00",
+      "start": "2026-05-18T17:00:00+05:00",
+      "stop": "2026-05-18T17:30:00+05:00",
+      "title": "Mary Makes It Easy",
+      "sub_title": "Wine and Dine",
+      "desc": "Mary shakes up a cocktail of recipes that use beer and wine to load up on flavor.",
+      "date": "2023",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Series",
+        "Cooking"
+      ],
+      "episode": "S2 E13",
+      "icon": "http://dtil.tmsimg.com/assets/p20486918_b_h8_ah.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Mary Berg"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-18T17:30:00+05:00",
+      "stop": "2026-05-18T18:00:00+05:00",
+      "title": "Spencer's BIG 30",
+      "sub_title": "Indian Take-Out",
+      "desc": "Chef Spencer Watts demonstrates how to make an Indian feast for the whole family.",
+      "date": "2020",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Cooking"
+      ],
+      "episode": "S3 E2",
+      "icon": "http://dtil.tmsimg.com/assets/p15001018_b_h8_ab.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Spencer Watts"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-18T18:00:00+05:00",
+      "stop": "2026-05-18T19:00:00+05:00",
       "title": "Blue Bloods",
-      "sub_title": "Silver Star",
-      "desc": "Danny vows to find the killer of a war hero who was homeless; false information about Frank leaks to the press.",
+      "sub_title": "The Blue Templar",
+      "desc": "In an effort to expose the Blue Templar, Frank decides not to report a drug bust case that reveals dirty cops.",
       "date": "2011",
       "language": "en",
       "rating": "TV14",
@@ -18,11 +60,11 @@
         "Action",
         "Entertainment"
       ],
-      "episode": "S1 E17",
+      "episode": "S1 E22",
       "icon": "http://dtil.tmsimg.com/assets/p8130493_b_h8_af.jpg?w=960&h=540",
       "credits": {
         "director": [
-          "Ralph Hemecker"
+          "Fred Keller"
         ],
         "actor": [
           "Tom Selleck",
@@ -32,11 +74,11 @@
       }
     },
     {
-      "start": "2026-05-18T13:00:00+05:00",
-      "stop": "2026-05-18T14:00:00+05:00",
+      "start": "2026-05-18T19:00:00+05:00",
+      "stop": "2026-05-18T20:00:00+05:00",
       "title": "Blue Bloods",
-      "sub_title": "To Tell the Truth",
-      "desc": "After Danny witnesses a murder, a member of his family is put in jeopardy in an attempt to stop him from testifying.",
+      "sub_title": "Mercy",
+      "desc": "Frank is put on the spot when one of the mayor-elect's supporters is found dead; Jamie goes undercover at a bar.",
       "date": "2011",
       "language": "en",
       "rating": "TV14",
@@ -46,11 +88,11 @@
         "Action",
         "Entertainment"
       ],
-      "episode": "S1 E18",
+      "episode": "S2 E1",
       "icon": "http://dtil.tmsimg.com/assets/p8130493_b_h8_af.jpg?w=960&h=540",
       "credits": {
         "director": [
-          "Alex Zakrzewski"
+          "Michael Pressman"
         ],
         "actor": [
           "Tom Selleck",
@@ -60,36 +102,8 @@
       }
     },
     {
-      "start": "2026-05-18T14:00:00+05:00",
-      "stop": "2026-05-18T15:00:00+05:00",
-      "title": "Blue Bloods",
-      "sub_title": "Model Behavior",
-      "desc": "Jackie and Danny investigate when a reporter and Linda's niece, a runway model, both collapse at a fashion show.",
-      "date": "2011",
-      "language": "en",
-      "rating": "TV14",
-      "categories": [
-        "Series",
-        "Crime drama",
-        "Action",
-        "Entertainment"
-      ],
-      "episode": "S1 E19",
-      "icon": "http://dtil.tmsimg.com/assets/p8130493_b_h8_af.jpg?w=960&h=540",
-      "credits": {
-        "director": [
-          "Matt Penn"
-        ],
-        "actor": [
-          "Tom Selleck",
-          "Donnie Wahlberg",
-          "Bridget Moynahan"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-18T15:00:00+05:00",
-      "stop": "2026-05-18T16:00:00+05:00",
+      "start": "2026-05-18T20:00:00+05:00",
+      "stop": "2026-05-18T21:00:00+05:00",
       "title": "MasterChef Canada",
       "sub_title": "Tortilla Takedown",
       "desc": "In their first Innovation Challenge, the home cooks must reimagine a pantry staple, and Mary Berg dons her apron for a hands-on demo.",
@@ -112,45 +126,19 @@
       }
     },
     {
-      "start": "2026-05-18T16:00:00+05:00",
-      "stop": "2026-05-18T17:00:00+05:00",
-      "title": "The Amazing Race Canada",
-      "sub_title": "I Hate Pancakes",
-      "desc": "An epic race throughout Canada begins, as 10 teams embark on the adventure of a lifetime; starting in Winnipeg, before heading to Calgary, racers face their first challenges as they compete to be first at the mat.",
-      "date": "2023",
+      "start": "2026-05-18T21:00:00+05:00",
+      "stop": "2026-05-18T22:00:00+05:00",
+      "title": "The Good Stuff With Mary Berg",
+      "desc": "Backyard Burger Showdown; backyard party gear put to the test; backyard beer tasting; \"The Good Stuff\" dish of the day.",
+      "date": "2026",
       "language": "en",
-      "rating": "TVPG",
       "categories": [
         "Series",
-        "Adventure",
-        "Travel",
-        "Competition Reality"
+        "Talk",
+        "Entertainment"
       ],
-      "episode": "S9 E1",
-      "icon": "http://dtil.tmsimg.com/assets/p10017313_b_h8_aq.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Jon Montgomery",
-          "Jet Black",
-          "Dave Schram"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-18T17:00:00+05:00",
-      "stop": "2026-05-18T17:30:00+05:00",
-      "title": "Mary Makes It Easy",
-      "sub_title": "Wine and Dine",
-      "desc": "Mary shakes up a cocktail of recipes that use beer and wine to load up on flavor.",
-      "date": "2023",
-      "language": "en",
-      "rating": "TVG",
-      "categories": [
-        "Series",
-        "Cooking"
-      ],
-      "episode": "S2 E13",
-      "icon": "http://dtil.tmsimg.com/assets/p20486918_b_h8_ah.jpg?w=960&h=540",
+      "episode": "S3 E160",
+      "icon": "http://dtil.tmsimg.com/assets/p24996781_b_h8_ab.jpg?w=960&h=540",
       "credits": {
         "actor": [
           "Mary Berg"
