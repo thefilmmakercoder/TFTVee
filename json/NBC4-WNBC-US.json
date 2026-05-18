@@ -4,67 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-18T04:00:00+05:00",
-      "stop": "2026-05-18T04:30:00+05:00",
-      "title": "Live: NBA Showtime",
-      "desc": "Coverage of the latest storylines and news from across the NBA featuring in-depth analysis and highlights.",
-      "date": "2025",
-      "language": "en",
-      "categories": [
-        "Basketball"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p30949176_b_h8_ab.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-18T04:30:00+05:00",
-      "stop": "2026-05-18T07:00:00+05:00",
-      "title": "Live: NBA Basketball",
-      "desc": "Professional basketball action from the NBA.",
-      "language": "en",
-      "rating": "A",
-      "categories": [
-        "Sports",
-        "Playoff sports",
-        "Basketball"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p191276_b_h8_ad.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-18T07:00:00+05:00",
-      "stop": "2026-05-18T08:00:00+05:00",
-      "title": "Password",
-      "sub_title": "Nikki & Brie Garcia & Jimmy Fallon",
-      "desc": "Jimmy Fallon and celebrity twins Nikki and Brie Garcia pair up with contestants and face off over two games; players from each team guess secret passwords using only one-word clues for a chance to win up to $25,000.",
-      "date": "2024",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Series",
-        "Game show"
-      ],
-      "episode": "S2 E5",
-      "icon": "http://dtil.tmsimg.com/assets/p22032897_b_h8_ae.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Keke Palmer",
-          "Jimmy Fallon",
-          "Nikki Garcia"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-18T08:00:00+05:00",
-      "stop": "2026-05-18T08:30:00+05:00",
-      "title": "News 4 NY at 11",
-      "desc": "Local and regional news.",
-      "date": "2014",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p10513206_b_h10_ae.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-05-18T08:30:00+05:00",
       "stop": "2026-05-18T09:00:00+05:00",
       "title": "News 4 NY at 11:30",
@@ -90,6 +29,87 @@
       "credits": {
         "actor": [
           "Bruce Beck"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-18T09:30:00+05:00",
+      "stop": "2026-05-18T10:00:00+05:00",
+      "title": "1st Look",
+      "desc": "Lifestyle trends in food, night life, art, travel and entertainment.",
+      "date": "2008",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Talk",
+        "Newsmagazine",
+        "Travel",
+        "Fashion"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p419169_b_h8_az.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-18T10:00:00+05:00",
+      "stop": "2026-05-18T10:30:00+05:00",
+      "title": "Access Hollywood",
+      "sub_title": "Hollywood Headlines, Celebrity Interviews, Behind-the-Scenes Access and the Hottest Fashions",
+      "desc": "Hosts Mario Lopez, Kit Hoover, Scott Evans and Zuri Hall take viewers behind the velvet ropes and onto the red carpet to deliver celebrity interviews and entertainment news stories in Hollywood.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Newsmagazine",
+        "Entertainment",
+        "Interview"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p30926755_b_h8_ab.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Scott Evans",
+          "Zuri Hall"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-18T10:30:00+05:00",
+      "stop": "2026-05-18T11:00:00+05:00",
+      "title": "Open House",
+      "sub_title": "Higley",
+      "desc": "After a devastating Thanksgiving fire leaves an Egyptian immigrant family with nothing, George steps in to restore not just their house but their home.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "How-to",
+        "House/garden",
+        "Home improvement"
+      ],
+      "episode": "S18 E15",
+      "icon": "http://dtil.tmsimg.com/assets/p31035951_b_h10_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "George Oliphant",
+          "Sara Gore"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-18T11:00:00+05:00",
+      "stop": "2026-05-18T11:30:00+05:00",
+      "title": "In Touch With Dr. Charles Stanley",
+      "desc": "Charles Stanley, pastor of the First Baptist Church in Atlanta, shares his insights on Christian faith and enlightens viewers with spiritual motivation.",
+      "date": "1979",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Religious"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p32199893_b_h10_ab.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Charles Stanley"
         ]
       }
     }
