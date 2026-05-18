@@ -4,52 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-18T19:00:00+05:00",
-      "stop": "2026-05-18T21:00:00+05:00",
-      "title": "Good Morning America",
-      "desc": "Actors David Tennant, Alex Hassell, Bella Maclean and Nafessa Williams; actress Brooke Shields; author James Comey; ABC Secret Savings with Lori Bergamotto.",
-      "date": "2026",
-      "language": "en",
-      "categories": [
-        "Series",
-        "Talk",
-        "News",
-        "Variety",
-        "Public affairs"
-      ],
-      "episode": "E158",
-      "icon": "http://dtil.tmsimg.com/assets/p31385280_b_h10_aa.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "George Stephanopoulos",
-          "Robin Roberts",
-          "Michael Strahan"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-18T21:00:00+05:00",
-      "stop": "2026-05-18T22:00:00+05:00",
-      "title": "Live with Kelly and Mark",
-      "desc": "Brooke Shields is here; David Tennant chats about Hulu's \"Rivals\"; the hosts open up \"The Inbox\"!",
-      "date": "2026",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Series",
-        "Talk"
-      ],
-      "episode": "S4 E186",
-      "icon": "http://dtil.tmsimg.com/assets/p24324378_b_h8_ab.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Kelly Ripa",
-          "Mark Consuelos",
-          "Brooke Shields"
-        ]
-      }
-    },
-    {
       "start": "2026-05-18T22:00:00+05:00",
       "stop": "2026-05-18T23:00:00+05:00",
       "title": "The View",
@@ -132,6 +86,43 @@
           "Laura Baginski"
         ]
       }
+    },
+    {
+      "start": "2026-05-19T02:00:00+05:00",
+      "stop": "2026-05-19T03:00:00+05:00",
+      "title": "General Hospital",
+      "desc": "Police detective Joe Fitzpatrick is called to arrest one of Port Charles's own; Laura delivers an update about Anna; Joss makes a grim discovery; Jordan presses Justine about Sonny; Emma opens up to Felicia.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "Series",
+        "Soap",
+        "Medical",
+        "Drama",
+        "Romance"
+      ],
+      "episode": "S63 E172",
+      "icon": "http://dtil.tmsimg.com/assets/p183893_b_h8_al.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Maurice Benard",
+          "Steve Burton",
+          "Michael Easton"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-19T03:00:00+05:00",
+      "stop": "2026-05-19T03:30:00+05:00",
+      "title": "Eyewitness News 3PM",
+      "desc": "Local, national and international news.",
+      "date": "2004",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p676931_b_h8_aa.jpg?w=960&h=540"
     }
   ]
 }

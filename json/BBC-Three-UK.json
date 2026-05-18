@@ -4,38 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-18T09:30:00+05:00",
-      "stop": "2026-05-18T15:30:00+05:00",
-      "title": "..programmes start at 7.00pm",
-      "desc": "BBC Three delivers bold and provocative content for younger audiences, featuring groundbreaking documentaries, experimental comedy, and fresh drama.",
-      "language": "en",
-      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/BBC-Three-UK.png"
-    },
-    {
-      "start": "2026-05-18T15:30:00+05:00",
-      "stop": "2026-05-18T21:30:00+05:00",
-      "title": "..programmes start at 7.00pm",
-      "desc": "BBC Three delivers bold and provocative content for younger audiences, featuring groundbreaking documentaries, experimental comedy, and fresh drama.",
-      "language": "en",
-      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/BBC-Three-UK.png"
-    },
-    {
-      "start": "2026-05-18T21:30:00+05:00",
-      "stop": "2026-05-18T22:58:00+05:00",
-      "title": "..programmes start at 7.00pm",
-      "desc": "BBC Three delivers bold and provocative content for younger audiences, featuring groundbreaking documentaries, experimental comedy, and fresh drama.",
-      "language": "en",
-      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/BBC-Three-UK.png"
-    },
-    {
-      "start": "2026-05-18T22:58:00+05:00",
-      "stop": "2026-05-18T23:00:00+05:00",
-      "title": "This is BBC Three",
-      "desc": "Programmes start at 7.00pm.",
-      "language": "en",
-      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/BBC-Three-UK.png"
-    },
-    {
       "start": "2026-05-18T23:00:00+05:00",
       "stop": "2026-05-18T23:05:00+05:00",
       "title": "The Catch Up",
@@ -58,6 +26,53 @@
         "Children"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/64921ef2-0baf-4684-935d-1c2cd784ca92/16-9"
+    },
+    {
+      "start": "2026-05-18T23:30:00+05:00",
+      "stop": "2026-05-19T00:00:00+05:00",
+      "title": "Deadly 60",
+      "sub_title": "Meerkat Madness",
+      "desc": "Steve Backshall is in the Kalahari to search for its weirdest residents. From aardwolves to aardvarks and mischievous meerkats, Steve is hoping for some Deadly firsts.",
+      "language": "en",
+      "categories": [
+        "Children"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/dc08393a-ff7d-4bb8-b340-04d9351ecc12/16-9"
+    },
+    {
+      "start": "2026-05-19T00:00:00+05:00",
+      "stop": "2026-05-19T01:00:00+05:00",
+      "title": "Sort Your Life Out with Stacey Solomon",
+      "desc": "Stacey Solomon and her team face their biggest challenge yet as craft-loving Sue and retired electrician Wayne try to part with 30 years of possessions.",
+      "language": "en",
+      "categories": [
+        "Entertainment"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/bb2ab4f1-1934-4274-879a-e3115678a35d/16-9"
+    },
+    {
+      "start": "2026-05-19T01:00:00+05:00",
+      "stop": "2026-05-19T01:45:00+05:00",
+      "title": "Thailand: The Dark Side of Paradise",
+      "desc": "Zara McDermott explores backpacker life and begins her Thai adventure. Contains some scenes which some viewers may find upsetting.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Factual"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/53c7eac9-e9d1-4228-8e73-233b48916553/16-9"
+    },
+    {
+      "start": "2026-05-19T01:45:00+05:00",
+      "stop": "2026-05-19T02:30:00+05:00",
+      "title": "Thailand: The Dark Side of Paradise",
+      "desc": "Zara McDermott heads to Ko Phangan, where spiritual retreats and wild parties collide. Contains some strong language and some upsetting scenes.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Factual"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/a18cd0be-cdf0-4826-81b8-dee78c39eb46/16-9"
     }
   ]
 }
