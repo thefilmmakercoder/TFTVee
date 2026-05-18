@@ -4,66 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-18T15:00:00+05:00",
-      "stop": "2026-05-18T16:00:00+05:00",
-      "title": "PIX11 Morning News at 6am",
-      "desc": "Staying informed with the news and headlines.",
-      "date": "2018",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p16250992_b_h8_ab.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-18T16:00:00+05:00",
-      "stop": "2026-05-18T18:00:00+05:00",
-      "title": "PIX11 Morning News at 7am",
-      "desc": "Staying informed with the news and headlines.",
-      "date": "2018",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p16250994_b_h8_ab.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-18T18:00:00+05:00",
-      "stop": "2026-05-18T19:00:00+05:00",
-      "title": "PIX11 Morning News at 9am",
-      "desc": "Staying informed with the news and headlines.",
-      "date": "2020",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p17722468_b_h8_ab.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-18T19:00:00+05:00",
-      "stop": "2026-05-18T20:00:00+05:00",
-      "title": "New York Living",
-      "desc": "WPIX provides essential New York news, live sports, and CW network hits, serving as a cornerstone of local broadcasting for the tri-state area.",
-      "date": "2022",
-      "language": "en",
-      "categories": [
-        "Newsmagazine"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p21493460_st_h10_aa.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-18T20:00:00+05:00",
-      "stop": "2026-05-18T20:30:00+05:00",
-      "title": "Monica Makes It Happen",
-      "desc": "Highlighting the community champions across the Tri-State.",
-      "date": "2023",
-      "language": "en",
-      "categories": [
-        "Community"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p26137694_st_h10_ab.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-05-18T20:30:00+05:00",
       "stop": "2026-05-18T21:00:00+05:00",
       "title": "Tribunal Justice",
@@ -86,6 +26,121 @@
           "Tanya Acker"
         ]
       }
+    },
+    {
+      "start": "2026-05-18T21:00:00+05:00",
+      "stop": "2026-05-18T22:00:00+05:00",
+      "title": "The Steve Wilkos Show",
+      "sub_title": "Were My Daughters Starved, Burned and Molested?",
+      "desc": "Ryan says his ex-girlfriend starves and neglects their daughters and allows a friend to burn one of them with a cigarette; he also says she leaves them in the care of her stepfather, who he believes molested them.",
+      "date": "2020",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "Series",
+        "Talk"
+      ],
+      "episode": "S13 E71",
+      "icon": "http://dtil.tmsimg.com/assets/p185706_b_h8_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Steve Wilkos"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-18T22:00:00+05:00",
+      "stop": "2026-05-18T23:00:00+05:00",
+      "title": "Karamo",
+      "sub_title": "Truth: Is My Uncle My Dad?; Unlock: 40 Lbs. Down & He Thinks I'm Cheating?!",
+      "desc": "Having grown up believing that the man who raised her was her dad, Amanda is left completely stunned by the revelation that her uncle, Mills, could be her biological father; Mills and his daughter Nicole face the possibility of welcoming a surprising new addition to their nuclear family; Omar believes that his wife, Vaniti, started cheating after shedding unwanted pounds, but Vaniti insists she's been faithful and has had enough of Omar's emotional bludgeoning and accusations.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "Series",
+        "Talk",
+        "Interview",
+        "Self improvement"
+      ],
+      "episode": "S4 E119",
+      "icon": "http://dtil.tmsimg.com/assets/p22388212_b_h8_ac.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Karamo Brown"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-18T23:00:00+05:00",
+      "stop": "2026-05-18T23:30:00+05:00",
+      "title": "Judy Justice",
+      "sub_title": "Divorcee Debate and Goldendoodle Mishap",
+      "desc": "Divorcees fight over the fate of $10k in tools; a puppy suffers a broken leg while in the care of a new dog sitter.",
+      "date": "2023",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "Series",
+        "Reality",
+        "Law"
+      ],
+      "episode": "S2 E129",
+      "icon": "http://dtil.tmsimg.com/assets/p20641302_b_h10_af.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Randy Douthit"
+        ],
+        "actor": [
+          "Judy Sheindlin",
+          "Kevin Rasco",
+          "Whitney Kumar"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-18T23:30:00+05:00",
+      "stop": "2026-05-19T00:00:00+05:00",
+      "title": "Judy Justice",
+      "sub_title": "Shared Driveway Destruction",
+      "desc": "A fight between a house flipper and his neighbor over their shared driveway involves guns.",
+      "date": "2022",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "Series",
+        "Reality",
+        "Law"
+      ],
+      "episode": "S1 E111",
+      "icon": "http://dtil.tmsimg.com/assets/p20641302_b_h10_af.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Randy Douthit"
+        ],
+        "actor": [
+          "Judy Sheindlin",
+          "Kevin Rasco",
+          "Whitney Kumar"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-19T00:00:00+05:00",
+      "stop": "2026-05-19T00:30:00+05:00",
+      "title": "Live PD Presents",
+      "desc": "WPIX provides essential New York news, live sports, and CW network hits, serving as a cornerstone of local broadcasting for the tri-state area.",
+      "date": "2025",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "Series",
+        "Reality",
+        "Law",
+        "Crime"
+      ],
+      "episode": "S1 E21",
+      "icon": "http://dtil.tmsimg.com/assets/p31045528_b_h8_aa.jpg?w=960&h=540"
     }
   ]
 }

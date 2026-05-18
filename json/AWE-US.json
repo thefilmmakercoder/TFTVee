@@ -4,8 +4,24 @@
   ],
   "programs": [
     {
-      "start": "2026-05-18T17:00:00+05:00",
-      "stop": "2026-05-18T17:30:00+05:00",
+      "start": "2026-05-18T20:30:00+05:00",
+      "stop": "2026-05-18T21:00:00+05:00",
+      "title": "Tasting America",
+      "sub_title": "America Cuisine in Phoenix",
+      "desc": "An exploration of American cuisine at three really cool restaurants in the Phoenix desert.",
+      "date": "2018",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Series",
+        "Travel"
+      ],
+      "episode": "S1 E8",
+      "icon": "http://dtil.tmsimg.com/assets/p14589435_b_h10_aa.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-18T21:00:00+05:00",
+      "stop": "2026-05-18T21:30:00+05:00",
       "title": "Private Islands",
       "sub_title": "Sandals Cay",
       "desc": "In Jamaica, Sandals Royal Caribbean offers up crystal blue waters, delectable local food and fine luxury.",
@@ -20,87 +36,87 @@
       "icon": "http://dtil.tmsimg.com/assets/p865073_b_h10_ab.jpg?w=960&h=540"
     },
     {
-      "start": "2026-05-18T17:30:00+05:00",
-      "stop": "2026-05-18T18:00:00+05:00",
-      "title": "Behind the Gates",
-      "sub_title": "Santa Barbara",
-      "desc": "A modern tech masterpiece of a home with controls for everything in the palm of your hand. A famous lodge inspired home surrounded by Californian nature.",
+      "start": "2026-05-18T21:30:00+05:00",
+      "stop": "2026-05-18T22:00:00+05:00",
+      "title": "Distant Shores",
+      "sub_title": "Gibraltar Med to Canaries",
+      "desc": "Sailing in the Strait of Gibraltar; the Spanish Mediterranean coast; the Balearic Islands; Morocco at Tangier and heading offshore to the Canary Islands.",
+      "date": "2020",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Series",
+        "Outdoors",
+        "Nature",
+        "Travel"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p13175257_b_h10_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Sheryl Shard",
+          "Paul Shard"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-18T22:00:00+05:00",
+      "stop": "2026-05-18T22:30:00+05:00",
+      "title": "Global Passport",
+      "sub_title": "Quintana Roo, Mexico",
+      "desc": "Join host Christina Cindrich in the Mexican state of Quintana Roo. Home to both Mayan ruins and traveler favorites like Cancun, Playa del Carmen, Isla Mujeres, and Tulum. See what every region has to offer and fall in love with the Mexican Caribbean.",
+      "date": "2021",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Series",
+        "Travel"
+      ],
+      "episode": "S2 E2",
+      "icon": "http://dtil.tmsimg.com/assets/p17047145_b_h10_aa.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-18T22:30:00+05:00",
+      "stop": "2026-05-18T23:00:00+05:00",
+      "title": "Facing Waves",
+      "sub_title": "Paddling Peru",
+      "desc": "A stand-up paddling expedition to explore some of South America's best white water rivers in Peru.",
+      "date": "2017",
+      "language": "en",
+      "rating": "L",
+      "categories": [
+        "Series",
+        "Kayaking",
+        "Outdoors"
+      ],
+      "episode": "S5 E8",
+      "icon": "http://dtil.tmsimg.com/assets/p9897159_b_h8_ae.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Alex Heaslip",
+          "Brendan Mark"
+        ],
+        "actor": [
+          "Ken Whiting",
+          "Luke Hopkins",
+          "Alex Kellar"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-18T23:00:00+05:00",
+      "stop": "2026-05-18T23:30:00+05:00",
+      "title": "Top Travel",
+      "sub_title": "Salerno, Santorini and Rhodes",
+      "desc": "Giardino della Minerva, the oldest botanical garden in Europe.",
       "date": "2016",
       "language": "en",
       "rating": "TVG",
       "categories": [
         "Series",
-        "Travel",
-        "House/garden"
+        "Travel"
       ],
-      "episode": "S3 E20",
-      "icon": "http://dtil.tmsimg.com/assets/p13227213_b_h10_ab.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-18T18:00:00+05:00",
-      "stop": "2026-05-18T18:30:00+05:00",
-      "title": "Travel Thru History",
-      "sub_title": "Los Angeles",
-      "desc": "We visit Space Shuttle Endeavor at the California Science Center; we check out the glitz and glamor at the Hollywood Museum; we also learn about the Holocaust at the Holocaust Museum and Japanese Internment.",
-      "language": "en",
-      "rating": "12",
-      "categories": [
-        "Series",
-        "Travel",
-        "History"
-      ],
-      "episode": "S2 E7",
-      "icon": "http://dtil.tmsimg.com/assets/p9459138_b_h10_ab.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-18T18:30:00+05:00",
-      "stop": "2026-05-18T19:30:00+05:00",
-      "title": "Dream Cruises",
-      "sub_title": "Lafayette",
-      "desc": "Aachen; the Romantic Rhine; the Black Forest; Lake Constance; visiting cathedrals in Cologne and Strasbourg.",
-      "date": "2015",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Series",
-        "Travel",
-        "Documentary"
-      ],
-      "episode": "S3 E19",
-      "icon": "http://dtil.tmsimg.com/assets/p9789899_b_h10_ae.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-18T19:30:00+05:00",
-      "stop": "2026-05-18T20:00:00+05:00",
-      "title": "Selling Mega Mansions",
-      "sub_title": "California Dreamy",
-      "desc": "Jack and Catherine are looking to upgrade their Los Angeles lifestyle to either the posh lifestyle of Beverly Hills or the tranquil beaches of Malibu.",
-      "date": "2017",
-      "language": "en",
-      "rating": "TVG",
-      "categories": [
-        "Series",
-        "House/garden"
-      ],
-      "episode": "S2 E6",
-      "icon": "http://dtil.tmsimg.com/assets/p12720929_b_h10_ab.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-18T20:00:00+05:00",
-      "stop": "2026-05-18T20:30:00+05:00",
-      "title": "Find Me a Luxury Home",
-      "sub_title": "Elise",
-      "desc": "Million-dollar house hunter Elise searches for a gorgeous estate to call home in Westlake Village, Calif.",
-      "date": "2018",
-      "language": "en",
-      "rating": "TVG",
-      "categories": [
-        "Series",
-        "Home improvement",
-        "House/garden"
-      ],
-      "episode": "S1 E20",
-      "icon": "http://dtil.tmsimg.com/assets/p14589458_b_h10_aa.jpg?w=960&h=540"
+      "episode": "S4 E8",
+      "icon": "http://dtil.tmsimg.com/assets/p8663956_b_h10_ab.jpg?w=960&h=540"
     }
   ]
 }

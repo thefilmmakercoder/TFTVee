@@ -4,75 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-18T16:00:00+05:00",
-      "stop": "2026-05-18T17:00:00+05:00",
-      "title": "Global News Morning Special Edition",
-      "desc": "Covering the major stories from across Canada and around the world.",
-      "date": "2023",
-      "language": "en",
-      "categories": [
-        "Special",
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p24438195_b_h10_aa.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-18T17:00:00+05:00",
-      "stop": "2026-05-18T18:00:00+05:00",
-      "title": "Global News Morning Special Edition",
-      "desc": "Covering the major stories from across Canada and around the world.",
-      "date": "2023",
-      "language": "en",
-      "categories": [
-        "Special",
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p24438195_b_h10_aa.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-18T18:00:00+05:00",
-      "stop": "2026-05-18T19:00:00+05:00",
-      "title": "The Morning Show",
-      "desc": "Viewers from across the country are welcomed in for an hour of smart conversation, lifestyle segments, big-name guests and live performances.",
-      "date": "2011",
-      "language": "en",
-      "categories": [
-        "News",
-        "Interview"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p8861345_b_h8_aa.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Carolyn Mackenzie",
-          "Jeff McArthur",
-          "Liem Vu"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-18T19:00:00+05:00",
-      "stop": "2026-05-18T20:00:00+05:00",
-      "title": "Tamron Hall",
-      "sub_title": "Daylife is the New Nightlife",
-      "desc": "Journalist Maggie Bullock and Early Birds Club co-founder Laura Baginski reveal why moms are leading the \"soft clubbing\" charge; journalist Oyin Adedoyin; how a woman's \"daylife\" transformed her health; HuffPost reporter Jillian Wilson; a couple who met at a Brooklyn run club get ready to walk down the aisle; Tank and The Bangas perform.",
-      "date": "2026",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Series",
-        "Talk"
-      ],
-      "episode": "S7 E166",
-      "icon": "http://dtil.tmsimg.com/assets/p17197549_b_h8_af.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Tamron Hall",
-          "Maggie Bullock",
-          "Laura Baginski"
-        ]
-      }
-    },
-    {
       "start": "2026-05-18T20:00:00+05:00",
       "stop": "2026-05-18T21:00:00+05:00",
       "title": "Property Brothers: Forever Home",
@@ -116,6 +47,105 @@
         "actor": [
           "Brian McCourt",
           "Sarah Keenleyside"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-18T21:30:00+05:00",
+      "stop": "2026-05-18T22:00:00+05:00",
+      "title": "Save My Reno",
+      "sub_title": "Courtlyn & Kim",
+      "desc": "Sebastian and Samantha help renovate a downstairs suite for a daughter who needs privacy from mom.",
+      "date": "2021",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Series",
+        "House/garden",
+        "Reality"
+      ],
+      "episode": "S4 E7",
+      "icon": "http://dtil.tmsimg.com/assets/p19606173_b_h8_ac.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Sebastian Clovis",
+          "Samantha Pynn"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-18T22:00:00+05:00",
+      "stop": "2026-05-18T23:00:00+05:00",
+      "title": "Fire Masters",
+      "sub_title": "Blazing a Trail",
+      "desc": "Three chefs enter the arena ready to show off their flame game in a battle of the taco; the chefs romance the judges with their date night themed feasts.",
+      "date": "2022",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Competition Reality",
+        "Cooking"
+      ],
+      "episode": "S5 E2",
+      "icon": "http://dtil.tmsimg.com/assets/p15598103_b_h8_ab.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Frank Samson",
+          "Ryan Shaw"
+        ],
+        "actor": [
+          "Dylan Benoit"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-18T23:00:00+05:00",
+      "stop": "2026-05-19T00:00:00+05:00",
+      "title": "Masters of Flip",
+      "sub_title": "As History Would Have It",
+      "desc": "Kortney and Dave flip a 19th-century classic home.",
+      "date": "2016",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Reality",
+        "House/garden",
+        "Home improvement"
+      ],
+      "episode": "S2 E5",
+      "icon": "http://dtil.tmsimg.com/assets/p11680488_b_h10_at.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "James Wilkes"
+        ],
+        "actor": [
+          "Kortney Wilson",
+          "Dave Wilson"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-19T00:00:00+05:00",
+      "stop": "2026-05-19T00:30:00+05:00",
+      "title": "The Drew Barrymore Show",
+      "sub_title": "A Little Bit Extra with Sunny Anderson",
+      "desc": "Drew and Sunny Anderson make hot dogs in the kitchen.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Series",
+        "Talk",
+        "Entertainment"
+      ],
+      "episode": "S6 E305",
+      "icon": "http://dtil.tmsimg.com/assets/p31124897_b_h8_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Drew Barrymore",
+          "Sunny Anderson"
         ]
       }
     }
