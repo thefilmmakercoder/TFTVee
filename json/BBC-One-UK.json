@@ -4,42 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-19T00:30:00+05:00",
-      "stop": "2026-05-19T01:00:00+05:00",
-      "title": "The Smuggling Business: Undercover",
-      "desc": "An undercover BBC investigation into people smuggling gangs operating in France, revealing how small boat crossings to the UK are being organised and paid for in plain sight.",
-      "language": "en",
-      "categories": [
-        "Entertainment",
-        "Factual"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/233bfad7-8c65-4dc1-838e-658a4e445bfe/16-9"
-    },
-    {
-      "start": "2026-05-19T01:00:00+05:00",
-      "stop": "2026-05-19T02:00:00+05:00",
-      "title": "The Cage",
-      "desc": "As forces close in on Matty and Leanne, and the evidence stacks up against them, can they pull off one last roll of the dice? Contains strong language.",
-      "language": "en",
-      "categories": [
-        "Entertainment",
-        "Detective"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/026a1c5d-f7ea-4ad0-a4e3-c3688d869505/16-9"
-    },
-    {
-      "start": "2026-05-19T02:00:00+05:00",
-      "stop": "2026-05-19T02:30:00+05:00",
-      "title": "BBC News and Weather",
-      "desc": "The latest national and international news, with reports from BBC correspondents worldwide.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/2f16b285-d169-470c-ac8b-c3702999a0c9/16-9"
-    },
-    {
       "start": "2026-05-19T02:30:00+05:00",
       "stop": "2026-05-19T02:40:00+05:00",
       "title": "BBC London News",
@@ -73,6 +37,42 @@
         "Movie"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/c3929355-2a14-4c42-ad46-d3145f8fa4ab/16-9"
+    },
+    {
+      "start": "2026-05-19T05:00:00+05:00",
+      "stop": "2026-05-19T05:05:00+05:00",
+      "title": "Weather for the Week Ahead",
+      "desc": "Detailed weather forecast.",
+      "language": "en",
+      "categories": [
+        "News & Documentary",
+        "News"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/e69d10c2-7194-444e-b7e1-3921399a8e76/16-9"
+    },
+    {
+      "start": "2026-05-19T05:05:00+05:00",
+      "stop": "2026-05-19T10:00:00+05:00",
+      "title": "BBC News",
+      "desc": "BBC One joins the BBC's rolling news channel for a night of news.",
+      "language": "en",
+      "categories": [
+        "News & Documentary",
+        "News"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/3e5643f6-4aa7-4764-9cb5-8193b921c846/16-9"
+    },
+    {
+      "start": "2026-05-19T10:00:00+05:00",
+      "stop": "2026-05-19T13:30:00+05:00",
+      "title": "Breakfast",
+      "desc": "The latest news, sport, business and weather from the BBC's Breakfast team.",
+      "language": "en",
+      "categories": [
+        "News & Documentary",
+        "News"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/5fd65b04-772f-4a5b-a66f-5f1c171e9275/16-9"
     }
   ]
 }
