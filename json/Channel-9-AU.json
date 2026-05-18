@@ -4,47 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-18T22:30:00+05:00",
-      "stop": "2026-05-18T23:00:00+05:00",
-      "title": "TV Shop - Home Shopping",
-      "desc": "Home shopping programme.",
-      "language": "en",
-      "rating": "G",
-      "categories": [
-        "Special Interest"
-      ],
-      "episode": "E34",
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/184500/image/334x188"
-    },
-    {
-      "start": "2026-05-18T23:00:00+05:00",
-      "stop": "2026-05-18T23:30:00+05:00",
-      "title": "Skippy",
-      "sub_title": "A Work Of Art",
-      "desc": "Classic Australian series starring Ed Deveraux and Tony Bonner. Skippy makes friends with a famous, yet eccentric, wildlife painter who comes to the Waratah National Park on a commission from Sir Adrian Gillespie.",
-      "language": "en",
-      "rating": "G",
-      "categories": [
-        "Kids & Family"
-      ],
-      "episode": "S3 E1",
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/132554/image/334x188"
-    },
-    {
-      "start": "2026-05-18T23:30:00+05:00",
-      "stop": "2026-05-19T00:00:00+05:00",
-      "title": "A Current Affair",
-      "sub_title": "Monday 18 May 2026",
-      "desc": "A Current Affair covers the realms of politics, crime, human rights, science, technology, celebrities and entertainment - all investigated by a dedicated team.",
-      "language": "en",
-      "rating": "NR",
-      "categories": [
-        "News"
-      ],
-      "episode": "E98",
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/131990/image/334x188"
-    },
-    {
       "start": "2026-05-19T00:00:00+05:00",
       "stop": "2026-05-19T00:30:00+05:00",
       "title": "Today Early News",
@@ -84,6 +43,47 @@
       ],
       "episode": "E78",
       "icon": "https://www.fetchtv.com.au/v2/epg/program/134254/image/334x188"
+    },
+    {
+      "start": "2026-05-19T06:30:00+05:00",
+      "stop": "2026-05-19T07:00:00+05:00",
+      "title": "9News Morning",
+      "sub_title": "Tuesday 19 May 2026",
+      "desc": "Join 9News for up to the minute news on local and international news including sport and weather.",
+      "language": "en",
+      "rating": "NR",
+      "categories": [
+        "News"
+      ],
+      "episode": "E99",
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/7726305/image/334x188"
+    },
+    {
+      "start": "2026-05-19T07:00:00+05:00",
+      "stop": "2026-05-19T08:15:00+05:00",
+      "title": "The Floor",
+      "sub_title": "Grand Final",
+      "desc": "The Grand Finale has arrived, by the end of tonight, one of the 8 players left standing will take control of the entire floor, taking home the life changing $200,000 prize.",
+      "language": "en",
+      "rating": "PG",
+      "categories": [
+        "Special Interest"
+      ],
+      "episode": "S2 E10",
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/7422499/image/334x188"
+    },
+    {
+      "start": "2026-05-19T08:15:00+05:00",
+      "stop": "2026-05-19T08:45:00+05:00",
+      "title": "Destination WA",
+      "desc": "This week on Destination WA, Will goes scuba diving at the Montebello Islands and spends a relaxing day at the beach, exploring crystal-clear waters, marine life, and the natural beauty of Western Australia's coastline.",
+      "language": "en",
+      "rating": "PG",
+      "categories": [
+        "Special Interest"
+      ],
+      "episode": "S17 E13",
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/157711/image/334x188"
     }
   ]
 }
