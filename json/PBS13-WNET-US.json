@@ -4,44 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-19T03:30:00+05:00",
-      "stop": "2026-05-19T04:00:00+05:00",
-      "title": "BBC World News America",
-      "desc": "A detailed look into news stories from around the world from the BBC news desk in Washington, D.C.",
-      "date": "2026",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p32402912_b_h10_aa.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Sumi Somaskanda",
-          "Caitr\u00edona Perry"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-19T04:00:00+05:00",
-      "stop": "2026-05-19T05:00:00+05:00",
-      "title": "PBS News Hour",
-      "desc": "Co-anchors Amna Nawaz and Geoff Bennett and correspondents offer in-depth analysis of current events.",
-      "date": "2026",
-      "language": "en",
-      "categories": [
-        "Series",
-        "News"
-      ],
-      "episode": "S52 E230",
-      "icon": "http://dtil.tmsimg.com/assets/p27608822_b_h8_ac.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Amna Nawaz",
-          "Geoff Bennett"
-        ]
-      }
-    },
-    {
       "start": "2026-05-19T05:00:00+05:00",
       "stop": "2026-05-19T06:00:00+05:00",
       "title": "Antiques Roadshow",
@@ -118,6 +80,57 @@
       "credits": {
         "actor": [
           "Christiane Amanpour"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-19T09:30:00+05:00",
+      "stop": "2026-05-19T10:30:00+05:00",
+      "title": "Lucy Worsley's Royal Myths & Secrets",
+      "sub_title": "Elizabeth I, The Warrior Queen",
+      "desc": "Elizabeth I's image as a warrior queen, facilitated by myths and secrets about her victory over the Spanish Armada, shaped British national identity for centuries.",
+      "date": "2020",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Documentary",
+        "History"
+      ],
+      "episode": "S1 E2",
+      "icon": "http://dtil.tmsimg.com/assets/p17949554_b_h10_ar.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Laura Blount"
+        ],
+        "actor": [
+          "Lucy Worsley"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-19T10:30:00+05:00",
+      "stop": "2026-05-19T11:30:00+05:00",
+      "title": "MaryLand on Masterpiece",
+      "desc": "Everything comes to a head as Richard and Jim descend on Bayview; the family tries to heal and reconnect; the fallout from Mary's actions continues to reverberate.",
+      "date": "2023",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "Series",
+        "Drama",
+        "Miniseries"
+      ],
+      "episode": "S1 E3",
+      "icon": "http://dtil.tmsimg.com/assets/p24729882_b_h8_ac.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Sue Tully"
+        ],
+        "actor": [
+          "Suranne Jones",
+          "Eve Best",
+          "Hugh Quarshie"
         ]
       }
     }

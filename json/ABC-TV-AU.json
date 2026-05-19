@@ -4,43 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-19T01:00:00+05:00",
-      "stop": "2026-05-19T04:00:00+05:00",
-      "title": "News Breakfast",
-      "desc": "As each day begins get the facts you need to stay informed. James Glenday and Emma Rebellato present the latest news, overnight developments and today's top stories, joined by Catherine Murphy, Nate Byrne and Lillian Rangiah.",
-      "language": "en",
-      "rating": "NR",
-      "categories": [
-        "News"
-      ],
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/18786035/image/334x188"
-    },
-    {
-      "start": "2026-05-19T04:00:00+05:00",
-      "stop": "2026-05-19T05:00:00+05:00",
-      "title": "ABC News Mornings",
-      "desc": "Stay in the know with what's happening this morning. ABC News brings you up-to-the-minute news to fuel your daily conversations so you can stay connected and follow the discussion across the day. Presented by Gemma Veness.",
-      "language": "en",
-      "rating": "NR",
-      "categories": [
-        "News"
-      ],
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/311312/image/334x188"
-    },
-    {
-      "start": "2026-05-19T05:00:00+05:00",
-      "stop": "2026-05-19T05:30:00+05:00",
-      "title": "Australian Story",
-      "desc": "In 2026, Logie-award-winning documentary program Australian Story celebrates 30 years sharing compelling stories about real people that illuminate, entertain and inspire. The power of the personal. Presented by Leigh Sales.",
-      "language": "en",
-      "rating": "NR",
-      "categories": [
-        "Special Interest"
-      ],
-      "episode": "E14",
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/132026/image/334x188"
-    },
-    {
       "start": "2026-05-19T05:30:00+05:00",
       "stop": "2026-05-19T06:00:00+05:00",
       "title": "Planet America",
@@ -77,6 +40,47 @@
         "News"
       ],
       "icon": "https://www.fetchtv.com.au/v2/epg/program/5979117/image/334x188"
+    },
+    {
+      "start": "2026-05-19T08:00:00+05:00",
+      "stop": "2026-05-19T09:00:00+05:00",
+      "title": "Death In Paradise",
+      "desc": "Mervin and the team investigate the suspicious death of a wellness business owner.",
+      "language": "en",
+      "rating": "PG",
+      "categories": [
+        "Drama"
+      ],
+      "episode": "S14 E3",
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/283024/image/334x188"
+    },
+    {
+      "start": "2026-05-19T09:00:00+05:00",
+      "stop": "2026-05-19T09:25:00+05:00",
+      "title": "Spicks and Specks",
+      "sub_title": "Jude Perl, Joel Creasey, Johnny Took & Abbie Chatfield",
+      "desc": "Adam, Myf and Alan are joined by Jude Perl, Joel Creasey, Johnny Took and Abbie Chatfield. Plus, western swing with the Canyon Callers and so many Secret Song clues with Brian Mannix.",
+      "language": "en",
+      "rating": "PG",
+      "categories": [
+        "Music"
+      ],
+      "episode": "S11 E12",
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/176223/image/334x188"
+    },
+    {
+      "start": "2026-05-19T09:25:00+05:00",
+      "stop": "2026-05-19T09:55:00+05:00",
+      "title": "Anh's Brush With Fame",
+      "sub_title": "Dr Richard Harris",
+      "desc": "Dr Richard Harris is a medical hero. When a soccer team became trapped in a Thai cave in 2018, the South Australian anaesthetist played a pivotal role in getting them out. How will Anh portray his courageous spirit?",
+      "language": "en",
+      "rating": "PG",
+      "categories": [
+        "Special Interest"
+      ],
+      "episode": "S5 E2",
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/348667/image/334x188"
     }
   ]
 }

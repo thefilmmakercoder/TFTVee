@@ -4,20 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-19T00:30:00+05:00",
-      "stop": "2026-05-19T04:00:00+05:00",
-      "title": "Today",
-      "sub_title": "Tuesday 19 May 2026",
-      "desc": "Join Karl Stefanovic and Sarah Abo and the TODAY team as they bring you the latest in news, current affairs, sports, politics, entertainment, fashion, health and lifestyle.",
-      "language": "en",
-      "rating": "NR",
-      "categories": [
-        "News"
-      ],
-      "episode": "E99",
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/100687/image/334x188"
-    },
-    {
       "start": "2026-05-19T04:00:00+05:00",
       "stop": "2026-05-19T06:30:00+05:00",
       "title": "Today Extra",
@@ -84,6 +70,19 @@
       ],
       "episode": "E14",
       "icon": "https://www.fetchtv.com.au/v2/epg/program/20475546/image/334x188"
+    },
+    {
+      "start": "2026-05-19T09:00:00+05:00",
+      "stop": "2026-05-19T10:00:00+05:00",
+      "title": "Pointless",
+      "desc": "Hosted by Alexander Armstrong. In each episode four teams of two contestants attempt to find correct but obscure answers to four rounds of general knowledge questions, with the winning team eligible to compete for the show's cash jackpot.",
+      "language": "en",
+      "rating": "PG",
+      "categories": [
+        "Special Interest"
+      ],
+      "episode": "S34 E41",
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/325129/image/334x188"
     }
   ]
 }

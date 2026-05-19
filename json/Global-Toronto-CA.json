@@ -4,75 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-19T03:30:00+05:00",
-      "stop": "2026-05-19T04:00:00+05:00",
-      "title": "Global National",
-      "desc": "The top stories from around the world.",
-      "date": "2026",
-      "language": "en",
-      "rating": "TVG",
-      "categories": [
-        "Series",
-        "News"
-      ],
-      "episode": "E138",
-      "icon": "http://dtil.tmsimg.com/assets/p185876_b_h8_ae.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Dawna Friesen"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-19T04:00:00+05:00",
-      "stop": "2026-05-19T04:30:00+05:00",
-      "title": "The Goldbergs",
-      "sub_title": "Bill's Wedding",
-      "desc": "Bill is getting married and Beverly and Jane have only 24 hours to plan it; a fortune-teller at the wedding reception could change the future for Adam, Erica and Barry's romantic life.",
-      "date": "2020",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Series",
-        "Sitcom"
-      ],
-      "episode": "S8 E4",
-      "icon": "http://dtil.tmsimg.com/assets/p9977319_b_h8_by.jpg?w=960&h=540",
-      "credits": {
-        "director": [
-          "Christine Lakin"
-        ],
-        "actor": [
-          "Wendi McLendon-Covey",
-          "Patton Oswalt",
-          "Sean Giambrone"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-19T04:30:00+05:00",
-      "stop": "2026-05-19T05:00:00+05:00",
-      "title": "Entertainment Tonight",
-      "desc": "News and features about performers, productions and the milieu.",
-      "date": "2026",
-      "language": "en",
-      "rating": "M 15+",
-      "categories": [
-        "Series",
-        "Newsmagazine",
-        "Entertainment"
-      ],
-      "episode": "S45 E222",
-      "icon": "http://dtil.tmsimg.com/assets/p184256_b_h8_aa.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Kevin Frazier",
-          "Nischelle Turner",
-          "Rachel Smith"
-        ]
-      }
-    },
-    {
       "start": "2026-05-19T05:00:00+05:00",
       "stop": "2026-05-19T06:00:00+05:00",
       "title": "FBI",
@@ -149,6 +80,61 @@
           "Tom Ellis",
           "Nick Gehlfuss",
           "Necar Zadegan"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-19T08:00:00+05:00",
+      "stop": "2026-05-19T08:35:00+05:00",
+      "title": "Global News at 11",
+      "desc": "Greater Toronto's top local news stories and latest weather forecast.",
+      "date": "2012",
+      "language": "en",
+      "categories": [
+        "News",
+        "Weather"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p9123089_b_h10_ab.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-19T08:35:00+05:00",
+      "stop": "2026-05-19T09:05:00+05:00",
+      "title": "Global National",
+      "desc": "The top stories from around the world.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Series",
+        "News"
+      ],
+      "episode": "E138",
+      "icon": "http://dtil.tmsimg.com/assets/p185876_b_h8_ae.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Dawna Friesen"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-19T09:05:00+05:00",
+      "stop": "2026-05-19T10:07:00+05:00",
+      "title": "The Late Show With Stephen Colbert",
+      "sub_title": "The Worst of The Late Show With Stephen Colbert",
+      "desc": "The worst of \"The Late Show With Stephen Colbert.\".",
+      "date": "2026",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Talk",
+        "Comedy"
+      ],
+      "episode": "S11 E115",
+      "icon": "http://dtil.tmsimg.com/assets/p31135627_b_h8_ab.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Stephen Colbert"
         ]
       }
     }

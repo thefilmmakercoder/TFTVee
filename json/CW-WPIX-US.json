@@ -4,70 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-19T03:30:00+05:00",
-      "stop": "2026-05-19T04:00:00+05:00",
-      "title": "PIX11 Evening News",
-      "desc": "Staying informed with the news and headlines.",
-      "date": "2022",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p21846983_b_h8_aa.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-19T04:00:00+05:00",
-      "stop": "2026-05-19T04:30:00+05:00",
-      "title": "Seinfeld",
-      "sub_title": "Male Unbonding",
-      "desc": "Jerry breaks off an unusual friendship with a fellow (Kevin Dunn) he has disliked for years.",
-      "date": "1990",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Series",
-        "Sitcom"
-      ],
-      "episode": "S1 E4",
-      "icon": "http://dtil.tmsimg.com/assets/p183875_b_h10_ab.jpg?w=960&h=540",
-      "credits": {
-        "director": [
-          "Tom Cherones"
-        ],
-        "actor": [
-          "Jerry Seinfeld",
-          "Julia Louis-Dreyfus",
-          "Jason Alexander"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-19T04:30:00+05:00",
-      "stop": "2026-05-19T05:00:00+05:00",
-      "title": "The Big Bang Theory",
-      "sub_title": "The Adhesive Duck Deficiency",
-      "desc": "Penny is forced to rely on Sheldon when she is injured while Howard, Leonard and Raj are away.",
-      "date": "2009",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Series",
-        "Sitcom"
-      ],
-      "episode": "S3 E8",
-      "icon": "http://dtil.tmsimg.com/assets/p7895968_b_h10_aa.jpg?w=960&h=540",
-      "credits": {
-        "director": [
-          "Mark Cendrowski"
-        ],
-        "actor": [
-          "Johnny Galecki",
-          "Jim Parsons",
-          "Kaley Cuoco"
-        ]
-      }
-    },
-    {
       "start": "2026-05-19T05:00:00+05:00",
       "stop": "2026-05-19T06:00:00+05:00",
       "title": "Sullivan's Crossing",
@@ -127,6 +63,67 @@
         "News"
       ],
       "icon": "http://dtil.tmsimg.com/assets/p10829690_b_h8_ab.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-19T08:00:00+05:00",
+      "stop": "2026-05-19T08:30:00+05:00",
+      "title": "New York Nightcap",
+      "desc": "WPIX provides essential New York news, live sports, and CW network hits, serving as a cornerstone of local broadcasting for the tri-state area.",
+      "date": "2025",
+      "language": "en",
+      "categories": [
+        "Community"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p31821949_st_h10_aa.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-19T08:30:00+05:00",
+      "stop": "2026-05-19T09:00:00+05:00",
+      "title": "Seinfeld",
+      "sub_title": "The Marine Biologist",
+      "desc": "George poses as a marine biologist while on a date with a former college classmate (Rosalind Allen); Elaine loses her electronic organizer.",
+      "date": "1994",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Series",
+        "Sitcom"
+      ],
+      "episode": "S5 E14",
+      "icon": "http://dtil.tmsimg.com/assets/p183875_b_h10_ab.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Tom Cherones"
+        ],
+        "actor": [
+          "Jerry Seinfeld",
+          "Jason Alexander",
+          "Michael Richards"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-19T09:00:00+05:00",
+      "stop": "2026-05-19T09:30:00+05:00",
+      "title": "Friends",
+      "sub_title": "The One With Five Steaks and an Eggplant",
+      "desc": "The group's plans of throwing a birthday party are marred when money becomes an issue; Monica gets a promotion; Chandler sets a woman up to get a date with her, but a case of mistaken identities means that he discovers what she really thought of him.",
+      "date": "1995",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Sitcom"
+      ],
+      "episode": "S2 E5",
+      "icon": "http://dtil.tmsimg.com/assets/p7892599_b_h10_ab.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Jennifer Aniston",
+          "Courteney Cox",
+          "Lisa Kudrow"
+        ]
+      }
     }
   ]
 }
