@@ -4,89 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-19T15:00:00+05:00",
-      "stop": "2026-05-19T18:00:00+05:00",
-      "title": "Global News Morning",
-      "desc": "Greater Toronto's top local news stories and latest weather forecast to start your day.",
-      "date": "2019",
-      "language": "en",
-      "categories": [
-        "News",
-        "Weather"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p16568475_b_h10_ad.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-19T18:00:00+05:00",
-      "stop": "2026-05-19T19:00:00+05:00",
-      "title": "The Morning Show",
-      "desc": "Viewers from across the country are welcomed in for an hour of smart conversation, lifestyle segments, big-name guests and live performances.",
-      "date": "2011",
-      "language": "en",
-      "categories": [
-        "News",
-        "Interview"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p8861345_b_h8_aa.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Carolyn Mackenzie",
-          "Jeff McArthur",
-          "Liem Vu"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-19T19:00:00+05:00",
-      "stop": "2026-05-19T20:00:00+05:00",
-      "title": "Tamron Hall",
-      "sub_title": "Pulling Back the Curtain",
-      "desc": "Tamron goes behind the Internet's most talked-about viral moments; Mother-daughter fitness stars Denise and Katie Austin; YouTube daredevil Michelle Khare; Boston Globe reporter Emily Sweeney.",
-      "date": "2026",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Series",
-        "Talk"
-      ],
-      "episode": "S7 E167",
-      "icon": "http://dtil.tmsimg.com/assets/p17197549_b_h8_af.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Tamron Hall",
-          "Denise Austin",
-          "Katie Austin"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-19T20:00:00+05:00",
-      "stop": "2026-05-19T21:00:00+05:00",
-      "title": "Property Brothers: Forever Home",
-      "sub_title": "A'amna & Ibrahim",
-      "desc": "A couple searching for their first home in Los Angeles finally find their cozy cottage; while they love their home, it's very dated, so Drew and Jonathan are updating its layout and '70s mirror walls to create a paradise for them to grow into.",
-      "date": "2021",
-      "language": "en",
-      "rating": "TVG",
-      "categories": [
-        "Series",
-        "Reality",
-        "House/garden",
-        "Home improvement"
-      ],
-      "episode": "S5 E12",
-      "icon": "http://dtil.tmsimg.com/assets/p16607789_b_h8_bg.jpg?w=960&h=540",
-      "credits": {
-        "director": [
-          "Jim MacPherson"
-        ],
-        "actor": [
-          "Jonathan Scott",
-          "Drew Scott"
-        ]
-      }
-    },
-    {
       "start": "2026-05-19T21:00:00+05:00",
       "stop": "2026-05-19T21:30:00+05:00",
       "title": "Global News at Noon",
@@ -119,6 +36,105 @@
         "actor": [
           "Sebastian Clovis",
           "Samantha Pynn"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-19T22:00:00+05:00",
+      "stop": "2026-05-19T23:00:00+05:00",
+      "title": "Fire Masters",
+      "sub_title": "The Steaks Have Never Been Higher",
+      "desc": "Three chefs bring their signature dish in the Wildfire Round; in the Crossfire Round, it's stout versus IPA.",
+      "date": "2022",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Competition Reality",
+        "Cooking"
+      ],
+      "episode": "S5 E3",
+      "icon": "http://dtil.tmsimg.com/assets/p15598103_b_h8_ab.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Frank Samson",
+          "Ryan Shaw"
+        ],
+        "actor": [
+          "Dylan Benoit"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-19T23:00:00+05:00",
+      "stop": "2026-05-20T00:00:00+05:00",
+      "title": "Masters of Flip",
+      "sub_title": "Colour code",
+      "desc": "Dave wants to increase the budget.",
+      "date": "2016",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Reality",
+        "House/garden",
+        "Home improvement"
+      ],
+      "episode": "S2 E6",
+      "icon": "http://dtil.tmsimg.com/assets/p11680488_b_h10_at.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "James Wilkes"
+        ],
+        "actor": [
+          "Kortney Wilson",
+          "Dave Wilson"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-20T00:00:00+05:00",
+      "stop": "2026-05-20T00:30:00+05:00",
+      "title": "The Drew Barrymore Show",
+      "sub_title": "A Little Bit Extra with Olivia Munn",
+      "desc": "A little bit extra from Drew's interview with actress Olivia Munn.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Series",
+        "Talk",
+        "Entertainment"
+      ],
+      "episode": "S6 E307",
+      "icon": "http://dtil.tmsimg.com/assets/p31124897_b_h8_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Drew Barrymore",
+          "Olivia Munn"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-20T00:30:00+05:00",
+      "stop": "2026-05-20T01:00:00+05:00",
+      "title": "The Drew Barrymore Show",
+      "sub_title": "A Little Bit Extra with Tony Danza",
+      "desc": "More from Tony Danza playing memory bank at the news desk with Drew.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Series",
+        "Talk",
+        "Entertainment"
+      ],
+      "episode": "S6 E308",
+      "icon": "http://dtil.tmsimg.com/assets/p31124897_b_h8_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Drew Barrymore",
+          "Tony Danza"
         ]
       }
     }

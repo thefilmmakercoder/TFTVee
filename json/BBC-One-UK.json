@@ -4,54 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-19T17:00:00+05:00",
-      "stop": "2026-05-19T18:00:00+05:00",
-      "title": "BBC News at One including BBC London News",
-      "desc": "The latest national and international news from the BBC.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/0f31d2ef-eff8-4821-b1e8-c05fb507ea74/16-9"
-    },
-    {
-      "start": "2026-05-19T18:00:00+05:00",
-      "stop": "2026-05-19T19:00:00+05:00",
-      "title": "RHS Chelsea Flower Show 2026",
-      "desc": "It's Medals Day at Chelsea 2026, and Angellica Bell and Nicki Chapman celebrate the stand-out gardens and plants on display.",
-      "language": "en",
-      "categories": [
-        "Entertainment",
-        "Gradening"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/14f4b7ef-4a00-4b53-8c0f-99e09b0c6690/16-9"
-    },
-    {
-      "start": "2026-05-19T19:00:00+05:00",
-      "stop": "2026-05-19T19:45:00+05:00",
-      "title": "Escape to the Country",
-      "desc": "Richie Anderson is house-hunting in North Yorkshire with Sarah, who wants a character-packed cottage. Richie also meets a couple running an 'egg-centric' restaurant on their farm.",
-      "language": "en",
-      "categories": [
-        "Entertainment",
-        "Gradening"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/42f85d6c-3fd2-497d-92e0-9a65215fdb94/16-9"
-    },
-    {
-      "start": "2026-05-19T19:45:00+05:00",
-      "stop": "2026-05-19T20:30:00+05:00",
-      "title": "The Repair Shop on the Road",
-      "desc": "Will Manchester Town Hall's giant clock prove too big for Steve to handle? Will hears the tragic story behind a fruit machine and discovers the endangered craft of globe-making.",
-      "language": "en",
-      "categories": [
-        "Entertainment",
-        "Antiques"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/28b55514-a938-4457-8b95-7b2a1d1d2d88/16-9"
-    },
-    {
       "start": "2026-05-19T20:30:00+05:00",
       "stop": "2026-05-19T21:15:00+05:00",
       "title": "Bridge of Lies",
@@ -74,6 +26,53 @@
         "Game Show"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/4365772d-56cc-42ed-b693-bd6164d09400/16-9"
+    },
+    {
+      "start": "2026-05-19T22:00:00+05:00",
+      "stop": "2026-05-19T22:30:00+05:00",
+      "title": "BBC News",
+      "desc": "The latest national and international news from the BBC.",
+      "language": "en",
+      "categories": [
+        "News & Documentary",
+        "News"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/b1b0c9dc-da5e-499a-a2d4-14735ffc2195/16-9"
+    },
+    {
+      "start": "2026-05-19T22:30:00+05:00",
+      "stop": "2026-05-19T23:00:00+05:00",
+      "title": "BBC London News",
+      "desc": "The latest news, sport and weather from London.",
+      "language": "en",
+      "categories": [
+        "News & Documentary",
+        "News"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/800e0390-a0a7-44d2-934b-dd768a174e59/16-9"
+    },
+    {
+      "start": "2026-05-19T23:00:00+05:00",
+      "stop": "2026-05-19T23:30:00+05:00",
+      "title": "The One Show",
+      "desc": "Alex Jones and Vernon Kay bring you the stories that matter from across the country.",
+      "language": "en",
+      "categories": [
+        "Entertainment"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/01b43029-c924-44e2-ac1a-0468c6572799/16-9"
+    },
+    {
+      "start": "2026-05-19T23:30:00+05:00",
+      "stop": "2026-05-20T00:00:00+05:00",
+      "title": "EastEnders",
+      "desc": "Vicki and Grant try to stage an intervention, Mark grows desperate, and Josh makes Oscar jealous.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Soap"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/8e0cc895-6613-4c48-a83e-22caea9be158/16-9"
     }
   ]
 }

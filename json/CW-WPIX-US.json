@@ -4,66 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-19T16:00:00+05:00",
-      "stop": "2026-05-19T18:00:00+05:00",
-      "title": "PIX11 Morning News at 7am",
-      "desc": "Staying informed with the news and headlines.",
-      "date": "2018",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p16250994_b_h8_ab.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-19T18:00:00+05:00",
-      "stop": "2026-05-19T19:00:00+05:00",
-      "title": "PIX11 Morning News at 9am",
-      "desc": "Staying informed with the news and headlines.",
-      "date": "2020",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p17722468_b_h8_ab.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-19T19:00:00+05:00",
-      "stop": "2026-05-19T20:00:00+05:00",
-      "title": "New York Living",
-      "desc": "WPIX provides essential New York news, live sports, and CW network hits, serving as a cornerstone of local broadcasting for the tri-state area.",
-      "date": "2022",
-      "language": "en",
-      "categories": [
-        "Newsmagazine"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p21493460_st_h10_aa.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-19T20:00:00+05:00",
-      "stop": "2026-05-19T20:30:00+05:00",
-      "title": "Tribunal Justice",
-      "sub_title": "Grandma's $10K Challenge -- Part 1",
-      "desc": "In part one of this two-part case, a woman pursues legal action against her teen granddaughter and her boyfriend, seeking the $10K court maximum for unpaid rent and expenses.",
-      "date": "2025",
-      "language": "en",
-      "rating": "TV14",
-      "categories": [
-        "Series",
-        "Law",
-        "Reality"
-      ],
-      "episode": "S2 E39",
-      "icon": "http://dtil.tmsimg.com/assets/p24616934_b_h10_ad.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Petri Hawkins-Byrd",
-          "Patricia DiMango",
-          "Tanya Acker"
-        ]
-      }
-    },
-    {
       "start": "2026-05-19T20:30:00+05:00",
       "stop": "2026-05-19T21:00:00+05:00",
       "title": "Tribunal Justice",
@@ -107,6 +47,97 @@
           "Steve Wilkos"
         ]
       }
+    },
+    {
+      "start": "2026-05-19T22:00:00+05:00",
+      "stop": "2026-05-19T23:00:00+05:00",
+      "title": "Karamo",
+      "sub_title": "DNA Truth: 16 Kids and Counting?; Unlock: The Poly-Games You Play",
+      "desc": "Lameerial demands a DNA test to prove Ray Ray is her son's father, but he claims the child resembles her ex; Deja thought motherhood would change Andre's commitment to polyamory, but he disagrees: can Karamo help them find answers or closure?",
+      "date": "2026",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "Series",
+        "Talk",
+        "Interview",
+        "Self improvement"
+      ],
+      "episode": "S4 E120",
+      "icon": "http://dtil.tmsimg.com/assets/p22388212_b_h8_ac.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Karamo Brown"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-19T23:00:00+05:00",
+      "stop": "2026-05-19T23:30:00+05:00",
+      "title": "Judy Justice",
+      "sub_title": "Baby Bird Fatality and Dedicated Grandmother: Deliquent Father",
+      "desc": "A German Shepherd digs under a fence, enters a neighbor's house and kills their baby Macaw, the dog's owner says they should have had a stronger fence; a woman faces an uphill battle trying to collect on a loan from her granddaughter's father.",
+      "date": "2023",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "Series",
+        "Reality",
+        "Law"
+      ],
+      "episode": "S2 E135",
+      "icon": "http://dtil.tmsimg.com/assets/p20641302_b_h10_af.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Randy Douthit"
+        ],
+        "actor": [
+          "Judy Sheindlin",
+          "Kevin Rasco",
+          "Whitney Kumar"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-19T23:30:00+05:00",
+      "stop": "2026-05-20T00:00:00+05:00",
+      "title": "Judy Justice",
+      "sub_title": "Body Reshaping Gone Bad",
+      "desc": "A woman claims she did not expect body-sculpting injections into her buttocks; she sues for allegedly false advertising and for emotional distress.",
+      "date": "2021",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "Series",
+        "Reality",
+        "Law"
+      ],
+      "episode": "S1 E40",
+      "icon": "http://dtil.tmsimg.com/assets/p20641302_b_h10_af.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Judy Sheindlin",
+          "Kevin Rasco",
+          "Whitney Kumar"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-20T00:00:00+05:00",
+      "stop": "2026-05-20T00:30:00+05:00",
+      "title": "Live PD Presents",
+      "desc": "WPIX provides essential New York news, live sports, and CW network hits, serving as a cornerstone of local broadcasting for the tri-state area.",
+      "date": "2025",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "Series",
+        "Reality",
+        "Law",
+        "Crime"
+      ],
+      "episode": "S1 E23",
+      "icon": "http://dtil.tmsimg.com/assets/p31045528_b_h8_aa.jpg?w=960&h=540"
     }
   ]
 }
