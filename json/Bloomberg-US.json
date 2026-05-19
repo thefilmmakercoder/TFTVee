@@ -4,14 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-19T14:00:00+05:00",
-      "stop": "2026-05-19T15:00:00+05:00",
-      "title": "Bloomberg Brief",
-      "desc": "\"Bloomberg Brief\" delivers the market news, data and analysis viewers need to set their agendas.",
-      "language": "en",
-      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/Bloomberg-US.png"
-    },
-    {
       "start": "2026-05-19T15:00:00+05:00",
       "stop": "2026-05-19T18:00:00+05:00",
       "title": "Bloomberg Surveillance",
@@ -48,6 +40,14 @@
       "stop": "2026-05-19T23:00:00+05:00",
       "title": "Bloomberg: Balance of Power",
       "desc": "\"Bloomberg Balance of Power\" with host David Westin is a daily look at how politics is impacting global business decisions; top lawmakers, business executives and government leaders join to discuss doing business in today's volatile political climate.",
+      "language": "en",
+      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/Bloomberg-US.png"
+    },
+    {
+      "start": "2026-05-19T23:00:00+05:00",
+      "stop": "2026-05-20T00:00:00+05:00",
+      "title": "Bloomberg Businessweek Daily",
+      "desc": "Carol Massar and Tim Stenovec bring reporting from the magazine that helps global leaders stay ahead, plus insight on the people, companies and trends shaping today's complex economy.",
       "language": "en",
       "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/Bloomberg-US.png"
     }

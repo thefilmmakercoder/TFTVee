@@ -4,43 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-19T14:30:00+05:00",
-      "stop": "2026-05-19T15:00:00+05:00",
-      "title": "Ready for a safer shower? Enjoy a one-day bath remodel with Jacuzzi.",
-      "desc": "Trusted brand Jacuzzi Bath Remodel and interior designer Christina Hall share their secrets on how you can easily and affordably transform your bathroom into a gorgeous custom, safe, stylish space in 1 day! Call for a FREE quote & installation.",
-      "language": "en",
-      "categories": [
-        "Consumer"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p30074472_b_h8_aa.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-19T15:00:00+05:00",
-      "stop": "2026-05-19T15:30:00+05:00",
-      "title": "Inogen Portable Oxygen - No More Tanks!",
-      "desc": "Regain independence and enjoy greater mobility with the compact design and long-lasting battery of portable oxygen.",
-      "language": "en",
-      "categories": [
-        "Health",
-        "Consumer",
-        "Science",
-        "Medical",
-        "Technology"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p17108681_b_h11_ab.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-19T15:30:00+05:00",
-      "stop": "2026-05-19T16:00:00+05:00",
-      "title": "NEW! Shark PowerDetect with DuoClean Detect Technology",
-      "desc": "Meet the new Shark PowerDetect Upright Vacuum with features like DuoClean Detect Technology, self-cleaning brush roll and odor neutralizing and you will be cleaning faster, smarter and better!",
-      "language": "en",
-      "categories": [
-        "Consumer"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p29477991_b_h11_aa.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-05-19T16:00:00+05:00",
       "stop": "2026-05-19T16:30:00+05:00",
       "title": "According to Jim",
@@ -116,6 +79,84 @@
           "Keanu Reeves",
           "Dennis Hopper",
           "Sandra Bullock"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-19T21:30:00+05:00",
+      "stop": "2026-05-20T00:30:00+05:00",
+      "title": "The Rock",
+      "desc": "FBI chemical warfare expert Stanley Goodspeed (Nicolas Cage) is sent on an urgent mission with a former British spy, John Patrick Mason (Sean Connery), to stop Gen. Francis X. Hummel (Ed Harris) from launching chemical weapons on Alcatraz Island into San Francisco. Gen. Hummel demands $100 million in war reparations to be paid to the families of slain servicemen who died on covert operations. After their SEAL team is wiped out, Stanley and John deal with the soldiers on their own.",
+      "date": "1996",
+      "language": "en",
+      "rating": "R",
+      "categories": [
+        "Movie",
+        "Action"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p18099_v_h8_bb.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Michael Bay"
+        ],
+        "actor": [
+          "Sean Connery",
+          "Nicolas Cage",
+          "Ed Harris"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-20T00:30:00+05:00",
+      "stop": "2026-05-20T03:00:00+05:00",
+      "title": "Thor: The Dark World",
+      "desc": "In ancient times, the gods of Asgard fought and won a war against an evil race known as the Dark Elves. The survivors were neutralized, and their ultimate weapon -- the Aether -- was buried in a secret location. Hundreds of years later, Jane Foster (Natalie Portman) finds the Aether and becomes its host, forcing Thor (Chris Hemsworth) to bring her to Asgard before Dark Elf Malekith (Christopher Eccleston) captures her and uses the weapon to destroy the Nine Realms -- including Earth.",
+      "date": "2013",
+      "language": "en",
+      "rating": "12A",
+      "categories": [
+        "Movie",
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p9530219_v_h8_aa.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Alan Taylor"
+        ],
+        "actor": [
+          "Chris Hemsworth",
+          "Natalie Portman",
+          "Tom Hiddleston"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-20T03:00:00+05:00",
+      "stop": "2026-05-20T06:00:00+05:00",
+      "title": "Thor: Ragnarok",
+      "desc": "Imprisoned on the other side of the universe, the mighty Thor finds himself in a deadly gladiatorial contest that pits him against the Hulk, his former ally and fellow Avenger. Thor's quest for survival leads him in a race against time to prevent the all-powerful Hela from destroying his home world and the Asgardian civilization.",
+      "date": "2017",
+      "language": "en",
+      "rating": "PG-13",
+      "categories": [
+        "Movie",
+        "Action",
+        "Adventure",
+        "Science fiction",
+        "Fantasy",
+        "Comedy"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p12402331_v_h10_al.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Taika Waititi"
+        ],
+        "actor": [
+          "Chris Hemsworth",
+          "Tom Hiddleston",
+          "Cate Blanchett"
         ]
       }
     }

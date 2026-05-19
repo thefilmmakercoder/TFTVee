@@ -4,30 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-19T14:00:00+05:00",
-      "stop": "2026-05-19T15:00:00+05:00",
-      "title": "PIX11 Morning News at 5am",
-      "desc": "Staying informed with the news and headlines.",
-      "date": "2016",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p12803754_b_h8_ab.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-19T15:00:00+05:00",
-      "stop": "2026-05-19T16:00:00+05:00",
-      "title": "PIX11 Morning News at 6am",
-      "desc": "Staying informed with the news and headlines.",
-      "date": "2018",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p16250992_b_h8_ab.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-05-19T16:00:00+05:00",
       "stop": "2026-05-19T18:00:00+05:00",
       "title": "PIX11 Morning News at 7am",
@@ -84,6 +60,51 @@
           "Petri Hawkins-Byrd",
           "Patricia DiMango",
           "Tanya Acker"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-19T20:30:00+05:00",
+      "stop": "2026-05-19T21:00:00+05:00",
+      "title": "Tribunal Justice",
+      "sub_title": "Grandma's $10K Challenge -- Part 2",
+      "desc": "Despite the grandmother's efforts to keep her grandchildren out of foster care, her granddaughter involves the police and denies owing anything.",
+      "date": "2025",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "Series",
+        "Law",
+        "Reality"
+      ],
+      "episode": "S2 E40",
+      "icon": "http://dtil.tmsimg.com/assets/p24616934_b_h10_ad.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Petri Hawkins-Byrd",
+          "Patricia DiMango",
+          "Tanya Acker"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-19T21:00:00+05:00",
+      "stop": "2026-05-19T22:00:00+05:00",
+      "title": "The Steve Wilkos Show",
+      "sub_title": "I Saw the Screenshots of Your Sex Video",
+      "desc": "Ricco was looking through his girlfriend's phone and discovered an explicit photo of her having sex with another man; Ashley says her husband, Gino, receives lewd calls, text messages and sex videos from other women and men.",
+      "date": "2020",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "Series",
+        "Talk"
+      ],
+      "episode": "S13 E75",
+      "icon": "http://dtil.tmsimg.com/assets/p185706_b_h8_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Steve Wilkos"
         ]
       }
     }

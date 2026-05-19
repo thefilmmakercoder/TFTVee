@@ -4,14 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-19T07:55:00+05:00",
-      "stop": "2026-05-19T09:30:00+05:00",
-      "title": "This is BBC Three",
-      "desc": "Programmes start at 7.00pm.",
-      "language": "en",
-      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/BBC-Three-UK.png"
-    },
-    {
       "start": "2026-05-19T09:30:00+05:00",
       "stop": "2026-05-19T15:30:00+05:00",
       "title": "..programmes start at 7.00pm",
@@ -54,6 +46,18 @@
         "News"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/46db0641-3b9b-4783-90d4-a1695fbe30d9/16-9"
+    },
+    {
+      "start": "2026-05-19T23:05:00+05:00",
+      "stop": "2026-05-19T23:30:00+05:00",
+      "title": "Deadly 60",
+      "sub_title": "Otter Hide and Seek",
+      "desc": "Steve Backshall dives into the world of the caiman, learns about the plight of the world's biggest parrot and tries to find his nemesis - the giant river otter.",
+      "language": "en",
+      "categories": [
+        "Children"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/8f0d7aea-4223-4564-bd82-bc0c31a20408/16-9"
     }
   ]
 }
