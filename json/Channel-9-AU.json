@@ -4,72 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-19T21:00:00+05:00",
-      "stop": "2026-05-19T21:30:00+05:00",
-      "title": "TV Shop - Home Shopping",
-      "desc": "Home shopping programme.",
-      "language": "en",
-      "rating": "G",
-      "categories": [
-        "Special Interest"
-      ],
-      "episode": "E34",
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/184500/image/334x188"
-    },
-    {
-      "start": "2026-05-19T21:30:00+05:00",
-      "stop": "2026-05-19T22:00:00+05:00",
-      "title": "Building Ideas",
-      "desc": "Discover award winning builds and go behind the scenes of SA's biggest projects such as T2D, SA Aquatic Centre, and the Women's and Children's Hospital. Hosted by Terry Rogers and Jessica Braithwaite.",
-      "language": "en",
-      "rating": "PG",
-      "categories": [
-        "Special Interest"
-      ],
-      "episode": "E1",
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/142393/image/334x188"
-    },
-    {
-      "start": "2026-05-19T22:00:00+05:00",
-      "stop": "2026-05-19T22:30:00+05:00",
-      "title": "TV Shop - Home Shopping",
-      "desc": "Home shopping programme.",
-      "language": "en",
-      "rating": "G",
-      "categories": [
-        "Special Interest"
-      ],
-      "episode": "E34",
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/184500/image/334x188"
-    },
-    {
-      "start": "2026-05-19T22:30:00+05:00",
-      "stop": "2026-05-19T23:00:00+05:00",
-      "title": "TV Shop - Home Shopping",
-      "desc": "Home shopping programme.",
-      "language": "en",
-      "rating": "G",
-      "categories": [
-        "Special Interest"
-      ],
-      "episode": "E34",
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/184500/image/334x188"
-    },
-    {
-      "start": "2026-05-19T23:00:00+05:00",
-      "stop": "2026-05-19T23:30:00+05:00",
-      "title": "Skippy",
-      "sub_title": "A Manner Of Speaking",
-      "desc": "Mark accidentally releases a herd of Mr Fiorini's cows and tries to make amends by learning Italian.",
-      "language": "en",
-      "rating": "G",
-      "categories": [
-        "Kids & Family"
-      ],
-      "episode": "S3 E2",
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/132554/image/334x188"
-    },
-    {
       "start": "2026-05-19T23:30:00+05:00",
       "stop": "2026-05-20T00:00:00+05:00",
       "title": "A Current Affair",
@@ -82,6 +16,74 @@
       ],
       "episode": "E99",
       "icon": "https://www.fetchtv.com.au/v2/epg/program/131990/image/334x188"
+    },
+    {
+      "start": "2026-05-20T00:00:00+05:00",
+      "stop": "2026-05-20T00:30:00+05:00",
+      "title": "Today Early News",
+      "sub_title": "Wednesday 20 May 2026",
+      "desc": "Today Early News with up to date news from Australia and around the world as well as the latest in sport and weather.",
+      "language": "en",
+      "rating": "NR",
+      "categories": [
+        "News"
+      ],
+      "episode": "E100",
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/428725/image/334x188"
+    },
+    {
+      "start": "2026-05-20T00:30:00+05:00",
+      "stop": "2026-05-20T04:00:00+05:00",
+      "title": "Today",
+      "sub_title": "Wednesday 20 May 2026",
+      "desc": "Join Karl Stefanovic and Sarah Abo and the TODAY team as they bring you the latest in news, current affairs, sports, politics, entertainment, fashion, health and lifestyle.",
+      "language": "en",
+      "rating": "NR",
+      "categories": [
+        "News"
+      ],
+      "episode": "E100",
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/100687/image/334x188"
+    },
+    {
+      "start": "2026-05-20T04:00:00+05:00",
+      "stop": "2026-05-20T06:30:00+05:00",
+      "title": "Today Extra",
+      "desc": "Join the TODAY EXTRA team for an exciting mix of topical issues, the best celebrity interviews, cooking with Australia's top chefs, LIVE music performances, the latest in fashion and beauty trends.",
+      "language": "en",
+      "rating": "PG",
+      "categories": [
+        "Special Interest"
+      ],
+      "episode": "E79",
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/134254/image/334x188"
+    },
+    {
+      "start": "2026-05-20T06:30:00+05:00",
+      "stop": "2026-05-20T07:00:00+05:00",
+      "title": "9News Morning",
+      "sub_title": "Wednesday 20 May 2026",
+      "desc": "Join 9News for up to the minute news on local and international news including sport and weather.",
+      "language": "en",
+      "rating": "NR",
+      "categories": [
+        "News"
+      ],
+      "episode": "E100",
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/426816/image/334x188"
+    },
+    {
+      "start": "2026-05-20T07:00:00+05:00",
+      "stop": "2026-05-20T08:00:00+05:00",
+      "title": "The Hundred With Andy Lee",
+      "desc": "Host Andy Lee is joined by a panel of Australia's funniest comedians and a 100 regular Aussies via Zoom to explore the fun behind the facts that make us tick as a nation.",
+      "language": "en",
+      "rating": "PG",
+      "categories": [
+        "Special Interest"
+      ],
+      "episode": "S9 E4",
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/6049053/image/334x188"
     }
   ]
 }
