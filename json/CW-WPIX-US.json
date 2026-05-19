@@ -4,64 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-19T23:30:00+05:00",
-      "stop": "2026-05-20T00:00:00+05:00",
-      "title": "Judy Justice",
-      "sub_title": "Body Reshaping Gone Bad",
-      "desc": "A woman claims she did not expect body-sculpting injections into her buttocks; she sues for allegedly false advertising and for emotional distress.",
-      "date": "2021",
-      "language": "en",
-      "rating": "TV14",
-      "categories": [
-        "Series",
-        "Reality",
-        "Law"
-      ],
-      "episode": "S1 E40",
-      "icon": "http://dtil.tmsimg.com/assets/p20641302_b_h10_af.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Judy Sheindlin",
-          "Kevin Rasco",
-          "Whitney Kumar"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-20T00:00:00+05:00",
-      "stop": "2026-05-20T00:30:00+05:00",
-      "title": "Live PD Presents",
-      "desc": "WPIX provides essential New York news, live sports, and CW network hits, serving as a cornerstone of local broadcasting for the tri-state area.",
-      "date": "2025",
-      "language": "en",
-      "rating": "TV14",
-      "categories": [
-        "Series",
-        "Reality",
-        "Law",
-        "Crime"
-      ],
-      "episode": "S1 E23",
-      "icon": "http://dtil.tmsimg.com/assets/p31045528_b_h8_aa.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-20T00:30:00+05:00",
-      "stop": "2026-05-20T01:00:00+05:00",
-      "title": "Live PD Presents",
-      "desc": "WPIX provides essential New York news, live sports, and CW network hits, serving as a cornerstone of local broadcasting for the tri-state area.",
-      "date": "2025",
-      "language": "en",
-      "rating": "TV14",
-      "categories": [
-        "Series",
-        "Reality",
-        "Law",
-        "Crime"
-      ],
-      "episode": "S1 E24",
-      "icon": "http://dtil.tmsimg.com/assets/p31045528_b_h8_aa.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-05-20T01:00:00+05:00",
       "stop": "2026-05-20T02:00:00+05:00",
       "title": "PIX11 News at 4",
@@ -96,6 +38,70 @@
         "News"
       ],
       "icon": "http://dtil.tmsimg.com/assets/p11641865_b_h8_ab.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-20T03:30:00+05:00",
+      "stop": "2026-05-20T04:00:00+05:00",
+      "title": "PIX11 Evening News",
+      "desc": "Staying informed with the news and headlines.",
+      "date": "2022",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p21846983_b_h8_aa.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-20T04:00:00+05:00",
+      "stop": "2026-05-20T04:30:00+05:00",
+      "title": "Seinfeld",
+      "sub_title": "The Stakeout",
+      "desc": "Jerry goes to great lengths to find and woo a woman he met at a party.",
+      "date": "1990",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Sitcom"
+      ],
+      "episode": "S1 E2",
+      "icon": "http://dtil.tmsimg.com/assets/p183875_b_h10_ab.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Tom Cherones"
+        ],
+        "actor": [
+          "Jerry Seinfeld",
+          "Jason Alexander",
+          "Michael Richards"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-20T04:30:00+05:00",
+      "stop": "2026-05-20T05:00:00+05:00",
+      "title": "The Big Bang Theory",
+      "sub_title": "The Vengeance Formulation",
+      "desc": "After being humiliated on the radio, Sheldon vows to destroy Kripke; Wolowitz tries to not ruin his new relationship with Bernadette.",
+      "date": "2009",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "Series",
+        "Sitcom"
+      ],
+      "episode": "S3 E9",
+      "icon": "http://dtil.tmsimg.com/assets/p7895968_b_h10_aa.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Mark Cendrowski"
+        ],
+        "actor": [
+          "Johnny Galecki",
+          "Jim Parsons",
+          "Kaley Cuoco"
+        ]
+      }
     }
   ]
 }

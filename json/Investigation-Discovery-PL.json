@@ -4,20 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-19T23:00:00+05:00",
-      "stop": "2026-05-20T00:00:00+05:00",
-      "title": "People Magazine Investigates",
-      "sub_title": "Playing with fire",
-      "desc": "Investigation Discovery provides true crime documentaries, real-life investigations, and mystery-focused programming.",
-      "date": "2024",
-      "language": "en",
-      "categories": [
-        "Documentary Series"
-      ],
-      "episode": "S9",
-      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/Investigation-Discovery-PL.png"
-    },
-    {
       "start": "2026-05-20T00:00:00+05:00",
       "stop": "2026-05-20T01:00:00+05:00",
       "title": "Evil Lives Here: My Child The Killer",
@@ -85,6 +71,33 @@
       ],
       "episode": "S9",
       "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/Investigation-Discovery-PL.png"
+    },
+    {
+      "start": "2026-05-20T06:00:00+05:00",
+      "stop": "2026-05-20T07:00:00+05:00",
+      "title": "A Body in the Snow: The Trial of Karen Read",
+      "sub_title": "What happened at 34 Fairview Street?",
+      "desc": "One cold morning, the body of policeman John O'Keefe was found.The man was found on the lawn in front of his friend's house.",
+      "date": "2025",
+      "language": "en",
+      "categories": [
+        "Documentary Series"
+      ],
+      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/Investigation-Discovery-PL.png",
+      "credits": {
+        "actor": [
+          "Self - Defendant - Karen Read",
+          "Self - Karen's Attorney - Alan Jackson",
+          "Self - Investigative Reporter - Ted Daniel",
+          "Self - Karen's Attorney - David R. Yannetti",
+          "Self - Karen's Attorney - Elizabeth Little",
+          "Self - Friend of John O'Keefe - Brendan Kane",
+          "Self - Reporter - Kristina Rex",
+          "Self - Journalist - Flint McColgan",
+          "Self - Criminal Defense Attorney - Joseph Krowski",
+          "Self - Lead Prosecutor - Adam Lally"
+        ]
+      }
     }
   ]
 }

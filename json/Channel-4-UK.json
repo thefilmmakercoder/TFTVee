@@ -4,18 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-19T23:00:00+05:00",
-      "stop": "2026-05-20T00:00:00+05:00",
-      "title": "Channel 4 News",
-      "desc": "Channel 4's flagship news programme. Including the weather.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/01f3f0d1-966f-40df-82f5-6e4f2a5c5e7c/16-9"
-    },
-    {
       "start": "2026-05-20T00:00:00+05:00",
       "stop": "2026-05-20T01:00:00+05:00",
       "title": "Jamie's Ultimate BBQ",
@@ -74,6 +62,18 @@
         "Factual"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/f4828c28-9a95-33bc-9888-d441e2d4ea08/16-9"
+    },
+    {
+      "start": "2026-05-20T05:05:00+05:00",
+      "stop": "2026-05-20T06:00:00+05:00",
+      "title": "Wonders of the World I Can't See",
+      "desc": "Chris McCausland and Liza Tarbuck go to Canada to experience Niagara Falls. Chris is especially excited to visit a wonder that actually makes a noise.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Travel"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/288f3171-a142-308f-8fe1-55e0c4de42fc/16-9"
     }
   ]
 }

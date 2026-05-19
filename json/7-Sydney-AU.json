@@ -4,34 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-19T23:00:00+05:00",
-      "stop": "2026-05-20T00:00:00+05:00",
-      "title": "NBC Today",
-      "sub_title": "Wednesday 20 May 2026",
-      "desc": "International news and weather including interviews with newsmakers in the world of politics, business, media, entertainment and sport.",
-      "language": "en",
-      "rating": "NR",
-      "categories": [
-        "News"
-      ],
-      "episode": "S26 E139",
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/132440/image/334x188"
-    },
-    {
-      "start": "2026-05-20T00:00:00+05:00",
-      "stop": "2026-05-20T00:30:00+05:00",
-      "title": "Sunrise Early News",
-      "sub_title": "Wednesday 20 May 2026",
-      "desc": "Wake up to a better breakfast with Edwina Bartholomew for all the latest news, sport and weather.",
-      "language": "en",
-      "rating": "NR",
-      "categories": [
-        "News"
-      ],
-      "episode": "S26 E100",
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/434344/image/334x188"
-    },
-    {
       "start": "2026-05-20T00:30:00+05:00",
       "stop": "2026-05-20T01:00:00+05:00",
       "title": "Sunrise",
@@ -85,6 +57,33 @@
       ],
       "episode": "S26 E78",
       "icon": "https://www.fetchtv.com.au/v2/epg/program/434212/image/334x188"
+    },
+    {
+      "start": "2026-05-20T08:00:00+05:00",
+      "stop": "2026-05-20T08:02:00+05:00",
+      "title": "Seven News With Alex Cullen",
+      "sub_title": "Wednesday 20 May 2026",
+      "desc": "Join Alex Cullen for all the latest news headlines, as he kicks off Seven's Winning Arvo featuring an entertaining lineup of quiz shows and news updates every hour.",
+      "language": "en",
+      "rating": "NR",
+      "categories": [
+        "News"
+      ],
+      "episode": "S26 E78",
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/438848/image/334x188"
+    },
+    {
+      "start": "2026-05-20T08:02:00+05:00",
+      "stop": "2026-05-20T09:00:00+05:00",
+      "title": "Time Is Money",
+      "desc": "Sara Davies hosts the quickest quiz where contestants are given their prize money from the start but must race to keep hold of it. Only one can make the final and a chance to win big.",
+      "language": "en",
+      "rating": "G",
+      "categories": [
+        "Special Interest"
+      ],
+      "episode": "S1 E9",
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/16782673/image/334x188"
     }
   ]
 }
