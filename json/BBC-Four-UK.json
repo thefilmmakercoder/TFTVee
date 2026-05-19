@@ -4,30 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-19T05:00:00+05:00",
-      "stop": "2026-05-19T06:00:00+05:00",
-      "title": "Margot Fonteyn",
-      "desc": "A tribute to Dame Margot Fonteyn, first broadcast shortly after her death in 1991. Featuring interviews with colleagues and friends and extracts from her ballets.",
-      "language": "en",
-      "categories": [
-        "Entertainment",
-        "Arts"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/894fde5c-9efa-4809-ae50-7b08b055f3bd/16-9"
-    },
-    {
-      "start": "2026-05-19T06:00:00+05:00",
-      "stop": "2026-05-19T07:00:00+05:00",
-      "title": "Art That Made Us",
-      "desc": "The world wars force artists to grapple with destruction and savagery, challenging conventions and the old imperial order, while those fleeing war bring new ideas to Britain.",
-      "language": "en",
-      "categories": [
-        "Entertainment",
-        "Arts"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/7ae17da2-6714-4ea4-9f6c-97349779c11c/16-9"
-    },
-    {
       "start": "2026-05-19T07:00:00+05:00",
       "stop": "2026-05-19T09:30:00+05:00",
       "title": "This is BBC Four",
@@ -58,6 +34,26 @@
       "desc": "BBC Four provides an intelligent mix of arts, science, and history programming, offering deep-dive documentaries and world cinema for a curious audience.",
       "language": "en",
       "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/BBC-Four-UK.png"
+    },
+    {
+      "start": "2026-05-19T22:58:00+05:00",
+      "stop": "2026-05-19T23:00:00+05:00",
+      "title": "This is BBC Four",
+      "desc": "Programmes start at 7.00pm.",
+      "language": "en",
+      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/BBC-Four-UK.png"
+    },
+    {
+      "start": "2026-05-19T23:00:00+05:00",
+      "stop": "2026-05-19T23:30:00+05:00",
+      "title": "University Challenge",
+      "desc": "Jesus College, Cambridge and St Catherine's College, Oxford are both hoping to earn themselves a place in the second round. Jeremy Paxman asks the questions.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Game Show"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/682ecdf9-9f2c-4b2a-bfba-f0eb1ee55d67/16-9"
     }
   ]
 }

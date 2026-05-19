@@ -4,18 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-19T05:00:00+05:00",
-      "stop": "2026-05-19T05:05:00+05:00",
-      "title": "Weather for the Week Ahead",
-      "desc": "Detailed weather forecast.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/e69d10c2-7194-444e-b7e1-3921399a8e76/16-9"
-    },
-    {
       "start": "2026-05-19T05:05:00+05:00",
       "stop": "2026-05-19T10:00:00+05:00",
       "title": "BBC News",
@@ -73,6 +61,18 @@
         "Factual"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/cf7b46eb-f50d-34dc-99d8-8c2e6c1bd000/16-9"
+    },
+    {
+      "start": "2026-05-19T16:15:00+05:00",
+      "stop": "2026-05-19T17:00:00+05:00",
+      "title": "Bargain Hunt",
+      "desc": "Natasha Raskin Sharp and the teams head to Mid Wales with experts Ben Cooper and Kate Bliss. Natasha also learns about the history of carpet-making.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Game Show"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/3c2ffe36-af35-4bb8-91d1-ee581409bd80/16-9"
     }
   ]
 }
