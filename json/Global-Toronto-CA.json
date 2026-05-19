@@ -4,140 +4,114 @@
   ],
   "programs": [
     {
-      "start": "2026-05-19T10:07:00+05:00",
-      "stop": "2026-05-19T10:37:00+05:00",
-      "title": "Entertainment Tonight",
-      "desc": "News and features about performers, productions and the milieu.",
+      "start": "2026-05-19T14:30:00+05:00",
+      "stop": "2026-05-19T15:00:00+05:00",
+      "title": "Paid Programming",
+      "desc": "Paid programming.",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Consumer",
+        "Shopping",
+        "Variety"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-19T15:00:00+05:00",
+      "stop": "2026-05-19T18:00:00+05:00",
+      "title": "Global News Morning",
+      "desc": "Greater Toronto's top local news stories and latest weather forecast to start your day.",
+      "date": "2019",
+      "language": "en",
+      "categories": [
+        "News",
+        "Weather"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p16568475_b_h10_ad.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-19T18:00:00+05:00",
+      "stop": "2026-05-19T19:00:00+05:00",
+      "title": "The Morning Show",
+      "desc": "Viewers from across the country are welcomed in for an hour of smart conversation, lifestyle segments, big-name guests and live performances.",
+      "date": "2011",
+      "language": "en",
+      "categories": [
+        "News",
+        "Interview"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p8861345_b_h8_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Carolyn Mackenzie",
+          "Jeff McArthur",
+          "Liem Vu"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-19T19:00:00+05:00",
+      "stop": "2026-05-19T20:00:00+05:00",
+      "title": "Tamron Hall",
+      "sub_title": "Pulling Back the Curtain",
+      "desc": "Tamron goes behind the Internet's most talked-about viral moments; Mother-daughter fitness stars Denise and Katie Austin; YouTube daredevil Michelle Khare; Boston Globe reporter Emily Sweeney.",
       "date": "2026",
       "language": "en",
-      "rating": "M 15+",
+      "rating": "TVPG",
       "categories": [
         "Series",
-        "Newsmagazine",
-        "Entertainment"
+        "Talk"
       ],
-      "episode": "S45 E222",
-      "icon": "http://dtil.tmsimg.com/assets/p184256_b_h8_aa.jpg?w=960&h=540",
+      "episode": "S7 E167",
+      "icon": "http://dtil.tmsimg.com/assets/p17197549_b_h8_af.jpg?w=960&h=540",
       "credits": {
         "actor": [
-          "Kevin Frazier",
-          "Nischelle Turner",
-          "Rachel Smith"
+          "Tamron Hall",
+          "Denise Austin",
+          "Katie Austin"
         ]
       }
     },
     {
-      "start": "2026-05-19T10:37:00+05:00",
-      "stop": "2026-05-19T11:37:00+05:00",
-      "title": "Fire Masters",
-      "sub_title": "Blazing a Trail",
-      "desc": "Three chefs enter the arena ready to show off their flame game in a battle of the taco; the chefs romance the judges with their date night themed feasts.",
-      "date": "2022",
+      "start": "2026-05-19T20:00:00+05:00",
+      "stop": "2026-05-19T21:00:00+05:00",
+      "title": "Property Brothers: Forever Home",
+      "sub_title": "A'amna & Ibrahim",
+      "desc": "A couple searching for their first home in Los Angeles finally find their cozy cottage; while they love their home, it's very dated, so Drew and Jonathan are updating its layout and '70s mirror walls to create a paradise for them to grow into.",
+      "date": "2021",
       "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Series",
-        "Competition Reality",
-        "Cooking"
-      ],
-      "episode": "S5 E2",
-      "icon": "http://dtil.tmsimg.com/assets/p15598103_b_h8_ab.jpg?w=960&h=540",
-      "credits": {
-        "director": [
-          "Frank Samson",
-          "Ryan Shaw"
-        ],
-        "actor": [
-          "Dylan Benoit"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-19T11:37:00+05:00",
-      "stop": "2026-05-19T12:37:00+05:00",
-      "title": "Masters of Flip",
-      "sub_title": "As History Would Have It",
-      "desc": "Kortney and Dave flip a 19th-century classic home.",
-      "date": "2016",
-      "language": "en",
-      "rating": "TVPG",
+      "rating": "TVG",
       "categories": [
         "Series",
         "Reality",
         "House/garden",
         "Home improvement"
       ],
-      "episode": "S2 E5",
-      "icon": "http://dtil.tmsimg.com/assets/p11680488_b_h10_at.jpg?w=960&h=540",
+      "episode": "S5 E12",
+      "icon": "http://dtil.tmsimg.com/assets/p16607789_b_h8_bg.jpg?w=960&h=540",
       "credits": {
         "director": [
-          "James Wilkes"
+          "Jim MacPherson"
         ],
         "actor": [
-          "Kortney Wilson",
-          "Dave Wilson"
+          "Jonathan Scott",
+          "Drew Scott"
         ]
       }
     },
     {
-      "start": "2026-05-19T12:37:00+05:00",
-      "stop": "2026-05-19T13:37:00+05:00",
-      "title": "Big Brother Canada",
-      "desc": "The houseguests compete for the coveted Power of Veto where the winner has the ability to veto a nominee up for eviction or leave the nominations the same.",
-      "date": "2023",
+      "start": "2026-05-19T21:00:00+05:00",
+      "stop": "2026-05-19T21:30:00+05:00",
+      "title": "Global News at Noon",
+      "desc": "Greater Toronto's top local news stories and latest weather forecast.",
+      "date": "2012",
       "language": "en",
-      "rating": "TVPG",
       "categories": [
-        "Series",
-        "Competition Reality"
+        "News",
+        "Weather"
       ],
-      "episode": "S11 E9",
-      "icon": "http://dtil.tmsimg.com/assets/p24156817_b_h8_aa.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Arisa Cox",
-          "Amal Bashir",
-          "Anika Mysha"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-19T13:37:00+05:00",
-      "stop": "2026-05-19T14:00:00+05:00",
-      "title": "SIGN OFF",
-      "desc": "Sign off.",
-      "date": "2005",
-      "language": "en",
-      "rating": "TVG",
-      "categories": [
-        "Special",
-        "Entertainment"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p480440_b_h8_bw.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-19T14:00:00+05:00",
-      "stop": "2026-05-19T14:30:00+05:00",
-      "title": "Life Today With James Robison",
-      "sub_title": "Dr. Don Colbert: Silent Killers",
-      "desc": "An anti-aging expert uncovers the hidden health dangers that impact many people and offers practical steps to avoid disease.",
-      "date": "2026",
-      "language": "en",
-      "rating": "TVG",
-      "categories": [
-        "Series",
-        "Talk",
-        "Religious"
-      ],
-      "episode": "E58",
-      "icon": "http://dtil.tmsimg.com/assets/p429520_b_h10_ac.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "James Robison",
-          "Betty Robison",
-          "Don Colbert"
-        ]
-      }
+      "icon": "http://dtil.tmsimg.com/assets/p9380798_b_h10_ab.jpg?w=960&h=540"
     }
   ]
 }

@@ -4,18 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-19T07:20:00+05:00",
-      "stop": "2026-05-19T11:00:00+05:00",
-      "title": "Teleshopping",
-      "desc": "Teleshopping.",
-      "language": "en",
-      "categories": [
-        "Specialist",
-        "Shopping"
-      ],
-      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/Film-4-UK.png"
-    },
-    {
       "start": "2026-05-19T11:00:00+05:00",
       "stop": "2026-05-19T15:00:00+05:00",
       "title": "Teleshopping",
@@ -80,6 +68,20 @@
         "War"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/23e886c5-3d7c-43d8-863c-370c376c683b/16-9"
+    },
+    {
+      "start": "2026-05-19T20:35:00+05:00",
+      "stop": "2026-05-19T22:50:00+05:00",
+      "title": "The 300 Spartans",
+      "desc": "Historical drama with Ralph Richardson. A retelling of the stand made at Thermopylae in 480 BC by a small Greek force against invasion by an enormous Persian army.",
+      "date": "1962",
+      "language": "en",
+      "rating": "PG",
+      "categories": [
+        "Movie",
+        "Drama"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/929937b6-bd1c-4420-909d-ab60d669e17c/16-9"
     }
   ]
 }

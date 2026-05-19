@@ -4,30 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-19T05:05:00+05:00",
-      "stop": "2026-05-19T10:00:00+05:00",
-      "title": "BBC News",
-      "desc": "BBC One joins the BBC's rolling news channel for a night of news.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/3e5643f6-4aa7-4764-9cb5-8193b921c846/16-9"
-    },
-    {
-      "start": "2026-05-19T10:00:00+05:00",
-      "stop": "2026-05-19T13:30:00+05:00",
-      "title": "Breakfast",
-      "desc": "The latest news, sport, business and weather from the BBC's Breakfast team.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/5fd65b04-772f-4a5b-a66f-5f1c171e9275/16-9"
-    },
-    {
       "start": "2026-05-19T13:30:00+05:00",
       "stop": "2026-05-19T14:45:00+05:00",
       "title": "Morning Live",
@@ -73,6 +49,30 @@
         "Game Show"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/3c2ffe36-af35-4bb8-91d1-ee581409bd80/16-9"
+    },
+    {
+      "start": "2026-05-19T17:00:00+05:00",
+      "stop": "2026-05-19T18:00:00+05:00",
+      "title": "BBC News at One including BBC London News",
+      "desc": "The latest national and international news from the BBC.",
+      "language": "en",
+      "categories": [
+        "News & Documentary",
+        "News"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/0f31d2ef-eff8-4821-b1e8-c05fb507ea74/16-9"
+    },
+    {
+      "start": "2026-05-19T18:00:00+05:00",
+      "stop": "2026-05-19T19:00:00+05:00",
+      "title": "RHS Chelsea Flower Show 2026",
+      "desc": "It's Medals Day at Chelsea 2026, and Angellica Bell and Nicki Chapman celebrate the stand-out gardens and plants on display.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Gradening"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/14f4b7ef-4a00-4b53-8c0f-99e09b0c6690/16-9"
     }
   ]
 }
