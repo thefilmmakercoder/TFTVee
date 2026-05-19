@@ -4,42 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-20T01:30:00+05:00",
-      "stop": "2026-05-20T02:00:00+05:00",
-      "title": "Live: News 4 NY at 4:30",
-      "desc": "NY news.",
-      "date": "2017",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p14883147_b_h10_ab.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-20T02:00:00+05:00",
-      "stop": "2026-05-20T02:30:00+05:00",
-      "title": "Live: News 4 NY at 5",
-      "desc": "The latest local news, weather and investigative stories impacting your community.",
-      "date": "2011",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p8846204_b_h10_ae.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-20T02:30:00+05:00",
-      "stop": "2026-05-20T03:00:00+05:00",
-      "title": "Live: News 4 NY at 5:30",
-      "desc": "NY news.",
-      "date": "2017",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p14883149_b_h10_ac.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-05-20T03:00:00+05:00",
       "stop": "2026-05-20T03:30:00+05:00",
       "title": "Live: News 4 NY at 6",
@@ -81,6 +45,77 @@
         "News"
       ],
       "icon": "http://dtil.tmsimg.com/assets/p18101773_b_h10_ad.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-20T04:30:00+05:00",
+      "stop": "2026-05-20T05:00:00+05:00",
+      "title": "Access Hollywood",
+      "desc": "\"Office Romance\" premiere and cast interviews.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Newsmagazine",
+        "Entertainment",
+        "Interview"
+      ],
+      "episode": "S30 E175",
+      "icon": "http://dtil.tmsimg.com/assets/p30926755_b_h8_ab.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Mario Lopez",
+          "Kit Hoover",
+          "Scott Evans"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-20T05:00:00+05:00",
+      "stop": "2026-05-20T07:00:00+05:00",
+      "title": "America's Got Talent",
+      "sub_title": "Greatest Golden Buzzers!",
+      "desc": "Simon, Howie, Sofia and Mel pull back the curtain to reveal their most unforgettable golden buzzer moments -- sharing never-before-heard stories, backstage drama and insights into the emotional decisions that have changed lives forever.",
+      "date": "2025",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Variety",
+        "Music",
+        "Dance",
+        "Competition Reality"
+      ],
+      "episode": "S20 E8",
+      "icon": "http://dtil.tmsimg.com/assets/p29752559_b_h8_ae.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Terry Crews",
+          "Simon Cowell",
+          "Howie Mandel"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-20T07:00:00+05:00",
+      "stop": "2026-05-20T08:00:00+05:00",
+      "title": "Password",
+      "sub_title": "Heidi Klum & Jimmy Fallon",
+      "desc": "Jimmy Fallon and celebrity guest Heidi Klum pair up with contestants and face off over two games; players from each team guess secret passwords using only one-word clues for a chance to win up to $25,000.",
+      "date": "2022",
+      "language": "en",
+      "categories": [
+        "Series",
+        "Game show"
+      ],
+      "episode": "S1 E2",
+      "icon": "http://dtil.tmsimg.com/assets/p22032897_b_h8_ae.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Keke Palmer",
+          "Heidi Klum"
+        ]
+      }
     }
   ]
 }
