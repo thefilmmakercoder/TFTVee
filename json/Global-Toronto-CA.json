@@ -4,99 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-20T08:35:00+05:00",
-      "stop": "2026-05-20T09:05:00+05:00",
-      "title": "Global National",
-      "desc": "The top stories from around the world.",
-      "date": "2026",
-      "language": "en",
-      "rating": "TVG",
-      "categories": [
-        "Series",
-        "News"
-      ],
-      "episode": "E139",
-      "icon": "http://dtil.tmsimg.com/assets/p185876_b_h8_ae.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Dawna Friesen"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-20T09:05:00+05:00",
-      "stop": "2026-05-20T10:07:00+05:00",
-      "title": "The Late Show With Stephen Colbert",
-      "sub_title": "Jon Stewart; Steven Spielberg; David Byrne",
-      "desc": "TV host Jon Stewart; filmmaker Steven Spielberg; David Byrne performs with Stephen Colbert.",
-      "date": "2026",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Series",
-        "Talk",
-        "Comedy"
-      ],
-      "episode": "S11 E116",
-      "icon": "http://dtil.tmsimg.com/assets/p31135627_b_h8_ab.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Stephen Colbert",
-          "Jon Stewart",
-          "Steven Spielberg"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-20T10:07:00+05:00",
-      "stop": "2026-05-20T10:37:00+05:00",
-      "title": "Entertainment Tonight",
-      "desc": "News and features about performers, productions and the milieu.",
-      "date": "2026",
-      "language": "en",
-      "rating": "M 15+",
-      "categories": [
-        "Series",
-        "Newsmagazine",
-        "Entertainment"
-      ],
-      "episode": "S45 E223",
-      "icon": "http://dtil.tmsimg.com/assets/p184256_b_h8_aa.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Kevin Frazier",
-          "Nischelle Turner",
-          "Rachel Smith"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-20T10:37:00+05:00",
-      "stop": "2026-05-20T11:37:00+05:00",
-      "title": "Fire Masters",
-      "sub_title": "The Steaks Have Never Been Higher",
-      "desc": "Three chefs bring their signature dish in the Wildfire Round; in the Crossfire Round, it's stout versus IPA.",
-      "date": "2022",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Series",
-        "Competition Reality",
-        "Cooking"
-      ],
-      "episode": "S5 E3",
-      "icon": "http://dtil.tmsimg.com/assets/p15598103_b_h8_ab.jpg?w=960&h=540",
-      "credits": {
-        "director": [
-          "Frank Samson",
-          "Ryan Shaw"
-        ],
-        "actor": [
-          "Dylan Benoit"
-        ]
-      }
-    },
-    {
       "start": "2026-05-20T11:37:00+05:00",
       "stop": "2026-05-20T12:37:00+05:00",
       "title": "Masters of Flip",
@@ -144,6 +51,71 @@
           "Beth Bieda"
         ]
       }
+    },
+    {
+      "start": "2026-05-20T13:37:00+05:00",
+      "stop": "2026-05-20T14:00:00+05:00",
+      "title": "SIGN OFF",
+      "desc": "Sign off.",
+      "date": "2005",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Special",
+        "Entertainment"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p480440_b_h8_bw.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-20T14:00:00+05:00",
+      "stop": "2026-05-20T14:30:00+05:00",
+      "title": "Life Today With James Robison",
+      "sub_title": "Max Lucado: Fearless Faith",
+      "desc": "The author of \"Unbreakable Courage\" looks at the life of Elijah to learn how to face today's issues with fortitude and faith.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Series",
+        "Talk",
+        "Religious"
+      ],
+      "episode": "E59",
+      "icon": "http://dtil.tmsimg.com/assets/p429520_b_h10_ac.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "James Robison",
+          "Betty Robison",
+          "Max Lucado"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-20T14:30:00+05:00",
+      "stop": "2026-05-20T15:00:00+05:00",
+      "title": "Paid Programming",
+      "desc": "Paid programming.",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Consumer",
+        "Shopping",
+        "Variety"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-20T15:00:00+05:00",
+      "stop": "2026-05-20T18:00:00+05:00",
+      "title": "Global News Morning",
+      "desc": "Greater Toronto's top local news stories and latest weather forecast to start your day.",
+      "date": "2019",
+      "language": "en",
+      "categories": [
+        "News",
+        "Weather"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p16568475_b_h10_ad.jpg?w=960&h=540"
     }
   ]
 }

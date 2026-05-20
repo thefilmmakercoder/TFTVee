@@ -4,8 +4,56 @@
   ],
   "programs": [
     {
-      "start": "2026-05-20T09:00:00+05:00",
-      "stop": "2026-05-20T09:30:00+05:00",
+      "start": "2026-05-20T12:30:00+05:00",
+      "stop": "2026-05-20T13:00:00+05:00",
+      "title": "The Newsmakers",
+      "desc": "With in-depth reports and strong, unfiltered debates: The Newsmakers examine the people and the stories that are shaping our lives.",
+      "language": "en",
+      "categories": [
+        "News & Documentary",
+        "News"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/bb368bb6-9c6e-4cc3-be22-dddd1c97d90e/16-9"
+    },
+    {
+      "start": "2026-05-20T13:00:00+05:00",
+      "stop": "2026-05-20T14:00:00+05:00",
+      "title": "Newshour",
+      "desc": "TRT World brings the latest news from around the globe, when it happens.",
+      "language": "en",
+      "categories": [
+        "News & Documentary",
+        "News"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/11aa4743-4c49-4f1d-9c89-7ad9ef4cf3a3/16-9"
+    },
+    {
+      "start": "2026-05-20T14:00:00+05:00",
+      "stop": "2026-05-20T14:30:00+05:00",
+      "title": "Nexus",
+      "desc": "TRT World's Nexus is a forensic, fast-paced and sometimes irreverent take on the news.",
+      "language": "en",
+      "categories": [
+        "News & Documentary",
+        "News"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/d3e5d877-cf7c-4030-8104-2d80e7205ba0/16-9"
+    },
+    {
+      "start": "2026-05-20T14:30:00+05:00",
+      "stop": "2026-05-20T15:00:00+05:00",
+      "title": "Bigger Than Five",
+      "desc": "A critical look at foreign policy decisions made in Washington DC and other global centres of power and their impact on the rest of the world.",
+      "language": "en",
+      "categories": [
+        "News & Documentary",
+        "Feature"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/024efb79-8dec-4722-acdc-ec908c79cc6a/16-9"
+    },
+    {
+      "start": "2026-05-20T15:00:00+05:00",
+      "stop": "2026-05-20T15:30:00+05:00",
       "title": "News",
       "desc": "TRT World brings the latest news from around the globe, when it happens.",
       "language": "en",
@@ -13,67 +61,19 @@
         "News & Documentary",
         "News"
       ],
-      "icon": "https://images.metadata.sky.com/pd-image/e8c24d79-9d40-41ae-8509-d638fc4eff17/16-9"
+      "icon": "https://images.metadata.sky.com/pd-image/f3285a61-9da2-44a6-8b9e-f5825d534f9d/16-9"
     },
     {
-      "start": "2026-05-20T09:30:00+05:00",
-      "stop": "2026-05-20T10:00:00+05:00",
-      "title": "Across the Balkans",
-      "desc": "Across The Balkans takes you to a land of breathtaking beauty with a painful past, to discover the issues and fault lines shaping Southeast Europe today.",
+      "start": "2026-05-20T15:30:00+05:00",
+      "stop": "2026-05-20T16:00:00+05:00",
+      "title": "Business News",
+      "desc": "As the world grapples with ever changing politics and crises, economy is always center stage. TRT World's Business News gives you the insight.",
       "language": "en",
       "categories": [
         "News & Documentary",
-        "World Affairs"
+        "Business"
       ],
-      "icon": "https://images.metadata.sky.com/pd-image/bd187e35-d42e-4649-ac42-c9a08dc2ff39/16-9"
-    },
-    {
-      "start": "2026-05-20T10:00:00+05:00",
-      "stop": "2026-05-20T10:30:00+05:00",
-      "title": "News",
-      "desc": "TRT World brings the latest news from around the globe, when it happens.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/18af0959-2d96-4edf-ad4d-2439e7f57ead/16-9"
-    },
-    {
-      "start": "2026-05-20T10:30:00+05:00",
-      "stop": "2026-05-20T11:00:00+05:00",
-      "title": "Roundtable",
-      "desc": "Ideas are changing our world. See them discussed and dissected, every weekday.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/cd5a1b6f-68c5-4ac3-9835-867f362eb624/16-9"
-    },
-    {
-      "start": "2026-05-20T11:00:00+05:00",
-      "stop": "2026-05-20T11:30:00+05:00",
-      "title": "News",
-      "desc": "TRT World brings the latest news from around the globe, when it happens.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/407eee17-cd13-49ef-98c4-17d007c6c37a/16-9"
-    },
-    {
-      "start": "2026-05-20T11:30:00+05:00",
-      "stop": "2026-05-20T12:00:00+05:00",
-      "title": "Documentary: The Last Artisans of Venice 1",
-      "desc": "Beyond its main attractions lies Venice, hidden from ordinary people. We meet craftsmen who fill the city with passion, culture and memories.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "World Culture"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/15335aeb-e7cf-44b1-94bd-4fcb5cc526e2/16-9"
+      "icon": "https://images.metadata.sky.com/pd-image/4c92425d-4b03-479e-84f9-ce2539796296/16-9"
     }
   ]
 }

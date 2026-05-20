@@ -4,67 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-20T07:30:00+05:00",
-      "stop": "2026-05-20T08:00:00+05:00",
-      "title": "Motorsport Mundial",
-      "desc": "This programme brings you up to date with the latest action from the world of motorsport and features race coverage, insights, and behind-the-scenes footage from the best series.",
-      "language": "en",
-      "categories": [
-        "Sports",
-        "Motor Sports"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/b5023a87-821b-4a2e-9b6e-cf10d334d153/16-9"
-    },
-    {
-      "start": "2026-05-20T08:00:00+05:00",
-      "stop": "2026-05-20T10:00:00+05:00",
-      "title": "Teleshopping",
-      "desc": "Shopping from home.",
-      "language": "en",
-      "categories": [
-        "Specialist",
-        "Shopping"
-      ],
-      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/ITV-4-UK.png"
-    },
-    {
-      "start": "2026-05-20T10:00:00+05:00",
-      "stop": "2026-05-20T10:10:00+05:00",
-      "title": "British Touring Car Crashes and Smashes",
-      "desc": "A short sports film depicting extraordinary British Touring Car crashes and smashes.",
-      "language": "en",
-      "categories": [
-        "Sports"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/ef6fac27-e4d5-363a-a466-29ad13e91980/16-9"
-    },
-    {
-      "start": "2026-05-20T10:10:00+05:00",
-      "stop": "2026-05-20T10:45:00+05:00",
-      "title": "The Protectors",
-      "sub_title": "Thinkback",
-      "desc": "Adventure series. Harry and the Contessa are the victims of a car crash which was engineered to get information out of them about a witness they were hired to protect.",
-      "language": "en",
-      "categories": [
-        "Entertainment",
-        "Action"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/07a2208d-1a8c-420a-905d-0aa398eee087/16-9"
-    },
-    {
-      "start": "2026-05-20T10:45:00+05:00",
-      "stop": "2026-05-20T11:50:00+05:00",
-      "title": "Magnum, P.I.",
-      "sub_title": "Resolutions",
-      "desc": "Part One: The first part of the last-ever episode. Thomas attends a US Navy reunion, and Higgins vows to reveal Robin's identity.",
-      "language": "en",
-      "categories": [
-        "Entertainment",
-        "Action"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/cdb2a0ad-4dae-318a-b9a1-094664ddffcf/16-9"
-    },
-    {
       "start": "2026-05-20T11:50:00+05:00",
       "stop": "2026-05-20T12:55:00+05:00",
       "title": "The Saint",
@@ -76,6 +15,69 @@
         "Detective"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/bd787517-ba0d-4457-83e1-3421f0972d11/16-9"
+    },
+    {
+      "start": "2026-05-20T12:55:00+05:00",
+      "stop": "2026-05-20T14:00:00+05:00",
+      "title": "Boon",
+      "sub_title": "The Day of the Yokel",
+      "desc": "Classic drama. Ken sets out to ride the range on behalf of an eccentric old lady who is being victimised by unsavoury happenings at her farm.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Drama"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/50ad8598-4152-427c-8116-540d27eadab3/16-9"
+    },
+    {
+      "start": "2026-05-20T14:00:00+05:00",
+      "stop": "2026-05-20T15:05:00+05:00",
+      "title": "The Sweeney",
+      "sub_title": "Trust Red",
+      "desc": "Classic '70s police drama series. The years seem to be catching up with Regan when he narrowly escapes serious injury during a pursuit.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Drama"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/2f286708-8527-4fe7-a469-723b843064ec/16-9"
+    },
+    {
+      "start": "2026-05-20T15:05:00+05:00",
+      "stop": "2026-05-20T16:10:00+05:00",
+      "title": "BattleBots",
+      "sub_title": "Robots, Ready!!!",
+      "desc": "US robot combat series. The seventh series' World Championship qualifiers kick off with an epic fight card including fancied contenders like Witch Doctor.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Game Show"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/2b329736-18fc-494b-be93-5ce6d3636949/16-9"
+    },
+    {
+      "start": "2026-05-20T16:10:00+05:00",
+      "stop": "2026-05-20T17:15:00+05:00",
+      "title": "Magnum, P.I.",
+      "desc": "Don't Eat the Snow in Hawaii - Part One: The first part of the pilot episode of the classic series. Former Naval officer Thomas Magnum sets out to prove a friend's innocence.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Action"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/d69a9f08-9cea-4ff4-9f14-9f83045b5312/16-9"
+    },
+    {
+      "start": "2026-05-20T17:15:00+05:00",
+      "stop": "2026-05-20T18:20:00+05:00",
+      "title": "Magnum, P.I.",
+      "desc": "Don't Eat the Snow in Hawaii - Part Two: The concluding part of the pilot episode of the classic US action drama series. Magnum's bid to find his friend's killers continues.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Action"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/b090c803-863c-49dd-a159-304110d54251/16-9"
     }
   ]
 }
