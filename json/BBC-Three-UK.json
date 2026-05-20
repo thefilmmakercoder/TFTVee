@@ -4,38 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-20T09:30:00+05:00",
-      "stop": "2026-05-20T15:30:00+05:00",
-      "title": "..programmes start at 7.00pm",
-      "desc": "BBC Three delivers bold and provocative content for younger audiences, featuring groundbreaking documentaries, experimental comedy, and fresh drama.",
-      "language": "en",
-      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/BBC-Three-UK.png"
-    },
-    {
-      "start": "2026-05-20T15:30:00+05:00",
-      "stop": "2026-05-20T21:30:00+05:00",
-      "title": "..programmes start at 7.00pm",
-      "desc": "BBC Three delivers bold and provocative content for younger audiences, featuring groundbreaking documentaries, experimental comedy, and fresh drama.",
-      "language": "en",
-      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/BBC-Three-UK.png"
-    },
-    {
-      "start": "2026-05-20T21:30:00+05:00",
-      "stop": "2026-05-20T22:58:00+05:00",
-      "title": "..programmes start at 7.00pm",
-      "desc": "BBC Three delivers bold and provocative content for younger audiences, featuring groundbreaking documentaries, experimental comedy, and fresh drama.",
-      "language": "en",
-      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/BBC-Three-UK.png"
-    },
-    {
-      "start": "2026-05-20T22:58:00+05:00",
-      "stop": "2026-05-20T23:00:00+05:00",
-      "title": "This is BBC Three",
-      "desc": "Programmes start at 7.00pm.",
-      "language": "en",
-      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/BBC-Three-UK.png"
-    },
-    {
       "start": "2026-05-20T23:00:00+05:00",
       "stop": "2026-05-20T23:05:00+05:00",
       "title": "The Catch Up",
@@ -58,6 +26,52 @@
         "Children"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/36866a4e-cad3-3918-a918-f37a1b2fb8af/16-9"
+    },
+    {
+      "start": "2026-05-20T23:30:00+05:00",
+      "stop": "2026-05-21T00:00:00+05:00",
+      "title": "Deadly 60",
+      "sub_title": "Big Cat Special",
+      "desc": "Steve goes in search of the deadliest cats in Africa in the carnivore capital of Zambia. He gets up close to the rulers of the Savannah - the lions and leopards.",
+      "language": "en",
+      "categories": [
+        "Children"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/184620e1-72af-35f3-8e2c-d2bf3ea85465/16-9"
+    },
+    {
+      "start": "2026-05-21T00:00:00+05:00",
+      "stop": "2026-05-21T01:00:00+05:00",
+      "title": "Interior Design Masters with Alan Carr",
+      "desc": "The five designers transform swanky Leeds studio apartments to entice the renters.",
+      "language": "en",
+      "categories": [
+        "Entertainment"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/3860bc33-953f-4ca5-9a9d-5c89c8e03cbe/16-9"
+    },
+    {
+      "start": "2026-05-21T01:00:00+05:00",
+      "stop": "2026-05-21T03:00:00+05:00",
+      "title": "Green Book",
+      "desc": "In 1962, Tony Lip gets taken on as a driver for African American pianist Donald Shirley. Contains some strong language.",
+      "language": "en",
+      "categories": [
+        "Movie"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/675f7442-b529-4ccb-9ded-cee12599f169/16-9"
+    },
+    {
+      "start": "2026-05-21T03:00:00+05:00",
+      "stop": "2026-05-21T04:40:00+05:00",
+      "title": "Kidnapped by My Mum",
+      "desc": "At 11 years old, Alex vanished on holiday with his mother and grandfather for six years. Now, he's retracing his steps across Europe to tell the full story for the first time.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Factual"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/4f84c2c0-f7ab-4317-846c-2bdcc513168e/16-9"
     }
   ]
 }

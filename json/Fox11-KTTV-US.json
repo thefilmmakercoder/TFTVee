@@ -4,42 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-20T18:00:00+05:00",
-      "stop": "2026-05-20T19:00:00+05:00",
-      "title": "Good Day LA at 6am",
-      "desc": "Morning news coverage.",
-      "date": "2019",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p16719279_b_h8_ab.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-20T19:00:00+05:00",
-      "stop": "2026-05-20T21:00:00+05:00",
-      "title": "Good Day LA at 7am",
-      "desc": "Morning news coverage.",
-      "date": "2012",
-      "language": "en",
-      "categories": [
-        "Talk"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p9542652_b_h8_ac.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-20T21:00:00+05:00",
-      "stop": "2026-05-20T22:00:00+05:00",
-      "title": "Good Day LA at 9am",
-      "desc": "Morning news coverage.",
-      "date": "2012",
-      "language": "en",
-      "categories": [
-        "Talk"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p9542653_b_h8_ac.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-05-20T22:00:00+05:00",
       "stop": "2026-05-20T23:00:00+05:00",
       "title": "Good Day LA at 10am",
@@ -83,6 +47,71 @@
         "actor": [
           "Sherri Shepherd",
           "Colman Domingo"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-21T01:00:00+05:00",
+      "stop": "2026-05-21T02:00:00+05:00",
+      "title": "The Jennifer Hudson Show",
+      "desc": "Jennifer welcomes actress and singer-songwriter Hilary Duff.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Talk"
+      ],
+      "episode": "S4 E140",
+      "icon": "http://dtil.tmsimg.com/assets/p31041660_b_h8_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Jennifer Hudson",
+          "Hilary Duff"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-21T02:00:00+05:00",
+      "stop": "2026-05-21T03:00:00+05:00",
+      "title": "25 Words or Less Live",
+      "desc": "Teams compete to see who can guess secret words or phrases with a limited amount of clues and time; host Meredith Vieira.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Game show"
+      ],
+      "episode": "E26",
+      "icon": "http://dtil.tmsimg.com/assets/p32903864_st_h10_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Meredith Vieira"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-21T03:00:00+05:00",
+      "stop": "2026-05-21T04:00:00+05:00",
+      "title": "Dateline",
+      "sub_title": "The Note",
+      "desc": "When high school student Megan Nichols vanishes from her Illinois home, her mother finds a note saying that she ran away; a grisly discovery made three years later changes the course of the investigation.",
+      "date": "2025",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Newsmagazine",
+        "Documentary"
+      ],
+      "episode": "S9 E4",
+      "icon": "http://dtil.tmsimg.com/assets/p31054010_b_h10_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Craig Melvin",
+          "Andrea Canning",
+          "Natalie Morales"
         ]
       }
     }

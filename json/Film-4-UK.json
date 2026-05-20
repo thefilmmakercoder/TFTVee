@@ -4,34 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-20T16:45:00+05:00",
-      "stop": "2026-05-20T18:45:00+05:00",
-      "title": "Yellow Sky",
-      "desc": "Western. Gregory Peck plays the leader of an outlaw gang whose plans to rob an old man and his granddaughter of their gold go seriously awry. With Anne Baxter and Richard Widmark.",
-      "date": "1948",
-      "language": "en",
-      "rating": "PG",
-      "categories": [
-        "Movie",
-        "Western"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/dae49eae-28b2-418d-a213-540a05b7c245/16-9"
-    },
-    {
-      "start": "2026-05-20T18:45:00+05:00",
-      "stop": "2026-05-20T20:40:00+05:00",
-      "title": "Lifeboat",
-      "desc": "Alfred Hitchcock's Oscar-nominated Second World War drama starring Tallulah Bankhead, William Bendix and Walter Slezak as three of the survivors from a liner torpedoed by the Nazis.",
-      "date": "1944",
-      "language": "en",
-      "rating": "PG",
-      "categories": [
-        "Movie",
-        "Thriller"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/ac0dc39f-d570-4c41-bd6d-a97fe5de9a2d/16-9"
-    },
-    {
       "start": "2026-05-20T20:40:00+05:00",
       "stop": "2026-05-20T22:45:00+05:00",
       "title": "Heaven Knows, Mr Allison",
@@ -86,6 +58,32 @@
         "Drama"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/9c2472f7-43c1-36b7-8ead-dfd08733eaf3/16-9"
+    },
+    {
+      "start": "2026-05-21T04:45:00+05:00",
+      "stop": "2026-05-21T07:05:00+05:00",
+      "title": "The Lobster",
+      "desc": "Black comedy with Colin Farrell and Rachel Weisz. In a dystopian future, single people have 45 days to find a partner - or are turned into animals.",
+      "date": "2015",
+      "language": "en",
+      "rating": "15",
+      "categories": [
+        "Movie",
+        "Comedy"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/f32b2b6a-2eca-434d-b26b-22ba893629f8/16-9"
+    },
+    {
+      "start": "2026-05-21T07:05:00+05:00",
+      "stop": "2026-05-21T11:00:00+05:00",
+      "title": "Teleshopping",
+      "desc": "Teleshopping.",
+      "language": "en",
+      "categories": [
+        "Specialist",
+        "Shopping"
+      ],
+      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/Film-4-UK.png"
     }
   ]
 }
