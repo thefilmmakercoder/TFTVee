@@ -4,14 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-20T07:50:00+05:00",
-      "stop": "2026-05-20T09:30:00+05:00",
-      "title": "This is BBC Three",
-      "desc": "Programmes start at 7.00pm.",
-      "language": "en",
-      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/BBC-Three-UK.png"
-    },
-    {
       "start": "2026-05-20T09:30:00+05:00",
       "stop": "2026-05-20T15:30:00+05:00",
       "title": "..programmes start at 7.00pm",
@@ -54,6 +46,18 @@
         "News"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/3a262424-d4db-4db2-9933-4dd9c5555f9a/16-9"
+    },
+    {
+      "start": "2026-05-20T23:05:00+05:00",
+      "stop": "2026-05-20T23:30:00+05:00",
+      "title": "Deadly 60",
+      "sub_title": "Giant Otter Stakeout",
+      "desc": "Steve heads into the heart of the Suriname Jungle. He goes in search of poison dart frogs, deadly snakes and hopes to find the elusive giant river otter.",
+      "language": "en",
+      "categories": [
+        "Children"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/36866a4e-cad3-3918-a918-f37a1b2fb8af/16-9"
     }
   ]
 }

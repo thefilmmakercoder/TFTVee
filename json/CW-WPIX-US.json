@@ -4,42 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-20T13:00:00+05:00",
-      "stop": "2026-05-20T13:30:00+05:00",
-      "title": "PIX11 Morning News at 4am",
-      "desc": "Staying informed with the news and headlines.",
-      "date": "2021",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p20892929_b_h8_ab.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-20T13:30:00+05:00",
-      "stop": "2026-05-20T14:00:00+05:00",
-      "title": "PIX11 Morning News at 4:30am",
-      "desc": "Staying informed with the news and headlines.",
-      "date": "2018",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p16250980_b_h8_ab.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-20T14:00:00+05:00",
-      "stop": "2026-05-20T15:00:00+05:00",
-      "title": "PIX11 Morning News at 5am",
-      "desc": "Staying informed with the news and headlines.",
-      "date": "2016",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p12803754_b_h8_ab.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-05-20T15:00:00+05:00",
       "stop": "2026-05-20T16:00:00+05:00",
       "title": "PIX11 Morning News at 6am",
@@ -74,6 +38,66 @@
         "News"
       ],
       "icon": "http://dtil.tmsimg.com/assets/p17722468_b_h8_ab.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-20T19:00:00+05:00",
+      "stop": "2026-05-20T20:00:00+05:00",
+      "title": "New York Living",
+      "desc": "WPIX provides essential New York news, live sports, and CW network hits, serving as a cornerstone of local broadcasting for the tri-state area.",
+      "date": "2022",
+      "language": "en",
+      "categories": [
+        "Newsmagazine"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p21493460_st_h10_aa.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-20T20:00:00+05:00",
+      "stop": "2026-05-20T20:30:00+05:00",
+      "title": "Tribunal Justice",
+      "sub_title": "COVID Resort Rift",
+      "desc": "A restaurateur sues a Palm Desert resort owner for the court maximum, alleging he used her employees to secure $27,000 in COVID relief loans.",
+      "date": "2025",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "Series",
+        "Law",
+        "Reality"
+      ],
+      "episode": "S2 E54",
+      "icon": "http://dtil.tmsimg.com/assets/p24616934_b_h10_ad.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Petri Hawkins-Byrd",
+          "Patricia DiMango",
+          "Tanya Acker"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-20T20:30:00+05:00",
+      "stop": "2026-05-20T21:00:00+05:00",
+      "title": "Tribunal Justice",
+      "sub_title": "Spar Over a Classic Car",
+      "desc": "A classic car enthusiast sues her friend for $10,000 after a failed restoration of her dream 1952 DeSoto; he argues that her tight budget and short timeline were unrealistic.",
+      "date": "2025",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "Series",
+        "Law",
+        "Reality"
+      ],
+      "episode": "S2 E41",
+      "icon": "http://dtil.tmsimg.com/assets/p24616934_b_h10_ad.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Petri Hawkins-Byrd",
+          "Patricia DiMango",
+          "Tanya Acker"
+        ]
+      }
     }
   ]
 }

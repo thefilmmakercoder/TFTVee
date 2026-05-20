@@ -4,18 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-20T08:00:00+05:00",
-      "stop": "2026-05-20T11:00:00+05:00",
-      "title": "Teleshopping",
-      "desc": "Teleshopping.",
-      "language": "en",
-      "categories": [
-        "Specialist",
-        "Shopping"
-      ],
-      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/Film-4-UK.png"
-    },
-    {
       "start": "2026-05-20T11:00:00+05:00",
       "stop": "2026-05-20T15:00:00+05:00",
       "title": "Teleshopping",
@@ -82,6 +70,20 @@
         "Drama"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/4374ecb8-68c6-4b17-984a-c71ef92373d3/16-9"
+    },
+    {
+      "start": "2026-05-20T22:45:00+05:00",
+      "stop": "2026-05-21T01:00:00+05:00",
+      "title": "Gemini Man",
+      "desc": "Will Smith stars in Ang Lee's action-thriller as both an over-the-hill hitman and the young clone of himself sent to take him out. With Clive Owen.",
+      "date": "2019",
+      "language": "en",
+      "rating": "PG",
+      "categories": [
+        "Movie",
+        "Action"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/3df6fb6a-a92d-40c9-8141-306c585a16b6/16-9"
     }
   ]
 }
