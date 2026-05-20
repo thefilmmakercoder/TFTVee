@@ -4,9 +4,50 @@
   ],
   "programs": [
     {
-      "start": "2026-05-20T04:30:00+05:00",
-      "stop": "2026-05-20T05:00:00+05:00",
-      "title": "BBC News At Six",
+      "start": "2026-05-20T08:45:00+05:00",
+      "stop": "2026-05-20T09:45:00+05:00",
+      "title": "The Greatest Show On Earth",
+      "sub_title": "Group F",
+      "desc": "Join Claudio Fabiano and Adamo De Nigris for the Greatest Show on Earth - as the team analyse and bring you all the latest on the FIFA World Cup 2026 groups.",
+      "language": "en",
+      "rating": "NR",
+      "categories": [
+        "Sports"
+      ],
+      "episode": "E6",
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/19540922/image/334x188"
+    },
+    {
+      "start": "2026-05-20T09:45:00+05:00",
+      "stop": "2026-05-20T10:40:00+05:00",
+      "title": "The Bee Whisperer",
+      "sub_title": "Bee Boy Toys",
+      "desc": "It's time for Charlie to protect his bees from varroa mites - it's not something he enjoys doing, but it's a necessary yet cumbersome task in order to maintain the health of his hives.",
+      "language": "en",
+      "rating": "PG",
+      "categories": [
+        "Special Interest"
+      ],
+      "episode": "S1 E7",
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/5904208/image/334x188"
+    },
+    {
+      "start": "2026-05-20T10:40:00+05:00",
+      "stop": "2026-05-20T10:45:00+05:00",
+      "title": "NITV News Update",
+      "desc": "NITV News recaptures the highlights of Indigenous news around the country.",
+      "language": "en",
+      "rating": "NR",
+      "categories": [
+        "News"
+      ],
+      "episode": "E87",
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/5904078/image/334x188"
+    },
+    {
+      "start": "2026-05-20T10:45:00+05:00",
+      "stop": "2026-05-20T11:15:00+05:00",
+      "title": "BBC News At Ten",
       "sub_title": "Wednesday 20 May 2026",
       "desc": "The latest national and international news stories from the BBC News team from London, UK, in English.",
       "language": "en",
@@ -14,72 +55,33 @@
       "categories": [
         "News"
       ],
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/11514500/image/334x188"
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/415775/image/334x188"
     },
     {
-      "start": "2026-05-20T05:00:00+05:00",
-      "stop": "2026-05-20T05:30:00+05:00",
-      "title": "France 24 English News",
-      "sub_title": "France 24 Eng. 1000 Viceland",
+      "start": "2026-05-20T11:15:00+05:00",
+      "stop": "2026-05-20T11:45:00+05:00",
+      "title": "France 24 International News",
+      "sub_title": "Wednesday 20 May 2026",
       "desc": "International news and current affairs television from Paris, offering a French perspective on world events, in English.",
       "language": "en",
       "rating": "NR",
       "categories": [
         "News"
       ],
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/310649/image/334x188"
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/290253/image/334x188"
     },
     {
-      "start": "2026-05-20T05:30:00+05:00",
-      "stop": "2026-05-20T06:05:00+05:00",
-      "title": "The Movie Show",
-      "desc": "Film review show with David Stratton and Margaret Pomeranz, covering The Remains of the Day, Philadelphia and more, with interviews.",
-      "language": "en",
-      "rating": "NR",
-      "categories": [
-        "Special Interest"
-      ],
-      "episode": "E3",
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/130483/image/334x188"
-    },
-    {
-      "start": "2026-05-20T06:05:00+05:00",
-      "stop": "2026-05-20T06:40:00+05:00",
-      "title": "The Movie Show",
-      "desc": "Film review show with David Stratton and Margaret Pomeranz, featuring The Pelican Brief, Cool Runnings and more international releases.",
-      "language": "en",
-      "rating": "NR",
-      "categories": [
-        "Special Interest"
-      ],
-      "episode": "E4",
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/130483/image/334x188"
-    },
-    {
-      "start": "2026-05-20T06:40:00+05:00",
-      "stop": "2026-05-20T07:15:00+05:00",
-      "title": "The Movie Show",
-      "desc": "Film review show with David Stratton and Margaret Pomeranz, covering Raining Stones, Menace II Society and more, plus interviews and a preview of Sydney's French Film Festival.",
-      "language": "en",
-      "rating": "NR",
-      "categories": [
-        "Special Interest"
-      ],
-      "episode": "E5",
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/130483/image/334x188"
-    },
-    {
-      "start": "2026-05-20T07:15:00+05:00",
-      "stop": "2026-05-20T07:45:00+05:00",
-      "title": "DW The Day",
+      "start": "2026-05-20T11:45:00+05:00",
+      "stop": "2026-05-20T12:45:00+05:00",
+      "title": "PBS Newshour",
       "sub_title": "Wednesday 20 May 2026",
-      "desc": "DW The Day is a news show that helps you understand emerging stories from Europe, the US and across the globe, in English, no subtitles.",
+      "desc": "Reviews and analysis of the day's news, presented by Amna Nawaz and Geoff Bennett for the Public Broadcasting Service (PBS) in the United States.",
       "language": "en",
       "rating": "NR",
       "categories": [
         "News"
       ],
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/436904/image/334x188"
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/249865/image/334x188"
     }
   ]
 }

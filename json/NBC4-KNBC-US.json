@@ -4,73 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-20T04:00:00+05:00",
-      "stop": "2026-05-20T05:00:00+05:00",
-      "title": "NBC4 News at 4pm",
-      "desc": "The latest local news, weather and investigative stories impacting the community.",
-      "date": "2012",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p9358491_b_h10_ae.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-20T05:00:00+05:00",
-      "stop": "2026-05-20T06:00:00+05:00",
-      "title": "NBC4 News at 5pm",
-      "desc": "The latest local news, weather and investigative stories impacting the community.",
-      "date": "2011",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p8781144_b_h10_ad.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-20T06:00:00+05:00",
-      "stop": "2026-05-20T06:30:00+05:00",
-      "title": "NBC 4 News at 6pm",
-      "desc": "Stay informed with the latest breaking news and headlines.",
-      "date": "2015",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p12394505_b_h10_aa.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-20T06:30:00+05:00",
-      "stop": "2026-05-20T07:00:00+05:00",
-      "title": "NBC Nightly News With Tom Llamas",
-      "desc": "Tom Llamas anchors the latest news, going beyond the headlines to see how lives are affected by the world around them.",
-      "date": "2026",
-      "language": "en",
-      "categories": [
-        "Series",
-        "News"
-      ],
-      "episode": "S2 E129",
-      "icon": "http://dtil.tmsimg.com/assets/p30141511_b_h8_aa.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Tom Llamas"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-20T07:00:00+05:00",
-      "stop": "2026-05-20T07:30:00+05:00",
-      "title": "NBC4 News at 7 PM",
-      "desc": "The latest in local breaking news, weather reports and feature stories covering the vast Southern California region.",
-      "date": "2020",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p18102973_b_h10_ab.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-05-20T07:30:00+05:00",
       "stop": "2026-05-20T08:00:00+05:00",
       "title": "Access Hollywood",
@@ -91,6 +24,114 @@
           "Mario Lopez",
           "Kit Hoover",
           "Scott Evans"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-20T08:00:00+05:00",
+      "stop": "2026-05-20T10:00:00+05:00",
+      "title": "America's Got Talent",
+      "sub_title": "Greatest Golden Buzzers!",
+      "desc": "Simon, Howie, Sofia and Mel pull back the curtain to reveal their most unforgettable golden buzzer moments -- sharing never-before-heard stories, backstage drama and insights into the emotional decisions that have changed lives forever.",
+      "date": "2025",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Variety",
+        "Music",
+        "Dance",
+        "Competition Reality"
+      ],
+      "episode": "S20 E8",
+      "icon": "http://dtil.tmsimg.com/assets/p29752559_b_h8_ae.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Terry Crews",
+          "Simon Cowell",
+          "Howie Mandel"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-20T10:00:00+05:00",
+      "stop": "2026-05-20T11:00:00+05:00",
+      "title": "Password",
+      "sub_title": "Heidi Klum & Jimmy Fallon",
+      "desc": "Jimmy Fallon and celebrity guest Heidi Klum pair up with contestants and face off over two games; players from each team guess secret passwords using only one-word clues for a chance to win up to $25,000.",
+      "date": "2022",
+      "language": "en",
+      "categories": [
+        "Series",
+        "Game show"
+      ],
+      "episode": "S1 E2",
+      "icon": "http://dtil.tmsimg.com/assets/p22032897_b_h8_ae.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Keke Palmer",
+          "Heidi Klum"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-20T11:00:00+05:00",
+      "stop": "2026-05-20T11:34:00+05:00",
+      "title": "NBC4 News at 11pm",
+      "desc": "The latest local news, weather and investigative stories impacting the community.",
+      "date": "2011",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p8781143_b_h10_ad.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-20T11:34:00+05:00",
+      "stop": "2026-05-20T12:37:00+05:00",
+      "title": "The Tonight Show Starring Jimmy Fallon",
+      "sub_title": "John Travolta; Ana Gasteyer; Slayyyter",
+      "desc": "Actor John Travolta; actress Ana Gasteyer; Slayyyter performs.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "Series",
+        "Talk",
+        "Comedy"
+      ],
+      "episode": "S13 E107",
+      "icon": "http://dtil.tmsimg.com/assets/p31242381_b_h8_ac.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Jimmy Fallon",
+          "John Travolta",
+          "Ana Gasteyer"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-20T12:37:00+05:00",
+      "stop": "2026-05-20T13:37:00+05:00",
+      "title": "Late Night With Seth Meyers",
+      "sub_title": "Chelsea Handler; Eiza Gonz\u00e1lez",
+      "desc": "Comic Chelsea Handler; actress Eiza Gonz\u00e1lez.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "Series",
+        "Talk",
+        "Comedy",
+        "Political News Satire & Talk"
+      ],
+      "episode": "S13 E84",
+      "icon": "http://dtil.tmsimg.com/assets/p31240203_b_h8_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Seth Meyers",
+          "Chelsea Handler",
+          "Eiza Gonz\u00e1lez"
         ]
       }
     }

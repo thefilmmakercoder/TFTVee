@@ -4,87 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-20T04:00:00+05:00",
-      "stop": "2026-05-20T05:00:00+05:00",
-      "title": "CBS LA at 4pm",
-      "desc": "Join the CBS LA team for stories from communities around SoCal, breaking news from The Desk, and NEXT Weather from the Weathersphere.",
-      "date": "2025",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p31317859_b_h10_aa.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-20T05:00:00+05:00",
-      "stop": "2026-05-20T06:00:00+05:00",
-      "title": "CBS LA at 5pm",
-      "desc": "Join the CBS LA team for stories from communities around SoCal, breaking news from The Desk, and NEXT Weather from the Weathersphere.",
-      "date": "2025",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p31308569_b_h10_aa.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-20T06:00:00+05:00",
-      "stop": "2026-05-20T06:30:00+05:00",
-      "title": "CBS LA at 6pm",
-      "desc": "Join the CBS LA team for stories from communities around SoCal, breaking news from The Desk, and NEXT Weather from the Weathersphere.",
-      "date": "2025",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p31308575_b_h10_aa.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-20T06:30:00+05:00",
-      "stop": "2026-05-20T07:00:00+05:00",
-      "title": "CBS Evening News",
-      "desc": "Tony Dokoupil shares the day's most important stories, delivering context and depth to bring greater understanding to one's world.",
-      "date": "2026",
-      "language": "en",
-      "categories": [
-        "Series",
-        "News"
-      ],
-      "episode": "E139",
-      "icon": "http://dtil.tmsimg.com/assets/p28807922_b_h8_ae.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Tony Dokoupil",
-          "Maurice DuBois",
-          "Jericka Duncan"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-20T07:00:00+05:00",
-      "stop": "2026-05-20T07:30:00+05:00",
-      "title": "Inside Edition",
-      "desc": "A syndicated news magazine includes investigative reports, interviews with newsmakers, human interest stories and celebrity and pop-culture features.",
-      "date": "2026",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Series",
-        "Newsmagazine",
-        "Public affairs",
-        "Interview"
-      ],
-      "episode": "S38 E182",
-      "icon": "http://dtil.tmsimg.com/assets/p184110_b_h10_aa.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Eva Pilgrim",
-          "Mary Calvi",
-          "Jim Moret"
-        ]
-      }
-    },
-    {
       "start": "2026-05-20T07:30:00+05:00",
       "stop": "2026-05-20T08:00:00+05:00",
       "title": "Entertainment Tonight",
@@ -104,6 +23,113 @@
           "Kevin Frazier",
           "Nischelle Turner",
           "Rachel Smith"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-20T08:00:00+05:00",
+      "stop": "2026-05-20T10:00:00+05:00",
+      "title": "Forever Young: A Grammy Salute to Rod Stewart Live",
+      "desc": "Honoring the two-time Rock & Roll Hall of Fame inductee; Stewart invites viewers backstage for an intimate interview reflecting on his extraordinary life, devotion to his family and enduring passion for performing.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "Special",
+        "Music",
+        "Event"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p32990231_b_h8_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Rod Stewart"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-20T10:00:00+05:00",
+      "stop": "2026-05-20T11:00:00+05:00",
+      "title": "NCIS",
+      "sub_title": "The Sound and the Fury",
+      "desc": "When a petty officer's death is connected to a blackmail investigation, the team is forced to work with Special Agent Sawyer on the case, which takes a terrifying turn for Torres.",
+      "date": "2025",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Crime drama",
+        "Action",
+        "Adventure",
+        "Mystery"
+      ],
+      "episode": "S23 E3",
+      "icon": "http://dtil.tmsimg.com/assets/p30698219_b_h8_aa.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Tawnia McKiernan"
+        ],
+        "actor": [
+          "Sean Murray",
+          "Wilmer Valderrama",
+          "Brian Dietzen"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-20T11:00:00+05:00",
+      "stop": "2026-05-20T11:35:00+05:00",
+      "title": "CBS LA at 11pm",
+      "desc": "Join the CBS LA team for stories from communities around SoCal, breaking news from The Desk, and NEXT Weather from the Weathersphere.",
+      "date": "2025",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p31308578_b_h10_aa.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-20T11:35:00+05:00",
+      "stop": "2026-05-20T12:37:00+05:00",
+      "title": "The Late Show With Stephen Colbert",
+      "sub_title": "Jon Stewart; Steven Spielberg; David Byrne",
+      "desc": "TV host Jon Stewart; filmmaker Steven Spielberg; David Byrne performs with Stephen Colbert.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Talk",
+        "Comedy"
+      ],
+      "episode": "S11 E116",
+      "icon": "http://dtil.tmsimg.com/assets/p31135627_b_h8_ab.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Stephen Colbert",
+          "Jon Stewart",
+          "Steven Spielberg"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-20T12:37:00+05:00",
+      "stop": "2026-05-20T13:07:00+05:00",
+      "title": "Comics Unleashed With Byron Allen",
+      "desc": "Celebrity guests Orlando Leyba, Caroline Rhea, Finesse Mitchell and Jamie Kennedy.",
+      "date": "2025",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Comedy"
+      ],
+      "episode": "S4 E1",
+      "icon": "http://dtil.tmsimg.com/assets/p186631_b_h8_ad.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Byron Allen",
+          "Orlando Leyba",
+          "Caroline Rhea"
         ]
       }
     }

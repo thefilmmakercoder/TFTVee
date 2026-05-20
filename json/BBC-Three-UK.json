@@ -4,72 +4,56 @@
   ],
   "programs": [
     {
-      "start": "2026-05-20T03:20:00+05:00",
-      "stop": "2026-05-20T04:20:00+05:00",
-      "title": "Small Town, Big Riot",
-      "desc": "Mobeen Azhar investigates what tipped a peaceful demonstration into a riot. Contains some strong language and some upsetting scenes.",
-      "language": "en",
-      "categories": [
-        "Entertainment",
-        "Factual"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/ed031cd6-eb90-3ab3-8a6d-8ecb186cf9a6/16-9"
-    },
-    {
-      "start": "2026-05-20T04:20:00+05:00",
-      "stop": "2026-05-20T05:20:00+05:00",
-      "title": "Small Town, Big Riot",
-      "desc": "Mobeen investigates the effect online rumours and disinformation are having on the town. Contains some strong language.",
-      "language": "en",
-      "categories": [
-        "Entertainment",
-        "Factual"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/1123934a-efd0-3d78-b4a5-3bcb9a29bcdb/16-9"
-    },
-    {
-      "start": "2026-05-20T05:20:00+05:00",
-      "stop": "2026-05-20T06:05:00+05:00",
-      "title": "Sin City: The Real Las Vegas",
-      "desc": "Tir Dhondy investigates Las Vegas: from the big spenders to life beyond the bright lights. Contains some upsetting scenes and flashing images.",
-      "language": "en",
-      "categories": [
-        "Entertainment",
-        "Travel"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/fcb4fa34-b295-4e10-9cfd-3ac663eecaf8/16-9"
-    },
-    {
-      "start": "2026-05-20T06:05:00+05:00",
-      "stop": "2026-05-20T06:50:00+05:00",
-      "title": "Sin City: The Real Las Vegas",
-      "desc": "Tir goes even further into the underbelly of Las Vegas. Contains some strong language.",
-      "language": "en",
-      "categories": [
-        "Entertainment",
-        "Travel"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/ce83eb72-8753-4324-8c5f-a576be9a06d0/16-9"
-    },
-    {
-      "start": "2026-05-20T06:50:00+05:00",
-      "stop": "2026-05-20T07:50:00+05:00",
-      "title": "Fake Friend: The Ticket Scammer",
-      "desc": "Unmasking the Somerset high-flyer who conned his school friends and hundreds more. Contains strong language.",
-      "language": "en",
-      "categories": [
-        "Entertainment",
-        "Factual"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/09ba114b-f193-4331-b15e-a2973558b5cb/16-9"
-    },
-    {
       "start": "2026-05-20T07:50:00+05:00",
       "stop": "2026-05-20T09:30:00+05:00",
       "title": "This is BBC Three",
       "desc": "Programmes start at 7.00pm.",
       "language": "en",
       "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/BBC-Three-UK.png"
+    },
+    {
+      "start": "2026-05-20T09:30:00+05:00",
+      "stop": "2026-05-20T15:30:00+05:00",
+      "title": "..programmes start at 7.00pm",
+      "desc": "BBC Three delivers bold and provocative content for younger audiences, featuring groundbreaking documentaries, experimental comedy, and fresh drama.",
+      "language": "en",
+      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/BBC-Three-UK.png"
+    },
+    {
+      "start": "2026-05-20T15:30:00+05:00",
+      "stop": "2026-05-20T21:30:00+05:00",
+      "title": "..programmes start at 7.00pm",
+      "desc": "BBC Three delivers bold and provocative content for younger audiences, featuring groundbreaking documentaries, experimental comedy, and fresh drama.",
+      "language": "en",
+      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/BBC-Three-UK.png"
+    },
+    {
+      "start": "2026-05-20T21:30:00+05:00",
+      "stop": "2026-05-20T22:58:00+05:00",
+      "title": "..programmes start at 7.00pm",
+      "desc": "BBC Three delivers bold and provocative content for younger audiences, featuring groundbreaking documentaries, experimental comedy, and fresh drama.",
+      "language": "en",
+      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/BBC-Three-UK.png"
+    },
+    {
+      "start": "2026-05-20T22:58:00+05:00",
+      "stop": "2026-05-20T23:00:00+05:00",
+      "title": "This is BBC Three",
+      "desc": "Programmes start at 7.00pm.",
+      "language": "en",
+      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/BBC-Three-UK.png"
+    },
+    {
+      "start": "2026-05-20T23:00:00+05:00",
+      "stop": "2026-05-20T23:05:00+05:00",
+      "title": "The Catch Up",
+      "desc": "A round-up of the day's news.",
+      "language": "en",
+      "categories": [
+        "News & Documentary",
+        "News"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/3a262424-d4db-4db2-9933-4dd9c5555f9a/16-9"
     }
   ]
 }

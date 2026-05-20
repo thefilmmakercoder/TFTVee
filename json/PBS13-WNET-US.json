@@ -4,95 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-20T04:00:00+05:00",
-      "stop": "2026-05-20T05:00:00+05:00",
-      "title": "PBS News Hour",
-      "desc": "Co-anchors Amna Nawaz and Geoff Bennett and correspondents offer in-depth analysis of current events.",
-      "date": "2026",
-      "language": "en",
-      "categories": [
-        "Series",
-        "News"
-      ],
-      "episode": "S52 E231",
-      "icon": "http://dtil.tmsimg.com/assets/p27608822_b_h8_ac.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Amna Nawaz",
-          "Geoff Bennett"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-20T05:00:00+05:00",
-      "stop": "2026-05-20T06:00:00+05:00",
-      "title": "Finding Your Roots With Henry Louis Gates, Jr.",
-      "sub_title": "Stranger Than Fiction",
-      "desc": "Traveling across China and the American South to reveal the ancestry of novelist Amy Tan and poet Rita Dove.",
-      "date": "2025",
-      "language": "en",
-      "rating": "TV14",
-      "categories": [
-        "Series",
-        "Documentary",
-        "History"
-      ],
-      "episode": "S11 E3",
-      "icon": "http://dtil.tmsimg.com/assets/p9029128_b_h8_ad.jpg?w=960&h=540",
-      "credits": {
-        "director": [
-          "Jesse Sweet",
-          "Hazel Gurland"
-        ],
-        "actor": [
-          "Henry Louis Gates",
-          "Amy Tan",
-          "Rita Dove"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-20T06:00:00+05:00",
-      "stop": "2026-05-20T08:00:00+05:00",
-      "title": "American Masters",
-      "sub_title": "W.E.B. Du Bois: Rebel With a Cause",
-      "desc": "Exploring the life and legacy of Black civil rights pioneer W.E.B. Du Bois, including how he transcended the social constraints of the early 20th century and worked to elevate the lives of Black people worldwide.",
-      "date": "2026",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Series",
-        "Documentary",
-        "Biography"
-      ],
-      "episode": "S39 E12",
-      "icon": "http://dtil.tmsimg.com/assets/p185856_b_h10_aa.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Viola Davis"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-20T08:00:00+05:00",
-      "stop": "2026-05-20T09:00:00+05:00",
-      "title": "Amanpour and Company",
-      "desc": "Christiane Amanpour leads discussions about world issues and interviews with global leaders.",
-      "date": "2026",
-      "language": "en",
-      "categories": [
-        "Series",
-        "Public affairs"
-      ],
-      "episode": "S8 E165",
-      "icon": "http://dtil.tmsimg.com/assets/p15694932_b_h8_ac.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Christiane Amanpour"
-        ]
-      }
-    },
-    {
       "start": "2026-05-20T09:00:00+05:00",
       "stop": "2026-05-20T09:30:00+05:00",
       "title": "One on One With Steve Adubato",
@@ -122,6 +33,85 @@
         "Documentary"
       ],
       "icon": "http://dtil.tmsimg.com/assets/p11410254_b_h10_ad.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-20T11:00:00+05:00",
+      "stop": "2026-05-20T12:30:00+05:00",
+      "title": "The Brain-Gut Connection With Dr. Emeran Mayer",
+      "desc": "Dr. Emeran Mayer explores the interconnectivity between the gut and the brain, and reveals strategies for mental and physical well-being.",
+      "date": "2023",
+      "language": "en",
+      "categories": [
+        "Special",
+        "Health",
+        "Medical"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p25742144_b_h8_ab.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Emeran Mayer"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-20T12:30:00+05:00",
+      "stop": "2026-05-20T14:30:00+05:00",
+      "title": "Great Scenic Railway Journeys 30th Anniversary Special",
+      "desc": "Some of America's best railway adventures, from the Rocky Mountaineer to the Skyrail, these stories offer a glimpse into our nation's railroad history and explore how railroads defined the spirit of North America.",
+      "date": "2023",
+      "language": "en",
+      "categories": [
+        "Special",
+        "Public affairs"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p24618215_b_h11_aa.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-20T14:30:00+05:00",
+      "stop": "2026-05-20T15:00:00+05:00",
+      "title": "Rick Steves' Europe",
+      "sub_title": "Oslo",
+      "desc": "Viking ships; Opera House, World War II tales; Norwegian art.",
+      "date": "2010",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Series",
+        "Travel"
+      ],
+      "episode": "S6 E7",
+      "icon": "http://dtil.tmsimg.com/assets/p477118_b_h8_ae.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Rick Steves"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-20T15:00:00+05:00",
+      "stop": "2026-05-20T15:30:00+05:00",
+      "title": "Arthur",
+      "sub_title": "Arthur the Wrecker; Arthur and the True Francine",
+      "desc": "Arthur scrambles to fix his mother's computer before she finds out he broke it; Francine gets blamed when Muffy cheats on a math test.",
+      "date": "1996",
+      "language": "en",
+      "rating": "TVY",
+      "categories": [
+        "Series",
+        "Animated",
+        "Children",
+        "Educational",
+        "Animals"
+      ],
+      "episode": "S1 E14",
+      "icon": "http://dtil.tmsimg.com/assets/p8640466_b_h10_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Cameron Ansell",
+          "Robert Naylor",
+          "Bruce Dinsmore"
+        ]
+      }
     }
   ]
 }
