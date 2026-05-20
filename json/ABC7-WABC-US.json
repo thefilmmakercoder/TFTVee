@@ -4,64 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-20T15:00:00+05:00",
-      "stop": "2026-05-20T16:00:00+05:00",
-      "title": "Eyewitness News This Morning",
-      "desc": "News coverage to start the day.",
-      "date": "2007",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p677214_b_h8_ad.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-20T16:00:00+05:00",
-      "stop": "2026-05-20T18:00:00+05:00",
-      "title": "Good Morning America",
-      "desc": "Actress Keke Palmer; The Ultimate Memorial Day Cooking Countdown with chef Joe Isidori; Dr. Whitney Bowe shares tips on transforming your skin routine from winter to summer; Deals & Steals with Tory Johnson.",
-      "date": "2026",
-      "language": "en",
-      "categories": [
-        "Series",
-        "Talk",
-        "News",
-        "Variety",
-        "Public affairs"
-      ],
-      "episode": "E160",
-      "icon": "http://dtil.tmsimg.com/assets/p31385280_b_h10_aa.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "George Stephanopoulos",
-          "Robin Roberts",
-          "Michael Strahan"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-20T18:00:00+05:00",
-      "stop": "2026-05-20T19:00:00+05:00",
-      "title": "Live with Kelly and Mark",
-      "desc": "David Duchovny swings by for a chat; Leo Woodall talks with the hosts.",
-      "date": "2026",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Series",
-        "Talk"
-      ],
-      "episode": "S4 E188",
-      "icon": "http://dtil.tmsimg.com/assets/p24324378_b_h8_ab.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Kelly Ripa",
-          "Mark Consuelos",
-          "David Duchovny"
-        ]
-      }
-    },
-    {
       "start": "2026-05-20T19:00:00+05:00",
       "stop": "2026-05-20T20:00:00+05:00",
       "title": "Eyewitness News Mornings at 10",
@@ -109,6 +51,78 @@
         "News"
       ],
       "icon": "http://dtil.tmsimg.com/assets/p11844655_b_h8_ad.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-20T22:00:00+05:00",
+      "stop": "2026-05-20T23:00:00+05:00",
+      "title": "GMA3",
+      "desc": "The Ultimate Memorial Day Cooking Countdown with Joe Isidori; Dr. Whitney Bowe shares tips on transforming your skin routine from winter to summer; ABC Secret Savings with Will Ganss; Deals & Steals with Tory Johnson.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "News",
+        "Talk",
+        "Health"
+      ],
+      "episode": "S6 E171",
+      "icon": "http://dtil.tmsimg.com/assets/p30687311_b_h8_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Joe Isidori",
+          "Whitney Bowe",
+          "Will Ganss"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-20T23:00:00+05:00",
+      "stop": "2026-05-21T00:00:00+05:00",
+      "title": "Tamron Hall",
+      "sub_title": "Daytime Exclusive: Hayden Panettiere",
+      "desc": "Actress Hayden Panettiere joins Tamron for a candid sit-down about her memoir, \"This Is Me: A Reckoning\"; journalist Sara Sidner shares how her Stage 3 breast cancer diagnosis forced a personal reckoning she now calls a gift.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "Series",
+        "Talk"
+      ],
+      "episode": "S7 E168",
+      "icon": "http://dtil.tmsimg.com/assets/p17197549_b_h8_af.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Tamron Hall",
+          "Hayden Panettiere",
+          "Sara Sidner"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-21T00:00:00+05:00",
+      "stop": "2026-05-21T01:00:00+05:00",
+      "title": "General Hospital",
+      "desc": "Alexis seeks assistance from Ava; Ethan makes a promise to Lulu; Britt makes a big decision; Valentin and Carly clash; Nina gets a shock.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "Series",
+        "Soap",
+        "Medical",
+        "Drama",
+        "Romance"
+      ],
+      "episode": "S63 E174",
+      "icon": "http://dtil.tmsimg.com/assets/p183893_b_h8_al.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Maurice Benard",
+          "Steve Burton",
+          "Michael Easton"
+        ]
+      }
     }
   ]
 }

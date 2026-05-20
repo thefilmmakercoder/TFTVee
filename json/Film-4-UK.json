@@ -4,32 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-20T11:00:00+05:00",
-      "stop": "2026-05-20T15:00:00+05:00",
-      "title": "Teleshopping",
-      "desc": "Teleshopping.",
-      "language": "en",
-      "categories": [
-        "Specialist",
-        "Shopping"
-      ],
-      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/Film-4-UK.png"
-    },
-    {
-      "start": "2026-05-20T15:00:00+05:00",
-      "stop": "2026-05-20T16:45:00+05:00",
-      "title": "The Black Swan",
-      "desc": "Swashbuckling adventure with Laird Cregar and Tyrone Power. Privateer Captain Henry Morgan tries to rid the Caribbean of pirates when he's made Governor of Jamaica. Bit rich.",
-      "date": "1942",
-      "language": "en",
-      "rating": "PG",
-      "categories": [
-        "Movie",
-        "Adventure"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/0a307ed1-3bf5-4e50-b1f9-4deee435bedc/16-9"
-    },
-    {
       "start": "2026-05-20T16:45:00+05:00",
       "stop": "2026-05-20T18:45:00+05:00",
       "title": "Yellow Sky",
@@ -84,6 +58,34 @@
         "Action"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/3df6fb6a-a92d-40c9-8141-306c585a16b6/16-9"
+    },
+    {
+      "start": "2026-05-21T01:00:00+05:00",
+      "stop": "2026-05-21T02:55:00+05:00",
+      "title": "Renfield",
+      "desc": "Comedy horror vampire shenanigans with Nicholas Hoult, Awkwafina and a full-blooded Nicolas Cage. Dracula's familiar gets distracted from procuring food for his master.",
+      "date": "2023",
+      "language": "en",
+      "rating": "15",
+      "categories": [
+        "Movie",
+        "Horror"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/fe6496f5-58dd-30b5-a298-280242cc4ea2/16-9"
+    },
+    {
+      "start": "2026-05-21T02:55:00+05:00",
+      "stop": "2026-05-21T04:45:00+05:00",
+      "title": "How to Have Sex",
+      "desc": "Incisive coming-of-age drama with Mia McKenna-Bruce. Three teenage girls go on holiday looking for a taste of hedonism. But is the reality as simple or as fun as the dream.",
+      "date": "2023",
+      "language": "en",
+      "rating": "15",
+      "categories": [
+        "Movie",
+        "Drama"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/9c2472f7-43c1-36b7-8ead-dfd08733eaf3/16-9"
     }
   ]
 }
