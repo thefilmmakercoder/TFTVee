@@ -4,63 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-20T03:00:00+05:00",
-      "stop": "2026-05-20T03:30:00+05:00",
-      "title": "CBS News New York 6pm",
-      "desc": "Stay informed with the latest breaking news and headlines.",
-      "date": "2008",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p605164_b_h8_ab.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-20T03:30:00+05:00",
-      "stop": "2026-05-20T04:00:00+05:00",
-      "title": "CBS Evening News",
-      "desc": "Tony Dokoupil shares the day's most important stories, delivering context and depth to bring greater understanding to one's world.",
-      "date": "2026",
-      "language": "en",
-      "categories": [
-        "Series",
-        "News"
-      ],
-      "episode": "E139",
-      "icon": "http://dtil.tmsimg.com/assets/p28807922_b_h8_ae.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Tony Dokoupil",
-          "Maurice DuBois",
-          "Jericka Duncan"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-20T04:00:00+05:00",
-      "stop": "2026-05-20T04:30:00+05:00",
-      "title": "Inside Edition",
-      "desc": "A syndicated news magazine includes investigative reports, interviews with newsmakers, human interest stories and celebrity and pop-culture features.",
-      "date": "2026",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Series",
-        "Newsmagazine",
-        "Public affairs",
-        "Interview"
-      ],
-      "episode": "S38 E182",
-      "icon": "http://dtil.tmsimg.com/assets/p184110_b_h10_aa.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Eva Pilgrim",
-          "Mary Calvi",
-          "Jim Moret"
-        ]
-      }
-    },
-    {
       "start": "2026-05-20T04:30:00+05:00",
       "stop": "2026-05-20T05:00:00+05:00",
       "title": "Entertainment Tonight",
@@ -129,6 +72,65 @@
           "Sean Murray",
           "Wilmer Valderrama",
           "Brian Dietzen"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-20T08:00:00+05:00",
+      "stop": "2026-05-20T08:35:00+05:00",
+      "title": "CBS News New York 11pm",
+      "desc": "Local news coverage.",
+      "date": "2011",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p8492450_b_h8_ab.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-20T08:35:00+05:00",
+      "stop": "2026-05-20T09:37:00+05:00",
+      "title": "The Late Show With Stephen Colbert",
+      "sub_title": "Jon Stewart; Steven Spielberg; David Byrne",
+      "desc": "TV host Jon Stewart; filmmaker Steven Spielberg; David Byrne performs with Stephen Colbert.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Talk",
+        "Comedy"
+      ],
+      "episode": "S11 E116",
+      "icon": "http://dtil.tmsimg.com/assets/p31135627_b_h8_ab.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Stephen Colbert",
+          "Jon Stewart",
+          "Steven Spielberg"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-20T09:37:00+05:00",
+      "stop": "2026-05-20T10:07:00+05:00",
+      "title": "Comics Unleashed With Byron Allen",
+      "desc": "Celebrity guests Orlando Leyba, Caroline Rhea, Finesse Mitchell and Jamie Kennedy.",
+      "date": "2025",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Comedy"
+      ],
+      "episode": "S4 E1",
+      "icon": "http://dtil.tmsimg.com/assets/p186631_b_h8_ad.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Byron Allen",
+          "Orlando Leyba",
+          "Caroline Rhea"
         ]
       }
     }

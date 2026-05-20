@@ -4,20 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-20T00:00:00+05:00",
-      "stop": "2026-05-20T00:30:00+05:00",
-      "title": "Today Early News",
-      "sub_title": "Wednesday 20 May 2026",
-      "desc": "Today Early News with up to date news from Australia and around the world as well as the latest in sport and weather.",
-      "language": "en",
-      "rating": "NR",
-      "categories": [
-        "News"
-      ],
-      "episode": "E100",
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/428725/image/334x188"
-    },
-    {
       "start": "2026-05-20T00:30:00+05:00",
       "stop": "2026-05-20T04:00:00+05:00",
       "title": "Today",
@@ -84,6 +70,19 @@
       ],
       "episode": "S4 E3",
       "icon": "https://www.fetchtv.com.au/v2/epg/program/2452060/image/334x188"
+    },
+    {
+      "start": "2026-05-20T09:00:00+05:00",
+      "stop": "2026-05-20T10:00:00+05:00",
+      "title": "Pointless",
+      "desc": "Hosted by Alexander Armstrong. In each episode four teams of two contestants attempt to find correct but obscure answers to four rounds of general knowledge questions, with the winning team eligible to compete for the show's cash jackpot.",
+      "language": "en",
+      "rating": "PG",
+      "categories": [
+        "Special Interest"
+      ],
+      "episode": "S34 E42",
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/325129/image/334x188"
     }
   ]
 }

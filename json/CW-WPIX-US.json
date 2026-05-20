@@ -4,56 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-20T03:00:00+05:00",
-      "stop": "2026-05-20T03:30:00+05:00",
-      "title": "PIX11 News at 6",
-      "desc": "Staying informed with the news and headlines.",
-      "date": "2015",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p11641865_b_h8_ab.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-20T03:30:00+05:00",
-      "stop": "2026-05-20T04:00:00+05:00",
-      "title": "PIX11 Evening News",
-      "desc": "Staying informed with the news and headlines.",
-      "date": "2022",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p21846983_b_h8_aa.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-20T04:00:00+05:00",
-      "stop": "2026-05-20T04:30:00+05:00",
-      "title": "Seinfeld",
-      "sub_title": "The Stakeout",
-      "desc": "Jerry goes to great lengths to find and woo a woman he met at a party.",
-      "date": "1990",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Series",
-        "Sitcom"
-      ],
-      "episode": "S1 E2",
-      "icon": "http://dtil.tmsimg.com/assets/p183875_b_h10_ab.jpg?w=960&h=540",
-      "credits": {
-        "director": [
-          "Tom Cherones"
-        ],
-        "actor": [
-          "Jerry Seinfeld",
-          "Jason Alexander",
-          "Michael Richards"
-        ]
-      }
-    },
-    {
       "start": "2026-05-20T04:30:00+05:00",
       "stop": "2026-05-20T05:00:00+05:00",
       "title": "The Big Bang Theory",
@@ -113,6 +63,67 @@
         "News"
       ],
       "icon": "http://dtil.tmsimg.com/assets/p10829690_b_h8_ab.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-20T08:00:00+05:00",
+      "stop": "2026-05-20T08:30:00+05:00",
+      "title": "New York Nightcap",
+      "desc": "WPIX provides essential New York news, live sports, and CW network hits, serving as a cornerstone of local broadcasting for the tri-state area.",
+      "date": "2025",
+      "language": "en",
+      "categories": [
+        "Community"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p31821949_st_h10_aa.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-20T08:30:00+05:00",
+      "stop": "2026-05-20T09:00:00+05:00",
+      "title": "Seinfeld",
+      "sub_title": "The Dinner Party",
+      "desc": "Jerry, Elaine, George and Kramer search for something to take to a dinner party; Jerry and Elaine forget to take a number at the bakery; Kramer and George have trouble buying wine.",
+      "date": "1994",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Sitcom"
+      ],
+      "episode": "S5 E13",
+      "icon": "http://dtil.tmsimg.com/assets/p183875_b_h10_ab.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Tom Cherones"
+        ],
+        "actor": [
+          "Jerry Seinfeld",
+          "Jason Alexander",
+          "Michael Richards"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-20T09:00:00+05:00",
+      "stop": "2026-05-20T09:30:00+05:00",
+      "title": "Friends",
+      "sub_title": "The One With the Baby on the Bus",
+      "desc": "Joey and Chandler decide to baby-sit and use Ben as a way to pick up women; Phoebe loses her job singing at Central Perk.",
+      "date": "1995",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Sitcom"
+      ],
+      "episode": "S2 E6",
+      "icon": "http://dtil.tmsimg.com/assets/p7892599_b_h10_ab.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Jennifer Aniston",
+          "Courteney Cox",
+          "Lisa Kudrow"
+        ]
+      }
     }
   ]
 }

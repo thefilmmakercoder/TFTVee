@@ -4,30 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-20T02:30:00+05:00",
-      "stop": "2026-05-20T03:00:00+05:00",
-      "title": "Newsnight, followed by Weather",
-      "desc": "Insights and global interviews on the news stories of the day. With Victoria Derbyshire. Followed by Weather.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/c6e99f1a-1aba-45a2-ae98-18fb7a06d777/16-9"
-    },
-    {
-      "start": "2026-05-20T03:00:00+05:00",
-      "stop": "2026-05-20T03:50:00+05:00",
-      "title": "Match of the Day",
-      "desc": "The world's most famous football show, with the big names and the big games from the Premier League.",
-      "language": "en",
-      "categories": [
-        "Sports",
-        "Football"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/e7530c0a-0056-40df-9db0-5be588103e92/16-9"
-    },
-    {
       "start": "2026-05-20T03:50:00+05:00",
       "stop": "2026-05-20T04:40:00+05:00",
       "title": "Later... with Jools Holland",
@@ -73,6 +49,26 @@
         "Factual"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/737397ec-519e-49b0-8a8a-22f5502f7c6b/16-9"
+    },
+    {
+      "start": "2026-05-20T06:50:00+05:00",
+      "stop": "2026-05-20T07:50:00+05:00",
+      "title": "Surgeons: At the Edge of Life",
+      "desc": "Surgeons face tricky dilemmas in bile duct tumour and chest sarcoma operations. Contains graphic medical scenes.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Factual"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/e4bde923-e52f-4750-bbe7-55dda02d7a9e/16-9"
+    },
+    {
+      "start": "2026-05-20T07:50:00+05:00",
+      "stop": "2026-05-20T10:00:00+05:00",
+      "title": "This is BBC Two",
+      "desc": "Highlights of programmes on BBC Two.",
+      "language": "en",
+      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/BBC-Two-UK.png"
     }
   ]
 }

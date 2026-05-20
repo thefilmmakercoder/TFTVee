@@ -4,56 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-20T02:30:00+05:00",
-      "stop": "2026-05-20T02:59:00+05:00",
-      "title": "CTV National News With Sandie Rinaldo",
-      "desc": "CTV News covers stories that matter to Canadians - locally, nationally, & internationally.",
-      "date": "2026",
-      "language": "en",
-      "categories": [
-        "Series",
-        "News"
-      ],
-      "episode": "E80",
-      "icon": "http://dtil.tmsimg.com/assets/p7988878_b_h8_aa.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Sandie Rinaldo"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-20T02:59:00+05:00",
-      "stop": "2026-05-20T04:00:00+05:00",
-      "title": "Live: CTV News Toronto",
-      "desc": "CTV News covers stories that matter to Canadians, locally, nationally and internationally.",
-      "date": "2014",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p11226977_b_h8_ae.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-20T04:00:00+05:00",
-      "stop": "2026-05-20T04:30:00+05:00",
-      "title": "etalk",
-      "desc": "Daily gossip and celebrity news from home and abroad; roving reporters and Hollywood correspondents provide must-have details on scoops.",
-      "date": "2006",
-      "language": "en",
-      "categories": [
-        "Entertainment"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p191965_b_h8_ah.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Tyrone Edwards",
-          "Lainey Lui",
-          "Traci Melchor"
-        ]
-      }
-    },
-    {
       "start": "2026-05-20T04:30:00+05:00",
       "stop": "2026-05-20T05:00:00+05:00",
       "title": "The Big Bang Theory",
@@ -117,6 +67,69 @@
       ],
       "episode": "E82",
       "icon": "http://dtil.tmsimg.com/assets/p22894284_b_h8_ab.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-20T08:30:00+05:00",
+      "stop": "2026-05-20T09:05:00+05:00",
+      "title": "Live: CTV News Toronto",
+      "desc": "CTV News covers stories that matter to Canadians, locally, nationally and internationally.",
+      "date": "2014",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p11226977_b_h8_ae.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-20T09:05:00+05:00",
+      "stop": "2026-05-20T09:37:00+05:00",
+      "title": "The Big Bang Theory",
+      "sub_title": "The Skywalker Incursion",
+      "desc": "When Sheldon and Leonard are asked to speak at UC Berkeley, they take a detour in hope of meeting an idol; Raj and Amy try to settle a dispute between Howard and Bernadette with a game of ping pong.",
+      "date": "2015",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Sitcom"
+      ],
+      "episode": "S8 E19",
+      "icon": "http://dtil.tmsimg.com/assets/p185554_b_h8_az.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Mark Cendrowski"
+        ],
+        "actor": [
+          "Johnny Galecki",
+          "Jim Parsons",
+          "Kaley Cuoco-Sweeting"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-20T09:37:00+05:00",
+      "stop": "2026-05-20T10:37:00+05:00",
+      "title": "Late Night With Seth Meyers",
+      "sub_title": "Chelsea Handler; Eiza Gonz\u00e1lez",
+      "desc": "Comic Chelsea Handler; actress Eiza Gonz\u00e1lez.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "Series",
+        "Talk",
+        "Comedy",
+        "Political News Satire & Talk"
+      ],
+      "episode": "S13 E84",
+      "icon": "http://dtil.tmsimg.com/assets/p31240203_b_h8_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Seth Meyers",
+          "Chelsea Handler",
+          "Eiza Gonz\u00e1lez"
+        ]
+      }
     }
   ]
 }
