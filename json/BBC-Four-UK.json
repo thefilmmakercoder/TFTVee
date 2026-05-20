@@ -4,38 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-20T22:58:00+05:00",
-      "stop": "2026-05-20T23:00:00+05:00",
-      "title": "This is BBC Four",
-      "desc": "Programmes start at 7.00pm.",
-      "language": "en",
-      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/BBC-Four-UK.png"
-    },
-    {
-      "start": "2026-05-20T23:00:00+05:00",
-      "stop": "2026-05-20T23:30:00+05:00",
-      "title": "University Challenge",
-      "desc": "Balliol College, Oxford, faces the University of Southampton in another first round match.",
-      "language": "en",
-      "categories": [
-        "Entertainment",
-        "Game Show"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/681ef322-6f42-45b7-9e5a-b1e423858151/16-9"
-    },
-    {
-      "start": "2026-05-20T23:30:00+05:00",
-      "stop": "2026-05-21T00:00:00+05:00",
-      "title": "Only Connect",
-      "desc": "Quiz show presented by Victoria Coren in which patience and lateral thinking are as vital as knowledge, and connections need to be made between apparently unconnected things.",
-      "language": "en",
-      "categories": [
-        "Entertainment",
-        "Game Show"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/d028dc6d-5daf-4abb-88b5-80dc24907e1e/16-9"
-    },
-    {
       "start": "2026-05-21T00:00:00+05:00",
       "stop": "2026-05-21T01:00:00+05:00",
       "title": "From Ice to Fire: The Incredible Science of Temperature",
@@ -70,6 +38,42 @@
         "Arts"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/e0f2a10f-d1fa-44cd-a0ca-a505596914b3/16-9"
+    },
+    {
+      "start": "2026-05-21T02:20:00+05:00",
+      "stop": "2026-05-21T03:10:00+05:00",
+      "title": "A Very Peculiar Practice",
+      "desc": "Newly separated from his wife, Stephen Daker starts his new job as GP at the very peculiar Lowlands Medical Centre.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Comedy"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/b1a6766b-27ef-3d4c-b764-0303cff5ac38/16-9"
+    },
+    {
+      "start": "2026-05-21T03:10:00+05:00",
+      "stop": "2026-05-21T04:05:00+05:00",
+      "title": "A Very Peculiar Practice",
+      "desc": "It's the first day of term, and Stephen must give a lecture to the students, as Bob plans to tell them they are a waste of money.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Comedy"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/e7aece5d-7190-3df9-a36a-8c00645d6156/16-9"
+    },
+    {
+      "start": "2026-05-21T04:05:00+05:00",
+      "stop": "2026-05-21T05:05:00+05:00",
+      "title": "Andrew Davies: Rewriting the Classics",
+      "desc": "A profile of Britain's best-known screenwriter as he embarks on Les Mis\u00e9rables. From 2018. Deals with adult themes.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Arts"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/ffad6e3e-f875-4707-8148-8fab3b9ba464/16-9"
     }
   ]
 }

@@ -4,48 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-20T22:30:00+05:00",
-      "stop": "2026-05-20T23:00:00+05:00",
-      "title": "TV Shop - Home Shopping",
-      "sub_title": "Thin Lizzy Xcellerate35",
-      "desc": "Home shopping programme.",
-      "language": "en",
-      "rating": "G",
-      "categories": [
-        "Special Interest"
-      ],
-      "episode": "E294",
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/184500/image/334x188"
-    },
-    {
-      "start": "2026-05-20T23:00:00+05:00",
-      "stop": "2026-05-20T23:30:00+05:00",
-      "title": "Skippy",
-      "sub_title": "The Prince Of Siam",
-      "desc": "Sonny takes on a job assisting a local gardener, eager to earn a little pocket money that he plans to donate to charity, showing his generosity and sense of responsibility. Meanwhile, Skippy proves once again how clever and caring she is by rallying her bushland friends to help track down a lost cat. Together, their efforts highlight both kindness and teamwork, whether through human determination or animal instinct.",
-      "language": "en",
-      "rating": "G",
-      "categories": [
-        "Kids & Family"
-      ],
-      "episode": "S3 E3",
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/132554/image/334x188"
-    },
-    {
-      "start": "2026-05-20T23:30:00+05:00",
-      "stop": "2026-05-21T00:00:00+05:00",
-      "title": "A Current Affair",
-      "sub_title": "Wednesday 20 May 2026",
-      "desc": "A Current Affair covers the realms of politics, crime, human rights, science, technology, celebrities and entertainment - all investigated by a dedicated team.",
-      "language": "en",
-      "rating": "NR",
-      "categories": [
-        "News"
-      ],
-      "episode": "E100",
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/131990/image/334x188"
-    },
-    {
       "start": "2026-05-21T00:00:00+05:00",
       "stop": "2026-05-21T00:30:00+05:00",
       "title": "Today Early News",
@@ -85,6 +43,45 @@
       ],
       "episode": "E80",
       "icon": "https://www.fetchtv.com.au/v2/epg/program/134254/image/334x188"
+    },
+    {
+      "start": "2026-05-21T06:30:00+05:00",
+      "stop": "2026-05-21T07:00:00+05:00",
+      "title": "9News Morning",
+      "sub_title": "Thursday 21 May 2026",
+      "desc": "Join 9News for up to the minute news on local and international news including sport and weather.",
+      "language": "en",
+      "rating": "NR",
+      "categories": [
+        "News"
+      ],
+      "episode": "E101",
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/426816/image/334x188"
+    },
+    {
+      "start": "2026-05-21T07:00:00+05:00",
+      "stop": "2026-05-21T09:00:00+05:00",
+      "title": "Love, Game, Match",
+      "desc": "When econ teacher Liz takes a position at Faraday High, she volunteers to organize Carnival Day. She's paired up with tennis coach Ted and although they initially have trouble seeing eye to eye on most things, sparks fly.",
+      "language": "en",
+      "rating": "PG",
+      "categories": [
+        "Similar"
+      ],
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/3902492/image/334x188"
+    },
+    {
+      "start": "2026-05-21T09:00:00+05:00",
+      "stop": "2026-05-21T10:00:00+05:00",
+      "title": "Pointless",
+      "desc": "Hosted by Alexander Armstrong. In each episode four teams of two contestants attempt to find correct but obscure answers to four rounds of general knowledge questions, with the winning team eligible to compete for the show's cash jackpot.",
+      "language": "en",
+      "rating": "PG",
+      "categories": [
+        "Special Interest"
+      ],
+      "episode": "S34 E43",
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/325129/image/334x188"
     }
   ]
 }

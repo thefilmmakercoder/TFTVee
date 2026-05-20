@@ -4,53 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-20T22:30:00+05:00",
-      "stop": "2026-05-20T23:00:00+05:00",
-      "title": "BBC London News",
-      "desc": "The latest news, sport and weather from London.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/a80f288f-a247-44a0-bf3b-0059d131ec89/16-9"
-    },
-    {
-      "start": "2026-05-20T23:00:00+05:00",
-      "stop": "2026-05-20T23:30:00+05:00",
-      "title": "The One Show",
-      "desc": "Alex Jones and Angellica Bell bring you the stories that matter from across the country.",
-      "language": "en",
-      "categories": [
-        "Entertainment"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/68a7f8f4-f1ef-4b7b-af0f-ff144204b87d/16-9"
-    },
-    {
-      "start": "2026-05-20T23:30:00+05:00",
-      "stop": "2026-05-21T00:00:00+05:00",
-      "title": "EastEnders",
-      "desc": "Walford gathers for the day of Nigel's funeral, Grant worries about Mark, and the Mitchells head off on a mission.",
-      "language": "en",
-      "categories": [
-        "Entertainment",
-        "Soap"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/eafdd707-672f-4609-893a-449b55c3f085/16-9"
-    },
-    {
-      "start": "2026-05-21T00:00:00+05:00",
-      "stop": "2026-05-21T01:00:00+05:00",
-      "title": "MasterChef",
-      "desc": "Knockout week continues, and the chefs must prove themselves enough to make it into their first professional kitchen.",
-      "language": "en",
-      "categories": [
-        "Entertainment",
-        "Game Show"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/b858e29b-3318-4fc3-a7f5-a45f0c10d6ba/16-9"
-    },
-    {
       "start": "2026-05-21T01:00:00+05:00",
       "stop": "2026-05-21T01:30:00+05:00",
       "title": "Amandaland",
@@ -73,6 +26,53 @@
         "Comedy"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/e1e07a83-4f98-4e99-aa60-94dcd83b6e69/16-9"
+    },
+    {
+      "start": "2026-05-21T02:00:00+05:00",
+      "stop": "2026-05-21T02:30:00+05:00",
+      "title": "BBC News and Weather",
+      "desc": "The latest national and international news, with reports from BBC correspondents worldwide.",
+      "language": "en",
+      "categories": [
+        "News & Documentary",
+        "News"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/68736469-a4b8-418a-b68f-ee835b09f32f/16-9"
+    },
+    {
+      "start": "2026-05-21T02:30:00+05:00",
+      "stop": "2026-05-21T02:40:00+05:00",
+      "title": "BBC London News",
+      "desc": "The latest news, sport and weather from London.",
+      "language": "en",
+      "categories": [
+        "News & Documentary",
+        "News"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/53658056-af51-46b4-a062-96ea5787ca4e/16-9"
+    },
+    {
+      "start": "2026-05-21T02:40:00+05:00",
+      "stop": "2026-05-21T05:20:00+05:00",
+      "title": "Saving Private Ryan",
+      "desc": "A troop of Americans are sent to find and return a single soldier after D-Day. Contains strong language and prolonged violent scenes.",
+      "language": "en",
+      "categories": [
+        "Movie"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/89a529b2-76ae-4e72-a31b-709a06d70ba6/16-9"
+    },
+    {
+      "start": "2026-05-21T05:20:00+05:00",
+      "stop": "2026-05-21T05:25:00+05:00",
+      "title": "Weather for the Week Ahead",
+      "desc": "Detailed weather forecast.",
+      "language": "en",
+      "categories": [
+        "News & Documentary",
+        "News"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/1e6173c8-ce1d-4a2f-af78-5409442537c1/16-9"
     }
   ]
 }
