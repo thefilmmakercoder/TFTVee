@@ -4,49 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-21T00:00:00+05:00",
-      "stop": "2026-05-21T01:00:00+05:00",
-      "title": "NBC News Daily",
-      "desc": "NBC News provides viewers with the latest national and international news; consumer, health and personal finance reporting; up-to-the-minute local news.",
-      "date": "2026",
-      "language": "en",
-      "categories": [
-        "Series",
-        "News"
-      ],
-      "episode": "E89",
-      "icon": "http://dtil.tmsimg.com/assets/p22712535_b_h8_ad.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Vicky Nguyen",
-          "Morgan Radford"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-21T01:00:00+05:00",
-      "stop": "2026-05-21T02:00:00+05:00",
-      "title": "Access Daily With Mario & Kit",
-      "desc": "The daily one-hour syndicated entertainment news and lifestyle talk show co-hosted by Mario Lopez, Kit Hoover and Scott Evans features celebrity interviews and gives viewers insider access to Hollywood's biggest stories.",
-      "date": "2026",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Series",
-        "Newsmagazine",
-        "Entertainment"
-      ],
-      "episode": "S16 E148",
-      "icon": "http://dtil.tmsimg.com/assets/p22894952_b_h8_ab.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Mario Lopez",
-          "Kit Hoover",
-          "Scott Evans"
-        ]
-      }
-    },
-    {
       "start": "2026-05-21T02:00:00+05:00",
       "stop": "2026-05-21T03:00:00+05:00",
       "title": "The Kelly Clarkson Show",
@@ -112,6 +69,31 @@
         "News"
       ],
       "icon": "http://dtil.tmsimg.com/assets/p9358491_b_h10_ae.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-21T05:00:00+05:00",
+      "stop": "2026-05-21T05:30:00+05:00",
+      "title": "Live: NBA Showtime",
+      "desc": "Coverage of the latest storylines and news from across the NBA featuring in-depth analysis and highlights.",
+      "date": "2025",
+      "language": "en",
+      "categories": [
+        "Basketball"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p30949176_b_h8_ab.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-21T05:30:00+05:00",
+      "stop": "2026-05-21T08:00:00+05:00",
+      "title": "Live: NBA Basketball",
+      "desc": "The Oklahoma City Thunder and San Antonio Spurs battle in Game 2 of the West Finals. San Antonio secured a 122-115 double-overtime victory in the series opener. Victor Wembanyama and Shai Gilgeous-Alexander prepare to clash at Paycom Center.",
+      "language": "en",
+      "categories": [
+        "Sports",
+        "Playoff sports",
+        "Basketball"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/GNLZZGG0034434L.jpg?w=960&h=540"
     }
   ]
 }

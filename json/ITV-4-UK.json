@@ -4,18 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-21T00:45:00+05:00",
-      "stop": "2026-05-21T00:50:00+05:00",
-      "title": "FYI Daily",
-      "desc": "Latest news from the world of entertainment.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "Showbiz"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/177b0f8d-d393-43ab-981e-aa5db31b2eb5/16-9"
-    },
-    {
       "start": "2026-05-21T00:50:00+05:00",
       "stop": "2026-05-21T02:00:00+05:00",
       "title": "Tomorrow Never Dies",
@@ -76,6 +64,18 @@
         "Drama"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/857291fe-ab89-4919-8b47-fc1f9012e505/16-9"
+    },
+    {
+      "start": "2026-05-21T06:50:00+05:00",
+      "stop": "2026-05-21T07:00:00+05:00",
+      "title": "Unwind with ITV",
+      "desc": "Your daily escape designed to calm the mind and encourage relaxation and reflection.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Lifestyles"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/d499674a-e4d0-454a-8266-6eb4b2193ec6/16-9"
     }
   ]
 }

@@ -4,32 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-21T01:00:00+05:00",
-      "stop": "2026-05-21T01:30:00+05:00",
-      "title": "Wowsabout",
-      "desc": "Ronald, a meticulous, rule-following pig, and Roxy, a free-spirited musical hedgehog, explore the \"wows\" of one of America's most extraordinary places -- Sequoia National Park.",
-      "date": "2026",
-      "language": "en",
-      "rating": "TVY",
-      "categories": [
-        "Special",
-        "Entertainment",
-        "Educational",
-        "Animated"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p32635772_b_h8_aa.jpg?w=960&h=540",
-      "credits": {
-        "director": [
-          "John Tartaglia"
-        ],
-        "actor": [
-          "Dorien Davies",
-          "John Tartaglia",
-          "Alice Dinnean"
-        ]
-      }
-    },
-    {
       "start": "2026-05-21T01:30:00+05:00",
       "stop": "2026-05-21T02:30:00+05:00",
       "title": "Antiques Roadshow",
@@ -146,6 +120,20 @@
           "Ariel Waldman"
         ]
       }
+    },
+    {
+      "start": "2026-05-21T07:30:00+05:00",
+      "stop": "2026-05-21T08:00:00+05:00",
+      "title": "Earth Focus",
+      "sub_title": "After the Fires: Rebuilding with Resiliency",
+      "desc": "KOCE (PBS SoCal) serves as the flagship PBS station for Southern California, delivering trusted national educational content alongside regional news, cultural documentaries, and community-focused public media.",
+      "date": "2026",
+      "language": "en",
+      "categories": [
+        "Series",
+        "Environment"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p21813442_st_h10_aa.jpg?w=960&h=540"
     }
   ]
 }

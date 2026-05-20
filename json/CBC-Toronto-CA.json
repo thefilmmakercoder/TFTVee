@@ -4,57 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-21T00:00:00+05:00",
-      "stop": "2026-05-21T01:00:00+05:00",
-      "title": "Murdoch Mysteries",
-      "sub_title": "Murdoch Mystery Mansion",
-      "desc": "An explosion at Murdoch and Ogden's house claims a man's life.",
-      "date": "2018",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Series",
-        "Drama",
-        "Mystery"
-      ],
-      "episode": "S12 E1",
-      "icon": "http://dtil.tmsimg.com/assets/p811777_b_h8_at.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Yannick Bisson",
-          "Helene Joy",
-          "Jonny Harris"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-21T01:00:00+05:00",
-      "stop": "2026-05-21T02:00:00+05:00",
-      "title": "Call the Midwife",
-      "desc": "Nonnatus House faces its darkest day after a tragic incident in the heart of Poplar; as the community rallies together, the team must overcome personal anguish to help the injured.",
-      "date": "2022",
-      "language": "en",
-      "rating": "TV14",
-      "categories": [
-        "Series",
-        "Drama",
-        "Medical",
-        "Historical drama"
-      ],
-      "episode": "S11 E8",
-      "icon": "http://dtil.tmsimg.com/assets/p9025596_b_h8_ct.jpg?w=960&h=540",
-      "credits": {
-        "director": [
-          "David Tucker"
-        ],
-        "actor": [
-          "Jennifer A Agutter",
-          "Fenella Woolgar",
-          "Ella Bruccoleri"
-        ]
-      }
-    },
-    {
       "start": "2026-05-21T02:00:00+05:00",
       "stop": "2026-05-21T03:00:00+05:00",
       "title": "The Great British Baking Show",
@@ -129,6 +78,38 @@
         "Hockey"
       ],
       "icon": "http://dtil.tmsimg.com/assets/GNLZZGG00342P50.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-21T08:00:00+05:00",
+      "stop": "2026-05-21T08:30:00+05:00",
+      "title": "Live: CBC Toronto News at 11",
+      "desc": "The host presents information about the social, economic and political issues of the day and provides updates on current events in Toronto.",
+      "date": "2016",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p12567799_b_h10_ad.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-21T08:30:00+05:00",
+      "stop": "2026-05-21T09:00:00+05:00",
+      "title": "Land and Sea",
+      "sub_title": "Flower Farms",
+      "desc": "Fresh cut flower farms have sprung up across the Maritimes, many are offering a variety of ways to enjoy flowers and are finding ways to not only survive, but to blossom.",
+      "date": "2024",
+      "language": "en",
+      "categories": [
+        "Series",
+        "Documentary",
+        "Nature"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p16573643_b_h10_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Tom Murphy"
+        ]
+      }
     }
   ]
 }
