@@ -4,18 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-21T02:20:00+05:00",
-      "stop": "2026-05-21T03:10:00+05:00",
-      "title": "A Very Peculiar Practice",
-      "desc": "Newly separated from his wife, Stephen Daker starts his new job as GP at the very peculiar Lowlands Medical Centre.",
-      "language": "en",
-      "categories": [
-        "Entertainment",
-        "Comedy"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/b1a6766b-27ef-3d4c-b764-0303cff5ac38/16-9"
-    },
-    {
       "start": "2026-05-21T03:10:00+05:00",
       "stop": "2026-05-21T04:05:00+05:00",
       "title": "A Very Peculiar Practice",
@@ -68,6 +56,14 @@
       "stop": "2026-05-21T09:30:00+05:00",
       "title": "This is BBC Four",
       "desc": "Programmes start at 7.00pm.",
+      "language": "en",
+      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/BBC-Four-UK.png"
+    },
+    {
+      "start": "2026-05-21T09:30:00+05:00",
+      "stop": "2026-05-21T15:30:00+05:00",
+      "title": "..programmes start at 7.00pm",
+      "desc": "BBC Four provides an intelligent mix of arts, science, and history programming, offering deep-dive documentaries and world cinema for a curious audience.",
       "language": "en",
       "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/BBC-Four-UK.png"
     }

@@ -4,32 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-21T02:00:00+05:00",
-      "stop": "2026-05-21T02:30:00+05:00",
-      "title": "Entertainment Tonight",
-      "desc": "Still the gold standard in entertainment news, ET delivers daily exclusives, red carpet coverage, and celebrity interviews.",
-      "language": "en",
-      "rating": "NR",
-      "categories": [
-        "Special Interest"
-      ],
-      "episode": "S45 E182",
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/132140/image/334x188"
-    },
-    {
-      "start": "2026-05-21T02:30:00+05:00",
-      "stop": "2026-05-21T03:30:00+05:00",
-      "title": "The Late Show With Stephen Colbert",
-      "desc": "Join The Late Show host Stephen Colbert as he shares his views on a number of trending news updates and catches up with guests to engage in candid conversations.",
-      "language": "en",
-      "rating": "PG",
-      "categories": [
-        "Special Interest"
-      ],
-      "episode": "S11 E184",
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/334199/image/334x188"
-    },
-    {
       "start": "2026-05-21T03:30:00+05:00",
       "stop": "2026-05-21T04:30:00+05:00",
       "title": "The Late Show With Stephen Colbert",
@@ -81,6 +55,34 @@
       ],
       "episode": "S1 E4",
       "icon": "https://www.fetchtv.com.au/v2/epg/program/100193/image/334x188"
+    },
+    {
+      "start": "2026-05-21T06:00:00+05:00",
+      "stop": "2026-05-21T06:30:00+05:00",
+      "title": "Frasier",
+      "sub_title": "Leapin' Lizards",
+      "desc": "Frasier decides to retaliate against Bulldog's childish pranks with a trick of his own, which winds up putting the new station manager in the hospital.",
+      "language": "en",
+      "rating": "PG",
+      "categories": [
+        "Comedy"
+      ],
+      "episode": "S3 E4",
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/134019/image/334x188"
+    },
+    {
+      "start": "2026-05-21T06:30:00+05:00",
+      "stop": "2026-05-21T07:00:00+05:00",
+      "title": "Frasier",
+      "sub_title": "Kisses Sweeter Than Wine",
+      "desc": "Frasier hires a contractor to buff a small scratch out of the floor on the day he is to host a wine tasting, only to find everything spiral into a major catastrophe.",
+      "language": "en",
+      "rating": "PG",
+      "categories": [
+        "Comedy"
+      ],
+      "episode": "S3 E5",
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/134019/image/334x188"
     }
   ]
 }

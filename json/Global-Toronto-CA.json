@@ -4,52 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-21T02:00:00+05:00",
-      "stop": "2026-05-21T03:00:00+05:00",
-      "title": "Global News at 5",
-      "desc": "Greater Toronto's top local news stories and latest weather forecast.",
-      "date": "2024",
-      "language": "en",
-      "categories": [
-        "News",
-        "Weather"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p28243562_b_h10_aa.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-21T03:00:00+05:00",
-      "stop": "2026-05-21T03:30:00+05:00",
-      "title": "Global News at 6",
-      "desc": "Greater Toronto's top local news stories and latest weather forecast.",
-      "date": "2012",
-      "language": "en",
-      "categories": [
-        "News",
-        "Weather"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p9123094_b_h10_ab.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-21T03:30:00+05:00",
-      "stop": "2026-05-21T04:00:00+05:00",
-      "title": "Global National",
-      "desc": "The top stories from around the world.",
-      "date": "2026",
-      "language": "en",
-      "rating": "TVG",
-      "categories": [
-        "Series",
-        "News"
-      ],
-      "episode": "E140",
-      "icon": "http://dtil.tmsimg.com/assets/p185876_b_h8_ae.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Dawna Friesen"
-        ]
-      }
-    },
-    {
       "start": "2026-05-21T04:00:00+05:00",
       "stop": "2026-05-21T04:30:00+05:00",
       "title": "The Goldbergs",
@@ -120,6 +74,62 @@
           "Jeff Probst",
           "Colby Donaldson",
           "Stephenie LaGrossa-Kendrick"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-21T08:00:00+05:00",
+      "stop": "2026-05-21T08:35:00+05:00",
+      "title": "Global News at 11",
+      "desc": "Greater Toronto's top local news stories and latest weather forecast.",
+      "date": "2012",
+      "language": "en",
+      "categories": [
+        "News",
+        "Weather"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p9123089_b_h10_ab.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-21T08:35:00+05:00",
+      "stop": "2026-05-21T09:05:00+05:00",
+      "title": "Global National",
+      "desc": "The top stories from around the world.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Series",
+        "News"
+      ],
+      "episode": "E140",
+      "icon": "http://dtil.tmsimg.com/assets/p185876_b_h8_ae.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Dawna Friesen"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-21T09:05:00+05:00",
+      "stop": "2026-05-21T10:07:00+05:00",
+      "title": "The Late Show With Stephen Colbert",
+      "sub_title": "Bruce Springsteen",
+      "desc": "Stephen Colbert takes The Colbert Questionert, featuring special guests; Bruce Springsteen performs.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Talk",
+        "Comedy"
+      ],
+      "episode": "S11 E117",
+      "icon": "http://dtil.tmsimg.com/assets/p31135627_b_h8_ab.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Stephen Colbert",
+          "Bruce Springsteen"
         ]
       }
     }

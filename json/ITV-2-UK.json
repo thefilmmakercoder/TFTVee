@@ -4,45 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-21T02:30:00+05:00",
-      "stop": "2026-05-21T03:05:00+05:00",
-      "title": "Family Guy",
-      "sub_title": "Love Thy Trophy",
-      "desc": "Animated comedy about family life. A war over a trophy breaks out between the Griffins and their neighbours. Social workers place Stewie in a foster home.",
-      "language": "en",
-      "categories": [
-        "Entertainment",
-        "Comedy"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/b0dbc4ad-4f80-4a98-8fc5-45f9741c6eca/16-9"
-    },
-    {
-      "start": "2026-05-21T03:05:00+05:00",
-      "stop": "2026-05-21T03:35:00+05:00",
-      "title": "Family Guy",
-      "sub_title": "Death is a B****",
-      "desc": "Animated comedy about the everyday trials and tribulations of family life. When Lois finds a lump in Peter's breast, he goes to hospital.",
-      "language": "en",
-      "categories": [
-        "Entertainment",
-        "Comedy"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/cabd62f1-c2c2-4eed-b769-5cbbe57bbe9d/16-9"
-    },
-    {
-      "start": "2026-05-21T03:35:00+05:00",
-      "stop": "2026-05-21T04:05:00+05:00",
-      "title": "American Dad!",
-      "sub_title": "Finances with Wolves",
-      "desc": "Animated series about CIA agent Stan Smith. After receiving a hefty bonus from work, Stan buys extravagant gadgets while Francine pleads for her dream kiosk.",
-      "language": "en",
-      "categories": [
-        "Entertainment",
-        "Comedy"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/72ba4e05-bc79-4b3a-9251-9a4624bda331/16-9"
-    },
-    {
       "start": "2026-05-21T04:05:00+05:00",
       "stop": "2026-05-21T04:35:00+05:00",
       "title": "American Dad!",
@@ -79,6 +40,42 @@
         "Animation"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/70b7e10e-e65f-4b70-a956-9dc573449865/16-9"
+    },
+    {
+      "start": "2026-05-21T05:30:00+05:00",
+      "stop": "2026-05-21T06:25:00+05:00",
+      "title": "Deal or No Deal",
+      "desc": "It's Jane's turn to take on the Banker as Stephen Mulhern hosts the iconic game show with only one question.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Game Show"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/3ed97923-0df0-319c-89fb-31b91e728f7a/16-9"
+    },
+    {
+      "start": "2026-05-21T06:25:00+05:00",
+      "stop": "2026-05-21T07:00:00+05:00",
+      "title": "Unwind with ITV",
+      "desc": "Your daily escape designed to calm the mind and encourage relaxation and reflection.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Lifestyles"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/b2991730-3b6c-4696-a2b7-d9961f0eff26/16-9"
+    },
+    {
+      "start": "2026-05-21T07:00:00+05:00",
+      "stop": "2026-05-21T10:00:00+05:00",
+      "title": "Teleshopping",
+      "desc": "Shopping from home.",
+      "language": "en",
+      "categories": [
+        "Specialist",
+        "Shopping"
+      ],
+      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/ITV-2-UK.png"
     }
   ]
 }

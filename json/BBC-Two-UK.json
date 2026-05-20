@@ -4,18 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-21T02:30:00+05:00",
-      "stop": "2026-05-21T03:00:00+05:00",
-      "title": "Newsnight, followed by Weather",
-      "desc": "Insights and global interviews on the news stories of the day. With Victoria Derbyshire. Followed by Weather.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/c6dac5a7-4115-45ec-b443-3581b58acecc/16-9"
-    },
-    {
       "start": "2026-05-21T03:00:00+05:00",
       "stop": "2026-05-21T03:30:00+05:00",
       "title": "Unspun World with John Simpson",
@@ -73,6 +61,18 @@
         "Factual"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/d5a3fad2-f092-42ad-826f-889454d53b71/16-9"
+    },
+    {
+      "start": "2026-05-21T06:55:00+05:00",
+      "stop": "2026-05-21T07:25:00+05:00",
+      "title": "Do You Know Your Place?",
+      "desc": "Vernon Kay, with Paul Gorton in tow, challenges Anneka Rice, comedian Shane Todd and DJ Remi Burgz to separate the real from the ridiculous. This time, the destination is Jedburgh.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Game Show"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/b32f4ea5-1f12-4f53-9ee9-2a92ce2c1178/16-9"
     }
   ]
 }

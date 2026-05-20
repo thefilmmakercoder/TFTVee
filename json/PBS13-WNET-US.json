@@ -4,36 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-21T02:30:00+05:00",
-      "stop": "2026-05-21T03:00:00+05:00",
-      "title": "NJ Spotlight News with Briana Vannozzi",
-      "desc": "Statewide reporting on the latest news and issues affecting communities across the Garden State.",
-      "date": "2020",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p18850294_b_h10_aa.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-21T03:00:00+05:00",
-      "stop": "2026-05-21T03:30:00+05:00",
-      "title": "DW News",
-      "desc": "Presenting a round-up of the most recent news and developments from across the world.",
-      "date": "2002",
-      "language": "en",
-      "rating": "A",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p26245192_b_h10_aa.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Ben Fajzullin"
-        ]
-      }
-    },
-    {
       "start": "2026-05-21T03:30:00+05:00",
       "stop": "2026-05-21T04:00:00+05:00",
       "title": "BBC World News America",
@@ -113,6 +83,41 @@
       "credits": {
         "actor": [
           "Craig Sechler"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-21T07:00:00+05:00",
+      "stop": "2026-05-21T08:00:00+05:00",
+      "title": "Shared Planet",
+      "sub_title": "Waters",
+      "desc": "Stories of people setting a new standard for aquatic wildlife protection, from the reefs of Indonesia to an Idaho beaver dam.",
+      "date": "2025",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Documentary"
+      ],
+      "episode": "S1 E3",
+      "icon": "http://dtil.tmsimg.com/assets/p31531763_b_h8_aa.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-21T08:00:00+05:00",
+      "stop": "2026-05-21T09:00:00+05:00",
+      "title": "Amanpour and Company",
+      "desc": "Christiane Amanpour leads discussions about world issues and interviews with global leaders.",
+      "date": "2026",
+      "language": "en",
+      "categories": [
+        "Series",
+        "Public affairs"
+      ],
+      "episode": "S8 E166",
+      "icon": "http://dtil.tmsimg.com/assets/p15694932_b_h8_ac.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Christiane Amanpour"
         ]
       }
     }
