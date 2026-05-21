@@ -4,20 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-21T13:00:00+05:00",
-      "stop": "2026-05-21T16:00:00+05:00",
-      "title": "Mission: Impossible - Ghost Protocol",
-      "desc": "Agent Ethan Hunt and his elite team go underground after a bombing implicates them as terrorists. While trying to clear their name, the team uncovers a plot to start a nuclear war.",
-      "date": "20111216",
-      "language": "en",
-      "categories": [
-        "Movie",
-        "Action",
-        "Espionage Action"
-      ],
-      "icon": "https://images.pluto.tv/episodes/6254c85687cec40013564698/poster_1778259962288.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694"
-    },
-    {
       "start": "2026-05-21T16:00:00+05:00",
       "stop": "2026-05-21T18:45:00+05:00",
       "title": "Mission: Impossible - Rogue Nation",
@@ -25,9 +11,9 @@
       "date": "20180224",
       "language": "en",
       "categories": [
-        "Movie",
         "Action",
-        "Espionage Action"
+        "Espionage Action",
+        "Movie"
       ],
       "icon": "https://images.pluto.tv/episodes/680a1f52a21058b98f863512/poster_1777586051898.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694"
     },
@@ -39,9 +25,9 @@
       "date": "19950101",
       "language": "en",
       "categories": [
-        "Movie",
+        "Action",
         "Science fiction",
-        "Action"
+        "Movie"
       ],
       "icon": "https://images.pluto.tv/episodes/5c9c08d2c8ccd6797db680f3/poster_1761853889548.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694"
     },
@@ -53,9 +39,9 @@
       "date": "20111216",
       "language": "en",
       "categories": [
-        "Movie",
         "Action",
-        "Espionage Action"
+        "Espionage Action",
+        "Movie"
       ],
       "icon": "https://images.pluto.tv/episodes/6254c85687cec40013564698/poster_1778259962288.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694"
     },
@@ -67,9 +53,9 @@
       "date": "20180224",
       "language": "en",
       "categories": [
-        "Movie",
         "Action",
-        "Espionage Action"
+        "Espionage Action",
+        "Movie"
       ],
       "icon": "https://images.pluto.tv/episodes/680a1f52a21058b98f863512/poster_1777586051898.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694"
     },
@@ -81,11 +67,25 @@
       "date": "19950101",
       "language": "en",
       "categories": [
-        "Movie",
+        "Action",
         "Science fiction",
-        "Action"
+        "Movie"
       ],
       "icon": "https://images.pluto.tv/episodes/5c9c08d2c8ccd6797db680f3/poster_1761853889548.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694"
+    },
+    {
+      "start": "2026-05-22T05:00:00+05:00",
+      "stop": "2026-05-22T08:00:00+05:00",
+      "title": "Mission: Impossible - Ghost Protocol",
+      "desc": "Agent Ethan Hunt and his elite team go underground after a bombing implicates them as terrorists. While trying to clear their name, the team uncovers a plot to start a nuclear war.",
+      "date": "20111216",
+      "language": "en",
+      "categories": [
+        "Action",
+        "Espionage Action",
+        "Movie"
+      ],
+      "icon": "https://images.pluto.tv/episodes/6254c85687cec40013564698/poster_1778259962288.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694"
     }
   ]
 }

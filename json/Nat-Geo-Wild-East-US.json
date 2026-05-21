@@ -4,85 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-21T15:30:00+05:00",
-      "stop": "2026-05-21T16:00:00+05:00",
-      "title": "Paid Programming",
-      "desc": "Paid programming.",
-      "language": "en",
-      "rating": "TVG",
-      "categories": [
-        "Consumer",
-        "Shopping",
-        "Variety"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-21T16:00:00+05:00",
-      "stop": "2026-05-21T17:00:00+05:00",
-      "title": "World's Toughest Fixes",
-      "sub_title": "Mega Green Machines",
-      "desc": "Sean Riley tackles some of the world's toughest repair jobs.",
-      "date": "2026",
-      "language": "en",
-      "rating": "TVG",
-      "categories": [
-        "Series",
-        "Documentary"
-      ],
-      "episode": "S1",
-      "icon": "http://dtil.tmsimg.com/assets/p9105311_b_h10_aa.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Sean Riley"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-21T17:00:00+05:00",
-      "stop": "2026-05-21T18:00:00+05:00",
-      "title": "X-Ray Earth",
-      "sub_title": "Atlantic Coast Killer",
-      "desc": "X-Raying the Earth reveals an Atlantic island that could collapse in a mega-landslide, sending a killer tsunami headed straight for the U.S. East Coast.",
-      "date": "2020",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Series",
-        "Documentary"
-      ],
-      "episode": "S1 E2",
-      "icon": "http://dtil.tmsimg.com/assets/p18073945_b_h10_af.jpg?w=960&h=540",
-      "credits": {
-        "director": [
-          "Drew Jones",
-          "Kevin Mohs"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-21T18:00:00+05:00",
-      "stop": "2026-05-21T19:00:00+05:00",
-      "title": "X-Ray Earth",
-      "sub_title": "Volcano Apocalypse",
-      "desc": "X-raying the Earth reveals the largest volcano on the planet lies beneath Yellowstone National Park, and it could plunge the Earth into a volcanic winter.",
-      "date": "2020",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Series",
-        "Documentary"
-      ],
-      "episode": "S1 E3",
-      "icon": "http://dtil.tmsimg.com/assets/p18073945_b_h10_af.jpg?w=960&h=540",
-      "credits": {
-        "director": [
-          "Drew Jones",
-          "Kevin Mohs"
-        ]
-      }
-    },
-    {
       "start": "2026-05-21T19:00:00+05:00",
       "stop": "2026-05-21T20:00:00+05:00",
       "title": "X-Ray Earth",
@@ -119,6 +40,94 @@
         "Nature"
       ],
       "episode": "S1 E5",
+      "icon": "http://dtil.tmsimg.com/assets/p16599345_b_h10_ad.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Bear Grylls"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-21T21:00:00+05:00",
+      "stop": "2026-05-21T22:00:00+05:00",
+      "title": "Hostile Planet",
+      "sub_title": "Jungles",
+      "desc": "Jungles comprise the most diverse habitats on Earth in which only the resilient species can triumph; these jungle species include jaguars, caimans, gibbons, orangutans, spectral tarsiers, hummingbirds and parasites.",
+      "date": "2019",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Documentary",
+        "Nature"
+      ],
+      "episode": "S1 E4",
+      "icon": "http://dtil.tmsimg.com/assets/p16599345_b_h10_ad.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Bear Grylls"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-21T22:00:00+05:00",
+      "stop": "2026-05-21T23:00:00+05:00",
+      "title": "Hostile Planet",
+      "sub_title": "Grasslands",
+      "desc": "In the grasslands, animals endure freezes, fires, floods and droughts; bull elephants clash in mating battles; cheetahs and gazelles engage in a predator-and-prey dance in the Kenyan savanna; bison battle a blizzard while being pursued by wolves.",
+      "date": "2019",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "Series",
+        "Documentary",
+        "Nature"
+      ],
+      "episode": "S1 E3",
+      "icon": "http://dtil.tmsimg.com/assets/p16599345_b_h10_ad.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Bear Grylls"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-21T23:00:00+05:00",
+      "stop": "2026-05-22T00:00:00+05:00",
+      "title": "Hostile Planet",
+      "sub_title": "Oceans",
+      "desc": "Delving beneath the surface of the Earth's oceans to uncover a world of extraordinary extremes, including crushing depths, stormy coasts, vast blue deserts, and crowded reefs; how seals fend off sharks; how orcas fight to survive.",
+      "date": "2019",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Documentary",
+        "Nature"
+      ],
+      "episode": "S1 E2",
+      "icon": "http://dtil.tmsimg.com/assets/p16599345_b_h10_ad.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Bear Grylls"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-22T00:00:00+05:00",
+      "stop": "2026-05-22T01:00:00+05:00",
+      "title": "Hostile Planet",
+      "sub_title": "Mountains",
+      "desc": "The highest mountains on Earth are home to snow leopards, golden eagles, mountain goats, barnacle goslings, and gelada monkeys; only the toughest of animals can endure the extreme weather, scarce food supplies and limited oxygen on these peaks.",
+      "date": "2019",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Documentary",
+        "Nature"
+      ],
+      "episode": "S1 E1",
       "icon": "http://dtil.tmsimg.com/assets/p16599345_b_h10_ad.jpg?w=960&h=540",
       "credits": {
         "actor": [
