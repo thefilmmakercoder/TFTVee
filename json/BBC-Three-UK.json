@@ -4,38 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-21T22:58:00+05:00",
-      "stop": "2026-05-21T23:00:00+05:00",
-      "title": "This is BBC Three",
-      "desc": "Programmes start at 7.00pm.",
-      "language": "en",
-      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/BBC-Three-UK.png"
-    },
-    {
-      "start": "2026-05-21T23:00:00+05:00",
-      "stop": "2026-05-21T23:05:00+05:00",
-      "title": "The Catch Up",
-      "desc": "A round-up of the day's news.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/dbe146bb-82e0-4cd0-86b5-27813557c771/16-9"
-    },
-    {
-      "start": "2026-05-21T23:05:00+05:00",
-      "stop": "2026-05-22T00:05:00+05:00",
-      "title": "Asia",
-      "desc": "A look at Asia's beautiful and exceptionally diverse jungles. Whilst they provide shelter, food and opportunity, they are also full of dangers and hidden threats.",
-      "language": "en",
-      "categories": [
-        "Entertainment",
-        "Factual"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/f3bbfcbd-9cd0-32c8-9eee-cc541cf96268/16-9"
-    },
-    {
       "start": "2026-05-22T00:05:00+05:00",
       "stop": "2026-05-22T01:00:00+05:00",
       "title": "Freddie Flintoff's Field of Dreams: On Tour",
@@ -70,6 +38,40 @@
         "Game Show"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/952a0327-ec57-4390-84ce-be89bde69f9e/16-9"
+    },
+    {
+      "start": "2026-05-22T03:15:00+05:00",
+      "stop": "2026-05-22T05:10:00+05:00",
+      "title": "Crazy Rich Asians",
+      "desc": "New Yorker Rachel discovers her boyfriend is from one of Singapore's wealthiest families. Contains some strong language.",
+      "language": "en",
+      "categories": [
+        "Movie"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/c3929355-2a14-4c42-ad46-d3145f8fa4ab/16-9"
+    },
+    {
+      "start": "2026-05-22T05:10:00+05:00",
+      "stop": "2026-05-22T06:05:00+05:00",
+      "title": "Freddie Flintoff's Field of Dreams: On Tour",
+      "desc": "Freddie Flintoff's unlikely cricket team gear up for the final match of their Indian tour as they face their toughest opponents yet.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Factual"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/03f2931d-0676-3e8f-8337-d4dea54c78d6/16-9"
+    },
+    {
+      "start": "2026-05-22T06:05:00+05:00",
+      "stop": "2026-05-22T06:25:00+05:00",
+      "title": "My Mate's a Bad Date",
+      "desc": "Twenty-one-year-old Vicky is super-picky. Oloni wants her to drop her guard, open up and stop analysing her dates, but she has to pull out all the stops to melt this ice queen.",
+      "language": "en",
+      "categories": [
+        "Entertainment"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/ecedc9ad-cc59-4eb5-93dc-6c473575680d/16-9"
     }
   ]
 }

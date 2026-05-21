@@ -4,41 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-21T22:30:00+05:00",
-      "stop": "2026-05-21T23:00:00+05:00",
-      "title": "BBC London News",
-      "desc": "The latest news, sport and weather from London.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/f65cc0e0-5189-48ad-aa98-b8f34eaf82e0/16-9"
-    },
-    {
-      "start": "2026-05-21T23:00:00+05:00",
-      "stop": "2026-05-21T23:30:00+05:00",
-      "title": "The One Show",
-      "desc": "Alex Jones and Roman Kemp bring you the stories that matter from across the country.",
-      "language": "en",
-      "categories": [
-        "Entertainment"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/db652dda-bc99-4302-a1b5-43749496075e/16-9"
-    },
-    {
-      "start": "2026-05-21T23:30:00+05:00",
-      "stop": "2026-05-22T00:00:00+05:00",
-      "title": "EastEnders",
-      "desc": "Grant drowns his sorrows, Nigel leaves Julie a final gift, while Lauren puts her family first.",
-      "language": "en",
-      "categories": [
-        "Entertainment",
-        "Soap"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/3e39847f-8e0b-4866-8083-f17c369b5c2d/16-9"
-    },
-    {
       "start": "2026-05-22T00:00:00+05:00",
       "stop": "2026-05-22T01:00:00+05:00",
       "title": "Race Across the World: The Final",
@@ -73,6 +38,42 @@
         "News"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/00cca42b-a220-43df-b1a2-871ae0b7834a/16-9"
+    },
+    {
+      "start": "2026-05-22T02:30:00+05:00",
+      "stop": "2026-05-22T02:40:00+05:00",
+      "title": "BBC London News",
+      "desc": "The latest news, sport and weather from London.",
+      "language": "en",
+      "categories": [
+        "News & Documentary",
+        "News"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/698314f7-f835-43f6-adef-443058625c5b/16-9"
+    },
+    {
+      "start": "2026-05-22T02:40:00+05:00",
+      "stop": "2026-05-22T03:40:00+05:00",
+      "title": "Question Time",
+      "desc": "Fiona Bruce presents an hour of topical debate.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Factual"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/5ef148aa-61f2-4e8e-8c88-5f5b0153d00c/16-9"
+    },
+    {
+      "start": "2026-05-22T03:40:00+05:00",
+      "stop": "2026-05-22T04:10:00+05:00",
+      "title": "Newscast",
+      "desc": "Lighthearted discussion of the day's news.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Factual"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/06fae22a-35ce-4a32-86fe-3fd785b4b93a/16-9"
     }
   ]
 }
