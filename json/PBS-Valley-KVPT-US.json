@@ -4,89 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-21T08:00:00+05:00",
-      "stop": "2026-05-21T09:00:00+05:00",
-      "title": "Nature",
-      "sub_title": "Attenborough's Wonder of Song",
-      "desc": "Exploring seven animal songs found in nature and their significance in the lives of their species, from the song of the largest lemur to the song of the humpback whale.",
-      "date": "2023",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Series",
-        "Anthology",
-        "Nature"
-      ],
-      "episode": "S41 E10",
-      "icon": "http://dtil.tmsimg.com/assets/p22745796_b_h8_aa.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "David Attenborough"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-21T09:00:00+05:00",
-      "stop": "2026-05-21T10:00:00+05:00",
-      "title": "NOVA",
-      "sub_title": "When Whales Could Walk",
-      "desc": "Paleontologists uncover a whole new species of whale in a parched valley not far from Cairo.",
-      "date": "2024",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Series",
-        "Science",
-        "Nature",
-        "Anthology"
-      ],
-      "episode": "S51 E1",
-      "icon": "http://dtil.tmsimg.com/assets/p26187128_b_h8_aa.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Craig Sechler"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-21T10:00:00+05:00",
-      "stop": "2026-05-21T11:00:00+05:00",
-      "title": "Shared Planet",
-      "sub_title": "Waters",
-      "desc": "Stories of people setting a new standard for aquatic wildlife protection, from the reefs of Indonesia to an Idaho beaver dam.",
-      "date": "2025",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Series",
-        "Documentary"
-      ],
-      "episode": "S1 E3",
-      "icon": "http://dtil.tmsimg.com/assets/p31531763_b_h8_aa.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-21T11:00:00+05:00",
-      "stop": "2026-05-21T12:00:00+05:00",
-      "title": "Nature",
-      "sub_title": "Attenborough's Wonder of Song",
-      "desc": "Exploring seven animal songs found in nature and their significance in the lives of their species, from the song of the largest lemur to the song of the humpback whale.",
-      "date": "2023",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Series",
-        "Anthology",
-        "Nature"
-      ],
-      "episode": "S41 E10",
-      "icon": "http://dtil.tmsimg.com/assets/p22745796_b_h8_aa.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "David Attenborough"
-        ]
-      }
-    },
-    {
       "start": "2026-05-21T12:00:00+05:00",
       "stop": "2026-05-21T13:00:00+05:00",
       "title": "Amanpour and Company",
@@ -117,6 +34,85 @@
         "News"
       ],
       "icon": "http://dtil.tmsimg.com/assets/p335785_b_h10_ag.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-21T13:30:00+05:00",
+      "stop": "2026-05-21T14:00:00+05:00",
+      "title": "NHK Newsline",
+      "desc": "This daily news program, produced by Japanese public broadcaster NHK, focuses on headlines and current events in Japan and other Asian countries. English-speaking presenters also cover other areas of interest, including business news, science and technology trends, sports highlights, and global weather forecasts.",
+      "date": "2009",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p269690_b_h11_ad.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-21T14:00:00+05:00",
+      "stop": "2026-05-21T17:00:00+05:00",
+      "title": "Valley PBS Favorites",
+      "desc": "KVPT (Valley PBS) serves as the primary public television station for California\u2019s Central Valley, broadcasting signature PBS educational content, children's programming, and local documentaries highlighting regional agricultural and community issues.",
+      "date": "2024",
+      "language": "en",
+      "categories": [
+        "Special",
+        "Variety"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p28116494_st_h10_aa.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-21T17:00:00+05:00",
+      "stop": "2026-05-21T17:30:00+05:00",
+      "title": "Lyla in the Loop",
+      "sub_title": "Soccer Practice Practice; Sibling Swap",
+      "desc": "Lyla and Everett coach Luke, Stu and Idris in soccer drills before their first practice; Liana and Louise decide to switch rooms with Lyla and Luke.",
+      "date": "2025",
+      "language": "en",
+      "rating": "TVY",
+      "categories": [
+        "Series",
+        "Animated",
+        "Children",
+        "Entertainment",
+        "Educational"
+      ],
+      "episode": "S1 E29",
+      "icon": "http://dtil.tmsimg.com/assets/p26268938_b_h8_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Liyou Abere",
+          "Izzy Woodbury",
+          "Elijah Lindo"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-21T17:30:00+05:00",
+      "stop": "2026-05-21T18:00:00+05:00",
+      "title": "Wild Kratts",
+      "sub_title": "Speaking Dolphinese",
+      "desc": "Decoding the secret language of dolphins.",
+      "date": "2013",
+      "language": "en",
+      "rating": "TVY",
+      "categories": [
+        "Series",
+        "Children",
+        "Educational",
+        "Science",
+        "Nature",
+        "Animals",
+        "Animated"
+      ],
+      "episode": "S2 E9",
+      "icon": "http://dtil.tmsimg.com/assets/p8369911_b_h8_aj.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Martin Kratt",
+          "Chris Kratt",
+          "Athena Karkanis"
+        ]
+      }
     }
   ]
 }

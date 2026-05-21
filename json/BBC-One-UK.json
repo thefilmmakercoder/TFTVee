@@ -4,18 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-21T05:20:00+05:00",
-      "stop": "2026-05-21T05:25:00+05:00",
-      "title": "Weather for the Week Ahead",
-      "desc": "Detailed weather forecast.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/1e6173c8-ce1d-4a2f-af78-5409442537c1/16-9"
-    },
-    {
       "start": "2026-05-21T05:25:00+05:00",
       "stop": "2026-05-21T10:00:00+05:00",
       "title": "BBC News",
@@ -73,6 +61,18 @@
         "Factual"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/0ce63210-b1c8-4928-959a-0bc7063bfc65/16-9"
+    },
+    {
+      "start": "2026-05-21T16:15:00+05:00",
+      "stop": "2026-05-21T17:00:00+05:00",
+      "title": "Bargain Hunt: Asian Special",
+      "desc": "From Japanese cabinets to Indian silver bowls - Roo Irvine highlights some Asian treasures bought by our Bargain Hunt teams and counts down the most profitable at auction.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Game Show"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/c1510084-3a8c-31bb-b612-e8ae1a8d35ca/16-9"
     }
   ]
 }

@@ -4,18 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-21T06:55:00+05:00",
-      "stop": "2026-05-21T07:55:00+05:00",
-      "title": "Stranger in My Family",
-      "desc": "Luke searches for his biological father, who mum met on a girls' holiday in the 90s. Contains some strong language.",
-      "language": "en",
-      "categories": [
-        "Entertainment",
-        "Factual"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/3e200564-d5d5-321f-9028-01f7bd1df58f/16-9"
-    },
-    {
       "start": "2026-05-21T07:55:00+05:00",
       "stop": "2026-05-21T09:30:00+05:00",
       "title": "This is BBC Three",
@@ -54,6 +42,18 @@
       "desc": "Programmes start at 7.00pm.",
       "language": "en",
       "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/BBC-Three-UK.png"
+    },
+    {
+      "start": "2026-05-21T23:00:00+05:00",
+      "stop": "2026-05-21T23:05:00+05:00",
+      "title": "The Catch Up",
+      "desc": "A round-up of the day's news.",
+      "language": "en",
+      "categories": [
+        "News & Documentary",
+        "News"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/dbe146bb-82e0-4cd0-86b5-27813557c771/16-9"
     }
   ]
 }

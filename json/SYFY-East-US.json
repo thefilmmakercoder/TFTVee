@@ -4,55 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-21T06:00:00+05:00",
-      "stop": "2026-05-21T08:30:00+05:00",
-      "title": "Imaginary",
-      "desc": "When Jessica moves back into her childhood home with her family, her youngest stepdaughter, Alice, finds a stuffed bear named Chauncey. As Alice's behavior becomes more and more concerning, Jessica intervenes only to realize that Chauncey is much more than the stuffed toy bear she believed him to be.",
-      "date": "2024",
-      "language": "en",
-      "rating": "12",
-      "categories": [
-        "Movie",
-        "Horror",
-        "Thriller"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p25925767_v_h8_ac.jpg?w=960&h=540",
-      "credits": {
-        "director": [
-          "Jeff Wadlow"
-        ],
-        "actor": [
-          "DeWanda Wise",
-          "Tom Payne",
-          "Taegen Burns"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-21T08:30:00+05:00",
-      "stop": "2026-05-21T11:00:00+05:00",
-      "title": "Asteroid City",
-      "desc": "World-changing events spectacularly disrupt the itinerary of a Junior Stargazer/Space Cadet convention in an American desert town circa 1955.",
-      "date": "2023",
-      "language": "en",
-      "rating": "PG-13",
-      "categories": [
-        "Movie",
-        "Comedy drama"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p22648609_v_h8_ac.jpg?w=960&h=540",
-      "credits": {
-        "director": [
-          "Wes Anderson"
-        ],
-        "actor": [
-          "Jason Schwartzman",
-          "Scarlett Johansson",
-          "Tom Hanks"
-        ]
-      }
-    },
-    {
       "start": "2026-05-21T11:00:00+05:00",
       "stop": "2026-05-21T13:00:00+05:00",
       "title": "Ghost Town",
@@ -162,6 +113,66 @@
           "James Daly",
           "Howard Smith",
           "Patricia Donahue"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-21T14:30:00+05:00",
+      "stop": "2026-05-21T15:00:00+05:00",
+      "title": "The Twilight Zone",
+      "sub_title": "The Encounter",
+      "desc": "A World War II veteran and a Japanese-American gardener battle each other over a war that ended more than 20 years ago.",
+      "date": "1964",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Anthology",
+        "Science fiction",
+        "Fantasy",
+        "Thriller",
+        "Drama"
+      ],
+      "episode": "S5 E31",
+      "icon": "http://dtil.tmsimg.com/assets/p7895480_b_h10_aa.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Robert Butler"
+        ],
+        "actor": [
+          "Neville Brand",
+          "George Takei",
+          "Rod Serling"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-21T15:00:00+05:00",
+      "stop": "2026-05-21T16:00:00+05:00",
+      "title": "The Twilight Zone",
+      "sub_title": "Death Ship",
+      "desc": "Three astronauts discover the wreckage of a ship identical to their own on an unexplored planet. With Jack Klugman.",
+      "date": "2013",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Anthology",
+        "Science fiction",
+        "Fantasy",
+        "Thriller",
+        "Drama"
+      ],
+      "episode": "S4 E6",
+      "icon": "http://dtil.tmsimg.com/assets/p7895483_b_h10_aa.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Don Medford"
+        ],
+        "actor": [
+          "Jack Klugman",
+          "Ross Martin",
+          "Fredrick Beir"
         ]
       }
     }

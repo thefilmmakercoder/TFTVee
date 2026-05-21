@@ -4,18 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-21T06:05:00+05:00",
-      "stop": "2026-05-21T07:05:00+05:00",
-      "title": "The Ruth Ellis Files: A Very British Crime Story",
-      "desc": "Gillian Pachter looks at Ruth's execution and the last-minute attempts to save her life.",
-      "language": "en",
-      "categories": [
-        "Entertainment",
-        "Factual"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/5a1b82a4-8c0c-433a-b30b-0141c1b8aab9/16-9"
-    },
-    {
       "start": "2026-05-21T07:05:00+05:00",
       "stop": "2026-05-21T09:30:00+05:00",
       "title": "This is BBC Four",
@@ -54,6 +42,18 @@
       "desc": "Programmes start at 7.00pm.",
       "language": "en",
       "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/BBC-Four-UK.png"
+    },
+    {
+      "start": "2026-05-21T23:00:00+05:00",
+      "stop": "2026-05-21T23:30:00+05:00",
+      "title": "University Challenge",
+      "desc": "The universities of Bangor and Nottingham put fingers on buzzers for the first time. Jeremy Paxman asks the questions.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Game Show"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/f9e2161a-2239-49c5-b0e7-5a1e72f1612e/16-9"
     }
   ]
 }

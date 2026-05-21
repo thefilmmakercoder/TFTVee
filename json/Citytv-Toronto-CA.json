@@ -4,115 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-21T08:00:00+05:00",
-      "stop": "2026-05-21T08:35:00+05:00",
-      "title": "CityNews Tonight Toronto",
-      "desc": "Coverage of the day's top news stories.",
-      "date": "2019",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p16858130_b_h8_aa.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-21T08:35:00+05:00",
-      "stop": "2026-05-21T09:37:00+05:00",
-      "title": "Jimmy Kimmel Live!",
-      "sub_title": "RuPaul; Sarah Sherman; Ecca Vandal",
-      "desc": "TV host RuPaul; comic Sarah Sherman; Ecca Vandal performs.",
-      "date": "2026",
-      "language": "en",
-      "rating": "TV14",
-      "categories": [
-        "Series",
-        "Talk",
-        "Comedy"
-      ],
-      "episode": "S24 E118",
-      "icon": "http://dtil.tmsimg.com/assets/p31166959_b_h8_ac.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Jimmy Kimmel",
-          "RuPaul",
-          "Sarah Sherman"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-21T09:37:00+05:00",
-      "stop": "2026-05-21T10:00:00+05:00",
-      "title": "Impractical Jokers",
-      "sub_title": "Facial Awareness",
-      "desc": "The Jokers face off by recording voiceover for a fake video game and playing the concerned parent writing to their kid's school; but one Joker burns out with a punishment that's gotta sting.",
-      "date": "2025",
-      "language": "en",
-      "rating": "TV14",
-      "categories": [
-        "Series",
-        "Reality",
-        "Comedy"
-      ],
-      "episode": "S12 E3",
-      "icon": "http://dtil.tmsimg.com/assets/p30353577_b_h8_ac.jpg?w=960&h=540",
-      "credits": {
-        "director": [
-          "Mike Damiani"
-        ],
-        "actor": [
-          "Brian \"Q\" Quinn",
-          "James \"Murr\" Murray",
-          "Sal Vulcano"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-21T10:00:00+05:00",
-      "stop": "2026-05-21T11:00:00+05:00",
-      "title": "Hudson & Rex",
-      "sub_title": "Working for the Weekend",
-      "desc": "When Rex finds a body with signs of foul play during Charlie and Sarah's romantic weekend getaway, they discover the community they're staying in may be more hostile than it looks.",
-      "date": "2023",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Series",
-        "Crime drama"
-      ],
-      "episode": "S5 E11",
-      "icon": "http://dtil.tmsimg.com/assets/p16646888_b_h8_bh.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "John Reardon",
-          "Mayko Nguyen",
-          "Kevin Hanchard"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-21T11:00:00+05:00",
-      "stop": "2026-05-21T12:00:00+05:00",
-      "title": "Hudson & Rex",
-      "sub_title": "Northern Rexposure",
-      "desc": "When Jesse's sister contacts him for help, Jesse, Sarah and Rex head to Northern Ontario and find themselves in the middle of a deadly situation.",
-      "date": "2023",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Series",
-        "Crime drama"
-      ],
-      "episode": "S5 E15",
-      "icon": "http://dtil.tmsimg.com/assets/p16646888_b_h8_bh.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "John Reardon",
-          "Mayko Nguyen",
-          "Kevin Hanchard"
-        ]
-      }
-    },
-    {
       "start": "2026-05-21T12:00:00+05:00",
       "stop": "2026-05-21T13:00:00+05:00",
       "title": "Hudson & Rex",
@@ -132,6 +23,94 @@
           "John Reardon",
           "Mayko Nguyen",
           "Kevin Hanchard"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-21T13:00:00+05:00",
+      "stop": "2026-05-21T14:00:00+05:00",
+      "title": "Hudson & Rex",
+      "sub_title": "Hand of Cod",
+      "desc": "After a severed hand is found in a box of frozen cod, the team must uncover the identity of both the victim and the killer behind the grisly crime.",
+      "date": "2022",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Crime drama"
+      ],
+      "episode": "S5 E4",
+      "icon": "http://dtil.tmsimg.com/assets/p16646888_b_h8_bh.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "John Reardon",
+          "Mayko Nguyen",
+          "Kevin Hanchard"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-21T14:00:00+05:00",
+      "stop": "2026-05-21T14:30:00+05:00",
+      "title": "CityNews Tonight Toronto",
+      "desc": "Coverage of the day's top news stories.",
+      "date": "2019",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p16858130_b_h8_aa.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-21T14:30:00+05:00",
+      "stop": "2026-05-21T15:00:00+05:00",
+      "title": "CityNews Tonight Toronto",
+      "desc": "Coverage of the day's top news stories.",
+      "date": "2019",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p16858130_b_h8_aa.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-21T15:00:00+05:00",
+      "stop": "2026-05-21T17:30:00+05:00",
+      "title": "Breakfast Television Toronto",
+      "desc": "The latest in local news, weather and traffic, as well as celebrity interviews and lifestyle trends.",
+      "date": "2000",
+      "language": "en",
+      "categories": [
+        "Talk",
+        "Newsmagazine"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p599792_b_h8_ab.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Dina Pugliese",
+          "Melanie Ng"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-21T17:30:00+05:00",
+      "stop": "2026-05-21T19:00:00+05:00",
+      "title": "Breakfast Television",
+      "desc": "Our chat with the cast of \"The Mandalorian and Grogu\"; this season's biggest wedding fashion trends for men; simple habits to keep your gut health on track.",
+      "date": "2026",
+      "language": "en",
+      "categories": [
+        "Series",
+        "Talk",
+        "Newsmagazine"
+      ],
+      "episode": "E100",
+      "icon": "http://dtil.tmsimg.com/assets/p9093159_b_h8_ab.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Dina Pugliese",
+          "Tim Bolen",
+          "Frank Ferragine"
         ]
       }
     }

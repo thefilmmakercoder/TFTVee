@@ -4,8 +4,28 @@
   ],
   "programs": [
     {
-      "start": "2026-05-21T08:00:00+05:00",
-      "stop": "2026-05-21T09:00:00+05:00",
+      "start": "2026-05-21T12:00:00+05:00",
+      "stop": "2026-05-21T13:00:00+05:00",
+      "title": "PBS News Hour",
+      "desc": "Co-anchors Amna Nawaz and Geoff Bennett and correspondents offer in-depth analysis of current events.",
+      "date": "2026",
+      "language": "en",
+      "categories": [
+        "Series",
+        "News"
+      ],
+      "episode": "S52 E232",
+      "icon": "http://dtil.tmsimg.com/assets/p27608822_b_h8_ac.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Amna Nawaz",
+          "Geoff Bennett"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-21T13:00:00+05:00",
+      "stop": "2026-05-21T14:00:00+05:00",
       "title": "Nature",
       "sub_title": "Attenborough's Wonder of Song",
       "desc": "Exploring seven animal songs found in nature and their significance in the lives of their species, from the song of the largest lemur to the song of the humpback whale.",
@@ -26,8 +46,8 @@
       }
     },
     {
-      "start": "2026-05-21T09:00:00+05:00",
-      "stop": "2026-05-21T10:00:00+05:00",
+      "start": "2026-05-21T14:00:00+05:00",
+      "stop": "2026-05-21T15:00:00+05:00",
       "title": "NOVA",
       "sub_title": "When Whales Could Walk",
       "desc": "Paleontologists uncover a whole new species of whale in a parched valley not far from Cairo.",
@@ -49,8 +69,8 @@
       }
     },
     {
-      "start": "2026-05-21T10:00:00+05:00",
-      "stop": "2026-05-21T11:00:00+05:00",
+      "start": "2026-05-21T15:00:00+05:00",
+      "stop": "2026-05-21T16:00:00+05:00",
       "title": "Shared Planet",
       "sub_title": "Waters",
       "desc": "Stories of people setting a new standard for aquatic wildlife protection, from the reefs of Indonesia to an Idaho beaver dam.",
@@ -65,22 +85,8 @@
       "icon": "http://dtil.tmsimg.com/assets/p31531763_b_h8_aa.jpg?w=960&h=540"
     },
     {
-      "start": "2026-05-21T11:00:00+05:00",
-      "stop": "2026-05-21T11:30:00+05:00",
-      "title": "Earth Focus",
-      "sub_title": "After the Fires: Rebuilding with Resiliency",
-      "desc": "KOCE (PBS SoCal) serves as the flagship PBS station for Southern California, delivering trusted national educational content alongside regional news, cultural documentaries, and community-focused public media.",
-      "date": "2026",
-      "language": "en",
-      "categories": [
-        "Series",
-        "Environment"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p21813442_st_h10_aa.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-21T11:30:00+05:00",
-      "stop": "2026-05-21T12:00:00+05:00",
+      "start": "2026-05-21T16:00:00+05:00",
+      "stop": "2026-05-21T16:30:00+05:00",
       "title": "Life Unearthed With Ariel Waldman",
       "sub_title": "Prairies: Life in Water",
       "desc": "From beavers reshaping wetlands to crayfish living deep underground, aquatic systems reveal the prairies' hidden vitality.",
@@ -101,24 +107,18 @@
       }
     },
     {
-      "start": "2026-05-21T12:00:00+05:00",
-      "stop": "2026-05-21T13:00:00+05:00",
-      "title": "PBS News Hour",
-      "desc": "Co-anchors Amna Nawaz and Geoff Bennett and correspondents offer in-depth analysis of current events.",
+      "start": "2026-05-21T16:30:00+05:00",
+      "stop": "2026-05-21T17:00:00+05:00",
+      "title": "Earth Focus",
+      "sub_title": "After the Fires: Rebuilding with Resiliency",
+      "desc": "KOCE (PBS SoCal) serves as the flagship PBS station for Southern California, delivering trusted national educational content alongside regional news, cultural documentaries, and community-focused public media.",
       "date": "2026",
       "language": "en",
       "categories": [
         "Series",
-        "News"
+        "Environment"
       ],
-      "episode": "S52 E232",
-      "icon": "http://dtil.tmsimg.com/assets/p27608822_b_h8_ac.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Amna Nawaz",
-          "Geoff Bennett"
-        ]
-      }
+      "icon": "http://dtil.tmsimg.com/assets/p21813442_st_h10_aa.jpg?w=960&h=540"
     }
   ]
 }
