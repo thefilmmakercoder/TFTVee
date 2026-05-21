@@ -4,30 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-21T07:05:00+05:00",
-      "stop": "2026-05-21T11:00:00+05:00",
-      "title": "Teleshopping",
-      "desc": "Teleshopping.",
-      "language": "en",
-      "categories": [
-        "Specialist",
-        "Shopping"
-      ],
-      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/Film-4-UK.png"
-    },
-    {
-      "start": "2026-05-21T11:00:00+05:00",
-      "stop": "2026-05-21T15:00:00+05:00",
-      "title": "Teleshopping",
-      "desc": "Teleshopping.",
-      "language": "en",
-      "categories": [
-        "Specialist",
-        "Shopping"
-      ],
-      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/Film-4-UK.png"
-    },
-    {
       "start": "2026-05-21T15:00:00+05:00",
       "stop": "2026-05-21T16:40:00+05:00",
       "title": "This Gun for Hire",
@@ -82,6 +58,34 @@
         "Western"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/d288147f-a2d6-40c3-9249-c606a1b419ea/16-9"
+    },
+    {
+      "start": "2026-05-21T22:40:00+05:00",
+      "stop": "2026-05-22T01:00:00+05:00",
+      "title": "The Day After Tomorrow",
+      "desc": "Tense sci-fi thriller starring Dennis Quaid and Jake Gyllenhaal. Can a scientist save his son from a sudden climatic catastrophe.",
+      "date": "2004",
+      "language": "en",
+      "rating": "PG",
+      "categories": [
+        "Movie",
+        "Sci-Fi"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/a11ede52-e6ba-4ffc-83e8-cf407e17d158/16-9"
+    },
+    {
+      "start": "2026-05-22T01:00:00+05:00",
+      "stop": "2026-05-22T03:40:00+05:00",
+      "title": "Fury",
+      "desc": "World War II action with Brad Pitt. A tank commander leads his crew into the dark, bloody heart of Hitler's last stand. But there's a rookie on board the Fury. With Michael Pe\u00f1a.",
+      "date": "2014",
+      "language": "en",
+      "rating": "15",
+      "categories": [
+        "Movie",
+        "War"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/25872d4a-0978-4d03-9f04-acbe7dcee952/16-9"
     }
   ]
 }

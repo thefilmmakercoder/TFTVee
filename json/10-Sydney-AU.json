@@ -4,9 +4,22 @@
   ],
   "programs": [
     {
-      "start": "2026-05-21T12:00:00+05:00",
-      "stop": "2026-05-21T13:00:00+05:00",
-      "title": "10 News",
+      "start": "2026-05-21T15:40:00+05:00",
+      "stop": "2026-05-21T16:40:00+05:00",
+      "title": "The Claudia Winkleman Show",
+      "desc": "Claudia is joined by actor Phil Dunster, star of stage and screen Cush Jumbo, and comedian Josh Widdicombe.",
+      "language": "en",
+      "rating": "NR",
+      "categories": [
+        "Special Interest"
+      ],
+      "episode": "S1 E6",
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/18056029/image/334x188"
+    },
+    {
+      "start": "2026-05-21T16:40:00+05:00",
+      "stop": "2026-05-21T17:40:00+05:00",
+      "title": "10's Late News",
       "sub_title": "Thursday 21 May 2026",
       "desc": "Comprehensive coverage of local, national and international news. Plus, all the latest sport and weather.",
       "language": "en",
@@ -14,12 +27,12 @@
       "categories": [
         "News"
       ],
-      "episode": "E101",
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/437419/image/334x188"
+      "episode": "E94",
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/428747/image/334x188"
     },
     {
-      "start": "2026-05-21T13:00:00+05:00",
-      "stop": "2026-05-21T13:30:00+05:00",
+      "start": "2026-05-21T17:40:00+05:00",
+      "stop": "2026-05-21T18:10:00+05:00",
       "title": "10 News+",
       "sub_title": "Thursday 21 May 2026",
       "desc": "10 News+ delivers in-depth coverage of today's top stories, investigative reports, and stories you haven't heard. Putting the truth first.",
@@ -32,56 +45,43 @@
       "icon": "https://www.fetchtv.com.au/v2/epg/program/437112/image/334x188"
     },
     {
-      "start": "2026-05-21T13:30:00+05:00",
-      "stop": "2026-05-21T14:00:00+05:00",
-      "title": "Deal or No Deal Australia",
-      "desc": "Chris Hope is a highway patrolman who is here to lay down the law to The Banker, so he and best mate Tom can go get hair transplants.",
+      "start": "2026-05-21T18:10:00+05:00",
+      "stop": "2026-05-21T19:00:00+05:00",
+      "title": "The Late Show With Stephen Colbert",
+      "desc": "Join The Late Show host Stephen Colbert as he shares his views on a number of trending news updates and catches up with guests to engage in candid conversations.",
       "language": "en",
       "rating": "PG",
       "categories": [
         "Special Interest"
       ],
-      "episode": "S3 E101",
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/427295/image/334x188"
+      "episode": "S11 E187",
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/334199/image/334x188"
     },
     {
-      "start": "2026-05-21T14:00:00+05:00",
-      "stop": "2026-05-21T14:30:00+05:00",
-      "title": "Millionaire Hot Seat",
-      "desc": "Twin mum Kim competes against retired chef Glen and deputy principal Mark, as six contestants put their general knowledge to the ultimate test.",
-      "language": "en",
-      "rating": "PG",
-      "categories": [
-        "Special Interest"
-      ],
-      "episode": "S16 E16",
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/325091/image/334x188"
-    },
-    {
-      "start": "2026-05-21T14:30:00+05:00",
-      "stop": "2026-05-21T15:40:00+05:00",
-      "title": "Taskmaster Australia",
-      "desc": "The contestants have to call a dog over and attempt the most elegant shoey.",
-      "language": "en",
-      "rating": "M",
-      "categories": [
-        "Special Interest"
-      ],
-      "episode": "S5 E3",
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/419901/image/334x188"
-    },
-    {
-      "start": "2026-05-21T15:40:00+05:00",
-      "stop": "2026-05-21T16:40:00+05:00",
-      "title": "The Claudia Winkleman Show",
-      "desc": "Claudia is joined by actor Phil Dunster, star of stage and screen Cush Jumbo, and comedian Josh Widdicombe.",
+      "start": "2026-05-21T19:00:00+05:00",
+      "stop": "2026-05-21T19:30:00+05:00",
+      "title": "Home Shopping",
+      "desc": "A show that offers a variety of product demonstrations and great deals for consumers looking to buy them.",
       "language": "en",
       "rating": "NR",
       "categories": [
         "Special Interest"
       ],
-      "episode": "S1 E6",
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/18056029/image/334x188"
+      "episode": "E181",
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/234200/image/334x188"
+    },
+    {
+      "start": "2026-05-21T19:30:00+05:00",
+      "stop": "2026-05-21T20:00:00+05:00",
+      "title": "Home Shopping",
+      "desc": "A show that offers a variety of product demonstrations and great deals for consumers looking to buy them.",
+      "language": "en",
+      "rating": "NR",
+      "categories": [
+        "Special Interest"
+      ],
+      "episode": "E182",
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/234200/image/334x188"
     }
   ]
 }

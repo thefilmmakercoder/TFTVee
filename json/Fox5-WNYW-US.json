@@ -4,57 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-21T12:30:00+05:00",
-      "stop": "2026-05-21T13:00:00+05:00",
-      "title": "Paid Programming",
-      "desc": "Paid programming.",
-      "language": "en",
-      "rating": "TVG",
-      "categories": [
-        "Consumer",
-        "Shopping",
-        "Variety"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-21T13:00:00+05:00",
-      "stop": "2026-05-21T13:30:00+05:00",
-      "title": "Good Night New York",
-      "desc": "Christal Young and Ryan Kristafer's edgy perspective on entertainment and lifestyle news in NYC and beyond.",
-      "date": "2024",
-      "language": "en",
-      "rating": "TV14",
-      "categories": [
-        "Newsmagazine"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p27878460_b_h8_aa.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-21T13:30:00+05:00",
-      "stop": "2026-05-21T14:00:00+05:00",
-      "title": "Good Day Wake Up",
-      "desc": "Morning news coverage.",
-      "date": "2009",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p706488_b_h8_ab.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-21T14:00:00+05:00",
-      "stop": "2026-05-21T15:00:00+05:00",
-      "title": "Good Day Wake Up",
-      "desc": "Morning news coverage.",
-      "date": "2009",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p706488_b_h8_ab.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-05-21T15:00:00+05:00",
       "stop": "2026-05-21T16:00:00+05:00",
       "title": "Good Day Wake Up 2",
@@ -77,6 +26,76 @@
         "News"
       ],
       "icon": "http://dtil.tmsimg.com/assets/p706448_b_h8_ab.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-21T18:00:00+05:00",
+      "stop": "2026-05-21T19:00:00+05:00",
+      "title": "Good Day New York",
+      "desc": "Morning news.",
+      "date": "2007",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p706448_b_h8_ab.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-21T19:00:00+05:00",
+      "stop": "2026-05-21T20:00:00+05:00",
+      "title": "Sherri",
+      "sub_title": "Sherri's Final Show",
+      "desc": "Sherri kicks off the show with laughs in The Stand-Up Spot and reflects on the four seasons of her talk show; award-winning actress -- and Sherri's BFF -- Niecy Nash is Sherri's special guest; comic and actress Michelle Buteau stops by for a very special Sherri's Laugh Lounge.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Talk",
+        "Interview"
+      ],
+      "episode": "S4 E136",
+      "icon": "http://dtil.tmsimg.com/assets/p21805765_b_h8_ab.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Sherri Shepherd",
+          "Niecy Nash",
+          "Michelle Buteau"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-21T20:00:00+05:00",
+      "stop": "2026-05-21T21:00:00+05:00",
+      "title": "The Jennifer Hudson Show",
+      "desc": "Iconic singer and actress Brandy stops by to talk about her new memoir, \"Phases\"; Nigerian singer-songwriter Ayra Starr performs.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Talk"
+      ],
+      "episode": "S4 E106",
+      "icon": "http://dtil.tmsimg.com/assets/p31041660_b_h8_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Jennifer Hudson",
+          "Brandy",
+          "Ayra Starr"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-21T21:00:00+05:00",
+      "stop": "2026-05-21T22:00:00+05:00",
+      "title": "The Noon",
+      "desc": "Midday news update.",
+      "date": "2019",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p17326137_b_h8_ab.jpg?w=960&h=540"
     }
   ]
 }
