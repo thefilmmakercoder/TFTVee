@@ -4,70 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-21T03:15:00+05:00",
-      "stop": "2026-05-21T04:30:00+05:00",
-      "title": "Air Warriors",
-      "sub_title": "Air Warriors OV 10 Bronco",
-      "desc": "The Vietnam-era OV-10 Bronco is pulled out of retirement to join the fight against ISIS.",
-      "date": "20180917",
-      "language": "en",
-      "categories": [
-        "Series",
-        "Educational",
-        "History"
-      ],
-      "episode": "S06E05",
-      "icon": "https://images.pluto.tv/series/6124324c73019a0013ed46f9/tile.jpg?fill=blur&fit=fill&fm=jpg&h=900&q=75&w=900"
-    },
-    {
-      "start": "2026-05-21T04:30:00+05:00",
-      "stop": "2026-05-21T05:30:00+05:00",
-      "title": "Air Warriors",
-      "sub_title": "Air Warriors: F 16",
-      "desc": "The history of the F-16 Fighting Falcon and how it became the U.S. Air Force's most versatile plane.",
-      "date": "20160613",
-      "language": "en",
-      "categories": [
-        "Series",
-        "Educational",
-        "History"
-      ],
-      "episode": "S04E01",
-      "icon": "https://images.pluto.tv/series/6124324c73019a0013ed46f9/tile.jpg?fill=blur&fit=fill&fm=jpg&h=900&q=75&w=900"
-    },
-    {
-      "start": "2026-05-21T05:30:00+05:00",
-      "stop": "2026-05-21T06:30:00+05:00",
-      "title": "Air Warriors",
-      "sub_title": "Lancaster",
-      "desc": "The inside story of the Avro Lancaster, the British bomber that was rushed into service to fight back against Nazi Germany.",
-      "date": "20220508",
-      "language": "en",
-      "categories": [
-        "Series",
-        "Educational",
-        "History"
-      ],
-      "episode": "S10E01",
-      "icon": "https://images.pluto.tv/series/6124324c73019a0013ed46f9/tile.jpg?fill=blur&fit=fill&fm=jpg&h=900&q=75&w=900"
-    },
-    {
-      "start": "2026-05-21T06:30:00+05:00",
-      "stop": "2026-05-21T07:30:00+05:00",
-      "title": "Air Warriors",
-      "sub_title": "F-100 Super Sabre",
-      "desc": "The history of the supersonic F-100 Super Sabre, from its troubled beginnings to its key role as the USAF's go-to fighter-bomber of the Vietnam War.",
-      "date": "20230622",
-      "language": "en",
-      "categories": [
-        "Series",
-        "Educational",
-        "History"
-      ],
-      "episode": "S11E05",
-      "icon": "https://images.pluto.tv/series/6124324c73019a0013ed46f9/tile.jpg?fill=blur&fit=fill&fm=jpg&h=900&q=75&w=900"
-    },
-    {
       "start": "2026-05-21T07:30:00+05:00",
       "stop": "2026-05-21T08:30:00+05:00",
       "title": "Aerial America",
@@ -76,9 +12,9 @@
       "date": "20130728",
       "language": "en",
       "categories": [
+        "History",
         "Series",
-        "Educational",
-        "History"
+        "Educational"
       ],
       "episode": "S01E133",
       "icon": "https://images.pluto.tv/series/5fa34413e906e1001a03ed7a/tile_1779206761075.jpg?fill=blur&fit=fill&fm=jpg&h=900&q=75&w=900"
@@ -92,12 +28,74 @@
       "date": "20100725",
       "language": "en",
       "categories": [
+        "History",
         "Series",
-        "Educational",
-        "History"
+        "Educational"
       ],
       "episode": "S01E03",
       "icon": "https://images.pluto.tv/series/5fa34413e906e1001a03ed7a/tile_1779206761075.jpg?fill=blur&fit=fill&fm=jpg&h=900&q=75&w=900"
+    },
+    {
+      "start": "2026-05-21T09:30:00+05:00",
+      "stop": "2026-05-21T10:30:00+05:00",
+      "title": "Aerial America",
+      "sub_title": "Aerial America Dallas Fort Worth",
+      "desc": "An aerial tour over Dallas and Fort Worth highlights the cities' differences while showcasing their shared contributions to the Texas narrative.",
+      "date": "20191215",
+      "language": "en",
+      "categories": [
+        "Documentary",
+        "Series"
+      ],
+      "episode": "S01E171",
+      "icon": "https://images.pluto.tv/series/5fa34413e906e1001a03ed7a/tile_1779206761075.jpg?fill=blur&fit=fill&fm=jpg&h=900&q=75&w=900"
+    },
+    {
+      "start": "2026-05-21T10:30:00+05:00",
+      "stop": "2026-05-21T11:30:00+05:00",
+      "title": "Aerial America",
+      "sub_title": "Maine",
+      "desc": "Discover how Maine's rich resources and cast of characters have helped shape the nation.",
+      "date": "20110711",
+      "language": "en",
+      "categories": [
+        "History",
+        "Series",
+        "Educational"
+      ],
+      "episode": "S01E09",
+      "icon": "https://images.pluto.tv/series/5fa34413e906e1001a03ed7a/tile_1779206761075.jpg?fill=blur&fit=fill&fm=jpg&h=900&q=75&w=900"
+    },
+    {
+      "start": "2026-05-21T11:30:00+05:00",
+      "stop": "2026-05-21T12:30:00+05:00",
+      "title": "Aerial America",
+      "sub_title": "Aerial America Boston 24",
+      "desc": "A sky-high flight over Boston captures the New England city's towering skyline, revolutionary milestones, and fighting spirit.",
+      "date": "20191208",
+      "language": "en",
+      "categories": [
+        "Documentary",
+        "Series"
+      ],
+      "episode": "S01E170",
+      "icon": "https://images.pluto.tv/series/5fa34413e906e1001a03ed7a/tile_1779206761075.jpg?fill=blur&fit=fill&fm=jpg&h=900&q=75&w=900"
+    },
+    {
+      "start": "2026-05-21T12:30:00+05:00",
+      "stop": "2026-05-21T13:30:00+05:00",
+      "title": "Air Disasters",
+      "sub_title": "The Pentagon Attack",
+      "desc": "See how the Pentagon attack on 9/11 was carried out and how it permanently altered air travel today.",
+      "date": "20180108",
+      "language": "en",
+      "categories": [
+        "History",
+        "Series",
+        "Educational"
+      ],
+      "episode": "S10E02",
+      "icon": "https://images.pluto.tv/series/5fa343ffe906e1001a03e95c/tile.jpg?fill=blur&fit=fill&fm=jpg&h=900&q=75&w=900"
     }
   ]
 }

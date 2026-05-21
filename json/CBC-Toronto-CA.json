@@ -4,67 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-21T03:00:00+05:00",
-      "stop": "2026-05-21T04:00:00+05:00",
-      "title": "Live: CBC Toronto News",
-      "desc": "Dwight Drummond and team take a comprehensive look at the top stories, with breaking news, reports and updates relevant to the city of Toronto.",
-      "date": "2016",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p12466091_b_h10_ac.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Dwight Drummond"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-21T04:00:00+05:00",
-      "stop": "2026-05-21T05:00:00+05:00",
-      "title": "To Be Announced",
-      "desc": "Programming to be announced.",
-      "date": "2014",
-      "language": "en",
-      "rating": "B",
-      "categories": [
-        "Special",
-        "Entertainment"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p514472_b_h8_ad.jpg?w=960&h=540",
-      "credits": {
-        "director": [
-          "Kinga Michalska"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-21T05:00:00+05:00",
-      "stop": "2026-05-21T08:00:00+05:00",
-      "title": "Live: NHL Hockey",
-      "desc": "The Colorado Avalanche battle the Vegas Golden Knights in Game 1 of the Western Conference Final. Colorado eliminated the Minnesota Wild and Vegas defeated the Anaheim Ducks to advance to the Western Conference Final at Ball Arena.",
-      "language": "en",
-      "categories": [
-        "Sports",
-        "Playoff sports",
-        "Hockey"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/GNLZZGG00342P50.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-21T08:00:00+05:00",
-      "stop": "2026-05-21T08:30:00+05:00",
-      "title": "Live: CBC Toronto News at 11",
-      "desc": "The host presents information about the social, economic and political issues of the day and provides updates on current events in Toronto.",
-      "date": "2016",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p12567799_b_h10_ad.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-05-21T08:30:00+05:00",
       "stop": "2026-05-21T09:00:00+05:00",
       "title": "Land and Sea",
@@ -108,6 +47,106 @@
           "Sally Carman-Duttine",
           "Aaron McCusker",
           "Sydney Martin"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-21T09:30:00+05:00",
+      "stop": "2026-05-21T10:30:00+05:00",
+      "title": "Coroner",
+      "sub_title": "Borders",
+      "desc": "Jenny investigates when a body that doesn't have an ID is found with in the middle of a country road and there are few clues to how it got there.",
+      "date": "2020",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "Series",
+        "Medical",
+        "Crime drama",
+        "Mystery"
+      ],
+      "episode": "S2 E2",
+      "icon": "http://dtil.tmsimg.com/assets/p15557744_b_h10_aq.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Adrienne Mitchell"
+        ],
+        "actor": [
+          "Serinda Swan",
+          "Roger Cross",
+          "Lovell Adams-Gray"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-21T10:30:00+05:00",
+      "stop": "2026-05-21T11:30:00+05:00",
+      "title": "Wild Cards",
+      "sub_title": "Con in 60 Seconds",
+      "desc": "Begrudgingly, Ellis comes to terms with Max's betrayal knowing she risked it all to share info about his brother's killer; now assigned to a new case, they dive into a high-speed street racing ring.",
+      "date": "2025",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Crime drama"
+      ],
+      "episode": "S2 E1",
+      "icon": "http://dtil.tmsimg.com/assets/p25877512_b_h8_aj.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "James Genn"
+        ],
+        "actor": [
+          "Giacomo Gianniotti",
+          "Amy Goodmurphy",
+          "Kris McRonney"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-21T11:30:00+05:00",
+      "stop": "2026-05-21T12:30:00+05:00",
+      "title": "Diggstown",
+      "sub_title": "Vi Bayley",
+      "desc": "Marcie defends a hair salon owner who is charged in connection with the assault of a gang member; Doug's relationship with a former client place him and Pam in the crosshairs of a misconduct complaint.",
+      "date": "2020",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "Series",
+        "Crime drama"
+      ],
+      "episode": "S2 E5",
+      "icon": "http://dtil.tmsimg.com/assets/p15557756_b_h8_ag.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Vinessa Antoine",
+          "Natasha Henstridge",
+          "Stacey Farber"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-21T12:30:00+05:00",
+      "stop": "2026-05-21T13:00:00+05:00",
+      "title": "Kim's Convenience",
+      "sub_title": "Silent Auction",
+      "desc": "Umma has her heart set on a coat at the auction; Jung accuses Shannon of acting unprofessional; Janet's big payday gets foiled.",
+      "date": "2017",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "Series",
+        "Sitcom"
+      ],
+      "episode": "S2 E8",
+      "icon": "http://dtil.tmsimg.com/assets/p14494303_b_h10_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Paul Sun-hyung Lee",
+          "Jean Yoon",
+          "Simu Liu"
         ]
       }
     }
