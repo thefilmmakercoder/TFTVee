@@ -4,19 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-22T02:00:00+05:00",
-      "stop": "2026-05-22T02:30:00+05:00",
-      "title": "Entertainment Tonight",
-      "desc": "Still the gold standard in entertainment news, ET delivers daily exclusives, red carpet coverage, and celebrity interviews.",
-      "language": "en",
-      "rating": "NR",
-      "categories": [
-        "Special Interest"
-      ],
-      "episode": "S45 E183",
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/132140/image/334x188"
-    },
-    {
       "start": "2026-05-22T02:30:00+05:00",
       "stop": "2026-05-22T03:30:00+05:00",
       "title": "The Late Show With Stephen Colbert",
@@ -81,6 +68,20 @@
       ],
       "episode": "S1 E5",
       "icon": "https://www.fetchtv.com.au/v2/epg/program/100193/image/334x188"
+    },
+    {
+      "start": "2026-05-22T06:00:00+05:00",
+      "stop": "2026-05-22T06:30:00+05:00",
+      "title": "Frasier",
+      "sub_title": "Sleeping With The Enemy",
+      "desc": "Labor relations go from heated to hot and heavy when Frasier and his boss negotiate a staff raise -- and an unexpected passion for each other.",
+      "language": "en",
+      "rating": "PG",
+      "categories": [
+        "Comedy"
+      ],
+      "episode": "S3 E6",
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/134019/image/334x188"
     }
   ]
 }

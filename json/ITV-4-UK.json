@@ -4,30 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-22T02:05:00+05:00",
-      "stop": "2026-05-22T02:10:00+05:00",
-      "title": "FYI Daily",
-      "desc": "Latest news from the world of entertainment.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "Showbiz"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/90614127-5402-47ff-8b20-1920f978c925/16-9"
-    },
-    {
-      "start": "2026-05-22T02:10:00+05:00",
-      "stop": "2026-05-22T03:25:00+05:00",
-      "title": "Hang 'Em High",
-      "desc": "Rugged western drama film starring Clint Eastwood and Inger Stevens, 1968. An innocent man who narrowly avoids being lynched by a gang of vigilantes vows to bring them to justice.",
-      "language": "en",
-      "categories": [
-        "Movie",
-        "Western"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/06374074-4b11-4d63-a597-0c21fd115fc9/16-9"
-    },
-    {
       "start": "2026-05-22T03:25:00+05:00",
       "stop": "2026-05-22T04:00:00+05:00",
       "title": "Ligue 1 Highlights",
@@ -77,6 +53,30 @@
         "Drama"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/28f67500-de73-4b22-9fe5-a82f3ba7d336/16-9"
+    },
+    {
+      "start": "2026-05-22T06:45:00+05:00",
+      "stop": "2026-05-22T07:00:00+05:00",
+      "title": "Unwind with ITV",
+      "desc": "Your daily escape designed to calm the mind and encourage relaxation and reflection.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Lifestyles"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/b96dc575-aa0e-4e15-b763-0c58b969d1d7/16-9"
+    },
+    {
+      "start": "2026-05-22T07:00:00+05:00",
+      "stop": "2026-05-22T07:30:00+05:00",
+      "title": "Teleshopping",
+      "desc": "Shopping from home.",
+      "language": "en",
+      "categories": [
+        "Specialist",
+        "Shopping"
+      ],
+      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/ITV-4-UK.png"
     }
   ]
 }

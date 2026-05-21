@@ -4,57 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-21T22:54:00+05:00",
-      "stop": "2026-05-22T01:05:00+05:00",
-      "title": "Saltburn",
-      "desc": "A student is invited to an eccentric classmate's estate for an exciting summer.",
-      "date": "2023",
-      "language": "en",
-      "rating": "R",
-      "categories": [
-        "Movie",
-        "Comedy drama",
-        "Thriller"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p25479414_v_h10_ab.jpg?w=960&h=540",
-      "credits": {
-        "director": [
-          "Emerald Fennell"
-        ],
-        "actor": [
-          "Barry Keoghan",
-          "Jacob Elordi",
-          "Rosamund Pike"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-22T01:05:00+05:00",
-      "stop": "2026-05-22T03:12:00+05:00",
-      "title": "Hidden Figures",
-      "desc": "Three brilliant African American women at NASA, Katherine Johnson, Dorothy Vaughan and Mary Jackson, serve as the brains behind one of the greatest operations in history, the launch of astronaut John Glenn into orbit, a stunning achievement that restored the nation's confidence, turned around the Space Race and galvanized the world.",
-      "date": "2016",
-      "language": "en",
-      "rating": "PG",
-      "categories": [
-        "Movie",
-        "Historical drama",
-        "Docudrama",
-        "Biography"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p13070002_v_h10_aa.jpg?w=960&h=540",
-      "credits": {
-        "director": [
-          "Theodore Melfi"
-        ],
-        "actor": [
-          "Taraji P. Henson",
-          "Octavia Spencer",
-          "Janelle Mon\u00e1e"
-        ]
-      }
-    },
-    {
       "start": "2026-05-22T03:12:00+05:00",
       "stop": "2026-05-22T04:14:00+05:00",
       "title": "US Against the World: Four Years with the Men's National Soccer Team",
@@ -150,6 +99,55 @@
         ],
         "actor": [
           "Ramy Youssef"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-22T09:47:00+05:00",
+      "stop": "2026-05-22T10:50:00+05:00",
+      "title": "Euphoria",
+      "sub_title": "Stand Still and See",
+      "desc": "Maybe every mistake Rue made led her to the right place after all.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TVMA",
+      "categories": [
+        "Series",
+        "Drama"
+      ],
+      "episode": "S3 E6",
+      "icon": "http://dtil.tmsimg.com/assets/p32242506_b_h8_ac.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Zendaya",
+          "Maude Apatow",
+          "Angus Cloud"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-22T10:50:00+05:00",
+      "stop": "2026-05-22T12:57:00+05:00",
+      "title": "Hidden Figures",
+      "desc": "Three brilliant African American women at NASA, Katherine Johnson, Dorothy Vaughan and Mary Jackson, serve as the brains behind one of the greatest operations in history, the launch of astronaut John Glenn into orbit, a stunning achievement that restored the nation's confidence, turned around the Space Race and galvanized the world.",
+      "date": "2016",
+      "language": "en",
+      "rating": "PG",
+      "categories": [
+        "Movie",
+        "Historical drama",
+        "Docudrama",
+        "Biography"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p13070002_v_h10_aa.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Theodore Melfi"
+        ],
+        "actor": [
+          "Taraji P. Henson",
+          "Octavia Spencer",
+          "Janelle Mon\u00e1e"
         ]
       }
     }

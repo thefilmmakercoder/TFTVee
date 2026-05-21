@@ -4,20 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-22T00:00:00+05:00",
-      "stop": "2026-05-22T00:30:00+05:00",
-      "title": "Today Early News",
-      "sub_title": "Friday 22 May 2026",
-      "desc": "Today Early News with up to date news from Australia and around the world as well as the latest in sport and weather.",
-      "language": "en",
-      "rating": "NR",
-      "categories": [
-        "News"
-      ],
-      "episode": "E102",
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/428725/image/334x188"
-    },
-    {
       "start": "2026-05-22T00:30:00+05:00",
       "stop": "2026-05-22T04:00:00+05:00",
       "title": "Today",
@@ -82,6 +68,19 @@
       ],
       "episode": "S34 E44",
       "icon": "https://www.fetchtv.com.au/v2/epg/program/325129/image/334x188"
+    },
+    {
+      "start": "2026-05-22T10:00:00+05:00",
+      "stop": "2026-05-22T11:00:00+05:00",
+      "title": "Tipping Point",
+      "desc": "Ben Shephard hosts the quiz show in which three celebrities take on an extraordinary machine in the hope of winning 20,000 pounds for charity.",
+      "language": "en",
+      "rating": "PG",
+      "categories": [
+        "Special Interest"
+      ],
+      "episode": "S10 E8",
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/426483/image/334x188"
     }
   ]
 }
