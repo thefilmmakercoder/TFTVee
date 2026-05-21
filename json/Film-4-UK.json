@@ -4,20 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-21T18:25:00+05:00",
-      "stop": "2026-05-21T20:35:00+05:00",
-      "title": "Shadow of a Doubt",
-      "desc": "Hitchcock thriller starring Joseph Cotten as a serial killer fleeing the law. Teresa Wright is his adoring niece who, initially, refuses to believe her uncle is a murderer.",
-      "date": "1943",
-      "language": "en",
-      "rating": "PG",
-      "categories": [
-        "Movie",
-        "Thriller"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/336b7443-69ae-4150-afea-b09d7643d951/16-9"
-    },
-    {
       "start": "2026-05-21T20:35:00+05:00",
       "stop": "2026-05-21T22:40:00+05:00",
       "title": "Drums Along the Mohawk",
@@ -86,6 +72,18 @@
         "Thriller"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/5726f12d-5eef-4fb4-af1f-a5f94c78b9a9/16-9"
+    },
+    {
+      "start": "2026-05-22T08:00:00+05:00",
+      "stop": "2026-05-22T11:00:00+05:00",
+      "title": "Teleshopping",
+      "desc": "Teleshopping.",
+      "language": "en",
+      "categories": [
+        "Specialist",
+        "Shopping"
+      ],
+      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/Film-4-UK.png"
     }
   ]
 }

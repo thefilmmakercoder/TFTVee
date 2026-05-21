@@ -4,20 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-21T18:30:00+05:00",
-      "stop": "2026-05-21T19:00:00+05:00",
-      "title": "Paid Programming",
-      "desc": "Paid programming.",
-      "language": "en",
-      "rating": "TVG",
-      "categories": [
-        "Consumer",
-        "Shopping",
-        "Variety"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-05-21T19:00:00+05:00",
       "stop": "2026-05-21T22:00:00+05:00",
       "title": "A Journal for Jordan",
@@ -137,6 +123,33 @@
       "credits": {
         "director": [
           "Matthew Nastuk"
+        ],
+        "actor": [
+          "Dan Castellaneta",
+          "Julie Kavner",
+          "Nancy Cartwright"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-22T03:30:00+05:00",
+      "stop": "2026-05-22T04:00:00+05:00",
+      "title": "The Simpsons",
+      "sub_title": "The Scorpion's Tale",
+      "desc": "During a field trip, Lisa discovers desert water that makes usually combative creatures get along; after getting kicked out of the retirement home, Grampa comes to live with the family.",
+      "date": "2011",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Animated",
+        "Sitcom"
+      ],
+      "episode": "S22 E15",
+      "icon": "http://dtil.tmsimg.com/assets/p183872_b_h8_aj.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Matthew Schofield"
         ],
         "actor": [
           "Dan Castellaneta",
