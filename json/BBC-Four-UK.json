@@ -4,30 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-22T05:30:00+05:00",
-      "stop": "2026-05-22T06:15:00+05:00",
-      "title": "Scene by Scene",
-      "desc": "Hollywood sex symbol Jane Russell talks about her difficult childhood as the eldest and only girl of six siblings, her film career and working with Marilyn Monroe.",
-      "language": "en",
-      "categories": [
-        "Entertainment",
-        "Arts"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/74b39c2d-8860-4bb2-98ce-84fbb83a8f24/16-9"
-    },
-    {
-      "start": "2026-05-22T06:15:00+05:00",
-      "stop": "2026-05-22T07:15:00+05:00",
-      "title": "Art of Scandinavia",
-      "desc": "Denmark becomes one of the greatest powers and arbiters of taste in northern Europe. Contains some scenes of a sexual nature.",
-      "language": "en",
-      "categories": [
-        "Entertainment",
-        "Arts"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/bf3c8402-8bee-446f-848f-01d3d8021a42/16-9"
-    },
-    {
       "start": "2026-05-22T07:15:00+05:00",
       "stop": "2026-05-22T09:30:00+05:00",
       "title": "This is BBC Four",
@@ -58,6 +34,26 @@
       "desc": "BBC Four provides an intelligent mix of arts, science, and history programming, offering deep-dive documentaries and world cinema for a curious audience.",
       "language": "en",
       "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/BBC-Four-UK.png"
+    },
+    {
+      "start": "2026-05-22T22:58:00+05:00",
+      "stop": "2026-05-22T23:00:00+05:00",
+      "title": "This is BBC Four",
+      "desc": "Programmes start at 7.00pm.",
+      "language": "en",
+      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/BBC-Four-UK.png"
+    },
+    {
+      "start": "2026-05-22T23:00:00+05:00",
+      "stop": "2026-05-22T23:30:00+05:00",
+      "title": "TOTP: 1999",
+      "desc": "Jamie Theakston presents the pop chart programme, first broadcast on 5 November 1999 and featuring Macy Gray, Phil Collins, Diana Ross, Ian Brown, Mariah Carey, Semisonic and Five.",
+      "language": "en",
+      "categories": [
+        "Music & Radio",
+        "Rock&Pop"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/e9da1582-3b62-4e5c-adf9-fe8b19a26ab4/16-9"
     }
   ]
 }

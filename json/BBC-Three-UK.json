@@ -4,41 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-22T06:05:00+05:00",
-      "stop": "2026-05-22T06:25:00+05:00",
-      "title": "My Mate's a Bad Date",
-      "desc": "Twenty-one-year-old Vicky is super-picky. Oloni wants her to drop her guard, open up and stop analysing her dates, but she has to pull out all the stops to melt this ice queen.",
-      "language": "en",
-      "categories": [
-        "Entertainment"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/ecedc9ad-cc59-4eb5-93dc-6c473575680d/16-9"
-    },
-    {
-      "start": "2026-05-22T06:25:00+05:00",
-      "stop": "2026-05-22T07:10:00+05:00",
-      "title": "A Good Girl's Guide to Murder",
-      "desc": "Pip reaches a crisis point with the investigation and questions whether Sal is guilty. Contains some strong language.",
-      "language": "en",
-      "categories": [
-        "Entertainment",
-        "Detective"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/aa533ea8-01ee-33ef-96a4-375725f6b95e/16-9"
-    },
-    {
-      "start": "2026-05-22T07:10:00+05:00",
-      "stop": "2026-05-22T07:55:00+05:00",
-      "title": "A Good Girl's Guide to Murder",
-      "desc": "Pip faces dark consequences when she tries to confront the killer. Contains some strong language and some upsetting scenes.",
-      "language": "en",
-      "categories": [
-        "Entertainment",
-        "Detective"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/ced8e584-d7ee-3eab-868d-6a27b1e3f855/16-9"
-    },
-    {
       "start": "2026-05-22T07:55:00+05:00",
       "stop": "2026-05-22T09:30:00+05:00",
       "title": "This is BBC Three",
@@ -61,6 +26,34 @@
       "desc": "BBC Three delivers bold and provocative content for younger audiences, featuring groundbreaking documentaries, experimental comedy, and fresh drama.",
       "language": "en",
       "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/BBC-Three-UK.png"
+    },
+    {
+      "start": "2026-05-22T21:30:00+05:00",
+      "stop": "2026-05-22T22:58:00+05:00",
+      "title": "..programmes start at 7.00pm",
+      "desc": "BBC Three delivers bold and provocative content for younger audiences, featuring groundbreaking documentaries, experimental comedy, and fresh drama.",
+      "language": "en",
+      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/BBC-Three-UK.png"
+    },
+    {
+      "start": "2026-05-22T22:58:00+05:00",
+      "stop": "2026-05-22T23:00:00+05:00",
+      "title": "This is BBC Three",
+      "desc": "Programmes start at 7.00pm.",
+      "language": "en",
+      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/BBC-Three-UK.png"
+    },
+    {
+      "start": "2026-05-22T23:00:00+05:00",
+      "stop": "2026-05-22T23:05:00+05:00",
+      "title": "The Catch Up",
+      "desc": "A round-up of the day's news.",
+      "language": "en",
+      "categories": [
+        "News & Documentary",
+        "News"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/16265572-9e5c-46c2-b322-8236f7265b9f/16-9"
     }
   ]
 }

@@ -4,9 +4,28 @@
   ],
   "programs": [
     {
-      "start": "2026-05-22T05:00:00+05:00",
-      "stop": "2026-05-22T06:00:00+05:00",
-      "title": "Live: Anderson Cooper 360",
+      "start": "2026-05-22T10:00:00+05:00",
+      "stop": "2026-05-22T11:00:00+05:00",
+      "title": "Live: The Story Is With Elex Michaelson",
+      "desc": "Elex Michaelson tackles the breaking stories making headlines with sharp analysis, fresh perspective and a dose of humor.",
+      "date": "2026",
+      "language": "en",
+      "categories": [
+        "Series",
+        "News"
+      ],
+      "episode": "E212",
+      "icon": "http://dtil.tmsimg.com/assets/p31514402_b_h8_ab.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Elex Michaelson"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-22T11:00:00+05:00",
+      "stop": "2026-05-22T12:00:00+05:00",
+      "title": "Anderson Cooper 360",
       "desc": "Anderson Cooper goes beyond the headlines with in-depth reporting and investigations; Anderson keeps his commitment to holding those in power accountable; joining him are guests that frequently include political and legal analysts.",
       "date": "2026",
       "language": "en",
@@ -26,28 +45,9 @@
       }
     },
     {
-      "start": "2026-05-22T06:00:00+05:00",
-      "stop": "2026-05-22T07:00:00+05:00",
-      "title": "Live: The Source With Kaitlan Collins",
-      "desc": "Kaitlan Collins is chasing the facts, asking the tough questions and connecting with her sources.",
-      "date": "2026",
-      "language": "en",
-      "categories": [
-        "Series",
-        "News"
-      ],
-      "episode": "E101",
-      "icon": "http://dtil.tmsimg.com/assets/p25168881_b_h8_ac.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Kaitlan Collins"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-22T07:00:00+05:00",
-      "stop": "2026-05-22T08:00:00+05:00",
-      "title": "Live: CNN NewsNight With Abby Phillip",
+      "start": "2026-05-22T12:00:00+05:00",
+      "stop": "2026-05-22T13:00:00+05:00",
+      "title": "CNN NewsNight With Abby Phillip",
       "desc": "Abby Phillip leads a roundtable discussion on the day's biggest stories and issues shaping our world.",
       "date": "2026",
       "language": "en",
@@ -66,60 +66,52 @@
       }
     },
     {
-      "start": "2026-05-22T08:00:00+05:00",
-      "stop": "2026-05-22T09:00:00+05:00",
-      "title": "Laura Coates Live",
-      "desc": "Laura Coates sparks unique conversations and covers the most interesting stories of the day through a news, legal and pop culture lens.",
+      "start": "2026-05-22T13:00:00+05:00",
+      "stop": "2026-05-22T14:00:00+05:00",
+      "title": "CNN Newsroom Live",
+      "desc": "The latest news from around the world.",
       "date": "2026",
       "language": "en",
       "categories": [
         "Series",
         "News",
-        "Public affairs"
+        "Interview",
+        "Politics"
       ],
-      "episode": "E101",
-      "icon": "http://dtil.tmsimg.com/assets/p25850193_b_h10_ae.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Laura Coates"
-        ]
-      }
+      "episode": "E250",
+      "icon": "http://dtil.tmsimg.com/assets/p11873759_b_h10_aa.jpg?w=960&h=540"
     },
     {
-      "start": "2026-05-22T09:00:00+05:00",
-      "stop": "2026-05-22T10:00:00+05:00",
-      "title": "Live: The Story Is With Elex Michaelson",
-      "desc": "Elex Michaelson tackles the breaking stories making headlines with sharp analysis, fresh perspective and a dose of humor.",
+      "start": "2026-05-22T14:00:00+05:00",
+      "stop": "2026-05-22T15:00:00+05:00",
+      "title": "Live: CNN Headline Express",
+      "desc": "Brad Smith brings you the day's biggest headlines and most buzzworthy stories.",
       "date": "2026",
       "language": "en",
       "categories": [
         "Series",
         "News"
       ],
-      "episode": "E211",
-      "icon": "http://dtil.tmsimg.com/assets/p31514402_b_h8_ab.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Elex Michaelson"
-        ]
-      }
+      "episode": "E15",
+      "icon": "http://dtil.tmsimg.com/assets/p32988509_b_h8_ac.jpg?w=960&h=540"
     },
     {
-      "start": "2026-05-22T10:00:00+05:00",
-      "stop": "2026-05-22T11:00:00+05:00",
-      "title": "Live: The Story Is With Elex Michaelson",
-      "desc": "Elex Michaelson tackles the breaking stories making headlines with sharp analysis, fresh perspective and a dose of humor.",
+      "start": "2026-05-22T15:00:00+05:00",
+      "stop": "2026-05-22T16:00:00+05:00",
+      "title": "Live: CNN This Morning",
+      "desc": "Stories from across the world and refreshing conversations with Audie Cornish.",
       "date": "2026",
       "language": "en",
       "categories": [
         "Series",
         "News"
       ],
-      "episode": "E212",
-      "icon": "http://dtil.tmsimg.com/assets/p31514402_b_h8_ab.jpg?w=960&h=540",
+      "episode": "E103",
+      "icon": "http://dtil.tmsimg.com/assets/p23245784_b_h8_ai.jpg?w=960&h=540",
       "credits": {
         "actor": [
-          "Elex Michaelson"
+          "Kasie Hunt",
+          "Don Lemon"
         ]
       }
     }

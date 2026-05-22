@@ -4,18 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-22T04:10:00+05:00",
-      "stop": "2026-05-22T04:15:00+05:00",
-      "title": "Weather for the Week Ahead",
-      "desc": "Detailed weather forecast.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/dd48d3ae-102c-48e5-bc4c-3505d5ec2444/16-9"
-    },
-    {
       "start": "2026-05-22T04:15:00+05:00",
       "stop": "2026-05-22T10:00:00+05:00",
       "title": "BBC News",
@@ -73,6 +61,18 @@
         "Factual"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/1c9448cb-0000-45cb-aef2-85526668d47e/16-9"
+    },
+    {
+      "start": "2026-05-22T16:15:00+05:00",
+      "stop": "2026-05-22T17:00:00+05:00",
+      "title": "Bargain Hunt: Pets",
+      "desc": "This show will have animal lovers' tails wagging as our teams scour the country for dogs, birds, fish, pigs and even spiders. Christina counts down the most profitable pet-related buys.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Game Show"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/775106ff-bfdb-4751-85bb-912e9ca69cea/16-9"
     }
   ]
 }

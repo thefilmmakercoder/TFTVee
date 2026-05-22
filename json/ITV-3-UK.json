@@ -4,43 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-22T06:20:00+05:00",
-      "stop": "2026-05-22T06:30:00+05:00",
-      "title": "Unwind with ITV",
-      "desc": "Your daily escape designed to calm the mind and encourage relaxation and reflection.",
-      "language": "en",
-      "categories": [
-        "Entertainment",
-        "Lifestyles"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/3834ba14-9048-3671-abf2-c661d99dc67d/16-9"
-    },
-    {
-      "start": "2026-05-22T06:30:00+05:00",
-      "stop": "2026-05-22T10:00:00+05:00",
-      "title": "Teleshopping",
-      "desc": "Shopping from home.",
-      "language": "en",
-      "categories": [
-        "Specialist",
-        "Shopping"
-      ],
-      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/ITV-3-UK.png"
-    },
-    {
-      "start": "2026-05-22T10:00:00+05:00",
-      "stop": "2026-05-22T10:35:00+05:00",
-      "title": "On the Buses",
-      "sub_title": "Foggy Night",
-      "desc": "Enduring '70s sitcom about a chirpy bus driver and his conductor. Stan has to pull off the road when freezing fog blankets the Home Counties and makes visibility nil.",
-      "language": "en",
-      "categories": [
-        "Entertainment",
-        "Comedy"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/2a77aefd-1b70-4011-ae0a-c4b37c4b6715/16-9"
-    },
-    {
       "start": "2026-05-22T10:35:00+05:00",
       "stop": "2026-05-22T11:05:00+05:00",
       "title": "On the Buses",
@@ -76,6 +39,43 @@
         "Soap"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/e86ad860-72e2-4f93-a250-112b5ce69d66/16-9"
+    },
+    {
+      "start": "2026-05-22T12:05:00+05:00",
+      "stop": "2026-05-22T12:35:00+05:00",
+      "title": "Classic Coronation Street",
+      "desc": "Disaster strikes when Audrey is forced to drive the booze cruisers home. Dev feels on top of the world after spending a night with Nina, and David suspects Tina's up to no good.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Soap"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/baac0104-e63c-4e1b-b865-a592fde25b62/16-9"
+    },
+    {
+      "start": "2026-05-22T12:35:00+05:00",
+      "stop": "2026-05-22T13:05:00+05:00",
+      "title": "Classic Coronation Street",
+      "desc": "Audrey suffers after the accident, David is thrilled to read Tina's comments about him, and Dev proudly introduces Nina to Amber. Harry takes the wind out of Clarissa's sails.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Soap"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/e50c2000-5221-4d2a-b6ca-2e1b991017d6/16-9"
+    },
+    {
+      "start": "2026-05-22T13:05:00+05:00",
+      "stop": "2026-05-22T15:15:00+05:00",
+      "title": "Inspector Morse",
+      "sub_title": "The Sins of the Fathers",
+      "desc": "Morse investigates a case of foul play at a brewery and learns that employees and family would stand to gain from the death of the brewery's manager.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Detective"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/12649f0e-7058-4428-ae6d-9d150a2c504f/16-9"
     }
   ]
 }
