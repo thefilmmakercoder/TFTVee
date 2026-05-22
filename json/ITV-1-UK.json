@@ -4,55 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-22T22:00:00+05:00",
-      "stop": "2026-05-22T22:30:00+05:00",
-      "title": "ITV News London",
-      "desc": "The latest news and weather from London and the South East.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/b636d496-6c3d-469c-8753-db541d8453a7/16-9"
-    },
-    {
-      "start": "2026-05-22T22:30:00+05:00",
-      "stop": "2026-05-22T23:30:00+05:00",
-      "title": "ITV Evening News",
-      "desc": "National and international news with reports and analysis from ITV's Correspondents in the UK and around the world, plus a focus on the stories that matter to you.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/81eb83b3-1f41-4ea0-a404-9c8c1ad63866/16-9"
-    },
-    {
-      "start": "2026-05-22T23:30:00+05:00",
-      "stop": "2026-05-23T00:00:00+05:00",
-      "title": "Bradley and Barney Walsh: Breaking Dad",
-      "desc": "The boys have arrived in the bustling city of Brisbane and put their acting skills to use as they immerse themselves in medieval fantasy role-play.",
-      "language": "en",
-      "categories": [
-        "Entertainment",
-        "Travel"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/dc6c99fe-325b-4df5-847e-ca2df1cfb3ad/16-9"
-    },
-    {
-      "start": "2026-05-23T00:00:00+05:00",
-      "stop": "2026-05-23T00:30:00+05:00",
-      "title": "Emmerdale",
-      "sub_title": "Joe makes a confession",
-      "desc": "Kammy looks alarmed. Pollard encourages Cain to deal with his problems head-on.",
-      "language": "en",
-      "categories": [
-        "Entertainment",
-        "Soap"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/ba996d45-66e9-45b6-ad0c-cfc539254a0e/16-9"
-    },
-    {
       "start": "2026-05-23T00:30:00+05:00",
       "stop": "2026-05-23T01:00:00+05:00",
       "title": "Coronation Street",
@@ -75,6 +26,54 @@
         "Game Show"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/6ac441e0-b38f-3310-bfa6-01152e346417/16-9"
+    },
+    {
+      "start": "2026-05-23T02:00:00+05:00",
+      "stop": "2026-05-23T02:30:00+05:00",
+      "title": "ITV News at Ten",
+      "desc": "ITV News provides a fresh perspective on the major stories of the day with national and international news with reports and analysis from ITV's Correspondents.",
+      "language": "en",
+      "categories": [
+        "News & Documentary",
+        "News"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/16ee4393-79c7-4f90-894c-e4f764773134/16-9"
+    },
+    {
+      "start": "2026-05-23T02:30:00+05:00",
+      "stop": "2026-05-23T02:45:00+05:00",
+      "title": "ITV News London",
+      "desc": "The latest news and weather from London and the South East.",
+      "language": "en",
+      "categories": [
+        "News & Documentary",
+        "News"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/ea31d9dd-457f-4ec7-be04-de271389ca87/16-9"
+    },
+    {
+      "start": "2026-05-23T02:45:00+05:00",
+      "stop": "2026-05-23T05:30:00+05:00",
+      "title": "The Batman",
+      "desc": "Epic action crime drama film reboot starring Robert Pattinson and Zoe Kravitz, 2022. A sadistic serial killer causes a superhero to investigate the corruption of his home city.",
+      "language": "en",
+      "categories": [
+        "Movie",
+        "Action"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/c8a1b520-5ead-42d7-acbc-c61a501abcd9/16-9"
+    },
+    {
+      "start": "2026-05-23T05:30:00+05:00",
+      "stop": "2026-05-23T07:00:00+05:00",
+      "title": "Shop on TV",
+      "desc": "Teleshopping.",
+      "language": "en",
+      "categories": [
+        "Specialist",
+        "Shopping"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/22bc5e3c-3c23-44ba-bcb4-8061e0d8a13f/16-9"
     }
   ]
 }
