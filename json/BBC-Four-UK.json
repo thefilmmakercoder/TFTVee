@@ -4,14 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-22T09:30:00+05:00",
-      "stop": "2026-05-22T15:30:00+05:00",
-      "title": "..programmes start at 7.00pm",
-      "desc": "BBC Four provides an intelligent mix of arts, science, and history programming, offering deep-dive documentaries and world cinema for a curious audience.",
-      "language": "en",
-      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/BBC-Four-UK.png"
-    },
-    {
       "start": "2026-05-22T15:30:00+05:00",
       "stop": "2026-05-22T21:30:00+05:00",
       "title": "..programmes start at 7.00pm",
@@ -58,6 +50,18 @@
         "Rock&Pop"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/1f6bc32e-b142-4031-9df7-3940313a85bd/16-9"
+    },
+    {
+      "start": "2026-05-23T00:00:00+05:00",
+      "stop": "2026-05-23T00:30:00+05:00",
+      "title": "TOTP: 1986",
+      "desc": "Gary Davies and Peter Powell present the pop chart programme, first broadcast on 22 May 1986. Featuring Jaki Graham, Billy Ocean, Simply Red and Spitting Image.",
+      "language": "en",
+      "categories": [
+        "Music & Radio",
+        "Rock&Pop"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/4d277cb6-84b6-4993-b728-5ce687f94dc0/16-9"
     }
   ]
 }
