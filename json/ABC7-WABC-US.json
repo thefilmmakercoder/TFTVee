@@ -4,64 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-22T15:00:00+05:00",
-      "stop": "2026-05-22T16:00:00+05:00",
-      "title": "Eyewitness News This Morning",
-      "desc": "News coverage to start the day.",
-      "date": "2007",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p677214_b_h8_ad.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-22T16:00:00+05:00",
-      "stop": "2026-05-22T18:00:00+05:00",
-      "title": "Good Morning America",
-      "desc": "Actress Ariel Winter; The Ultimate Memorial Day Cooking Countdown with Melissa Cookston; 50 States in 50 Weeks: America the Beautiful stops in Wyoming; The Right Stuff with Lori Bergamotto, featuring summer games.",
-      "date": "2026",
-      "language": "en",
-      "categories": [
-        "Series",
-        "Talk",
-        "News",
-        "Variety",
-        "Public affairs"
-      ],
-      "episode": "E162",
-      "icon": "http://dtil.tmsimg.com/assets/p31385280_b_h10_aa.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "George Stephanopoulos",
-          "Robin Roberts",
-          "Michael Strahan"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-22T18:00:00+05:00",
-      "stop": "2026-05-22T19:00:00+05:00",
-      "title": "Live with Kelly and Mark",
-      "desc": "Craig Ferguson stops by; Ariel Winter talks with the hosts about Disney's \"Sofia the First: Royal Magic\"; it's time for summer cooking!",
-      "date": "2026",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Series",
-        "Talk"
-      ],
-      "episode": "S4 E190",
-      "icon": "http://dtil.tmsimg.com/assets/p24324378_b_h8_ab.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Kelly Ripa",
-          "Mark Consuelos",
-          "Craig Ferguson"
-        ]
-      }
-    },
-    {
       "start": "2026-05-22T19:00:00+05:00",
       "stop": "2026-05-22T20:00:00+05:00",
       "title": "Eyewitness News Mornings at 10",
@@ -109,6 +51,78 @@
         "News"
       ],
       "icon": "http://dtil.tmsimg.com/assets/p11844655_b_h8_ad.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-22T22:00:00+05:00",
+      "stop": "2026-05-22T23:00:00+05:00",
+      "title": "GMA3",
+      "desc": "Author Jack Carr; The Ultimate Memorial Day Cooking Countdown with Melissa Cookston; 50 States in 50 Weeks: America the Beautiful stops in Wyoming; The Right Stuff with Lori Bergamotto, featuring summer games.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "News",
+        "Talk",
+        "Health"
+      ],
+      "episode": "S6 E173",
+      "icon": "http://dtil.tmsimg.com/assets/p30687311_b_h8_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Jack Carr",
+          "Melissa Cookston",
+          "Lori Bergamotto"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-22T23:00:00+05:00",
+      "stop": "2026-05-23T00:00:00+05:00",
+      "title": "Tamron Hall",
+      "sub_title": "What's Hot This Summer",
+      "desc": "Actress Keke Palmer and director Boots Riley (\"I Love Boosters\"); Keke performs \"2-D\"; author Emma Straub (\"American Fantasy\").",
+      "date": "2026",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Talk"
+      ],
+      "episode": "S7 E170",
+      "icon": "http://dtil.tmsimg.com/assets/p17197549_b_h8_af.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Tamron Hall",
+          "Keke Palmer",
+          "Boots Riley"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-23T00:00:00+05:00",
+      "stop": "2026-05-23T01:00:00+05:00",
+      "title": "General Hospital",
+      "desc": "Sonny and Ric compare notes; Willow delivers good news; Britt shares intel; Laura's reaction surprises Lulu; \"Nathan\" makes a plea.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "Series",
+        "Soap",
+        "Medical",
+        "Drama",
+        "Romance"
+      ],
+      "episode": "S63 E176",
+      "icon": "http://dtil.tmsimg.com/assets/p183893_b_h8_al.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Maurice Benard",
+          "Steve Burton",
+          "Michael Easton"
+        ]
+      }
     }
   ]
 }

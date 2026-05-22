@@ -4,54 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-22T16:15:00+05:00",
-      "stop": "2026-05-22T17:15:00+05:00",
-      "title": "The Pacific War in Color",
-      "sub_title": "The Enemy Underground",
-      "desc": "Experience America's fight to take the island of Saipan from Japan and get within striking distance of Tokyo.",
-      "date": "20180715",
-      "language": "en",
-      "categories": [
-        "Series",
-        "Educational",
-        "History"
-      ],
-      "episode": "S01E04",
-      "icon": "https://images.pluto.tv/series/62853df881ecb70013419d9b/tile.jpg?fill=blur&fit=fill&fm=jpg&h=900&q=75&w=900"
-    },
-    {
-      "start": "2026-05-22T17:15:00+05:00",
-      "stop": "2026-05-22T18:15:00+05:00",
-      "title": "Secrets",
-      "sub_title": "Spear of Destiny",
-      "desc": "Follow the high-tech examination of an ancient spear believed by many to have magical properties.",
-      "date": "20141110",
-      "language": "en",
-      "categories": [
-        "Series",
-        "Educational",
-        "History"
-      ],
-      "episode": "S02E05",
-      "icon": "https://images.pluto.tv/series/61245f7673019a0013ed5bbe/tile.jpg?fill=blur&fit=fill&fm=jpg&h=900&q=75&w=900"
-    },
-    {
-      "start": "2026-05-22T18:15:00+05:00",
-      "stop": "2026-05-22T19:15:00+05:00",
-      "title": "Secrets",
-      "sub_title": "Ark of the Covenant",
-      "desc": "Follow the hunt for the truth about the most famous lost treasure of them all: the Ark of the Covenant.",
-      "date": "20141103",
-      "language": "en",
-      "categories": [
-        "Series",
-        "Educational",
-        "History"
-      ],
-      "episode": "S02E04",
-      "icon": "https://images.pluto.tv/series/61245f7673019a0013ed5bbe/tile.jpg?fill=blur&fit=fill&fm=jpg&h=900&q=75&w=900"
-    },
-    {
       "start": "2026-05-22T19:15:00+05:00",
       "stop": "2026-05-22T20:15:00+05:00",
       "title": "Secrets",
@@ -60,8 +12,8 @@
       "date": "20141020",
       "language": "en",
       "categories": [
-        "Series",
         "Educational",
+        "Series",
         "History"
       ],
       "episode": "S02E02",
@@ -76,8 +28,8 @@
       "date": "20180611",
       "language": "en",
       "categories": [
-        "Series",
-        "Documentary"
+        "Documentary",
+        "Series"
       ],
       "episode": "S01E04",
       "icon": "https://images.pluto.tv/series/65b02ba2d22ce50014ae6a08/tile.jpg?fill=blur&fit=fill&fm=jpg&h=900&q=75&w=900"
@@ -91,11 +43,54 @@
       "date": "20180604",
       "language": "en",
       "categories": [
-        "Series",
-        "Documentary"
+        "Documentary",
+        "Series"
       ],
       "episode": "S01E03",
       "icon": "https://images.pluto.tv/series/65b02ba2d22ce50014ae6a08/tile.jpg?fill=blur&fit=fill&fm=jpg&h=900&q=75&w=900"
+    },
+    {
+      "start": "2026-05-22T22:15:00+05:00",
+      "stop": "2026-05-22T23:15:00+05:00",
+      "title": "Carriers At War",
+      "sub_title": "Ready To Launch",
+      "desc": "A behind-the-scenes look at the operations of a U.S. Navy aircraft carrier, and the dedicated sailors who keep it running at maximum efficiency.",
+      "date": "20180528",
+      "language": "en",
+      "categories": [
+        "Documentary",
+        "Series"
+      ],
+      "episode": "S01E02",
+      "icon": "https://images.pluto.tv/series/65b02ba2d22ce50014ae6a08/tile.jpg?fill=blur&fit=fill&fm=jpg&h=900&q=75&w=900"
+    },
+    {
+      "start": "2026-05-22T23:15:00+05:00",
+      "stop": "2026-05-23T00:15:00+05:00",
+      "title": "Carriers At War",
+      "sub_title": "Strike Force Arabian Gulf",
+      "desc": "The crew of the USS George H.W. Bush aircraft carrier prepares to give air support to ground troops battling ISIS in Iraq.",
+      "date": "20180521",
+      "language": "en",
+      "categories": [
+        "Documentary",
+        "Series"
+      ],
+      "episode": "S01E01",
+      "icon": "https://images.pluto.tv/series/65b02ba2d22ce50014ae6a08/tile.jpg?fill=blur&fit=fill&fm=jpg&h=900&q=75&w=900"
+    },
+    {
+      "start": "2026-05-23T00:15:00+05:00",
+      "stop": "2026-05-23T01:15:00+05:00",
+      "title": "Gun Trucks Of Vietnam",
+      "desc": "Celebrate the unsung bad boys of Vietnam: the gun trucks.",
+      "date": "20181112",
+      "language": "en",
+      "categories": [
+        "Documentary",
+        "Movie"
+      ],
+      "icon": "https://images.pluto.tv/episodes/6567dbc6b8262d0013fb4e53/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694"
     }
   ]
 }
