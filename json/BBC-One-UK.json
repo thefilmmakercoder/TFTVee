@@ -4,30 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-23T02:30:00+05:00",
-      "stop": "2026-05-23T02:40:00+05:00",
-      "title": "BBC London News",
-      "desc": "The latest news, sport and weather from London.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/972d2499-038f-4365-af17-ef5cb24e7698/16-9"
-    },
-    {
-      "start": "2026-05-23T02:40:00+05:00",
-      "stop": "2026-05-23T03:40:00+05:00",
-      "title": "Fatboy Slim: Radio 1's Big Weekend Sunderland",
-      "desc": "Kicking off the festival as Friday night's Main Stage headliner is the ultimate party starter, Fatboy Slim. Contains scenes of flashing images.",
-      "language": "en",
-      "categories": [
-        "Music & Radio",
-        "Dance"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/79697d09-b522-4518-8a7e-399d8c7ea7d1/16-9"
-    },
-    {
       "start": "2026-05-23T03:40:00+05:00",
       "stop": "2026-05-23T04:00:00+05:00",
       "title": "St Denis Medical",
@@ -74,6 +50,30 @@
         "Comedy"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/f1706300-39cc-4f3d-ae57-e26776612f8d/16-9"
+    },
+    {
+      "start": "2026-05-23T05:25:00+05:00",
+      "stop": "2026-05-23T05:30:00+05:00",
+      "title": "Weather for the Week Ahead",
+      "desc": "Detailed weather forecast.",
+      "language": "en",
+      "categories": [
+        "News & Documentary",
+        "News"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/b397c558-f8ac-46e3-a849-280c958aecdc/16-9"
+    },
+    {
+      "start": "2026-05-23T05:30:00+05:00",
+      "stop": "2026-05-23T10:00:00+05:00",
+      "title": "BBC News",
+      "desc": "BBC One joins the BBC's rolling news channel for a night of news.",
+      "language": "en",
+      "categories": [
+        "News & Documentary",
+        "News"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/e665f598-6f81-4628-84da-190ddf7f6d21/16-9"
     }
   ]
 }

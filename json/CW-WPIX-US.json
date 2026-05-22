@@ -4,42 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-23T01:00:00+05:00",
-      "stop": "2026-05-23T02:00:00+05:00",
-      "title": "PIX11 News at 4",
-      "desc": "Staying informed with the news and headlines.",
-      "date": "2021",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p20535966_b_h8_ab.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-23T02:00:00+05:00",
-      "stop": "2026-05-23T03:00:00+05:00",
-      "title": "PIX11 News at 5",
-      "desc": "Staying informed with the news and headlines.",
-      "date": "2014",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p10829683_b_h8_ab.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-23T03:00:00+05:00",
-      "stop": "2026-05-23T03:30:00+05:00",
-      "title": "PIX11 News at 6",
-      "desc": "Staying informed with the news and headlines.",
-      "date": "2015",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p11641865_b_h8_ab.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-05-23T03:30:00+05:00",
       "stop": "2026-05-23T04:00:00+05:00",
       "title": "Live: Mets Pregame",
@@ -75,6 +39,49 @@
         "Community"
       ],
       "icon": "http://dtil.tmsimg.com/assets/p31821949_st_h10_aa.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-23T07:30:00+05:00",
+      "stop": "2026-05-23T08:00:00+05:00",
+      "title": "PIX11 News at Ten",
+      "desc": "Staying informed with the news and headlines.",
+      "date": "2014",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p10829690_b_h8_ab.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-23T08:00:00+05:00",
+      "stop": "2026-05-23T08:30:00+05:00",
+      "title": "New York Nightcap",
+      "desc": "WPIX provides essential New York news, live sports, and CW network hits, serving as a cornerstone of local broadcasting for the tri-state area.",
+      "date": "2025",
+      "language": "en",
+      "categories": [
+        "Community"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p31821949_st_h10_aa.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-23T08:30:00+05:00",
+      "stop": "2026-05-23T09:30:00+05:00",
+      "title": "The American Bible Challenge",
+      "desc": "The semi-final teams compete: Chefs to the Rescue, Rhymz With Grace and Kori's Crusaders.",
+      "date": "2012",
+      "language": "en",
+      "categories": [
+        "Series",
+        "Game show"
+      ],
+      "episode": "S1 E8",
+      "icon": "http://dtil.tmsimg.com/assets/p9355734_b_h8_ac.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Jeff Foxworthy"
+        ]
+      }
     }
   ]
 }

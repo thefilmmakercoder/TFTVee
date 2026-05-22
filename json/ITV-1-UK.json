@@ -4,18 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-23T02:00:00+05:00",
-      "stop": "2026-05-23T02:30:00+05:00",
-      "title": "ITV News at Ten",
-      "desc": "ITV News provides a fresh perspective on the major stories of the day with national and international news with reports and analysis from ITV's Correspondents.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/16ee4393-79c7-4f90-894c-e4f764773134/16-9"
-    },
-    {
       "start": "2026-05-23T02:30:00+05:00",
       "stop": "2026-05-23T02:45:00+05:00",
       "title": "ITV News London",
@@ -76,6 +64,18 @@
         "Drama"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/c8fca617-05cc-4e1a-9cb1-152402711a62/16-9"
+    },
+    {
+      "start": "2026-05-23T08:45:00+05:00",
+      "stop": "2026-05-23T10:00:00+05:00",
+      "title": "Unwind with ITV",
+      "desc": "Your daily escape designed to calm the mind and encourage relaxation and reflection.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Lifestyles"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/38ca4be7-22d3-48d6-b4b6-a1710bf6549f/16-9"
     }
   ]
 }
