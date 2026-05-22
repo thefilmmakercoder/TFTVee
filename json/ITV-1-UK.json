@@ -4,18 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-22T02:30:00+05:00",
-      "stop": "2026-05-22T02:45:00+05:00",
-      "title": "ITV News London",
-      "desc": "The latest news and weather from London and the South East.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/f6f64669-c79b-4197-a7cb-6fc72b500689/16-9"
-    },
-    {
       "start": "2026-05-22T02:45:00+05:00",
       "stop": "2026-05-22T05:25:00+05:00",
       "title": "The Dark Knight Rises",
@@ -74,6 +62,18 @@
         "Lifestyles"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/1d44b2ae-33c3-465c-8c80-ddc97608e269/16-9"
+    },
+    {
+      "start": "2026-05-22T09:35:00+05:00",
+      "stop": "2026-05-22T10:00:00+05:00",
+      "title": "For the Love of Dogs with Alison Hammond",
+      "desc": "Alison meets a Bulldog with breathing problems, helps a Collie Cross get over past trauma, and meets the vets treating the dogs of people experiencing homelessness.",
+      "language": "en",
+      "categories": [
+        "News & Documentary",
+        "Nature"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/7cb6fea0-9d76-48a5-ae81-c74c77f4a60e/16-9"
     }
   ]
 }

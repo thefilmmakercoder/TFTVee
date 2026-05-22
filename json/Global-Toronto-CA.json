@@ -4,75 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-22T03:30:00+05:00",
-      "stop": "2026-05-22T04:00:00+05:00",
-      "title": "Global National",
-      "desc": "The top stories from around the world.",
-      "date": "2026",
-      "language": "en",
-      "rating": "TVG",
-      "categories": [
-        "Series",
-        "News"
-      ],
-      "episode": "E141",
-      "icon": "http://dtil.tmsimg.com/assets/p185876_b_h8_ae.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Dawna Friesen"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-22T04:00:00+05:00",
-      "stop": "2026-05-22T04:30:00+05:00",
-      "title": "The Goldbergs",
-      "sub_title": "Cocoon",
-      "desc": "Beverly enlists Erica's help to sue her cookbook publisher after finding her book in the bargain bin at a bookstore; Adam and Pops bond while taking a trip on the wild side.",
-      "date": "2021",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Series",
-        "Sitcom"
-      ],
-      "episode": "S8 E9",
-      "icon": "http://dtil.tmsimg.com/assets/p9977319_b_h8_by.jpg?w=960&h=540",
-      "credits": {
-        "director": [
-          "Christine Lakin"
-        ],
-        "actor": [
-          "Wendi McLendon-Covey",
-          "Patton Oswalt",
-          "Sean Giambrone"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-22T04:30:00+05:00",
-      "stop": "2026-05-22T05:00:00+05:00",
-      "title": "Entertainment Tonight",
-      "desc": "Stephen Colbert's final episode of \"The Late Show\"; \"Survivor\"; Utkarsh Ambudkar (\"Ghosts\"); the cast of \"The Boroughs\"; Byron Allen (\"Comics Unleashed\").",
-      "date": "2026",
-      "language": "en",
-      "rating": "M 15+",
-      "categories": [
-        "Series",
-        "Newsmagazine",
-        "Entertainment"
-      ],
-      "episode": "S45 E225",
-      "icon": "http://dtil.tmsimg.com/assets/p184256_b_h8_aa.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Kevin Frazier",
-          "Nischelle Turner",
-          "Rachel Smith"
-        ]
-      }
-    },
-    {
       "start": "2026-05-22T05:00:00+05:00",
       "stop": "2026-05-22T06:01:00+05:00",
       "title": "9-1-1",
@@ -147,6 +78,60 @@
           "Carrie Preston",
           "Wendell Pierce",
           "Carra Patterson"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-22T08:00:00+05:00",
+      "stop": "2026-05-22T08:35:00+05:00",
+      "title": "Global News at 11",
+      "desc": "Greater Toronto's top local news stories and latest weather forecast.",
+      "date": "2012",
+      "language": "en",
+      "categories": [
+        "News",
+        "Weather"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p9123089_b_h10_ab.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-22T08:35:00+05:00",
+      "stop": "2026-05-22T09:05:00+05:00",
+      "title": "Global National",
+      "desc": "The top stories from around the world.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Series",
+        "News"
+      ],
+      "episode": "E141",
+      "icon": "http://dtil.tmsimg.com/assets/p185876_b_h8_ae.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Dawna Friesen"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-22T09:05:00+05:00",
+      "stop": "2026-05-22T10:07:00+05:00",
+      "title": "The Late Show With Stephen Colbert",
+      "desc": "Celebrating the show.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Talk",
+        "Comedy"
+      ],
+      "episode": "S11 E118",
+      "icon": "http://dtil.tmsimg.com/assets/p31135627_b_h8_ab.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Stephen Colbert"
         ]
       }
     }

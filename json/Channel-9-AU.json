@@ -4,20 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-22T00:30:00+05:00",
-      "stop": "2026-05-22T04:00:00+05:00",
-      "title": "Today",
-      "sub_title": "Friday 22 May 2026",
-      "desc": "Join Karl Stefanovic and Sarah Abo and the TODAY team as they bring you the latest in news, current affairs, sports, politics, entertainment, fashion, health and lifestyle.",
-      "language": "en",
-      "rating": "NR",
-      "categories": [
-        "News"
-      ],
-      "episode": "E102",
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/100687/image/334x188"
-    },
-    {
       "start": "2026-05-22T04:00:00+05:00",
       "stop": "2026-05-22T06:30:00+05:00",
       "title": "Today Extra",
@@ -81,6 +67,20 @@
       ],
       "episode": "S10 E8",
       "icon": "https://www.fetchtv.com.au/v2/epg/program/426483/image/334x188"
+    },
+    {
+      "start": "2026-05-22T11:00:00+05:00",
+      "stop": "2026-05-22T12:00:00+05:00",
+      "title": "9News Afternoon",
+      "sub_title": "Friday 22 May 2026",
+      "desc": "Hosted by Monika Kos, this live one-hour state-wide bulletin brings viewers up-to-date with the news and debates of the day with a mix of live reports and expert chats. Your Perth, Your News.",
+      "language": "en",
+      "rating": "NR",
+      "categories": [
+        "News"
+      ],
+      "episode": "E102",
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/426775/image/334x188"
     }
   ]
 }

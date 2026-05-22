@@ -4,44 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-22T03:00:00+05:00",
-      "stop": "2026-05-22T04:00:00+05:00",
-      "title": "CityNews at 6 Toronto",
-      "desc": "Coverage of the day's top news stories.",
-      "date": "2019",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p16858124_b_h8_aa.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-22T04:00:00+05:00",
-      "stop": "2026-05-22T05:00:00+05:00",
-      "title": "The Hunting Party",
-      "sub_title": "Adrian Gallo",
-      "desc": "The team must hunt down Adrian Gallo, a serial killer who preserved his victims in acrylic resin; with such a complicated and dangerous escapee on the loose, Bex works alongside a detective from Adrian's past.",
-      "date": "2026",
-      "language": "en",
-      "rating": "TV14",
-      "categories": [
-        "Series",
-        "Crime drama"
-      ],
-      "episode": "S2 E2",
-      "icon": "http://dtil.tmsimg.com/assets/p31955486_b_h8_aa.jpg?w=960&h=540",
-      "credits": {
-        "director": [
-          "Thor Freudenthal"
-        ],
-        "actor": [
-          "Melissa Roxburgh",
-          "Nick Wechsler",
-          "Patrick Sabongui"
-        ]
-      }
-    },
-    {
       "start": "2026-05-22T05:00:00+05:00",
       "stop": "2026-05-22T06:00:00+05:00",
       "title": "Law & Order",
@@ -133,6 +95,49 @@
         "News"
       ],
       "icon": "http://dtil.tmsimg.com/assets/p16858130_b_h8_aa.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-22T08:35:00+05:00",
+      "stop": "2026-05-22T09:37:00+05:00",
+      "title": "Jimmy Kimmel Live!",
+      "desc": "Emmy-winning funnyman Jimmy Kimmel serves up comedy bits and welcomes guests that include other comics, celebrities, athletes and musicians, as well as everyday people with unusual or compelling personal stories. Kimmel's family and friends take part in the festivities, including his Cousin Sal, Uncle Frank (until his death in 2011) and childhood friend Cleto Escobedo III, who leads the show's house band. Recurring segments include the FCC-pleasing This Week in Unnecessary Censorship in which they take TV clips and \"bleep and blur things whether they need it or not,\" as Kimmel describes it. But it's too bad they consistently run out of time for Matt Damon's segment.",
+      "date": "2003",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "Talk",
+        "Comedy"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p31166959_b_h8_ac.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Jimmy Kimmel"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-22T09:37:00+05:00",
+      "stop": "2026-05-22T10:00:00+05:00",
+      "title": "Impractical Jokers",
+      "sub_title": "Customer Disservice",
+      "desc": "Joey Fatone interviews the Jokers for a fake documentary; the guys react to an overly emotional phone call for an underwhelming reason; one Joker checks out and is forced into being the world's worst grocery store employee in his punishment.",
+      "date": "2025",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "Series",
+        "Reality",
+        "Comedy"
+      ],
+      "episode": "S12 E4",
+      "icon": "http://dtil.tmsimg.com/assets/p8665621_b_h8_bb.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Brian \"Q\" Quinn",
+          "James \"Murr\" Murray",
+          "Sal Vulcano"
+        ]
+      }
     }
   ]
 }

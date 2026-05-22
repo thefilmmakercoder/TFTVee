@@ -4,18 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-22T03:40:00+05:00",
-      "stop": "2026-05-22T04:10:00+05:00",
-      "title": "Newscast",
-      "desc": "Lighthearted discussion of the day's news.",
-      "language": "en",
-      "categories": [
-        "Entertainment",
-        "Factual"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/06fae22a-35ce-4a32-86fe-3fd785b4b93a/16-9"
-    },
-    {
       "start": "2026-05-22T04:10:00+05:00",
       "stop": "2026-05-22T04:15:00+05:00",
       "title": "Weather for the Week Ahead",
@@ -73,6 +61,18 @@
         "Factual"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/c70c29c0-b698-4c7c-99bf-1b476db51246/16-9"
+    },
+    {
+      "start": "2026-05-22T15:15:00+05:00",
+      "stop": "2026-05-22T16:15:00+05:00",
+      "title": "Homes Under the Hammer",
+      "desc": "It's a labour of love for two brothers who create a wonderful home for their sister in Chesterton, while Martin is puzzled by a door leading nowhere in Plymouth.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Factual"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/1c9448cb-0000-45cb-aef2-85526668d47e/16-9"
     }
   ]
 }

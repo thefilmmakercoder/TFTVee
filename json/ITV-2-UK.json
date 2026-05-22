@@ -4,58 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-22T03:35:00+05:00",
-      "stop": "2026-05-22T04:05:00+05:00",
-      "title": "American Dad!",
-      "sub_title": "Camp Refoogee",
-      "desc": "Animated series about a CIA man who is constantly on the alert for terrorism. Stan tries to trick Steve into attending summer camp but things go badly wrong.",
-      "language": "en",
-      "categories": [
-        "Entertainment",
-        "Comedy"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/b2737947-2e50-4910-bcaa-80e6515c521a/16-9"
-    },
-    {
-      "start": "2026-05-22T04:05:00+05:00",
-      "stop": "2026-05-22T04:35:00+05:00",
-      "title": "American Dad!",
-      "sub_title": "Star Trek",
-      "desc": "Steve's book becomes a success, but after hooking up with an agent, he abandons his family to lead a celebrity lifestyle.",
-      "language": "en",
-      "categories": [
-        "Entertainment",
-        "Comedy"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/68194d57-347c-4627-b68d-7733addd9d52/16-9"
-    },
-    {
-      "start": "2026-05-22T04:35:00+05:00",
-      "stop": "2026-05-22T05:05:00+05:00",
-      "title": "Bob's Burgers",
-      "sub_title": "FOMO You Didn't",
-      "desc": "Animated comedy. Tina is torn between doing well in a photography class and cutting it to join her friends in getting slushies and hanging out in a derelict house.",
-      "language": "en",
-      "categories": [
-        "Entertainment",
-        "Animation"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/cbee6d71-25f7-4396-9733-da3cc5ec1ed3/16-9"
-    },
-    {
-      "start": "2026-05-22T05:05:00+05:00",
-      "stop": "2026-05-22T05:30:00+05:00",
-      "title": "Bob's Burgers",
-      "sub_title": "Beach, Please",
-      "desc": "Animated comedy. The Wagstaff kids are assigned clean-up duty on the beach near Wonder Wharf by Mr Frond, but they soon rebel against their unpaid labour status.",
-      "language": "en",
-      "categories": [
-        "Entertainment",
-        "Animation"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/dfb7c93b-a478-40ef-b1a4-2a74b4a9c0ae/16-9"
-    },
-    {
       "start": "2026-05-22T05:30:00+05:00",
       "stop": "2026-05-22T06:20:00+05:00",
       "title": "Deal or No Deal",
@@ -78,6 +26,57 @@
         "Lifestyles"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/f7d2acc9-4084-48f4-92d7-d69f08c05211/16-9"
+    },
+    {
+      "start": "2026-05-22T07:00:00+05:00",
+      "stop": "2026-05-22T10:00:00+05:00",
+      "title": "Teleshopping",
+      "desc": "Shopping from home.",
+      "language": "en",
+      "categories": [
+        "Specialist",
+        "Shopping"
+      ],
+      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/ITV-2-UK.png"
+    },
+    {
+      "start": "2026-05-22T10:00:00+05:00",
+      "stop": "2026-05-22T10:55:00+05:00",
+      "title": "Next Level Chef USA",
+      "sub_title": "Show Stopping Semi-Finals",
+      "desc": "American version of the reality television series. The judges challenge the remaining contestants to create a dish that will stand out and wows them.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Game Show"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/f08740d7-9463-4681-b640-8f12216648c0/16-9"
+    },
+    {
+      "start": "2026-05-22T10:55:00+05:00",
+      "stop": "2026-05-22T11:20:00+05:00",
+      "title": "Backyard Builds",
+      "sub_title": "Lara and Mike",
+      "desc": "Family of Five Funhouse: Home improvement programme. Brian and Sarah build an activity-packed play zone that comes complete with a treehouse and a recreation court.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Home"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/0131c8f9-f47b-48ec-8bb0-1a55542d56b5/16-9"
+    },
+    {
+      "start": "2026-05-22T11:20:00+05:00",
+      "stop": "2026-05-22T12:20:00+05:00",
+      "title": "Dress to Impress",
+      "sub_title": "The fashion-themed dating challenge continues",
+      "desc": "Whose style choices will impress Nate from Nottingham.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Game Show"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/34e19db4-48dc-42b4-8042-832aabd90624/16-9"
     }
   ]
 }

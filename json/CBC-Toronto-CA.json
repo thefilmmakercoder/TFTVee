@@ -4,49 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-22T03:00:00+05:00",
-      "stop": "2026-05-22T04:00:00+05:00",
-      "title": "Live: CBC Toronto News",
-      "desc": "Dwight Drummond and team take a comprehensive look at the top stories, with breaking news, reports and updates relevant to the city of Toronto.",
-      "date": "2016",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p12466091_b_h10_ac.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Dwight Drummond"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-22T04:00:00+05:00",
-      "stop": "2026-05-22T04:30:00+05:00",
-      "title": "Son of a Critch",
-      "sub_title": "Pope Visit",
-      "desc": "Mark tries to fake being healthy after falling ill the day he is supposed to meet the Pope; a rival radio station tries to tempt Mike Jr. away from VOCM, breaking Mike Sr.'s heart.",
-      "date": "2023",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Series",
-        "Sitcom"
-      ],
-      "episode": "S2 E11",
-      "icon": "http://dtil.tmsimg.com/assets/p21339232_b_h8_am.jpg?w=960&h=540",
-      "credits": {
-        "director": [
-          "John Vatcher"
-        ],
-        "actor": [
-          "Benjamin Evan Ainsworth",
-          "Mark Critch",
-          "Malcolm McDowell"
-        ]
-      }
-    },
-    {
       "start": "2026-05-22T04:30:00+05:00",
       "stop": "2026-05-22T05:00:00+05:00",
       "title": "Family Feud Canada",
@@ -111,6 +68,56 @@
         "News"
       ],
       "icon": "http://dtil.tmsimg.com/assets/p12567799_b_h10_ad.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-22T09:00:00+05:00",
+      "stop": "2026-05-22T09:30:00+05:00",
+      "title": "Coronation Street",
+      "desc": "Carl prepares to leave Weatherfield at last - but not before upsetting more residents.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Soap",
+        "Drama",
+        "Romance"
+      ],
+      "episode": "E83",
+      "icon": "http://dtil.tmsimg.com/assets/p31898227_b_h11_aa.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Suri Krishnamma"
+        ],
+        "actor": [
+          "Sally Carman-Duttine",
+          "Aaron McCusker",
+          "Sydney Martin"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-22T09:30:00+05:00",
+      "stop": "2026-05-22T10:30:00+05:00",
+      "title": "Dragons' Den",
+      "desc": "An entrepreneur serves the catch of the day to the Dragons; another company is very invested in pitching to the Dragons; a young entrepreneur shows his love for the Great White North; business partners relieve some tension in the Den.",
+      "date": "2020",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Reality",
+        "Bus./financial"
+      ],
+      "episode": "S15 E4",
+      "icon": "http://dtil.tmsimg.com/assets/p191605_b_h8_ad.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Dianne Buckner",
+          "Arlene Dickinson",
+          "Vincenzo Guzzo"
+        ]
+      }
     }
   ]
 }
