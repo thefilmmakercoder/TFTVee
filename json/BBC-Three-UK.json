@@ -4,14 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-22T07:55:00+05:00",
-      "stop": "2026-05-22T09:30:00+05:00",
-      "title": "This is BBC Three",
-      "desc": "Programmes start at 7.00pm.",
-      "language": "en",
-      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/BBC-Three-UK.png"
-    },
-    {
       "start": "2026-05-22T09:30:00+05:00",
       "stop": "2026-05-22T15:30:00+05:00",
       "title": "..programmes start at 7.00pm",
@@ -54,6 +46,18 @@
         "News"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/16265572-9e5c-46c2-b322-8236f7265b9f/16-9"
+    },
+    {
+      "start": "2026-05-22T23:05:00+05:00",
+      "stop": "2026-05-22T23:35:00+05:00",
+      "title": "Deadly 60",
+      "sub_title": "Very Hungry Hippos",
+      "desc": "Steve heads to Zambia for the first time. He hears hippo communication on a whole new level, spots a high-diving croc and meets some incredible sniffer dogs.",
+      "language": "en",
+      "categories": [
+        "Children"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/59345406-accd-38a8-a47d-b38a06c29648/16-9"
     }
   ]
 }

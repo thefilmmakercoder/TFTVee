@@ -4,19 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-22T14:30:00+05:00",
-      "stop": "2026-05-22T14:35:00+05:00",
-      "title": "NITV News Update",
-      "desc": "NITV News recaptures the highlights of Indigenous news around the country.",
-      "language": "en",
-      "rating": "NR",
-      "categories": [
-        "News"
-      ],
-      "episode": "E90",
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/5904078/image/334x188"
-    },
-    {
       "start": "2026-05-22T14:35:00+05:00",
       "stop": "2026-05-22T15:30:00+05:00",
       "title": "8 Out Of 10 Cats Does Countdown",
@@ -81,6 +68,20 @@
         "News"
       ],
       "icon": "https://www.fetchtv.com.au/v2/epg/program/413685/image/334x188"
+    },
+    {
+      "start": "2026-05-23T01:50:00+05:00",
+      "stop": "2026-05-23T02:20:00+05:00",
+      "title": "DW English News",
+      "sub_title": "Morning",
+      "desc": "News and analysis of the top international and European news and current affairs from Berlin, in English.",
+      "language": "en",
+      "rating": "NR",
+      "categories": [
+        "News"
+      ],
+      "episode": "E4012026",
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/310648/image/334x188"
     }
   ]
 }
