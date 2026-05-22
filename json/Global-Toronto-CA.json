@@ -4,118 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-22T10:23:00+05:00",
-      "stop": "2026-05-22T10:53:00+05:00",
-      "title": "Entertainment Tonight",
-      "desc": "Stephen Colbert's final episode of \"The Late Show\"; \"Survivor\"; Utkarsh Ambudkar (\"Ghosts\"); the cast of \"The Boroughs\"; Byron Allen (\"Comics Unleashed\").",
-      "date": "2026",
-      "language": "en",
-      "rating": "M 15+",
-      "categories": [
-        "Series",
-        "Newsmagazine",
-        "Entertainment"
-      ],
-      "episode": "S45 E225",
-      "icon": "http://dtil.tmsimg.com/assets/p184256_b_h8_aa.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Kevin Frazier",
-          "Nischelle Turner",
-          "Rachel Smith"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-22T10:53:00+05:00",
-      "stop": "2026-05-22T11:53:00+05:00",
-      "title": "Fire Masters",
-      "sub_title": "Flameous Last Words",
-      "desc": "Sirloin filet is on the menu in the Crossfire Round; the judges enjoy a farm to fork bounty in the Feast of Fire.",
-      "date": "2022",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Series",
-        "Competition Reality",
-        "Cooking"
-      ],
-      "episode": "S5 E5",
-      "icon": "http://dtil.tmsimg.com/assets/p15598103_b_h8_ab.jpg?w=960&h=540",
-      "credits": {
-        "director": [
-          "Frank Samson",
-          "Ryan Shaw"
-        ],
-        "actor": [
-          "Dylan Benoit"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-22T11:53:00+05:00",
-      "stop": "2026-05-22T12:53:00+05:00",
-      "title": "Masters of Flip",
-      "sub_title": "New Kids on the Block",
-      "desc": "Kortney and Dave flip a house in an up-and-coming neighborhood; Will an open concept design plan and a neutral color scheme be enough to attract the perfect buyer.",
-      "date": "2016",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Series",
-        "Reality",
-        "House/garden",
-        "Home improvement"
-      ],
-      "episode": "S2 E8",
-      "icon": "http://dtil.tmsimg.com/assets/p11680488_b_h10_at.jpg?w=960&h=540",
-      "credits": {
-        "director": [
-          "James Wilkes"
-        ],
-        "actor": [
-          "Kortney Wilson",
-          "Dave Wilson"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-22T12:53:00+05:00",
-      "stop": "2026-05-22T13:53:00+05:00",
-      "title": "Big Brother Canada",
-      "desc": "With an HOH in place, the houseguests face nomination for eviction.",
-      "date": "2023",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Series",
-        "Competition Reality"
-      ],
-      "episode": "S11 E12",
-      "icon": "http://dtil.tmsimg.com/assets/p24156817_b_h8_aa.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Arisa Cox",
-          "Amal Bashir",
-          "Anika Mysha"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-22T13:53:00+05:00",
-      "stop": "2026-05-22T14:00:00+05:00",
-      "title": "SIGN OFF",
-      "desc": "Sign off.",
-      "date": "2005",
-      "language": "en",
-      "rating": "TVG",
-      "categories": [
-        "Special",
-        "Entertainment"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p480440_b_h8_bw.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-05-22T14:00:00+05:00",
       "stop": "2026-05-22T14:30:00+05:00",
       "title": "Life Today With James Robison",
@@ -136,6 +24,100 @@
           "James Robison",
           "Betty Robison",
           "Sheila Walsh"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-22T14:30:00+05:00",
+      "stop": "2026-05-22T15:00:00+05:00",
+      "title": "Paid Programming",
+      "desc": "Paid programming.",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Consumer",
+        "Shopping",
+        "Variety"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-22T15:00:00+05:00",
+      "stop": "2026-05-22T18:00:00+05:00",
+      "title": "Global News Morning",
+      "desc": "Greater Toronto's top local news stories and latest weather forecast to start your day.",
+      "date": "2019",
+      "language": "en",
+      "categories": [
+        "News",
+        "Weather"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p16568475_b_h10_ad.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-22T18:00:00+05:00",
+      "stop": "2026-05-22T19:00:00+05:00",
+      "title": "The Morning Show",
+      "desc": "Viewers from across the country are welcomed in for an hour of smart conversation, lifestyle segments, big-name guests and live performances.",
+      "date": "2011",
+      "language": "en",
+      "categories": [
+        "News",
+        "Interview"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p8861345_b_h8_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Carolyn Mackenzie",
+          "Jeff McArthur",
+          "Liem Vu"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-22T19:00:00+05:00",
+      "stop": "2026-05-22T20:00:00+05:00",
+      "title": "Tamron Hall",
+      "sub_title": "What's Hot This Summer",
+      "desc": "Actress Keke Palmer and director Boots Riley (\"I Love Boosters\"); Keke performs \"2-D\"; author Emma Straub (\"American Fantasy\").",
+      "date": "2026",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Talk"
+      ],
+      "episode": "S7 E170",
+      "icon": "http://dtil.tmsimg.com/assets/p17197549_b_h8_af.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Tamron Hall",
+          "Keke Palmer",
+          "Boots Riley"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-22T20:00:00+05:00",
+      "stop": "2026-05-22T21:00:00+05:00",
+      "title": "Property Brothers: Forever Home",
+      "sub_title": "Chris & Aliya",
+      "desc": "After 15 years of memories in their cozy home, this family can't imagine living anywhere else; with only two bedrooms for five people and limited storage, Drew and Jonathan arrive to revamp the space so they can stay in the home they love.",
+      "date": "2021",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Series",
+        "Reality",
+        "House/garden",
+        "Home improvement"
+      ],
+      "episode": "S6 E3",
+      "icon": "http://dtil.tmsimg.com/assets/p16607789_b_h8_bg.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Jonathan Scott",
+          "Drew Scott"
         ]
       }
     }
