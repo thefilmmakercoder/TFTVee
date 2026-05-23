@@ -4,42 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-23T17:10:00+05:00",
-      "stop": "2026-05-23T17:15:00+05:00",
-      "title": "Weather",
-      "desc": "The latest weather forecast.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/d08ccdad-e825-43ab-ad64-a7336aab0bfb/16-9"
-    },
-    {
-      "start": "2026-05-23T17:15:00+05:00",
-      "stop": "2026-05-23T18:00:00+05:00",
-      "title": "Bargain Hunt",
-      "desc": "Natasha Raskin Sharp is in Nottinghamshire with experts Ben Cooper and Izzie Balmer.",
-      "language": "en",
-      "categories": [
-        "Entertainment",
-        "Game Show"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/38d42de9-f5cd-410e-86da-1a6ea80cdfb0/16-9"
-    },
-    {
-      "start": "2026-05-23T18:00:00+05:00",
-      "stop": "2026-05-23T18:40:00+05:00",
-      "title": "Escape to the Country",
-      "desc": "Briony May Williams helps a couple find their first home together in rural Herefordshire.",
-      "language": "en",
-      "categories": [
-        "Entertainment",
-        "Gradening"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/e01b4a4c-db83-4357-a102-7e2d7ade8da6/16-9"
-    },
-    {
       "start": "2026-05-23T18:40:00+05:00",
       "stop": "2026-05-23T19:40:00+05:00",
       "title": "Money for Nothing",
@@ -73,6 +37,42 @@
         "Children"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/91eede9d-c4c3-45ea-a2bc-bad71f94f32d/16-9"
+    },
+    {
+      "start": "2026-05-23T21:30:00+05:00",
+      "stop": "2026-05-23T22:15:00+05:00",
+      "title": "Celebrity Bridge of Lies",
+      "desc": "Joe Marler, Jennie McAlpine, Geoff Norcott and Jean Johannson face the Bridge of Lies.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Game Show"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/946210f4-02fe-44c4-aa76-469c94190485/16-9"
+    },
+    {
+      "start": "2026-05-23T22:15:00+05:00",
+      "stop": "2026-05-23T22:25:00+05:00",
+      "title": "BBC News",
+      "desc": "The latest national and international news from the BBC.",
+      "language": "en",
+      "categories": [
+        "News & Documentary",
+        "News"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/2f7b59b8-ef7e-4f7d-8043-7587fb63262a/16-9"
+    },
+    {
+      "start": "2026-05-23T22:25:00+05:00",
+      "stop": "2026-05-23T22:30:00+05:00",
+      "title": "BBC London News",
+      "desc": "The latest news, sport and weather from London.",
+      "language": "en",
+      "categories": [
+        "News & Documentary",
+        "News"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/9795e967-e4d8-4212-876c-058b5fbf3131/16-9"
     }
   ]
 }

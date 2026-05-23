@@ -4,42 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-23T15:00:00+05:00",
-      "stop": "2026-05-23T17:00:00+05:00",
-      "title": "Eyewitness News This Morning",
-      "desc": "News coverage to start the day.",
-      "date": "2007",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p677214_b_h8_ad.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-23T17:00:00+05:00",
-      "stop": "2026-05-23T18:00:00+05:00",
-      "title": "Good Morning America",
-      "desc": "Early morning news and entertainment program that covers important issues with key figures from around the world and a wide spectrum of topics, including medicine, finance, consumer issues, computer technology, education and gardening.",
-      "date": "2026",
-      "language": "en",
-      "categories": [
-        "Series",
-        "Talk",
-        "News",
-        "Variety",
-        "Public affairs"
-      ],
-      "episode": "E163",
-      "icon": "http://dtil.tmsimg.com/assets/p31385280_b_h10_aa.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Whit Johnson",
-          "Janai Norman",
-          "Gio Benitez"
-        ]
-      }
-    },
-    {
       "start": "2026-05-23T18:00:00+05:00",
       "stop": "2026-05-23T19:00:00+05:00",
       "title": "Eyewitness News This Morning",
@@ -120,6 +84,42 @@
           "Alfonso Ribeiro"
         ]
       }
+    },
+    {
+      "start": "2026-05-23T21:00:00+05:00",
+      "stop": "2026-05-23T21:30:00+05:00",
+      "title": "Hearts of Heroes",
+      "sub_title": "Ridge to Rapids",
+      "desc": "Multiple agencies launch a grueling, multi day rescue after two hikers fall hundreds of feet down a rugged mountainside; firefighters use quick thinking and relentless teamwork to save an iconic elementary school and community center as catastrophic flooding threatens to wash it away.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Series",
+        "Reality",
+        "Nature",
+        "Science"
+      ],
+      "episode": "S7 E26",
+      "icon": "http://dtil.tmsimg.com/assets/p16722748_b_h10_ac.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Ginger Zee"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-23T21:30:00+05:00",
+      "stop": "2026-05-24T00:00:00+05:00",
+      "title": "Live: College Softball",
+      "desc": "Action from women's college softball.",
+      "language": "en",
+      "categories": [
+        "Sports",
+        "Playoff sports",
+        "Softball"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p191266_b_h10_ab.jpg?w=960&h=540"
     }
   ]
 }

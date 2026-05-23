@@ -4,54 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-23T17:00:00+05:00",
-      "stop": "2026-05-23T17:30:00+05:00",
-      "title": "Private Islands",
-      "sub_title": "Six Senses Laamu",
-      "desc": "Six Senses Laamu is the only resort on the Laamu Atoll in the Indian Ocean; with clear turquoise waters, it's a place where dreams come true.",
-      "date": "2019",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Series",
-        "Travel"
-      ],
-      "episode": "S3 E49",
-      "icon": "http://dtil.tmsimg.com/assets/p865073_b_h10_ab.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-23T17:30:00+05:00",
-      "stop": "2026-05-23T18:00:00+05:00",
-      "title": "Behind the Gates",
-      "sub_title": "Malibu's Finest",
-      "desc": "A mountain top architectural gem that has served as the backdrop of multiple movies and TV shows.",
-      "date": "2017",
-      "language": "en",
-      "rating": "TVG",
-      "categories": [
-        "Series",
-        "Travel",
-        "House/garden"
-      ],
-      "episode": "S3 E26",
-      "icon": "http://dtil.tmsimg.com/assets/p13227213_b_h10_ab.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-23T18:00:00+05:00",
-      "stop": "2026-05-23T18:30:00+05:00",
-      "title": "Travel Thru History",
-      "sub_title": "Oslo",
-      "desc": "The Akershus Fortress; the Fram Museum; the Viking Ship Museum; the Kon-Tiki Museum.",
-      "language": "en",
-      "categories": [
-        "Series",
-        "Travel",
-        "History"
-      ],
-      "episode": "S3 E3",
-      "icon": "http://dtil.tmsimg.com/assets/p9459138_b_h10_ab.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-05-23T18:30:00+05:00",
       "stop": "2026-05-23T19:30:00+05:00",
       "title": "Dream Cruises",
@@ -99,6 +51,61 @@
       ],
       "episode": "S1 E25",
       "icon": "http://dtil.tmsimg.com/assets/p14589458_b_h10_aa.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-23T20:30:00+05:00",
+      "stop": "2026-05-23T21:00:00+05:00",
+      "title": "Tasting America",
+      "sub_title": "America Cuisine in Phoenix",
+      "desc": "An exploration of American cuisine at three really cool restaurants in the Phoenix desert.",
+      "date": "2018",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Series",
+        "Travel"
+      ],
+      "episode": "S1 E8",
+      "icon": "http://dtil.tmsimg.com/assets/p14589435_b_h10_aa.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-23T21:00:00+05:00",
+      "stop": "2026-05-23T21:30:00+05:00",
+      "title": "Private Islands",
+      "sub_title": "Six Senses Laamu",
+      "desc": "Six Senses Laamu is the only resort on the Laamu Atoll in the Indian Ocean; with clear turquoise waters, it's a place where dreams come true.",
+      "date": "2019",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Travel"
+      ],
+      "episode": "S3 E49",
+      "icon": "http://dtil.tmsimg.com/assets/p865073_b_h10_ab.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-23T21:30:00+05:00",
+      "stop": "2026-05-23T22:00:00+05:00",
+      "title": "Distant Shores",
+      "sub_title": "Bahamas",
+      "desc": "Paul and Sheryl Shard are on a diverse voyage from England through the inland waterways of France to the Mediterranean Sea, an Atlantic crossing and island-hopping in the Caribbean aboard their 49-foot sailboat, Distant Shores II.",
+      "date": "2020",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Series",
+        "Outdoors",
+        "Nature",
+        "Travel"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p13175257_b_h10_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Sheryl Shard",
+          "Paul Shard"
+        ]
+      }
     }
   ]
 }

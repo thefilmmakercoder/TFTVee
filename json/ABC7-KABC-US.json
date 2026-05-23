@@ -4,42 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-23T16:00:00+05:00",
-      "stop": "2026-05-23T17:00:00+05:00",
-      "title": "Good Morning America",
-      "desc": "Early morning news and entertainment program that covers important issues with key figures from around the world and a wide spectrum of topics, including medicine, finance, consumer issues, computer technology, education and gardening.",
-      "date": "2026",
-      "language": "en",
-      "categories": [
-        "Series",
-        "Talk",
-        "News",
-        "Variety",
-        "Public affairs"
-      ],
-      "episode": "E163",
-      "icon": "http://dtil.tmsimg.com/assets/p31385280_b_h10_aa.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Whit Johnson",
-          "Janai Norman",
-          "Gio Benitez"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-23T17:00:00+05:00",
-      "stop": "2026-05-23T18:00:00+05:00",
-      "title": "Eyewitness News 5AM",
-      "desc": "News coverage to start the day.",
-      "date": "2004",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p676994_b_h8_af.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-05-23T18:00:00+05:00",
       "stop": "2026-05-23T19:00:00+05:00",
       "title": "Eyewitness News 6AM",
@@ -98,6 +62,31 @@
         "News"
       ],
       "icon": "http://dtil.tmsimg.com/assets/p9133057_b_h10_ab.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-23T21:30:00+05:00",
+      "stop": "2026-05-24T00:00:00+05:00",
+      "title": "Live: College Softball",
+      "desc": "Action from women's college softball.",
+      "language": "en",
+      "categories": [
+        "Sports",
+        "Playoff sports",
+        "Softball"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p191266_b_h10_ab.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-24T00:00:00+05:00",
+      "stop": "2026-05-24T03:00:00+05:00",
+      "title": "Live: United Football League",
+      "desc": "The Columbus Aviators host the Birmingham Stallions for a UFL clash at Historic Crew Stadium. Birmingham secured a 14-3 victory over Columbus during their May game as Stallions running back Snoop Conner enters with three rushing touchdowns.",
+      "language": "en",
+      "categories": [
+        "Sports",
+        "Football"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/GNLZZGG0033S6FF.jpg?w=960&h=540"
     }
   ]
 }
