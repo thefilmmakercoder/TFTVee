@@ -4,18 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-23T23:20:00+05:00",
-      "stop": "2026-05-23T23:25:00+05:00",
-      "title": "FYI Daily",
-      "desc": "Latest news from the world of entertainment.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "Showbiz"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/ec1ad1af-64b8-430b-b715-d53d04543723/16-9"
-    },
-    {
       "start": "2026-05-23T23:25:00+05:00",
       "stop": "2026-05-24T01:00:00+05:00",
       "title": "Nevada Smith",
@@ -74,6 +62,18 @@
         "Wrestling"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/92e0e9cc-170a-4b2b-b008-13b2d7ca8ad0/16-9"
+    },
+    {
+      "start": "2026-05-24T05:15:00+05:00",
+      "stop": "2026-05-24T06:15:00+05:00",
+      "title": "All Elite Wrestling: Collision",
+      "desc": "Hard-hitting action from AEW's newest show, featuring stars including Kyle Fletcher, Kazuchika Okada, Megan Bayne, Tommaso Ciampa and Claudio Castagnoli.",
+      "language": "en",
+      "categories": [
+        "Sports",
+        "Wrestling"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/f0916c0a-1e97-49dd-bdc7-58f91f569bac/16-9"
     }
   ]
 }

@@ -4,34 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-23T20:00:00+05:00",
-      "stop": "2026-05-23T22:30:00+05:00",
-      "title": "Pride and Prejudice",
-      "sub_title": "Episode 1",
-      "desc": "When Mr. Bingley moves into the neighborhood, Mrs. Bennet looks to marry off one of her five daughters.",
-      "date": "1995",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Series",
-        "Drama",
-        "Historical drama",
-        "Miniseries"
-      ],
-      "episode": "S1 E1 P1/6",
-      "icon": "http://dtil.tmsimg.com/assets/p468777_b_h8_af.jpg?w=960&h=540",
-      "credits": {
-        "director": [
-          "Simon Langton"
-        ],
-        "actor": [
-          "Colin Firth",
-          "Jennifer Ehle",
-          "Crispin Bonham-Carter"
-        ]
-      }
-    },
-    {
       "start": "2026-05-23T22:30:00+05:00",
       "stop": "2026-05-24T00:30:00+05:00",
       "title": "Pride and Prejudice",
@@ -139,6 +111,25 @@
         "Entertainment"
       ],
       "icon": "http://dtil.tmsimg.com/assets/p32127313_b_h10_aa.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-24T05:30:00+05:00",
+      "stop": "2026-05-24T06:00:00+05:00",
+      "title": "Horizons From PBS News",
+      "desc": "Science, health, technology and environment experts and professionals address issues such as artificial intelligence, medicine and climate science.",
+      "date": "2026",
+      "language": "en",
+      "categories": [
+        "Series",
+        "Public affairs"
+      ],
+      "episode": "S1 E19",
+      "icon": "http://dtil.tmsimg.com/assets/p31977011_b_h8_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "William Brangham"
+        ]
+      }
     }
   ]
 }

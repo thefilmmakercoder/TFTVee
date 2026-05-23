@@ -4,43 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-23T23:30:00+05:00",
-      "stop": "2026-05-24T00:00:00+05:00",
-      "title": "George to the Rescue",
-      "desc": "George Oliphant comes to the rescue of families in need of renovating their homes.",
-      "date": "2010",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "House/garden"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p29553512_b_h10_aa.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "George Oliphant"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-24T00:00:00+05:00",
-      "stop": "2026-05-24T00:30:00+05:00",
-      "title": "Open House NYC",
-      "desc": "Host Sara Gore presents a guide to upscale real estate in and around the Big Apple. In addition to a look at the hottest homes on the market, the show also provides interior design tips from specialists and a wealth of information on renovation and stylish living.",
-      "date": "2007",
-      "language": "en",
-      "rating": "TVG",
-      "categories": [
-        "House/garden",
-        "Home improvement"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p841103_b_h8_ac.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Sara Gore"
-        ]
-      }
-    },
-    {
       "start": "2026-05-24T00:30:00+05:00",
       "stop": "2026-05-24T01:00:00+05:00",
       "title": "Open House NYC",
@@ -96,6 +59,39 @@
         "News"
       ],
       "icon": "http://dtil.tmsimg.com/assets/p10760861_b_h10_aa.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-24T03:30:00+05:00",
+      "stop": "2026-05-24T04:00:00+05:00",
+      "title": "NBC Nightly News With Tom Llamas",
+      "desc": "Tom Llamas anchors the latest news, going beyond the headlines to see how lives are affected by the world around them.",
+      "date": "2026",
+      "language": "en",
+      "categories": [
+        "Series",
+        "News"
+      ],
+      "episode": "S2 E133",
+      "icon": "http://dtil.tmsimg.com/assets/p30141511_b_h8_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Tom Llamas"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-24T04:00:00+05:00",
+      "stop": "2026-05-24T04:30:00+05:00",
+      "title": "Paid Programming",
+      "desc": "Paid programming.",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Consumer",
+        "Shopping",
+        "Variety"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&h=540"
     }
   ]
 }

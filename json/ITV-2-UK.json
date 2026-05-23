@@ -4,18 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-23T23:35:00+05:00",
-      "stop": "2026-05-23T23:40:00+05:00",
-      "title": "FYI Daily",
-      "desc": "Latest news from the world of entertainment.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "Showbiz"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/33970e67-7bf2-4016-8720-a2fbb3027693/16-9"
-    },
-    {
       "start": "2026-05-23T23:40:00+05:00",
       "stop": "2026-05-24T01:00:00+05:00",
       "title": "Indiana Jones and the Kingdom of the Crystal Skull",
@@ -75,6 +63,19 @@
         "Comedy"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/439b49bc-52ad-468f-be60-0cf075be9a6e/16-9"
+    },
+    {
+      "start": "2026-05-24T03:35:00+05:00",
+      "stop": "2026-05-24T04:05:00+05:00",
+      "title": "Family Guy",
+      "sub_title": "Running Mates",
+      "desc": "Animated comedy about the trials and tribulations of family life. Peter and Lois become political opponents in their bid to become the new school board president.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Comedy"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/746545ec-1d4a-492c-8e06-fe70379ac909/16-9"
     }
   ]
 }
