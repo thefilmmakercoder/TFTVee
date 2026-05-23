@@ -4,30 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-24T00:45:00+05:00",
-      "stop": "2026-05-24T01:00:00+05:00",
-      "title": "Debrief",
-      "desc": "DEBRIEF is a weekly show that delivers the most important news and stories from the week in a concise format.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/2984c6e8-3f63-41cd-823d-22df4d1c49a4/16-9"
-    },
-    {
-      "start": "2026-05-24T01:00:00+05:00",
-      "stop": "2026-05-24T01:30:00+05:00",
-      "title": "News",
-      "desc": "TRT World brings the latest news from around the globe, when it happens.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/c6095d8e-b54c-44ea-b9a0-bc9d42cc2f87/16-9"
-    },
-    {
       "start": "2026-05-24T01:30:00+05:00",
       "stop": "2026-05-24T02:00:00+05:00",
       "title": "Where To Next",
@@ -74,6 +50,29 @@
         "Transport"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/5447e374-c381-3694-89dd-b1ce00ccd877/16-9"
+    },
+    {
+      "start": "2026-05-24T04:00:00+05:00",
+      "stop": "2026-05-24T04:30:00+05:00",
+      "title": "News",
+      "desc": "TRT World brings the latest news from around the globe, when it happens.",
+      "language": "en",
+      "categories": [
+        "News & Documentary",
+        "News"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/609a6125-5620-45cd-a6d1-43c6cca34119/16-9"
+    },
+    {
+      "start": "2026-05-24T04:30:00+05:00",
+      "stop": "2026-05-24T04:45:00+05:00",
+      "title": "Scoreline",
+      "desc": "Do you need a fast-paced and punchy show to cover all the weekend's sport action? TRT World's Scoreline is your programme on Saturday and Sundays.",
+      "language": "en",
+      "categories": [
+        "Sports"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/95a6d656-6f0b-4b87-b9f1-6c3d29bc8dbf/16-9"
     }
   ]
 }

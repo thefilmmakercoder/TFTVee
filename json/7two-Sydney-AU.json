@@ -4,18 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-24T00:30:00+05:00",
-      "stop": "2026-05-24T01:00:00+05:00",
-      "title": "TBA",
-      "desc": "TBA.",
-      "language": "en",
-      "rating": "NR",
-      "categories": [
-        "News"
-      ],
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/3647443/image/334x188"
-    },
-    {
       "start": "2026-05-24T01:00:00+05:00",
       "stop": "2026-05-24T02:00:00+05:00",
       "title": "House Calls To The Rescue",
@@ -78,6 +66,19 @@
         "News"
       ],
       "icon": "https://www.fetchtv.com.au/v2/epg/program/3647443/image/334x188"
+    },
+    {
+      "start": "2026-05-24T04:00:00+05:00",
+      "stop": "2026-05-24T05:00:00+05:00",
+      "title": "House Of Wellness",
+      "desc": "From raising your kids, to staying fit, ageing gracefully, and the A to Z of every vitamin under the sun, The House of Wellness is designed with one thing in mind - to help you live well.",
+      "language": "en",
+      "rating": "PG",
+      "categories": [
+        "Special Interest"
+      ],
+      "episode": "S3 E8",
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/363692/image/334x188"
     }
   ]
 }

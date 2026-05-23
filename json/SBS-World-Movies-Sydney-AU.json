@@ -4,19 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-23T23:50:00+05:00",
-      "stop": "2026-05-24T00:25:00+05:00",
-      "title": "The Movie Show",
-      "desc": "Enjoy these classic episodes of The Movie Show with living legends, Margaret Pomeranz and David Stratton, as they review the latest crop of movies and give us their rating out of 5-stars.",
-      "language": "en",
-      "rating": "M",
-      "categories": [
-        "Special Interest"
-      ],
-      "episode": "E26",
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/130483/image/334x188"
-    },
-    {
       "start": "2026-05-24T00:25:00+05:00",
       "stop": "2026-05-24T02:20:00+05:00",
       "title": "The Ideal Palace",
@@ -75,6 +62,18 @@
         "Comedy"
       ],
       "icon": "https://www.fetchtv.com.au/v2/epg/program/139454/image/334x188"
+    },
+    {
+      "start": "2026-05-24T09:30:00+05:00",
+      "stop": "2026-05-24T11:20:00+05:00",
+      "title": "The Secret Garden",
+      "desc": "When Mary Lennox's parents suddenly die, she is sent to live with her uncle, Archibald Craven, on his remote country estate deep in the Yorkshire moors. While exploring, she discovers a hidden magical garden.",
+      "language": "en",
+      "rating": "PG",
+      "categories": [
+        "Drama"
+      ],
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/403878/image/334x188"
     }
   ]
 }
