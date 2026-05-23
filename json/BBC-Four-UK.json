@@ -4,42 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-23T05:45:00+05:00",
-      "stop": "2026-05-23T06:20:00+05:00",
-      "title": "TOTP: 1986",
-      "desc": "Gary Davies and Peter Powell present the pop chart programme, first broadcast on 22 May 1986. Featuring Jaki Graham, Billy Ocean, Simply Red and Spitting Image.",
-      "language": "en",
-      "categories": [
-        "Music & Radio",
-        "Rock&Pop"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/4d277cb6-84b6-4993-b728-5ce687f94dc0/16-9"
-    },
-    {
-      "start": "2026-05-23T06:20:00+05:00",
-      "stop": "2026-05-23T06:50:00+05:00",
-      "title": "TOTP: 1991",
-      "desc": "Gary Davies presents the pop chart programme, first broadcast on 23 May 1991 and featuring T'Pau, Simple Minds and Deacon Blue.",
-      "language": "en",
-      "categories": [
-        "Music & Radio",
-        "Rock&Pop"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/eb0e7e09-2632-46d5-9cf1-85d4753a006c/16-9"
-    },
-    {
-      "start": "2026-05-23T06:50:00+05:00",
-      "stop": "2026-05-23T07:50:00+05:00",
-      "title": "...Sings Dylan II",
-      "desc": "Cover versions of Bob Dylan songs from the BBC archives, with Joan Baez, Siouxsie and the Banshees, The Hollies, Adele, Julie Felix, Richie Havens, Bryan Ferry and KT Tunstall.",
-      "language": "en",
-      "categories": [
-        "Music & Radio",
-        "Rock&Pop"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/e7b611ab-aa11-43e9-874b-6b268cc852d2/16-9"
-    },
-    {
       "start": "2026-05-23T07:50:00+05:00",
       "stop": "2026-05-23T09:30:00+05:00",
       "title": "This is BBC Four",
@@ -62,6 +26,34 @@
       "desc": "BBC Four provides an intelligent mix of arts, science, and history programming, offering deep-dive documentaries and world cinema for a curious audience.",
       "language": "en",
       "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/BBC-Four-UK.png"
+    },
+    {
+      "start": "2026-05-23T21:30:00+05:00",
+      "stop": "2026-05-23T22:58:00+05:00",
+      "title": "..programmes start at 7.00pm",
+      "desc": "BBC Four provides an intelligent mix of arts, science, and history programming, offering deep-dive documentaries and world cinema for a curious audience.",
+      "language": "en",
+      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/BBC-Four-UK.png"
+    },
+    {
+      "start": "2026-05-23T22:58:00+05:00",
+      "stop": "2026-05-23T23:00:00+05:00",
+      "title": "This is BBC Four",
+      "desc": "Programmes start at 7.00pm.",
+      "language": "en",
+      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/BBC-Four-UK.png"
+    },
+    {
+      "start": "2026-05-23T23:00:00+05:00",
+      "stop": "2026-05-23T23:45:00+05:00",
+      "title": "The Good Old Days",
+      "desc": "Leonard Sachs presents an edition of the old time music hall programme, from 24 February 1977. With Larry Grayson, Fenella Fielding, Hinge and Bracket, and Anna Sharkey.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Game Show"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/6e70834d-dd5c-4e2a-bb8b-68b2fc428f48/16-9"
     }
   ]
 }
