@@ -4,14 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-23T09:30:00+05:00",
-      "stop": "2026-05-23T15:30:00+05:00",
-      "title": "..programmes start at 7.00pm",
-      "desc": "BBC Four provides an intelligent mix of arts, science, and history programming, offering deep-dive documentaries and world cinema for a curious audience.",
-      "language": "en",
-      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/BBC-Four-UK.png"
-    },
-    {
       "start": "2026-05-23T15:30:00+05:00",
       "stop": "2026-05-23T21:30:00+05:00",
       "title": "..programmes start at 7.00pm",
@@ -58,6 +50,18 @@
         "Game Show"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/c6e4bd52-7eae-42c9-bb09-0666ee0b01c4/16-9"
+    },
+    {
+      "start": "2026-05-24T00:10:00+05:00",
+      "stop": "2026-05-24T01:00:00+05:00",
+      "title": "Hetty Wainthropp Investigates",
+      "desc": "Drama series about a 60-year-old private detective. Hetty is in hospital - an unlikely place to find her most urgent case yet.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Detective"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/e31b1475-42fe-4fde-a601-5998bca26ad4/16-9"
     }
   ]
 }

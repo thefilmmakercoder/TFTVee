@@ -4,25 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-23T20:51:00+05:00",
-      "stop": "2026-05-23T21:00:00+05:00",
-      "title": "The Jeremy and Jazzy Show",
-      "sub_title": "Get Ready for Bed",
-      "desc": "How do you get ready for bed? Jeremy, Jazzy, Stu, and Tunebug share their bedtime routine.",
-      "date": "2026",
-      "language": "en",
-      "rating": "TVG",
-      "categories": [
-        "Series",
-        "Animated",
-        "Children",
-        "Educational",
-        "Music"
-      ],
-      "episode": "E12",
-      "icon": "http://dtil.tmsimg.com/assets/p31189749_b_h8_aa.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-05-23T21:00:00+05:00",
       "stop": "2026-05-23T22:00:00+05:00",
       "title": "The Dog Academy",
@@ -116,6 +97,23 @@
         "Track/field"
       ],
       "icon": "http://dtil.tmsimg.com/assets/p516702_b_h10_af.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-24T03:00:00+05:00",
+      "stop": "2026-05-24T03:30:00+05:00",
+      "title": "Live: CBC Ontario News",
+      "desc": "A comprehensive look at the day's top stories.",
+      "date": "2020",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p18135178_b_h8_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Dwight Drummond"
+        ]
+      }
     }
   ]
 }

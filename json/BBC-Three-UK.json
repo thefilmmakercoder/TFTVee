@@ -4,14 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-23T09:30:00+05:00",
-      "stop": "2026-05-23T15:30:00+05:00",
-      "title": "..programmes start at 7.00pm",
-      "desc": "BBC Three delivers bold and provocative content for younger audiences, featuring groundbreaking documentaries, experimental comedy, and fresh drama.",
-      "language": "en",
-      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/BBC-Three-UK.png"
-    },
-    {
       "start": "2026-05-23T15:30:00+05:00",
       "stop": "2026-05-23T21:30:00+05:00",
       "title": "..programmes start at 7.00pm",
@@ -58,6 +50,18 @@
         "Sci-Fi"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/04323b9d-8a51-402c-8fe9-29a607cec511/16-9"
+    },
+    {
+      "start": "2026-05-24T00:30:00+05:00",
+      "stop": "2026-05-24T01:00:00+05:00",
+      "title": "Miranda",
+      "desc": "Sitcom. Miranda has been at home eating biscuits and watching TV since Gary left. But when Stevie persuades her to move on, Miranda tries to reinvent herself entirely.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Comedy"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/866c6b8e-c22d-4809-91b8-eb06fef0bbaf/16-9"
     }
   ]
 }
