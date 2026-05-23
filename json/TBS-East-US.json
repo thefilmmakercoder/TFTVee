@@ -4,33 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-23T07:00:00+05:00",
-      "stop": "2026-05-23T09:45:00+05:00",
-      "title": "Jurassic Park",
-      "desc": "In Steven Spielberg's massive blockbuster, paleontologists Alan Grant (Sam Neill) and Ellie Sattler (Laura Dern) and mathematician Ian Malcolm (Jeff Goldblum) are among a select group chosen to tour an island theme park populated by dinosaurs created from prehistoric DNA. While the park's mastermind, billionaire John Hammond (Richard Attenborough), assures everyone that the facility is safe, they find out otherwise when various ferocious predators break free and go on the hunt.",
-      "date": "1993",
-      "language": "en",
-      "rating": "PG-13",
-      "categories": [
-        "Movie",
-        "Adventure",
-        "Action",
-        "Science fiction",
-        "Thriller"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p14812_v_h8_af.jpg?w=960&h=540",
-      "credits": {
-        "director": [
-          "Steven Spielberg"
-        ],
-        "actor": [
-          "Sam Neill",
-          "Laura Dern",
-          "Jeff Goldblum"
-        ]
-      }
-    },
-    {
       "start": "2026-05-23T09:45:00+05:00",
       "stop": "2026-05-23T12:15:00+05:00",
       "title": "Jurassic World: Fallen Kingdom",
@@ -150,6 +123,33 @@
           "Rainn Wilson",
           "John Krasinski",
           "Jenna Fischer"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-23T16:30:00+05:00",
+      "stop": "2026-05-23T17:00:00+05:00",
+      "title": "The Office",
+      "sub_title": "Pilot",
+      "desc": "When a documentary crew comes to Dunder Mifflin to learn about modern management, manager Michael Scott tries to paint a happy picture of his domain, but his jokes keep falling flat.",
+      "date": "2005",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "Series",
+        "Sitcom",
+        "Comedy"
+      ],
+      "episode": "S1 E1",
+      "icon": "http://dtil.tmsimg.com/assets/p185008_b_h8_at.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Ken Kwapis"
+        ],
+        "actor": [
+          "Steve Carell",
+          "Jenna Fischer",
+          "John Krasinski"
         ]
       }
     }
