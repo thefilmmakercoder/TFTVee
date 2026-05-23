@@ -4,41 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-23T02:30:00+05:00",
-      "stop": "2026-05-23T03:00:00+05:00",
-      "title": "Newsnight, followed by Weather",
-      "desc": "Insights and global interviews on the crucial news stories of the day. With Matt Chorley. Followed by Weather.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/cb2c7367-934a-4145-b0e8-e1e49658f3f8/16-9"
-    },
-    {
-      "start": "2026-05-23T03:00:00+05:00",
-      "stop": "2026-05-23T04:30:00+05:00",
-      "title": "And Now for Something Completely Different",
-      "desc": "Including Nudge Nudge, Hell's Grannies, Killer Cars, Dead Parrot and Blackmail. Contains adult humour.",
-      "language": "en",
-      "categories": [
-        "Movie"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/829b50ad-2c47-431d-902f-f1e35a360fcd/16-9"
-    },
-    {
-      "start": "2026-05-23T04:30:00+05:00",
-      "stop": "2026-05-23T05:00:00+05:00",
-      "title": "The Dark Side of Married at First Sight - Panorama",
-      "desc": "Noor Nanji speaks to women who allege sexual misconduct by their former on-screen husbands. Contains some scenes which some viewers may find upsetting.",
-      "language": "en",
-      "categories": [
-        "Entertainment",
-        "Factual"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/c8276c59-f13b-436b-8aa0-8cefc9b03e76/16-9"
-    },
-    {
       "start": "2026-05-23T05:00:00+05:00",
       "stop": "2026-05-23T06:00:00+05:00",
       "title": "MasterChef",
@@ -72,6 +37,38 @@
         "Game Show"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/02fee1b3-da49-46d2-bf9a-b2327e4e3f89/16-9"
+    },
+    {
+      "start": "2026-05-23T07:30:00+05:00",
+      "stop": "2026-05-23T10:30:00+05:00",
+      "title": "This is BBC Two",
+      "desc": "Highlights of programmes on BBC Two.",
+      "language": "en",
+      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/BBC-Two-UK.png"
+    },
+    {
+      "start": "2026-05-23T10:30:00+05:00",
+      "stop": "2026-05-23T10:45:00+05:00",
+      "title": "Piripenguins",
+      "sub_title": "Flutter's Honour",
+      "desc": "Pancake saves Flutter, who vows to repay him, but his behaviour drives Pan to distraction.",
+      "language": "en",
+      "categories": [
+        "Children"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/1470e05c-1e91-4ab2-9805-2d72c844e8d4/16-9"
+    },
+    {
+      "start": "2026-05-23T10:45:00+05:00",
+      "stop": "2026-05-23T10:50:00+05:00",
+      "title": "Big Lizard",
+      "sub_title": "Best Friends Forever",
+      "desc": "Cosima needs to reassure Big Lizard that he is definitely her best friend forever.",
+      "language": "en",
+      "categories": [
+        "Children"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/016988b3-6c00-32d2-bb58-4b5466442ae0/16-9"
     }
   ]
 }

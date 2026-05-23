@@ -4,37 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-23T03:30:00+05:00",
-      "stop": "2026-05-23T04:00:00+05:00",
-      "title": "ABC World News Tonight With David Muir",
-      "desc": "Delivering the news that matters most.",
-      "date": "2026",
-      "language": "en",
-      "categories": [
-        "Series",
-        "News"
-      ],
-      "episode": "E142",
-      "icon": "http://dtil.tmsimg.com/assets/p10880351_b_h8_ah.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "David Muir"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-23T04:00:00+05:00",
-      "stop": "2026-05-23T05:00:00+05:00",
-      "title": "Eyewitness News 4PM",
-      "desc": "Early evening news.",
-      "date": "2004",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p676966_b_h8_af.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-05-23T05:00:00+05:00",
       "stop": "2026-05-23T06:00:00+05:00",
       "title": "Eyewitness News 5PM",
@@ -94,6 +63,51 @@
       "credits": {
         "actor": [
           "Ken Jennings"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-23T07:30:00+05:00",
+      "stop": "2026-05-23T08:00:00+05:00",
+      "title": "Wheel of Fortune",
+      "sub_title": "Carnival Spin & Sail Week",
+      "desc": "In a classic game-show version of \"Hangman,\" contestants solve word puzzles for cash and prizes.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Series",
+        "Game show"
+      ],
+      "episode": "S43 E185",
+      "icon": "http://dtil.tmsimg.com/assets/p184057_b_h8_ai.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Ryan Seacrest",
+          "Vanna White"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-23T08:00:00+05:00",
+      "stop": "2026-05-23T09:00:00+05:00",
+      "title": "Celebrity Wheel of Fortune",
+      "sub_title": "Katie Lowes, Malin Akerman, Jaime Ray Newman",
+      "desc": "Celebrity contestants Katie Lowes, Malin \u00c5kerman and Jaime Ray Newman.",
+      "date": "2025",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Game show"
+      ],
+      "episode": "S6 E3",
+      "icon": "http://dtil.tmsimg.com/assets/p19081569_b_h8_as.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Ryan Seacrest",
+          "Vanna White",
+          "Katie Lowes"
         ]
       }
     }

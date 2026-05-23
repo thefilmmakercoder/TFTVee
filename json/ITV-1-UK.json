@@ -4,18 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-23T02:30:00+05:00",
-      "stop": "2026-05-23T02:45:00+05:00",
-      "title": "ITV News London",
-      "desc": "The latest news and weather from London and the South East.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/ea31d9dd-457f-4ec7-be04-de271389ca87/16-9"
-    },
-    {
       "start": "2026-05-23T02:45:00+05:00",
       "stop": "2026-05-23T05:30:00+05:00",
       "title": "The Batman",
@@ -76,6 +64,18 @@
         "Lifestyles"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/38ca4be7-22d3-48d6-b4b6-a1710bf6549f/16-9"
+    },
+    {
+      "start": "2026-05-23T10:00:00+05:00",
+      "stop": "2026-05-23T10:30:00+05:00",
+      "title": "Dermot's Taste of Ireland",
+      "desc": "In Game of Thrones country, Dermot fishes wild mackerel, discovers a local twist on the classic dessert rhubarb and custard, and tastes whiskey magic at the Giant's Causeway.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Cooking"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/9d90b42a-ca61-41fc-911c-1201919321f6/16-9"
     }
   ]
 }

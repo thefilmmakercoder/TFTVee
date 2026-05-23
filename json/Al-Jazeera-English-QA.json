@@ -4,30 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-23T03:00:00+05:00",
-      "stop": "2026-05-23T04:00:00+05:00",
-      "title": "Newshour",
-      "desc": "Latest news and in-depth analysis from around the world.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "World Affairs"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/401af812-2e0c-41fc-9859-c3c0941ef44c/16-9"
-    },
-    {
-      "start": "2026-05-23T04:00:00+05:00",
-      "stop": "2026-05-23T05:00:00+05:00",
-      "title": "News Live",
-      "desc": "Up-to-date news and analysis from around the world.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "World Affairs"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/4266171d-74a9-4835-8859-6945a668219f/16-9"
-    },
-    {
       "start": "2026-05-23T05:00:00+05:00",
       "stop": "2026-05-23T06:00:00+05:00",
       "title": "Newshour",
@@ -75,6 +51,30 @@
         "World Affairs"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/76676e15-148f-4cd9-a63d-8e183e6ad25c/16-9"
+    },
+    {
+      "start": "2026-05-23T08:00:00+05:00",
+      "stop": "2026-05-23T08:30:00+05:00",
+      "title": "News Live",
+      "desc": "Up-to-date news and analysis from around the world.",
+      "language": "en",
+      "categories": [
+        "News & Documentary",
+        "World Affairs"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/01a97f6f-b689-4d48-a271-235a3628b721/16-9"
+    },
+    {
+      "start": "2026-05-23T08:30:00+05:00",
+      "stop": "2026-05-23T09:00:00+05:00",
+      "title": "Business of War",
+      "desc": "Ep.2 A Hundred Hiroshimas: Hind Hassan examines the prospect of a new nuclear arms race, the companies helping to fuel it, and the dangers it poses to us all.",
+      "language": "en",
+      "categories": [
+        "News & Documentary",
+        "News"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/18b35ed5-2d15-4ba8-b394-f62c07e33b9a/16-9"
     }
   ]
 }

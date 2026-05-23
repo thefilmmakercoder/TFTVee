@@ -4,57 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-23T03:10:00+05:00",
-      "stop": "2026-05-23T03:40:00+05:00",
-      "title": "NHK Newsline",
-      "sub_title": "Saturday 23 May 2026",
-      "desc": "English news from Japan's Broadcasting Corporation, NHK, delivering the latest in business, technology, health, environmental and world news.",
-      "language": "en",
-      "rating": "NR",
-      "categories": [
-        "News"
-      ],
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/439062/image/334x188"
-    },
-    {
-      "start": "2026-05-23T03:40:00+05:00",
-      "stop": "2026-05-23T04:30:00+05:00",
-      "title": "Cbc The National",
-      "desc": "CBC's flagship nightly news with hosts Adrienne Arsenault and Andrew Chang from Toronto, Canada.",
-      "language": "en",
-      "rating": "NR",
-      "categories": [
-        "News"
-      ],
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/413666/image/334x188"
-    },
-    {
-      "start": "2026-05-23T04:30:00+05:00",
-      "stop": "2026-05-23T05:00:00+05:00",
-      "title": "BBC News At Six",
-      "sub_title": "Saturday 23 May 2026",
-      "desc": "The latest national and international news stories from the BBC News team from London, UK, in English.",
-      "language": "en",
-      "rating": "NR",
-      "categories": [
-        "News"
-      ],
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/11514500/image/334x188"
-    },
-    {
-      "start": "2026-05-23T05:00:00+05:00",
-      "stop": "2026-05-23T05:30:00+05:00",
-      "title": "France 24 English News",
-      "sub_title": "France 24 Eng. 1000 Viceland",
-      "desc": "International news and current affairs television from Paris, offering a French perspective on world events, in English.",
-      "language": "en",
-      "rating": "NR",
-      "categories": [
-        "News"
-      ],
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/310649/image/334x188"
-    },
-    {
       "start": "2026-05-23T05:30:00+05:00",
       "stop": "2026-05-23T06:05:00+05:00",
       "title": "The Movie Show",
@@ -79,6 +28,61 @@
       ],
       "episode": "E12",
       "icon": "https://www.fetchtv.com.au/v2/epg/program/130483/image/334x188"
+    },
+    {
+      "start": "2026-05-23T06:40:00+05:00",
+      "stop": "2026-05-23T07:15:00+05:00",
+      "title": "The Movie Show",
+      "desc": "Film review show with Margaret Pomeranz and David Stratton, featuring The Paper, Guarding Tess, The Getaway and more, plus interview with Peter Greenaway.",
+      "language": "en",
+      "rating": "NR",
+      "categories": [
+        "Special Interest"
+      ],
+      "episode": "E13",
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/130483/image/334x188"
+    },
+    {
+      "start": "2026-05-23T07:15:00+05:00",
+      "stop": "2026-05-23T07:50:00+05:00",
+      "title": "Faking Influence",
+      "sub_title": "Feed 2021 Ep, The 4",
+      "desc": "In a wild experiment, journalist Calliste Weitenberg and producer Elise Potaka build a fake influencer persona to see if they can cash in on what's now a $15 billion dollar industry.",
+      "language": "en",
+      "rating": "NR",
+      "categories": [
+        "Special Interest"
+      ],
+      "episode": "E4",
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/11109256/image/334x188"
+    },
+    {
+      "start": "2026-05-23T07:50:00+05:00",
+      "stop": "2026-05-23T08:45:00+05:00",
+      "title": "Black Comedy In America",
+      "sub_title": "Eddie Murphy In The 80s",
+      "desc": "Eddie Murphy's story features his instant emergence as a force on SNL, his raw and boundary-pushing standup, and his rise to A-list movie star status.",
+      "language": "en",
+      "rating": "M",
+      "categories": [
+        "Special Interest"
+      ],
+      "episode": "S1 E6",
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/11372471/image/334x188"
+    },
+    {
+      "start": "2026-05-23T08:45:00+05:00",
+      "stop": "2026-05-23T09:40:00+05:00",
+      "title": "Black Comedy In America",
+      "sub_title": "Our Roots",
+      "desc": "The origin story of Black comedy includes slave tradition, the chitlin circuit, racial stereotypes, Jim Crow segregation on the road, and breakout triumphs.",
+      "language": "en",
+      "rating": "M",
+      "categories": [
+        "Special Interest"
+      ],
+      "episode": "S1 E7",
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/11372471/image/334x188"
     }
   ]
 }

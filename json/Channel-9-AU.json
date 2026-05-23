@@ -4,20 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-23T01:30:00+05:00",
-      "stop": "2026-05-23T02:00:00+05:00",
-      "title": "A Current Affair",
-      "sub_title": "Friday 22 May 2026",
-      "desc": "A Current Affair covers the realms of politics, crime, human rights, science, technology, celebrities and entertainment - all investigated by a dedicated team.",
-      "language": "en",
-      "rating": "NR",
-      "categories": [
-        "News"
-      ],
-      "episode": "E102",
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/131990/image/334x188"
-    },
-    {
       "start": "2026-05-23T02:00:00+05:00",
       "stop": "2026-05-23T05:00:00+05:00",
       "title": "Weekend Today",
@@ -83,6 +69,20 @@
       ],
       "episode": "S1 E7",
       "icon": "https://www.fetchtv.com.au/v2/epg/program/18688008/image/334x188"
+    },
+    {
+      "start": "2026-05-23T08:30:00+05:00",
+      "stop": "2026-05-23T09:00:00+05:00",
+      "title": "Let's Eat With George",
+      "sub_title": "East Ends Eats",
+      "desc": "George explores the East End and hits the kitchen to recreate the legendary Big Kahuna Burger.",
+      "language": "en",
+      "rating": "G",
+      "categories": [
+        "Special Interest"
+      ],
+      "episode": "S2 E1",
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/432052/image/334x188"
     }
   ]
 }

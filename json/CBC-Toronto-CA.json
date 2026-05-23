@@ -4,49 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-23T03:00:00+05:00",
-      "stop": "2026-05-23T04:00:00+05:00",
-      "title": "Live: CBC Toronto News",
-      "desc": "Dwight Drummond and team take a comprehensive look at the top stories, with breaking news, reports and updates relevant to the city of Toronto.",
-      "date": "2016",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p12466091_b_h10_ac.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Dwight Drummond"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-23T04:00:00+05:00",
-      "stop": "2026-05-23T04:30:00+05:00",
-      "title": "Son of a Critch",
-      "sub_title": "Details Are Scanty",
-      "desc": "When Fox's father gets arrested, Mark lobbies his father not to report on the crime; Pop and Mary steal cable with a descrambler.",
-      "date": "2023",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Series",
-        "Sitcom"
-      ],
-      "episode": "S2 E12",
-      "icon": "http://dtil.tmsimg.com/assets/p21339232_b_h8_am.jpg?w=960&h=540",
-      "credits": {
-        "director": [
-          "Vanessa Matsui"
-        ],
-        "actor": [
-          "Benjamin Evan Ainsworth",
-          "Mark Critch",
-          "Malcolm McDowell"
-        ]
-      }
-    },
-    {
       "start": "2026-05-23T04:30:00+05:00",
       "stop": "2026-05-23T05:00:00+05:00",
       "title": "Family Feud Canada",
@@ -111,6 +68,56 @@
         "News"
       ],
       "icon": "http://dtil.tmsimg.com/assets/p12567799_b_h10_ad.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-23T09:00:00+05:00",
+      "stop": "2026-05-23T09:30:00+05:00",
+      "title": "Coronation Street",
+      "desc": "Jodie comes to the rescue when her dodgy past catches up with Shona.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Soap",
+        "Drama",
+        "Romance"
+      ],
+      "episode": "E84",
+      "icon": "http://dtil.tmsimg.com/assets/p31898227_b_h11_aa.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Suri Krishnamma"
+        ],
+        "actor": [
+          "Sally Carman-Duttine",
+          "Aaron McCusker",
+          "Sydney Martin"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-23T09:30:00+05:00",
+      "stop": "2026-05-23T10:00:00+05:00",
+      "title": "Schitt's Creek",
+      "sub_title": "Ronnie's Party",
+      "desc": "Johnny and Moira meet with a key demographic; Alexis struggles with her new job; David offers emotional support to his boss' daughter.",
+      "date": "2016",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "Series",
+        "Sitcom"
+      ],
+      "episode": "S2 E10",
+      "icon": "http://dtil.tmsimg.com/assets/p11311723_b_h8_ak.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Eugene Levy",
+          "Catherine O'Hara",
+          "Annie Murphy"
+        ]
+      }
     }
   ]
 }

@@ -4,30 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-23T03:05:00+05:00",
-      "stop": "2026-05-23T04:05:00+05:00",
-      "title": "Gogglebox",
-      "desc": "The Goggleboxers check out Eurovision, Race Across the World, Dogs Behaving (Very) Badly, Jamie's Ultimate BBQ, Widow's Bay, Trading Places, Police Interceptors and the News.",
-      "language": "en",
-      "categories": [
-        "Entertainment",
-        "Factual"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/fd128035-3e8d-472b-a772-9f828e42e120/16-9"
-    },
-    {
-      "start": "2026-05-23T04:05:00+05:00",
-      "stop": "2026-05-23T05:05:00+05:00",
-      "title": "Celebrity Gogglebox",
-      "desc": "From Susie Dent to Miquita Oliver and Bez, what do our top celebs think of Cocaine Bear, Glastonbury and much more? Oh, and Ricky Tomlinson, Sue Johnston and Antiques Roadshow.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "Feature"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/d6a1fc9c-2f41-3882-9d07-eab5ede06d78/16-9"
-    },
-    {
       "start": "2026-05-23T05:05:00+05:00",
       "stop": "2026-05-23T06:05:00+05:00",
       "title": "First Dates",
@@ -74,6 +50,30 @@
         "Lifestyles"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/6b9d90a7-5944-3248-85bd-5d25ac30bde9/16-9"
+    },
+    {
+      "start": "2026-05-23T09:00:00+05:00",
+      "stop": "2026-05-23T11:00:00+05:00",
+      "title": "Teleshopping",
+      "desc": "Teleshopping.",
+      "language": "en",
+      "categories": [
+        "Specialist",
+        "Shopping"
+      ],
+      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/4seven-UK.png"
+    },
+    {
+      "start": "2026-05-23T11:00:00+05:00",
+      "stop": "2026-05-23T13:00:00+05:00",
+      "title": "Teleshopping",
+      "desc": "Teleshopping.",
+      "language": "en",
+      "categories": [
+        "Specialist",
+        "Shopping"
+      ],
+      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/4seven-UK.png"
     }
   ]
 }
