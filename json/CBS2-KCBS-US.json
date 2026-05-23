@@ -4,18 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-23T22:00:00+05:00",
-      "stop": "2026-05-24T00:00:00+05:00",
-      "title": "Live: WNBA Basketball",
-      "desc": "The Chicago Sky host the Minnesota Lynx for the second meeting of their regular-season series. Chicago leads the season series 1-0. Center Kamilla Cardoso leads the Sky against guard Kayla McBride and the visiting Western Conference squad.",
-      "language": "en",
-      "categories": [
-        "Sports",
-        "Basketball"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/GNLZZGG003229WJ.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-05-24T00:00:00+05:00",
       "stop": "2026-05-24T03:00:00+05:00",
       "title": "Live: PGA Tour Golf",
@@ -109,6 +97,18 @@
         "Basketball"
       ],
       "icon": "http://dtil.tmsimg.com/assets/GNLZZGG003227HB.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-24T07:00:00+05:00",
+      "stop": "2026-05-24T08:00:00+05:00",
+      "title": "Sports Central",
+      "desc": "KCBS delivers a comprehensive news and entertainment experience, specializing in award-winning local journalism, live breaking news coverage for the Los Angeles metropolitan area, and a premier lineup of CBS network dramas, comedies, and sporting events.",
+      "date": "2023",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p26402663_b_h10_ac.jpg?w=960&h=540"
     }
   ]
 }

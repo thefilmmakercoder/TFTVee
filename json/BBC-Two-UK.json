@@ -4,17 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-24T01:00:00+05:00",
-      "stop": "2026-05-24T02:20:00+05:00",
-      "title": "Cher at the BBC",
-      "desc": "Turn back time on a journey through the BBC archives to celebrate singing superstar Cher with a selection of songs and chat show moments featuring many of the her greatest hits.",
-      "language": "en",
-      "categories": [
-        "Music & Radio"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/99b4114f-17d3-4d3b-a102-ccb40ef06644/16-9"
-    },
-    {
       "start": "2026-05-24T02:20:00+05:00",
       "stop": "2026-05-24T03:20:00+05:00",
       "title": "Cher Meets Rylan",
@@ -67,6 +56,18 @@
       "desc": "Highlights of programmes on BBC Two.",
       "language": "en",
       "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/BBC-Two-UK.png"
+    },
+    {
+      "start": "2026-05-24T10:35:00+05:00",
+      "stop": "2026-05-24T11:20:00+05:00",
+      "title": "The A to Z of TV Gardening",
+      "desc": "A look at some of the BBC's most popular gardening programmes and personalities, presented by Carol Kirkwood. Carol explores subjects that all begin with the letter E.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Gradening"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/1fbbb471-6a88-3289-bf3e-ca8b3ac74cfb/16-9"
     }
   ]
 }

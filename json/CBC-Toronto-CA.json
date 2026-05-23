@@ -4,42 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-24T00:00:00+05:00",
-      "stop": "2026-05-24T01:00:00+05:00",
-      "title": "CBC Docs POV",
-      "sub_title": "UFO Town",
-      "desc": "Investigating a decades-old claim that a UFO crashed in a field near Ottawa, Canada.",
-      "date": "2021",
-      "language": "en",
-      "categories": [
-        "Series",
-        "Documentary"
-      ],
-      "episode": "S6 E1",
-      "icon": "http://dtil.tmsimg.com/assets/p14647819_b_h11_aa.jpg?w=960&h=540",
-      "credits": {
-        "director": [
-          "Catie Lamer"
-        ],
-        "actor": [
-          "Ian Rogers"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-24T01:00:00+05:00",
-      "stop": "2026-05-24T03:00:00+05:00",
-      "title": "Track and Field",
-      "desc": "From Xiamen, China.",
-      "language": "en",
-      "rating": "A",
-      "categories": [
-        "Sports",
-        "Track/field"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p516702_b_h10_af.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-05-24T03:00:00+05:00",
       "stop": "2026-05-24T03:30:00+05:00",
       "title": "Live: CBC Ontario News",
@@ -93,6 +57,51 @@
         "Track/field"
       ],
       "icon": "http://dtil.tmsimg.com/assets/p516702_b_h10_af.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-24T08:30:00+05:00",
+      "stop": "2026-05-24T09:00:00+05:00",
+      "title": "Just for Laughs: Gags",
+      "desc": "There's no sound, but there sure are plenty of laughs. This crazy Quebec-based troupe uses the city as its stage, and its inhabitants, or victims, as characters! People are caught in a twisted yet funny web of comedic deception. This updated \"Candid Camera\" is a tad more risque and a little kookier with its practical jokes. The little snippets last only a few minutes, and some look more painful than others.",
+      "date": "2001",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "Comedy",
+        "Entertainment"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p29453350_b_h8_ae.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Denis Levasseur",
+          "Marie Pierre Bouchard",
+          "Marie-\u00c8ve Verdier"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-24T09:00:00+05:00",
+      "stop": "2026-05-24T10:00:00+05:00",
+      "title": "Winnipeg Comedy Festival",
+      "sub_title": "Thank You, Next!",
+      "desc": "Hosted by Aisha Brown with performances by Fiona O'Brien, Yumi Nagashima, Anesti Danelis, Jen Grant, Nick Reynoldson, Rob Pue.",
+      "date": "2025",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Standup"
+      ],
+      "episode": "E1",
+      "icon": "http://dtil.tmsimg.com/assets/p216050_b_h8_ae.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Larysa Fenyn"
+        ],
+        "actor": [
+          "Brian Hartt"
+        ]
+      }
     }
   ]
 }

@@ -4,47 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-24T01:50:00+05:00",
-      "stop": "2026-05-24T02:20:00+05:00",
-      "title": "DW English News",
-      "sub_title": "Morning",
-      "desc": "News and analysis of the top international and European news and current affairs from Berlin, in English.",
-      "language": "en",
-      "rating": "NR",
-      "categories": [
-        "News"
-      ],
-      "episode": "E4012026",
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/310648/image/334x188"
-    },
-    {
-      "start": "2026-05-24T02:20:00+05:00",
-      "stop": "2026-05-24T02:50:00+05:00",
-      "title": "FBC News Fiji",
-      "sub_title": "Fiji",
-      "desc": "Local, world, sport and entertainment news in English from FBC News, Suva Fiji.",
-      "language": "en",
-      "rating": "NR",
-      "categories": [
-        "News"
-      ],
-      "episode": "E4012026",
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/426449/image/334x188"
-    },
-    {
-      "start": "2026-05-24T02:50:00+05:00",
-      "stop": "2026-05-24T03:00:00+05:00",
-      "title": "France 24 Feature",
-      "sub_title": "First Edition",
-      "desc": "News feature in English from France 24, Paris.",
-      "language": "en",
-      "rating": "NR",
-      "categories": [
-        "News"
-      ],
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/337182/image/334x188"
-    },
-    {
       "start": "2026-05-24T03:00:00+05:00",
       "stop": "2026-05-24T03:10:00+05:00",
       "title": "Euronews",
@@ -81,6 +40,46 @@
         "News"
       ],
       "icon": "https://www.fetchtv.com.au/v2/epg/program/413666/image/334x188"
+    },
+    {
+      "start": "2026-05-24T04:30:00+05:00",
+      "stop": "2026-05-24T05:00:00+05:00",
+      "title": "PBS News Horizons",
+      "sub_title": "Sunday 24 May 2026",
+      "desc": "Dive into the world of science, health, technology and environmental issues making headlines each week, hosted by PBS News Hour's William Brangham.",
+      "language": "en",
+      "rating": "NR",
+      "categories": [
+        "News"
+      ],
+      "episode": "E1",
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/440794/image/334x188"
+    },
+    {
+      "start": "2026-05-24T05:00:00+05:00",
+      "stop": "2026-05-24T05:30:00+05:00",
+      "title": "France 24 English News",
+      "sub_title": "France 24 Eng. 1000 Viceland",
+      "desc": "International news and current affairs television from Paris, offering a French perspective on world events, in English.",
+      "language": "en",
+      "rating": "NR",
+      "categories": [
+        "News"
+      ],
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/310649/image/334x188"
+    },
+    {
+      "start": "2026-05-24T05:30:00+05:00",
+      "stop": "2026-05-24T06:05:00+05:00",
+      "title": "The Movie Show",
+      "desc": "Film review show from Cannes with David Stratton and Margaret Pomeranz, featuring The Hudsucker Proxy, Priscilla, Queen of the Desert and more.",
+      "language": "en",
+      "rating": "NR",
+      "categories": [
+        "Special Interest"
+      ],
+      "episode": "E14",
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/130483/image/334x188"
     }
   ]
 }

@@ -4,32 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-24T01:00:00+05:00",
-      "stop": "2026-05-24T01:30:00+05:00",
-      "title": "New York Live",
-      "desc": "Celebrity interviews and discussing recipes, beauty, fashion and current events pertinent to the tri-state region.",
-      "date": "2011",
-      "language": "en",
-      "categories": [
-        "News",
-        "Newsmagazine"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p8692580_b_h8_ac.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-24T01:30:00+05:00",
-      "stop": "2026-05-24T03:00:00+05:00",
-      "title": "Swimming",
-      "desc": "The world's fastest swimmers compete in the TYR Pro Series.",
-      "language": "en",
-      "rating": "A",
-      "categories": [
-        "Sports",
-        "Swimming"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p497302_b_h10_ae.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-05-24T03:00:00+05:00",
       "stop": "2026-05-24T03:30:00+05:00",
       "title": "News 4 New York at 6 Weekend",
@@ -89,6 +63,51 @@
         "Fashion"
       ],
       "icon": "http://dtil.tmsimg.com/assets/p419169_b_h8_az.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-24T05:00:00+05:00",
+      "stop": "2026-05-24T06:00:00+05:00",
+      "title": "The Wall",
+      "sub_title": "Hope and Francis",
+      "desc": "While skiing at Mt. Baker, Francis discovered a snowboarder trapped beneath the snow and heroically saved his life; with the help of his wife, Hope, he plays the wall in hopes of winning big.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Game show"
+      ],
+      "episode": "S6 E3",
+      "icon": "http://dtil.tmsimg.com/assets/p27767045_b_h8_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Chris Hardwick"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-24T06:00:00+05:00",
+      "stop": "2026-05-24T08:00:00+05:00",
+      "title": "Dateline NBC",
+      "sub_title": "Deadly Entanglement",
+      "desc": "A middle school art teacher is shot to death in the home she shared with her husband; new evidence and testimonies poke holes in the story of a harmonious three-way affair between the couple and a mutual friend.",
+      "date": "2025",
+      "language": "en",
+      "categories": [
+        "Series",
+        "Newsmagazine",
+        "Mystery",
+        "Crime"
+      ],
+      "episode": "S33 E19",
+      "icon": "http://dtil.tmsimg.com/assets/p184061_b_h8_ab.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Lester Holt",
+          "Andrea Canning",
+          "Josh Mankiewicz"
+        ]
+      }
     }
   ]
 }

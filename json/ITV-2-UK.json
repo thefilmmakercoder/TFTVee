@@ -4,18 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-24T02:05:00+05:00",
-      "stop": "2026-05-24T02:10:00+05:00",
-      "title": "FYI Daily",
-      "desc": "Latest news from the world of entertainment.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "Showbiz"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/6a89f1d8-8c78-49a2-a9a1-dd67dd927b53/16-9"
-    },
-    {
       "start": "2026-05-24T02:10:00+05:00",
       "stop": "2026-05-24T03:10:00+05:00",
       "title": "Mean Girls",
@@ -77,6 +65,19 @@
         "Comedy"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/d4ac6796-d730-4e72-8cd0-a49bea9fdece/16-9"
+    },
+    {
+      "start": "2026-05-24T05:05:00+05:00",
+      "stop": "2026-05-24T05:35:00+05:00",
+      "title": "G'wed",
+      "sub_title": "The Juliet OG",
+      "desc": "Comedy series set in Liverpool. It's Aimee's big night at the opening of the school play, but deepening problems at home and school might yet ruin things.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Comedy"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/b541c6b1-302c-3871-a739-5384ed1c832e/16-9"
     }
   ]
 }
