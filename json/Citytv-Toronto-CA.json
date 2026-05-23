@@ -4,41 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-23T14:00:00+05:00",
-      "stop": "2026-05-23T14:30:00+05:00",
-      "title": "CityNews Tonight Toronto",
-      "desc": "Coverage of the day's top news stories.",
-      "date": "2019",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p16858130_b_h8_aa.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-23T14:30:00+05:00",
-      "stop": "2026-05-23T15:30:00+05:00",
-      "title": "Hudson & Rex",
-      "sub_title": "Bury the Lead",
-      "desc": "When Supt Donovan's journalism student daughter investigates the story behind a murder on her university campus, the team race to find the killer before someone else becomes the next victim.",
-      "date": "2022",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Series",
-        "Crime drama"
-      ],
-      "episode": "S5 E8",
-      "icon": "http://dtil.tmsimg.com/assets/p16646888_b_h8_bh.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "John Reardon",
-          "Mayko Nguyen",
-          "Kevin Hanchard"
-        ]
-      }
-    },
-    {
       "start": "2026-05-23T15:30:00+05:00",
       "stop": "2026-05-23T16:00:00+05:00",
       "title": "CityNews Tonight Toronto",
@@ -91,6 +56,55 @@
         "Community"
       ],
       "icon": "http://dtil.tmsimg.com/assets/p858786_b_h8_aa.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-23T19:00:00+05:00",
+      "stop": "2026-05-23T19:30:00+05:00",
+      "title": "The Marc & Mandy Show",
+      "sub_title": "Style, Sleep & Savings",
+      "desc": "Marc and Mandy help refresh your routine with spring fashion trends.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Series",
+        "Talk"
+      ],
+      "episode": "E16",
+      "icon": "http://dtil.tmsimg.com/assets/p12007313_b_h10_ac.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Marc Atiyolil",
+          "Mandy Atiyolil"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-23T19:30:00+05:00",
+      "stop": "2026-05-23T20:00:00+05:00",
+      "title": "Judy Justice",
+      "sub_title": "Remains of a 15-Year Relationship",
+      "desc": "A man accuses his girlfriend of emptying their shared bank account.",
+      "date": "2022",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "Series",
+        "Reality",
+        "Law"
+      ],
+      "episode": "S1 E113",
+      "icon": "http://dtil.tmsimg.com/assets/p20641302_b_h10_af.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Randy Douthit"
+        ],
+        "actor": [
+          "Judy Sheindlin",
+          "Kevin Rasco",
+          "Whitney Kumar"
+        ]
+      }
     }
   ]
 }

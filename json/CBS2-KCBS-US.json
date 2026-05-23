@@ -4,49 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-23T14:05:00+05:00",
-      "stop": "2026-05-23T14:35:00+05:00",
-      "title": "Protect Your Family From Identity Theft",
-      "desc": "Every 5 seconds there's a victim of identity theft; LifeLock helps alert you, restore your identity, and reimburse lost funds\u2014leading the way in protecting families every day.",
-      "language": "en",
-      "categories": [
-        "Consumer"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p33079900_st_h10_aa.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-23T14:35:00+05:00",
-      "stop": "2026-05-23T15:05:00+05:00",
-      "title": "Accident? Start here.",
-      "desc": "After an accident, discover your options, avoid costly mistakes, and learn how to connect with an attorney to review your case.",
-      "language": "en",
-      "categories": [
-        "Consumer"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p32944877_st_h10_aa.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-23T15:05:00+05:00",
-      "stop": "2026-05-23T15:35:00+05:00",
-      "title": "CBS Evening News",
-      "desc": "Tony Dokoupil shares the day's most important stories, delivering context and depth to bring greater understanding to one's world.",
-      "date": "2026",
-      "language": "en",
-      "categories": [
-        "Series",
-        "News"
-      ],
-      "episode": "E142",
-      "icon": "http://dtil.tmsimg.com/assets/p28807922_b_h8_ae.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Tony Dokoupil",
-          "Maurice DuBois",
-          "Jericka Duncan"
-        ]
-      }
-    },
-    {
       "start": "2026-05-23T15:35:00+05:00",
       "stop": "2026-05-23T16:00:00+05:00",
       "title": "Made in Hollywood",
@@ -101,6 +58,67 @@
         "News"
       ],
       "icon": "http://dtil.tmsimg.com/assets/p31308548_b_h10_aa.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-23T19:00:00+05:00",
+      "stop": "2026-05-23T20:00:00+05:00",
+      "title": "CBS LA Mornings at 7am",
+      "desc": "Start your day with CBS LA Mornings, covering breaking stories from The Desk, and NEXT Weather and Traffic for Southern California.",
+      "date": "2025",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p31308696_b_h10_aa.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-23T20:00:00+05:00",
+      "stop": "2026-05-23T20:30:00+05:00",
+      "title": "Lucky Dog: Reunions",
+      "sub_title": "Special Deliveries",
+      "desc": "Two former shelter dogs trained to make special deliveries for their adopters.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Series",
+        "Reality",
+        "Animals",
+        "Pets",
+        "Docudrama",
+        "Adventure"
+      ],
+      "episode": "S3 E22",
+      "icon": "http://dtil.tmsimg.com/assets/p28310521_b_h8_ab.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Brandon McMillan",
+          "Michael Berger"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-23T20:30:00+05:00",
+      "stop": "2026-05-23T21:00:00+05:00",
+      "title": "Lucky Dog: Down Under",
+      "sub_title": "Dogs With a Special Purpose",
+      "desc": "Three families arrive at the Animal Welfare League, each looking for a dog for a very special purpose.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Series",
+        "Animals",
+        "Pets",
+        "Reality"
+      ],
+      "episode": "S1 E22",
+      "icon": "http://dtil.tmsimg.com/assets/p31052061_b_h8_ac.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Brandon McMillan"
+        ]
+      }
     }
   ]
 }

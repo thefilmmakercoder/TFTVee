@@ -4,18 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-23T08:00:00+05:00",
-      "stop": "2026-05-23T11:00:00+05:00",
-      "title": "Teleshopping",
-      "desc": "Teleshopping.",
-      "language": "en",
-      "categories": [
-        "Specialist",
-        "Shopping"
-      ],
-      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/Film-4-UK.png"
-    },
-    {
       "start": "2026-05-23T11:00:00+05:00",
       "stop": "2026-05-23T15:00:00+05:00",
       "title": "Teleshopping",
@@ -82,6 +70,20 @@
         "Adventure"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/8f269903-8f11-4060-a487-f05bace2a18a/16-9"
+    },
+    {
+      "start": "2026-05-23T22:45:00+05:00",
+      "stop": "2026-05-24T01:00:00+05:00",
+      "title": "Fisherman's Friends",
+      "desc": "Heart-warming comedy based on the real-life story of the Cornish folk ensemble who took the UK charts by storm in 2010, starring Daniel Mays and Tuppence Middleton.",
+      "date": "2019",
+      "language": "en",
+      "rating": "PG",
+      "categories": [
+        "Movie",
+        "Comedy"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/b53a5012-f755-3d29-acf6-b4a9f5dc9e57/16-9"
     }
   ]
 }

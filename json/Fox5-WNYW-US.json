@@ -4,53 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-23T14:00:00+05:00",
-      "stop": "2026-05-23T14:30:00+05:00",
-      "title": "Coffee With America",
-      "desc": "\"Coffee With America\" is a magazine show featuring lifestyle interviews and health and entertainment stories.",
-      "date": "2026",
-      "language": "en",
-      "rating": "TVG",
-      "categories": [
-        "Series",
-        "Talk",
-        "Newsmagazine"
-      ],
-      "episode": "S10 E38",
-      "icon": "http://dtil.tmsimg.com/assets/p12074786_b_h8_ad.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Sasha Rionda"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-23T14:30:00+05:00",
-      "stop": "2026-05-23T15:00:00+05:00",
-      "title": "Paid Programming",
-      "desc": "Paid programming.",
-      "language": "en",
-      "rating": "TVG",
-      "categories": [
-        "Consumer",
-        "Shopping",
-        "Variety"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-23T15:00:00+05:00",
-      "stop": "2026-05-23T15:30:00+05:00",
-      "title": "Good Day Street Talk",
-      "desc": "New York public affairs program focusing on important issues in the tri-state area.",
-      "date": "2010",
-      "language": "en",
-      "categories": [
-        "Public affairs"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p8083062_b_h10_ab.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-05-23T15:30:00+05:00",
       "stop": "2026-05-23T16:00:00+05:00",
       "title": "Victim of Nursing Home Abuse?",
@@ -104,6 +57,59 @@
           "Emily Calandrelli"
         ]
       }
+    },
+    {
+      "start": "2026-05-23T17:00:00+05:00",
+      "stop": "2026-05-23T17:30:00+05:00",
+      "title": "Xploration Nature Knows Best",
+      "sub_title": "Nature and Physical Activity",
+      "desc": "Mother Nature revamps some of our favorite sports; roller skates' reinvented wheels are inspired by how snakes and fish move; a workout mimics the physiology of little kids; a basic component in plants helps divers see more clearly underwater.",
+      "date": "2017",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Science",
+        "Nature",
+        "Educational"
+      ],
+      "episode": "S2 E1",
+      "icon": "http://dtil.tmsimg.com/assets/p14423828_b_h8_ac.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Danni Washington"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-23T17:30:00+05:00",
+      "stop": "2026-05-23T18:00:00+05:00",
+      "title": "Second Chance Pets",
+      "desc": "A dog named Luna is hit by a car and needs a brace to avoid amputation; Miley the bulldog needs her brace adjusted.",
+      "date": "2021",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Animals",
+        "Pets"
+      ],
+      "episode": "S1 E10",
+      "icon": "http://dtil.tmsimg.com/assets/p20326979_b_h10_aa.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-23T18:00:00+05:00",
+      "stop": "2026-05-23T18:30:00+05:00",
+      "title": "Paid Programming",
+      "desc": "Paid programming.",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Consumer",
+        "Shopping",
+        "Variety"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&h=540"
     }
   ]
 }

@@ -4,20 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-23T12:00:00+05:00",
-      "stop": "2026-05-23T12:30:00+05:00",
-      "title": "10 News",
-      "sub_title": "Saturday 23 May 2026",
-      "desc": "Comprehensive coverage of local, national and international news. Plus, all the latest sport and weather.",
-      "language": "en",
-      "rating": "NR",
-      "categories": [
-        "News"
-      ],
-      "episode": "E41",
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/437419/image/334x188"
-    },
-    {
       "start": "2026-05-23T12:30:00+05:00",
       "stop": "2026-05-23T16:00:00+05:00",
       "title": "A-League Grand Final",
@@ -83,6 +69,19 @@
         "Special Interest"
       ],
       "episode": "E8",
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/234200/image/334x188"
+    },
+    {
+      "start": "2026-05-23T19:30:00+05:00",
+      "stop": "2026-05-23T20:00:00+05:00",
+      "title": "Home Shopping",
+      "desc": "A show that offers a variety of product demonstrations and great deals for consumers looking to buy them.",
+      "language": "en",
+      "rating": "NR",
+      "categories": [
+        "Special Interest"
+      ],
+      "episode": "E9",
       "icon": "https://www.fetchtv.com.au/v2/epg/program/234200/image/334x188"
     }
   ]

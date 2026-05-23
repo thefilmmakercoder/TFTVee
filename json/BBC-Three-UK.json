@@ -4,14 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-23T08:00:00+05:00",
-      "stop": "2026-05-23T09:30:00+05:00",
-      "title": "This is BBC Three",
-      "desc": "Programmes start at 7.00pm.",
-      "language": "en",
-      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/BBC-Three-UK.png"
-    },
-    {
       "start": "2026-05-23T09:30:00+05:00",
       "stop": "2026-05-23T15:30:00+05:00",
       "title": "..programmes start at 7.00pm",
@@ -54,6 +46,18 @@
         "Sci-Fi"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/a1dcd500-b9c5-4f13-bef7-ee56aa6f0e30/16-9"
+    },
+    {
+      "start": "2026-05-23T23:45:00+05:00",
+      "stop": "2026-05-24T00:30:00+05:00",
+      "title": "Doctor Who",
+      "desc": "Sci-fi drama. The terrifying Skovox Blitzer is ready to destroy all humanity - and worse, Danny Pink and the Doctor are going to meet.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Sci-Fi"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/04323b9d-8a51-402c-8fe9-29a607cec511/16-9"
     }
   ]
 }

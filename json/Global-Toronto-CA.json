@@ -4,34 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-23T14:00:00+05:00",
-      "stop": "2026-05-23T14:30:00+05:00",
-      "title": "Paid Programming",
-      "desc": "Paid programming.",
-      "language": "en",
-      "rating": "TVG",
-      "categories": [
-        "Consumer",
-        "Shopping",
-        "Variety"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-23T14:30:00+05:00",
-      "stop": "2026-05-23T15:00:00+05:00",
-      "title": "Paid Programming",
-      "desc": "Paid programming.",
-      "language": "en",
-      "rating": "TVG",
-      "categories": [
-        "Consumer",
-        "Shopping",
-        "Variety"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-05-23T15:00:00+05:00",
       "stop": "2026-05-23T16:00:00+05:00",
       "title": "Rust Valley Restorers",
@@ -130,6 +102,43 @@
       "credits": {
         "actor": [
           "Bryan Baeumler"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-23T18:00:00+05:00",
+      "stop": "2026-05-23T18:30:00+05:00",
+      "title": "Paid Programming",
+      "desc": "Paid programming.",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Consumer",
+        "Shopping",
+        "Variety"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-23T18:30:00+05:00",
+      "stop": "2026-05-23T19:00:00+05:00",
+      "title": "Fish TV",
+      "sub_title": "Agnew Lake Lodge",
+      "desc": "Leo & Jeff get a chance to fish and visit Agnew Lake Lodge again. Great Trip!",
+      "date": "2025",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Series",
+        "Fishing"
+      ],
+      "episode": "E11",
+      "icon": "http://dtil.tmsimg.com/assets/p687113_b_h8_ae.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Leo Stakos",
+          "Ron James",
+          "Jeff Chisholm"
         ]
       }
     }

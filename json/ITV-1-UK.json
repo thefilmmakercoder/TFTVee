@@ -4,18 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-23T13:25:00+05:00",
-      "stop": "2026-05-23T13:30:00+05:00",
-      "title": "ITV News",
-      "desc": "National and international news with reports and analysis from ITV's Correspondents in the UK and around the world as well as the latest major sports results.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/7fff86b3-0b36-4bd2-b09f-5bcbe235d4aa/16-9"
-    },
-    {
       "start": "2026-05-23T13:30:00+05:00",
       "stop": "2026-05-23T16:00:00+05:00",
       "title": "James Martin's Saturday Morning",
@@ -75,6 +63,18 @@
         "Racing"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/c5d3b45e-7192-4133-ac05-2a757518c6a1/16-9"
+    },
+    {
+      "start": "2026-05-23T20:30:00+05:00",
+      "stop": "2026-05-23T21:30:00+05:00",
+      "title": "The Chase",
+      "desc": "Bradley Walsh hosts as Ian from Wigan, Marsha from Lincoln, Laura from Edinburgh and Najam from Norwich work together and try to outsmart a clever Chaser for thousands of pounds.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Game Show"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/95160289-941f-4fca-8196-32c30dea2ff1/16-9"
     }
   ]
 }

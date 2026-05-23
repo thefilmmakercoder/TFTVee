@@ -4,30 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-23T14:00:00+05:00",
-      "stop": "2026-05-23T14:30:00+05:00",
-      "title": "News Live",
-      "desc": "Up-to-date news and analysis from around the world.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "World Affairs"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/01a97f6f-b689-4d48-a271-235a3628b721/16-9"
-    },
-    {
-      "start": "2026-05-23T14:30:00+05:00",
-      "stop": "2026-05-23T15:00:00+05:00",
-      "title": "Witness",
-      "desc": "West Bank - Family Under Fire: A Palestinian family of peaceful activists in the occupied West Bank defend their community from settler expansion as violence intensifies.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "Politics"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/d33f0811-25b0-37ed-ae92-c7e2def0e169/16-9"
-    },
-    {
       "start": "2026-05-23T15:00:00+05:00",
       "stop": "2026-05-23T16:00:00+05:00",
       "title": "Newshour",
@@ -74,6 +50,30 @@
         "World Affairs"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/76676e15-148f-4cd9-a63d-8e183e6ad25c/16-9"
+    },
+    {
+      "start": "2026-05-23T18:00:00+05:00",
+      "stop": "2026-05-23T19:00:00+05:00",
+      "title": "Newshour",
+      "desc": "Latest news and in-depth analysis from around the world.",
+      "language": "en",
+      "categories": [
+        "News & Documentary",
+        "World Affairs"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/76676e15-148f-4cd9-a63d-8e183e6ad25c/16-9"
+    },
+    {
+      "start": "2026-05-23T19:00:00+05:00",
+      "stop": "2026-05-23T19:30:00+05:00",
+      "title": "News Live",
+      "desc": "Up-to-date news and analysis from around the world.",
+      "language": "en",
+      "categories": [
+        "News & Documentary",
+        "World Affairs"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/01a97f6f-b689-4d48-a271-235a3628b721/16-9"
     }
   ]
 }
