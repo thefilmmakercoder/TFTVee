@@ -4,87 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-23T11:36:00+05:00",
-      "stop": "2026-05-23T12:06:00+05:00",
-      "title": "Jeopardy!",
-      "desc": "The Emmy-winning quiz show features a unique answer-and-question format.",
-      "date": "2025",
-      "language": "en",
-      "rating": "TVG",
-      "categories": [
-        "Series",
-        "Game show"
-      ],
-      "episode": "S41 E195",
-      "icon": "http://dtil.tmsimg.com/assets/p28134937_b_h10_aa.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Ken Jennings"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-23T12:06:00+05:00",
-      "stop": "2026-05-23T13:00:00+05:00",
-      "title": "Tamron Hall",
-      "sub_title": "What's Hot This Summer",
-      "desc": "Actress Keke Palmer and director Boots Riley (\"I Love Boosters\"); Keke performs \"2-D\"; author Emma Straub (\"American Fantasy\").",
-      "date": "2026",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Series",
-        "Talk"
-      ],
-      "episode": "S7 E170",
-      "icon": "http://dtil.tmsimg.com/assets/p17197549_b_h8_af.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Tamron Hall",
-          "Keke Palmer",
-          "Boots Riley"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-23T13:00:00+05:00",
-      "stop": "2026-05-23T13:30:00+05:00",
-      "title": "Sports Stars of Tomorrow",
-      "desc": "Profiles of the top rookie, college and high-school talent in sports; current athletes share their experiences, advice and personal impressions of the road to stardom.",
-      "date": "2005",
-      "language": "en",
-      "rating": "TVG",
-      "categories": [
-        "Anthology"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p492867_b_h8_aa.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Charles Davis"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-23T13:30:00+05:00",
-      "stop": "2026-05-23T14:00:00+05:00",
-      "title": "Jeopardy!",
-      "desc": "The Emmy-winning quiz show features a unique answer-and-question format.",
-      "date": "2024",
-      "language": "en",
-      "rating": "TVG",
-      "categories": [
-        "Series",
-        "Game show"
-      ],
-      "episode": "S41 E78",
-      "icon": "http://dtil.tmsimg.com/assets/p28134937_b_h10_aa.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Ken Jennings"
-        ]
-      }
-    },
-    {
       "start": "2026-05-23T14:00:00+05:00",
       "stop": "2026-05-23T14:30:00+05:00",
       "title": "Wheel of Fortune",
@@ -118,6 +37,78 @@
         "Public affairs"
       ],
       "icon": "http://dtil.tmsimg.com/assets/p26864545_b_h8_ab.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-23T15:00:00+05:00",
+      "stop": "2026-05-23T17:00:00+05:00",
+      "title": "Eyewitness News This Morning",
+      "desc": "News coverage to start the day.",
+      "date": "2007",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p677214_b_h8_ad.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-23T17:00:00+05:00",
+      "stop": "2026-05-23T18:00:00+05:00",
+      "title": "Good Morning America",
+      "desc": "Early morning news and entertainment program that covers important issues with key figures from around the world and a wide spectrum of topics, including medicine, finance, consumer issues, computer technology, education and gardening.",
+      "date": "2026",
+      "language": "en",
+      "categories": [
+        "Series",
+        "Talk",
+        "News",
+        "Variety",
+        "Public affairs"
+      ],
+      "episode": "E163",
+      "icon": "http://dtil.tmsimg.com/assets/p31385280_b_h10_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Whit Johnson",
+          "Janai Norman",
+          "Gio Benitez"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-23T18:00:00+05:00",
+      "stop": "2026-05-23T19:00:00+05:00",
+      "title": "Eyewitness News This Morning",
+      "desc": "News coverage to start the day.",
+      "date": "2007",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p677214_b_h8_ad.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-23T19:00:00+05:00",
+      "stop": "2026-05-23T20:00:00+05:00",
+      "title": "Good Morning America",
+      "desc": "ABC Secret Savings.",
+      "date": "2026",
+      "language": "en",
+      "categories": [
+        "Series",
+        "Talk",
+        "News",
+        "Variety",
+        "Public affairs"
+      ],
+      "episode": "E164",
+      "icon": "http://dtil.tmsimg.com/assets/p31385280_b_h10_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Whit Johnson",
+          "Janai Norman",
+          "Gio Benitez"
+        ]
+      }
     }
   ]
 }

@@ -4,18 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-23T12:00:00+05:00",
-      "stop": "2026-05-23T12:30:00+05:00",
-      "title": "ThreeNews",
-      "desc": "ThreeNews presents comprehensive coverage of global and local news.",
-      "language": "en",
-      "categories": [
-        "Show",
-        "Series"
-      ],
-      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/Three-Plus1-NZ.png"
-    },
-    {
       "start": "2026-05-23T12:30:00+05:00",
       "stop": "2026-05-23T13:00:00+05:00",
       "title": "Bondi Rescue",
@@ -68,6 +56,18 @@
     {
       "start": "2026-05-23T18:05:00+05:00",
       "stop": "2026-05-23T20:00:00+05:00",
+      "title": "Infomercials",
+      "desc": "Infomercials.",
+      "language": "en",
+      "categories": [
+        "Show",
+        "Series"
+      ],
+      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/Three-Plus1-NZ.png"
+    },
+    {
+      "start": "2026-05-23T20:00:00+05:00",
+      "stop": "2026-05-23T22:00:00+05:00",
       "title": "Infomercials",
       "desc": "Infomercials.",
       "language": "en",

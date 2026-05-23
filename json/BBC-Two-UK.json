@@ -4,17 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-23T12:45:00+05:00",
-      "stop": "2026-05-23T12:55:00+05:00",
-      "title": "Newsround",
-      "desc": "23/05/2026. Topical news magazine for children.",
-      "language": "en",
-      "categories": [
-        "Children"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/9c4c1148-5554-4002-99ff-bbb1a4aa4586/16-9"
-    },
-    {
       "start": "2026-05-23T12:55:00+05:00",
       "stop": "2026-05-23T14:35:00+05:00",
       "title": "G.I. Blues",
@@ -72,6 +61,19 @@
         "Antiques"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/420d4198-de66-43a2-8bb6-ff30badcd7a9/16-9"
+    },
+    {
+      "start": "2026-05-23T20:30:00+05:00",
+      "stop": "2026-05-23T23:30:00+05:00",
+      "title": "MOTD Live: Women's Champions League Final",
+      "sub_title": "Barcelona v Lyon",
+      "desc": "All the action from the Women's Champions League final as Barcelona play Lyon in Oslo.",
+      "language": "en",
+      "categories": [
+        "Sports",
+        "Football"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/20dab63b-c1c0-4763-aa92-12af16a14024/16-9"
     }
   ]
 }

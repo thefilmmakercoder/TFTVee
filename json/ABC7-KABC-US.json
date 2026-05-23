@@ -4,71 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-23T11:35:00+05:00",
-      "stop": "2026-05-23T12:37:00+05:00",
-      "title": "Jimmy Kimmel Live!",
-      "sub_title": "Trey Parker; Matt Stone; Alison Brie",
-      "desc": "\"South Park\" creators Trey Parker and Matt Stone; actress Alison Brie.",
-      "date": "2026",
-      "language": "en",
-      "rating": "TV14",
-      "categories": [
-        "Series",
-        "Talk",
-        "Comedy"
-      ],
-      "episode": "S24 E116",
-      "icon": "http://dtil.tmsimg.com/assets/p31166959_b_h8_ac.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Jimmy Kimmel",
-          "Trey Parker",
-          "Matt Stone"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-23T12:37:00+05:00",
-      "stop": "2026-05-23T13:06:00+05:00",
-      "title": "Nightline",
-      "desc": "In-depth reporting on one or more of the major stories in the news, with occasional segments on pop culture; journalists Juju Chang and Byron Pitts share hosting duties for this late-night program.",
-      "date": "2026",
-      "language": "en",
-      "categories": [
-        "Series",
-        "Talk",
-        "News",
-        "Interview"
-      ],
-      "episode": "E108",
-      "icon": "http://dtil.tmsimg.com/assets/p184465_b_h8_aa.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Juju Chang",
-          "Byron Pitts"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-23T13:06:00+05:00",
-      "stop": "2026-05-23T13:36:00+05:00",
-      "title": "ABC World News Tonight With David Muir",
-      "desc": "Delivering the news that matters most.",
-      "date": "2026",
-      "language": "en",
-      "categories": [
-        "Series",
-        "News"
-      ],
-      "episode": "E142",
-      "icon": "http://dtil.tmsimg.com/assets/p10880351_b_h8_ah.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "David Muir"
-        ]
-      }
-    },
-    {
       "start": "2026-05-23T13:36:00+05:00",
       "stop": "2026-05-23T14:36:00+05:00",
       "title": "Live with Kelly and Mark",
@@ -123,6 +58,54 @@
         "Consumer"
       ],
       "icon": "http://dtil.tmsimg.com/assets/p32384250_st_h10_aa.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-23T16:00:00+05:00",
+      "stop": "2026-05-23T17:00:00+05:00",
+      "title": "Good Morning America",
+      "desc": "Early morning news and entertainment program that covers important issues with key figures from around the world and a wide spectrum of topics, including medicine, finance, consumer issues, computer technology, education and gardening.",
+      "date": "2026",
+      "language": "en",
+      "categories": [
+        "Series",
+        "Talk",
+        "News",
+        "Variety",
+        "Public affairs"
+      ],
+      "episode": "E163",
+      "icon": "http://dtil.tmsimg.com/assets/p31385280_b_h10_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Whit Johnson",
+          "Janai Norman",
+          "Gio Benitez"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-23T17:00:00+05:00",
+      "stop": "2026-05-23T18:00:00+05:00",
+      "title": "Eyewitness News 5AM",
+      "desc": "News coverage to start the day.",
+      "date": "2004",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p676994_b_h8_af.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-23T18:00:00+05:00",
+      "stop": "2026-05-23T19:00:00+05:00",
+      "title": "Eyewitness News 6AM",
+      "desc": "News coverage to start the day.",
+      "date": "2004",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p677002_b_h8_af.jpg?w=960&h=540"
     }
   ]
 }

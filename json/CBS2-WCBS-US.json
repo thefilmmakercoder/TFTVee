@@ -4,88 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-23T12:07:00+05:00",
-      "stop": "2026-05-23T12:37:00+05:00",
-      "title": "CBS Evening News",
-      "desc": "Tony Dokoupil shares the day's most important stories, delivering context and depth to bring greater understanding to one's world.",
-      "date": "2026",
-      "language": "en",
-      "categories": [
-        "Series",
-        "News"
-      ],
-      "episode": "E142",
-      "icon": "http://dtil.tmsimg.com/assets/p28807922_b_h8_ae.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Tony Dokoupil",
-          "Maurice DuBois",
-          "Jericka Duncan"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-23T12:37:00+05:00",
-      "stop": "2026-05-23T13:00:00+05:00",
-      "title": "Missing",
-      "desc": "Missing persons cases come from all over the United States.",
-      "date": "2026",
-      "language": "en",
-      "rating": "TVG",
-      "categories": [
-        "Series",
-        "Crime",
-        "Educational"
-      ],
-      "episode": "S23 E38",
-      "icon": "http://dtil.tmsimg.com/assets/p443630_b_h10_ab.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Alex Paen"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-23T13:00:00+05:00",
-      "stop": "2026-05-23T13:30:00+05:00",
-      "title": "Pets.TV",
-      "sub_title": "The Colorful Chameleons of Madagascar",
-      "desc": "Celebrating people's love for their pets which is tailor-made for these pet owners; pet news, care, health and lifestyles are among the topics covered.",
-      "date": "2026",
-      "language": "en",
-      "rating": "TVG",
-      "categories": [
-        "Series",
-        "Animals",
-        "Pets",
-        "Educational"
-      ],
-      "episode": "E1",
-      "icon": "http://dtil.tmsimg.com/assets/p463447_b_h10_aa.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-23T13:30:00+05:00",
-      "stop": "2026-05-23T14:00:00+05:00",
-      "title": "Real Green",
-      "desc": "Solar plan; harvesting rainwater; recycling plastic wrappers.",
-      "date": "2025",
-      "language": "en",
-      "rating": "TVG",
-      "categories": [
-        "Series",
-        "Environment",
-        "How-to",
-        "House/garden"
-      ],
-      "episode": "S11 E9",
-      "icon": "http://dtil.tmsimg.com/assets/p8182505_b_h10_aa.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Alex Paen"
-        ]
-      }
-    },
-    {
       "start": "2026-05-23T14:00:00+05:00",
       "stop": "2026-05-23T14:30:00+05:00",
       "title": "Judge Judy",
@@ -128,6 +46,64 @@
           "Kyle Busch"
         ]
       }
+    },
+    {
+      "start": "2026-05-23T15:00:00+05:00",
+      "stop": "2026-05-23T16:00:00+05:00",
+      "title": "CBS News New York Saturday 6am",
+      "desc": "Stay informed with the latest breaking news and headlines.",
+      "date": "2022",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p21960996_b_h8_ac.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-23T16:00:00+05:00",
+      "stop": "2026-05-23T18:00:00+05:00",
+      "title": "CBS Saturday Morning",
+      "desc": "Ryan Bingham performs; The Dish: Moo's Craft Barbecue; actor Lamorne Morris.",
+      "date": "2026",
+      "language": "en",
+      "categories": [
+        "Series",
+        "Talk",
+        "News"
+      ],
+      "episode": "E21",
+      "icon": "http://dtil.tmsimg.com/assets/p20589876_b_h8_af.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Adriana Diaz",
+          "Kelly O'Grady",
+          "Ryan Bingham"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-23T18:00:00+05:00",
+      "stop": "2026-05-23T19:00:00+05:00",
+      "title": "CBS News New York Saturday 9am",
+      "desc": "Weekend news coverage.",
+      "date": "2020",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p18809087_b_h8_ab.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-23T19:00:00+05:00",
+      "stop": "2026-05-23T20:00:00+05:00",
+      "title": "CBS News New York Saturday 10am",
+      "desc": "Weekend news coverage.",
+      "date": "2022",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p21040169_b_h8_ab.jpg?w=960&h=540"
     }
   ]
 }
