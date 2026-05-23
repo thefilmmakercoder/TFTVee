@@ -4,55 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-23T18:30:00+05:00",
-      "stop": "2026-05-23T19:30:00+05:00",
-      "title": "Dream Cruises",
-      "sub_title": "Windsurf",
-      "desc": "Barbuda, Saint Lucia, Dominica, Saint Kitts and Nevis.",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Series",
-        "Travel",
-        "Documentary"
-      ],
-      "episode": "S3 E10",
-      "icon": "http://dtil.tmsimg.com/assets/p9789899_b_h10_ae.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-23T19:30:00+05:00",
-      "stop": "2026-05-23T20:00:00+05:00",
-      "title": "Selling Mega Mansions",
-      "sub_title": "Luxury",
-      "desc": "Tara West takes buyers Robin and Brad to the next property where they meet listing agent Tali Israel; buyers Jack and Tara head over to the second mansion, where Kevin Tally turns them over to Bryan Witt.",
-      "date": "2017",
-      "language": "en",
-      "rating": "TVG",
-      "categories": [
-        "Series",
-        "House/garden"
-      ],
-      "episode": "S2 E10",
-      "icon": "http://dtil.tmsimg.com/assets/p12720929_b_h10_ab.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-23T20:00:00+05:00",
-      "stop": "2026-05-23T20:30:00+05:00",
-      "title": "Find Me a Luxury Home",
-      "sub_title": "Jon",
-      "desc": "Jon, a software project manager, is looking for a taste of desert living, and he tours three luxury homes in Palm Springs, Calif.",
-      "date": "2018",
-      "language": "en",
-      "rating": "TVG",
-      "categories": [
-        "Series",
-        "Home improvement",
-        "House/garden"
-      ],
-      "episode": "S1 E25",
-      "icon": "http://dtil.tmsimg.com/assets/p14589458_b_h10_aa.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-05-23T20:30:00+05:00",
       "stop": "2026-05-23T21:00:00+05:00",
       "title": "Tasting America",
@@ -106,6 +57,66 @@
           "Paul Shard"
         ]
       }
+    },
+    {
+      "start": "2026-05-23T22:00:00+05:00",
+      "stop": "2026-05-23T22:30:00+05:00",
+      "title": "Global Passport",
+      "sub_title": "Colombia, a Wellness Vacation",
+      "desc": "Christina Cindrich explores Colombia, an advanced medical destination; with its unique culture, Colombia is growing, offering something for every traveler.",
+      "date": "2021",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Series",
+        "Travel"
+      ],
+      "episode": "S2 E7",
+      "icon": "http://dtil.tmsimg.com/assets/p17047145_b_h10_aa.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-23T22:30:00+05:00",
+      "stop": "2026-05-23T23:00:00+05:00",
+      "title": "Facing Waves",
+      "sub_title": "Paddling Jamaica",
+      "desc": "Ken Whiting explores Jamaica's stunning coastline, mountainous rivers, and epic ocean surf with his sea kayak.",
+      "date": "2018",
+      "language": "en",
+      "rating": "L",
+      "categories": [
+        "Series",
+        "Kayaking",
+        "Outdoors"
+      ],
+      "episode": "S6 E3",
+      "icon": "http://dtil.tmsimg.com/assets/p9897159_b_h8_ae.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Alex Heaslip",
+          "Brendan Mark"
+        ],
+        "actor": [
+          "Ken Whiting",
+          "Luke Hopkins",
+          "Alex Kellar"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-23T23:00:00+05:00",
+      "stop": "2026-05-23T23:30:00+05:00",
+      "title": "Top Travel",
+      "sub_title": "Orania and Kimberley",
+      "desc": "Janez and Jeanni visit Orania.",
+      "date": "2016",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Series",
+        "Travel"
+      ],
+      "episode": "S3 E10",
+      "icon": "http://dtil.tmsimg.com/assets/p8663956_b_h10_ab.jpg?w=960&h=540"
     }
   ]
 }
