@@ -4,18 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-23T11:00:00+05:00",
-      "stop": "2026-05-23T15:00:00+05:00",
-      "title": "Teleshopping",
-      "desc": "Teleshopping.",
-      "language": "en",
-      "categories": [
-        "Specialist",
-        "Shopping"
-      ],
-      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/Film-4-UK.png"
-    },
-    {
       "start": "2026-05-23T15:00:00+05:00",
       "stop": "2026-05-23T16:50:00+05:00",
       "title": "Patrick",
@@ -84,6 +72,20 @@
         "Comedy"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/b53a5012-f755-3d29-acf6-b4a9f5dc9e57/16-9"
+    },
+    {
+      "start": "2026-05-24T01:00:00+05:00",
+      "stop": "2026-05-24T03:40:00+05:00",
+      "title": "The Woman King",
+      "desc": "Historical action starring Viola Davis. An elite force of female warriors, the Agojie, protect their West African kingdom from threats from rival kingdoms and from European slavers.",
+      "date": "2022",
+      "language": "en",
+      "rating": "15",
+      "categories": [
+        "Movie",
+        "Action"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/dd923aea-1b7f-46fe-a876-c79ccb2c09bc/16-9"
     }
   ]
 }
