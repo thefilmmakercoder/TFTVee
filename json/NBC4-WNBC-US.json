@@ -4,50 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-23T22:00:00+05:00",
-      "stop": "2026-05-23T22:30:00+05:00",
-      "title": "Paid Programming",
-      "desc": "Paid programming.",
-      "language": "en",
-      "rating": "TVG",
-      "categories": [
-        "Consumer",
-        "Shopping",
-        "Variety"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-23T22:30:00+05:00",
-      "stop": "2026-05-23T23:00:00+05:00",
-      "title": "Paid Programming",
-      "desc": "Paid programming.",
-      "language": "en",
-      "rating": "TVG",
-      "categories": [
-        "Consumer",
-        "Shopping",
-        "Variety"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-23T23:00:00+05:00",
-      "stop": "2026-05-23T23:30:00+05:00",
-      "title": "1st Look",
-      "desc": "Lifestyle trends in food, nightlife, art, travel and entertainment.",
-      "date": "2008",
-      "language": "en",
-      "rating": "TVG",
-      "categories": [
-        "Talk",
-        "Newsmagazine",
-        "Travel",
-        "Fashion"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p419169_b_h8_az.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-05-23T23:30:00+05:00",
       "stop": "2026-05-24T00:00:00+05:00",
       "title": "George to the Rescue",
@@ -102,6 +58,44 @@
           "Sara Gore"
         ]
       }
+    },
+    {
+      "start": "2026-05-24T01:00:00+05:00",
+      "stop": "2026-05-24T01:30:00+05:00",
+      "title": "New York Live",
+      "desc": "Celebrity interviews and discussing recipes, beauty, fashion and current events pertinent to the tri-state region.",
+      "date": "2011",
+      "language": "en",
+      "categories": [
+        "News",
+        "Newsmagazine"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p8692580_b_h8_ac.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-24T01:30:00+05:00",
+      "stop": "2026-05-24T03:00:00+05:00",
+      "title": "Swimming",
+      "desc": "The world's fastest swimmers compete in the TYR Pro Series.",
+      "language": "en",
+      "rating": "A",
+      "categories": [
+        "Sports",
+        "Swimming"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p497302_b_h10_ae.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-24T03:00:00+05:00",
+      "stop": "2026-05-24T03:30:00+05:00",
+      "title": "News 4 New York at 6 Weekend",
+      "desc": "Stay informed with the latest breaking news and headlines.",
+      "date": "2014",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p10760861_b_h10_aa.jpg?w=960&h=540"
     }
   ]
 }

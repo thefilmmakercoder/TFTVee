@@ -4,18 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-23T21:40:00+05:00",
-      "stop": "2026-05-23T21:55:00+05:00",
-      "title": "ITV News London",
-      "desc": "The latest news and weather from London and the South East.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/5217fd5d-f16b-440f-a7ce-a3a9fc72941c/16-9"
-    },
-    {
       "start": "2026-05-23T21:55:00+05:00",
       "stop": "2026-05-23T23:00:00+05:00",
       "title": "Bullseye for Soccer Aid",
@@ -74,6 +62,18 @@
         "Action"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/5339b718-451f-4a40-bdc4-f725e8015ad3/16-9"
+    },
+    {
+      "start": "2026-05-24T04:50:00+05:00",
+      "stop": "2026-05-24T05:50:00+05:00",
+      "title": "Nobody's Fool",
+      "desc": "A game where it's not just about how smart you are, but how smart others think you are. Players must eliminate the worst performing player or they will lose half the prize pot.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Game Show"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/f2cd2bf9-3d52-45d0-85b8-bb713ce5b045/16-9"
     }
   ]
 }

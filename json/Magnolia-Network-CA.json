@@ -4,36 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-23T22:00:00+05:00",
-      "stop": "2026-05-23T22:30:00+05:00",
-      "title": "Storied Spaces",
-      "sub_title": "Once Upon a Time",
-      "desc": "From the rugged beaches of the Pacific Northwest to the quaint villages of Long Island, and all the way to the English countryside, each of these idyllic homes brings fairytales to life.",
-      "date": "2026",
-      "language": "en",
-      "categories": [
-        "Series",
-        "House/garden"
-      ],
-      "episode": "S4 E1",
-      "icon": "http://dtil.tmsimg.com/assets/p22693750_b_h8_ad.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-23T22:30:00+05:00",
-      "stop": "2026-05-23T23:00:00+05:00",
-      "title": "Storied Spaces",
-      "sub_title": "From Then to Now",
-      "desc": "From an Italian Villa to a midwestern Victorian and a reimagined school house, homeowners share their historic home stories and how they've revitalized their spaces to enjoy the comforts of modern life.",
-      "date": "2026",
-      "language": "en",
-      "categories": [
-        "Series",
-        "House/garden"
-      ],
-      "episode": "S4 E2",
-      "icon": "http://dtil.tmsimg.com/assets/p22693750_b_h8_ad.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-05-23T23:00:00+05:00",
       "stop": "2026-05-24T00:00:00+05:00",
       "title": "Anything but Gray",
@@ -117,6 +87,45 @@
           "Michael Cordray"
         ]
       }
+    },
+    {
+      "start": "2026-05-24T03:00:00+05:00",
+      "stop": "2026-05-24T04:00:00+05:00",
+      "title": "Restoring Galveston",
+      "sub_title": "Cordrays' Home Reno",
+      "desc": "To balance design, family and functionality, Michael and Ashley build a staircase with custom newel post, add a fireplace with an old-wood mantel, build legs for their 12-foot island and put 5-foot cast iron kitchen sinks in their primary bathroom.",
+      "date": "2024",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Series",
+        "Home improvement",
+        "How-to"
+      ],
+      "episode": "S6 E3",
+      "icon": "http://dtil.tmsimg.com/assets/p18642690_b_h8_al.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Ashley Cordray",
+          "Michael Cordray"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-24T04:00:00+05:00",
+      "stop": "2026-05-24T05:00:00+05:00",
+      "title": "In With the Old",
+      "sub_title": "The 1800s Charleston Charmer",
+      "desc": "A couple transforms a dilapidated 1830s house in Charleston, S.C., into their dream home; they restore as many original details as possible, including the plaster walls, the floors and the trademark Charleston piazzas.",
+      "date": "2025",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Series",
+        "Home improvement"
+      ],
+      "episode": "S7 E14",
+      "icon": "http://dtil.tmsimg.com/assets/p20640650_b_h8_ae.jpg?w=960&h=540"
     }
   ]
 }

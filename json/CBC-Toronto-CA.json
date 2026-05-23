@@ -4,41 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-23T21:00:00+05:00",
-      "stop": "2026-05-23T22:00:00+05:00",
-      "title": "The Dog Academy",
-      "desc": "Newfador Ruby refuses to budge when owners Nichola and Zeal take her for a walk; six-year-old Maltese Bichon cross, Marco, trots up to The Academy with fed up owner, Beth, in tow.",
-      "date": "2023",
-      "language": "en",
-      "rating": "6",
-      "categories": [
-        "Series",
-        "Animals",
-        "Reality"
-      ],
-      "episode": "S1 E5",
-      "icon": "http://dtil.tmsimg.com/assets/p24341950_b_h8_al.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Nick Grimshaw"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-23T22:00:00+05:00",
-      "stop": "2026-05-23T23:00:00+05:00",
-      "title": "Absolutely Canadian",
-      "sub_title": "Dark Skies",
-      "desc": "Light pollution is drastically dimming the night sky around the globe; two amateur astronomers go on a quest to save a slice of the sky for star watchers now and forever.",
-      "language": "en",
-      "categories": [
-        "Series",
-        "Documentary"
-      ],
-      "episode": "E22",
-      "icon": "http://dtil.tmsimg.com/assets/p8822122_b_h10_ad.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-05-23T23:00:00+05:00",
       "stop": "2026-05-24T00:00:00+05:00",
       "title": "The Nature of Things",
@@ -114,6 +79,31 @@
           "Dwight Drummond"
         ]
       }
+    },
+    {
+      "start": "2026-05-24T03:30:00+05:00",
+      "stop": "2026-05-24T04:00:00+05:00",
+      "title": "Hockey Night in Canada: Hockey Central",
+      "desc": "Breaking news, analysis and debate from around the NHL.",
+      "date": "2021",
+      "language": "en",
+      "categories": [
+        "Hockey"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p19197934_b_h8_ab.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-24T04:00:00+05:00",
+      "stop": "2026-05-24T06:30:00+05:00",
+      "title": "Live: NHL Hockey",
+      "desc": "Eastern Conference Final, Game 2.",
+      "language": "en",
+      "categories": [
+        "Sports",
+        "Playoff sports",
+        "Hockey"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/GNLZZGG0034732C.jpg?w=960&h=540"
     }
   ]
 }
