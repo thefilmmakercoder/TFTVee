@@ -4,38 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-24T18:00:00+05:00",
-      "stop": "2026-05-24T18:30:00+05:00",
-      "title": "Travel Thru History",
-      "sub_title": "Flagstaff",
-      "desc": "Majestic pine trees, rolling hills and an amazing mix of architectural styles inspire awe and excitement in the crew as they arrive in Flagstaff, Arizona.",
-      "language": "en",
-      "categories": [
-        "Series",
-        "Travel",
-        "History"
-      ],
-      "episode": "S3 E4",
-      "icon": "http://dtil.tmsimg.com/assets/p9459138_b_h10_ab.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-24T18:30:00+05:00",
-      "stop": "2026-05-24T19:30:00+05:00",
-      "title": "Dream Cruises",
-      "sub_title": "AmaDara",
-      "desc": "A trip on a three deck river cruiser along the Tonle and Mekong rivers, then to Cambodia and Vietnam.",
-      "date": "2017",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Series",
-        "Travel",
-        "Documentary"
-      ],
-      "episode": "S5 E1",
-      "icon": "http://dtil.tmsimg.com/assets/p9789899_b_h10_ae.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-05-24T19:30:00+05:00",
       "stop": "2026-05-24T20:00:00+05:00",
       "title": "Selling Mega Mansions",
@@ -99,6 +67,45 @@
       ],
       "episode": "S3",
       "icon": "http://dtil.tmsimg.com/assets/p865073_b_h10_ab.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-24T21:30:00+05:00",
+      "stop": "2026-05-24T22:00:00+05:00",
+      "title": "Distant Shores",
+      "sub_title": "North to Chesapeake",
+      "desc": "Paul and Sheryl Shard are on a diverse voyage from England through the inland waterways of France to the Mediterranean Sea, an Atlantic crossing and island-hopping in the Caribbean aboard their 49-foot sailboat, Distant Shores II.",
+      "date": "2020",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Series",
+        "Outdoors",
+        "Nature",
+        "Travel"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p13175257_b_h10_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Sheryl Shard",
+          "Paul Shard"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-24T22:00:00+05:00",
+      "stop": "2026-05-24T22:30:00+05:00",
+      "title": "Global Passport",
+      "sub_title": "Colombia, Bold Bright & Beautiful",
+      "desc": "From the crumbling walls of colonial cities, to the beaches facing both the Pacific and the Caribbean oceans, Colombia is bold, bright and beautiful, bringing in discerning travelers by the thousands.",
+      "date": "2021",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Series",
+        "Travel"
+      ],
+      "episode": "S2 E8",
+      "icon": "http://dtil.tmsimg.com/assets/p17047145_b_h10_aa.jpg?w=960&h=540"
     }
   ]
 }

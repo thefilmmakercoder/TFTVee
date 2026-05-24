@@ -4,30 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-24T16:55:00+05:00",
-      "stop": "2026-05-24T17:05:00+05:00",
-      "title": "ITV News",
-      "desc": "National and international news with reports and analysis from ITV's Correspondents in the UK and around the world as well as the latest major sports results.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/b9847802-33f4-49e4-a43b-2145fd8f2a56/16-9"
-    },
-    {
-      "start": "2026-05-24T17:05:00+05:00",
-      "stop": "2026-05-24T19:15:00+05:00",
-      "title": "The Goonies",
-      "desc": "Cult adventure comedy film starring Sean Astin and Josh Brolin, 1985. A group of young misfits discover an ancient map and set out to find a legendary pirate's long-lost treasure.",
-      "language": "en",
-      "categories": [
-        "Movie",
-        "Adventure"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/b622c385-1ef9-432a-9093-a5bb95cb0023/16-9"
-    },
-    {
       "start": "2026-05-24T19:15:00+05:00",
       "stop": "2026-05-24T19:45:00+05:00",
       "title": "Celebrity Lingo",
@@ -74,6 +50,30 @@
         "Game Show"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/caefea0c-4347-4861-b991-efed14aa63bc/16-9"
+    },
+    {
+      "start": "2026-05-24T22:35:00+05:00",
+      "stop": "2026-05-24T22:45:00+05:00",
+      "title": "ITV Evening News",
+      "desc": "National and international news with reports and analysis from ITV's Correspondents in the UK and around the world as well as the latest major sports results.",
+      "language": "en",
+      "categories": [
+        "News & Documentary",
+        "News"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/8fa562e9-0c64-4805-8c06-00a3230c7019/16-9"
+    },
+    {
+      "start": "2026-05-24T22:45:00+05:00",
+      "stop": "2026-05-24T23:00:00+05:00",
+      "title": "ITV News London",
+      "desc": "The latest news and weather from London and the South East.",
+      "language": "en",
+      "categories": [
+        "News & Documentary",
+        "News"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/8aa758d5-d4bf-4d26-9aab-132d50ed21ee/16-9"
     }
   ]
 }

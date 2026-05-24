@@ -4,42 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-24T17:00:00+05:00",
-      "stop": "2026-05-24T18:00:00+05:00",
-      "title": "Newshour",
-      "desc": "Latest news and in-depth analysis from around the world.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "World Affairs"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/8eb9832d-e2ad-4b38-88d2-ca7a370a7f12/16-9"
-    },
-    {
-      "start": "2026-05-24T18:00:00+05:00",
-      "stop": "2026-05-24T19:00:00+05:00",
-      "title": "Newshour",
-      "desc": "Latest news and in-depth analysis from around the world.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "World Affairs"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/8eb9832d-e2ad-4b38-88d2-ca7a370a7f12/16-9"
-    },
-    {
-      "start": "2026-05-24T19:00:00+05:00",
-      "stop": "2026-05-24T19:30:00+05:00",
-      "title": "News Live",
-      "desc": "Up-to-date news and analysis from around the world.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "World Affairs"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/497507ae-beb8-41fb-81d0-3c8f8856d2ce/16-9"
-    },
-    {
       "start": "2026-05-24T19:30:00+05:00",
       "stop": "2026-05-24T20:00:00+05:00",
       "title": "The Listening Post",
@@ -75,6 +39,43 @@
         "World Affairs"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/497507ae-beb8-41fb-81d0-3c8f8856d2ce/16-9"
+    },
+    {
+      "start": "2026-05-24T21:30:00+05:00",
+      "stop": "2026-05-24T22:00:00+05:00",
+      "title": "101 East",
+      "sub_title": "This Sea Is Mine",
+      "desc": "101 East investigates the escalation and significance of maritime skirmishes between China and the Philippines in the South China Sea.",
+      "language": "en",
+      "categories": [
+        "News & Documentary",
+        "Politics"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/58559e8f-3e17-4165-8eba-b3cf5de82929/16-9"
+    },
+    {
+      "start": "2026-05-24T22:00:00+05:00",
+      "stop": "2026-05-24T22:30:00+05:00",
+      "title": "News Live",
+      "desc": "Up-to-date news and analysis from around the world.",
+      "language": "en",
+      "categories": [
+        "News & Documentary",
+        "World Affairs"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/497507ae-beb8-41fb-81d0-3c8f8856d2ce/16-9"
+    },
+    {
+      "start": "2026-05-24T22:30:00+05:00",
+      "stop": "2026-05-24T23:00:00+05:00",
+      "title": "Inside Story",
+      "desc": "Ep.1327 Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds from around the globe.",
+      "language": "en",
+      "categories": [
+        "News & Documentary",
+        "World Affairs"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/67d9c3f0-7575-43cc-898a-b119efeb0e75/16-9"
     }
   ]
 }
