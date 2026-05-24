@@ -4,14 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-24T09:30:00+05:00",
-      "stop": "2026-05-24T15:30:00+05:00",
-      "title": "..programmes start at 7.00pm",
-      "desc": "BBC Three delivers bold and provocative content for younger audiences, featuring groundbreaking documentaries, experimental comedy, and fresh drama.",
-      "language": "en",
-      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/BBC-Three-UK.png"
-    },
-    {
       "start": "2026-05-24T15:30:00+05:00",
       "stop": "2026-05-24T21:30:00+05:00",
       "title": "..programmes start at 7.00pm",
@@ -58,6 +50,18 @@
         "Soap"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/8e0cc895-6613-4c48-a83e-22caea9be158/16-9"
+    },
+    {
+      "start": "2026-05-25T00:00:00+05:00",
+      "stop": "2026-05-25T00:30:00+05:00",
+      "title": "EastEnders Omnibus",
+      "desc": "Walford gathers for the day of Nigel's funeral, Grant worries about Mark, and the Mitchells head off on a mission.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Soap"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/eafdd707-672f-4609-893a-449b55c3f085/16-9"
     }
   ]
 }
