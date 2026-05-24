@@ -1,13 +1,280 @@
 <?xml version='1.0' encoding='utf-8'?>
 <tv>
   <channel id="CBS2-KCBS-US">
+    <icon src="https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/CBS2-KCBS-US.png" />
+    <url>https://tv.thefilmtuition.com</url>
     <display-name>KCBS</display-name>
-    <icon src="https://thefilmtuition.com/tvlogo/CBS2-KCBS-US.png" />
-  </channel><programme channel="CBS2-KCBS-US" start="20260516073000 +0500" stop="20260516080000 +0500">
+  </channel><programme channel="CBS2-KCBS-US" start="20260522190000 +0500" stop="20260522210000 +0500">
+    <title>CBS Mornings</title>
+    <desc>Seattle Storm head coach Sonia Raman.</desc>
+    <episode-num system="onscreen">E102</episode-num>
+    <language>en</language>
+  </programme><programme channel="CBS2-KCBS-US" start="20260522210000 +0500" stop="20260522220000 +0500">
+    <title>Let's Make a Deal</title>
+    <desc>Costumed contestants compete for cash and prizes.</desc>
+    <episode-num system="onscreen">S17 E160</episode-num>
+    <language>en</language>
+  </programme><programme channel="CBS2-KCBS-US" start="20260522220000 +0500" stop="20260522230000 +0500">
+    <title>The Price Is Right</title>
+    <sub-title />
+    <desc>Participants must guess the prices of different types of items, ranging from vehicles to electronic appliances, to win a prize.</desc>
+    <episode-num system="onscreen">S54 E160</episode-num>
+    <credits>
+      <actor>Drew Carey</actor>
+    </credits><date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Game show</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p31082639_b_h8_aa.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+  </programme><programme channel="CBS2-KCBS-US" start="20260522230000 +0500" stop="20260522233000 +0500">
+    <title>CBS LA at 11am</title>
+    <sub-title />
+    <desc>Join the CBS LA team for stories from communities around SoCal, breaking news from The Desk, and NEXT Weather from the Weathersphere.</desc>
+    <date>2025</date>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p31308558_b_h10_aa.jpg?w=960&amp;h=540" />
+  </programme><programme channel="CBS2-KCBS-US" start="20260522233000 +0500" stop="20260523003000 +0500">
+    <title>The Young and the Restless</title>
+    <sub-title />
+    <desc>Nikki stands her ground; Holden and Claire's trip takes an unexpected turn; Jack makesa bad decision.</desc>
+    <episode-num system="onscreen">S53 E158</episode-num>
+    <credits>
+      <actor>Peter Bergman</actor>
+      <actor>Eric Braeden</actor>
+      <actor>Christel Khalil</actor>
+    </credits><date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Soap</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p183904_b_h8_ai.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="Film &amp; Publication Board">
+      <value>13</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating>
+  </programme><programme channel="CBS2-KCBS-US" start="20260523003000 +0500" stop="20260523010000 +0500">
+    <title>The Bold and the Beautiful</title>
+    <sub-title />
+    <desc>Hope's career at Forrester hangs in balance; Will puts his heart on the line.</desc>
+    <episode-num system="onscreen">S39 E174</episode-num>
+    <credits>
+      <actor>Katherine Kelly Lang</actor>
+      <actor>Jacqueline MacInnes Wood</actor>
+      <actor>Thorsten Kaye</actor>
+    </credits><date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Soap</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Romance</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p31167565_b_h10_aa.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>12</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K12</value>
+    </rating><rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating><rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating>
+  </programme><programme channel="CBS2-KCBS-US" start="20260523010000 +0500" stop="20260523020000 +0500">
+    <title>Beyond the Gates</title>
+    <sub-title />
+    <desc>Anita, Vernon and Ted have to do damage control; Andre and Dani console someone they love; Nicole is asked to reach out to a distraught colleague; Donnell confronts Joey as Kat doles out advice to Deanna; one of the McBrides has a stunning reunion.</desc>
+    <episode-num system="onscreen">S2 E94</episode-num>
+    <credits>
+      <actor>Clifton Davis</actor>
+      <actor>Tamara Tunie</actor>
+      <actor>Daphnee Duplaix</actor>
+    </credits><date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Soap</category>
+    <category lang="en">Drama</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p28339808_b_h8_aa.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+  </programme><programme channel="CBS2-KCBS-US" start="20260523020000 +0500" stop="20260523023000 +0500">
+    <title>The Drew Barrymore Show</title>
+    <sub-title>Sunny Anderson</sub-title>
+    <desc>Sunny Anderson joins Drew and Ross to hit the headlines and has a twist on a Key lime pie.</desc>
+    <episode-num system="onscreen">S6 E43</episode-num>
+    <credits>
+      <actor>Drew Barrymore</actor>
+      <actor>Ross Mathews</actor>
+      <actor>Sunny Anderson</actor>
+    </credits><date>2025</date>
+    <category lang="en">Series</category>
+    <category lang="en">Talk</category>
+    <category lang="en">Entertainment</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p31124897_b_h8_aa.jpg?w=960&amp;h=540" />
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating><rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating>
+  </programme><programme channel="CBS2-KCBS-US" start="20260523023000 +0500" stop="20260523030000 +0500">
+    <title>The Drew Barrymore Show</title>
+    <sub-title>Alex Edelman; Jake Cohen</sub-title>
+    <desc>Comic Alex Edelman chats and helps Jake Cohen whip up something in the kitchen.</desc>
+    <episode-num system="onscreen">S6 E44</episode-num>
+    <credits>
+      <actor>Drew Barrymore</actor>
+      <actor>Alex Edelman</actor>
+      <actor>Jake Cohen</actor>
+    </credits><date>2025</date>
+    <category lang="en">Series</category>
+    <category lang="en">Talk</category>
+    <category lang="en">Entertainment</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p31124897_b_h8_aa.jpg?w=960&amp;h=540" />
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating><rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating>
+  </programme><programme channel="CBS2-KCBS-US" start="20260523030000 +0500" stop="20260523033000 +0500">
+    <title>Judge Judy</title>
+    <sub-title>Stalking Ex-Lover?; Car Meets Brick Wall!</sub-title>
+    <desc>A woman obtains an order of protection against her ex, saying he tore down her fence; a woman sues her former friend for driving her car without her permission and totaling it, but he says the car was faulty and spun out of control.</desc>
+    <episode-num system="onscreen">S19 E214</episode-num>
+    <credits>
+      <actor>Judy Sheindlin</actor>
+    </credits><date>2015</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">Law</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p184382_b_h8_af.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating>
+  </programme><programme channel="CBS2-KCBS-US" start="20260523033000 +0500" stop="20260523040000 +0500">
+    <title>Judge Judy</title>
+    <sub-title>Family Drama Lockout!; Divorcee Tax Fraud?</sub-title>
+    <desc>A woman sues her brother for locking her out of her home; a woman accuses her ex-husband of fraudulently taking money from a shared Roth IRA.</desc>
+    <episode-num system="onscreen">S19 E101</episode-num>
+    <credits>
+      <actor>Judy Sheindlin</actor>
+    </credits><date>2014</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">Law</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p184382_b_h8_af.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating>
+  </programme><programme channel="CBS2-KCBS-US" start="20260523040000 +0500" stop="20260523050000 +0500">
+    <title>CBS LA at 4pm</title>
+    <sub-title />
+    <desc>Join the CBS LA team for stories from communities around SoCal, breaking news from The Desk, and NEXT Weather from the Weathersphere.</desc>
+    <date>2025</date>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p31317859_b_h10_aa.jpg?w=960&amp;h=540" />
+  </programme><programme channel="CBS2-KCBS-US" start="20260523050000 +0500" stop="20260523060000 +0500">
+    <title>CBS LA at 5pm</title>
+    <sub-title />
+    <desc>Join the CBS LA team for stories from communities around SoCal, breaking news from The Desk, and NEXT Weather from the Weathersphere.</desc>
+    <date>2025</date>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p31308569_b_h10_aa.jpg?w=960&amp;h=540" />
+  </programme><programme channel="CBS2-KCBS-US" start="20260523060000 +0500" stop="20260523063000 +0500">
+    <title>CBS LA at 6pm</title>
+    <sub-title />
+    <desc>Join the CBS LA team for stories from communities around SoCal, breaking news from The Desk, and NEXT Weather from the Weathersphere.</desc>
+    <date>2025</date>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p31308575_b_h10_aa.jpg?w=960&amp;h=540" />
+  </programme><programme channel="CBS2-KCBS-US" start="20260523063000 +0500" stop="20260523070000 +0500">
+    <title>CBS Evening News</title>
+    <sub-title />
+    <desc>Tony Dokoupil shares the day's most important stories, delivering context and depth to bring greater understanding to one's world.</desc>
+    <episode-num system="onscreen">E142</episode-num>
+    <credits>
+      <actor>Tony Dokoupil</actor>
+      <actor>Maurice DuBois</actor>
+      <actor>Jericka Duncan</actor>
+    </credits><date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p28807922_b_h8_ae.jpg?w=960&amp;h=540" />
+  </programme><programme channel="CBS2-KCBS-US" start="20260523070000 +0500" stop="20260523073000 +0500">
+    <title>Inside Edition</title>
+    <sub-title>Car Travel Memorial Day Weekend</sub-title>
+    <desc>How to make sure your car is ready for the busy holiday travel weekend.</desc>
+    <episode-num system="onscreen">S38 E185</episode-num>
+    <credits>
+      <actor>Eva Pilgrim</actor>
+      <actor>Mary Calvi</actor>
+      <actor>Jim Moret</actor>
+    </credits><date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Newsmagazine</category>
+    <category lang="en">Public affairs</category>
+    <category lang="en">Interview</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p184110_b_h10_aa.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="CBS2-KCBS-US" start="20260523073000 +0500" stop="20260523080000 +0500">
     <title>Entertainment Tonight</title>
-    <sub-title>ET Then &amp; Now Exclusive</sub-title>
-    <desc>Cary Elwes (Peacock's "M.I.A.") walks through four decades of roles; premieres of "The Mandalorian &amp; Grogu" and "Spider Noir"; the Sports Illustrated swimsuit issue launch; 61st Academy of Country Music Awards preview.</desc>
-    <episode-num system="onscreen">S45 E220</episode-num>
+    <sub-title />
+    <desc>Stephen Colbert's final episode of "The Late Show"; "Propeller One-Way Coach"; Dorit Kemsley (memoir "Unburdened"); the 52nd American Music Awards; Tony Awards nominees; Kenan Thompson surprises acting teacher Freddie Hendricks; Pedro Pascal ("Star Wars: The Mandalorian and Grogu"); Sonequa Martin-Green ("Boston Blue"); Clint Black and Lisa Hartman Black (movie "When I Said I Do"); Miley Cyrus' Walk of Fame ceremony.</desc>
+    <episode-num system="onscreen">S45 E226</episode-num>
     <credits>
       <actor>Kevin Frazier</actor>
       <actor>Nischelle Turner</actor>
@@ -21,13 +288,12 @@
     <rating system="Australian Classification Board">
       <value>M 15+</value>
     </rating>
-  </programme><programme channel="CBS2-KCBS-US" start="20260516080000 +0500" stop="20260516090000 +0500">
+  </programme><programme channel="CBS2-KCBS-US" start="20260523080000 +0500" stop="20260523090000 +0500">
     <title>Sheriff Country</title>
-    <sub-title>Compromised</sub-title>
-    <desc>Sheriff Mickey Fox aids a federal investigation into a high-stakes case involving alleged interstate crime and a web of local land deals.</desc>
-    <episode-num system="onscreen">S1 E19</episode-num>
+    <sub-title>Mexico</sub-title>
+    <desc>With her department under scrutiny and tensions rising across Edgewater, Sheriff Mickey Fox faces the fallout from a major investigation that threatens to upend everything she's built.</desc>
+    <episode-num system="onscreen">S1 E20</episode-num>
     <credits>
-      <director>Tara Miele</director>
       <actor>Morena Baccarin</actor>
       <actor>W. Earl Brown</actor>
       <actor>Matt Lauria</actor>
@@ -43,13 +309,13 @@
     </rating><rating system="Australian Classification Board">
       <value>M 15+</value>
     </rating>
-  </programme><programme channel="CBS2-KCBS-US" start="20260516090000 +0500" stop="20260516100000 +0500">
+  </programme><programme channel="CBS2-KCBS-US" start="20260523090000 +0500" stop="20260523100000 +0500">
     <title>Fire Country</title>
-    <sub-title>Rain Check for Tomorrow</sub-title>
-    <desc>When a volatile blaze at the Pineville Dam triggers a cascading infrastructure failure, Station 42 races to execute a series of perilous rescues.</desc>
-    <episode-num system="onscreen">S4 E19</episode-num>
+    <sub-title>Try Not to Drown</sub-title>
+    <desc>After a catastrophic dam failure unleashes historic floodwaters across Edgewater, Station 42 and Three Rock battle rising waters and dwindling resources.</desc>
+    <episode-num system="onscreen">S4 E20</episode-num>
     <credits>
-      <director>Ruben Garcia</director>
+      <director>Gonzalo Amat</director>
       <actor>Max Thieriot</actor>
       <actor>Billy Burke</actor>
       <actor>Kevin Alejandro</actor>
@@ -70,16 +336,13 @@
       <value>A14</value>
     </rating><rating system="Medietilsynet">
       <value>15 år</value>
-    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
-      <value>12</value>
     </rating>
-  </programme><programme channel="CBS2-KCBS-US" start="20260516100000 +0500" stop="20260516110000 +0500">
+  </programme><programme channel="CBS2-KCBS-US" start="20260523100000 +0500" stop="20260523110000 +0500">
     <title>Boston Blue</title>
-    <sub-title>Chasing Monsters</sub-title>
-    <desc>A deadly threat strikes close to home, pulling Lena, Danny and the team into an intense investigation; Mae faces a political and personal reckoning, prompting a revelation that pushes Lena toward a life-changing decision.</desc>
-    <episode-num system="onscreen">S1 E19</episode-num>
+    <sub-title>Patrol</sub-title>
+    <desc>An investigation collides with pivotal personal and professional decisions; as the D.A. election draws closer, shifting dynamics and an unexpected incident heighten the urgency and raise questions for everyone involved.</desc>
+    <episode-num system="onscreen">S1 E20</episode-num>
     <credits>
-      <director>Sherwin Shilati</director>
       <actor>Donnie Wahlberg</actor>
       <actor>Sonequa Martin-Green</actor>
       <actor>Ernie Hudson</actor>
@@ -97,7 +360,7 @@
     </rating><rating system="Kijkwijzer">
       <value>12</value>
     </rating>
-  </programme><programme channel="CBS2-KCBS-US" start="20260516110000 +0500" stop="20260516113500 +0500">
+  </programme><programme channel="CBS2-KCBS-US" start="20260523110000 +0500" stop="20260523113500 +0500">
     <title>CBS LA at 11pm</title>
     <sub-title />
     <desc>Join the CBS LA team for stories from communities around SoCal, breaking news from The Desk, and NEXT Weather from the Weathersphere.</desc>
@@ -105,77 +368,43 @@
     <category lang="en">News</category>
     <language>en</language>
     <icon src="http://dtil.tmsimg.com/assets/p31308578_b_h10_aa.jpg?w=960&amp;h=540" />
-  </programme><programme channel="CBS2-KCBS-US" start="20260516113500 +0500" stop="20260516123700 +0500">
-    <title>The Late Show With Stephen Colbert</title>
-    <sub-title>Jimmy Fallon; Jimmy Kimmel; Seth Meyers; John Oliver</sub-title>
-    <desc>Podcast hosts Jimmy Fallon, Jimmy Kimmel, Seth Meyers and John Oliver ("Strike Force Five").</desc>
-    <episode-num system="onscreen">S11 E111</episode-num>
-    <credits>
-      <actor>Stephen Colbert</actor>
-      <actor>Jimmy Fallon</actor>
-      <actor>Jimmy Kimmel</actor>
-    </credits><date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Talk</category>
-    <category lang="en">Comedy</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p31135627_b_h8_ab.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Australian Classification Board">
-      <value>PG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating>
-  </programme><programme channel="CBS2-KCBS-US" start="20260516123700 +0500" stop="20260516130700 +0500">
-    <title>Comics Unleashed With Byron Allen</title>
-    <sub-title>Talia Reese; DeRay Davis; Matty Chymbor; Gabriel Rutledge</sub-title>
-    <desc>Talia Reese; DeRay Davis; Matty Chymbor; Gabriel Rutledge.</desc>
-    <episode-num system="onscreen">S4 E65</episode-num>
-    <credits>
-      <actor>Byron Allen</actor>
-      <actor>Talia Reese</actor>
-      <actor>DeRay Davis</actor>
-    </credits><date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Comedy</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p186631_b_h8_ad.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating>
-  </programme><programme channel="CBS2-KCBS-US" start="20260516130700 +0500" stop="20260516133700 +0500">
+  </programme><programme channel="CBS2-KCBS-US" start="20260523113500 +0500" stop="20260523120500 +0500">
     <title>Comics Unleashed With Byron Allen</title>
     <sub-title />
-    <desc>John Heffron; Dave Landau; Steve White; Jodi Miller.</desc>
-    <episode-num system="onscreen">S3 E51</episode-num>
+    <desc>Host and comedian Byron Allen invites four A-List comedians to this round-table comedy talk show. Guest comedians share their own funny perspectives on current events, everyday life, pop culture, entertainment and more. Filmed in front of a live audience in Hollywood, previous guests have included: Dennis Miller, Tom Arnold, Howie Mandel, Jon Lovitz and Cedric the Entertainer.</desc>
     <credits>
       <actor>Byron Allen</actor>
-      <actor>John Heffron</actor>
-      <actor>Dave Landau</actor>
-    </credits><date>2023</date>
-    <category lang="en">Series</category>
+    </credits><date>2006</date>
     <category lang="en">Comedy</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p186631_b_h8_ad.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p12513874_b_h10_ab.jpg?w=960&amp;h=540" />
     <rating system="USA Parental Rating">
       <value>TVPG</value>
     </rating><rating system="Canadian Parental Rating">
       <value>PG</value>
     </rating>
-  </programme><programme channel="CBS2-KCBS-US" start="20260516133700 +0500" stop="20260516140500 +0500">
+  </programme><programme channel="CBS2-KCBS-US" start="20260523120500 +0500" stop="20260523123700 +0500">
+    <title>Comics Unleashed With Byron Allen</title>
+    <sub-title />
+    <desc>Host and comedian Byron Allen invites four A-List comedians to this round-table comedy talk show. Guest comedians share their own funny perspectives on current events, everyday life, pop culture, entertainment and more. Filmed in front of a live audience in Hollywood, previous guests have included: Dennis Miller, Tom Arnold, Howie Mandel, Jon Lovitz and Cedric the Entertainer.</desc>
+    <credits>
+      <actor>Byron Allen</actor>
+    </credits><date>2006</date>
+    <category lang="en">Comedy</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p12513874_b_h10_ab.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="CBS2-KCBS-US" start="20260523123700 +0500" stop="20260523130700 +0500">
     <title>Funny You Should Ask</title>
     <sub-title />
-    <desc>Guest stars include Jamie Kennedy, Sheryl Underwood, Adam Carolla, Byron Allen, Natasha Leggero and Jay Mohr.</desc>
-    <episode-num system="onscreen">S9 E63</episode-num>
+    <desc>Former "Extra" correspondent Jon Kelley hosts this comedy game show that features a panel of comedians interacting with two contestants, who have a chance to win cash if they can read between the lines of the comics' jokes. The contestants ask the comedians questions, to which the jokemakers give humorous answers. The players are tasked with determining if each answer is right or wrong, earning increasingly higher amounts of money as the game progresses. The contestant who has the most money at the end of the game goes on to the bonus round to potentially earn more cash.</desc>
     <credits>
       <actor>Jon Kelley</actor>
-    </credits><date>2026</date>
-    <category lang="en">Series</category>
+    </credits><date>2017</date>
     <category lang="en">Game show</category>
     <category lang="en">Comedy</category>
     <language>en</language>
@@ -185,25 +414,59 @@
     </rating><rating system="USA Parental Rating">
       <value>TVPG</value>
     </rating>
-  </programme><programme channel="CBS2-KCBS-US" start="20260516140500 +0500" stop="20260516143500 +0500">
+  </programme><programme channel="CBS2-KCBS-US" start="20260523130700 +0500" stop="20260523133700 +0500">
+    <title>Funny You Should Ask</title>
+    <sub-title />
+    <desc>Former "Extra" correspondent Jon Kelley hosts this comedy game show that features a panel of comedians interacting with two contestants, who have a chance to win cash if they can read between the lines of the comics' jokes. The contestants ask the comedians questions, to which the jokemakers give humorous answers. The players are tasked with determining if each answer is right or wrong, earning increasingly higher amounts of money as the game progresses. The contestant who has the most money at the end of the game goes on to the bonus round to potentially earn more cash.</desc>
+    <credits>
+      <actor>Jon Kelley</actor>
+    </credits><date>2017</date>
+    <category lang="en">Game show</category>
+    <category lang="en">Comedy</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p28608175_b_h10_aa.jpg?w=960&amp;h=540" />
+    <rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating>
+  </programme><programme channel="CBS2-KCBS-US" start="20260523133700 +0500" stop="20260523140500 +0500">
+    <title>Funny You Should Ask</title>
+    <sub-title />
+    <desc>Jon Lovitz; Raven-Symoné; Howie Mandel; Byron Allen; Whitney Cummings; Jeff Ross.</desc>
+    <episode-num system="onscreen">S6 E15</episode-num>
+    <credits>
+      <actor>Jon Kelley</actor>
+    </credits><date>2022</date>
+    <category lang="en">Series</category>
+    <category lang="en">Game show</category>
+    <category lang="en">Comedy</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p13115825_b_h10_ac.jpg?w=960&amp;h=540" />
+    <rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating>
+  </programme><programme channel="CBS2-KCBS-US" start="20260523140500 +0500" stop="20260523143500 +0500">
     <title>Protect Your Family From Identity Theft</title>
     <sub-title />
     <desc>Every 5 seconds there's a victim of identity theft; LifeLock helps alert you, restore your identity, and reimburse lost funds—leading the way in protecting families every day.</desc>
     <category lang="en">Consumer</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/tvbanners/generic/generic_tvbanners_h12.png" />
-  </programme><programme channel="CBS2-KCBS-US" start="20260516143500 +0500" stop="20260516150500 +0500">
+    <icon src="http://dtil.tmsimg.com/assets/p33079900_st_h10_aa.jpg?w=960&amp;h=540" />
+  </programme><programme channel="CBS2-KCBS-US" start="20260523143500 +0500" stop="20260523150500 +0500">
     <title>Accident? Start here.</title>
     <sub-title />
     <desc>After an accident, discover your options, avoid costly mistakes, and learn how to connect with an attorney to review your case.</desc>
     <category lang="en">Consumer</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/tvbanners/generic/generic_tvbanners_h12.png" />
-  </programme><programme channel="CBS2-KCBS-US" start="20260516150500 +0500" stop="20260516153500 +0500">
+    <icon src="http://dtil.tmsimg.com/assets/p32944877_st_h10_aa.jpg?w=960&amp;h=540" />
+  </programme><programme channel="CBS2-KCBS-US" start="20260523150500 +0500" stop="20260523153500 +0500">
     <title>CBS Evening News</title>
     <sub-title />
     <desc>Tony Dokoupil shares the day's most important stories, delivering context and depth to bring greater understanding to one's world.</desc>
-    <episode-num system="onscreen">E135</episode-num>
+    <episode-num system="onscreen">E142</episode-num>
     <credits>
       <actor>Tony Dokoupil</actor>
       <actor>Maurice DuBois</actor>
@@ -213,11 +476,11 @@
     <category lang="en">News</category>
     <language>en</language>
     <icon src="http://dtil.tmsimg.com/assets/p28807922_b_h8_ae.jpg?w=960&amp;h=540" />
-  </programme><programme channel="CBS2-KCBS-US" start="20260516153500 +0500" stop="20260516160000 +0500">
+  </programme><programme channel="CBS2-KCBS-US" start="20260523153500 +0500" stop="20260523160000 +0500">
     <title>Made in Hollywood</title>
-    <sub-title>Is God Is, The Wizard of the Kremlin, Obsession, Long Story Short, Dust Bunny - Blu-Ray Release</sub-title>
-    <desc>Mads Mikkelsen; David Dastmalchian; Paul Dano; Michael Johnston; Vivica A. Fox; Lisa Edelstein; Kara Young.</desc>
-    <episode-num system="onscreen">S21 E31</episode-num>
+    <sub-title>I Love Boosters, Jack Ryan: Ghost War, Ladies First, Dutton Ranch, Dreams - Blu-Ray Release</sub-title>
+    <desc>Natalie Alyn Lind; Eiza González; Finn Little; John Krasinski; Rosamund Pike; Sacha Baron Cohen; Jessica Chastain; Keke Palmer; Sienna Miller.</desc>
+    <episode-num system="onscreen">S21 E32</episode-num>
     <credits>
       <actor>Kylie Erica Mar</actor>
     </credits><date>2026</date>
@@ -231,21 +494,22 @@
     </rating><rating system="Canadian Parental Rating">
       <value>PG</value>
     </rating>
-  </programme><programme channel="CBS2-KCBS-US" start="20260516160000 +0500" stop="20260516180000 +0500">
+  </programme><programme channel="CBS2-KCBS-US" start="20260523160000 +0500" stop="20260523180000 +0500">
     <title>CBS Saturday Morning</title>
     <sub-title />
-    <desc>Each Saturday morning, Adriana Diaz and Kelly O'Grady report on the week's top stories; the broadcast, known for its signature segments The Dish and Saturday Sessions, offers insightful conversations with artists, authors, chefs and musicians.</desc>
-    <episode-num system="onscreen">E20</episode-num>
+    <desc>Ryan Bingham performs; The Dish: Moo's Craft Barbecue; actor Lamorne Morris.</desc>
+    <episode-num system="onscreen">E21</episode-num>
     <credits>
       <actor>Adriana Diaz</actor>
       <actor>Kelly O'Grady</actor>
+      <actor>Ryan Bingham</actor>
     </credits><date>2026</date>
     <category lang="en">Series</category>
     <category lang="en">Talk</category>
     <category lang="en">News</category>
     <language>en</language>
     <icon src="http://dtil.tmsimg.com/assets/p20589876_b_h8_af.jpg?w=960&amp;h=540" />
-  </programme><programme channel="CBS2-KCBS-US" start="20260516180000 +0500" stop="20260516190000 +0500">
+  </programme><programme channel="CBS2-KCBS-US" start="20260523180000 +0500" stop="20260523190000 +0500">
     <title>CBS LA Mornings at 6am</title>
     <sub-title />
     <desc>Start your day with CBS LA Mornings, covering breaking stories from The Desk, and NEXT Weather and Traffic for Southern California.</desc>
@@ -253,7 +517,7 @@
     <category lang="en">News</category>
     <language>en</language>
     <icon src="http://dtil.tmsimg.com/assets/p31308548_b_h10_aa.jpg?w=960&amp;h=540" />
-  </programme><programme channel="CBS2-KCBS-US" start="20260516190000 +0500" stop="20260516200000 +0500">
+  </programme><programme channel="CBS2-KCBS-US" start="20260523190000 +0500" stop="20260523200000 +0500">
     <title>CBS LA Mornings at 7am</title>
     <sub-title />
     <desc>Start your day with CBS LA Mornings, covering breaking stories from The Desk, and NEXT Weather and Traffic for Southern California.</desc>
@@ -261,11 +525,11 @@
     <category lang="en">News</category>
     <language>en</language>
     <icon src="http://dtil.tmsimg.com/assets/p31308696_b_h10_aa.jpg?w=960&amp;h=540" />
-  </programme><programme channel="CBS2-KCBS-US" start="20260516200000 +0500" stop="20260516203000 +0500">
+  </programme><programme channel="CBS2-KCBS-US" start="20260523200000 +0500" stop="20260523203000 +0500">
     <title>Lucky Dog: Reunions</title>
-    <sub-title>Lizzie Reunion</sub-title>
-    <desc>A terrier mix is acclimated to boat rides and trained to alert its hearing-impaired adopter when the telephone is ringing.</desc>
-    <episode-num system="onscreen">S3 E21</episode-num>
+    <sub-title>Special Deliveries</sub-title>
+    <desc>Two former shelter dogs trained to make special deliveries for their adopters.</desc>
+    <episode-num system="onscreen">S3 E22</episode-num>
     <credits>
       <actor>Brandon McMillan</actor>
       <actor>Michael Berger</actor>
@@ -285,11 +549,11 @@
     </rating><rating system="Régie du cinéma">
       <value>G</value>
     </rating>
-  </programme><programme channel="CBS2-KCBS-US" start="20260516203000 +0500" stop="20260516210000 +0500">
+  </programme><programme channel="CBS2-KCBS-US" start="20260523203000 +0500" stop="20260523210000 +0500">
     <title>Lucky Dog: Down Under</title>
-    <sub-title>Harlie &amp; Aislinn</sub-title>
-    <desc>After a tragic motorbike accident, a woman hopes a Maltese-terrier mix named Harlie will be the perfect companion to stay by her side; a young adult looking for a big, energetic dog meets a 6-month-old husky cross named Aislinn.</desc>
-    <episode-num system="onscreen">S1 E21</episode-num>
+    <sub-title>Dogs With a Special Purpose</sub-title>
+    <desc>Three families arrive at the Animal Welfare League, each looking for a dog for a very special purpose.</desc>
+    <episode-num system="onscreen">S1 E22</episode-num>
     <credits>
       <actor>Brandon McMillan</actor>
     </credits><date>2026</date>
@@ -306,82 +570,58 @@
     </rating><rating system="Canadian Parental Rating">
       <value>G</value>
     </rating>
-  </programme><programme channel="CBS2-KCBS-US" start="20260516210000 +0500" stop="20260516220000 +0500">
-    <title>We Need to Talk</title>
-    <sub-title />
-    <desc>WE NEED TO TALK offers a unique take on the world of sports through the eyes of some of the most influential women in the business. The roster of commentators on this award-winning program includes prominent sports broadcasters Tracy Wolfson, Dana Jacobson, Tina Cervasio, Sarah Kustok, AJ Ross and Jenny Dell; accomplished journalists Lesley Visser, Andrea Kremer, and Aditi Kinkhabwala; pioneering executives Katrina Adams and Amy Trask; and elite athletes Lisa Leslie, Swin Cash, Summer Sanders, Dara Torres, and Renee Montgomery.</desc>
-    <date>2014</date>
-    <category lang="en">Sports talk</category>
+  </programme><programme channel="CBS2-KCBS-US" start="20260523210000 +0500" stop="20260523213000 +0500">
+    <title>Mission Unstoppable</title>
+    <sub-title>Creating Catastrophes, Creeping Rocks, and Cute Snakes</sub-title>
+    <desc>A physicist who creates disasters to help save lives; the mysterious walking rocks of Death Valley; learning about snakes; how studying music in school helped one woman find her way toward a career in STEM.</desc>
+    <episode-num system="onscreen">S7 E22</episode-num>
+    <credits>
+      <actor>Miranda Cosgrove</actor>
+      <actor>Fig O'Reilly</actor>
+      <actor>Erica Hernandez</actor>
+    </credits><date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Educational</category>
+    <category lang="en">Science</category>
+    <category lang="en">Documentary</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p11093858_b_h10_ab.jpg?w=960&amp;h=540" />
-  </programme><programme channel="CBS2-KCBS-US" start="20260516220000 +0500" stop="20260517040000 +0500">
-    <title>Live: 2026 PGA Championship</title>
+    <icon src="http://dtil.tmsimg.com/assets/p31251646_b_h8_ab.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+  </programme><programme channel="CBS2-KCBS-US" start="20260523213000 +0500" stop="20260523220000 +0500">
+    <title>Live: WNBA Tip-Off Show</title>
     <sub-title />
-    <desc>The PGA Championship continues with the third round at Aronimink Golf Club in Pennsylvania. The major tournament returns to the 7,394-yard, par-70 layout for the first time since 1962 as the remaining field competes for a $19 million purse.</desc>
+    <desc>Pregame coverage of WNBA action.</desc>
+    <date>2025</date>
+    <category lang="en">Basketball</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p30219819_b_h10_aa.jpg?w=960&amp;h=540" />
+  </programme><programme channel="CBS2-KCBS-US" start="20260523220000 +0500" stop="20260524000000 +0500">
+    <title>Live: WNBA Basketball</title>
+    <sub-title />
+    <desc>The Chicago Sky host the Minnesota Lynx for the second meeting of their regular-season series. Chicago leads the season series 1-0. Center Kamilla Cardoso leads the Sky against guard Kayla McBride and the visiting Western Conference squad.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Basketball</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG003229WJ.jpg?w=960&amp;h=540" />
+  </programme><programme channel="CBS2-KCBS-US" start="20260524000000 +0500" stop="20260524030000 +0500">
+    <title>Live: PGA Tour Golf</title>
+    <sub-title />
+    <desc>The third round of the PGA Tour Byron Nelson gets underway at TPC Craig Ranch. The remaining contenders navigate Moving Day to make assertive leaderboard climbs and secure spots within the final Sunday groupings in McKinney, Texas.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Golf</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p32512159_b_h10_aa.jpg?w=960&amp;h=540" />
-  </programme><programme channel="CBS2-KCBS-US" start="20260517040000 +0500" stop="20260517050000 +0500">
-    <title>Sports Central</title>
-    <sub-title />
-    <desc />
-    <date>2023</date>
-    <category lang="en">News</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p26402663_b_h10_ac.jpg?w=960&amp;h=540" />
-  </programme><programme channel="CBS2-KCBS-US" start="20260517050000 +0500" stop="20260517053000 +0500">
-    <title>CBS LA at 5pm</title>
-    <sub-title />
-    <desc>Join the CBS LA team for stories from communities around SoCal, breaking news from The Desk, and NEXT Weather from the Weathersphere.</desc>
-    <date>2025</date>
-    <category lang="en">News</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p31308569_b_h10_aa.jpg?w=960&amp;h=540" />
-  </programme><programme channel="CBS2-KCBS-US" start="20260517053000 +0500" stop="20260517060000 +0500">
-    <title>CBS Evening News</title>
-    <sub-title />
-    <desc>Tony Dokoupil shares the day's most important stories, delivering context and depth to bring greater understanding to one's world.</desc>
-    <episode-num system="onscreen">E136</episode-num>
-    <credits>
-      <actor>Tony Dokoupil</actor>
-      <actor>Maurice DuBois</actor>
-      <actor>Jericka Duncan</actor>
-    </credits><date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">News</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p28807922_b_h8_ae.jpg?w=960&amp;h=540" />
-  </programme><programme channel="CBS2-KCBS-US" start="20260517060000 +0500" stop="20260517063000 +0500">
-    <title>CBS LA at 6pm</title>
-    <sub-title />
-    <desc>Join the CBS LA team for stories from communities around SoCal, breaking news from The Desk, and NEXT Weather from the Weathersphere.</desc>
-    <date>2025</date>
-    <category lang="en">News</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p31308575_b_h10_aa.jpg?w=960&amp;h=540" />
-  </programme><programme channel="CBS2-KCBS-US" start="20260517063000 +0500" stop="20260517070000 +0500">
-    <title>Inside Edition Weekend</title>
-    <sub-title />
-    <desc>A news magazine show covering entertainment news and celebrity reports; investigative reports dig into top stories and human interest headlines.</desc>
-    <episode-num system="onscreen">S38 E36</episode-num>
-    <credits>
-      <actor>Mary Calvi</actor>
-    </credits><date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Talk</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p186638_b_h10_ac.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating>
-  </programme><programme channel="CBS2-KCBS-US" start="20260517070000 +0500" stop="20260517080000 +0500">
+    <icon src="http://dtil.tmsimg.com/assets/p32945627_b_h8_aa.jpg?w=960&amp;h=540" />
+  </programme><programme channel="CBS2-KCBS-US" start="20260524030000 +0500" stop="20260524040000 +0500">
     <title>Entertainment Tonight</title>
     <sub-title />
     <desc>News and features about performers, productions and the milieu.</desc>
-    <episode-num system="onscreen">S45 E221</episode-num>
+    <episode-num system="onscreen">S45 E227</episode-num>
     <credits>
       <actor>Kevin Frazier</actor>
       <actor>Nischelle Turner</actor>
@@ -395,60 +635,81 @@
     <rating system="Australian Classification Board">
       <value>M 15+</value>
     </rating>
-  </programme><programme channel="CBS2-KCBS-US" start="20260517080000 +0500" stop="20260517090000 +0500">
-    <title>CIA</title>
-    <sub-title>Orbital</sub-title>
-    <desc>When a crashed satellite containing dangerous nuclear material disappears, Bill and Colin work with an undercover Gina to recruit the help of a retired arms dealer to help track it down.</desc>
-    <episode-num system="onscreen">S1 E8</episode-num>
+  </programme><programme channel="CBS2-KCBS-US" start="20260524040000 +0500" stop="20260524043000 +0500">
+    <title>Mission Unstoppable</title>
+    <sub-title>Bright Bacteria, Bird Fossils, and Building a Better Future in Tech</sub-title>
+    <desc>A woman editing bacteria with CRISPR gene technology; one of the world's oldest birds -- the archaeopteryx; how to make the most of one's stargazing; how an organization is making tech more inclusive.</desc>
+    <episode-num system="onscreen">S7 E21</episode-num>
     <credits>
-      <director>Ken Girotti</director>
-      <actor>Tom Ellis</actor>
-      <actor>Nick Gehlfuss</actor>
-      <actor>Necar Zadegan</actor>
+      <actor>Miranda Cosgrove</actor>
+      <actor>Fig O'Reilly</actor>
+      <actor>Erica Hernandez</actor>
     </credits><date>2026</date>
     <category lang="en">Series</category>
-    <category lang="en">Crime drama</category>
+    <category lang="en">Educational</category>
+    <category lang="en">Science</category>
+    <category lang="en">Documentary</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p30177490_b_h8_ab.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p31251646_b_h8_ab.jpg?w=960&amp;h=540" />
     <rating system="USA Parental Rating">
-      <value>TV14</value>
+      <value>TVG</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
     </rating><rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A14</value>
+      <value>G</value>
     </rating>
-  </programme><programme channel="CBS2-KCBS-US" start="20260517090000 +0500" stop="20260517100000 +0500">
-    <title>48 Hours</title>
-    <sub-title>Joe Hunter's Mission</sub-title>
-    <desc>"Survivor" contestant Joe Hunter says his sister, whose death was officially ruled a suicide, was murdered.</desc>
-    <episode-num system="onscreen">S39 E10</episode-num>
+  </programme><programme channel="CBS2-KCBS-US" start="20260524043000 +0500" stop="20260524050000 +0500">
+    <title>The Visioneers With Zay Harding</title>
+    <sub-title>From the Earth to the Atmosphere</sub-title>
+    <desc>Zay Harding learns to build a home straight from the earth; the very first eco-park; some inspiring young Barron Prize winners.</desc>
+    <episode-num system="onscreen">S2 E21</episode-num>
     <credits>
-      <actor>Erin Moriarty</actor>
-      <actor>Peter Van Sant</actor>
-      <actor>Natalie Morales</actor>
-    </credits><date>2025</date>
+      <actor>Zay Harding</actor>
+    </credits><date>2026</date>
     <category lang="en">Series</category>
-    <category lang="en">Newsmagazine</category>
-    <category lang="en">Crime</category>
-    <category lang="en">Law</category>
+    <category lang="en">Adventure</category>
+    <category lang="en">Science</category>
+    <category lang="en">Environment</category>
+    <category lang="en">Educational</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p30698125_b_h8_af.jpg?w=960&amp;h=540" />
-    <rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
-    </rating><rating system="Kijkwijzer">
-      <value>9</value>
-    </rating><rating system="Arcom">
-      <value>-10</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
-  </programme><programme channel="CBS2-KCBS-US" start="20260517100000 +0500" stop="20260517110000 +0500">
+    <icon src="http://dtil.tmsimg.com/assets/p31251538_b_h10_aa.jpg?w=960&amp;h=540" />
+  </programme><programme channel="CBS2-KCBS-US" start="20260524050000 +0500" stop="20260524070000 +0500">
+    <title>Live: WNBA Basketball</title>
+    <sub-title />
+    <desc>The Las Vegas Aces host the Los Angeles Sparks for the second meeting of their WNBA series. Las Vegas leads the season matchup 1-0. Forward A'ja Wilson leads the Aces against forward Dearica Hamby and the visiting Western Conference rivals.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Basketball</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG003227HB.jpg?w=960&amp;h=540" />
+  </programme><programme channel="CBS2-KCBS-US" start="20260524070000 +0500" stop="20260524080000 +0500">
+    <title>Sports Central</title>
+    <sub-title />
+    <desc>KCBS delivers a comprehensive news and entertainment experience, specializing in award-winning local journalism, live breaking news coverage for the Los Angeles metropolitan area, and a premier lineup of CBS network dramas, comedies, and sporting events.</desc>
+    <date>2023</date>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p26402663_b_h10_ac.jpg?w=960&amp;h=540" />
+  </programme><programme channel="CBS2-KCBS-US" start="20260524080000 +0500" stop="20260524090000 +0500">
+    <title>CBS LA at 8pm</title>
+    <sub-title />
+    <desc>Join the CBS LA team for stories from communities around SoCal, breaking news from The Desk, and NEXT Weather from the Weathersphere.</desc>
+    <date>2025</date>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p31317881_b_h10_aa.jpg?w=960&amp;h=540" />
+  </programme><programme channel="CBS2-KCBS-US" start="20260524090000 +0500" stop="20260524100000 +0500">
+    <title>CBS LA at 9pm</title>
+    <sub-title />
+    <desc>Join the CBS LA team for stories from communities around SoCal, breaking news from The Desk, and NEXT Weather from the Weathersphere.</desc>
+    <date>2025</date>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p31317888_b_h10_aa.jpg?w=960&amp;h=540" />
+  </programme><programme channel="CBS2-KCBS-US" start="20260524100000 +0500" stop="20260524110000 +0500">
     <title>48 Hours</title>
-    <sub-title>The Man With Two Names</sub-title>
-    <desc>A dangerous secret spans from a deadly Monaco arson to a murder plot in New Mexico.</desc>
-    <episode-num system="onscreen">S39 E29</episode-num>
+    <sub-title>Kouri Richins: Behind the Façade</sub-title>
+    <desc>Jurors who heard the evidence in the Kouri Richins case speak out about what led them to convict her, including what they believe motivated the crime and why they reached their verdict.</desc>
+    <episode-num system="onscreen">S39 E30</episode-num>
     <credits>
       <actor>Erin Moriarty</actor>
       <actor>Peter Van Sant</actor>
@@ -471,7 +732,7 @@
     </rating><rating system="USA Parental Rating">
       <value>TV14</value>
     </rating>
-  </programme><programme channel="CBS2-KCBS-US" start="20260517110000 +0500" stop="20260517113500 +0500">
+  </programme><programme channel="CBS2-KCBS-US" start="20260524110000 +0500" stop="20260524113500 +0500">
     <title>CBS LA at 11pm</title>
     <sub-title />
     <desc>Join the CBS LA team for stories from communities around SoCal, breaking news from The Desk, and NEXT Weather from the Weathersphere.</desc>
@@ -479,19 +740,19 @@
     <category lang="en">News</category>
     <language>en</language>
     <icon src="http://dtil.tmsimg.com/assets/p31308578_b_h10_aa.jpg?w=960&amp;h=540" />
-  </programme><programme channel="CBS2-KCBS-US" start="20260517113500 +0500" stop="20260517120000 +0500">
+  </programme><programme channel="CBS2-KCBS-US" start="20260524113500 +0500" stop="20260524120000 +0500">
     <title>Sports Central</title>
     <sub-title />
-    <desc />
+    <desc>KCBS delivers a comprehensive news and entertainment experience, specializing in award-winning local journalism, live breaking news coverage for the Los Angeles metropolitan area, and a premier lineup of CBS network dramas, comedies, and sporting events.</desc>
     <date>2023</date>
     <category lang="en">News</category>
     <language>en</language>
     <icon src="http://dtil.tmsimg.com/assets/p26402663_b_h10_ac.jpg?w=960&amp;h=540" />
-  </programme><programme channel="CBS2-KCBS-US" start="20260517120000 +0500" stop="20260517123000 +0500">
+  </programme><programme channel="CBS2-KCBS-US" start="20260524120000 +0500" stop="20260524123000 +0500">
     <title>Inside Edition Weekend</title>
     <sub-title />
     <desc>A news magazine show covering entertainment news and celebrity reports; investigative reports dig into top stories and human interest headlines.</desc>
-    <episode-num system="onscreen">S38 E36</episode-num>
+    <episode-num system="onscreen">S38 E37</episode-num>
     <credits>
       <actor>Mary Calvi</actor>
     </credits><date>2026</date>
@@ -504,27 +765,27 @@
     </rating><rating system="Canadian Parental Rating">
       <value>PG</value>
     </rating>
-  </programme><programme channel="CBS2-KCBS-US" start="20260517123000 +0500" stop="20260517130000 +0500">
+  </programme><programme channel="CBS2-KCBS-US" start="20260524123000 +0500" stop="20260524130000 +0500">
     <title>Game Time With Boomer Esiason</title>
-    <sub-title>Devin Hester</sub-title>
-    <desc>Hall of Fame wide receiver and return specialist Devin Hester.</desc>
-    <episode-num system="onscreen">S7 E15</episode-num>
+    <sub-title>Kyle Busch</sub-title>
+    <desc>All-time great NASCAR driver Kyle Busch.</desc>
+    <episode-num system="onscreen">S7 E16</episode-num>
     <credits>
       <actor>Boomer Esiason</actor>
-      <actor>Devin Hester</actor>
+      <actor>Kyle Busch</actor>
     </credits><date>2026</date>
     <category lang="en">Series</category>
     <category lang="en">Sports talk</category>
     <category lang="en">Interview</category>
     <language>en</language>
     <icon src="http://dtil.tmsimg.com/assets/p17167704_b_h8_ac.jpg?w=960&amp;h=540" />
-  </programme><programme channel="CBS2-KCBS-US" start="20260517130000 +0500" stop="20260517140000 +0500">
+  </programme><programme channel="CBS2-KCBS-US" start="20260524130000 +0500" stop="20260524140000 +0500">
     <title>Fire Country</title>
-    <sub-title>I Know It Feels Impossible</sub-title>
-    <desc>The station 42 and third rock crews face a daring rescue when a massive mudslide tears through Edgewater; Bode's freedom is on the line at his parole hearing.</desc>
-    <episode-num system="onscreen">S1 E22</episode-num>
+    <sub-title>A Cry for Help</sub-title>
+    <desc>An internal investigator suspects Jake of being the serial arsonist setting recent fires, so Bode and the crew take it upon themselves to investigate.</desc>
+    <episode-num system="onscreen">S1 E17</episode-num>
     <credits>
-      <director>Dermott Downes</director>
+      <director>Gonzalo Amat</director>
       <actor>Max Thieriot</actor>
       <actor>Billy Burke</actor>
       <actor>Kevin Alejandro</actor>
@@ -539,10 +800,10 @@
       <value>14+</value>
     </rating><rating system="Australian Classification Board">
       <value>M 15+</value>
-    </rating><rating system="방송통신심의위원회">
-      <value>15</value>
     </rating><rating system="Kijkwijzer">
       <value>12</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>15</value>
     </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
       <value>A14</value>
     </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
@@ -552,13 +813,13 @@
     </rating><rating system="Arcom">
       <value>-10</value>
     </rating>
-  </programme><programme channel="CBS2-KCBS-US" start="20260517140000 +0500" stop="20260517150000 +0500">
+  </programme><programme channel="CBS2-KCBS-US" start="20260524140000 +0500" stop="20260524150000 +0500">
     <title>Fire Country</title>
-    <sub-title>Work, Don't Worry</sub-title>
-    <desc>The crew engages in a search and rescue mission after a building collapses and Division Chief Sharon is forced to make a gut-wrenching decision.</desc>
-    <episode-num system="onscreen">S1 E4</episode-num>
+    <sub-title>Where There's Smoke..</sub-title>
+    <desc>When the crew responds to a call in a remote forest, they come under fire by an outlaw protecting illegal marijuana crops.</desc>
+    <episode-num system="onscreen">S1 E3</episode-num>
     <credits>
-      <director>Jacquie Gould</director>
+      <director>Eagle Egilsson</director>
       <actor>Max Thieriot</actor>
       <actor>Billy Burke</actor>
       <actor>Kevin Alejandro</actor>
@@ -576,7 +837,7 @@
     </rating><rating system="방송통신심의위원회">
       <value>15</value>
     </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
+      <value>16</value>
     </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
       <value>A14</value>
     </rating><rating system="Medietilsynet">
@@ -584,14 +845,14 @@
     </rating><rating system="Arcom">
       <value>-10</value>
     </rating>
-  </programme><programme channel="CBS2-KCBS-US" start="20260517150000 +0500" stop="20260517153000 +0500">
+  </programme><programme channel="CBS2-KCBS-US" start="20260524150000 +0500" stop="20260524153000 +0500">
     <title>Protect Your Family From Identity Theft</title>
     <sub-title />
     <desc>Every 5 seconds there's a victim of identity theft; LifeLock helps alert you, restore your identity, and reimburse lost funds—leading the way in protecting families every day.</desc>
     <category lang="en">Consumer</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/tvbanners/generic/generic_tvbanners_h12.png" />
-  </programme><programme channel="CBS2-KCBS-US" start="20260517153000 +0500" stop="20260517160000 +0500">
+    <icon src="http://dtil.tmsimg.com/assets/p33079900_st_h10_aa.jpg?w=960&amp;h=540" />
+  </programme><programme channel="CBS2-KCBS-US" start="20260524153000 +0500" stop="20260524160000 +0500">
     <title>Paid Programming</title>
     <sub-title />
     <desc>Paid programming.</desc>
@@ -615,11 +876,11 @@
     </rating><rating system="Kijkwijzer">
       <value>AL</value>
     </rating>
-  </programme><programme channel="CBS2-KCBS-US" start="20260517160000 +0500" stop="20260517170000 +0500">
+  </programme><programme channel="CBS2-KCBS-US" start="20260524160000 +0500" stop="20260524170000 +0500">
     <title>Entertainment Tonight</title>
     <sub-title />
     <desc>News and features about performers, productions and the milieu.</desc>
-    <episode-num system="onscreen">S45 E221</episode-num>
+    <episode-num system="onscreen">S45 E227</episode-num>
     <credits>
       <actor>Kevin Frazier</actor>
       <actor>Nischelle Turner</actor>
@@ -633,7 +894,7 @@
     <rating system="Australian Classification Board">
       <value>M 15+</value>
     </rating>
-  </programme><programme channel="CBS2-KCBS-US" start="20260517170000 +0500" stop="20260517180000 +0500">
+  </programme><programme channel="CBS2-KCBS-US" start="20260524170000 +0500" stop="20260524180000 +0500">
     <title>CBS LA Mornings at 5am</title>
     <sub-title />
     <desc>Start your day with CBS LA Mornings, covering breaking stories from The Desk, and NEXT Weather and Traffic for Southern California.</desc>
@@ -641,11 +902,11 @@
     <category lang="en">News</category>
     <language>en</language>
     <icon src="http://dtil.tmsimg.com/assets/p31308781_b_h10_aa.jpg?w=960&amp;h=540" />
-  </programme><programme channel="CBS2-KCBS-US" start="20260517180000 +0500" stop="20260517193000 +0500">
+  </programme><programme channel="CBS2-KCBS-US" start="20260524180000 +0500" stop="20260524193000 +0500">
     <title>CBS News Sunday Morning</title>
-    <sub-title>By Design</sub-title>
-    <desc>Accessory dwelling units; a history of the Ardrossan Estate; actor Jon Favreau; luxury bag maker Louis Vuitton; earthen architecture made of adobe; chandeliers; the design legacy of Frank Furness; artist Lily Hevesh; touring Longwood Gardens.</desc>
-    <episode-num system="onscreen">E20</episode-num>
+    <sub-title />
+    <desc>The Concours d'Elegance; singer Patti LaBelle; home baker Elisa Sunga; author John McWhorter; Iran's use of AI, satire and viral social media to outmaneuver the U.S. in the online propaganda war; Miami Beach's newest art installation; coyotes.</desc>
+    <episode-num system="onscreen">E21</episode-num>
     <credits>
       <actor>Jane Pauley</actor>
       <actor>Mo Rocca</actor>
@@ -656,11 +917,11 @@
     <category lang="en">Newsmagazine</category>
     <language>en</language>
     <icon src="http://dtil.tmsimg.com/assets/p185497_b_h8_ac.jpg?w=960&amp;h=540" />
-  </programme><programme channel="CBS2-KCBS-US" start="20260517193000 +0500" stop="20260517203000 +0500">
+  </programme><programme channel="CBS2-KCBS-US" start="20260524193000 +0500" stop="20260524203000 +0500">
     <title>Face the Nation</title>
     <sub-title />
     <desc>Margaret Brennan hosts news interviews with distinguished national and foreign figures, offering insight and analysis on the top issues of the day.</desc>
-    <episode-num system="onscreen">E20</episode-num>
+    <episode-num system="onscreen">E21</episode-num>
     <credits>
       <actor>Margaret Brennan</actor>
     </credits><date>2026</date>
@@ -671,7 +932,7 @@
     <category lang="en">Politics</category>
     <language>en</language>
     <icon src="http://dtil.tmsimg.com/assets/p184331_b_h8_ac.jpg?w=960&amp;h=540" />
-  </programme><programme channel="CBS2-KCBS-US" start="20260517203000 +0500" stop="20260517210000 +0500">
+  </programme><programme channel="CBS2-KCBS-US" start="20260524203000 +0500" stop="20260524210000 +0500">
     <title>CBS LA at 8:30am</title>
     <sub-title />
     <desc>Stay informed with the latest breaking news and headlines.</desc>
@@ -679,133 +940,61 @@
     <category lang="en">News</category>
     <language>en</language>
     <icon src="http://dtil.tmsimg.com/assets/p32046835_st_h10_aa.jpg?w=960&amp;h=540" />
-  </programme><programme channel="CBS2-KCBS-US" start="20260517210000 +0500" stop="20260517220000 +0500">
-    <title>PBR Road to the Gold Buckle</title>
+  </programme><programme channel="CBS2-KCBS-US" start="20260524210000 +0500" stop="20260524213000 +0500">
+    <title>Paid Programming</title>
     <sub-title />
-    <desc>Rodeo pros try to navigate the path to winning the coveted Gold Buckle.</desc>
-    <date>2026</date>
-    <category lang="en">Special</category>
-    <category lang="en">Bull riding</category>
+    <desc>Paid programming.</desc>
+    <category lang="en">Consumer</category>
+    <category lang="en">Shopping</category>
+    <category lang="en">Variety</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p32945605_b_h8_aa.jpg?w=960&amp;h=540" />
-  </programme><programme channel="CBS2-KCBS-US" start="20260517220000 +0500" stop="20260518040000 +0500">
-    <title>Live: 2026 PGA Championship</title>
-    <sub-title />
-    <desc>The PGA Championship concludes with the final round at Aronimink Golf Club in Pennsylvania. The remaining field navigates the 7,394-yard, par-70 layout over the final 18 holes to secure a share of the $19 million tournament prize purse.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Golf</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p32512159_b_h10_aa.jpg?w=960&amp;h=540" />
-  </programme><programme channel="CBS2-KCBS-US" start="20260518040000 +0500" stop="20260518050000 +0500">
-    <title>Sports Central</title>
-    <sub-title />
-    <desc />
-    <date>2023</date>
-    <category lang="en">News</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p26402663_b_h10_ac.jpg?w=960&amp;h=540" />
-  </programme><programme channel="CBS2-KCBS-US" start="20260518050000 +0500" stop="20260518053000 +0500">
-    <title>CBS LA at 5pm</title>
-    <sub-title />
-    <desc>Join the CBS LA team for stories from communities around SoCal, breaking news from The Desk, and NEXT Weather from the Weathersphere.</desc>
-    <date>2025</date>
-    <category lang="en">News</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p31308569_b_h10_aa.jpg?w=960&amp;h=540" />
-  </programme><programme channel="CBS2-KCBS-US" start="20260518053000 +0500" stop="20260518060000 +0500">
-    <title>CBS Evening News</title>
-    <sub-title />
-    <desc>Tony Dokoupil shares the day's most important stories, delivering context and depth to bring greater understanding to one's world.</desc>
-    <episode-num system="onscreen">E137</episode-num>
-    <credits>
-      <actor>Tony Dokoupil</actor>
-      <actor>Maurice DuBois</actor>
-      <actor>Jericka Duncan</actor>
-    </credits><date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">News</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p28807922_b_h8_ae.jpg?w=960&amp;h=540" />
-  </programme><programme channel="CBS2-KCBS-US" start="20260518060000 +0500" stop="20260518070000 +0500">
-    <title>CBS LA at 6pm</title>
-    <sub-title />
-    <desc>Join the CBS LA team for stories from communities around SoCal, breaking news from The Desk, and NEXT Weather from the Weathersphere.</desc>
-    <date>2025</date>
-    <category lang="en">News</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p31308575_b_h10_aa.jpg?w=960&amp;h=540" />
-  </programme><programme channel="CBS2-KCBS-US" start="20260518070000 +0500" stop="20260518080000 +0500">
-    <title>60 Minutes</title>
-    <sub-title />
-    <desc>Newsmagazine with features focusing on people, and events in the news and behind the headlines.</desc>
-    <episode-num system="onscreen">S58 E33</episode-num>
-    <credits>
-      <actor>Lesley Stahl</actor>
-      <actor>Scott Pelley</actor>
-      <actor>Anderson Cooper</actor>
-    </credits><date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Newsmagazine</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p31308310_b_h10_ae.jpg?w=960&amp;h=540" />
-  </programme><programme channel="CBS2-KCBS-US" start="20260518080000 +0500" stop="20260518090000 +0500">
-    <title>Marshals</title>
-    <sub-title>The Devil at Home</sub-title>
-    <desc>As they uncover a drug cartel targeting the Broken Rock Reservation, the Marshals race to locate Miles, only to discover that he has gone rogue to hunt down a trafficker.</desc>
-    <episode-num system="onscreen">S1 E12</episode-num>
-    <credits>
-      <director>Ruben Garcia</director>
-      <actor>Luke Grimes</actor>
-      <actor>Logan Marshall-Green</actor>
-      <actor>Arielle Kebbel</actor>
-    </credits><date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p31739615_b_h8_ab.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&amp;h=540" />
     <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A16</value>
-    </rating><rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating><rating system="Kijkwijzer">
-      <value>12</value>
-    </rating>
-  </programme><programme channel="CBS2-KCBS-US" start="20260518090000 +0500" stop="20260518100000 +0500">
-    <title>Tracker</title>
-    <sub-title>Chrono Stasis</sub-title>
-    <desc>Colter and Russell unite in a personal mission to uncover their father's mysterious work.</desc>
-    <episode-num system="onscreen">S3 E21</episode-num>
-    <credits>
-      <director>Jeff T. Thomas</director>
-      <actor>Justin Hartley</actor>
-      <actor>Fiona Rene</actor>
-      <actor>Jensen Ackles</actor>
-    </credits><date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Crime drama</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p30698321_b_h8_ab.jpg?w=960&amp;h=540" />
-    <rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating><rating system="방송통신심의위원회">
-      <value>15</value>
-    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K12</value>
+      <value>TVG</value>
     </rating><rating system="Régie du cinéma">
-      <value>13+</value>
+      <value>G</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>A</value>
     </rating><rating system="Australian Classification Board">
-      <value>MA 15+</value>
+      <value>G</value>
     </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>16</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
+      <value>L</value>
+    </rating><rating system="Kijkwijzer">
+      <value>AL</value>
     </rating>
+  </programme><programme channel="CBS2-KCBS-US" start="20260524213000 +0500" stop="20260524220000 +0500">
+    <title>Paid Programming</title>
+    <sub-title />
+    <desc>Paid programming.</desc>
+    <category lang="en">Consumer</category>
+    <category lang="en">Shopping</category>
+    <category lang="en">Variety</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>A</value>
+    </rating><rating system="Australian Classification Board">
+      <value>G</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>L</value>
+    </rating><rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating>
+  </programme><programme channel="CBS2-KCBS-US" start="20260524220000 +0500" stop="20260525000000 +0500">
+    <title>Live: NWSL Soccer</title>
+    <sub-title />
+    <desc>The Kansas City Current hosts Portland Thorns FC at CPKC Stadium. Kansas City has an edge, winning four of the last five meetings against Portland, including a 2-0 victory in their previous fixture behind Olivia Moultrie and Reilyn Turner.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Soccer</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG0031BVDG.jpg?w=960&amp;h=540" />
   </programme>
 </tv>

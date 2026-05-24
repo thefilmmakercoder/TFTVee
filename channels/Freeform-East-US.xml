@@ -1,135 +1,351 @@
 <?xml version='1.0' encoding='utf-8'?>
 <tv>
   <channel id="Freeform-East-US">
+    <icon src="https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/Freeform-East-US.png" />
+    <url>https://tv.thefilmtuition.com</url>
     <display-name>Freeform East</display-name>
-    <icon src="https://thefilmtuition.com/tvlogo/Freeform-East-US.png" />
-  </channel><programme channel="Freeform-East-US" start="20260516033000 +0500" stop="20260516053500 +0500">
-    <title>Encanto</title>
-    <sub-title />
-    <desc>The Madrigals are an extraordinary family who live hidden in the mountains of Colombia in a charmed place called the Encanto. The magic of the Encanto has blessed every child in the family with a unique gift -- every child except Mirabel. However, she soon may be the Madrigals last hope when she discovers that the magic surrounding the Encanto is now in danger.</desc>
+  </channel><programme channel="Freeform-East-US" start="20260522190000 +0500" stop="20260522193000 +0500">
+    <title>700 Club Interactive</title>
+    <desc>Highlighting current events and stories that will help bring encouragment to people.</desc>
+    <language>en</language>
+  </programme><programme channel="Freeform-East-US" start="20260522193000 +0500" stop="20260522203000 +0500">
+    <title>That Thrifting Show with Lara Spencer</title>
+    <sub-title>The Art of the Living Room</sub-title>
+    <desc>Lara Spencer dares the teams to go Hollywood Regency vs. Worldly Eclectic in their living room designs. From bold thrift finds to wild design choices, the duos mix patterns, flaunt animal prints, and pull off jaw-dropping transformations.</desc>
+    <episode-num system="onscreen">S1 E11</episode-num>
+    <language>en</language>
+  </programme><programme channel="Freeform-East-US" start="20260522203000 +0500" stop="20260522210000 +0500">
+    <title>According to Jim</title>
+    <sub-title>Scary Movie</sub-title>
+    <desc>Gracie and Ruby have nightmares after Jim takes them to a scary movie.</desc>
+    <episode-num system="onscreen">S3 E8</episode-num>
     <credits>
-      <director>Jared Bush</director>
-      <director>Byron Howard</director>
-      <actor>Stephanie Beatriz</actor>
-      <actor>María Cecilia Botero</actor>
-      <actor>Diane Guerrero</actor>
+      <director>Mark Cendrowski</director>
+      <actor>Jim Belushi</actor>
+      <actor>Courtney Thorne-Smith</actor>
+      <actor>Kimberly Williams-Paisley</actor>
+    </credits><date>2003</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sitcom</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p7895303_b_h8_aa.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>0</value>
+    </rating><rating system="Kijkwijzer">
+      <value>6</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+  </programme><programme channel="Freeform-East-US" start="20260522210000 +0500" stop="20260522233000 +0500">
+    <title>Lyle, Lyle, Crocodile</title>
+    <sub-title />
+    <desc>When the Primm family moves to New York City, their young son, Josh, struggles to adapt to his new school and friends. All of that changes when he discovers Lyle, a singing crocodile that loves baths, caviar and great music. The two become fast friends, but when evil neighbor Mr. Grumps threatens Lyle's existence, the Primms must band together to show the world that family can come from the most unexpected places.</desc>
+    <credits>
+      <director>Josh Gordon</director>
+      <director>Will Speck</director>
+      <actor>Javier Bardem</actor>
+      <actor>Winslow Fegley</actor>
+      <actor>Shawn Mendes</actor>
+    </credits><date>2022</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Family</category>
+    <category lang="en">Musical comedy</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p22071768_v_h8_ao.jpg?w=960&amp;h=540" />
+    <rating system="Motion Picture Association">
+      <value>PG</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="Alberta's Film Classification Board">
+      <value>G</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>L</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>0</value>
+    </rating><rating system="Consejo de Calificación Cinematográfica">
+      <value>TE</value>
+    </rating><rating system="Medierådet">
+      <value>A</value>
+    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>A</value>
+    </rating><rating system="Kijkwijzer">
+      <value>6</value>
+    </rating><rating system="映倫">
+      <value>PG12</value>
+    </rating><rating system="영상물등급위원회">
+      <value>All</value>
+    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K7</value>
+    </rating><rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating><rating system="UK Content Provider">
+      <value>PG</value>
+    </rating><rating system="British Board of Film Classification">
+      <value>PG</value>
+    </rating><rating system="Instituto Nacional de Cine y Artes Audiovisuales">
+      <value>ATP</value>
+    </rating><rating system="Central Board of Film Certification">
+      <value>U</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>7</value>
+    </rating><rating system="Statens medieråd">
+      <value>Barntillåten</value>
+    </rating><rating system="Ministero della Cultura">
+      <value>T</value>
+    </rating><star-rating>
+      <value>5.0/10</value>
+    </star-rating>
+  </programme><programme channel="Freeform-East-US" start="20260522233000 +0500" stop="20260523020000 +0500">
+    <title>Raya and the Last Dragon</title>
+    <sub-title />
+    <desc>Long ago, in the fantasy world of Kumandra, humans and dragons lived together in harmony. However, when sinister monsters known as the Druun threatened the land, the dragons sacrificed themselves to save humanity. Now, 500 years later, those same monsters have returned, and it's up to a lone warrior to track down the last dragon and stop the Druun for good.</desc>
+    <credits>
+      <director>Don Hall</director>
+      <director>Carlos López Estrada</director>
+      <actor>Kelly Marie Tran</actor>
+      <actor>Awkwafina</actor>
+      <actor>Izaac Wang</actor>
     </credits><date>2021</date>
     <category lang="en">Movie</category>
     <category lang="en">Animated</category>
     <category lang="en">Children</category>
-    <category lang="en">Musical comedy</category>
     <category lang="en">Fantasy</category>
+    <category lang="en">Adventure</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p19926819_v_h8_ab.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p18418649_v_h8_ar.jpg?w=960&amp;h=540" />
     <rating system="Motion Picture Association">
       <value>PG</value>
     </rating><rating system="Alberta's Film Classification Board">
-      <value>G</value>
+      <value>PG</value>
     </rating><rating system="Manitoba Film Classification Board">
-      <value>G</value>
-    </rating><rating system="B.C. Film Classification Office">
-      <value>G</value>
-    </rating><rating system="Saskatchewan Film and Video Classification Board">
-      <value>G</value>
-    </rating><rating system="Ontario Film Authority">
+      <value>PG</value>
+    </rating><rating system="Régie du cinéma">
       <value>G</value>
     </rating><rating system="Statens medieråd">
       <value>Från 7 år</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="映倫">
-      <value>G</value>
     </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
       <value>0</value>
+    </rating><rating system="Maritime Film Classification Board">
+      <value>PG</value>
+    </rating><rating system="映倫">
+      <value>G</value>
+    </rating><rating system="B.C. Film Classification Office">
+      <value>PG</value>
+    </rating><rating system="Saskatchewan Film and Video Classification Board">
+      <value>PG</value>
+    </rating><rating system="Ontario Film Authority">
+      <value>PG</value>
     </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
       <value>K7</value>
+    </rating><rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>10</value>
     </rating><rating system="Medierådet">
       <value>7</value>
-    </rating><rating system="Maritime Film Classification Board">
-      <value>G</value>
-    </rating><rating system="Kijkwijzer">
-      <value>6</value>
-    </rating><rating system="Australian Classification Board">
+    </rating><rating system="Irish Film Classification Office">
       <value>PG</value>
+    </rating><rating system="Consejo de Calificación Cinematográfica">
+      <value>TE+7</value>
     </rating><rating system="영상물등급위원회">
       <value>All</value>
-    </rating><rating system="British Board of Film Classification">
-      <value>U</value>
+    </rating><rating system="Kijkwijzer">
+      <value>6</value>
+    </rating><rating system="Ministero della Cultura">
+      <value>T</value>
     </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
       <value>7</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>L</value>
-    </rating><star-rating>
-      <value>7.0/10</value>
-    </star-rating>
-  </programme><programme channel="Freeform-East-US" start="20260516053500 +0500" stop="20260516080000 +0500">
-    <title>Coco</title>
-    <sub-title />
-    <desc>Despite his family's generations-old ban on music, young Miguel dreams of becoming an accomplished musician like his idol Ernesto de la Cruz. Desperate to prove his talent, Miguel finds himself in the stunning and colorful Land of the Dead. After meeting a charming trickster named Héctor, the two new friends embark on an extraordinary journey to unlock the real story behind Miguel's family history.</desc>
-    <credits>
-      <director>Lee Unkrich</director>
-      <actor>Anthony Gonzalez</actor>
-      <actor>Gael García Bernal</actor>
-      <actor>Benjamin Bratt</actor>
-    </credits><date>2017</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Animated</category>
-    <category lang="en">Family</category>
-    <category lang="en">Comedy</category>
-    <category lang="en">Adventure</category>
-    <category lang="en">Music</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p13930352_v_h8_ad.jpg?w=960&amp;h=540" />
-    <rating system="Motion Picture Association">
-      <value>PG</value>
-    </rating><rating system="B.C. Film Classification Office">
-      <value>G</value>
-    </rating><rating system="Saskatchewan Film and Video Classification Board">
-      <value>G</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="Alberta's Film Classification Board">
-      <value>G</value>
-    </rating><rating system="Manitoba Film Classification Board">
-      <value>G</value>
-    </rating><rating system="Ontario Film Authority">
-      <value>G</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>0</value>
     </rating><rating system="British Board of Film Classification">
       <value>PG</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>L</value>
-    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K7</value>
-    </rating><rating system="UK Content Provider">
-      <value>PG</value>
-    </rating><rating system="Statens medieråd">
-      <value>Från 7 år</value>
-    </rating><rating system="Australian Classification Board">
-      <value>PG</value>
-    </rating><rating system="映倫">
-      <value>G</value>
     </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
       <value>A</value>
-    </rating><rating system="Medierådet">
-      <value>7</value>
-    </rating><rating system="영상물등급위원회">
-      <value>All</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>7</value>
-    </rating><rating system="NZ Broadcasting Standards Authority for Free To Air Television">
-      <value>PGR</value>
-    </rating><rating system="Kijkwijzer">
-      <value>6</value>
     </rating><star-rating>
       <value>7.0/10</value>
     </star-rating>
-  </programme><programme channel="Freeform-East-US" start="20260516080000 +0500" stop="20260516090000 +0500">
+  </programme><programme channel="Freeform-East-US" start="20260523020000 +0500" stop="20260523040000 +0500">
+    <title>Lilo &amp; Stitch</title>
+    <sub-title />
+    <desc>A tale of a young girl's close encounter with the galaxy's most wanted extraterrestrial. Lilo is a lonely Hawaiian girl who adopts a small ugly "dog," whom she names Stitch. Stitch would be the perfect pet if he weren't in reality a genetic experiment who has escaped from an alien planet and crash-landed on Earth. Through her love, faith and unwavering belief in ohana, the Hawaiian concept of family, Lilo helps unlock Stitch's heart and gives him the ability to care for someone else.</desc>
+    <credits>
+      <director>Chris Sanders</director>
+      <actor>Daveigh Chase</actor>
+      <actor>Chris Sanders</actor>
+      <actor>Tia Carrere</actor>
+    </credits><date>2002</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Animated</category>
+    <category lang="en">Children</category>
+    <category lang="en">Comedy</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p29095_v_h10_ab.jpg?w=960&amp;h=540" />
+    <rating system="Motion Picture Association">
+      <value>PG</value>
+    </rating><rating system="Alberta's Film Classification Board">
+      <value>G</value>
+    </rating><rating system="B.C. Film Classification Office">
+      <value>G</value>
+    </rating><rating system="Manitoba Film Classification Board">
+      <value>G</value>
+    </rating><rating system="Maritime Film Classification Board">
+      <value>G</value>
+    </rating><rating system="Ontario Film Authority">
+      <value>PG</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="Saskatchewan Film and Video Classification Board">
+      <value>G</value>
+    </rating><rating system="Australian Classification Board">
+      <value>G</value>
+    </rating><rating system="British Board of Film Classification">
+      <value>PG</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>L</value>
+    </rating><rating system="UK Content Provider">
+      <value>U</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>0</value>
+    </rating><rating system="Instituto Nacional de Cine y Artes Audiovisuales">
+      <value>ATP</value>
+    </rating><rating system="Statens medieråd">
+      <value>Barntillåten</value>
+    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>A</value>
+    </rating><rating system="Ministero della Cultura">
+      <value>T</value>
+    </rating><rating system="Medierådet">
+      <value>A</value>
+    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K7</value>
+    </rating><rating system="영상물등급위원회">
+      <value>All</value>
+    </rating><rating system="Kijkwijzer">
+      <value>6</value>
+    </rating><rating system="Medietilsynet">
+      <value>7 år</value>
+    </rating><star-rating>
+      <value>6.0/10</value>
+    </star-rating>
+  </programme><programme channel="Freeform-East-US" start="20260523040000 +0500" stop="20260523060000 +0500">
+    <title>Mulan</title>
+    <sub-title />
+    <desc>Fearful that her ailing father will be drafted into the Chinese military, Mulan takes his spot -- though, as a girl living under a patriarchal regime, she is technically unqualified to serve. She cleverly impersonates a man and goes off to train with fellow recruits. Accompanied by her dragon, Mushu, she uses her smarts to help ward off a Hun invasion, falling in love with a dashing captain along the way.</desc>
+    <credits>
+      <director>Barry Cook</director>
+      <director>Tony Bancroft</director>
+      <actor>Ming-Na Wen</actor>
+      <actor>Eddie Murphy</actor>
+      <actor>B.D. Wong</actor>
+    </credits><date>1998</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Animated</category>
+    <category lang="en">Children</category>
+    <category lang="en">Musical</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p21118_v_h10_aa.jpg?w=960&amp;h=540" />
+    <rating system="Motion Picture Association">
+      <value>G</value>
+    </rating><rating system="British Board of Film Classification">
+      <value>U</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>L</value>
+    </rating><rating system="UK Content Provider">
+      <value>U</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>0</value>
+    </rating><rating system="Australian Classification Board">
+      <value>G</value>
+    </rating><rating system="Ontario Film Authority">
+      <value>PG</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="Instituto Nacional de Cine y Artes Audiovisuales">
+      <value>ATP</value>
+    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K7</value>
+    </rating><rating system="Statens medieråd">
+      <value>Från 7 år</value>
+    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>A</value>
+    </rating><rating system="映倫">
+      <value>G</value>
+    </rating><rating system="Medierådet">
+      <value>7</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating><rating system="영상물등급위원회">
+      <value>All</value>
+    </rating><rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating><rating system="Medietilsynet">
+      <value>7 år</value>
+    </rating><star-rating>
+      <value>6.0/10</value>
+    </star-rating>
+  </programme><programme channel="Freeform-East-US" start="20260523060000 +0500" stop="20260523080000 +0500">
+    <title>Beauty and the Beast</title>
+    <sub-title />
+    <desc>An arrogant young prince and his castle's servants fall under the spell of a wicked enchantress, who turns him into the hideous Beast until he learns to love and be loved in return. The spirited, headstrong village girl Belle enters the Beast's castle after he imprisons her father Maurice. With the help of his enchanted servants, including the matronly Mrs. Potts, Belle begins to draw the cold-hearted Beast out of his isolation.</desc>
+    <credits>
+      <director>Gary Trousdale</director>
+      <director>Kirk Wise</director>
+      <actor>Paige O'Hara</actor>
+      <actor>Robby Benson</actor>
+      <actor>Richard White</actor>
+    </credits><date>1991</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Animated</category>
+    <category lang="en">Children</category>
+    <category lang="en">Fantasy</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p13555_v_h10_ab.jpg?w=960&amp;h=540" />
+    <rating system="Motion Picture Association">
+      <value>G</value>
+    </rating><rating system="British Board of Film Classification">
+      <value>U</value>
+    </rating><rating system="Alberta's Film Classification Board">
+      <value>G</value>
+    </rating><rating system="Maritime Film Classification Board">
+      <value>G</value>
+    </rating><rating system="Ontario Film Authority">
+      <value>G</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>L</value>
+    </rating><rating system="UK Content Provider">
+      <value>U</value>
+    </rating><rating system="Instituto Nacional de Cine y Artes Audiovisuales">
+      <value>ATP</value>
+    </rating><rating system="Statens medieråd">
+      <value>Från 7 år</value>
+    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>A</value>
+    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K7</value>
+    </rating><rating system="映倫">
+      <value>G</value>
+    </rating><rating system="영상물등급위원회">
+      <value>All</value>
+    </rating><rating system="Kijkwijzer">
+      <value>6</value>
+    </rating><rating system="Australian Classification Board">
+      <value>G</value>
+    </rating><star-rating>
+      <value>8.0/10</value>
+    </star-rating>
+  </programme><programme channel="Freeform-East-US" start="20260523080000 +0500" stop="20260523090000 +0500">
     <title>The 700 Club</title>
     <sub-title />
     <desc>Meet ordinary people who have experienced the extraordinary power of prayer.</desc>
-    <episode-num system="onscreen">E99</episode-num>
+    <episode-num system="onscreen">E104</episode-num>
     <credits>
       <actor>Gordon Robertson</actor>
       <actor>Terry Meeuwsen</actor>
@@ -143,107 +359,17 @@
     <rating system="Australian Classification Board">
       <value>M 15+</value>
     </rating>
-  </programme><programme channel="Freeform-East-US" start="20260516090000 +0500" stop="20260516093000 +0500">
+  </programme><programme channel="Freeform-East-US" start="20260523090000 +0500" stop="20260523093000 +0500">
     <title>According to Jim</title>
-    <sub-title>Cheryl's Day Off</sub-title>
-    <desc>Jim misplaces the children while out with Andy; Cheryl decides to enjoy the day by going to a movie with Dana.</desc>
-    <episode-num system="onscreen">S1 E21</episode-num>
-    <credits>
-      <director>Gil Junger</director>
-      <actor>Jim Belushi</actor>
-      <actor>Courtney Thorne-Smith</actor>
-      <actor>Kimberly Williams-Paisley</actor>
-    </credits><date>2002</date>
-    <category lang="en">Series</category>
-    <category lang="en">Sitcom</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p7895302_b_h8_aa.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
-      <value>0</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="Kijkwijzer">
-      <value>AL</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>0</value>
-    </rating>
-  </programme><programme channel="Freeform-East-US" start="20260516093000 +0500" stop="20260516100000 +0500">
-    <title>According to Jim</title>
-    <sub-title>No Surprises</sub-title>
-    <desc>After finding out about the surprise party Jim was planning for her, Cheryl tries to throw a surprise party for him, but he's too busy to show up because he's bowling with Chicago Bears football star Brian Urlacher.</desc>
-    <episode-num system="onscreen">S1 E22</episode-num>
-    <credits>
-      <director>Philip Charles MacKenzie</director>
-      <actor>Jim Belushi</actor>
-      <actor>Courtney Thorne-Smith</actor>
-      <actor>Kimberly Williams-Paisley</actor>
-    </credits><date>2002</date>
-    <category lang="en">Series</category>
-    <category lang="en">Sitcom</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p7895302_b_h8_aa.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
-      <value>0</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="Kijkwijzer">
-      <value>AL</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>0</value>
-    </rating>
-  </programme><programme channel="Freeform-East-US" start="20260516100000 +0500" stop="20260516103000 +0500">
-    <title>According to Jim</title>
-    <sub-title>The Importance of Being Jim</sub-title>
-    <desc>Cheryl hides the digital camera after Jim deliberately deletes a photograph she urged him to save.</desc>
-    <episode-num system="onscreen">S2 E1</episode-num>
-    <credits>
-      <director>Philip Charles MacKenzie</director>
-      <actor>Jim Belushi</actor>
-      <actor>Courtney Thorne-Smith</actor>
-      <actor>Kimberly Williams-Paisley</actor>
-    </credits><date>2002</date>
-    <category lang="en">Series</category>
-    <category lang="en">Sitcom</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p7895280_b_h10_ab.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
-      <value>0</value>
-    </rating><rating system="Kijkwijzer">
-      <value>AL</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>6</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating>
-  </programme><programme channel="Freeform-East-US" start="20260516103000 +0500" stop="20260516110000 +0500">
-    <title>According to Jim</title>
-    <sub-title>Cars and Chicks</sub-title>
-    <desc>When Cheryl helps Dana buy a new car that turns out to be a lemon, Jim is determined to straighten things out at the dealership.</desc>
-    <episode-num system="onscreen">S2 E2</episode-num>
+    <sub-title>The Pass</sub-title>
+    <desc>A successful guy that Jim went to high school with gives him a big contracting job and makes a pass at Cheryl over dinner.</desc>
+    <episode-num system="onscreen">S2 E19</episode-num>
     <credits>
       <director>Mark Cendrowski</director>
       <actor>Jim Belushi</actor>
       <actor>Courtney Thorne-Smith</actor>
       <actor>Kimberly Williams-Paisley</actor>
-    </credits><date>2002</date>
+    </credits><date>2003</date>
     <category lang="en">Series</category>
     <category lang="en">Sitcom</category>
     <language>en</language>
@@ -255,7 +381,7 @@
     </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
       <value>0</value>
     </rating><rating system="Kijkwijzer">
-      <value>AL</value>
+      <value>6</value>
     </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
       <value>6</value>
     </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
@@ -263,25 +389,115 @@
     </rating><rating system="Régie du cinéma">
       <value>G</value>
     </rating>
-  </programme><programme channel="Freeform-East-US" start="20260516110000 +0500" stop="20260516113000 +0500">
+  </programme><programme channel="Freeform-East-US" start="20260523093000 +0500" stop="20260523100000 +0500">
+    <title>According to Jim</title>
+    <sub-title>Dana Gets Fired</sub-title>
+    <desc>Jim does more harm than good when he stands up to Dana's boss; Andy has trouble making arrangements for his birthday party.</desc>
+    <episode-num system="onscreen">S2 E20</episode-num>
+    <credits>
+      <director>Philip Charles MacKenzie</director>
+      <actor>Jim Belushi</actor>
+      <actor>Courtney Thorne-Smith</actor>
+      <actor>Kimberly Williams-Paisley</actor>
+    </credits><date>2003</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sitcom</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p7895280_b_h10_ab.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>0</value>
+    </rating><rating system="Kijkwijzer">
+      <value>6</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>6</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+  </programme><programme channel="Freeform-East-US" start="20260523100000 +0500" stop="20260523103000 +0500">
+    <title>According to Jim</title>
+    <sub-title>Bo Diddley</sub-title>
+    <desc>Jim must decide between helping Cheryl through surgery or meeting his hero, Bo Diddley.</desc>
+    <episode-num system="onscreen">S2 E21</episode-num>
+    <credits>
+      <director>Shelley Jensen</director>
+      <actor>Jim Belushi</actor>
+      <actor>Courtney Thorne-Smith</actor>
+      <actor>Kimberly Williams-Paisley</actor>
+    </credits><date>2003</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sitcom</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p7895280_b_h10_ab.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>0</value>
+    </rating><rating system="Kijkwijzer">
+      <value>6</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>6</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+  </programme><programme channel="Freeform-East-US" start="20260523103000 +0500" stop="20260523110000 +0500">
+    <title>According to Jim</title>
+    <sub-title>Deal With the Devlins</sub-title>
+    <desc>Jim and Cheryl's new friends turn out to be obnoxious, but they benefit from the relationship.</desc>
+    <episode-num system="onscreen">S2 E22</episode-num>
+    <credits>
+      <director>Jim Belushi</director>
+      <actor>Jim Belushi</actor>
+      <actor>Courtney Thorne-Smith</actor>
+      <actor>Kimberly Williams-Paisley</actor>
+    </credits><date>2003</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sitcom</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p7895280_b_h10_ab.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>0</value>
+    </rating><rating system="Kijkwijzer">
+      <value>6</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>6</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+  </programme><programme channel="Freeform-East-US" start="20260523110000 +0500" stop="20260523113000 +0500">
     <title>America 250th Anniversary Coins: Enduring Liberty Half Dollars</title>
     <sub-title />
     <desc>Join Mike Mezack for a special presentation of the 1776-2026 Enduring Liberty Half Dollars-one-year-only U.S. Mint issues honoring America's 250th Anniversary, including rare rolls and certified MS67 collectibles.</desc>
     <category lang="en">Consumer</category>
     <language>en</language>
     <icon src="http://dtil.tmsimg.com/assets/p32753655_st_h10_aa.jpg?w=960&amp;h=540" />
-  </programme><programme channel="Freeform-East-US" start="20260516113000 +0500" stop="20260516120000 +0500">
-    <title>Joe Lando joins Jane Seymour - New Crepe Erase show with 3 FREE Gifts!</title>
+  </programme><programme channel="Freeform-East-US" start="20260523113000 +0500" stop="20260523120000 +0500">
+    <title>Have Thinning Hair? Keranique Can Help Regrow Beautiful, Thicker Hair!</title>
     <sub-title />
-    <desc>TV stars Joe Lando and Jane Seymour reveal the secret to smoother, younger-looking skin with Crepe Erase. Plus, receive 3 FREE gifts with this limited-time offer.</desc>
+    <desc>If you have thinning hair or hair loss, Keranique can help regrow thicker, longer and fuller hair. Keranique is the number 1 hair regrowth system for women. Regain your confidence with beautiful, thicker and fuller hair in just 3 easy steps!</desc>
     <category lang="en">Consumer</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p32981605_st_h10_aa.jpg?w=960&amp;h=540" />
-  </programme><programme channel="Freeform-East-US" start="20260516120000 +0500" stop="20260516130000 +0500">
+    <icon src="http://dtil.tmsimg.com/assets/p15918995_b_h10_aa.jpg?w=960&amp;h=540" />
+  </programme><programme channel="Freeform-East-US" start="20260523120000 +0500" stop="20260523130000 +0500">
     <title>The 700 Club</title>
     <sub-title />
     <desc>Meet ordinary people who have experienced the extraordinary power of prayer.</desc>
-    <episode-num system="onscreen">E99</episode-num>
+    <episode-num system="onscreen">E104</episode-num>
     <credits>
       <actor>Gordon Robertson</actor>
       <actor>Terry Meeuwsen</actor>
@@ -295,14 +511,14 @@
     <rating system="Australian Classification Board">
       <value>M 15+</value>
     </rating>
-  </programme><programme channel="Freeform-East-US" start="20260516130000 +0500" stop="20260516133000 +0500">
+  </programme><programme channel="Freeform-East-US" start="20260523130000 +0500" stop="20260523133000 +0500">
     <title>1776 USA Gold Rarity</title>
     <sub-title />
-    <desc>Secure a 1oz Gold 1776-2026 American Gold Eagle graded PF70UCAM in a 1 of 250 Holder, honoring 250 years of American Freedom! Included as a bonus is a free 2026 1oz Silver Eagle also featuring the iconic Liberty Bell to create a one of a kind pair!</desc>
+    <desc>Secure a 1oz Gold 1776-2026 American Gold Eagle graded PF70UCAM in a special Holder, honoring 250 years of American Freedom! Included as a bonus is a free 2026 1oz Silver Eagle also featuring the iconic Liberty Bell to create a one of a kind pair!</desc>
     <category lang="en">Consumer</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p32646684_st_h10_aa.jpg?w=960&amp;h=540" />
-  </programme><programme channel="Freeform-East-US" start="20260516133000 +0500" stop="20260516140000 +0500">
+    <icon src="http://dtil.tmsimg.com/assets/p32961959_st_h10_aa.jpg?w=960&amp;h=540" />
+  </programme><programme channel="Freeform-East-US" start="20260523133000 +0500" stop="20260523140000 +0500">
     <title>Inogen Portable Oxygen - No More Tanks!</title>
     <sub-title />
     <desc>Regain independence and enjoy greater mobility with the compact design and long-lasting battery of portable oxygen.</desc>
@@ -313,581 +529,42 @@
     <category lang="en">Technology</category>
     <language>en</language>
     <icon src="http://dtil.tmsimg.com/assets/p17108681_b_h11_ab.jpg?w=960&amp;h=540" />
-  </programme><programme channel="Freeform-East-US" start="20260516140000 +0500" stop="20260516143000 +0500">
+  </programme><programme channel="Freeform-East-US" start="20260523140000 +0500" stop="20260523143000 +0500">
     <title>2026 Silver Eagle is here &amp; it is a once-in-a-lifetime coin!</title>
     <sub-title />
     <desc>Join your hosts Kevin Cash &amp; Cory Cady as we discuss the 250th Anniversary of America with the official "America 250" logo on a Silver American Eagle label; we are locking in orders for this iconic release, but coins are limited! Don't miss out!</desc>
     <category lang="en">Consumer</category>
     <language>en</language>
     <icon src="http://dtil.tmsimg.com/assets/p32414007_st_h10_ac.jpg?w=960&amp;h=540" />
-  </programme><programme channel="Freeform-East-US" start="20260516143000 +0500" stop="20260516150000 +0500">
-    <title>Have Thinning Hair? Keranique Can Help Regrow Beautiful, Thicker Hair!</title>
-    <sub-title />
-    <desc>If you have thinning hair or hair loss, Keranique can help regrow thicker, longer and fuller hair. Keranique is the number 1 hair regrowth system for women. Regain your confidence with beautiful, thicker and fuller hair in just 3 easy steps!</desc>
-    <category lang="en">Consumer</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p15918995_b_h10_aa.jpg?w=960&amp;h=540" />
-  </programme><programme channel="Freeform-East-US" start="20260516150000 +0500" stop="20260516153000 +0500">
-    <title>Cindy Crawford talks about the latest breakthroughs in skincare</title>
-    <sub-title />
-    <desc>Join Cindy Crawford as she talks to real customers about the breakthrough skincare system that keeps them looking their best. Take a trip to the stunning French countryside to see the rare French melon that defies the aging process.</desc>
-    <category lang="en">Consumer</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p29986338_st_h10_aa.jpg?w=960&amp;h=540" />
-  </programme><programme channel="Freeform-East-US" start="20260516153000 +0500" stop="20260516160000 +0500">
-    <title>NEW! Shark PowerDetect with DuoClean Detect Technology</title>
-    <sub-title />
-    <desc>Meet the new Shark PowerDetect Upright Vacuum with features like DuoClean Detect Technology, self-cleaning brush roll and odor neutralizing and you will be cleaning faster, smarter and better!</desc>
-    <category lang="en">Consumer</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p29477991_b_h11_aa.jpg?w=960&amp;h=540" />
-  </programme><programme channel="Freeform-East-US" start="20260516160000 +0500" stop="20260516163000 +0500">
-    <title>According to Jim</title>
-    <sub-title>The Errand</sub-title>
-    <desc>Jim starts to resent being Cheryl's errand boy; Andy thinks flashing his wedding ring around will make him a "chick magnet.".</desc>
-    <episode-num system="onscreen">S3 E1</episode-num>
-    <credits>
-      <director>Philip Charles MacKenzie</director>
-      <actor>Jim Belushi</actor>
-      <actor>Courtney Thorne-Smith</actor>
-      <actor>Kimberly Williams-Paisley</actor>
-    </credits><date>2003</date>
-    <category lang="en">Series</category>
-    <category lang="en">Sitcom</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p7895303_b_h8_aa.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
-      <value>0</value>
-    </rating><rating system="Kijkwijzer">
-      <value>6</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating>
-  </programme><programme channel="Freeform-East-US" start="20260516163000 +0500" stop="20260516183000 +0500">
-    <title>Beetlejuice</title>
-    <sub-title />
-    <desc>After Barbara and Adam Maitland die in a car accident, they find themselves stuck haunting their country residence, unable to leave the house. When the unbearable Deetzes and teen daughter Lydia buy the home, the Maitlands attempt to scare them away without success. Their efforts attract Beetlejuice, a rambunctious spirit whose help quickly becomes dangerous for the Maitlands and innocent Lydia.</desc>
-    <credits>
-      <director>Tim Burton</director>
-      <actor>Michael Keaton</actor>
-      <actor>Alec Baldwin</actor>
-      <actor>Geena Davis</actor>
-    </credits><date>1988</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Comedy</category>
-    <category lang="en">Fantasy</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p10703_v_h10_aa.jpg?w=960&amp;h=540" />
-    <rating system="Motion Picture Association">
-      <value>PG</value>
-    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>B</value>
-    </rating><rating system="Alberta's Film Classification Board">
-      <value>PG</value>
-    </rating><rating system="B.C. Film Classification Office">
-      <value>PG</value>
-    </rating><rating system="Saskatchewan Film and Video Classification Board">
-      <value>PG</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K12</value>
-    </rating><rating system="Ontario Film Authority">
-      <value>PG</value>
-    </rating><rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating><rating system="Film &amp; Publication Board">
-      <value>13</value>
-    </rating><rating system="UK Content Provider">
-      <value>12</value>
-    </rating><rating system="British Board of Film Classification">
-      <value>12A</value>
-    </rating><rating system="Statens medieråd">
-      <value>Från 11 år</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="Instituto Nacional de Cine y Artes Audiovisuales">
-      <value>ATP</value>
-    </rating><rating system="Medietilsynet">
-      <value>15 år</value>
-    </rating><rating system="Kijkwijzer">
-      <value>12</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>12</value>
-    </rating><rating system="Consejo Nacional de Televisión">
-      <value>I12</value>
-    </rating><star-rating>
-      <value>6.0/10</value>
-    </star-rating>
-  </programme><programme channel="Freeform-East-US" start="20260516183000 +0500" stop="20260516214500 +0500">
-    <title>Pirates of the Caribbean: The Curse of the Black Pearl</title>
-    <sub-title />
-    <desc>Capt. Jack Sparrow (Johnny Depp) arrives at Port Royal in the Caribbean without a ship or crew. His timing is inopportune, however, because later that evening the town is besieged by a pirate ship. The pirates kidnap the governor's daughter, Elizabeth (Keira Knightley), who's in possession of a valuable coin that is linked to a curse that has transformed the pirates into the undead. A gallant blacksmith (Orlando Bloom) in love with Elizabeth allies with Sparrow in pursuit of the pirates.</desc>
-    <credits>
-      <director>Gore Verbinski</director>
-      <actor>Johnny Depp</actor>
-      <actor>Geoffrey Rush</actor>
-      <actor>Orlando Bloom</actor>
-    </credits><date>2003</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Adventure</category>
-    <category lang="en">Action</category>
-    <category lang="en">Fantasy</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p32093_v_h10_aa.jpg?w=960&amp;h=540" />
-    <rating system="Motion Picture Association">
-      <value>PG-13</value>
-    </rating><rating system="Alberta's Film Classification Board">
-      <value>PG</value>
-    </rating><rating system="B.C. Film Classification Office">
-      <value>PG</value>
-    </rating><rating system="Manitoba Film Classification Board">
-      <value>PG</value>
-    </rating><rating system="Maritime Film Classification Board">
-      <value>PG</value>
-    </rating><rating system="Ontario Film Authority">
-      <value>PG</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="Saskatchewan Film and Video Classification Board">
-      <value>PG</value>
-    </rating><rating system="British Board of Film Classification">
-      <value>12A</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>14</value>
-    </rating><rating system="UK Content Provider">
-      <value>12</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
-      <value>12</value>
-    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K12</value>
-    </rating><rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating><rating system="Ministero della Cultura">
-      <value>T</value>
-    </rating><rating system="Statens medieråd">
-      <value>Från 11 år</value>
-    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>B</value>
-    </rating><rating system="映倫">
-      <value>G</value>
-    </rating><rating system="영상물등급위원회">
-      <value>12+</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
-    </rating><rating system="Kijkwijzer">
-      <value>12</value>
-    </rating><rating system="Central Board of Film Certification">
-      <value>A</value>
-    </rating><star-rating>
-      <value>6.0/10</value>
-    </star-rating>
-  </programme><programme channel="Freeform-East-US" start="20260516214500 +0500" stop="20260517010000 +0500">
-    <title>Pirates of the Caribbean: Dead Man's Chest</title>
-    <sub-title />
-    <desc>When ghostly pirate Davy Jones comes to collect a blood debt, Capt. Jack Sparrow must find a way to avoid his fate lest his soul be damned for all time. Nevertheless, the wily ghost manages to interrupt the wedding plans of Jack's friends Will Turner and Elizabeth Swann.</desc>
-    <credits>
-      <director>Gore Verbinski</director>
-      <actor>Johnny Depp</actor>
-      <actor>Orlando Bloom</actor>
-      <actor>Keira Knightley</actor>
-    </credits><date>2006</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Adventure</category>
-    <category lang="en">Action</category>
-    <category lang="en">Fantasy</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p159655_v_h10_ab.jpg?w=960&amp;h=540" />
-    <rating system="Motion Picture Association">
-      <value>PG-13</value>
-    </rating><rating system="Alberta's Film Classification Board">
-      <value>PG</value>
-    </rating><rating system="B.C. Film Classification Office">
-      <value>PG</value>
-    </rating><rating system="Manitoba Film Classification Board">
-      <value>PG</value>
-    </rating><rating system="Ontario Film Authority">
-      <value>PG</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="Saskatchewan Film and Video Classification Board">
-      <value>PG</value>
-    </rating><rating system="Maritime Film Classification Board">
-      <value>PG</value>
-    </rating><rating system="British Board of Film Classification">
-      <value>12</value>
-    </rating><rating system="UK Content Provider">
-      <value>12</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K12</value>
-    </rating><rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating><rating system="Arcom">
-      <value>-10</value>
-    </rating><rating system="Instituto Nacional de Cine y Artes Audiovisuales">
-      <value>SAM 13</value>
-    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>B</value>
-    </rating><rating system="Statens medieråd">
-      <value>Från 11 år</value>
-    </rating><rating system="Ministero della Cultura">
-      <value>VM14</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>12</value>
-    </rating><rating system="映倫">
-      <value>G</value>
-    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
-      <value>7</value>
-    </rating><rating system="영상물등급위원회">
-      <value>12+</value>
-    </rating><rating system="Kijkwijzer">
-      <value>6</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
-    </rating><rating system="Medierådet">
-      <value>11</value>
-    </rating><rating system="Central Board of Film Certification">
-      <value>UA</value>
-    </rating><star-rating>
-      <value>5.0/10</value>
-    </star-rating>
-  </programme><programme channel="Freeform-East-US" start="20260517010000 +0500" stop="20260517044500 +0500">
-    <title>Pirates of the Caribbean: At World's End</title>
-    <sub-title />
-    <desc>Will Turner (Orlando Bloom) and Elizabeth Swann (Keira Knightley) join forces with Capt. Barbossa (Geoffrey Rush) to free Jack Sparrow (Johnny Depp) from Davy Jones' locker. Meanwhile, the crew of the Flying Dutchman ghost ship wreaks havoc on the Seven Seas. The friends must navigate dangerous waters to confront Chinese pirate Sao Feng (Chow Yun-Fat) and, ultimately, they must choose sides in a battle wherein the pirate life hangs in the balance.</desc>
-    <credits>
-      <director>Gore Verbinski</director>
-      <actor>Johnny Depp</actor>
-      <actor>Orlando Bloom</actor>
-      <actor>Keira Knightley</actor>
-    </credits><date>2007</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Adventure</category>
-    <category lang="en">Action</category>
-    <category lang="en">Fantasy</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p164907_v_h10_ab.jpg?w=960&amp;h=540" />
-    <rating system="Motion Picture Association">
-      <value>PG-13</value>
-    </rating><rating system="Ontario Film Authority">
-      <value>PG</value>
-    </rating><rating system="B.C. Film Classification Office">
-      <value>PG</value>
-    </rating><rating system="Saskatchewan Film and Video Classification Board">
-      <value>PG</value>
-    </rating><rating system="Manitoba Film Classification Board">
-      <value>PG</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="Alberta's Film Classification Board">
-      <value>PG</value>
-    </rating><rating system="Maritime Film Classification Board">
-      <value>PG</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>12</value>
-    </rating><rating system="UK Content Provider">
-      <value>12</value>
-    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K12</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating><rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating><rating system="Film &amp; Publication Board">
-      <value>13</value>
-    </rating><rating system="Arcom">
-      <value>-10</value>
-    </rating><rating system="Instituto Nacional de Cine y Artes Audiovisuales">
-      <value>SAM 13</value>
-    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>B</value>
-    </rating><rating system="Statens medieråd">
-      <value>Från 11 år</value>
-    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
-      <value>7</value>
-    </rating><rating system="映倫">
-      <value>G</value>
-    </rating><rating system="Medierådet">
-      <value>11</value>
-    </rating><rating system="British Board of Film Classification">
-      <value>PG</value>
-    </rating><rating system="영상물등급위원회">
-      <value>12+</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
-    </rating><rating system="Kijkwijzer">
-      <value>12</value>
-    </rating><rating system="Irish Film Classification Office">
-      <value>12A</value>
-    </rating><rating system="Medietilsynet">
-      <value>11 år</value>
-    </rating><rating system="Central Board of Film Certification">
-      <value>A</value>
-    </rating><star-rating>
-      <value>5.0/10</value>
-    </star-rating>
-  </programme><programme channel="Freeform-East-US" start="20260517044500 +0500" stop="20260517080000 +0500">
-    <title>Pirates of the Caribbean: On Stranger Tides</title>
-    <sub-title />
-    <desc>The checkered past of Capt. Jack Sparrow (Johnny Depp) catches up to him when he encounters Angelica (Penélope Cruz), a beautiful pirate that Jack once loved then left. Angelica forces him to accompany her to the Queen Anne's Revenge, the ship of the notorious Blackbeard (Ian McShane). Accompanied by a zombie crew, the trio sets sail to find the legendary Fountain of Youth. However, Jack's rival, Barbossa (Geoffrey Rush), also seeks the fountain, as does a ship from Spain.</desc>
-    <credits>
-      <director>Rob Marshall</director>
-      <actor>Johnny Depp</actor>
-      <actor>Penélope Cruz</actor>
-      <actor>Ian McShane</actor>
-    </credits><date>2011</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Adventure</category>
-    <category lang="en">Action</category>
-    <category lang="en">Fantasy</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p7989366_v_h10_aa.jpg?w=960&amp;h=540" />
-    <rating system="Motion Picture Association">
-      <value>PG-13</value>
-    </rating><rating system="British Board of Film Classification">
-      <value>12A</value>
-    </rating><rating system="Alberta's Film Classification Board">
-      <value>PG</value>
-    </rating><rating system="Manitoba Film Classification Board">
-      <value>PG</value>
-    </rating><rating system="Ontario Film Authority">
-      <value>PG</value>
-    </rating><rating system="Maritime Film Classification Board">
-      <value>PG</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="B.C. Film Classification Office">
-      <value>PG</value>
-    </rating><rating system="Saskatchewan Film and Video Classification Board">
-      <value>PG</value>
-    </rating><rating system="UK Content Provider">
-      <value>12</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>12</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K12</value>
-    </rating><rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating><rating system="Film &amp; Publication Board">
-      <value>13</value>
-    </rating><rating system="Instituto Nacional de Cine y Artes Audiovisuales">
-      <value>SAM 13</value>
-    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>B</value>
-    </rating><rating system="Statens medieråd">
-      <value>Från 11 år</value>
-    </rating><rating system="Ministero della Cultura">
-      <value>VM14</value>
-    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
-      <value>7</value>
-    </rating><rating system="映倫">
-      <value>G</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
-    </rating><rating system="영상물등급위원회">
-      <value>12+</value>
-    </rating><rating system="Kijkwijzer">
-      <value>12</value>
-    </rating><rating system="Medietilsynet">
-      <value>11 år</value>
-    </rating><rating system="Central Board of Film Certification">
-      <value>UA</value>
-    </rating><star-rating>
-      <value>5.0/10</value>
-    </star-rating>
-  </programme><programme channel="Freeform-East-US" start="20260517080000 +0500" stop="20260517110000 +0500">
-    <title>Pirates of the Caribbean: Dead Men Tell No Tales</title>
-    <sub-title />
-    <desc>Thrust into an all-new adventure, a down-on-his-luck Capt. Jack Sparrow feels the winds of ill-fortune blowing even more strongly when deadly ghost sailors led by his old nemesis, the evil Capt. Salazar, escape from the Devil's Triangle. Jack's only hope of survival lies in seeking out the legendary Trident of Poseidon, but to find it, he must forge an uneasy alliance with a brilliant and beautiful astronomer and a headstrong young man in the British navy.</desc>
-    <credits>
-      <director>Joachim Rønning</director>
-      <director>Espen Sandberg</director>
-      <actor>Johnny Depp</actor>
-      <actor>Geoffrey Rush</actor>
-      <actor>Javier Bardem</actor>
-    </credits><date>2017</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Adventure</category>
-    <category lang="en">Action</category>
-    <category lang="en">Fantasy</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p12009531_v_h10_ab.jpg?w=960&amp;h=540" />
-    <rating system="Motion Picture Association">
-      <value>PG-13</value>
-    </rating><rating system="Alberta's Film Classification Board">
-      <value>PG</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="B.C. Film Classification Office">
-      <value>PG</value>
-    </rating><rating system="Saskatchewan Film and Video Classification Board">
-      <value>PG</value>
-    </rating><rating system="Ontario Film Authority">
-      <value>PG</value>
-    </rating><rating system="Manitoba Film Classification Board">
-      <value>PG</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>12</value>
-    </rating><rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K12</value>
-    </rating><rating system="British Board of Film Classification">
-      <value>12A</value>
-    </rating><rating system="UK Content Provider">
-      <value>12</value>
-    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>B</value>
-    </rating><rating system="Statens medieråd">
-      <value>Från 11 år</value>
-    </rating><rating system="Medierådet">
-      <value>11</value>
-    </rating><rating system="Instituto Nacional de Cine y Artes Audiovisuales">
-      <value>ATP</value>
-    </rating><rating system="映倫">
-      <value>G</value>
-    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
-      <value>12</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
-    </rating><rating system="Consejo Nacional de Televisión">
-      <value>R</value>
-    </rating><rating system="Kijkwijzer">
-      <value>12</value>
-    </rating><rating system="Central Board of Film Certification">
-      <value>U</value>
-    </rating><star-rating>
-      <value>4.0/10</value>
-    </star-rating>
-  </programme><programme channel="Freeform-East-US" start="20260517110000 +0500" stop="20260517113000 +0500">
-    <title>NEW! Shark PowerDetect with DuoClean Detect Technology</title>
-    <sub-title />
-    <desc>Meet the new Shark PowerDetect Upright Vacuum with features like DuoClean Detect Technology, self-cleaning brush roll and odor neutralizing and you will be cleaning faster, smarter and better!</desc>
-    <category lang="en">Consumer</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p29477991_b_h11_aa.jpg?w=960&amp;h=540" />
-  </programme><programme channel="Freeform-East-US" start="20260517113000 +0500" stop="20260517120000 +0500">
-    <title>Inogen Portable Oxygen - No More Tanks!</title>
-    <sub-title />
-    <desc>Regain independence and enjoy greater mobility with the compact design and long-lasting battery of portable oxygen.</desc>
-    <category lang="en">Health</category>
-    <category lang="en">Consumer</category>
-    <category lang="en">Science</category>
-    <category lang="en">Medical</category>
-    <category lang="en">Technology</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p17108681_b_h11_ab.jpg?w=960&amp;h=540" />
-  </programme><programme channel="Freeform-East-US" start="20260517120000 +0500" stop="20260517123000 +0500">
-    <title>Protect Your Family From Identity Theft</title>
-    <sub-title />
-    <desc>Every 5 seconds there's a victim of identity theft; LifeLock helps alert you, restore your identity, and reimburse lost funds—leading the way in protecting families every day.</desc>
-    <category lang="en">Consumer</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/tvbanners/generic/generic_tvbanners_h12.png" />
-  </programme><programme channel="Freeform-East-US" start="20260517123000 +0500" stop="20260517130000 +0500">
-    <title>Paid Programming</title>
-    <sub-title />
-    <desc>Paid programming.</desc>
-    <category lang="en">Consumer</category>
-    <category lang="en">Shopping</category>
-    <category lang="en">Variety</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>G</value>
-    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>A</value>
-    </rating><rating system="Australian Classification Board">
-      <value>G</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>L</value>
-    </rating><rating system="Kijkwijzer">
-      <value>AL</value>
-    </rating>
-  </programme><programme channel="Freeform-East-US" start="20260517130000 +0500" stop="20260517133000 +0500">
-    <title>NEW! Shark PowerDetect with DuoClean Detect Technology</title>
-    <sub-title />
-    <desc>Meet the new Shark PowerDetect Upright Vacuum with features like DuoClean Detect Technology, self-cleaning brush roll and odor neutralizing and you will be cleaning faster, smarter and better!</desc>
-    <category lang="en">Consumer</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p29477991_b_h11_aa.jpg?w=960&amp;h=540" />
-  </programme><programme channel="Freeform-East-US" start="20260517133000 +0500" stop="20260517140000 +0500">
+  </programme><programme channel="Freeform-East-US" start="20260523143000 +0500" stop="20260523150000 +0500">
     <title>Best Mattress Topper Ever!</title>
     <sub-title />
     <desc>Back Pain? Hip? Sleep well thanks to this cooling topper!</desc>
     <category lang="en">Consumer</category>
     <language>en</language>
     <icon src="http://dtil.tmsimg.com/assets/p26665262_st_h10_aa.jpg?w=960&amp;h=540" />
-  </programme><programme channel="Freeform-East-US" start="20260517140000 +0500" stop="20260517143000 +0500">
-    <title>Paid Programming</title>
+  </programme><programme channel="Freeform-East-US" start="20260523150000 +0500" stop="20260523153000 +0500">
+    <title>POOF! Bye Bye Under Eye Bags!</title>
     <sub-title />
-    <desc>Paid programming.</desc>
+    <desc>Plexaderm helps reduce Under Eye Bags, Dark Circles, and Wrinkles in just 10 minutes!</desc>
     <category lang="en">Consumer</category>
-    <category lang="en">Shopping</category>
-    <category lang="en">Variety</category>
+    <category lang="en">Health</category>
+    <category lang="en">How-to</category>
+    <category lang="en">Medical</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>G</value>
-    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>A</value>
-    </rating><rating system="Australian Classification Board">
-      <value>G</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>L</value>
-    </rating><rating system="Kijkwijzer">
-      <value>AL</value>
-    </rating>
-  </programme><programme channel="Freeform-East-US" start="20260517143000 +0500" stop="20260517150000 +0500">
-    <title>Ready for a safer shower? Enjoy a one-day bath remodel with Jacuzzi.</title>
-    <sub-title />
-    <desc>Trusted brand Jacuzzi Bath Remodel and interior designer Christina Hall share their secrets on how you can easily and affordably transform your bathroom into a gorgeous custom, safe, stylish space in 1 day! Call for a FREE quote &amp; installation.</desc>
-    <category lang="en">Consumer</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p30074472_b_h8_aa.jpg?w=960&amp;h=540" />
-  </programme><programme channel="Freeform-East-US" start="20260517150000 +0500" stop="20260517153000 +0500">
-    <title>Cindy Crawford talks about the latest breakthroughs in skincare</title>
-    <sub-title />
-    <desc>Join Cindy Crawford as she talks to real customers about the breakthrough skincare system that keeps them looking their best. Take a trip to the stunning French countryside to see the rare French melon that defies the aging process.</desc>
-    <category lang="en">Consumer</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p29986338_st_h10_aa.jpg?w=960&amp;h=540" />
-  </programme><programme channel="Freeform-East-US" start="20260517153000 +0500" stop="20260517160000 +0500">
+    <icon src="http://dtil.tmsimg.com/assets/p30715204_b_h8_aa.jpg?w=960&amp;h=540" />
+  </programme><programme channel="Freeform-East-US" start="20260523153000 +0500" stop="20260523160000 +0500">
     <title>NEW! Shark PowerDetect with DuoClean Detect Technology</title>
     <sub-title />
     <desc>Meet the new Shark PowerDetect Upright Vacuum with features like DuoClean Detect Technology, self-cleaning brush roll and odor neutralizing and you will be cleaning faster, smarter and better!</desc>
     <category lang="en">Consumer</category>
     <language>en</language>
     <icon src="http://dtil.tmsimg.com/assets/p29477991_b_h11_aa.jpg?w=960&amp;h=540" />
-  </programme><programme channel="Freeform-East-US" start="20260517160000 +0500" stop="20260517163000 +0500">
+  </programme><programme channel="Freeform-East-US" start="20260523160000 +0500" stop="20260523163000 +0500">
     <title>According to Jim</title>
-    <sub-title>The Packer Ball</sub-title>
-    <desc>Jim panics when his son becomes a Green Bay Packers fan, and he tries to convert him to a Chicago Bears fan.</desc>
-    <episode-num system="onscreen">S3 E2</episode-num>
+    <sub-title>The Imaginary Friend</sub-title>
+    <desc>Jim invents an imaginary friend to avoid going to a couple's baby shower with Cheryl.</desc>
+    <episode-num system="onscreen">S3 E9</episode-num>
     <credits>
       <director>Philip Charles MacKenzie</director>
       <actor>Jim Belushi</actor>
@@ -913,41 +590,11 @@
     </rating><rating system="Régie du cinéma">
       <value>G</value>
     </rating>
-  </programme><programme channel="Freeform-East-US" start="20260517163000 +0500" stop="20260517170000 +0500">
+  </programme><programme channel="Freeform-East-US" start="20260523163000 +0500" stop="20260523170000 +0500">
     <title>According to Jim</title>
-    <sub-title>We Have a Bingo</sub-title>
-    <desc>Jim feels guilty after cheating at a church's fund-raising bingo game.</desc>
-    <episode-num system="onscreen">S3 E3</episode-num>
-    <credits>
-      <director>Philip Charles MacKenzie</director>
-      <actor>Jim Belushi</actor>
-      <actor>Courtney Thorne-Smith</actor>
-      <actor>Kimberly Williams-Paisley</actor>
-    </credits><date>2003</date>
-    <category lang="en">Series</category>
-    <category lang="en">Sitcom</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p7895303_b_h8_aa.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
-      <value>0</value>
-    </rating><rating system="Kijkwijzer">
-      <value>6</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating>
-  </programme><programme channel="Freeform-East-US" start="20260517170000 +0500" stop="20260517173000 +0500">
-    <title>According to Jim</title>
-    <sub-title>Getting to Know You</sub-title>
-    <desc>When Cheryl's friend gets expensive jewelry from her husband as gifts for no reason, Cheryl expects Jim to do the same; Jim finds these to be unreasonable requests and doubts the husband's intentions.</desc>
-    <episode-num system="onscreen">S3 E4</episode-num>
+    <sub-title>Paintball</sub-title>
+    <desc>After Cheryl's cooking class choice proves to be a disaster, Jim gets to pick paintball as the next couple's activity.</desc>
+    <episode-num system="onscreen">S3 E10</episode-num>
     <credits>
       <director>Mark Cendrowski</director>
       <actor>Jim Belushi</actor>
@@ -973,370 +620,952 @@
     </rating><rating system="Régie du cinéma">
       <value>G</value>
     </rating>
-  </programme><programme channel="Freeform-East-US" start="20260517173000 +0500" stop="20260517204500 +0500">
-    <title>Cast Away</title>
-    <sub-title />
-    <desc>Obsessively punctual FedEx executive Chuck Noland (Tom Hanks) is en route to an assignment in Malaysia when his plane crashes over the Pacific Ocean during a storm. The sole survivor of the flight, Chuck washes ashore on a deserted island. When his efforts to sail away and contact help fail, Chuck learns how to survive on the island, where he remains for years, accompanied by only his handmade volleyball friend, Wilson. Will Chuck ever return to civilization and reunite with his loved ones?</desc>
+  </programme><programme channel="Freeform-East-US" start="20260523170000 +0500" stop="20260523173000 +0500">
+    <title>According to Jim</title>
+    <sub-title>The Empty Gesture</sub-title>
+    <desc>Cheryl gets stranded on the roof retrieving a tablecloth for Thanksgiving dinner, and no one notices her absence until she disables the television.</desc>
+    <episode-num system="onscreen">S3 E11</episode-num>
     <credits>
-      <director>Robert Zemeckis</director>
-      <actor>Tom Hanks</actor>
-      <actor>Helen Hunt</actor>
-      <actor>Nick Searcy</actor>
-    </credits><date>2000</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Adventure</category>
-    <category lang="en">Romance</category>
+      <director>Mark Cendrowski</director>
+      <actor>Jim Belushi</actor>
+      <actor>Courtney Thorne-Smith</actor>
+      <actor>Kimberly Williams-Paisley</actor>
+    </credits><date>2003</date>
+    <category lang="en">Series</category>
+    <category lang="en">Holiday</category>
+    <category lang="en">Sitcom</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p26553_v_h10_az.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p7895303_b_h8_aa.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>0</value>
+    </rating><rating system="Kijkwijzer">
+      <value>6</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+  </programme><programme channel="Freeform-East-US" start="20260523173000 +0500" stop="20260523200000 +0500">
+    <title>Lyle, Lyle, Crocodile</title>
+    <sub-title />
+    <desc>When the Primm family moves to New York City, their young son, Josh, struggles to adapt to his new school and friends. All of that changes when he discovers Lyle, a singing crocodile that loves baths, caviar and great music. The two become fast friends, but when evil neighbor Mr. Grumps threatens Lyle's existence, the Primms must band together to show the world that family can come from the most unexpected places.</desc>
+    <credits>
+      <director>Josh Gordon</director>
+      <director>Will Speck</director>
+      <actor>Javier Bardem</actor>
+      <actor>Winslow Fegley</actor>
+      <actor>Shawn Mendes</actor>
+    </credits><date>2022</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Family</category>
+    <category lang="en">Musical comedy</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p22071768_v_h8_ao.jpg?w=960&amp;h=540" />
     <rating system="Motion Picture Association">
-      <value>PG-13</value>
-    </rating><rating system="Alberta's Film Classification Board">
-      <value>PG</value>
-    </rating><rating system="B.C. Film Classification Office">
-      <value>PG</value>
-    </rating><rating system="Manitoba Film Classification Board">
-      <value>PG</value>
-    </rating><rating system="Maritime Film Classification Board">
-      <value>18</value>
-    </rating><rating system="Ontario Film Authority">
       <value>PG</value>
     </rating><rating system="Régie du cinéma">
       <value>G</value>
-    </rating><rating system="Saskatchewan Film and Video Classification Board">
+    </rating><rating system="Alberta's Film Classification Board">
+      <value>G</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>L</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>0</value>
+    </rating><rating system="Consejo de Calificación Cinematográfica">
+      <value>TE</value>
+    </rating><rating system="Medierådet">
+      <value>A</value>
+    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>A</value>
+    </rating><rating system="Kijkwijzer">
+      <value>6</value>
+    </rating><rating system="映倫">
+      <value>PG12</value>
+    </rating><rating system="영상물등급위원회">
+      <value>All</value>
+    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K7</value>
+    </rating><rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating><rating system="UK Content Provider">
+      <value>PG</value>
+    </rating><rating system="British Board of Film Classification">
+      <value>PG</value>
+    </rating><rating system="Instituto Nacional de Cine y Artes Audiovisuales">
+      <value>ATP</value>
+    </rating><rating system="Central Board of Film Certification">
+      <value>U</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>7</value>
+    </rating><rating system="Statens medieråd">
+      <value>Barntillåten</value>
+    </rating><rating system="Ministero della Cultura">
+      <value>T</value>
+    </rating><star-rating>
+      <value>5.0/10</value>
+    </star-rating>
+  </programme><programme channel="Freeform-East-US" start="20260523200000 +0500" stop="20260523220500 +0500">
+    <title>Air Bud</title>
+    <sub-title />
+    <desc>Diffident in the wake of his father's death, high schooler Josh (Kevin Zegers) struggles to adapt to his new home in Washington state. That all changes, however, when he signs up to be the school basketball team's manager and discovers that his pet dog Bud, a stray golden retriever he took in, can play the sport amazingly well. After Bud joins the team, Josh's life brightens considerably, until the dog's former owner Norm Snively (Michael Jeter) returns in hopes of reclaiming the pooch.</desc>
+    <credits>
+      <director>Charles Martin Smith</director>
+      <actor>Michael Jeter</actor>
+      <actor>Kevin Zegers</actor>
+      <actor>Wendy Makkena</actor>
+    </credits><date>1997</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Children</category>
+    <category lang="en">Comedy drama</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p19664_v_h8_ag.jpg?w=960&amp;h=540" />
+    <rating system="Motion Picture Association">
       <value>PG</value>
     </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>B</value>
+      <value>A</value>
     </rating><rating system="British Board of Film Classification">
-      <value>12</value>
-    </rating><rating system="UK Content Provider">
-      <value>12</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>12</value>
+      <value>PG</value>
     </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating><rating system="Australian Classification Board">
-      <value>M 15+</value>
+      <value>0</value>
     </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K12</value>
+      <value>S</value>
+    </rating><rating system="Ontario Film Authority">
+      <value>F</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>L</value>
+    </rating><rating system="Kijkwijzer">
+      <value>6</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating><star-rating>
+      <value>5.0/10</value>
+    </star-rating>
+  </programme><programme channel="Freeform-East-US" start="20260523220500 +0500" stop="20260524001000 +0500">
+    <title>Air Bud: Golden Receiver</title>
+    <sub-title />
+    <desc>Teenager Josh (Kevin Zegers) just became the legal owner of his basketball-playing dog, Buddy. But now Buddy is playing football, too, thanks to veterinarian Patrick Sullivan (Gregory Harrison), who happens to be the new boyfriend of Josh's mom. Unfortunately, Josh and Patrick don't get along too well. But, when a couple of Russians (Nora Dunn, Perry Anzilotti) see Buddy playing on TV and decide to kidnap him for their circus, the two must band together to find the dog and save him.</desc>
+    <credits>
+      <director>Richard Martin</director>
+      <actor>Kevin Zegers</actor>
+      <actor>Cynthia Stevenson</actor>
+      <actor>Gregory Harrison</actor>
+    </credits><date>1998</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Children</category>
+    <category lang="en">Comedy drama</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p21466_v_h10_aa.jpg?w=960&amp;h=540" />
+    <rating system="Motion Picture Association">
+      <value>G</value>
+    </rating><rating system="B.C. Film Classification Office">
+      <value>G</value>
+    </rating><rating system="Manitoba Film Classification Board">
+      <value>G</value>
+    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>A</value>
+    </rating><rating system="British Board of Film Classification">
+      <value>U</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="Ontario Film Authority">
+      <value>PG</value>
+    </rating><rating system="Australian Classification Board">
+      <value>G</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>0</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>L</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>7</value>
+    </rating><star-rating>
+      <value>3.0/10</value>
+    </star-rating>
+  </programme><programme channel="Freeform-East-US" start="20260524001000 +0500" stop="20260524021500 +0500">
+    <title>Hercules</title>
+    <sub-title />
+    <desc>Disney tackles Greek mythology in this animated feature. Hercules (Tate Donovan), a son of gods, was snatched as a baby by Hades (James Woods) and forced to live among mortals as a half-man, half-god. Now a teenager, Hercules needs to perform a rite of passage on Earth to prove himself worthy of living with the gods on Mount Olympus. With his plucky satyr sidekick, Philoctetes (Danny DeVito), along for the ride, Hercules must learn how to use his strength to defeat a series of evil creatures.</desc>
+    <credits>
+      <director>Ron Clements</director>
+      <director>John Musker</director>
+      <actor>Tate Donovan</actor>
+      <actor>Josh Keaton</actor>
+      <actor>Roger Bart</actor>
+    </credits><date>1997</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Animated</category>
+    <category lang="en">Children</category>
+    <category lang="en">Adventure</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p19527_v_h8_aj.jpg?w=960&amp;h=540" />
+    <rating system="Motion Picture Association">
+      <value>G</value>
+    </rating><rating system="British Board of Film Classification">
+      <value>U</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>L</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>0</value>
+    </rating><rating system="UK Content Provider">
+      <value>U</value>
+    </rating><rating system="Australian Classification Board">
+      <value>G</value>
+    </rating><rating system="Ontario Film Authority">
+      <value>F</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="Instituto Nacional de Cine y Artes Audiovisuales">
+      <value>ATP</value>
+    </rating><rating system="Statens medieråd">
+      <value>Från 7 år</value>
+    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>A</value>
+    </rating><rating system="Medierådet">
+      <value>7</value>
+    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K7</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>7</value>
+    </rating><rating system="영상물등급위원회">
+      <value>All</value>
+    </rating><rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating><rating system="Medietilsynet">
+      <value>7 år</value>
+    </rating><rating system="Alberta's Film Classification Board">
+      <value>G</value>
+    </rating><star-rating>
+      <value>6.0/10</value>
+    </star-rating>
+  </programme><programme channel="Freeform-East-US" start="20260524021500 +0500" stop="20260524042500 +0500">
+    <title>Big Hero 6</title>
+    <sub-title />
+    <desc>Robotics prodigy Hiro lives in the city of San Fransokyo. Next to his older brother, Tadashi, Hiro's closest companion is Baymax, a robot whose sole purpose is to take care of people. When a devastating turn of events throws Hiro into the middle of a dangerous plot, he transforms Baymax and his other friends, Go Go Tamago, Wasabi, Honey Lemon and Fred into a band of high-tech heroes.</desc>
+    <credits>
+      <director>Don Hall</director>
+      <director>Chris Williams</director>
+      <actor>Ryan Potter</actor>
+      <actor>Scott Adsit</actor>
+      <actor>T.J. Miller</actor>
+    </credits><date>2014</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Animated</category>
+    <category lang="en">Children</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Adventure</category>
+    <category lang="en">Action</category>
+    <category lang="en">Science fiction</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p10569216_v_h8_as.jpg?w=960&amp;h=540" />
+    <rating system="Motion Picture Association">
+      <value>PG</value>
+    </rating><rating system="Alberta's Film Classification Board">
+      <value>G</value>
+    </rating><rating system="B.C. Film Classification Office">
+      <value>G</value>
+    </rating><rating system="Saskatchewan Film and Video Classification Board">
+      <value>G</value>
+    </rating><rating system="Ontario Film Authority">
+      <value>PG</value>
+    </rating><rating system="Manitoba Film Classification Board">
+      <value>G</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="Maritime Film Classification Board">
+      <value>G</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>L</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>6</value>
+    </rating><rating system="UK Content Provider">
+      <value>PG</value>
+    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K7</value>
+    </rating><rating system="Ministero della Cultura">
+      <value>T</value>
+    </rating><rating system="British Board of Film Classification">
+      <value>PG</value>
+    </rating><rating system="Instituto Nacional de Cine y Artes Audiovisuales">
+      <value>ATP</value>
+    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>A</value>
+    </rating><rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating><rating system="映倫">
+      <value>G</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>7</value>
+    </rating><rating system="영상물등급위원회">
+      <value>All</value>
+    </rating><rating system="Statens medieråd">
+      <value>Från 7 år</value>
+    </rating><rating system="Kijkwijzer">
+      <value>6</value>
+    </rating><rating system="Medierådet">
+      <value>7</value>
+    </rating><star-rating>
+      <value>7.0/10</value>
+    </star-rating>
+  </programme><programme channel="Freeform-East-US" start="20260524042500 +0500" stop="20260524065500 +0500">
+    <title>Finding Nemo</title>
+    <sub-title />
+    <desc>Marlin (Albert Brooks), a clown fish, is overly cautious with his son, Nemo (Alexander Gould), who has a foreshortened fin. When Nemo swims too close to the surface to prove himself, he is caught by a diver, and horrified Marlin must set out to find him. A blue reef fish named Dory (Ellen DeGeneres) -- who has a really short memory -- joins Marlin and complicates the encounters with sharks, jellyfish, and a host of ocean dangers. Meanwhile, Nemo plots his escape from a dentist's fish tank.</desc>
+    <credits>
+      <director>Andrew Stanton</director>
+      <actor>Albert Brooks</actor>
+      <actor>Ellen DeGeneres</actor>
+      <actor>Alexander Gould</actor>
+    </credits><date>2003</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Animated</category>
+    <category lang="en">Children</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Adventure</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p31890_v_h8_ae.jpg?w=960&amp;h=540" />
+    <rating system="Motion Picture Association">
+      <value>G</value>
+    </rating><rating system="Alberta's Film Classification Board">
+      <value>G</value>
+    </rating><rating system="B.C. Film Classification Office">
+      <value>G</value>
+    </rating><rating system="Manitoba Film Classification Board">
+      <value>G</value>
+    </rating><rating system="Maritime Film Classification Board">
+      <value>G</value>
+    </rating><rating system="Ontario Film Authority">
+      <value>G</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="Saskatchewan Film and Video Classification Board">
+      <value>G</value>
+    </rating><rating system="British Board of Film Classification">
+      <value>U</value>
+    </rating><rating system="UK Content Provider">
+      <value>U</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>L</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>0</value>
+    </rating><rating system="Australian Classification Board">
+      <value>G</value>
+    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K7</value>
+    </rating><rating system="Instituto Nacional de Cine y Artes Audiovisuales">
+      <value>ATP</value>
+    </rating><rating system="Statens medieråd">
+      <value>Från 7 år</value>
+    </rating><rating system="Ministero della Cultura">
+      <value>T</value>
+    </rating><rating system="映倫">
+      <value>G</value>
+    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>A</value>
+    </rating><rating system="Medierådet">
+      <value>7</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>7</value>
+    </rating><rating system="영상물등급위원회">
+      <value>All</value>
+    </rating><rating system="Kijkwijzer">
+      <value>6</value>
+    </rating><rating system="Central Board of Film Certification">
+      <value>U</value>
+    </rating><star-rating>
+      <value>8.0/10</value>
+    </star-rating>
+  </programme><programme channel="Freeform-East-US" start="20260524065500 +0500" stop="20260524090000 +0500">
+    <title>Finding Dory</title>
+    <sub-title />
+    <desc>Dory (Ellen DeGeneres) is a wide-eyed, blue tang fish who suffers from memory loss every 10 seconds or so. The one thing she can remember is that she somehow became separated from her parents as a child. With help from her friends Nemo and Marlin, Dory embarks on an epic adventure to find them. Her journey brings her to the Marine Life Institute, a conservatory that houses diverse ocean species. Dory now knows that her family reunion will only happen if she can save mom and dad from captivity.</desc>
+    <credits>
+      <director>Andrew Stanton</director>
+      <actor>Ellen DeGeneres</actor>
+      <actor>Albert Brooks</actor>
+      <actor>Ed O'Neill</actor>
+    </credits><date>2016</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Animated</category>
+    <category lang="en">Children</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Adventure</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p12329215_v_h8_af.jpg?w=960&amp;h=540" />
+    <rating system="British Board of Film Classification">
+      <value>U</value>
+    </rating><rating system="Motion Picture Association">
+      <value>PG</value>
+    </rating><rating system="B.C. Film Classification Office">
+      <value>G</value>
+    </rating><rating system="Saskatchewan Film and Video Classification Board">
+      <value>G</value>
+    </rating><rating system="Ontario Film Authority">
+      <value>G</value>
+    </rating><rating system="Manitoba Film Classification Board">
+      <value>G</value>
+    </rating><rating system="Alberta's Film Classification Board">
+      <value>G</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="Maritime Film Classification Board">
+      <value>G</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>L</value>
+    </rating><rating system="Australian Classification Board">
+      <value>G</value>
+    </rating><rating system="UK Content Provider">
+      <value>U</value>
+    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K7</value>
+    </rating><rating system="Instituto Nacional de Cine y Artes Audiovisuales">
+      <value>ATP</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>0</value>
+    </rating><rating system="Statens medieråd">
+      <value>Från 7 år</value>
+    </rating><rating system="映倫">
+      <value>G</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>7</value>
+    </rating><rating system="영상물등급위원회">
+      <value>All</value>
+    </rating><rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating><rating system="Ministero della Cultura">
+      <value>T</value>
+    </rating><rating system="Medierådet">
+      <value>7</value>
+    </rating><rating system="Central Board of Film Certification">
+      <value>U</value>
+    </rating><star-rating>
+      <value>7.0/10</value>
+    </star-rating>
+  </programme><programme channel="Freeform-East-US" start="20260524090000 +0500" stop="20260524110000 +0500">
+    <title>Peter Rabbit 2: The Runaway</title>
+    <sub-title />
+    <desc>Bea, Thomas and the rabbits have created a makeshift family, but despite his best efforts, Peter can't seem to shake his mischievous reputation. Venturing out of the garden, Peter finds himself in a world where his mischief is appreciated. However, when his family risks everything to come looking for him, Peter must figure out what kind of bunny he wants to be.</desc>
+    <credits>
+      <director>Will Gluck</director>
+      <actor>James Corden</actor>
+      <actor>Rose Byrne</actor>
+      <actor>Domhnall Gleeson</actor>
+    </credits><date>2021</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Children</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Fantasy</category>
+    <category lang="en">Adventure</category>
+    <category lang="en">Animated</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p15524435_v_h8_ba.jpg?w=960&amp;h=540" />
+    <rating system="Motion Picture Association">
+      <value>PG</value>
+    </rating><rating system="Statens medieråd">
+      <value>Från 7 år</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>0</value>
+    </rating><rating system="Alberta's Film Classification Board">
+      <value>G</value>
+    </rating><rating system="B.C. Film Classification Office">
+      <value>G</value>
+    </rating><rating system="Saskatchewan Film and Video Classification Board">
+      <value>G</value>
+    </rating><rating system="Ontario Film Authority">
+      <value>G</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K7</value>
+    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>A</value>
+    </rating><rating system="Medierådet">
+      <value>A</value>
+    </rating><rating system="映倫">
+      <value>G</value>
+    </rating><rating system="Australian Classification Board">
+      <value>G</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>L</value>
+    </rating><rating system="UK Content Provider">
+      <value>U</value>
+    </rating><rating system="British Board of Film Classification">
+      <value>U</value>
+    </rating><rating system="Kijkwijzer">
+      <value>6</value>
     </rating><rating system="Ministero della Cultura">
       <value>T</value>
     </rating><rating system="Instituto Nacional de Cine y Artes Audiovisuales">
       <value>ATP</value>
-    </rating><rating system="Statens medieråd">
-      <value>Från 11 år</value>
-    </rating><rating system="Medierådet">
-      <value>11</value>
     </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>16</value>
-    </rating><rating system="영상물등급위원회">
-      <value>12+</value>
-    </rating><rating system="Kijkwijzer">
-      <value>6</value>
+      <value>7</value>
     </rating><rating system="Central Board of Film Certification">
-      <value>A</value>
-    </rating><rating system="Medietilsynet">
-      <value>11 år</value>
+      <value>U</value>
     </rating><star-rating>
-      <value>6.0/10</value>
+      <value>5.0/10</value>
     </star-rating>
-  </programme><programme channel="Freeform-East-US" start="20260517204500 +0500" stop="20260517232500 +0500">
-    <title>Holes</title>
+  </programme><programme channel="Freeform-East-US" start="20260524110000 +0500" stop="20260524113000 +0500">
+    <title>NEW! Shark PowerDetect with DuoClean Detect Technology</title>
     <sub-title />
-    <desc>A boy and his friends question the motives of a woman (Sigourney Weaver) who forces them to dig holes at a detention camp.</desc>
-    <credits>
-      <director>Andrew Davis</director>
-      <actor>Sigourney Weaver</actor>
-      <actor>Jon Voight</actor>
-      <actor>Patricia Arquette</actor>
-    </credits><date>2003</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Children</category>
-    <category lang="en">Adventure</category>
+    <desc>Meet the new Shark PowerDetect Upright Vacuum with features like DuoClean Detect Technology, self-cleaning brush roll and odor neutralizing and you will be cleaning faster, smarter and better!</desc>
+    <category lang="en">Consumer</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p31465_v_h10_ah.jpg?w=960&amp;h=540" />
-    <rating system="Motion Picture Association">
-      <value>PG</value>
-    </rating><rating system="Alberta's Film Classification Board">
-      <value>PG</value>
-    </rating><rating system="B.C. Film Classification Office">
-      <value>PG</value>
-    </rating><rating system="Manitoba Film Classification Board">
-      <value>PG</value>
-    </rating><rating system="Maritime Film Classification Board">
-      <value>PG</value>
-    </rating><rating system="Ontario Film Authority">
-      <value>PG</value>
+    <icon src="http://dtil.tmsimg.com/assets/p29477991_b_h11_aa.jpg?w=960&amp;h=540" />
+  </programme><programme channel="Freeform-East-US" start="20260524113000 +0500" stop="20260524120000 +0500">
+    <title>Inogen Portable Oxygen - No More Tanks!</title>
+    <sub-title />
+    <desc>Regain independence and enjoy greater mobility with the compact design and long-lasting battery of portable oxygen.</desc>
+    <category lang="en">Health</category>
+    <category lang="en">Consumer</category>
+    <category lang="en">Science</category>
+    <category lang="en">Medical</category>
+    <category lang="en">Technology</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p17108681_b_h11_ab.jpg?w=960&amp;h=540" />
+  </programme><programme channel="Freeform-East-US" start="20260524120000 +0500" stop="20260524123000 +0500">
+    <title>Protect Your Family From Identity Theft</title>
+    <sub-title />
+    <desc>Every 5 seconds there's a victim of identity theft; LifeLock helps alert you, restore your identity, and reimburse lost funds—leading the way in protecting families every day.</desc>
+    <category lang="en">Consumer</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p33079900_st_h10_aa.jpg?w=960&amp;h=540" />
+  </programme><programme channel="Freeform-East-US" start="20260524123000 +0500" stop="20260524130000 +0500">
+    <title>Paid Programming</title>
+    <sub-title />
+    <desc>Paid programming.</desc>
+    <category lang="en">Consumer</category>
+    <category lang="en">Shopping</category>
+    <category lang="en">Variety</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
     </rating><rating system="Régie du cinéma">
       <value>G</value>
-    </rating><rating system="Saskatchewan Film and Video Classification Board">
-      <value>PG</value>
-    </rating><rating system="British Board of Film Classification">
-      <value>PG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>A</value>
+    </rating><rating system="Australian Classification Board">
+      <value>G</value>
     </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
       <value>L</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>6</value>
+    </rating><rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating>
+  </programme><programme channel="Freeform-East-US" start="20260524130000 +0500" stop="20260524133000 +0500">
+    <title>NEW! Shark PowerDetect with DuoClean Detect Technology</title>
+    <sub-title />
+    <desc>Meet the new Shark PowerDetect Upright Vacuum with features like DuoClean Detect Technology, self-cleaning brush roll and odor neutralizing and you will be cleaning faster, smarter and better!</desc>
+    <category lang="en">Consumer</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p29477991_b_h11_aa.jpg?w=960&amp;h=540" />
+  </programme><programme channel="Freeform-East-US" start="20260524133000 +0500" stop="20260524140000 +0500">
+    <title>Best Mattress Topper Ever!</title>
+    <sub-title />
+    <desc>Back Pain? Hip? Sleep well thanks to this cooling topper!</desc>
+    <category lang="en">Consumer</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p26665262_st_h10_aa.jpg?w=960&amp;h=540" />
+  </programme><programme channel="Freeform-East-US" start="20260524140000 +0500" stop="20260524143000 +0500">
+    <title>Paid Programming</title>
+    <sub-title />
+    <desc>Paid programming.</desc>
+    <category lang="en">Consumer</category>
+    <category lang="en">Shopping</category>
+    <category lang="en">Variety</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>A</value>
     </rating><rating system="Australian Classification Board">
+      <value>G</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>L</value>
+    </rating><rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating>
+  </programme><programme channel="Freeform-East-US" start="20260524143000 +0500" stop="20260524150000 +0500">
+    <title>Ready for a safer shower? Enjoy a one-day bath remodel with Jacuzzi.</title>
+    <sub-title />
+    <desc>Trusted brand Jacuzzi Bath Remodel and interior designer Christina Hall share their secrets on how you can easily and affordably transform your bathroom into a gorgeous custom, safe, stylish space in 1 day! Call for a FREE quote &amp; installation.</desc>
+    <category lang="en">Consumer</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p30074472_b_h8_aa.jpg?w=960&amp;h=540" />
+  </programme><programme channel="Freeform-East-US" start="20260524150000 +0500" stop="20260524153000 +0500">
+    <title>Have Thinning Hair? Keranique Can Help Regrow Beautiful, Thicker Hair!</title>
+    <sub-title />
+    <desc>If you have thinning hair or hair loss, Keranique can help regrow thicker, longer and fuller hair. Keranique is the number 1 hair regrowth system for women. Regain your confidence with beautiful, thicker and fuller hair in just 3 easy steps!</desc>
+    <category lang="en">Consumer</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p15918995_b_h10_aa.jpg?w=960&amp;h=540" />
+  </programme><programme channel="Freeform-East-US" start="20260524153000 +0500" stop="20260524160000 +0500">
+    <title>NEW! Shark PowerDetect with DuoClean Detect Technology</title>
+    <sub-title />
+    <desc>Meet the new Shark PowerDetect Upright Vacuum with features like DuoClean Detect Technology, self-cleaning brush roll and odor neutralizing and you will be cleaning faster, smarter and better!</desc>
+    <category lang="en">Consumer</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p29477991_b_h11_aa.jpg?w=960&amp;h=540" />
+  </programme><programme channel="Freeform-East-US" start="20260524160000 +0500" stop="20260524163000 +0500">
+    <title>According to Jim</title>
+    <sub-title>Rules of Engagement</sub-title>
+    <desc>Cheryl caters to Jim's every whim to make up for a fight he does not remember from the night before.</desc>
+    <episode-num system="onscreen">S3 E12</episode-num>
+    <credits>
+      <director>Mark Cendrowski</director>
+      <actor>Jim Belushi</actor>
+      <actor>Courtney Thorne-Smith</actor>
+      <actor>Kimberly Williams-Paisley</actor>
+    </credits><date>2003</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sitcom</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p7895303_b_h8_aa.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>0</value>
+    </rating><rating system="Kijkwijzer">
+      <value>6</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+  </programme><programme channel="Freeform-East-US" start="20260524163000 +0500" stop="20260524170000 +0500">
+    <title>According to Jim</title>
+    <sub-title>Secret Santa</sub-title>
+    <desc>Dana puts her name on one of Cheryl's presents to Jim, then takes all the credit when he raves about it.</desc>
+    <episode-num system="onscreen">S3 E13</episode-num>
+    <credits>
+      <director>Philip Charles MacKenzie</director>
+      <actor>Jim Belushi</actor>
+      <actor>Courtney Thorne-Smith</actor>
+      <actor>Kimberly Williams-Paisley</actor>
+    </credits><date>2003</date>
+    <category lang="en">Series</category>
+    <category lang="en">Holiday</category>
+    <category lang="en">Sitcom</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p7895303_b_h8_aa.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>0</value>
+    </rating><rating system="Kijkwijzer">
+      <value>6</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+  </programme><programme channel="Freeform-East-US" start="20260524170000 +0500" stop="20260524173000 +0500">
+    <title>According to Jim</title>
+    <sub-title>House for Sale</sub-title>
+    <desc>The irritating Devlins bid on the house across the street from Jim and Cheryl.</desc>
+    <episode-num system="onscreen">S3 E14</episode-num>
+    <credits>
+      <director>Philip Charles MacKenzie</director>
+      <actor>Jim Belushi</actor>
+      <actor>Courtney Thorne-Smith</actor>
+      <actor>Kimberly Williams-Paisley</actor>
+    </credits><date>2004</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sitcom</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p7895303_b_h8_aa.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>0</value>
+    </rating><rating system="Kijkwijzer">
+      <value>6</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+  </programme><programme channel="Freeform-East-US" start="20260524173000 +0500" stop="20260524193500 +0500">
+    <title>Peter Rabbit 2: The Runaway</title>
+    <sub-title />
+    <desc>Bea, Thomas and the rabbits have created a makeshift family, but despite his best efforts, Peter can't seem to shake his mischievous reputation. Venturing out of the garden, Peter finds himself in a world where his mischief is appreciated. However, when his family risks everything to come looking for him, Peter must figure out what kind of bunny he wants to be.</desc>
+    <credits>
+      <director>Will Gluck</director>
+      <actor>James Corden</actor>
+      <actor>Rose Byrne</actor>
+      <actor>Domhnall Gleeson</actor>
+    </credits><date>2021</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Children</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Fantasy</category>
+    <category lang="en">Adventure</category>
+    <category lang="en">Animated</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p15524435_v_h8_ba.jpg?w=960&amp;h=540" />
+    <rating system="Motion Picture Association">
       <value>PG</value>
     </rating><rating system="Statens medieråd">
       <value>Från 7 år</value>
-    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>A</value>
-    </rating><rating system="영상물등급위원회">
-      <value>12+</value>
-    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K12</value>
-    </rating><rating system="Kijkwijzer">
-      <value>6</value>
-    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
-      <value>7</value>
-    </rating><star-rating>
-      <value>6.0/10</value>
-    </star-rating>
-  </programme><programme channel="Freeform-East-US" start="20260517232500 +0500" stop="20260518020500 +0500">
-    <title>The Goonies</title>
-    <sub-title />
-    <desc>When two brothers find out they might lose their house they are desperate to find a way to keep their home. They find a treasure map and bring some friends along to find it. They are all out looking for the "X" and trying to get away from a group of bad guys who also want the treasure.</desc>
-    <credits>
-      <director>Richard Donner</director>
-      <actor>Sean Astin</actor>
-      <actor>Josh Brolin</actor>
-      <actor>Jeff Cohen</actor>
-    </credits><date>1985</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Family</category>
-    <category lang="en">Adventure</category>
-    <category lang="en">Comedy</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p9070_v_h8_ad.jpg?w=960&amp;h=540" />
-    <rating system="Motion Picture Association">
-      <value>PG</value>
-    </rating><rating system="British Board of Film Classification">
-      <value>PG</value>
-    </rating><rating system="Ontario Film Authority">
-      <value>PG</value>
     </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating><rating system="UK Content Provider">
-      <value>12</value>
-    </rating><rating system="Australian Classification Board">
-      <value>PG</value>
-    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K12</value>
+      <value>0</value>
+    </rating><rating system="Alberta's Film Classification Board">
+      <value>G</value>
+    </rating><rating system="B.C. Film Classification Office">
+      <value>G</value>
+    </rating><rating system="Saskatchewan Film and Video Classification Board">
+      <value>G</value>
+    </rating><rating system="Ontario Film Authority">
+      <value>G</value>
     </rating><rating system="Régie du cinéma">
       <value>G</value>
-    </rating><rating system="Statens medieråd">
-      <value>Från 11 år</value>
+    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K7</value>
     </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
       <value>A</value>
+    </rating><rating system="Medierådet">
+      <value>A</value>
+    </rating><rating system="映倫">
+      <value>G</value>
+    </rating><rating system="Australian Classification Board">
+      <value>G</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>L</value>
+    </rating><rating system="UK Content Provider">
+      <value>U</value>
+    </rating><rating system="British Board of Film Classification">
+      <value>U</value>
+    </rating><rating system="Kijkwijzer">
+      <value>6</value>
+    </rating><rating system="Ministero della Cultura">
+      <value>T</value>
     </rating><rating system="Instituto Nacional de Cine y Artes Audiovisuales">
       <value>ATP</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>7</value>
+    </rating><rating system="Central Board of Film Certification">
+      <value>U</value>
+    </rating><star-rating>
+      <value>5.0/10</value>
+    </star-rating>
+  </programme><programme channel="Freeform-East-US" start="20260524193500 +0500" stop="20260524214000 +0500">
+    <title>Rio</title>
+    <sub-title />
+    <desc>Captured by smugglers when he was just a hatchling, a macaw named Blu never learned to fly and lives a happily domesticated life in Minnesota with his human friend, Linda. Blu is thought to be the last of his kind, but when word comes that Jewel, a lone female, lives in Rio de Janeiro, Blu and Linda go to meet her. Animal smugglers kidnap Blu and Jewel, but the pair soon escape and begin a perilous adventure back to freedom -- and Linda.</desc>
+    <credits>
+      <director>Carlos Saldanha</director>
+      <actor>Anne Hathaway</actor>
+      <actor>Jesse Eisenberg</actor>
+      <actor>Jemaine Clement</actor>
+    </credits><date>2011</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Animated</category>
+    <category lang="en">Children</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Adventure</category>
+    <category lang="en">Musical</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p8395523_v_h10_aa.jpg?w=960&amp;h=540" />
+    <rating system="Motion Picture Association">
+      <value>G</value>
+    </rating><rating system="British Board of Film Classification">
+      <value>U</value>
+    </rating><rating system="Ontario Film Authority">
+      <value>G</value>
+    </rating><rating system="Alberta's Film Classification Board">
+      <value>G</value>
+    </rating><rating system="B.C. Film Classification Office">
+      <value>G</value>
+    </rating><rating system="Saskatchewan Film and Video Classification Board">
+      <value>G</value>
+    </rating><rating system="Manitoba Film Classification Board">
+      <value>G</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="Maritime Film Classification Board">
+      <value>G</value>
+    </rating><rating system="UK Content Provider">
+      <value>U</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>L</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>0</value>
+    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K7</value>
+    </rating><rating system="Australian Classification Board">
+      <value>G</value>
+    </rating><rating system="Instituto Nacional de Cine y Artes Audiovisuales">
+      <value>ATP</value>
+    </rating><rating system="Statens medieråd">
+      <value>Från 7 år</value>
+    </rating><rating system="Irish Film Classification Office">
+      <value>G</value>
+    </rating><rating system="Medierådet">
+      <value>7</value>
     </rating><rating system="영상물등급위원회">
       <value>All</value>
     </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
+      <value>7</value>
     </rating><rating system="Kijkwijzer">
-      <value>9</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>12</value>
+      <value>6</value>
+    </rating><rating system="Central Board of Film Certification">
+      <value>U</value>
     </rating><star-rating>
       <value>6.0/10</value>
     </star-rating>
-  </programme><programme channel="Freeform-East-US" start="20260518020500 +0500" stop="20260518051500 +0500">
-    <title>National Treasure</title>
+  </programme><programme channel="Freeform-East-US" start="20260524214000 +0500" stop="20260524234500 +0500">
+    <title>Rio 2</title>
     <sub-title />
-    <desc>Historian and code-breaker Ben Gates (Nicolas Cage) has been searching his whole life for a rumored treasure dating back to the creation of the United States. Joining an expedition led by fellow treasure hunter Ian Howe (Sean Bean), Gates finds an ice-locked Colonial ship in the Arctic Circle that contains a clue linking the treasure to the Declaration of Independence. But when Howe betrays him, Gates has to race to get to the document ahead of his so-called colleague.</desc>
+    <desc>Blue macaws Blu (Jesse Eisenberg), Jewel (Anne Hathaway) and their three children are comfortably settled in the city -- perhaps too comfortably. Jewel fears that the children are becoming more like humans than birds. After learning that she and Blu may not be the last blue macaws after all, Jewel decides that their little family should visit the Amazon jungle. It's there that Blu meets his formidable father-in-law (Andy Garcia) and goes beak-to-beak with archnemesis Nigel (Jemaine Clement).</desc>
     <credits>
-      <director>Jon Turteltaub</director>
-      <actor>Nicolas Cage</actor>
-      <actor>Diane Kruger</actor>
-      <actor>Justin Bartha</actor>
-    </credits><date>2004</date>
+      <director>Carlos Saldanha</director>
+      <actor>Anne Hathaway</actor>
+      <actor>Jesse Eisenberg</actor>
+      <actor>Jemaine Clement</actor>
+    </credits><date>2014</date>
     <category lang="en">Movie</category>
+    <category lang="en">Animated</category>
+    <category lang="en">Children</category>
+    <category lang="en">Comedy</category>
     <category lang="en">Adventure</category>
-    <category lang="en">Action</category>
+    <category lang="en">Musical</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p35100_v_h10_an.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p10230650_v_h8_ab.jpg?w=960&amp;h=540" />
     <rating system="Motion Picture Association">
-      <value>PG</value>
-    </rating><rating system="Alberta's Film Classification Board">
-      <value>PG</value>
+      <value>G</value>
     </rating><rating system="B.C. Film Classification Office">
-      <value>PG</value>
-    </rating><rating system="Manitoba Film Classification Board">
-      <value>PG</value>
-    </rating><rating system="Ontario Film Authority">
-      <value>PG</value>
-    </rating><rating system="Régie du cinéma">
       <value>G</value>
     </rating><rating system="Saskatchewan Film and Video Classification Board">
-      <value>PG</value>
+      <value>G</value>
+    </rating><rating system="Ontario Film Authority">
+      <value>G</value>
+    </rating><rating system="Manitoba Film Classification Board">
+      <value>G</value>
+    </rating><rating system="Alberta's Film Classification Board">
+      <value>G</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="Maritime Film Classification Board">
+      <value>G</value>
     </rating><rating system="British Board of Film Classification">
-      <value>PG</value>
+      <value>U</value>
+    </rating><rating system="UK Content Provider">
+      <value>U</value>
     </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
       <value>L</value>
-    </rating><rating system="UK Content Provider">
-      <value>PG</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating><rating system="Australian Classification Board">
-      <value>PG</value>
     </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K12</value>
+      <value>K7</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>0</value>
+    </rating><rating system="Australian Classification Board">
+      <value>G</value>
     </rating><rating system="Instituto Nacional de Cine y Artes Audiovisuales">
-      <value>SAM 13</value>
-    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>B</value>
+      <value>ATP</value>
     </rating><rating system="Statens medieråd">
       <value>Från 7 år</value>
     </rating><rating system="映倫">
       <value>G</value>
-    </rating><rating system="Medierådet">
-      <value>11</value>
-    </rating><rating system="영상물등급위원회">
-      <value>12+</value>
     </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
-    </rating><rating system="Kijkwijzer">
-      <value>12</value>
-    </rating><rating system="Medietilsynet">
-      <value>11 år</value>
-    </rating><star-rating>
-      <value>4.0/10</value>
-    </star-rating>
-  </programme><programme channel="Freeform-East-US" start="20260518051500 +0500" stop="20260518075500 +0500">
-    <title>National Treasure: Book of Secrets</title>
-    <sub-title />
-    <desc>When a long-missing page from the diary of assassin John Wilkes Booth suddenly resurfaces, it implicates the great-great-grandfather of treasure hunter Ben Gates (Nicolas Cage) as a conspirator in Lincoln's death. Ben's globetrotting quest to prove his ancestor's innocence leads him to a closely guarded book containing the nation's deepest secrets.</desc>
-    <credits>
-      <director>Jon Turteltaub</director>
-      <actor>Nicolas Cage</actor>
-      <actor>Jon Voight</actor>
-      <actor>Harvey Keitel</actor>
-    </credits><date>2007</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Action</category>
-    <category lang="en">Adventure</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p170980_v_h10_ab.jpg?w=960&amp;h=540" />
-    <rating system="Motion Picture Association">
-      <value>PG</value>
-    </rating><rating system="Alberta's Film Classification Board">
-      <value>PG</value>
-    </rating><rating system="B.C. Film Classification Office">
-      <value>PG</value>
-    </rating><rating system="Saskatchewan Film and Video Classification Board">
-      <value>PG</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="Maritime Film Classification Board">
-      <value>PG</value>
-    </rating><rating system="British Board of Film Classification">
-      <value>PG</value>
-    </rating><rating system="Ontario Film Authority">
-      <value>PG</value>
-    </rating><rating system="Manitoba Film Classification Board">
-      <value>PG</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>10</value>
-    </rating><rating system="UK Content Provider">
-      <value>PG</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K12</value>
-    </rating><rating system="Australian Classification Board">
-      <value>PG</value>
-    </rating><rating system="Instituto Nacional de Cine y Artes Audiovisuales">
-      <value>ATP</value>
-    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>A</value>
-    </rating><rating system="Statens medieråd">
-      <value>Från 11 år</value>
-    </rating><rating system="映倫">
-      <value>G</value>
-    </rating><rating system="Medierådet">
-      <value>11</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
-    </rating><rating system="Kijkwijzer">
-      <value>12</value>
+      <value>7</value>
     </rating><rating system="영상물등급위원회">
-      <value>12+</value>
-    </rating><rating system="Medietilsynet">
-      <value>11 år</value>
+      <value>All</value>
+    </rating><rating system="Ministero della Cultura">
+      <value>T</value>
+    </rating><rating system="Kijkwijzer">
+      <value>6</value>
+    </rating><rating system="Medierådet">
+      <value>7</value>
+    </rating><rating system="Central Board of Film Certification">
+      <value>U</value>
     </rating><star-rating>
-      <value>4.0/10</value>
+      <value>5.0/10</value>
     </star-rating>
-  </programme><programme channel="Freeform-East-US" start="20260518075500 +0500" stop="20260518110000 +0500">
-    <title>Spider-Man: Homecoming</title>
+  </programme><programme channel="Freeform-East-US" start="20260524234500 +0500" stop="20260525014500 +0500">
+    <title>Toy Story</title>
     <sub-title />
-    <desc>Thrilled by his experience with the Avengers, young Peter Parker returns home to live with his Aunt May. Under the watchful eye of mentor Tony Stark, Parker starts to embrace his newfound identity as Spider-Man. He also tries to return to his normal daily routine -- distracted by thoughts of proving himself to be more than just a friendly neighborhood superhero. Peter must soon put his powers to the test when the evil Vulture emerges to threaten everything that he holds dear.</desc>
+    <desc>Woody (Tom Hanks), a good-hearted cowboy doll who belongs to a young boy named Andy (John Morris), sees his position as Andy's favorite toy jeopardized when his parents buy him a Buzz Lightyear (Tim Allen) action figure. Even worse, the arrogant Buzz thinks he's a real spaceman on a mission to return to his home planet. When Andy's family moves to a new house, Woody and Buzz must escape the clutches of maladjusted neighbor Sid Phillips (Erik von Detten) and reunite with their boy.</desc>
     <credits>
-      <director>Jon Watts</director>
-      <actor>Tom Holland</actor>
-      <actor>Michael Keaton</actor>
-      <actor>Robert Downey</actor>
-    </credits><date>2017</date>
+      <director>John Lasseter</director>
+      <actor>Tom Hanks</actor>
+      <actor>Tim Allen</actor>
+      <actor>Don Rickles</actor>
+    </credits><date>1995</date>
     <category lang="en">Movie</category>
-    <category lang="en">Action</category>
+    <category lang="en">Animated</category>
+    <category lang="en">Children</category>
+    <category lang="en">Comedy</category>
     <category lang="en">Adventure</category>
     <category lang="en">Fantasy</category>
-    <category lang="en">Comedy</category>
-    <category lang="en">Science fiction</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p12798844_v_h8_ab.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p17420_v_h10_ac.jpg?w=960&amp;h=540" />
     <rating system="Motion Picture Association">
-      <value>PG-13</value>
-    </rating><rating system="B.C. Film Classification Office">
-      <value>PG</value>
-    </rating><rating system="Saskatchewan Film and Video Classification Board">
-      <value>PG</value>
-    </rating><rating system="Manitoba Film Classification Board">
-      <value>PG</value>
-    </rating><rating system="Alberta's Film Classification Board">
-      <value>PG</value>
-    </rating><rating system="Ontario Film Authority">
-      <value>PG</value>
-    </rating><rating system="Régie du cinéma">
       <value>G</value>
     </rating><rating system="Maritime Film Classification Board">
+      <value>G</value>
+    </rating><rating system="UK Content Provider">
       <value>PG</value>
     </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>12</value>
+      <value>L</value>
     </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating><rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating><rating system="British Board of Film Classification">
-      <value>12</value>
+      <value>0</value>
     </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K12</value>
-    </rating><rating system="UK Content Provider">
-      <value>12</value>
-    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>B</value>
-    </rating><rating system="Statens medieråd">
-      <value>Från 11 år</value>
+      <value>S</value>
+    </rating><rating system="Australian Classification Board">
+      <value>G</value>
+    </rating><rating system="British Board of Film Classification">
+      <value>PG</value>
+    </rating><rating system="Ontario Film Authority">
+      <value>F</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
     </rating><rating system="Instituto Nacional de Cine y Artes Audiovisuales">
       <value>ATP</value>
+    </rating><rating system="Statens medieråd">
+      <value>Från 7 år</value>
+    </rating><rating system="Irish Film Classification Office">
+      <value>G</value>
     </rating><rating system="映倫">
       <value>G</value>
     </rating><rating system="Medierådet">
-      <value>11</value>
-    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
       <value>7</value>
     </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
+      <value>7</value>
     </rating><rating system="영상물등급위원회">
-      <value>12+</value>
+      <value>All</value>
+    </rating><rating system="Ministero della Cultura">
+      <value>T</value>
     </rating><rating system="Kijkwijzer">
-      <value>12</value>
+      <value>AL</value>
+    </rating><rating system="Medietilsynet">
+      <value>7 år</value>
     </rating><rating system="Central Board of Film Certification">
-      <value>UA</value>
+      <value>U</value>
     </rating><star-rating>
-      <value>6.0/10</value>
+      <value>8.0/10</value>
     </star-rating>
   </programme>
 </tv>

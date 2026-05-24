@@ -1,52 +1,93 @@
 <?xml version='1.0' encoding='utf-8'?>
 <tv>
   <channel id="PBS13-WNET-US">
+    <icon src="https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/PBS13-WNET-US.png" />
+    <url>https://tv.thefilmtuition.com</url>
     <display-name>WNET</display-name>
-    <icon src="https://thefilmtuition.com/tvlogo/PBS13-WNET-US.png" />
-  </channel><programme channel="PBS13-WNET-US" start="20260516053000 +0500" stop="20260516060000 +0500">
-    <title>Firing Line With Margaret Hoover</title>
-    <sub-title />
-    <desc>Former Defense Secretary Jim Mattis and author Ryan Holiday examine the ancient philosophy that inspired America's founders.</desc>
-    <episode-num system="onscreen">S9 E46</episode-num>
+  </channel><programme channel="PBS13-WNET-US" start="20260522220000 +0500" stop="20260522223000 +0500">
+    <title>Molly of Denali</title>
+    <sub-title>Bubbling Up; Eenie Eenie Aye Over</sub-title>
+    <desc>Molly, Tooey and Trini find mysterious bubbles while canoeing on Lake Qyah; Molly, Tooey and Trini learn a ball game.</desc>
+    <episode-num system="onscreen">S2 E14</episode-num>
+    <language>en</language>
+  </programme><programme channel="PBS13-WNET-US" start="20260522223000 +0500" stop="20260522230000 +0500">
+    <title>Xavier Riddle and the Secret Museum</title>
+    <sub-title>I Am Madam C.J. Walker; I Am Edwin Binney</sub-title>
+    <desc>Madam C.J. Walker shows Xavier that working hard on his lemonade stand can help him afford the pogo stick of his dreams; Edwin Binney shows Xavier, Yadina and Brad that to work together as a team, they should listen to everyone's ideas.</desc>
+    <episode-num system="onscreen">S2 E13</episode-num>
+    <language>en</language>
+  </programme><programme channel="PBS13-WNET-US" start="20260522230000 +0500" stop="20260522233000 +0500">
+    <title>Baking With Julia</title>
+    <sub-title>Naan With Beatrice Ojakangas</sub-title>
+    <desc>Jeffrey Alford and Naomi Duguid make different types of naan; author Beatrice Ojakangas prepares Swedish hardtack.</desc>
+    <episode-num system="onscreen">S3 E11</episode-num>
     <credits>
-      <actor>Margaret Hoover</actor>
-      <actor>Jim Mattis</actor>
-      <actor>Ryan Holiday</actor>
-    </credits><date>2026</date>
+      <actor>Julia Child</actor>
+    </credits><date>1997</date>
     <category lang="en">Series</category>
-    <category lang="en">Public affairs</category>
-    <category lang="en">Interview</category>
-    <category lang="en">Debate</category>
+    <category lang="en">Cooking</category>
+    <category lang="en">How-to</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p15429319_b_h8_aa.jpg?w=960&amp;h=540" />
-  </programme><programme channel="PBS13-WNET-US" start="20260516060000 +0500" stop="20260516083000 +0500">
-    <title>Great Performances</title>
-    <sub-title>Irving Berlin's Top Hat</sub-title>
-    <desc>Based on the 1935 movie musical starring Fred Astaire and Ginger Rogers, "Top Hat" features dazzling choreography and period sets, with an Irving Berlin score featuring "Cheek to Cheek," "Let's Face the Music and Dance" and "Puttin' on the Ritz.".</desc>
-    <episode-num system="onscreen">S53 E14</episode-num>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Music</category>
-    <category lang="en">Dance</category>
-    <category lang="en">Performing arts</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p31082022_b_h10_aa.jpg?w=960&amp;h=540" />
-    <rating system="Canadian Parental Rating">
+    <icon src="http://dtil.tmsimg.com/assets/p186080_b_h10_ae.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating><rating system="Canadian Parental Rating">
       <value>G</value>
     </rating><rating system="Régie du cinéma">
       <value>G</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>L</value>
-    </rating><rating system="Instituto Nacional de Cine y Artes Audiovisuales">
-      <value>ATP</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TVPG</value>
     </rating>
-  </programme><programme channel="PBS13-WNET-US" start="20260516083000 +0500" stop="20260516093000 +0500">
+  </programme><programme channel="PBS13-WNET-US" start="20260522233000 +0500" stop="20260523000000 +0500">
+    <title>Ask This Old House</title>
+    <sub-title>Rain Garden; Lighting</sub-title>
+    <desc>Jenn plants a rain garden to keep runoff and waste out of marshlands; Scott brightens up a bedroom with new overhead lighting; Tom gives tips on installing cabinet hardware; Richard shows a tool with a red handle and small teeth.</desc>
+    <episode-num system="onscreen">S15 E25</episode-num>
+    <credits>
+      <actor>Kevin O'Connor</actor>
+      <actor>Tom Silva</actor>
+      <actor>Richard Trethewey</actor>
+    </credits><date>2017</date>
+    <category lang="en">Series</category>
+    <category lang="en">House/garden</category>
+    <category lang="en">How-to</category>
+    <category lang="en">Home improvement</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p186265_b_h8_ab.jpg?w=960&amp;h=540" />
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>A</value>
+    </rating>
+  </programme><programme channel="PBS13-WNET-US" start="20260523000000 +0500" stop="20260523010000 +0500">
+    <title>Antiques Roadshow</title>
+    <sub-title>Cheekwood Estate &amp; Gardens, Hour 1</sub-title>
+    <desc>An 1880 Celia Thaxter hand-painted vase; a 1964 Presidential Rolex with the box and papers; a Mary Elizabeth Price painted screen circa 1925.</desc>
+    <episode-num system="onscreen">S27 E7 P1/3</episode-num>
+    <credits>
+      <actor>Coral Pena</actor>
+    </credits><date>2023</date>
+    <category lang="en">Series</category>
+    <category lang="en">Collectibles</category>
+    <category lang="en">Art</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p185479_b_h8_ag.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="Australian Classification Board">
+      <value>G</value>
+    </rating>
+  </programme><programme channel="PBS13-WNET-US" start="20260523010000 +0500" stop="20260523020000 +0500">
     <title>Amanpour and Company</title>
     <sub-title />
     <desc>Christiane Amanpour leads discussions about world issues and interviews with global leaders.</desc>
-    <episode-num system="onscreen">S8 E163</episode-num>
+    <episode-num system="onscreen">S8 E167</episode-num>
     <credits>
       <actor>Christiane Amanpour</actor>
     </credits><date>2026</date>
@@ -54,13 +95,98 @@
     <category lang="en">Public affairs</category>
     <language>en</language>
     <icon src="http://dtil.tmsimg.com/assets/p15694932_b_h8_ac.jpg?w=960&amp;h=540" />
-  </programme><programme channel="PBS13-WNET-US" start="20260516093000 +0500" stop="20260516113000 +0500">
-    <title>Great Performances</title>
-    <sub-title>Josh Groban: An Evening at Union Chapel</sub-title>
-    <desc>Josh Groban performs many of his beloved songs as well as new material at London's historic Union Chapel.</desc>
-    <episode-num system="onscreen">S53 E13</episode-num>
+  </programme><programme channel="PBS13-WNET-US" start="20260523020000 +0500" stop="20260523023000 +0500">
+    <title>BBC News The Context</title>
+    <sub-title />
+    <desc>A regular panel of guests from across the political spectrum discuss the biggest international stories of the day.</desc>
     <credits>
-      <actor>Josh Groban</actor>
+      <actor>Christian Fraser</actor>
+    </credits><date>2022</date>
+    <category lang="en">News</category>
+    <category lang="en">Talk</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p23647415_b_h8_ac.jpg?w=960&amp;h=540" />
+  </programme><programme channel="PBS13-WNET-US" start="20260523023000 +0500" stop="20260523030000 +0500">
+    <title>NJ Spotlight News with Briana Vannozzi</title>
+    <sub-title />
+    <desc>Statewide reporting on the latest news and issues affecting communities across the Garden State.</desc>
+    <date>2020</date>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p18850294_b_h10_aa.jpg?w=960&amp;h=540" />
+  </programme><programme channel="PBS13-WNET-US" start="20260523030000 +0500" stop="20260523033000 +0500">
+    <title>DW News</title>
+    <sub-title />
+    <desc>Presenting a round-up of the most recent news and developments from across the world.</desc>
+    <credits>
+      <actor>Ben Fajzullin</actor>
+    </credits><date>2002</date>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p26245192_b_h10_aa.jpg?w=960&amp;h=540" />
+    <rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>A</value>
+    </rating>
+  </programme><programme channel="PBS13-WNET-US" start="20260523033000 +0500" stop="20260523040000 +0500">
+    <title>BBC World News America</title>
+    <sub-title />
+    <desc>A detailed look into news stories from around the world from the BBC news desk in Washington, D.C.</desc>
+    <credits>
+      <actor>Sumi Somaskanda</actor>
+      <actor>Caitríona Perry</actor>
+    </credits><date>2026</date>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p32402912_b_h10_aa.jpg?w=960&amp;h=540" />
+  </programme><programme channel="PBS13-WNET-US" start="20260523040000 +0500" stop="20260523050000 +0500">
+    <title>PBS News Hour</title>
+    <sub-title />
+    <desc>Co-anchors Amna Nawaz and Geoff Bennett and correspondents offer in-depth analysis of current events.</desc>
+    <episode-num system="onscreen">S52 E234</episode-num>
+    <credits>
+      <actor>Amna Nawaz</actor>
+      <actor>Geoff Bennett</actor>
+    </credits><date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p27608822_b_h8_ac.jpg?w=960&amp;h=540" />
+  </programme><programme channel="PBS13-WNET-US" start="20260523050000 +0500" stop="20260523053000 +0500">
+    <title>Washington Week With The Atlantic</title>
+    <sub-title />
+    <desc>A panel of journalists provides reporting and analysis of the major stories emanating from the United States capital.</desc>
+    <episode-num system="onscreen">S60 E47</episode-num>
+    <credits>
+      <actor>Jeffrey Goldberg</actor>
+    </credits><date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">News</category>
+    <category lang="en">Public affairs</category>
+    <category lang="en">Politics</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p25350982_b_h8_aa.jpg?w=960&amp;h=540" />
+  </programme><programme channel="PBS13-WNET-US" start="20260523053000 +0500" stop="20260523060000 +0500">
+    <title>Firing Line With Margaret Hoover</title>
+    <sub-title />
+    <desc>Retired Justice Anthony Kennedy assesses the challenges facing the U.S. Supreme Court in President Donald Trump's second term.</desc>
+    <episode-num system="onscreen">S9 E47</episode-num>
+    <credits>
+      <actor>Margaret Hoover</actor>
+      <actor>Anthony Kennedy</actor>
+    </credits><date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Public affairs</category>
+    <category lang="en">Interview</category>
+    <category lang="en">Debate</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p15429319_b_h8_aa.jpg?w=960&amp;h=540" />
+  </programme><programme channel="PBS13-WNET-US" start="20260523060000 +0500" stop="20260523073000 +0500">
+    <title>Great Performances</title>
+    <sub-title>An Evening With Nicole Scherzinger</sub-title>
+    <desc>Nicole Scherzinger performs Broadway favorites and pop hits including songs from "Sunset Boulevard" at Royal Albert Hall.</desc>
+    <episode-num system="onscreen">S53 E15</episode-num>
+    <credits>
+      <actor>Nicole Scherzinger</actor>
     </credits><date>2026</date>
     <category lang="en">Series</category>
     <category lang="en">Anthology</category>
@@ -81,46 +207,118 @@
     </rating><rating system="Instituto Nacional de Cine y Artes Audiovisuales">
       <value>ATP</value>
     </rating>
-  </programme><programme channel="PBS13-WNET-US" start="20260516113000 +0500" stop="20260516130000 +0500">
-    <title>Lucy Worsley's Holmes vs. Doyle</title>
-    <sub-title>Doctor and Detective</sub-title>
-    <desc>The origins of Holmes in Arthur Conan Doyle's early life as a medical student in Edinburgh, and the author's growing disenchantment with his detective.</desc>
-    <episode-num system="onscreen">S1 E1</episode-num>
+  </programme><programme channel="PBS13-WNET-US" start="20260523073000 +0500" stop="20260523080000 +0500">
+    <title>Stories From the Stage</title>
+    <sub-title>Being Asian</sub-title>
+    <desc>Annie learns that being the rock doesn't mean carrying everything alone; Tae's Olympic trumpet dreams collide with the limits of his family's budget; Shweta confronts beauty standards.</desc>
+    <episode-num system="onscreen">S8 E18</episode-num>
     <credits>
-      <director>Simon George</director>
-      <actor>Lucy Worsley</actor>
-    </credits><date>2024</date>
+      <actor>Theresa Okokon</actor>
+      <actor>Wes Hazard</actor>
+    </credits><date>2025</date>
     <category lang="en">Series</category>
     <category lang="en">Documentary</category>
-    <category lang="en">History</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p28527709_b_h8_ad.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p14473490_b_h8_ab.jpg?w=960&amp;h=540" />
     <rating system="USA Parental Rating">
       <value>TVPG</value>
     </rating><rating system="Canadian Parental Rating">
       <value>PG</value>
     </rating>
-  </programme><programme channel="PBS13-WNET-US" start="20260516130000 +0500" stop="20260516150000 +0500">
-    <title>Change Your Brain, Change Your Pain With Daniel Amen, MD</title>
+  </programme><programme channel="PBS13-WNET-US" start="20260523080000 +0500" stop="20260523090000 +0500">
+    <title>Amanpour and Company</title>
     <sub-title />
-    <desc>Dr. Daniel Amen maps the brain networks that drive physical and emotional pain and reveals his practical, brain-based strategies that help you feel better, think clearer and live more fully.</desc>
+    <desc>Christiane Amanpour leads discussions about world issues and interviews with global leaders.</desc>
+    <episode-num system="onscreen">S8 E168</episode-num>
     <credits>
-      <actor>Daniel Amen</actor>
+      <actor>Christiane Amanpour</actor>
+    </credits><date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Public affairs</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p15694932_b_h8_ac.jpg?w=960&amp;h=540" />
+  </programme><programme channel="PBS13-WNET-US" start="20260523090000 +0500" stop="20260523093000 +0500">
+    <title>One on One With Steve Adubato</title>
+    <sub-title />
+    <desc>Professionals and innovators share their experiences.</desc>
+    <credits>
+      <actor>Steve Adubato</actor>
+    </credits><date>2009</date>
+    <category lang="en">Talk</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p7814519_b_h8_ad.jpg?w=960&amp;h=540" />
+  </programme><programme channel="PBS13-WNET-US" start="20260523093000 +0500" stop="20260523110000 +0500">
+    <title>More Deconstructing The Beatles</title>
+    <sub-title />
+    <desc>An educational journey through several of The Beatles' milestone albums and the stories that accompanied them.</desc>
+    <credits>
+      <actor>Scott Freiman</actor>
+    </credits><date>2026</date>
+    <category lang="en">Music</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p32392281_b_h10_aa.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="PBS13-WNET-US" start="20260523110000 +0500" stop="20260523123000 +0500">
+    <title>I Want My '80s Tour Live</title>
+    <sub-title />
+    <desc>Rick Springfield is joined by Wang Chung and John Waite in a concert featuring some of the biggest hits of the 1980s; some songs include "Everybody Have Fun Tonight," "Missing You" and "Jessie's Girl.".</desc>
+    <credits>
+      <actor>Rick Springfield</actor>
+      <actor>Wang Chung</actor>
+      <actor>John Waite</actor>
     </credits><date>2025</date>
     <category lang="en">Special</category>
-    <category lang="en">Self improvement</category>
+    <category lang="en">Music</category>
+    <category lang="en">Entertainment</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p31111218_st_h10_aa.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p31335368_st_h10_aa.jpg?w=960&amp;h=540" />
+  </programme><programme channel="PBS13-WNET-US" start="20260523123000 +0500" stop="20260523143000 +0500">
+    <title>America's Home Cooking: Around the World in 80 Recipes</title>
+    <sub-title />
+    <desc>Chris Fennimore and special guests celebrate international cuisine; recipes include chicken Parmigiana, Asian dumplings, Turkish red lentil soup, Middle Eastern hummus, baba ghanoush and bobalki.</desc>
+    <credits>
+      <actor>Chris Fennimore</actor>
+    </credits><date>2025</date>
+    <category lang="en">Special</category>
+    <category lang="en">Cooking</category>
+    <category lang="en">How-to</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p30586149_st_h10_aa.jpg?w=960&amp;h=540" />
     <rating system="USA Parental Rating">
-      <value>TVPG</value>
+      <value>TVG</value>
     </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
+      <value>G</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
     </rating>
-  </programme><programme channel="PBS13-WNET-US" start="20260516150000 +0500" stop="20260516153000 +0500">
+  </programme><programme channel="PBS13-WNET-US" start="20260523143000 +0500" stop="20260523150000 +0500">
+    <title>Rick Steves' Europe</title>
+    <sub-title>Norway's West: Fjords, Mountains and Bergen</sub-title>
+    <desc>Sailing under towering fjord cliffs; hiking glaciers; Hanseatic heritage.</desc>
+    <episode-num system="onscreen">S6 E8</episode-num>
+    <credits>
+      <actor>Rick Steves</actor>
+    </credits><date>2010</date>
+    <category lang="en">Series</category>
+    <category lang="en">Travel</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p477118_b_h8_ae.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+  </programme><programme channel="PBS13-WNET-US" start="20260523150000 +0500" stop="20260523153000 +0500">
     <title>Outside: Beyond the Lens</title>
-    <sub-title>Jets in the Wild: Part 2</sub-title>
-    <desc>Jeff is invited inside the rarely-seen operations of the 144th Fighter Wing base in Fresno.</desc>
-    <episode-num system="onscreen">S5 E2</episode-num>
+    <sub-title>Island of Hvar: Part 1</sub-title>
+    <desc>Jeff, Zack and Dave, along with local guides, discover the history and culture of Hvar's past.</desc>
+    <episode-num system="onscreen">S5 E3</episode-num>
     <credits>
       <actor>Jeff Aiello</actor>
     </credits><date>2025</date>
@@ -140,11 +338,11 @@
     </rating><rating system="Australian Classification Board">
       <value>PG</value>
     </rating>
-  </programme><programme channel="PBS13-WNET-US" start="20260516153000 +0500" stop="20260516160000 +0500">
+  </programme><programme channel="PBS13-WNET-US" start="20260523153000 +0500" stop="20260523160000 +0500">
     <title>Lucky Chow</title>
-    <sub-title>Copenhagen: Scandiasian</sub-title>
-    <desc>Chinese, Korean, Indonesian and Japanese techniques shape Nordic ingredients, regenerative farms and Baltic seafood, resulting in cooking that is contemporary yet deeply tied to place.</desc>
-    <episode-num system="onscreen">S8 E1</episode-num>
+    <sub-title>Italy: Chinese Italia</sub-title>
+    <desc>The deep, lived fusion between Chinese and Italian cultures, from Milan's Chinatown to Prato's working class dumpling shops and Florence's street food.</desc>
+    <episode-num system="onscreen">S8 E2</episode-num>
     <credits>
       <actor>Danielle Chang</actor>
     </credits><date>2026</date>
@@ -160,11 +358,11 @@
     </rating><rating system="Régie du cinéma">
       <value>G</value>
     </rating>
-  </programme><programme channel="PBS13-WNET-US" start="20260516160000 +0500" stop="20260516163000 +0500">
+  </programme><programme channel="PBS13-WNET-US" start="20260523160000 +0500" stop="20260523163000 +0500">
     <title>Curious Traveler</title>
-    <sub-title>Curious Utrecht, Netherlands</sub-title>
-    <desc>Utrecht's Golden Age and unique canal-carved city plan; visiting DomCathedral and DOMUnder; Kasteel de Haar, the largest castle in the Netherlands.</desc>
-    <episode-num system="onscreen">S7 E7</episode-num>
+    <sub-title>Curious Poznan, Poland</sub-title>
+    <desc>Highlights in Poland include Old Market Square, Rogalin Palace, Poznan Cathedral and tombs, the Poznan goat legend, Zamek Cultural Center, Enigma Cipher Center and the Poznan Croissant Museum.</desc>
+    <episode-num system="onscreen">S7 E8</episode-num>
     <credits>
       <actor>Christine Van Blokland</actor>
     </credits><date>2024</date>
@@ -183,7 +381,7 @@
     </rating><rating system="Australian Classification Board">
       <value>PG</value>
     </rating>
-  </programme><programme channel="PBS13-WNET-US" start="20260516163000 +0500" stop="20260516170000 +0500">
+  </programme><programme channel="PBS13-WNET-US" start="20260523163000 +0500" stop="20260523170000 +0500">
     <title>One on One With Steve Adubato</title>
     <sub-title />
     <desc>Professionals and innovators share their experiences.</desc>
@@ -193,13 +391,14 @@
     <category lang="en">Talk</category>
     <language>en</language>
     <icon src="http://dtil.tmsimg.com/assets/p7814519_b_h8_ad.jpg?w=960&amp;h=540" />
-  </programme><programme channel="PBS13-WNET-US" start="20260516170000 +0500" stop="20260516173000 +0500">
+  </programme><programme channel="PBS13-WNET-US" start="20260523170000 +0500" stop="20260523173000 +0500">
     <title>Consuelo Mack WealthTrack</title>
-    <sub-title />
-    <desc>Investment tips in stocks, bonds, real estate and collectibles.</desc>
-    <episode-num system="onscreen">S22 E46</episode-num>
+    <sub-title>Trennert: Inflationary Forces</sub-title>
+    <desc>Jason DeSena Trennert, chief investment strategist at Strategas, identifies AI demand, deglobalization and expansive fiscal and monetary policies as powerful inflationary forces that will determine investment winners and losers for years to come.</desc>
+    <episode-num system="onscreen">S22 E47</episode-num>
     <credits>
       <actor>Consuelo Mack</actor>
+      <actor>Jason DeSena Trennert</actor>
     </credits><date>2026</date>
     <category lang="en">Series</category>
     <category lang="en">Bus./financial</category>
@@ -213,22 +412,22 @@
     </rating><rating system="Régie du cinéma">
       <value>G</value>
     </rating>
-  </programme><programme channel="PBS13-WNET-US" start="20260516173000 +0500" stop="20260516180000 +0500">
+  </programme><programme channel="PBS13-WNET-US" start="20260523173000 +0500" stop="20260523180000 +0500">
     <title>State of Affairs</title>
     <sub-title />
-    <desc />
+    <desc>WNET (PBS Thirteen) serves as the primary PBS member station for the New York tri-state area, delivering premium educational programs, trusted public affairs, and acclaimed arts and culture series.</desc>
     <date>2017</date>
     <category lang="en">Public affairs</category>
     <language>en</language>
     <icon src="http://dtil.tmsimg.com/assets/p13803611_b_h8_ad.jpg?w=960&amp;h=540" />
-  </programme><programme channel="PBS13-WNET-US" start="20260516180000 +0500" stop="20260516183000 +0500">
+  </programme><programme channel="PBS13-WNET-US" start="20260523180000 +0500" stop="20260523183000 +0500">
     <title>History With David Rubenstein</title>
-    <sub-title>Rick Atkinson</sub-title>
-    <desc>Author and historian Rick Atkinson discusses the American Revolution.</desc>
-    <episode-num system="onscreen">S7 E2</episode-num>
+    <sub-title>Geraldo Cadava</sub-title>
+    <desc>Professor and historian Geraldo Cadava explores the history of Hispanic American voters from the 1960s to the present.</desc>
+    <episode-num system="onscreen">S7 E3</episode-num>
     <credits>
       <actor>David Rubenstein</actor>
-      <actor>Rick Atkinson</actor>
+      <actor>Geraldo Cadava</actor>
     </credits><date>2026</date>
     <category lang="en">Series</category>
     <category lang="en">Interview</category>
@@ -241,14 +440,14 @@
     </rating><rating system="USA Parental Rating">
       <value>TVPG</value>
     </rating>
-  </programme><programme channel="PBS13-WNET-US" start="20260516183000 +0500" stop="20260516190000 +0500">
+  </programme><programme channel="PBS13-WNET-US" start="20260523183000 +0500" stop="20260523190000 +0500">
     <title>GZERO World With Ian Bremmer</title>
-    <sub-title>The Iran War's Global Fallout</sub-title>
-    <desc>The consequences of the Iran War for U.S. allies, for Russia, for China, and for the White House; Kori Schake joins Ian Bremmer to break it down.</desc>
-    <episode-num system="onscreen">S8 E46</episode-num>
+    <sub-title>Is Cuba Next?</sub-title>
+    <desc>U.S. pressure has pushed Cuba's economy into freefall, with fuel shortages and mass emigration. Is a military operation imminent? Historian Michael Bustamante on the latest in the U.S.-Cuba crisis.</desc>
+    <episode-num system="onscreen">S8 E47</episode-num>
     <credits>
       <actor>Ian Bremmer</actor>
-      <actor>Kori Schake</actor>
+      <actor>Michael Bustamante</actor>
     </credits><date>2026</date>
     <category lang="en">Series</category>
     <category lang="en">Public affairs</category>
@@ -262,15 +461,14 @@
     </rating><rating system="Canadian Parental Rating">
       <value>PG</value>
     </rating>
-  </programme><programme channel="PBS13-WNET-US" start="20260516190000 +0500" stop="20260516193000 +0500">
+  </programme><programme channel="PBS13-WNET-US" start="20260523190000 +0500" stop="20260523193000 +0500">
     <title>Firing Line With Margaret Hoover</title>
     <sub-title />
-    <desc>Former Defense Secretary Jim Mattis and author Ryan Holiday examine the ancient philosophy that inspired America's founders.</desc>
-    <episode-num system="onscreen">S9 E46</episode-num>
+    <desc>Retired Justice Anthony Kennedy assesses the challenges facing the U.S. Supreme Court in President Donald Trump's second term.</desc>
+    <episode-num system="onscreen">S9 E47</episode-num>
     <credits>
       <actor>Margaret Hoover</actor>
-      <actor>Jim Mattis</actor>
-      <actor>Ryan Holiday</actor>
+      <actor>Anthony Kennedy</actor>
     </credits><date>2026</date>
     <category lang="en">Series</category>
     <category lang="en">Public affairs</category>
@@ -278,14 +476,14 @@
     <category lang="en">Debate</category>
     <language>en</language>
     <icon src="http://dtil.tmsimg.com/assets/p15429319_b_h8_aa.jpg?w=960&amp;h=540" />
-  </programme><programme channel="PBS13-WNET-US" start="20260516193000 +0500" stop="20260516200000 +0500">
+  </programme><programme channel="PBS13-WNET-US" start="20260523193000 +0500" stop="20260523200000 +0500">
     <title>The Chavis Chronicles</title>
-    <sub-title>Alencia Johnson</sub-title>
-    <desc>Social impact adviser and cultural commentator Alencia Johnson discusses her work and breaks down how strategic storytelling, advocacy and community engagement can drive change.</desc>
-    <episode-num system="onscreen">S6 E14</episode-num>
+    <sub-title>Tameka Simmons</sub-title>
+    <desc>Tameka Simmons, general counsel and Chief Compliance Officer of Delta Sigma Theta Sorority, Inc., discusses leadership, ethics and empowerment.</desc>
+    <episode-num system="onscreen">S6 E15</episode-num>
     <credits>
       <actor>Benjamin Chavis</actor>
-      <actor>Alencia Johnson</actor>
+      <actor>Tameka Simmons</actor>
     </credits><date>2026</date>
     <category lang="en">Series</category>
     <category lang="en">Talk</category>
@@ -299,11 +497,11 @@
     </rating><rating system="USA Parental Rating">
       <value>TVPG</value>
     </rating>
-  </programme><programme channel="PBS13-WNET-US" start="20260516200000 +0500" stop="20260516203000 +0500">
+  </programme><programme channel="PBS13-WNET-US" start="20260523200000 +0500" stop="20260523203000 +0500">
     <title>New York Now</title>
     <sub-title />
     <desc>Journalists discuss New York state politics and government.</desc>
-    <episode-num system="onscreen">E21</episode-num>
+    <episode-num system="onscreen">E22</episode-num>
     <credits>
       <actor>Shantel Destra</actor>
       <actor>Elise Kline</actor>
@@ -320,34 +518,31 @@
     </rating><rating system="Régie du cinéma">
       <value>G</value>
     </rating>
-  </programme><programme channel="PBS13-WNET-US" start="20260516203000 +0500" stop="20260516210000 +0500">
+  </programme><programme channel="PBS13-WNET-US" start="20260523203000 +0500" stop="20260523210000 +0500">
     <title>To the Contrary With Bonnie Erbé</title>
     <sub-title />
     <desc>All-female news analysis of issues and policy affecting the U.S.</desc>
-    <episode-num system="onscreen">S35 E9</episode-num>
+    <episode-num system="onscreen">S34 E19</episode-num>
     <credits>
       <actor>Bonnie Erbé</actor>
-    </credits><date>2026</date>
+    </credits><date>2025</date>
     <category lang="en">Series</category>
     <category lang="en">Talk</category>
     <category lang="en">News</category>
     <category lang="en">Public affairs</category>
     <language>en</language>
     <icon src="http://dtil.tmsimg.com/assets/p514638_b_h10_ac.jpg?w=960&amp;h=540" />
-  </programme><programme channel="PBS13-WNET-US" start="20260516210000 +0500" stop="20260516213000 +0500">
+  </programme><programme channel="PBS13-WNET-US" start="20260523210000 +0500" stop="20260523213000 +0500">
     <title>The Open Mind</title>
-    <sub-title>Mayors of the World: Atlanta</sub-title>
-    <desc>Atlanta Mayor Andre Dickens.</desc>
-    <episode-num system="onscreen">S45 E14</episode-num>
+    <sub-title />
+    <desc>Exploring civic life with Alexander Heffner.</desc>
     <credits>
       <actor>Alexander Heffner</actor>
-      <actor>Andre Dickens</actor>
-    </credits><date>2026</date>
-    <category lang="en">Series</category>
+    </credits><date>2010</date>
     <category lang="en">Talk</category>
     <category lang="en">Public affairs</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p8133537_b_h10_aa.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p14133527_b_h10_aa.jpg?w=960&amp;h=540" />
     <rating system="USA Parental Rating">
       <value>TVG</value>
     </rating><rating system="Canadian Parental Rating">
@@ -355,7 +550,7 @@
     </rating><rating system="Régie du cinéma">
       <value>G</value>
     </rating>
-  </programme><programme channel="PBS13-WNET-US" start="20260516213000 +0500" stop="20260516220000 +0500">
+  </programme><programme channel="PBS13-WNET-US" start="20260523213000 +0500" stop="20260523220000 +0500">
     <title>Think Tank With Steve Adubato</title>
     <sub-title />
     <desc>Steve Adubato holds four-person round table discussions that explore issues facing society.</desc>
@@ -363,73 +558,60 @@
     <category lang="en">Public affairs</category>
     <language>en</language>
     <icon src="http://dtil.tmsimg.com/assets/p16790899_b_h8_ac.jpg?w=960&amp;h=540" />
-  </programme><programme channel="PBS13-WNET-US" start="20260516220000 +0500" stop="20260516233000 +0500">
-    <title>Life on Earth: Attenborough's Greatest Adventure</title>
+  </programme><programme channel="PBS13-WNET-US" start="20260523220000 +0500" stop="20260524000000 +0500">
+    <title>Change Your Brain, Change Your Pain With Daniel Amen, MD</title>
     <sub-title />
-    <desc>The story behind David Attenborough's wildlife documentary series "Life on Earth," which changed his life forever.</desc>
+    <desc>Dr. Daniel Amen maps the brain networks that drive physical and emotional pain and reveals his practical, brain-based strategies that help you feel better, think clearer and live more fully.</desc>
     <credits>
-      <actor>David Attenborough</actor>
-    </credits><date>2026</date>
+      <actor>Daniel Amen</actor>
+    </credits><date>2025</date>
     <category lang="en">Special</category>
-    <category lang="en">Documentary</category>
+    <category lang="en">Self improvement</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p32646212_b_h8_aa.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p31111218_st_h10_aa.jpg?w=960&amp;h=540" />
     <rating system="USA Parental Rating">
       <value>TVPG</value>
     </rating><rating system="Canadian Parental Rating">
       <value>PG</value>
     </rating>
-  </programme><programme channel="PBS13-WNET-US" start="20260516233000 +0500" stop="20260517010000 +0500">
-    <title>Lucy Worsley's Holmes vs. Doyle</title>
-    <sub-title>Doctor and Detective</sub-title>
-    <desc>The origins of Holmes in Arthur Conan Doyle's early life as a medical student in Edinburgh, and the author's growing disenchantment with his detective.</desc>
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <credits>
-      <director>Simon George</director>
-      <actor>Lucy Worsley</actor>
-    </credits><date>2024</date>
-    <category lang="en">Series</category>
-    <category lang="en">Documentary</category>
-    <category lang="en">History</category>
+  </programme><programme channel="PBS13-WNET-US" start="20260524000000 +0500" stop="20260524013000 +0500">
+    <title>Roy Orbison Forever</title>
+    <sub-title />
+    <desc>Interviews and archive performances celebrate the life and career of five-time Grammy Award-winning Rock and Roll Hall of Famer Roy Orbison.</desc>
+    <date>2021</date>
+    <category lang="en">Special</category>
+    <category lang="en">Musical</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p28527709_b_h8_ad.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p20746999_b_h10_aa.jpg?w=960&amp;h=540" />
     <rating system="USA Parental Rating">
       <value>TVPG</value>
     </rating><rating system="Canadian Parental Rating">
       <value>PG</value>
+    </rating><rating system="UK Content Provider">
+      <value>PG</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>0</value>
     </rating>
-  </programme><programme channel="PBS13-WNET-US" start="20260517010000 +0500" stop="20260517030000 +0500">
-    <title>Great Performances</title>
-    <sub-title>Josh Groban: An Evening at Union Chapel</sub-title>
-    <desc>Josh Groban performs many of his beloved songs as well as new material at London's historic Union Chapel.</desc>
-    <episode-num system="onscreen">S53 E13</episode-num>
+  </programme><programme channel="PBS13-WNET-US" start="20260524013000 +0500" stop="20260524030000 +0500">
+    <title>More Deconstructing The Beatles</title>
+    <sub-title />
+    <desc>An educational journey through several of The Beatles' milestone albums and the stories that accompanied them.</desc>
     <credits>
-      <actor>Josh Groban</actor>
+      <actor>Scott Freiman</actor>
     </credits><date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Anthology</category>
     <category lang="en">Music</category>
-    <category lang="en">Dance</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Performing arts</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p31082022_b_h10_aa.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p32392281_b_h10_aa.jpg?w=960&amp;h=540" />
     <rating system="USA Parental Rating">
-      <value>TVG</value>
+      <value>TVPG</value>
     </rating><rating system="Canadian Parental Rating">
-      <value>G</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>L</value>
-    </rating><rating system="Instituto Nacional de Cine y Artes Audiovisuales">
-      <value>ATP</value>
+      <value>PG</value>
     </rating>
-  </programme><programme channel="PBS13-WNET-US" start="20260517030000 +0500" stop="20260517033000 +0500">
+  </programme><programme channel="PBS13-WNET-US" start="20260524030000 +0500" stop="20260524033000 +0500">
     <title>Compass Points From PBS News</title>
     <sub-title />
     <desc>Experts analyze prominent international affairs topics and America's role in a shifting world.</desc>
-    <episode-num system="onscreen">S1 E18</episode-num>
+    <episode-num system="onscreen">S1 E19</episode-num>
     <credits>
       <actor>Nick Schifrin</actor>
     </credits><date>2026</date>
@@ -437,14 +619,14 @@
     <category lang="en">Public affairs</category>
     <language>en</language>
     <icon src="http://dtil.tmsimg.com/assets/p31977081_b_h8_ab.jpg?w=960&amp;h=540" />
-  </programme><programme channel="PBS13-WNET-US" start="20260517033000 +0500" stop="20260517040000 +0500">
+  </programme><programme channel="PBS13-WNET-US" start="20260524033000 +0500" stop="20260524040000 +0500">
     <title>GZERO World With Ian Bremmer</title>
-    <sub-title>The Iran War's Global Fallout</sub-title>
-    <desc>The consequences of the Iran War for U.S. allies, for Russia, for China, and for the White House; Kori Schake joins Ian Bremmer to break it down.</desc>
-    <episode-num system="onscreen">S8 E46</episode-num>
+    <sub-title>Is Cuba Next?</sub-title>
+    <desc>U.S. pressure has pushed Cuba's economy into freefall, with fuel shortages and mass emigration. Is a military operation imminent? Historian Michael Bustamante on the latest in the U.S.-Cuba crisis.</desc>
+    <episode-num system="onscreen">S8 E47</episode-num>
     <credits>
       <actor>Ian Bremmer</actor>
-      <actor>Kori Schake</actor>
+      <actor>Michael Bustamante</actor>
     </credits><date>2026</date>
     <category lang="en">Series</category>
     <category lang="en">Public affairs</category>
@@ -458,11 +640,11 @@
     </rating><rating system="Canadian Parental Rating">
       <value>PG</value>
     </rating>
-  </programme><programme channel="PBS13-WNET-US" start="20260517040000 +0500" stop="20260517043000 +0500">
+  </programme><programme channel="PBS13-WNET-US" start="20260524040000 +0500" stop="20260524043000 +0500">
     <title>Tradfest: The Fingal Sessions</title>
-    <sub-title>a cuig</sub-title>
-    <desc>Fiachna Ó Braonáin is joined by a Woman of Note gathering from Aoife Scott's series of concerts which open the Tradfest Festival every year.</desc>
-    <episode-num system="onscreen">S3 E5</episode-num>
+    <sub-title />
+    <desc>Aoife O'Donovan, Ultan O'Brien and Ultan Conlon share songs and stories.</desc>
+    <episode-num system="onscreen">S3 E6</episode-num>
     <credits>
       <actor>Fiachna Ó Braonáin</actor>
     </credits><date>2025</date>
@@ -480,17 +662,19 @@
     </rating><rating system="Australian Classification Board">
       <value>G</value>
     </rating>
-  </programme><programme channel="PBS13-WNET-US" start="20260517043000 +0500" stop="20260517060000 +0500">
+  </programme><programme channel="PBS13-WNET-US" start="20260524043000 +0500" stop="20260524060000 +0500">
     <title>Inspector George Gently</title>
-    <sub-title>Peace and Love</sub-title>
-    <desc>Gently and Bacchus investigate after the body of a well-known left-wing academic is found by the docks.</desc>
-    <episode-num system="onscreen">S3 E2</episode-num>
+    <sub-title>Gently Upside Down</sub-title>
+    <desc>Gently and Bacchus are thrown into the new world of pop and media celebrity when the body of a missing schoolgirl is discovered in a shallow grave.</desc>
+    <episode-num system="onscreen">S4 E1</episode-num>
     <credits>
+      <director>Ciaran Donnelly</director>
       <director>Daniel O'Hara</director>
+      <director>Nicholas Renton</director>
       <actor>Lee Ingleby</actor>
+      <actor>Martin Shaw</actor>
       <actor>Simon Hubbard</actor>
-      <actor>MyAnna Buring</actor>
-    </credits><date>2010</date>
+    </credits><date>2011</date>
     <category lang="en">Series</category>
     <category lang="en">Crime drama</category>
     <category lang="en">Mystery</category>
@@ -511,163 +695,173 @@
     </rating><rating system="Kijkwijzer">
       <value>9</value>
     </rating>
-  </programme><programme channel="PBS13-WNET-US" start="20260517060000 +0500" stop="20260517081000 +0500">
-    <title>Being the Ricardos</title>
+  </programme><programme channel="PBS13-WNET-US" start="20260524060000 +0500" stop="20260524074300 +0500">
+    <title>On the Town</title>
     <sub-title />
-    <desc>In 1952, Hollywood power couple Lucille Ball and Desi Arnaz face a series of personal and professional crises that threaten their careers, their relationship and their hit TV show.</desc>
+    <desc>Fun-loving sailors Gabey (Gene Kelly), Chip (Frank Sinatra) and Ozzie (Jules Munshin) have 24 hours of shore leave in New York City, and they want to make every second count. While Chip hooks up with loudmouth cab driver Brunhilde (Betty Garrett) and Ozzie swoons for prim anthropologist Claire (Ann Miller), Gabey falls in love with an actress he sees in an advertisement, Ivy Smith (Vera-Ellen). Leonard Bernstein, with lyricists Betty Comden and Adolph Green, provides the music.</desc>
     <credits>
-      <director>Aaron Sorkin</director>
-      <actor>Nicole Kidman</actor>
-      <actor>Javier Bardem</actor>
-      <actor>J.K. Simmons</actor>
-    </credits><date>2021</date>
+      <director>Stanley Donen</director>
+      <director>Gene Kelly</director>
+      <actor>Gene Kelly</actor>
+      <actor>Frank Sinatra</actor>
+      <actor>Ann Miller</actor>
+    </credits><date>1949</date>
     <category lang="en">Movie</category>
-    <category lang="en">Biography</category>
-    <category lang="en">Drama</category>
+    <category lang="en">Musical comedy</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p20868132_v_h8_aa.jpg?w=960&amp;h=540" />
-    <rating system="Motion Picture Association">
-      <value>R</value>
+    <icon src="http://dtil.tmsimg.com/assets/p2977_v_h10_aa.jpg?w=960&amp;h=540" />
+    <rating system="British Board of Film Classification">
+      <value>U</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>L</value>
+    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>S</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="Ontario Film Authority">
+      <value>PG</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating><rating system="Australian Classification Board">
+      <value>G</value>
+    </rating><star-rating>
+      <value>8.0/10</value>
+    </star-rating>
+  </programme><programme channel="PBS13-WNET-US" start="20260524074300 +0500" stop="20260524100200 +0500">
+    <title>Anchors Aweigh</title>
+    <sub-title />
+    <desc>Joe (Gene Kelly) and Clarence (Frank Sinatra) are two young Navy sailors on leave in glitzy Los Angeles. The two men at first plan to use their layover as an opportunity to relax, but they soon find themselves in a complicated web of comic secrets. When the two buddies find a runaway boy and return him to his fame-hungry Aunt Susan (Kathryn Grayson), both men find themselves falling for the wannabe singer, setting off a series of misadventures that unfold in comedy and song.</desc>
+    <credits>
+      <director>George Sidney</director>
+      <actor>Frank Sinatra</actor>
+      <actor>Gene Kelly</actor>
+      <actor>Kathryn Grayson</actor>
+    </credits><date>1945</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Musical</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p1947_v_h10_aa.jpg?w=960&amp;h=540" />
+    <rating system="British Board of Film Classification">
+      <value>U</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="Ontario Film Authority">
+      <value>F</value>
     </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
       <value>12</value>
     </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>14</value>
-    </rating><rating system="British Board of Film Classification">
-      <value>15</value>
-    </rating><rating system="Régie du cinéma">
-      <value>13+</value>
+      <value>12</value>
     </rating><rating system="Kijkwijzer">
       <value>12</value>
-    </rating><rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>16</value>
     </rating><star-rating>
-      <value>5.0/10</value>
+      <value>6.0/10</value>
     </star-rating>
-  </programme><programme channel="PBS13-WNET-US" start="20260517081000 +0500" stop="20260517103500 +0500">
-    <title>True Mothers</title>
+  </programme><programme channel="PBS13-WNET-US" start="20260524100200 +0500" stop="20260524114400 +0500">
+    <title>On the Town</title>
     <sub-title />
-    <desc>An adopted son's mother receives an unexpected visit from the boy's biological mother.</desc>
+    <desc>Fun-loving sailors Gabey (Gene Kelly), Chip (Frank Sinatra) and Ozzie (Jules Munshin) have 24 hours of shore leave in New York City, and they want to make every second count. While Chip hooks up with loudmouth cab driver Brunhilde (Betty Garrett) and Ozzie swoons for prim anthropologist Claire (Ann Miller), Gabey falls in love with an actress he sees in an advertisement, Ivy Smith (Vera-Ellen). Leonard Bernstein, with lyricists Betty Comden and Adolph Green, provides the music.</desc>
     <credits>
-      <director>Naomi Kawase</director>
-      <actor>Arata Iura</actor>
-      <actor>Hiromi Nagasaku</actor>
-      <actor>Aju Makita</actor>
-    </credits><date>2020</date>
+      <director>Stanley Donen</director>
+      <director>Gene Kelly</director>
+      <actor>Gene Kelly</actor>
+      <actor>Frank Sinatra</actor>
+      <actor>Ann Miller</actor>
+    </credits><date>1949</date>
     <category lang="en">Movie</category>
-    <category lang="en">Drama</category>
+    <category lang="en">Musical comedy</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p18849397_v_h8_ab.jpg?w=960&amp;h=540" />
-    <rating system="映倫">
-      <value>G</value>
-    </rating><rating system="Statens medieråd">
-      <value>Från 11 år</value>
-    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
-      <value>12</value>
+    <icon src="http://dtil.tmsimg.com/assets/p2977_v_h10_aa.jpg?w=960&amp;h=540" />
+    <rating system="British Board of Film Classification">
+      <value>U</value>
     </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>14</value>
-    </rating><rating system="영상물등급위원회">
-      <value>12+</value>
+      <value>L</value>
+    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>S</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="Ontario Film Authority">
+      <value>PG</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
     </rating><rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating><rating system="Kijkwijzer">
-      <value>9</value>
-    </rating><rating system="British Board of Film Classification">
-      <value>15</value>
-    </rating><rating system="Medierådet">
-      <value>11</value>
-    </rating>
-  </programme><programme channel="PBS13-WNET-US" start="20260517103500 +0500" stop="20260517124500 +0500">
-    <title>Being the Ricardos</title>
+      <value>G</value>
+    </rating><star-rating>
+      <value>8.0/10</value>
+    </star-rating>
+  </programme><programme channel="PBS13-WNET-US" start="20260524114400 +0500" stop="20260524140400 +0500">
+    <title>Anchors Aweigh</title>
     <sub-title />
-    <desc>In 1952, Hollywood power couple Lucille Ball and Desi Arnaz face a series of personal and professional crises that threaten their careers, their relationship and their hit TV show.</desc>
+    <desc>Joe (Gene Kelly) and Clarence (Frank Sinatra) are two young Navy sailors on leave in glitzy Los Angeles. The two men at first plan to use their layover as an opportunity to relax, but they soon find themselves in a complicated web of comic secrets. When the two buddies find a runaway boy and return him to his fame-hungry Aunt Susan (Kathryn Grayson), both men find themselves falling for the wannabe singer, setting off a series of misadventures that unfold in comedy and song.</desc>
     <credits>
-      <director>Aaron Sorkin</director>
-      <actor>Nicole Kidman</actor>
-      <actor>Javier Bardem</actor>
-      <actor>J.K. Simmons</actor>
-    </credits><date>2021</date>
+      <director>George Sidney</director>
+      <actor>Frank Sinatra</actor>
+      <actor>Gene Kelly</actor>
+      <actor>Kathryn Grayson</actor>
+    </credits><date>1945</date>
     <category lang="en">Movie</category>
-    <category lang="en">Biography</category>
-    <category lang="en">Drama</category>
+    <category lang="en">Musical</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p20868132_v_h8_aa.jpg?w=960&amp;h=540" />
-    <rating system="Motion Picture Association">
-      <value>R</value>
+    <icon src="http://dtil.tmsimg.com/assets/p1947_v_h10_aa.jpg?w=960&amp;h=540" />
+    <rating system="British Board of Film Classification">
+      <value>U</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="Ontario Film Authority">
+      <value>F</value>
     </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
       <value>12</value>
     </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>14</value>
-    </rating><rating system="British Board of Film Classification">
-      <value>15</value>
-    </rating><rating system="Régie du cinéma">
-      <value>13+</value>
+      <value>12</value>
     </rating><rating system="Kijkwijzer">
       <value>12</value>
-    </rating><rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>16</value>
     </rating><star-rating>
-      <value>5.0/10</value>
+      <value>6.0/10</value>
     </star-rating>
-  </programme><programme channel="PBS13-WNET-US" start="20260517124500 +0500" stop="20260517150000 +0500">
-    <title>True Mothers</title>
-    <sub-title />
-    <desc>An adopted son's mother receives an unexpected visit from the boy's biological mother.</desc>
+  </programme><programme channel="PBS13-WNET-US" start="20260524140400 +0500" stop="20260524150000 +0500">
+    <title>Antiques Roadshow</title>
+    <sub-title>Junk in the Trunk 15</sub-title>
+    <desc>Finds include a 1961 JFK Santa Claus Letter, a 1979 Ed Ruscha Stage Fright ink on paper and a John Juzek violin circa 1950.</desc>
+    <episode-num system="onscreen">S30 E17</episode-num>
     <credits>
-      <director>Naomi Kawase</director>
-      <actor>Arata Iura</actor>
-      <actor>Hiromi Nagasaku</actor>
-      <actor>Aju Makita</actor>
-    </credits><date>2020</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Drama</category>
+      <actor>Coral Pena</actor>
+    </credits><date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Collectibles</category>
+    <category lang="en">Art</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p18849397_v_h8_ab.jpg?w=960&amp;h=540" />
-    <rating system="映倫">
+    <icon src="http://dtil.tmsimg.com/assets/p31523747_b_h8_aa.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating><rating system="Canadian Parental Rating">
       <value>G</value>
-    </rating><rating system="Statens medieråd">
-      <value>Från 11 år</value>
-    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
-      <value>12</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>14</value>
-    </rating><rating system="영상물등급위원회">
-      <value>12+</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
     </rating><rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating><rating system="Kijkwijzer">
-      <value>9</value>
-    </rating><rating system="British Board of Film Classification">
-      <value>15</value>
-    </rating><rating system="Medierådet">
-      <value>11</value>
+      <value>G</value>
     </rating>
-  </programme><programme channel="PBS13-WNET-US" start="20260517150000 +0500" stop="20260517153000 +0500">
+  </programme><programme channel="PBS13-WNET-US" start="20260524150000 +0500" stop="20260524153000 +0500">
     <title>Mister Rogers' Neighborhood</title>
-    <sub-title>Daniel Feels Forgotten</sub-title>
-    <desc>Playing the fife and drum; Daniel Tiger learns about friends and sadness.</desc>
-    <episode-num system="onscreen">S13 E4</episode-num>
+    <sub-title>A Visit With Eric Carle</sub-title>
+    <desc>Author and illustrator Eric Carle demonstrates how he created the artwork in his book "From Head to Toe.".</desc>
+    <episode-num system="onscreen">S28 E1</episode-num>
     <credits>
       <actor>Fred Rogers</actor>
-    </credits><date>1982</date>
+    </credits><date>1998</date>
     <category lang="en">Series</category>
     <category lang="en">Children</category>
     <category lang="en">Educational</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p184024_b_h10_ab.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p9146392_b_h10_aa.jpg?w=960&amp;h=540" />
     <rating system="USA Parental Rating">
       <value>TVY</value>
     </rating><rating system="Canadian Parental Rating">
       <value>C</value>
     </rating>
-  </programme><programme channel="PBS13-WNET-US" start="20260517153000 +0500" stop="20260517160000 +0500">
+  </programme><programme channel="PBS13-WNET-US" start="20260524153000 +0500" stop="20260524160000 +0500">
     <title>Arthur</title>
-    <sub-title>Sue Ellen Gets Her Goose Cooked; Best of the Nest</sub-title>
-    <desc>Sue Ellen becomes obsessed with an Internet game; the gang must decide whether to go on a camping trip.</desc>
-    <episode-num system="onscreen">S6 E1</episode-num>
+    <sub-title>The Boy With His Head in the Clouds; More!</sub-title>
+    <desc>George gets help with reading and writing; D.W. begins to receive an allowance.</desc>
+    <episode-num system="onscreen">S6 E7</episode-num>
     <credits>
       <actor>Cameron Ansell</actor>
       <actor>Robert Naylor</actor>
@@ -695,16 +889,15 @@
     </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
       <value>0</value>
     </rating>
-  </programme><programme channel="PBS13-WNET-US" start="20260517160000 +0500" stop="20260517163000 +0500">
+  </programme><programme channel="PBS13-WNET-US" start="20260524160000 +0500" stop="20260524163000 +0500">
     <title>Wild Kratts</title>
-    <sub-title>Rainforest Stew</sub-title>
-    <desc>Chris and Martin search for an obscure rain forest creature.</desc>
-    <episode-num system="onscreen">S2 E13</episode-num>
+    <sub-title>Prairie Who?</sub-title>
+    <desc>The gang gets separated during a twister on the prairie.</desc>
+    <episode-num system="onscreen">S3 E8</episode-num>
     <credits>
       <actor>Martin Kratt</actor>
       <actor>Chris Kratt</actor>
-      <actor>Athena Karkanis</actor>
-    </credits><date>2013</date>
+    </credits><date>2014</date>
     <category lang="en">Series</category>
     <category lang="en">Children</category>
     <category lang="en">Educational</category>
@@ -714,12 +907,12 @@
     <category lang="en">Animated</category>
     <language>en</language>
     <icon src="http://dtil.tmsimg.com/assets/p8369911_b_h8_aj.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>L</value>
+    </rating><rating system="USA Parental Rating">
       <value>TVY</value>
     </rating><rating system="Canadian Parental Rating">
       <value>C</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>L</value>
     </rating><rating system="Australian Classification Board">
       <value>G</value>
     </rating><rating system="Régie du cinéma">
@@ -727,11 +920,11 @@
     </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
       <value>6</value>
     </rating>
-  </programme><programme channel="PBS13-WNET-US" start="20260517163000 +0500" stop="20260517170000 +0500">
+  </programme><programme channel="PBS13-WNET-US" start="20260524163000 +0500" stop="20260524170000 +0500">
     <title>Weather Hunters</title>
-    <sub-title>The Leaf Painter</sub-title>
-    <desc>The Hunter kids head to the state park to learn why leaves change color.</desc>
-    <episode-num system="onscreen">S1 E6</episode-num>
+    <sub-title>Corky's Weird Desert Mystery</sub-title>
+    <desc>The Hunters investigate a weather mystery surrounding massive rocks that move on their own in the desert.</desc>
+    <episode-num system="onscreen">S1 E8</episode-num>
     <credits>
       <actor>Tandi Fomukong</actor>
       <actor>Al Roker</actor>
@@ -739,9 +932,9 @@
     </credits><date>2025</date>
     <category lang="en">Series</category>
     <category lang="en">Animated</category>
+    <category lang="en">Children</category>
     <category lang="en">Entertainment</category>
     <category lang="en">Educational</category>
-    <category lang="en">Children</category>
     <language>en</language>
     <icon src="http://dtil.tmsimg.com/assets/p30699963_b_h8_aa.jpg?w=960&amp;h=540" />
     <rating system="USA Parental Rating">
@@ -749,11 +942,11 @@
     </rating><rating system="Canadian Parental Rating">
       <value>C</value>
     </rating>
-  </programme><programme channel="PBS13-WNET-US" start="20260517170000 +0500" stop="20260517173000 +0500">
+  </programme><programme channel="PBS13-WNET-US" start="20260524170000 +0500" stop="20260524173000 +0500">
     <title>Lyla in the Loop</title>
-    <sub-title>When Luke Became Stu; Secret Surprise Party</sub-title>
-    <desc>After feeling left out, Luke decides to switch places with Stu; the Loops kids throw a surprise party for their parents.</desc>
-    <episode-num system="onscreen">S1 E14</episode-num>
+    <sub-title>Happy New Year, Lyla!; Everett's Summer Sale</sub-title>
+    <desc>Lyla and Everett make pins for New Year's Eve; Lyla and Everett clash while making a fun unboxing video for Phan Hardware's Summer Sale.</desc>
+    <episode-num system="onscreen">S1 E22</episode-num>
     <credits>
       <actor>Liyou Abere</actor>
       <actor>Izzy Woodbury</actor>
@@ -771,11 +964,11 @@
     </rating><rating system="Canadian Parental Rating">
       <value>C</value>
     </rating>
-  </programme><programme channel="PBS13-WNET-US" start="20260517173000 +0500" stop="20260517180000 +0500">
+  </programme><programme channel="PBS13-WNET-US" start="20260524173000 +0500" stop="20260524180000 +0500">
     <title>Carl the Collector</title>
-    <sub-title>The Green Piece; The FuzzyWorld Book of Records</sub-title>
-    <desc>Dylan is excited to play his new game, but things take a turn when the game pieces fall into a floor vent; Carl is determined to get into the FuzzyWorld Book of Records.</desc>
-    <episode-num system="onscreen">S1 E22</episode-num>
+    <sub-title>The Gratitude Collection; The Pet Rock Collection</sub-title>
+    <desc>Carl and Sheldon are on a thank-you mission; Carl shows his friends the right way to play with pet rocks.</desc>
+    <episode-num system="onscreen">S1 E17</episode-num>
     <credits>
       <actor>Kai Barham</actor>
       <actor>Peter Laurie</actor>
@@ -793,47 +986,49 @@
     </rating><rating system="Canadian Parental Rating">
       <value>C</value>
     </rating>
-  </programme><programme channel="PBS13-WNET-US" start="20260517180000 +0500" stop="20260517183000 +0500">
+  </programme><programme channel="PBS13-WNET-US" start="20260524180000 +0500" stop="20260524183000 +0500">
     <title>Daniel Tiger's Neighborhood</title>
-    <sub-title>Quiet Time at School; Naptime in Blanket City</sub-title>
-    <desc>Daniel and Miss Elaina don't want to stop playing when it is time for Quiet Time at school; Daniel finds something that will help him rest.</desc>
-    <episode-num system="onscreen">S5 E3</episode-num>
+    <sub-title>Daniel and Max Visit the Farm; Prince Wednesday's Pet</sub-title>
+    <desc>Daniel helps to take care of Margaret; at the farm, Daniel and Max take care of ducks and Peaches the horse; Prince Wednesday and Jodi learn how to take care of Prince Wednesday's new pet guinea pig when she needs to rest.</desc>
+    <episode-num system="onscreen">S7 E10</episode-num>
     <credits>
-      <actor>Keegan Hedley</actor>
+      <actor>Jake Beale</actor>
       <actor>Ted Dykstra</actor>
       <actor>Heather Bambrick</actor>
-    </credits><date>2020</date>
+    </credits><date>2025</date>
     <category lang="en">Series</category>
     <category lang="en">Animated</category>
     <category lang="en">Children</category>
     <category lang="en">Educational</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p9175156_b_h8_bj.jpg?w=960&amp;h=540" />
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>S</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="Australian Classification Board">
-      <value>G</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>C</value>
+    <icon src="http://dtil.tmsimg.com/assets/p27622858_b_h8_aj.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVY</value>
     </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
       <value>L</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TVY</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>C</value>
+    </rating><rating system="Australian Classification Board">
+      <value>G</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>S</value>
     </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
       <value>0</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>All</value>
     </rating>
-  </programme><programme channel="PBS13-WNET-US" start="20260517183000 +0500" stop="20260517190000 +0500">
+  </programme><programme channel="PBS13-WNET-US" start="20260524183000 +0500" stop="20260524190000 +0500">
     <title>Cyberchase</title>
-    <sub-title>The Power of Patterns</sub-title>
-    <desc>The CyberSquad races through a fizzy asteroid belt and solves math patterns to get the CyberStar back from Hacker.</desc>
-    <episode-num system="onscreen">S16 E4</episode-num>
+    <sub-title>Weather or Not, Part 2</sub-title>
+    <desc>In his attempt to look extra green, Hacker unintentionally causes the weather in Stellandia to become too hot.</desc>
+    <episode-num system="onscreen">S14 E4 P2/2</episode-num>
     <credits>
       <actor>Christopher Lloyd</actor>
       <actor>Novie Edwards</actor>
       <actor>Jacqueline Pillon</actor>
-    </credits><date>2026</date>
+    </credits><date>2023</date>
     <category lang="en">Series</category>
     <category lang="en">Animated</category>
     <category lang="en">Children</category>
@@ -851,11 +1046,11 @@
     </rating><rating system="Australian Classification Board">
       <value>G</value>
     </rating>
-  </programme><programme channel="PBS13-WNET-US" start="20260517190000 +0500" stop="20260517193000 +0500">
+  </programme><programme channel="PBS13-WNET-US" start="20260524190000 +0500" stop="20260524193000 +0500">
     <title>This Old House</title>
-    <sub-title>Walpole Walpole ADU: An Attic ADU</sub-title>
-    <desc>Touring a new attic apartment ADU in Dorchester, Mass.; plumbing update.</desc>
-    <episode-num system="onscreen">S47 E24</episode-num>
+    <sub-title>Walpole ADU: Board &amp; Batten Down the Hatches</sub-title>
+    <desc>Visiting a factory that makes engineered plank flooring; installing some board and batten wall paneling in the new mudroom.</desc>
+    <episode-num system="onscreen">S47 E25</episode-num>
     <credits>
       <actor>Kevin O'Connor</actor>
       <actor>Richard Trethewey</actor>
@@ -878,11 +1073,11 @@
     </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
       <value>A</value>
     </rating>
-  </programme><programme channel="PBS13-WNET-US" start="20260517193000 +0500" stop="20260517200000 +0500">
+  </programme><programme channel="PBS13-WNET-US" start="20260524193000 +0500" stop="20260524200000 +0500">
     <title>Ask This Old House</title>
-    <sub-title>Tile Soap Holders; Swirl Ceiling</sub-title>
-    <desc>Replacing vintage ceramic toothbrush and soap holders; repairing a water-damaged ceiling crack matching the original swirl texture.</desc>
-    <episode-num system="onscreen">S24 E24</episode-num>
+    <sub-title>Picnic Table; Insurance Policies</sub-title>
+    <desc>The perfect tech setup for an outdoor movie night; breaking down the basics of a homeowner's insurance policy; rebuilding a picnic table.</desc>
+    <episode-num system="onscreen">S24 E25</episode-num>
     <credits>
       <actor>Kevin O'Connor</actor>
       <actor>Tom Silva</actor>
@@ -903,13 +1098,13 @@
     </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
       <value>A</value>
     </rating>
-  </programme><programme channel="PBS13-WNET-US" start="20260517200000 +0500" stop="20260517203000 +0500">
+  </programme><programme channel="PBS13-WNET-US" start="20260524200000 +0500" stop="20260524203000 +0500">
     <title>On Story</title>
-    <sub-title>A Conversation With Karyn Kusama</sub-title>
-    <desc>Karyn Kusama sheds light on her body of work, including "Girl Fight," "Jennifer's Body" and "Yellowjackets.".</desc>
-    <episode-num system="onscreen">S14 E10</episode-num>
+    <sub-title>Film to TV Adaptations: A Conversation With Noah Hawley</sub-title>
+    <desc>"Fargo" creator Noah Hawley talks about adapting feature films into episodic storytelling.</desc>
+    <episode-num system="onscreen">S14 E11</episode-num>
     <credits>
-      <actor>Karyn Kusama</actor>
+      <actor>Noah Hawley</actor>
     </credits><date>2024</date>
     <category lang="en">Series</category>
     <category lang="en">Interview</category>
@@ -923,335 +1118,33 @@
     </rating><rating system="USA Parental Rating">
       <value>TVPG</value>
     </rating>
-  </programme><programme channel="PBS13-WNET-US" start="20260517203000 +0500" stop="20260517210000 +0500">
+  </programme><programme channel="PBS13-WNET-US" start="20260524203000 +0500" stop="20260524210000 +0500">
     <title>State of the Arts</title>
-    <sub-title>Nimbus Dance and NJ Symphony In Firebird, Environmental Artist Deborah Jack &amp;</sub-title>
-    <desc>Nimbus Dance goes on stage with the full New Jersey Symphony for a reimagined Firebird. Deborah Jack fuses film and poetry. Artists Syd Carpenter and Jack Larimore connect the campus to its Pine Barrens surroundings with Batsto Homestead.</desc>
-    <date>2025</date>
+    <sub-title>Tradition &amp; Technique</sub-title>
+    <desc>Tradition &amp; Technique: New Jersey Heritage Fellows New Jersey Heritage Fellowships celebrate artists who dedicate their work to mastering and passing on traditions. On this special of State of the Arts, meet four fellows, each bringing precision and care to the art they make: Yang Yi, performer of Ghuzeng music; Kimberly Camp, a Collingswood dollmaker, Omar Edwards, a master tap dancer, and Ramya Ramnarayan, teacher of the dance form Bharatanatyam.</desc>
+    <date>2026</date>
     <category lang="en">Series</category>
-    <category lang="en">Art</category>
+    <category lang="en">Public affairs</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p919295_b_h8_ab.jpg?w=960&amp;h=540" />
-  </programme><programme channel="PBS13-WNET-US" start="20260517210000 +0500" stop="20260517223000 +0500">
-    <title>Lucy Worsley's Holmes vs. Doyle</title>
-    <sub-title>Doctor and Detective</sub-title>
-    <desc>The origins of Holmes in Arthur Conan Doyle's early life as a medical student in Edinburgh, and the author's growing disenchantment with his detective.</desc>
-    <episode-num system="onscreen">S1 E1</episode-num>
+    <icon src="http://dtil.tmsimg.com/assets/p31729652_st_h10_aa.jpg?w=960&amp;h=540" />
+  </programme><programme channel="PBS13-WNET-US" start="20260524210000 +0500" stop="20260525000000 +0500">
+    <title>Great Performances at the Met</title>
+    <sub-title>Arabella</sub-title>
+    <desc>Step into 19th-century Vienna in Otto Schenk's production of "Arabella" starring Rachel Willis-Sorensen in the title role.</desc>
+    <episode-num system="onscreen">S20 E3</episode-num>
     <credits>
-      <director>Simon George</director>
-      <actor>Lucy Worsley</actor>
-    </credits><date>2024</date>
-    <category lang="en">Series</category>
-    <category lang="en">Documentary</category>
-    <category lang="en">History</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p28527709_b_h8_ad.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating>
-  </programme><programme channel="PBS13-WNET-US" start="20260517223000 +0500" stop="20260518003000 +0500">
-    <title>Great Performances</title>
-    <sub-title>Josh Groban: An Evening at Union Chapel</sub-title>
-    <desc>Josh Groban performs many of his beloved songs as well as new material at London's historic Union Chapel.</desc>
-    <episode-num system="onscreen">S53 E13</episode-num>
-    <credits>
-      <actor>Josh Groban</actor>
+      <actor>Rachel Willis-Sørensen</actor>
+      <actor>Louise Alder</actor>
+      <actor>Tomasz Konieczny</actor>
     </credits><date>2026</date>
     <category lang="en">Series</category>
-    <category lang="en">Anthology</category>
     <category lang="en">Music</category>
-    <category lang="en">Dance</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Performing arts</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p31082022_b_h10_aa.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>G</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>L</value>
-    </rating><rating system="Instituto Nacional de Cine y Artes Audiovisuales">
-      <value>ATP</value>
-    </rating>
-  </programme><programme channel="PBS13-WNET-US" start="20260518003000 +0500" stop="20260518010000 +0500">
-    <title>Savers of Flavor</title>
-    <sub-title>A Cherry to Dye For</sub-title>
-    <desc>Chasing down the South's pie cherry to a dye house tree on a Kentucky farm.</desc>
-    <episode-num system="onscreen">S1 E2</episode-num>
-    <credits>
-      <actor>Kevin Mitchell</actor>
-      <actor>David Shields</actor>
-    </credits><date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Documentary</category>
-    <category lang="en">Cooking</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p32692282_st_h10_aa.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p241428_b_h8_ac.jpg?w=960&amp;h=540" />
     <rating system="USA Parental Rating">
       <value>TVPG</value>
     </rating><rating system="Canadian Parental Rating">
       <value>PG</value>
-    </rating>
-  </programme><programme channel="PBS13-WNET-US" start="20260518010000 +0500" stop="20260518013000 +0500">
-    <title>Cook's Country</title>
-    <sub-title>Flavorful Chicken Fonduta</sub-title>
-    <desc>Grilled hilltribe chicken with kua txob; the difference between fondue and fonduta; refreshing tomatoes with fontina sauce and cornichon dressing.</desc>
-    <episode-num system="onscreen">S18 E24</episode-num>
-    <credits>
-      <actor>Bridget Lancaster</actor>
-      <actor>Julia Collin Davison</actor>
-      <actor>Toni Tipton-Martin</actor>
-    </credits><date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Cooking</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p10942991_b_h10_aa.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>G</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating>
-  </programme><programme channel="PBS13-WNET-US" start="20260518013000 +0500" stop="20260518020000 +0500">
-    <title>Christopher Kimball's Milk Street Television</title>
-    <sub-title>Everyone Is Wrong About Pie!</sub-title>
-    <desc>Pie pastry; pumpkin pie with a caramelized pumpkin filling; blind baking; pie pan performance; a freeform three berry crostata.</desc>
-    <episode-num system="onscreen">S9 E9</episode-num>
-    <credits>
-      <actor>Christopher Kimball</actor>
-    </credits><date>2025</date>
-    <category lang="en">Series</category>
-    <category lang="en">How-to</category>
-    <category lang="en">Cooking</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p14396903_b_h8_ab.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>G</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating>
-  </programme><programme channel="PBS13-WNET-US" start="20260518020000 +0500" stop="20260518023000 +0500">
-    <title>America's Test Kitchen</title>
-    <sub-title>Tandoori Salmon and Broiled Zucchini</sub-title>
-    <desc>A flavorful tandoori salmon; favorite kitchen gadgets under $15; a tasting of yogurt; broiled smashed zucchini with garlicky yogurt.</desc>
-    <episode-num system="onscreen">S26 E24</episode-num>
-    <credits>
-      <actor>Bridget Lancaster</actor>
-      <actor>Julia Collin Davison</actor>
-    </credits><date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">How-to</category>
-    <category lang="en">Cooking</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p329265_b_h10_aa.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>G</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating>
-  </programme><programme channel="PBS13-WNET-US" start="20260518023000 +0500" stop="20260518030000 +0500">
-    <title>Lidia's Kitchen</title>
-    <sub-title>Time to Evolve</sub-title>
-    <desc>Tomato soup with fregola and clams; avocado and tomato salad with balsamic and mozzarella; rigatoni with turkey meatballs.</desc>
-    <episode-num system="onscreen">S12 E12</episode-num>
-    <credits>
-      <actor>Lidia Bastianich</actor>
-    </credits><date>2024</date>
-    <category lang="en">Series</category>
-    <category lang="en">Cooking</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p28148641_b_h10_aa.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>G</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="Australian Classification Board">
-      <value>PG</value>
-    </rating>
-  </programme><programme channel="PBS13-WNET-US" start="20260518030000 +0500" stop="20260518033000 +0500">
-    <title>History With David Rubenstein</title>
-    <sub-title>Rick Atkinson</sub-title>
-    <desc>Author and historian Rick Atkinson discusses the American Revolution.</desc>
-    <episode-num system="onscreen">S7 E2</episode-num>
-    <credits>
-      <actor>David Rubenstein</actor>
-      <actor>Rick Atkinson</actor>
-    </credits><date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Interview</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p18342437_b_h10_ab.jpg?w=960&amp;h=540" />
-    <rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>G</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating>
-  </programme><programme channel="PBS13-WNET-US" start="20260518033000 +0500" stop="20260518040000 +0500">
-    <title>Life Unearthed With Ariel Waldman</title>
-    <sub-title>Antarctica: Life Under the Ice</sub-title>
-    <desc>Set in Antarctica's Dry Valleys, Antarctica's glacial and icy ecosystems reveal how frozen landscapes can sustain surprising life forms.</desc>
-    <episode-num system="onscreen">S1 E2</episode-num>
-    <credits>
-      <actor>Ariel Waldman</actor>
-    </credits><date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Documentary</category>
-    <category lang="en">Science</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p32474783_b_h8_aa.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating>
-  </programme><programme channel="PBS13-WNET-US" start="20260518040000 +0500" stop="20260518050000 +0500">
-    <title>Beyond Paradise</title>
-    <sub-title />
-    <desc>Humphrey and his team are baffled by the mysterious disappearance of an entire family; Martha prepares for the launch of her café but is thrown when a face from the past shows up.</desc>
-    <episode-num system="onscreen">S1 E2</episode-num>
-    <credits>
-      <director>Sandy Johnson</director>
-      <actor>Kris Marshall</actor>
-      <actor>Sally Bretton</actor>
-      <actor>Zahra Ahmadi</actor>
-    </credits><date>2023</date>
-    <category lang="en">Series</category>
-    <category lang="en">Mystery</category>
-    <category lang="en">Crime drama</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p23948026_b_h10_ao.jpg?w=960&amp;h=540" />
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating>
-  </programme><programme channel="PBS13-WNET-US" start="20260518050000 +0500" stop="20260518060000 +0500">
-    <title>Lucy Worsley's Royal Myths &amp; Secrets</title>
-    <sub-title>Elizabeth I, The Warrior Queen</sub-title>
-    <desc>Elizabeth I's image as a warrior queen, facilitated by myths and secrets about her victory over the Spanish Armada, shaped British national identity for centuries.</desc>
-    <episode-num system="onscreen">S1 E2</episode-num>
-    <credits>
-      <director>Laura Blount</director>
-      <actor>Lucy Worsley</actor>
-    </credits><date>2020</date>
-    <category lang="en">Series</category>
-    <category lang="en">Documentary</category>
-    <category lang="en">History</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p17949554_b_h10_ar.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>10</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
-    </rating>
-  </programme><programme channel="PBS13-WNET-US" start="20260518060000 +0500" stop="20260518070000 +0500">
-    <title>MaryLand on Masterpiece</title>
-    <sub-title />
-    <desc>Everything comes to a head as Richard and Jim descend on Bayview; the family tries to heal and reconnect; the fallout from Mary's actions continues to reverberate.</desc>
-    <episode-num system="onscreen">S1 E3</episode-num>
-    <credits>
-      <director>Sue Tully</director>
-      <actor>Suranne Jones</actor>
-      <actor>Eve Best</actor>
-      <actor>Hugh Quarshie</actor>
-    </credits><date>2023</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Miniseries</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p24729882_b_h8_ac.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating><rating system="Kijkwijzer">
-      <value>12</value>
-    </rating>
-  </programme><programme channel="PBS13-WNET-US" start="20260518070000 +0500" stop="20260518083000 +0500">
-    <title>Downton Abbey on Masterpiece</title>
-    <sub-title />
-    <desc>When the Titanic goes down, Lord Grantham loses his heirs, and Mary loses her fiance.</desc>
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <credits>
-      <director>Brian Percival</director>
-      <actor>Maggie Smith</actor>
-      <actor>Hugh Bonneville</actor>
-      <actor>Elizabeth McGovern</actor>
-    </credits><date>2010</date>
-    <category lang="en">Series</category>
-    <category lang="en">Historical drama</category>
-    <category lang="en">Drama</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p8312617_b_h8_ak.jpg?w=960&amp;h=540" />
-    <rating system="Freiwillige Selbstkontrolle Fernsehen">
-      <value>12</value>
-    </rating><rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>16</value>
-    </rating><rating system="Kijkwijzer">
-      <value>AL</value>
-    </rating><rating system="방송통신심의위원회">
-      <value>15</value>
-    </rating>
-  </programme><programme channel="PBS13-WNET-US" start="20260518083000 +0500" stop="20260518093000 +0500">
-    <title>Murder in the Mountains</title>
-    <sub-title>Blood Ties</sub-title>
-    <desc>Hannes runs into an old friend when the Countess goes harp shopping in a sleepy town that has caught the attention of a scientist.</desc>
-    <episode-num system="onscreen">S14 E6</episode-num>
-    <credits>
-      <director>Michael Zens</director>
-      <director>Gerald Liegel</director>
-      <director>Martin Kinkel</director>
-      <actor>Kristina Sprenger</actor>
-      <actor>Heinz Marecek</actor>
-      <actor>Andrea L'Arronge</actor>
-    </credits><date>2015</date>
-    <category lang="en">Series</category>
-    <category lang="en">Crime</category>
-    <category lang="en">Crime drama</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p9370388_b_h8_ap.jpg?w=960&amp;h=540" />
-    <rating system="Freiwillige Selbstkontrolle Fernsehen">
-      <value>12</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>14+</value>
     </rating>
   </programme>
 </tv>

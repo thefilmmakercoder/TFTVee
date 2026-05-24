@@ -1,507 +1,479 @@
 <?xml version='1.0' encoding='utf-8'?>
 <tv>
   <channel id="7-Sydney-AU">
-    <display-name>7 Sydney</display-name>
-    <icon src="https://thefilmtuition.com/tvlogo/7-Sydney-AU.png" />
-  </channel><programme channel="7-Sydney-AU" start="20260516020000 +0500" stop="20260516050000 +0500">
-    <title>Weekend Sunrise</title>
-    <sub-title>Saturday 16 May 2026</sub-title>
-    <desc>Wake up to a better breakfast with the Weekend Sunrise team for all the latest entertainment, news, sport and weather.</desc>
-    <episode-num system="onscreen">S26 E20</episode-num>
-    <category lang="en">Sports</category>
+    <icon src="https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/7-Sydney-AU.png" />
+    <url>https://tv.thefilmtuition.com</url>
+    <display-name>Channel 7</display-name>
+  </channel><programme channel="7-Sydney-AU" start="20260522220000 +0500" stop="20260522223000 +0500">
+    <title>Home Shopping</title>
+    <sub-title>Power XL Grill AirFryer Combo (PXGA2</sub-title>
+    <desc>Shopping program.</desc>
+    <episode-num system="onscreen">S1 E94</episode-num>
     <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/178481/image/334x188" />
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme><programme channel="7-Sydney-AU" start="20260516050000 +0500" stop="20260516070000 +0500">
-    <title>The Morning Show - Weekend</title>
-    <sub-title />
-    <desc>Join Larry Emdur and Kylie Gillies to catch up on all the highlights from this week's program, including a variety of segments on the latest news and entertainment.</desc>
-    <episode-num system="onscreen">S26 E17</episode-num>
-    <category lang="en">Sports</category>
+  </programme><programme channel="7-Sydney-AU" start="20260522223000 +0500" stop="20260522230000 +0500">
+    <title>Home Shopping</title>
+    <sub-title>Belena Air Stretch (A2830BMM08DOA)</sub-title>
+    <desc>Shopping program.</desc>
+    <episode-num system="onscreen">S1 E269</episode-num>
     <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/287624/image/334x188" />
-    <rating system="AU">
-      <value>PG</value>
-    </rating>
-  </programme><programme channel="7-Sydney-AU" start="20260516070000 +0500" stop="20260516120000 +0500">
-    <title>Seven's Horse Racing</title>
-    <sub-title>Scone/Flemington/Doomben</sub-title>
-    <desc>Live coverage of horse racing every Saturday.</desc>
-    <episode-num system="onscreen">S26 E22</episode-num>
-    <category lang="en">Sports</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/293644/image/334x188" />
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme><programme channel="7-Sydney-AU" start="20260516120000 +0500" stop="20260516123000 +0500">
-    <title>Seven News At 5</title>
-    <sub-title>Saturday 16 May 2026</sub-title>
-    <desc>Get the latest news, sport and weather from Australia and around the world.</desc>
-    <episode-num system="onscreen">S26 E39</episode-num>
-    <category lang="en">Sports</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/17254901/image/334x188" />
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme><programme channel="7-Sydney-AU" start="20260516123000 +0500" stop="20260516130000 +0500">
-    <title>Border Security - Australia's Front Line</title>
-    <sub-title />
-    <desc>Go behind the scenes of our Immigration, Customs, and Quarantine departments.</desc>
-    <episode-num system="onscreen">S1 E174</episode-num>
-    <category lang="en">Special Interest</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/172693/image/334x188" />
-    <rating system="AU">
-      <value>PG</value>
-    </rating>
-  </programme><programme channel="7-Sydney-AU" start="20260516130000 +0500" stop="20260516140000 +0500">
-    <title>7NEWS</title>
-    <sub-title>Saturday 16 May 2026</sub-title>
-    <desc>Seven News live coverage of local, national and international news, plus sport, finance and weather updates. Go to 7NEWS.com.au today for more live updates.</desc>
-    <episode-num system="onscreen">S26 E136</episode-num>
-    <category lang="en">Sports</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/132538/image/334x188" />
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme><programme channel="7-Sydney-AU" start="20260516140000 +0500" stop="20260516150000 +0500">
-    <title>Better Homes And Gardens</title>
-    <sub-title />
-    <desc>Joh visits Brae Restaurant to share its unique approach to cooking and produce. Charlie shows us a checklist to help with trouble spots around the garden. Dr Harry meets Denis the donkey.</desc>
-    <episode-num system="onscreen">S32 E25</episode-num>
-    <category lang="en">Special Interest</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/133227/image/334x188" />
-    <rating system="AU">
-      <value>G</value>
-    </rating>
-  </programme><programme channel="7-Sydney-AU" start="20260516150000 +0500" stop="20260516153000 +0500">
-    <title>Ooops I Bought A Pub!</title>
-    <sub-title />
-    <desc>Shane realises the scale of renovating a 150-year-old pub as a wedding looms just 7 weeks away. With the kitchen closed, a food truck rolls in, but the pressure is only just beginning.</desc>
-    <episode-num system="onscreen">S1 E3</episode-num>
-    <category lang="en">Special Interest</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/19294944/image/334x188" />
-    <rating system="AU">
-      <value>PG</value>
-    </rating>
-  </programme><programme channel="7-Sydney-AU" start="20260516153000 +0500" stop="20260516180000 +0500">
-    <title>The Day After Tomorrow</title>
-    <sub-title />
-    <desc>A climatologist must save the world from the catastrophic effects of abrupt climate change, including the possible onset of a new ice age, while trying to get back to his young son in New York City as a deadly snowstorm approaches.</desc>
-    <category lang="en">Action &amp; Adventure</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/1485542/image/334x188" />
-    <rating system="AU">
-      <value>M</value>
-    </rating>
-  </programme><programme channel="7-Sydney-AU" start="20260516180000 +0500" stop="20260516190000 +0500">
-    <title>SAS: AUS v ENG</title>
-    <sub-title>Composure</sub-title>
-    <desc>Recruits must maintain their composure in a ladder crossing task before working up a sweat during a kit resupply task through a mountainous canyon.</desc>
-    <episode-num system="onscreen">S8 E3</episode-num>
-    <category lang="en">Special Interest</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/19709224/image/334x188" />
-    <rating system="AU">
-      <value>M</value>
-    </rating>
-  </programme><programme channel="7-Sydney-AU" start="20260516190000 +0500" stop="20260516200000 +0500">
-    <title>Devils</title>
-    <sub-title />
-    <desc>Massimo and his team vow to discover the truth about Brexit’s tragic aftermath.</desc>
-    <episode-num system="onscreen">S2 E2</episode-num>
-    <category lang="en">Drama</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/400461/image/334x188" />
-    <rating system="AU">
-      <value>MA</value>
-    </rating>
-  </programme><programme channel="7-Sydney-AU" start="20260516200000 +0500" stop="20260516210000 +0500">
-    <title>Devils</title>
-    <sub-title />
-    <desc>Deeply shaken, Massimo tries to determine if Dominic is secretly handling business for Gaddafi, against whom the Libyan War has now been launched.</desc>
-    <episode-num system="onscreen">S2 E3</episode-num>
-    <category lang="en">Drama</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/400461/image/334x188" />
-    <rating system="AU">
-      <value>MA</value>
-    </rating>
-  </programme><programme channel="7-Sydney-AU" start="20260516210000 +0500" stop="20260516213000 +0500">
-    <title>TBA</title>
-    <desc>TBA.</desc>
-    <category lang="en">Sports</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/3647443/image/334x188" />
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme><programme channel="7-Sydney-AU" start="20260516213000 +0500" stop="20260516220000 +0500">
-    <title>TBA</title>
-    <desc>TBA.</desc>
-    <category lang="en">Sports</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/3647443/image/334x188" />
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme><programme channel="7-Sydney-AU" start="20260516220000 +0500" stop="20260516223000 +0500">
-    <title>TBA</title>
-    <desc>TBA.</desc>
-    <category lang="en">Sports</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/3647443/image/334x188" />
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme><programme channel="7-Sydney-AU" start="20260516223000 +0500" stop="20260516230000 +0500">
-    <title>TBA</title>
-    <desc>TBA.</desc>
-    <category lang="en">Sports</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/3647443/image/334x188" />
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme><programme channel="7-Sydney-AU" start="20260516230000 +0500" stop="20260516233000 +0500">
-    <title>It's Academic</title>
-    <sub-title />
-    <desc>Simon Reeve hosts all new episodes of the educational and entertaining show where schools compete to win cash and prizes.</desc>
-    <episode-num system="onscreen">S20 E10</episode-num>
-    <category lang="en">Special Interest</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/141113/image/334x188" />
-    <rating system="AU">
-      <value>G</value>
-    </rating>
-  </programme><programme channel="7-Sydney-AU" start="20260516233000 +0500" stop="20260517000000 +0500">
-    <title>It's Academic</title>
-    <sub-title />
-    <desc>Simon Reeve hosts all new episodes of the educational and entertaining show where schools compete to win cash and prizes.</desc>
-    <episode-num system="onscreen">S20 E11</episode-num>
-    <category lang="en">Special Interest</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/141113/image/334x188" />
-    <rating system="AU">
-      <value>G</value>
-    </rating>
-  </programme><programme channel="7-Sydney-AU" start="20260517000000 +0500" stop="20260517010000 +0500">
-    <title>House Of Wellness</title>
-    <sub-title />
-    <desc>Join Mel Doyle and Shane Crawford where no topic is off limits from mental health, innovations in health, treatments for common illnesses, natural medicines, and explorations into food.</desc>
-    <episode-num system="onscreen">S11 E7</episode-num>
-    <category lang="en">Special Interest</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/363692/image/334x188" />
-    <rating system="AU">
-      <value>PG</value>
-    </rating>
-  </programme><programme channel="7-Sydney-AU" start="20260517010000 +0500" stop="20260517020000 +0500">
-    <title>NBC Today</title>
-    <sub-title>Sunday 17 May 2026</sub-title>
-    <desc>International news and weather including interviews with newsmakers in the world of politics, business, media, entertainment and sport.</desc>
-    <episode-num system="onscreen">S26 E136</episode-num>
-    <category lang="en">Sports</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/132440/image/334x188" />
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme><programme channel="7-Sydney-AU" start="20260517020000 +0500" stop="20260517050000 +0500">
-    <title>Weekend Sunrise</title>
-    <sub-title>Sunday 17 May 2026</sub-title>
-    <desc>Wake up to a better breakfast with the Weekend Sunrise team for all the latest entertainment, news, sport and weather.</desc>
-    <episode-num system="onscreen">S26 E20</episode-num>
-    <category lang="en">Sports</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/178481/image/334x188" />
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme><programme channel="7-Sydney-AU" start="20260517050000 +0500" stop="20260517070000 +0500">
-    <title>The Morning Show - Weekend</title>
-    <sub-title />
-    <desc>Join Larry Emdur and Kylie Gillies to catch up on all the highlights from this week's program, including a variety of segments on the latest news and entertainment.</desc>
-    <episode-num system="onscreen">S26 E17</episode-num>
-    <category lang="en">News</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/287624/image/334x188" />
-    <rating system="AU">
-      <value>PG</value>
-    </rating>
-  </programme><programme channel="7-Sydney-AU" start="20260517070000 +0500" stop="20260517093000 +0500">
-    <title>Sunday Footy Feast</title>
-    <sub-title />
-    <desc>Catch up on the key stories from the round so far, plus hear from players around the country with the inside word on the game.</desc>
-    <episode-num system="onscreen">S26 E10</episode-num>
-    <category lang="en">Sports</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/435026/image/334x188" />
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme><programme channel="7-Sydney-AU" start="20260517093000 +0500" stop="20260517103000 +0500">
-    <title>House Of Wellness</title>
-    <sub-title />
-    <desc>Join Mel Doyle and Shane Crawford where no topic is off limits from mental health, innovations in health, treatments for common illnesses, natural medicines, and explorations into food.</desc>
-    <episode-num system="onscreen">S11 E7</episode-num>
-    <category lang="en">Special Interest</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/363692/image/334x188" />
-    <rating system="AU">
-      <value>PG</value>
-    </rating>
-  </programme><programme channel="7-Sydney-AU" start="20260517103000 +0500" stop="20260517110000 +0500">
-    <title>Border Security: International</title>
-    <sub-title />
-    <desc>A bus passenger presents curious concoctions at JFK Airport. A Chicago canine sniffs out a stash of cash. A Canadian vehicle may be far too seedy to enter Detroit.</desc>
-    <episode-num system="onscreen">S1 E10</episode-num>
-    <category lang="en">Special Interest</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/17115286/image/334x188" />
-    <rating system="AU">
-      <value>PG</value>
-    </rating>
-  </programme><programme channel="7-Sydney-AU" start="20260517110000 +0500" stop="20260517120000 +0500">
-    <title>Better Homes And Gardens</title>
-    <sub-title />
-    <desc>Joh's meeting up with Rick Stein to talk about his latest restaurant venture. Adam shows you how to build a handrail for stairs. Wait until you try Clarissa's homemade banana doughnuts!</desc>
-    <episode-num system="onscreen">S32 E13</episode-num>
-    <category lang="en">Special Interest</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/133227/image/334x188" />
-    <rating system="AU">
-      <value>G</value>
-    </rating>
-  </programme><programme channel="7-Sydney-AU" start="20260517120000 +0500" stop="20260517123000 +0500">
-    <title>Seven News At 5</title>
-    <sub-title>Sunday 17 May 2026</sub-title>
-    <desc>Get the latest news, sport and weather from Australia and around the world.</desc>
-    <episode-num system="onscreen">S26 E40</episode-num>
-    <category lang="en">News</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/17254901/image/334x188" />
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme><programme channel="7-Sydney-AU" start="20260517123000 +0500" stop="20260517130000 +0500">
-    <title>Sydney Weekender</title>
-    <desc>Anastasia the Musical is a charming, modern, and for the whole family. \nImmerse yourself as the Banksy Limitless Exhibition hits Sydney. \nDiscover the Goulburn Glow as autumn paints the countryside.</desc>
-    <episode-num system="onscreen">S33 E15</episode-num>
-    <category lang="en">Special Interest</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/131582/image/334x188" />
-    <rating system="AU">
-      <value>G</value>
-    </rating>
-  </programme><programme channel="7-Sydney-AU" start="20260517130000 +0500" stop="20260517140000 +0500">
-    <title>7NEWS</title>
-    <sub-title>Sunday 17 May 2026</sub-title>
-    <desc>Seven News live coverage of local, national and international news, plus sport, finance and weather updates. Go to 7NEWS.com.au today for more live updates.</desc>
-    <episode-num system="onscreen">S26 E137</episode-num>
-    <category lang="en">News</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/132538/image/334x188" />
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme><programme channel="7-Sydney-AU" start="20260517140000 +0500" stop="20260517150000 +0500">
-    <title>The 1% Club</title>
-    <sub-title />
-    <desc>Jim Jefferies, Australia's boldest stand-up comedian, hosts Australia's biggest game show, The 1% Club. With $100,000 on the line, 100 contestants compete in the quiz show that will keep you laughing.</desc>
-    <episode-num system="onscreen">S4 E14</episode-num>
-    <category lang="en">Special Interest</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/415993/image/334x188" />
-    <rating system="AU">
-      <value>PG</value>
-    </rating>
-  </programme><programme channel="7-Sydney-AU" start="20260517150000 +0500" stop="20260517160000 +0500">
-    <title>7NEWS Spotlight</title>
-    <sub-title>Sunday 17 May 2026</sub-title>
-    <desc>A series of investigative specials focusing on major breaking news events and long-form investigations of national significance.</desc>
-    <episode-num system="onscreen">S26 E5</episode-num>
-    <category lang="en">News</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/5887459/image/334x188" />
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme><programme channel="7-Sydney-AU" start="20260517160000 +0500" stop="20260517175000 +0500">
-    <title>Child Snatchers: A Day At The Fair</title>
-    <sub-title />
-    <desc>A look at the disappearance of 7 year old Mark Tildesley from a funfair in 1984. Featuring interviews with key police officers involved in the case, plus family members of other victims.</desc>
-    <category lang="en">Special Interest</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/9715266/image/334x188" />
-    <rating system="AU">
-      <value>MA</value>
-    </rating>
-  </programme><programme channel="7-Sydney-AU" start="20260517175000 +0500" stop="20260517190000 +0500">
-    <title>24 Hours In Police Custody</title>
-    <sub-title>Knifed</sub-title>
-    <desc>Detectives race to the scene of a stabbing in broad daylight in a busy shopping centre. Meanwhile, on a suburban street an 18-year-old man is attacked and stabbed by 4 young men.</desc>
-    <episode-num system="onscreen">S4 E16</episode-num>
-    <category lang="en">Special Interest</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/329505/image/334x188" />
-    <rating system="AU">
-      <value>M</value>
-    </rating>
-  </programme><programme channel="7-Sydney-AU" start="20260517190000 +0500" stop="20260517201500 +0500">
-    <title>Jack &amp; Bobby</title>
-    <sub-title>The Great Deceiver</sub-title>
-    <desc>For the second time, Jan is a missing person, as \.</desc>
-    <episode-num system="onscreen">S1 E7</episode-num>
-    <category lang="en">Drama</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/18856394/image/334x188" />
-    <rating system="AU">
-      <value>MA</value>
-    </rating>
-  </programme><programme channel="7-Sydney-AU" start="20260517201500 +0500" stop="20260517210000 +0500">
-    <title>Harry's Practice</title>
-    <sub-title>Chapter 114 season 1</sub-title>
-    <desc>Join Dr Harry Cooper and Dr Katrina Warren for everything you need to know about animals.</desc>
-    <episode-num system="onscreen">S1 E114</episode-num>
-    <category lang="en">Special Interest</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/132203/image/334x188" />
-    <rating system="AU">
-      <value>G</value>
-    </rating>
-  </programme><programme channel="7-Sydney-AU" start="20260517210000 +0500" stop="20260517213000 +0500">
-    <title>TBA</title>
-    <desc>TBA.</desc>
-    <category lang="en">News</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/3647443/image/334x188" />
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme><programme channel="7-Sydney-AU" start="20260517213000 +0500" stop="20260517220000 +0500">
-    <title>TBA</title>
-    <desc>TBA.</desc>
-    <category lang="en">News</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/3647443/image/334x188" />
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme><programme channel="7-Sydney-AU" start="20260517220000 +0500" stop="20260517223000 +0500">
-    <title>TBA</title>
-    <desc>TBA.</desc>
-    <category lang="en">News</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/3647443/image/334x188" />
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme><programme channel="7-Sydney-AU" start="20260517223000 +0500" stop="20260517230000 +0500">
+  </programme><programme channel="7-Sydney-AU" start="20260522230000 +0500" stop="20260522233000 +0500">
     <title>Million Dollar Minute</title>
     <sub-title />
     <desc>Million Dollar Minute is a battle of general knowledge, where every correct answer is a step closer to the ultimate test: Can one person, in one minute, win one million dollars?</desc>
-    <episode-num system="onscreen">S1 E4</episode-num>
+    <episode-num system="onscreen">S1 E5</episode-num>
     <category lang="en">Special Interest</category>
     <language>en</language>
     <icon src="https://www.fetchtv.com.au/v2/epg/program/302978/image/334x188" />
     <rating system="AU">
       <value>G</value>
     </rating>
-  </programme><programme channel="7-Sydney-AU" start="20260517230000 +0500" stop="20260518000000 +0500">
+  </programme><programme channel="7-Sydney-AU" start="20260522233000 +0500" stop="20260523000000 +0500">
+    <title>Million Dollar Minute</title>
+    <sub-title />
+    <desc>Million Dollar Minute is a battle of general knowledge, where every correct answer is a step closer to the ultimate test: Can one person, in one minute, win one million dollars?</desc>
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/302978/image/334x188" />
+    <rating system="AU">
+      <value>G</value>
+    </rating>
+  </programme><programme channel="7-Sydney-AU" start="20260523000000 +0500" stop="20260523010000 +0500">
     <title>NBC Today</title>
-    <sub-title>Monday 18 May 2026</sub-title>
+    <sub-title>Saturday 23 May 2026</sub-title>
     <desc>International news and weather including interviews with newsmakers in the world of politics, business, media, entertainment and sport.</desc>
-    <episode-num system="onscreen">S26 E137</episode-num>
+    <episode-num system="onscreen">S26 E142</episode-num>
     <category lang="en">News</category>
     <language>en</language>
     <icon src="https://www.fetchtv.com.au/v2/epg/program/132440/image/334x188" />
     <rating system="AU">
       <value>NR</value>
     </rating>
-  </programme><programme channel="7-Sydney-AU" start="20260518000000 +0500" stop="20260518003000 +0500">
-    <title>Sunrise Early News</title>
-    <sub-title>Monday 18 May 2026</sub-title>
-    <desc>Wake up to a better breakfast with Edwina Bartholomew for all the latest news, sport and weather.</desc>
-    <episode-num system="onscreen">S26 E98</episode-num>
+  </programme><programme channel="7-Sydney-AU" start="20260523010000 +0500" stop="20260523020000 +0500">
+    <title>NBC Today</title>
+    <sub-title>Saturday 23 May 2026</sub-title>
+    <desc>International news and weather including interviews with newsmakers in the world of politics, business, media, entertainment and sport.</desc>
+    <episode-num system="onscreen">S26 E142</episode-num>
     <category lang="en">News</category>
     <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/434344/image/334x188" />
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/132440/image/334x188" />
     <rating system="AU">
       <value>NR</value>
     </rating>
-  </programme><programme channel="7-Sydney-AU" start="20260518003000 +0500" stop="20260518010000 +0500">
-    <title>Sunrise</title>
-    <sub-title>Monday 18 May 2026</sub-title>
-    <desc>Wake up to a better breakfast with Natalie Barr and Matt Shirvington for all the latest news, sport and weather.</desc>
-    <episode-num system="onscreen">S26 E98</episode-num>
+  </programme><programme channel="7-Sydney-AU" start="20260523020000 +0500" stop="20260523050000 +0500">
+    <title>Weekend Sunrise</title>
+    <sub-title>Saturday 23 May 2026</sub-title>
+    <desc>Wake up to a better breakfast with the Weekend Sunrise team for all the latest entertainment, news, sport and weather.</desc>
+    <episode-num system="onscreen">S26 E21</episode-num>
     <category lang="en">News</category>
     <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/132592/image/334x188" />
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/178481/image/334x188" />
     <rating system="AU">
       <value>NR</value>
     </rating>
-  </programme><programme channel="7-Sydney-AU" start="20260518010000 +0500" stop="20260518040000 +0500">
-    <title>Sunrise</title>
-    <sub-title>Monday 18 May 2026</sub-title>
-    <desc>Wake up to a better breakfast with Natalie Barr and Matt Shirvington for all the latest news, sport and weather.</desc>
-    <episode-num system="onscreen">S26 E98</episode-num>
-    <category lang="en">News</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/132592/image/334x188" />
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme><programme channel="7-Sydney-AU" start="20260518040000 +0500" stop="20260518070000 +0500">
-    <title>The Morning Show</title>
+  </programme><programme channel="7-Sydney-AU" start="20260523050000 +0500" stop="20260523070000 +0500">
+    <title>The Morning Show - Weekend</title>
     <sub-title />
-    <desc>Join Larry Emdur and Kylie Gillies each morning for a variety of segments on the latest news, entertainment and other hot topics.</desc>
-    <episode-num system="onscreen">S26 E86</episode-num>
-    <category lang="en">Special Interest</category>
+    <desc>Join Larry Emdur and Kylie Gillies to catch up on all the highlights from this week's program, including a variety of segments on the latest news and entertainment.</desc>
+    <episode-num system="onscreen">S26 E18</episode-num>
+    <category lang="en">News</category>
     <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/206396/image/334x188" />
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/287624/image/334x188" />
     <rating system="AU">
       <value>PG</value>
     </rating>
-  </programme><programme channel="7-Sydney-AU" start="20260518070000 +0500" stop="20260518080000 +0500">
-    <title>Seven's National News At Noon</title>
-    <sub-title>Monday 18 May 2026</sub-title>
-    <desc>Seven News live coverage of local, national and international news, plus sport, finance and weather updates. Go to 7NEWS.com.au today for more live updates.</desc>
-    <episode-num system="onscreen">S26 E76</episode-num>
-    <category lang="en">News</category>
+  </programme><programme channel="7-Sydney-AU" start="20260523070000 +0500" stop="20260523120000 +0500">
+    <title>Seven's Horse Racing</title>
+    <sub-title>Randwick/Sandown/Doomben</sub-title>
+    <desc>Live coverage of horse racing every Saturday.</desc>
+    <episode-num system="onscreen">S26 E23</episode-num>
+    <category lang="en">Sports</category>
     <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/434212/image/334x188" />
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/293644/image/334x188" />
     <rating system="AU">
       <value>NR</value>
     </rating>
-  </programme><programme channel="7-Sydney-AU" start="20260518080000 +0500" stop="20260518080200 +0500">
-    <title>Seven News With Alex Cullen</title>
-    <sub-title>Monday 18 May 2026</sub-title>
-    <desc>Join Alex Cullen for all the latest news headlines, as he kicks off Seven's Winning Arvo featuring an entertaining lineup of quiz shows and news updates every hour.</desc>
-    <episode-num system="onscreen">S26 E76</episode-num>
+  </programme><programme channel="7-Sydney-AU" start="20260523120000 +0500" stop="20260523123000 +0500">
+    <title>Seven News At 5</title>
+    <sub-title>Saturday 23 May 2026</sub-title>
+    <desc>Get the latest news, sport and weather from Australia and around the world.</desc>
+    <episode-num system="onscreen">S26 E41</episode-num>
     <category lang="en">News</category>
     <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/438848/image/334x188" />
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/17254901/image/334x188" />
     <rating system="AU">
       <value>NR</value>
     </rating>
-  </programme><programme channel="7-Sydney-AU" start="20260518080200 +0500" stop="20260518090000 +0500">
-    <title>Time Is Money</title>
+  </programme><programme channel="7-Sydney-AU" start="20260523123000 +0500" stop="20260523130000 +0500">
+    <title>Border Security - Australia's Front Line</title>
     <sub-title />
-    <desc>Sara Davies hosts the quickest quiz where contestants are given their prize money from the start but must race to keep hold of it. Only one can make the final and a chance to win big.</desc>
+    <desc>A woman who's just had her breasts enhanced on holidays is caught carrying vials of drugs. An unsuspecting passenger has a run-in with a relentless officer. Officers find an animal's head in the mail.</desc>
+    <episode-num system="onscreen">S1 E175</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/172693/image/334x188" />
+    <rating system="AU">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="7-Sydney-AU" start="20260523130000 +0500" stop="20260523140000 +0500">
+    <title>7NEWS</title>
+    <sub-title>Saturday 23 May 2026</sub-title>
+    <desc>Seven News live coverage of local, national and international news, plus sport, finance and weather updates. Go to 7NEWS.com.au today for more live updates.</desc>
+    <episode-num system="onscreen">S26 E143</episode-num>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/132538/image/334x188" />
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme><programme channel="7-Sydney-AU" start="20260523140000 +0500" stop="20260523150000 +0500">
+    <title>Better Homes And Gardens</title>
+    <sub-title />
+    <desc>Sam's out to prove that making healthy choices doesn't mean overhauling your whole life. There are some simple swaps you can integrate into your life to improve your health and fitness without even noticing.</desc>
+    <episode-num system="onscreen">S32 E27</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/133227/image/334x188" />
+    <rating system="AU">
+      <value>G</value>
+    </rating>
+  </programme><programme channel="7-Sydney-AU" start="20260523150000 +0500" stop="20260523153000 +0500">
+    <title>Ooops I Bought A Pub!</title>
+    <sub-title />
+    <desc>Locals remind Shane what’s at stake if the pub loses its charm. A weekend at the footy and netball reveals the town’s true spirit, where heart matters more than the score.</desc>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/19294944/image/334x188" />
+    <rating system="AU">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="7-Sydney-AU" start="20260523153000 +0500" stop="20260523183500 +0500">
+    <title>Armageddon</title>
+    <sub-title />
+    <desc>When NASA's executive director, Dan Truman, realizes the Earth has 18 days before it's obliterated by a meteor the size of Texas, he has only one option—enlist the help of roughneck oil driller Harry Stamper and his misfit band of drillers and geologists. Soon Harry and his crew are launched into space. Their mission—drop a nuclear warhead into the meteor's core before it annihilates Earth.</desc>
+    <category lang="en">Action &amp; Adventure</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/1181633/image/334x188" />
+    <rating system="AU">
+      <value>M</value>
+    </rating>
+  </programme><programme channel="7-Sydney-AU" start="20260523183500 +0500" stop="20260523193500 +0500">
+    <title>SAS: AUS v ENG</title>
+    <sub-title>Breaking Point</sub-title>
+    <desc>A pre-task beasting proves too much for one recruit before they rappel down a dam. Later, they're tasked with evacuating a casualty from an abandoned village.</desc>
+    <episode-num system="onscreen">S8 E4</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/19709224/image/334x188" />
+    <rating system="AU">
+      <value>M</value>
+    </rating>
+  </programme><programme channel="7-Sydney-AU" start="20260523193500 +0500" stop="20260523203500 +0500">
+    <title>Repco Supercars Highlights</title>
+    <sub-title>Tasmania Super 440 - Day 1 - Highlig</sub-title>
+    <desc>Catch all the highlights as the Supercars return to Symmons Plains Raceway in Tasmania for Round 5.</desc>
+    <episode-num system="onscreen">S26 E10</episode-num>
+    <category lang="en">Sports</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/1717986/image/334x188" />
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme><programme channel="7-Sydney-AU" start="20260523203500 +0500" stop="20260523213000 +0500">
+    <title>Devils</title>
+    <sub-title />
+    <desc>The battle lines are drawn between NYL and Dominic’s new company -- with former colleagues and friends pitted against one another.</desc>
+    <episode-num system="onscreen">S2 E4</episode-num>
+    <category lang="en">Drama</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/400461/image/334x188" />
+    <rating system="AU">
+      <value>MA</value>
+    </rating>
+  </programme><programme channel="7-Sydney-AU" start="20260523213000 +0500" stop="20260523220000 +0500">
+    <title>TBA</title>
+    <desc>TBA.</desc>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/3647443/image/334x188" />
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme><programme channel="7-Sydney-AU" start="20260523220000 +0500" stop="20260523223000 +0500">
+    <title>TBA</title>
+    <desc>TBA.</desc>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/3647443/image/334x188" />
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme><programme channel="7-Sydney-AU" start="20260523223000 +0500" stop="20260523230000 +0500">
+    <title>TBA</title>
+    <desc>TBA.</desc>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/3647443/image/334x188" />
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme><programme channel="7-Sydney-AU" start="20260523230000 +0500" stop="20260523233000 +0500">
+    <title>It's Academic</title>
+    <sub-title />
+    <desc>Simon Reeve hosts all new episodes of the educational and entertaining show where schools compete to win cash and prizes.</desc>
+    <episode-num system="onscreen">S20 E12</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/141113/image/334x188" />
+    <rating system="AU">
+      <value>G</value>
+    </rating>
+  </programme><programme channel="7-Sydney-AU" start="20260523233000 +0500" stop="20260524000000 +0500">
+    <title>It's Academic</title>
+    <sub-title />
+    <desc>Simon Reeve hosts all new episodes of the educational and entertaining show where schools compete to win cash and prizes.</desc>
+    <episode-num system="onscreen">S20 E13</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/141113/image/334x188" />
+    <rating system="AU">
+      <value>G</value>
+    </rating>
+  </programme><programme channel="7-Sydney-AU" start="20260524000000 +0500" stop="20260524010000 +0500">
+    <title>House Of Wellness</title>
+    <sub-title />
+    <desc>From raising your kids, to staying fit, ageing gracefully, and the A to Z of every vitamin under the sun, The House of Wellness is designed with one thing in mind - to help you live well.</desc>
+    <episode-num system="onscreen">S3 E8</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/363692/image/334x188" />
+    <rating system="AU">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="7-Sydney-AU" start="20260524010000 +0500" stop="20260524020000 +0500">
+    <title>NBC Today</title>
+    <sub-title>Sunday 24 May 2026</sub-title>
+    <desc>International news and weather including interviews with newsmakers in the world of politics, business, media, entertainment and sport.</desc>
+    <episode-num system="onscreen">S26 E143</episode-num>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/132440/image/334x188" />
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme><programme channel="7-Sydney-AU" start="20260524020000 +0500" stop="20260524050000 +0500">
+    <title>Weekend Sunrise</title>
+    <sub-title>Sunday 24 May 2026</sub-title>
+    <desc>Wake up to a better breakfast with the Weekend Sunrise team for all the latest entertainment, news, sport and weather.</desc>
+    <episode-num system="onscreen">S26 E21</episode-num>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/178481/image/334x188" />
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme><programme channel="7-Sydney-AU" start="20260524050000 +0500" stop="20260524070000 +0500">
+    <title>The Morning Show - Weekend</title>
+    <sub-title />
+    <desc>Join Larry Emdur and Kylie Gillies to catch up on all the highlights from this week's program, including a variety of segments on the latest news and entertainment.</desc>
+    <episode-num system="onscreen">S26 E18</episode-num>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/287624/image/334x188" />
+    <rating system="AU">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="7-Sydney-AU" start="20260524070000 +0500" stop="20260524073000 +0500">
+    <title>Sunday Footy Feast</title>
+    <sub-title />
+    <desc>Catch up on the key stories from the round so far, plus hear from players around the country with the inside word on the game.</desc>
+    <episode-num system="onscreen">S26 E11</episode-num>
+    <category lang="en">Sports</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/435026/image/334x188" />
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme><programme channel="7-Sydney-AU" start="20260524073000 +0500" stop="20260524103000 +0500">
+    <title>AFL</title>
+    <sub-title>Rnd 11: GWS v Brisbane</sub-title>
+    <desc>The Giants take on the Lions live and free from Engie Stadium. Bounce 12.30pm AEST.</desc>
+    <episode-num system="onscreen">S26 E118</episode-num>
+    <category lang="en">Sports</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/420549/image/334x188" />
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme><programme channel="7-Sydney-AU" start="20260524103000 +0500" stop="20260524110000 +0500">
+    <title>Border Security: International</title>
+    <sub-title />
+    <desc>While a last-minute booking leads a farm worker down a rocky road, the arrival of some toy trucks rightfully arouses suspicion.</desc>
+    <episode-num system="onscreen">S2 E17</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/314872/image/334x188" />
+    <rating system="AU">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="7-Sydney-AU" start="20260524110000 +0500" stop="20260524120000 +0500">
+    <title>Better Homes And Gardens</title>
+    <sub-title />
+    <desc>Dr Harry helps a French Bulldog to stop chasing the broom. Clarissa shows you how to make her classic Vietnamese spring rolls. Melissa visits Jurlique Farm, nestled in the Adelaide Hills.</desc>
+    <episode-num system="onscreen">S32 E15</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/133227/image/334x188" />
+    <rating system="AU">
+      <value>G</value>
+    </rating>
+  </programme><programme channel="7-Sydney-AU" start="20260524120000 +0500" stop="20260524123000 +0500">
+    <title>Seven News At 5</title>
+    <sub-title>Sunday 24 May 2026</sub-title>
+    <desc>Get the latest news, sport and weather from Australia and around the world.</desc>
+    <episode-num system="onscreen">S26 E42</episode-num>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/17254901/image/334x188" />
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme><programme channel="7-Sydney-AU" start="20260524123000 +0500" stop="20260524130000 +0500">
+    <title>Sydney Weekender</title>
+    <sub-title />
+    <desc>Matt starts the day off right with a farm fresh breakfast in Central Coast's Jilliby. Mel spends a day in the Domain. Sophie does date night right at Morrison's timeless Oyster Bar and Grill.</desc>
+    <episode-num system="onscreen">S33 E16</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/131582/image/334x188" />
+    <rating system="AU">
+      <value>G</value>
+    </rating>
+  </programme><programme channel="7-Sydney-AU" start="20260524130000 +0500" stop="20260524140000 +0500">
+    <title>7NEWS</title>
+    <sub-title>Sunday 24 May 2026</sub-title>
+    <desc>Seven News live coverage of local, national and international news, plus sport, finance and weather updates. Go to 7NEWS.com.au today for more live updates.</desc>
+    <episode-num system="onscreen">S26 E144</episode-num>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/132538/image/334x188" />
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme><programme channel="7-Sydney-AU" start="20260524140000 +0500" stop="20260524150000 +0500">
+    <title>The 1% Club</title>
+    <sub-title>Sports Night</sub-title>
+    <desc>Lee Mack presents the game show where the questions aren't about general knowledge but logic, brainpower and common sense. 100 contestants begin each edition, who'll face the final question, which only 1 per cent of the population can get right.</desc>
+    <episode-num system="onscreen">S4 E3</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/415993/image/334x188" />
+    <rating system="AU">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="7-Sydney-AU" start="20260524150000 +0500" stop="20260524160000 +0500">
+    <title>7NEWS Spotlight</title>
+    <sub-title>Sunday 24 May 2026</sub-title>
+    <desc>A series of investigative specials focusing on major breaking news events and long-form investigations of national significance.</desc>
+    <episode-num system="onscreen">S26 E6</episode-num>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/5795073/image/334x188" />
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme><programme channel="7-Sydney-AU" start="20260524160000 +0500" stop="20260524173000 +0500">
+    <title>The Real Adolescence: Our Killer Kids</title>
+    <sub-title />
+    <desc>A documentary examining the rise in murder convictions for 12-17-year-olds. Featuring testimonies from bereaved families and expert analysis to understand why young people are turning to violence.</desc>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/13216328/image/334x188" />
+    <rating system="AU">
+      <value>MA</value>
+    </rating>
+  </programme><programme channel="7-Sydney-AU" start="20260524173000 +0500" stop="20260524184000 +0500">
+    <title>24 Hours In Police Custody</title>
+    <sub-title>Smuggled</sub-title>
+    <desc>Police track a lorry to a warehouse where they find cannabis and amphetamines with a street value of three million pounds. Intelligence reveals a suspected drug trafficker is about to flee to Spain.</desc>
+    <episode-num system="onscreen">S4 E17</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/329505/image/334x188" />
+    <rating system="AU">
+      <value>M</value>
+    </rating>
+  </programme><programme channel="7-Sydney-AU" start="20260524184000 +0500" stop="20260524194000 +0500">
+    <title>Autopsy USA</title>
+    <sub-title>Andy Griffith</sub-title>
+    <desc>On July 3, 2012, Americans were saddened by the death of Andy Griffith. However, he was notoriously private, thus very little is known about the state of his health or what happened in the last few years of his life.</desc>
+    <episode-num system="onscreen">S6 E6</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/1606922/image/334x188" />
+    <rating system="AU">
+      <value>M</value>
+    </rating>
+  </programme><programme channel="7-Sydney-AU" start="20260524194000 +0500" stop="20260524210000 +0500">
+    <title>Repco Supercars Highlights</title>
+    <sub-title>Tasmania Super 440 - Day 2 - Highlig</sub-title>
+    <desc>Catch all the highlights as the Supercars return to Symmons Plains Raceway in Tasmania for Round 5.</desc>
+    <episode-num system="onscreen">S26 E11</episode-num>
+    <category lang="en">Sports</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/1717986/image/334x188" />
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme><programme channel="7-Sydney-AU" start="20260524210000 +0500" stop="20260524213000 +0500">
+    <title>TBA</title>
+    <desc>TBA.</desc>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/3647443/image/334x188" />
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme><programme channel="7-Sydney-AU" start="20260524213000 +0500" stop="20260524220000 +0500">
+    <title>TBA</title>
+    <desc>TBA.</desc>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/3647443/image/334x188" />
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme><programme channel="7-Sydney-AU" start="20260524220000 +0500" stop="20260524223000 +0500">
+    <title>TBA</title>
+    <desc>TBA.</desc>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/3647443/image/334x188" />
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme><programme channel="7-Sydney-AU" start="20260524223000 +0500" stop="20260524230000 +0500">
+    <title>Million Dollar Minute</title>
+    <sub-title />
+    <desc>Million Dollar Minute is a battle of general knowledge, where every correct answer is a step closer to the ultimate test: Can one person, in one minute, win one million dollars?</desc>
     <episode-num system="onscreen">S1 E7</episode-num>
     <category lang="en">Special Interest</category>
     <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/16782673/image/334x188" />
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/302978/image/334x188" />
     <rating system="AU">
       <value>G</value>
+    </rating>
+  </programme><programme channel="7-Sydney-AU" start="20260524230000 +0500" stop="20260525000000 +0500">
+    <title>NBC Today</title>
+    <sub-title>Monday 25 May 2026</sub-title>
+    <desc>International news and weather including interviews with newsmakers in the world of politics, business, media, entertainment and sport.</desc>
+    <episode-num system="onscreen">S26 E144</episode-num>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/132440/image/334x188" />
+    <rating system="AU">
+      <value>NR</value>
     </rating>
   </programme>
 </tv>

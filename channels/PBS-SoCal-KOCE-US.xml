@@ -1,17 +1,280 @@
 <?xml version='1.0' encoding='utf-8'?>
 <tv>
   <channel id="PBS-SoCal-KOCE-US">
+    <icon src="https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/PBS-SoCal-KOCE-US.png" />
+    <url>https://tv.thefilmtuition.com</url>
     <display-name>KOCE</display-name>
-    <icon src="https://thefilmtuition.com/tvlogo/PBS-SoCal-KOCE-US.png" />
-  </channel><programme channel="PBS-SoCal-KOCE-US" start="20260516073000 +0500" stop="20260516080000 +0500">
+  </channel><programme channel="PBS-SoCal-KOCE-US" start="20260522220000 +0500" stop="20260522223000 +0500">
+    <title>Sesame Street</title>
+    <sub-title>Abby Taps Into Kindness</sub-title>
+    <desc>Abby sees Nina and Charlie tap dancing and tries to keep up, but she doesn't know how to do the moves and follow the rhythm.</desc>
+    <episode-num system="onscreen">S55 E13</episode-num>
+    <language>en</language>
+  </programme><programme channel="PBS-SoCal-KOCE-US" start="20260522223000 +0500" stop="20260522230000 +0500">
+    <title>Work It Out Wombats!</title>
+    <sub-title>Treeborhood Carnaval; Magic Tricky</sub-title>
+    <desc>Sammy plans a surprise Carnaval for his dad while Quique plans a surprise treat for his son; Malik performs a magic trick.</desc>
+    <episode-num system="onscreen">S1 E27</episode-num>
+    <language>en</language>
+  </programme><programme channel="PBS-SoCal-KOCE-US" start="20260522230000 +0500" stop="20260522233000 +0500">
+    <title>Donkey Hodie</title>
+    <sub-title>Hee-Hee Hider Seekers; The Great Wait</sub-title>
+    <desc>Jeff Mouse, Donkey and Panda seek a hiding moth; Donkey makes up a song while she waits for Turtle-Lou to deliver her guitar.</desc>
+    <episode-num system="onscreen">S2 E22</episode-num>
+    <credits>
+      <actor>Haley Jenkins</actor>
+      <actor>Frankie Cordero</actor>
+      <actor>Stephanie D'Abruzzo</actor>
+    </credits><date>2025</date>
+    <category lang="en">Series</category>
+    <category lang="en">Children</category>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Educational</category>
+    <category lang="en">Animated</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p19647832_b_h8_ae.jpg?w=960&amp;h=540" />
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TVY</value>
+    </rating><rating system="Australian Classification Board">
+      <value>G</value>
+    </rating>
+  </programme><programme channel="PBS-SoCal-KOCE-US" start="20260522233000 +0500" stop="20260523000000 +0500">
+    <title>Rosie's Rules</title>
+    <sub-title>Pop Star Rosie; Rosie's Tooth</sub-title>
+    <desc>Rosie puts on a concert when Tia is unable to get tickets to see her favorite singer; Rosie loses her first tooth, and prepares to welcome both the Tooth Fairy and the Tooth Mouse.</desc>
+    <episode-num system="onscreen">S2 E6</episode-num>
+    <credits>
+      <director>Hee-Jung Yun</director>
+      <director>Steve Daye</director>
+      <director>Paul Riley</director>
+      <actor>Ellora Lopez</actor>
+      <actor>Denise Oliver</actor>
+      <actor>Gabby Clarke</actor>
+    </credits><date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Animated</category>
+    <category lang="en">Children</category>
+    <category lang="en">Educational</category>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Adventure</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p22744932_b_h8_aa.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVY</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>C</value>
+    </rating>
+  </programme><programme channel="PBS-SoCal-KOCE-US" start="20260523000000 +0500" stop="20260523003000 +0500">
+    <title>Elinor Wonders Why</title>
+    <sub-title>The Lizard Lounge; Feathers</sub-title>
+    <desc>Elinor and her friends come up with a plan when lizards get in the way of Mrs. Beaver's new park bench; Elinor and her friends observe birds.</desc>
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <credits>
+      <director>Kevin Micallef</director>
+      <actor>Markeda McKay</actor>
+      <actor>Maria Nash</actor>
+      <actor>Wyatt White</actor>
+    </credits><date>2020</date>
+    <category lang="en">Series</category>
+    <category lang="en">Animated</category>
+    <category lang="en">Children</category>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Educational</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p18560223_b_h10_aa.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVY</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>C</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>AL</value>
+    </rating>
+  </programme><programme channel="PBS-SoCal-KOCE-US" start="20260523003000 +0500" stop="20260523010000 +0500">
+    <title>Alma's Way</title>
+    <sub-title>Alma's Movie Night; Papi the Hero</sub-title>
+    <desc>André avoids a spooky movie night; Alma, Eddie and Junior write a hero song for Papi.</desc>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <credits>
+      <actor>Summer Rose Castillo</actor>
+      <actor>Jesús E. Martínez</actor>
+      <actor>Annie Henk</actor>
+    </credits><date>2021</date>
+    <category lang="en">Series</category>
+    <category lang="en">Animated</category>
+    <category lang="en">Children</category>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Educational</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p20485755_b_h8_aa.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVY</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>C</value>
+    </rating>
+  </programme><programme channel="PBS-SoCal-KOCE-US" start="20260523010000 +0500" stop="20260523013000 +0500">
+    <title>Molly of Denali</title>
+    <sub-title>Bubbling Up; Eenie Eenie Aye Over</sub-title>
+    <desc>Molly, Tooey and Trini find mysterious bubbles while canoeing on Lake Qyah; Molly, Tooey and Trini learn a ball game.</desc>
+    <episode-num system="onscreen">S2 E14</episode-num>
+    <credits>
+      <actor>Sovereign Bill</actor>
+      <actor>Lorne Cardinal</actor>
+      <actor>Ronnie Dean Harris</actor>
+    </credits><date>2022</date>
+    <category lang="en">Series</category>
+    <category lang="en">Animated</category>
+    <category lang="en">Children</category>
+    <category lang="en">Adventure</category>
+    <category lang="en">Comedy</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p15558414_b_h8_ab.jpg?w=960&amp;h=540" />
+    <rating system="Canadian Parental Rating">
+      <value>C8</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TVY</value>
+    </rating><rating system="Australian Classification Board">
+      <value>G</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>AL</value>
+    </rating>
+  </programme><programme channel="PBS-SoCal-KOCE-US" start="20260523013000 +0500" stop="20260523020000 +0500">
+    <title>Xavier Riddle and the Secret Museum</title>
+    <sub-title>I Am Madam C.J. Walker; I Am Edwin Binney</sub-title>
+    <desc>Madam C.J. Walker shows Xavier that working hard on his lemonade stand can help him afford the pogo stick of his dreams; Edwin Binney shows Xavier, Yadina and Brad that to work together as a team, they should listen to everyone's ideas.</desc>
+    <episode-num system="onscreen">S2 E13</episode-num>
+    <credits>
+      <actor>Aidan Vissers</actor>
+      <actor>Zoe Hatz</actor>
+      <actor>Wyatt White</actor>
+    </credits><date>2024</date>
+    <category lang="en">Series</category>
+    <category lang="en">Animated</category>
+    <category lang="en">Children</category>
+    <category lang="en">Adventure</category>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Educational</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p17351909_b_h8_ab.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVY</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>C</value>
+    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>S</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>L</value>
+    </rating>
+  </programme><programme channel="PBS-SoCal-KOCE-US" start="20260523020000 +0500" stop="20260523030000 +0500">
+    <title>Antiques Roadshow</title>
+    <sub-title>Cheekwood Estate &amp; Gardens, Hour 1</sub-title>
+    <desc>An 1880 Celia Thaxter hand-painted vase; a 1964 Presidential Rolex with the box and papers; a Mary Elizabeth Price painted screen circa 1925.</desc>
+    <episode-num system="onscreen">S27 E7 P1/3</episode-num>
+    <credits>
+      <actor>Coral Pena</actor>
+    </credits><date>2023</date>
+    <category lang="en">Series</category>
+    <category lang="en">Collectibles</category>
+    <category lang="en">Art</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p185479_b_h8_ag.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="Australian Classification Board">
+      <value>G</value>
+    </rating>
+  </programme><programme channel="PBS-SoCal-KOCE-US" start="20260523030000 +0500" stop="20260523040000 +0500">
+    <title>Marked Man: Martin Luther King and the FBI</title>
+    <sub-title />
+    <desc>Martin Luther King Jr. helps drive change in the United States in the face of bitter opposition, not least from opponents within the U.S. government; King is subjected to a fierce campaign of intimidation by J. Edgar Hoover's FBI.</desc>
+    <credits>
+      <director>Edward Cotterill</director>
+      <actor>Bonnie Greer</actor>
+      <actor>Tim Weiner</actor>
+      <actor>Dorothy Cotton</actor>
+    </credits><date>2018</date>
+    <category lang="en">Special</category>
+    <category lang="en">History</category>
+    <category lang="en">Biography</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p15285047_b_h8_af.jpg?w=960&amp;h=540" />
+    <rating system="Film &amp; Publication Board">
+      <value>16</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>12</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating>
+  </programme><programme channel="PBS-SoCal-KOCE-US" start="20260523040000 +0500" stop="20260523060000 +0500">
+    <title>American Masters</title>
+    <sub-title>W.E.B. Du Bois: Rebel With a Cause</sub-title>
+    <desc>Exploring the life and legacy of Black civil rights pioneer W.E.B. Du Bois, including how he transcended the social constraints of the early 20th century and worked to elevate the lives of Black people worldwide.</desc>
+    <episode-num system="onscreen">S39 E12</episode-num>
+    <credits>
+      <actor>Viola Davis</actor>
+    </credits><date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Biography</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p185856_b_h10_aa.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="Instituto Nacional de Cine y Artes Audiovisuales">
+      <value>ATP</value>
+    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>A</value>
+    </rating><rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="PBS-SoCal-KOCE-US" start="20260523060000 +0500" stop="20260523070000 +0500">
+    <title>PBS News Hour</title>
+    <sub-title />
+    <desc>Co-anchors Amna Nawaz and Geoff Bennett and correspondents offer in-depth analysis of current events.</desc>
+    <episode-num system="onscreen">S52 E234</episode-num>
+    <credits>
+      <actor>Amna Nawaz</actor>
+      <actor>Geoff Bennett</actor>
+    </credits><date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p27608822_b_h8_ac.jpg?w=960&amp;h=540" />
+  </programme><programme channel="PBS-SoCal-KOCE-US" start="20260523070000 +0500" stop="20260523073000 +0500">
+    <title>Washington Week With The Atlantic</title>
+    <sub-title />
+    <desc>Helene Cooper, The New York Times; Jonathan Karl, ABC News; Missy Ryan, The Atlantic; Vivian Salama, The Atlantic.</desc>
+    <episode-num system="onscreen">S60 E47</episode-num>
+    <credits>
+      <actor>Jeffrey Goldberg</actor>
+      <actor>Helene Cooper</actor>
+      <actor>Jonathan Karl</actor>
+    </credits><date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">News</category>
+    <category lang="en">Public affairs</category>
+    <category lang="en">Politics</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p25350982_b_h8_aa.jpg?w=960&amp;h=540" />
+  </programme><programme channel="PBS-SoCal-KOCE-US" start="20260523073000 +0500" stop="20260523080000 +0500">
     <title>Firing Line With Margaret Hoover</title>
     <sub-title />
-    <desc>Former Defense Secretary Jim Mattis and author Ryan Holiday examine the ancient philosophy that inspired America's founders.</desc>
-    <episode-num system="onscreen">S9 E46</episode-num>
+    <desc>Retired Justice Anthony Kennedy assesses the challenges facing the U.S. Supreme Court in President Donald Trump's second term.</desc>
+    <episode-num system="onscreen">S9 E47</episode-num>
     <credits>
       <actor>Margaret Hoover</actor>
-      <actor>Jim Mattis</actor>
-      <actor>Ryan Holiday</actor>
+      <actor>Anthony Kennedy</actor>
     </credits><date>2026</date>
     <category lang="en">Series</category>
     <category lang="en">Public affairs</category>
@@ -19,34 +282,42 @@
     <category lang="en">Debate</category>
     <language>en</language>
     <icon src="http://dtil.tmsimg.com/assets/p15429319_b_h8_aa.jpg?w=960&amp;h=540" />
-  </programme><programme channel="PBS-SoCal-KOCE-US" start="20260516080000 +0500" stop="20260516090000 +0500">
-    <title>Mel Brooks: The Genius Entertainer</title>
+  </programme><programme channel="PBS-SoCal-KOCE-US" start="20260523080000 +0500" stop="20260523090000 +0500">
+    <title>Sigourney Weaver, The Most Iconic Action Heroine</title>
     <sub-title />
-    <desc>Entertainer Mel Brooks reflects on his prolific career, from Brooklyn, live television with Sid Caesar and Broadway all the way to Hollywood.</desc>
+    <desc>A look back at actress Sigourney Weaver's career in cinema and the impact of her roles in action, comedy and drama.</desc>
     <date>2024</date>
     <category lang="en">Special</category>
     <category lang="en">Documentary</category>
     <category lang="en">Biography</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p27463503_st_h10_aa.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p28445758_st_h10_ab.jpg?w=960&amp;h=540" />
     <rating system="USA Parental Rating">
-      <value>TV14</value>
+      <value>TVPG</value>
     </rating><rating system="Canadian Parental Rating">
-      <value>14+</value>
+      <value>PG</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
     </rating>
-  </programme><programme channel="PBS-SoCal-KOCE-US" start="20260516090000 +0500" stop="20260516113000 +0500">
+  </programme><programme channel="PBS-SoCal-KOCE-US" start="20260523090000 +0500" stop="20260523103000 +0500">
     <title>Great Performances</title>
-    <sub-title>Irving Berlin's Top Hat</sub-title>
-    <desc>Based on the 1935 movie musical starring Fred Astaire and Ginger Rogers, "Top Hat" features dazzling choreography and period sets, with an Irving Berlin score featuring "Cheek to Cheek," "Let's Face the Music and Dance" and "Puttin' on the Ritz.".</desc>
-    <episode-num system="onscreen">S53 E14</episode-num>
-    <date>2026</date>
+    <sub-title>An Evening With Nicole Scherzinger</sub-title>
+    <desc>Nicole Scherzinger performs Broadway favorites and pop hits including songs from "Sunset Boulevard" at Royal Albert Hall.</desc>
+    <episode-num system="onscreen">S53 E15</episode-num>
+    <credits>
+      <actor>Nicole Scherzinger</actor>
+    </credits><date>2026</date>
     <category lang="en">Series</category>
+    <category lang="en">Anthology</category>
     <category lang="en">Music</category>
     <category lang="en">Dance</category>
+    <category lang="en">Drama</category>
     <category lang="en">Performing arts</category>
     <language>en</language>
     <icon src="http://dtil.tmsimg.com/assets/p31082022_b_h10_aa.jpg?w=960&amp;h=540" />
-    <rating system="Canadian Parental Rating">
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating><rating system="Canadian Parental Rating">
       <value>G</value>
     </rating><rating system="Régie du cinéma">
       <value>G</value>
@@ -54,17 +325,40 @@
       <value>L</value>
     </rating><rating system="Instituto Nacional de Cine y Artes Audiovisuales">
       <value>ATP</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TVPG</value>
     </rating>
-  </programme><programme channel="PBS-SoCal-KOCE-US" start="20260516113000 +0500" stop="20260516120000 +0500">
-    <title>PBS Arts Talk</title>
-    <sub-title>Rhiannon Giddens With Brian Stokes Mitchell</sub-title>
-    <desc>Musician Rhiannon Giddens and stage actor Brian Stokes Mitchell discuss theater and music.</desc>
-    <episode-num system="onscreen">S1 E2</episode-num>
+  </programme><programme channel="PBS-SoCal-KOCE-US" start="20260523103000 +0500" stop="20260523113000 +0500">
+    <title>Great Performances</title>
+    <sub-title>Now Hear This: Rising Stars</sub-title>
+    <desc>A visit to Juilliard Pre-College; Singapore's Chloe Chua.</desc>
+    <episode-num system="onscreen">S51 E7</episode-num>
     <credits>
-      <actor>Rhiannon Giddens</actor>
-      <actor>Brian Stokes Mitchell</actor>
+      <actor>Scott Yoo</actor>
+    </credits><date>2024</date>
+    <category lang="en">Series</category>
+    <category lang="en">Anthology</category>
+    <category lang="en">Music</category>
+    <category lang="en">Dance</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Performing arts</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p184075_b_h8_aa.jpg?w=960&amp;h=540" />
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>L</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+  </programme><programme channel="PBS-SoCal-KOCE-US" start="20260523113000 +0500" stop="20260523120000 +0500">
+    <title>PBS Arts Talk</title>
+    <sub-title>Ann Curry With Min Jin Lee</sub-title>
+    <desc>Journalist Ann Curry conducts a deep, frank interview with bestselling author Min Jin Lee.</desc>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <credits>
+      <actor>Ann Curry</actor>
+      <actor>Min Jin Lee</actor>
     </credits><date>2023</date>
     <category lang="en">Series</category>
     <category lang="en">Talk</category>
@@ -76,11 +370,11 @@
     </rating><rating system="Canadian Parental Rating">
       <value>PG</value>
     </rating>
-  </programme><programme channel="PBS-SoCal-KOCE-US" start="20260516120000 +0500" stop="20260516130000 +0500">
+  </programme><programme channel="PBS-SoCal-KOCE-US" start="20260523120000 +0500" stop="20260523130000 +0500">
     <title>PBS News Hour</title>
     <sub-title />
     <desc>Co-anchors Amna Nawaz and Geoff Bennett and correspondents offer in-depth analysis of current events.</desc>
-    <episode-num system="onscreen">S52 E229</episode-num>
+    <episode-num system="onscreen">S52 E234</episode-num>
     <credits>
       <actor>Amna Nawaz</actor>
       <actor>Geoff Bennett</actor>
@@ -89,13 +383,15 @@
     <category lang="en">News</category>
     <language>en</language>
     <icon src="http://dtil.tmsimg.com/assets/p27608822_b_h8_ac.jpg?w=960&amp;h=540" />
-  </programme><programme channel="PBS-SoCal-KOCE-US" start="20260516130000 +0500" stop="20260516133000 +0500">
+  </programme><programme channel="PBS-SoCal-KOCE-US" start="20260523130000 +0500" stop="20260523133000 +0500">
     <title>Washington Week With The Atlantic</title>
     <sub-title />
-    <desc>A panel of journalists provides reporting and analysis of the major stories emanating from the United States capital.</desc>
-    <episode-num system="onscreen">S60 E46</episode-num>
+    <desc>Helene Cooper, The New York Times; Jonathan Karl, ABC News; Missy Ryan, The Atlantic; Vivian Salama, The Atlantic.</desc>
+    <episode-num system="onscreen">S60 E47</episode-num>
     <credits>
       <actor>Jeffrey Goldberg</actor>
+      <actor>Helene Cooper</actor>
+      <actor>Jonathan Karl</actor>
     </credits><date>2026</date>
     <category lang="en">Series</category>
     <category lang="en">News</category>
@@ -103,15 +399,14 @@
     <category lang="en">Politics</category>
     <language>en</language>
     <icon src="http://dtil.tmsimg.com/assets/p25350982_b_h8_aa.jpg?w=960&amp;h=540" />
-  </programme><programme channel="PBS-SoCal-KOCE-US" start="20260516133000 +0500" stop="20260516140000 +0500">
+  </programme><programme channel="PBS-SoCal-KOCE-US" start="20260523133000 +0500" stop="20260523140000 +0500">
     <title>Firing Line With Margaret Hoover</title>
     <sub-title />
-    <desc>Former Defense Secretary Jim Mattis and author Ryan Holiday examine the ancient philosophy that inspired America's founders.</desc>
-    <episode-num system="onscreen">S9 E46</episode-num>
+    <desc>Retired Justice Anthony Kennedy assesses the challenges facing the U.S. Supreme Court in President Donald Trump's second term.</desc>
+    <episode-num system="onscreen">S9 E47</episode-num>
     <credits>
       <actor>Margaret Hoover</actor>
-      <actor>Jim Mattis</actor>
-      <actor>Ryan Holiday</actor>
+      <actor>Anthony Kennedy</actor>
     </credits><date>2026</date>
     <category lang="en">Series</category>
     <category lang="en">Public affairs</category>
@@ -119,34 +414,42 @@
     <category lang="en">Debate</category>
     <language>en</language>
     <icon src="http://dtil.tmsimg.com/assets/p15429319_b_h8_aa.jpg?w=960&amp;h=540" />
-  </programme><programme channel="PBS-SoCal-KOCE-US" start="20260516140000 +0500" stop="20260516150000 +0500">
-    <title>Mel Brooks: The Genius Entertainer</title>
+  </programme><programme channel="PBS-SoCal-KOCE-US" start="20260523140000 +0500" stop="20260523150000 +0500">
+    <title>Sigourney Weaver, The Most Iconic Action Heroine</title>
     <sub-title />
-    <desc>Entertainer Mel Brooks reflects on his prolific career, from Brooklyn, live television with Sid Caesar and Broadway all the way to Hollywood.</desc>
+    <desc>A look back at actress Sigourney Weaver's career in cinema and the impact of her roles in action, comedy and drama.</desc>
     <date>2024</date>
     <category lang="en">Special</category>
     <category lang="en">Documentary</category>
     <category lang="en">Biography</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p27463503_st_h10_aa.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p28445758_st_h10_ab.jpg?w=960&amp;h=540" />
     <rating system="USA Parental Rating">
-      <value>TV14</value>
+      <value>TVPG</value>
     </rating><rating system="Canadian Parental Rating">
-      <value>14+</value>
+      <value>PG</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
     </rating>
-  </programme><programme channel="PBS-SoCal-KOCE-US" start="20260516150000 +0500" stop="20260516173000 +0500">
+  </programme><programme channel="PBS-SoCal-KOCE-US" start="20260523150000 +0500" stop="20260523163000 +0500">
     <title>Great Performances</title>
-    <sub-title>Irving Berlin's Top Hat</sub-title>
-    <desc>Based on the 1935 movie musical starring Fred Astaire and Ginger Rogers, "Top Hat" features dazzling choreography and period sets, with an Irving Berlin score featuring "Cheek to Cheek," "Let's Face the Music and Dance" and "Puttin' on the Ritz.".</desc>
-    <episode-num system="onscreen">S53 E14</episode-num>
-    <date>2026</date>
+    <sub-title>An Evening With Nicole Scherzinger</sub-title>
+    <desc>Nicole Scherzinger performs Broadway favorites and pop hits including songs from "Sunset Boulevard" at Royal Albert Hall.</desc>
+    <episode-num system="onscreen">S53 E15</episode-num>
+    <credits>
+      <actor>Nicole Scherzinger</actor>
+    </credits><date>2026</date>
     <category lang="en">Series</category>
+    <category lang="en">Anthology</category>
     <category lang="en">Music</category>
     <category lang="en">Dance</category>
+    <category lang="en">Drama</category>
     <category lang="en">Performing arts</category>
     <language>en</language>
     <icon src="http://dtil.tmsimg.com/assets/p31082022_b_h10_aa.jpg?w=960&amp;h=540" />
-    <rating system="Canadian Parental Rating">
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating><rating system="Canadian Parental Rating">
       <value>G</value>
     </rating><rating system="Régie du cinéma">
       <value>G</value>
@@ -154,14 +457,37 @@
       <value>L</value>
     </rating><rating system="Instituto Nacional de Cine y Artes Audiovisuales">
       <value>ATP</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TVPG</value>
     </rating>
-  </programme><programme channel="PBS-SoCal-KOCE-US" start="20260516173000 +0500" stop="20260516180000 +0500">
+  </programme><programme channel="PBS-SoCal-KOCE-US" start="20260523163000 +0500" stop="20260523173000 +0500">
+    <title>Great Performances</title>
+    <sub-title>Now Hear This: Rising Stars</sub-title>
+    <desc>A visit to Juilliard Pre-College; Singapore's Chloe Chua.</desc>
+    <episode-num system="onscreen">S51 E7</episode-num>
+    <credits>
+      <actor>Scott Yoo</actor>
+    </credits><date>2024</date>
+    <category lang="en">Series</category>
+    <category lang="en">Anthology</category>
+    <category lang="en">Music</category>
+    <category lang="en">Dance</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Performing arts</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p184075_b_h8_aa.jpg?w=960&amp;h=540" />
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>L</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+  </programme><programme channel="PBS-SoCal-KOCE-US" start="20260523173000 +0500" stop="20260523180000 +0500">
     <title>Samantha Brown's Places to Love</title>
-    <sub-title>Williamsburg, Virginia</sub-title>
-    <desc>Exploring Virginia's history starting at Jamestown; Colonial Williamsburg; Punjabi cuisine at Masala Craft; rare instruments at the Virginia Musical Instrument Museum; exploring Yorktown's battlefields and Revolution Museum.</desc>
-    <episode-num system="onscreen">S9 E5</episode-num>
+    <sub-title>Italy Part 1 -- Bologna</sub-title>
+    <desc>Exploring Bologna's Piazza Maggiore, hidden canals and walking the portico to the San Luca sanctuary; shopping the Quadrilatero; a historic cutlery shop; a twins-run leather boutique.</desc>
+    <episode-num system="onscreen">S9 E6 P1/2</episode-num>
     <credits>
       <actor>Samantha Brown</actor>
     </credits><date>2026</date>
@@ -176,16 +502,16 @@
     </rating><rating system="Régie du cinéma">
       <value>G</value>
     </rating>
-  </programme><programme channel="PBS-SoCal-KOCE-US" start="20260516180000 +0500" stop="20260516183000 +0500">
+  </programme><programme channel="PBS-SoCal-KOCE-US" start="20260523180000 +0500" stop="20260523183000 +0500">
     <title>Carl the Collector</title>
-    <sub-title>The Fall; The Word Collection</sub-title>
-    <desc>Carl doesn't know what to do when Nico falls; Carl learns a new word -- shindig.</desc>
-    <episode-num system="onscreen">S1 E6</episode-num>
+    <sub-title>The Potato Collection; Nico and the Nutty Buddies</sub-title>
+    <desc>Carl thinks his potato display is the best idea to show his school spirit; Nico tries to join the Junior Nutty Buddy Nut Lovers' Club.</desc>
+    <episode-num system="onscreen">S1 E21</episode-num>
     <credits>
       <actor>Kai Barham</actor>
       <actor>Peter Laurie</actor>
       <actor>Heather Bambrick</actor>
-    </credits><date>2024</date>
+    </credits><date>2025</date>
     <category lang="en">Series</category>
     <category lang="en">Animated</category>
     <category lang="en">Children</category>
@@ -198,15 +524,16 @@
     </rating><rating system="Canadian Parental Rating">
       <value>C</value>
     </rating>
-  </programme><programme channel="PBS-SoCal-KOCE-US" start="20260516183000 +0500" stop="20260516190000 +0500">
+  </programme><programme channel="PBS-SoCal-KOCE-US" start="20260523183000 +0500" stop="20260523190000 +0500">
     <title>Wild Kratts</title>
-    <sub-title>Osprey</sub-title>
-    <desc>Chris, Martin and Aviva need osprey creature powers to find keys that Jimmy dropped in the ocean.</desc>
-    <episode-num system="onscreen">S3 E5</episode-num>
+    <sub-title>Speaking Dolphinese</sub-title>
+    <desc>Decoding the secret language of dolphins.</desc>
+    <episode-num system="onscreen">S2 E9</episode-num>
     <credits>
       <actor>Martin Kratt</actor>
       <actor>Chris Kratt</actor>
-    </credits><date>2014</date>
+      <actor>Athena Karkanis</actor>
+    </credits><date>2013</date>
     <category lang="en">Series</category>
     <category lang="en">Children</category>
     <category lang="en">Educational</category>
@@ -229,127 +556,232 @@
     </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
       <value>6</value>
     </rating>
-  </programme><programme channel="PBS-SoCal-KOCE-US" start="20260516190000 +0500" stop="20260516193000 +0500">
+  </programme><programme channel="PBS-SoCal-KOCE-US" start="20260523190000 +0500" stop="20260523193000 +0500">
     <title>Odd Squad</title>
-    <sub-title>The Triangle Cafe; Captain O's Birthday</sub-title>
-    <desc>Ozzi and Orli go on a mission to catch the villain who is ruining the Triangle Sisters' café; Opie must collect enough money to pay for Captain O's 10-layer birthday cake.</desc>
-    <episode-num system="onscreen">S5 E2</episode-num>
+    <sub-title>Xs and Os; Dr. O No</sub-title>
+    <desc>Agents from the Big O's office threaten to shut down Odd Squad; Oona meets Dr. O's replacement.</desc>
+    <episode-num system="onscreen">S2 E23</episode-num>
     <credits>
-      <director>J.J. Johnson</director>
-      <director>Stefan Scaini</director>
       <actor>Filip Geljo</actor>
       <actor>Dalila Bela</actor>
       <actor>Sean Michael Kyer</actor>
-    </credits><date>2026</date>
+    </credits><date>2017</date>
     <category lang="en">Series</category>
     <category lang="en">Children</category>
     <category lang="en">Educational</category>
     <category lang="en">Entertainment</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p32394170_b_h8_ad.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVY</value>
+    <icon src="http://dtil.tmsimg.com/assets/p11086138_b_h8_be.jpg?w=960&amp;h=540" />
+    <rating system="Australian Classification Board">
+      <value>G</value>
     </rating><rating system="Canadian Parental Rating">
       <value>C</value>
-    </rating><rating system="Australian Classification Board">
-      <value>G</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TVY</value>
     </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
       <value>L</value>
     </rating><rating system="Régie du cinéma">
       <value>G</value>
     </rating>
-  </programme><programme channel="PBS-SoCal-KOCE-US" start="20260516193000 +0500" stop="20260516213000 +0500">
-    <title>The Making of the American Revolution</title>
-    <sub-title />
-    <desc>A behind the scenes look at "The American Revolution" with Ken Burns, Sarah Botstein and David Schmidt to learn about the production, which took nearly a decade to complete.</desc>
+  </programme><programme channel="PBS-SoCal-KOCE-US" start="20260523193000 +0500" stop="20260523200000 +0500">
+    <title>Skillsville</title>
+    <sub-title>Nutritionist; Judge</sub-title>
+    <desc>Rae helps the players choose foods that give them the best "power-up"; Cora makes fair decisions to help resolve a disagreement between friends.</desc>
+    <episode-num system="onscreen">S1 E25</episode-num>
     <credits>
-      <actor>Ken Burns</actor>
-      <actor>Sarah Botstein</actor>
-      <actor>David Schmidt</actor>
+      <actor>Jessy Yates</actor>
+      <actor>Elishia Perosa</actor>
+      <actor>Nissae Isen</actor>
     </credits><date>2026</date>
-    <category lang="en">Special</category>
-    <category lang="en">Documentary</category>
+    <category lang="en">Series</category>
+    <category lang="en">Animated</category>
+    <category lang="en">Children</category>
     <category lang="en">Entertainment</category>
+    <category lang="en">Educational</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p32211148_b_h10_aa.jpg?w=960&amp;h=540" />
-  </programme><programme channel="PBS-SoCal-KOCE-US" start="20260516213000 +0500" stop="20260516230000 +0500">
-    <title>Rick Steves Fascism in Europe</title>
-    <sub-title />
-    <desc>Rick Steves traces fascism's history in Europe. Our goal: to learn from the hard lessons of the 20th century, and to recognize that ideology in the 21st century.</desc>
+    <icon src="http://dtil.tmsimg.com/assets/p29225704_b_h8_aa.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVY</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>C</value>
+    </rating>
+  </programme><programme channel="PBS-SoCal-KOCE-US" start="20260523200000 +0500" stop="20260523223000 +0500">
+    <title>Pride and Prejudice</title>
+    <sub-title>Episode 1</sub-title>
+    <desc>When Mr. Bingley moves into the neighborhood, Mrs. Bennet looks to marry off one of her five daughters.</desc>
+    <episode-num system="onscreen">S1 E1 P1/6</episode-num>
     <credits>
-      <actor>Rick Steves</actor>
-    </credits><date>2018</date>
-    <category lang="en">Special</category>
-    <category lang="en">Documentary</category>
+      <director>Simon Langton</director>
+      <actor>Colin Firth</actor>
+      <actor>Jennifer Ehle</actor>
+      <actor>Crispin Bonham-Carter</actor>
+    </credits><date>1995</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Historical drama</category>
+    <category lang="en">Miniseries</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p15636765_b_h8_aa.jpg?w=960&amp;h=540" />
-    <rating system="Canadian Parental Rating">
+    <icon src="http://dtil.tmsimg.com/assets/p468777_b_h8_af.jpg?w=960&amp;h=540" />
+    <rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>12</value>
+    </rating><rating system="Australian Classification Board">
       <value>G</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
     </rating><rating system="USA Parental Rating">
       <value>TVPG</value>
+    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>S</value>
+    </rating><rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>7</value>
+    </rating><rating system="UK Content Provider">
+      <value>U</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>AL</value>
     </rating>
-  </programme><programme channel="PBS-SoCal-KOCE-US" start="20260516230000 +0500" stop="20260517003000 +0500">
-    <title>Rick Steves Experiencing Europe</title>
+  </programme><programme channel="PBS-SoCal-KOCE-US" start="20260523223000 +0500" stop="20260524003000 +0500">
+    <title>Pride and Prejudice</title>
     <sub-title />
-    <desc>Rick Steves presents essential skills for smart travel in Europe, from itinerary planning to avoiding crowds.</desc>
+    <desc>Elizabeth learns that Charlotte has accepted a proposal from Mr. Collins; Jane realizes that the Bingleys are ignoring her.</desc>
+    <episode-num system="onscreen">S1 E3 P3/6</episode-num>
     <credits>
-      <actor>Rick Steves</actor>
-    </credits><date>2025</date>
-    <category lang="en">Special</category>
-    <category lang="en">Documentary</category>
-    <category lang="en">Travel</category>
+      <director>Simon Langton</director>
+      <actor>Colin Firth</actor>
+      <actor>Jennifer Ehle</actor>
+      <actor>Crispin Bonham-Carter</actor>
+    </credits><date>1995</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Historical drama</category>
+    <category lang="en">Miniseries</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p28587688_b_h8_aa.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVG</value>
+    <icon src="http://dtil.tmsimg.com/assets/p468777_b_h8_af.jpg?w=960&amp;h=540" />
+    <rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>12</value>
+    </rating><rating system="Australian Classification Board">
+      <value>G</value>
     </rating><rating system="Canadian Parental Rating">
-      <value>G</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
+      <value>PG</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>S</value>
+    </rating><rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>7</value>
+    </rating><rating system="UK Content Provider">
+      <value>U</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>AL</value>
     </rating>
-  </programme><programme channel="PBS-SoCal-KOCE-US" start="20260517003000 +0500" stop="20260517023000 +0500">
-    <title>Rick Steves Art of Europe: Michelangelo to Monet</title>
+  </programme><programme channel="PBS-SoCal-KOCE-US" start="20260524003000 +0500" stop="20260524012800 +0500">
+    <title>Pride and Prejudice</title>
     <sub-title />
-    <desc>Celebrating Europe's art and creative geniuses, from Leonardo Da Vinci to Vincent van Gogh; Florence's bold "rebirth" after Europe's medieval struggles; impressionist works of the late 1800s.</desc>
+    <desc>Darcy introduces Elizabeth to his sister, Georgiana; in spite of Miss Bingley's best efforts, their relationship is growing warmer, until Elizabeth receives a piece of distressing news from Longbourn.</desc>
+    <episode-num system="onscreen">S1 E5 P5/6</episode-num>
+    <credits>
+      <director>Simon Langton</director>
+      <actor>Colin Firth</actor>
+      <actor>Jennifer Ehle</actor>
+      <actor>Crispin Bonham-Carter</actor>
+    </credits><date>1995</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Historical drama</category>
+    <category lang="en">Miniseries</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p468777_b_h8_af.jpg?w=960&amp;h=540" />
+    <rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>12</value>
+    </rating><rating system="Australian Classification Board">
+      <value>G</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>S</value>
+    </rating><rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>7</value>
+    </rating><rating system="UK Content Provider">
+      <value>U</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>AL</value>
+    </rating>
+  </programme><programme channel="PBS-SoCal-KOCE-US" start="20260524012800 +0500" stop="20260524023000 +0500">
+    <title>Pride and Prejudice</title>
+    <sub-title />
+    <desc>Mrs. Bennet is delighted to have one of her daughters married at last; Elizabeth sees Wickham in his true colors, when she meets him again after his elopement; excitement builds when Bingley returns to Netherfield, bringing Darcy with him.</desc>
+    <episode-num system="onscreen">S1 E6 P6/6</episode-num>
+    <credits>
+      <director>Simon Langton</director>
+      <actor>Colin Firth</actor>
+      <actor>Jennifer Ehle</actor>
+      <actor>Crispin Bonham-Carter</actor>
+    </credits><date>1995</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Historical drama</category>
+    <category lang="en">Miniseries</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p468777_b_h8_af.jpg?w=960&amp;h=540" />
+    <rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>12</value>
+    </rating><rating system="Australian Classification Board">
+      <value>G</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>S</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>7</value>
+    </rating><rating system="UK Content Provider">
+      <value>U</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>AL</value>
+    </rating>
+  </programme><programme channel="PBS-SoCal-KOCE-US" start="20260524023000 +0500" stop="20260524040000 +0500">
+    <title>All Creatures Great and Small: Cheers to the Years!</title>
+    <sub-title />
+    <desc>A look at the most memorable moments from the first five seasons of the series, as well as behind-the-scenes with cast and crew.</desc>
     <date>2025</date>
     <category lang="en">Special</category>
     <category lang="en">Documentary</category>
-    <category lang="en">Art</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p31308433_st_h10_aa.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating>
-  </programme><programme channel="PBS-SoCal-KOCE-US" start="20260517023000 +0500" stop="20260517053000 +0500">
-    <title>60s and 70s Soul Celebration (My Music Presents)</title>
-    <sub-title />
-    <desc>Legends of 1960s and 1970s soul music perform their biggest hits; acts include The Temptations, James Brown, Patti LaBelle, The Chi-Lites, The Spinners, Sam Moore and more.</desc>
-    <credits>
-      <actor>The Temptations</actor>
-      <actor>James Brown</actor>
-      <actor>Patti LaBelle</actor>
-    </credits><date>2024</date>
-    <category lang="en">Special</category>
-    <category lang="en">Music</category>
     <category lang="en">Entertainment</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p28391291_st_h10_aa.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>G</value>
-    </rating>
-  </programme><programme channel="PBS-SoCal-KOCE-US" start="20260517053000 +0500" stop="20260517060000 +0500">
+    <icon src="http://dtil.tmsimg.com/assets/p31345591_st_h10_aa.jpg?w=960&amp;h=540" />
+  </programme><programme channel="PBS-SoCal-KOCE-US" start="20260524040000 +0500" stop="20260524053000 +0500">
+    <title>All Creatures Great and Small: Seasons of the Dales</title>
+    <sub-title />
+    <desc>Revisiting picturesque scenes from the series in the Yorkshire countryside.</desc>
+    <date>2026</date>
+    <category lang="en">Special</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Entertainment</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p32127313_b_h10_aa.jpg?w=960&amp;h=540" />
+  </programme><programme channel="PBS-SoCal-KOCE-US" start="20260524053000 +0500" stop="20260524060000 +0500">
     <title>Horizons From PBS News</title>
     <sub-title />
     <desc>Science, health, technology and environment experts and professionals address issues such as artificial intelligence, medicine and climate science.</desc>
-    <episode-num system="onscreen">S1 E18</episode-num>
+    <episode-num system="onscreen">S1 E19</episode-num>
     <credits>
       <actor>William Brangham</actor>
     </credits><date>2026</date>
@@ -357,35 +789,37 @@
     <category lang="en">Public affairs</category>
     <language>en</language>
     <icon src="http://dtil.tmsimg.com/assets/p31977011_b_h8_aa.jpg?w=960&amp;h=540" />
-  </programme><programme channel="PBS-SoCal-KOCE-US" start="20260517060000 +0500" stop="20260517070000 +0500">
+  </programme><programme channel="PBS-SoCal-KOCE-US" start="20260524060000 +0500" stop="20260524070000 +0500">
     <title>Finding Your Roots With Henry Louis Gates, Jr.</title>
-    <sub-title>Far From Home</sub-title>
-    <desc>Jamie Chung, Cyndi Lauper and Danny Trejo retrace the journeys of their immigrant ancestors.</desc>
-    <episode-num system="onscreen">S9 E4</episode-num>
+    <sub-title>Stranger Than Fiction</sub-title>
+    <desc>Traveling across China and the American South to reveal the ancestry of novelist Amy Tan and poet Rita Dove.</desc>
+    <episode-num system="onscreen">S11 E3</episode-num>
     <credits>
       <director>Jesse Sweet</director>
       <director>Hazel Gurland</director>
       <actor>Henry Louis Gates</actor>
-      <actor>Jamie Chung</actor>
-      <actor>Cyndi Lauper</actor>
-    </credits><date>2023</date>
+      <actor>Amy Tan</actor>
+      <actor>Rita Dove</actor>
+    </credits><date>2025</date>
     <category lang="en">Series</category>
     <category lang="en">Documentary</category>
     <category lang="en">History</category>
     <language>en</language>
     <icon src="http://dtil.tmsimg.com/assets/p9029128_b_h8_ad.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Canadian Parental Rating">
+    <rating system="Canadian Parental Rating">
       <value>PG</value>
     </rating><rating system="방송통신심의위원회">
       <value>All</value>
+    </rating><rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TV14</value>
     </rating>
-  </programme><programme channel="PBS-SoCal-KOCE-US" start="20260517070000 +0500" stop="20260517075800 +0500">
+  </programme><programme channel="PBS-SoCal-KOCE-US" start="20260524070000 +0500" stop="20260524080000 +0500">
     <title>Antiques Roadshow</title>
-    <sub-title>Grant's Farm Hour 3</sub-title>
-    <desc>A Cartier Art Deco Tutti Frutti clutch circa 1925; a Carl Kauba cowboy bronze circa 1900; a Sumerian cuneiform tablet.</desc>
-    <episode-num system="onscreen">S30 E16 P3/3</episode-num>
+    <sub-title>Junk in the Trunk 15</sub-title>
+    <desc>Finds include a 1961 JFK Santa Claus Letter, a 1979 Ed Ruscha Stage Fright ink on paper and a John Juzek violin circa 1950.</desc>
+    <episode-num system="onscreen">S30 E17</episode-num>
     <credits>
       <actor>Coral Pena</actor>
     </credits><date>2026</date>
@@ -403,26 +837,26 @@
     </rating><rating system="Australian Classification Board">
       <value>G</value>
     </rating>
-  </programme><programme channel="PBS-SoCal-KOCE-US" start="20260517075800 +0500" stop="20260517093500 +0500">
+  </programme><programme channel="PBS-SoCal-KOCE-US" start="20260524080000 +0500" stop="20260524093500 +0500">
     <title>Midsomer Murders</title>
-    <sub-title>Sauce for the Goose</sub-title>
-    <desc>Barnaby is called to investigate when a body is found in a relish factory.</desc>
-    <episode-num system="onscreen">S8 E7</episode-num>
+    <sub-title>Midsomer Rhapsody</sub-title>
+    <desc>Inspector Barnaby investigates a web of family feuds, when a retired music teacher is found battered to death.</desc>
+    <episode-num system="onscreen">S8 E8</episode-num>
     <credits>
-      <director>Renny Rye</director>
+      <director>Richard Holthouse</director>
       <actor>John Nettles</actor>
       <actor>John Hopkins</actor>
-      <actor>Jane Wymark</actor>
+      <actor>Nicholas Amer</actor>
     </credits><date>2005</date>
     <category lang="en">Series</category>
     <category lang="en">Crime drama</category>
     <category lang="en">Mystery</category>
     <language>en</language>
     <icon src="http://dtil.tmsimg.com/assets/p196903_b_h8_bo.jpg?w=960&amp;h=540" />
-    <rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="USA Parental Rating">
+    <rating system="USA Parental Rating">
       <value>TVPG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
     </rating><rating system="Australian Classification Board">
       <value>M 15+</value>
     </rating><rating system="Régie du cinéma">
@@ -430,21 +864,21 @@
     </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
       <value>12</value>
     </rating><rating system="Medierådet">
-      <value>7</value>
+      <value>11</value>
     </rating><rating system="Arcom">
       <value>-10</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
     </rating><rating system="British Board of Film Classification">
       <value>15</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
     </rating>
-  </programme><programme channel="PBS-SoCal-KOCE-US" start="20260517093500 +0500" stop="20260517111000 +0500">
+  </programme><programme channel="PBS-SoCal-KOCE-US" start="20260524093500 +0500" stop="20260524111000 +0500">
     <title>The Brokenwood Mysteries</title>
-    <sub-title>Bride not to Be</sub-title>
-    <desc>Suspicions are aroused when a popular tennis star is found dead following her hen party.</desc>
-    <episode-num system="onscreen">S5 E2</episode-num>
+    <sub-title>Tontine</sub-title>
+    <desc>A multiple beneficiary will appears to be related to the death of a cyclist.</desc>
+    <episode-num system="onscreen">S5 E3</episode-num>
     <credits>
-      <director>Katie Wolfe</director>
+      <director>Thomas Robins</director>
       <actor>Neill Rea</actor>
       <actor>Fern Sutherland</actor>
       <actor>Nic Sampson</actor>
@@ -465,15 +899,14 @@
     </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
       <value>12</value>
     </rating>
-  </programme><programme channel="PBS-SoCal-KOCE-US" start="20260517111000 +0500" stop="20260517123000 +0500">
+  </programme><programme channel="PBS-SoCal-KOCE-US" start="20260524111000 +0500" stop="20260524123000 +0500">
     <title>Austin City Limits</title>
-    <sub-title>Jelly Roll; The War and Treaty</sub-title>
-    <desc>Jelly Roll performs highlights from "Whitsitt Chapel"; husband-and-wife duo The War and Treaty.</desc>
-    <episode-num system="onscreen">S50 E6</episode-num>
+    <sub-title>Chris Stapleton</sub-title>
+    <desc>Country performer Chris Stapleton delivers country-rock classics and tunes from "Higher.".</desc>
+    <episode-num system="onscreen">S50 E12</episode-num>
     <credits>
-      <actor>Jelly Roll</actor>
-      <actor>The War and Treaty</actor>
-    </credits><date>2024</date>
+      <actor>Chris Stapleton</actor>
+    </credits><date>2025</date>
     <category lang="en">Series</category>
     <category lang="en">Music</category>
     <category lang="en">Concert</category>
@@ -490,35 +923,37 @@
     </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
       <value>B</value>
     </rating>
-  </programme><programme channel="PBS-SoCal-KOCE-US" start="20260517123000 +0500" stop="20260517133000 +0500">
+  </programme><programme channel="PBS-SoCal-KOCE-US" start="20260524123000 +0500" stop="20260524133000 +0500">
     <title>Finding Your Roots With Henry Louis Gates, Jr.</title>
-    <sub-title>Far From Home</sub-title>
-    <desc>Jamie Chung, Cyndi Lauper and Danny Trejo retrace the journeys of their immigrant ancestors.</desc>
-    <episode-num system="onscreen">S9 E4</episode-num>
+    <sub-title>Stranger Than Fiction</sub-title>
+    <desc>Traveling across China and the American South to reveal the ancestry of novelist Amy Tan and poet Rita Dove.</desc>
+    <episode-num system="onscreen">S11 E3</episode-num>
     <credits>
       <director>Jesse Sweet</director>
       <director>Hazel Gurland</director>
       <actor>Henry Louis Gates</actor>
-      <actor>Jamie Chung</actor>
-      <actor>Cyndi Lauper</actor>
-    </credits><date>2023</date>
+      <actor>Amy Tan</actor>
+      <actor>Rita Dove</actor>
+    </credits><date>2025</date>
     <category lang="en">Series</category>
     <category lang="en">Documentary</category>
     <category lang="en">History</category>
     <language>en</language>
     <icon src="http://dtil.tmsimg.com/assets/p9029128_b_h8_ad.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Canadian Parental Rating">
+    <rating system="Canadian Parental Rating">
       <value>PG</value>
     </rating><rating system="방송통신심의위원회">
       <value>All</value>
+    </rating><rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TV14</value>
     </rating>
-  </programme><programme channel="PBS-SoCal-KOCE-US" start="20260517133000 +0500" stop="20260517143000 +0500">
+  </programme><programme channel="PBS-SoCal-KOCE-US" start="20260524133000 +0500" stop="20260524143000 +0500">
     <title>Antiques Roadshow</title>
-    <sub-title>Grant's Farm Hour 3</sub-title>
-    <desc>A Cartier Art Deco Tutti Frutti clutch circa 1925; a Carl Kauba cowboy bronze circa 1900; a Sumerian cuneiform tablet.</desc>
-    <episode-num system="onscreen">S30 E16 P3/3</episode-num>
+    <sub-title>Junk in the Trunk 15</sub-title>
+    <desc>Finds include a 1961 JFK Santa Claus Letter, a 1979 Ed Ruscha Stage Fright ink on paper and a John Juzek violin circa 1950.</desc>
+    <episode-num system="onscreen">S30 E17</episode-num>
     <credits>
       <actor>Coral Pena</actor>
     </credits><date>2026</date>
@@ -536,7 +971,7 @@
     </rating><rating system="Australian Classification Board">
       <value>G</value>
     </rating>
-  </programme><programme channel="PBS-SoCal-KOCE-US" start="20260517143000 +0500" stop="20260517160500 +0500">
+  </programme><programme channel="PBS-SoCal-KOCE-US" start="20260524143000 +0500" stop="20260524160000 +0500">
     <title>Midsomer Murders</title>
     <sub-title>Sauce for the Goose</sub-title>
     <desc>Barnaby is called to investigate when a body is found in a relish factory.</desc>
@@ -571,16 +1006,16 @@
     </rating><rating system="British Board of Film Classification">
       <value>15</value>
     </rating>
-  </programme><programme channel="PBS-SoCal-KOCE-US" start="20260517160500 +0500" stop="20260517180000 +0500">
+  </programme><programme channel="PBS-SoCal-KOCE-US" start="20260524160000 +0500" stop="20260524180000 +0500">
     <title>Foyle's War</title>
-    <sub-title>The French Drop</sub-title>
-    <desc>A mysterious body draws Foyle into an intricate web of SOE espionage, where he must use all his ingenuity to avoid becoming fatally ensnared.</desc>
-    <episode-num system="onscreen">S3 E1</episode-num>
+    <sub-title>Enemy of Fire</sub-title>
+    <desc>Sabotage, murder and adultery at a pioneering RAF burns hospital brings Foyle face to face with the physical and emotional consequences of war.</desc>
+    <episode-num system="onscreen">S3 E2</episode-num>
     <credits>
-      <director>Gavin Millar</director>
-      <actor>Mark Berry</actor>
-      <actor>Michael Kitchen</actor>
-      <actor>Amanda Pointer</actor>
+      <director>Jeremy Silberston</director>
+      <actor>John Wood</actor>
+      <actor>Sandra Voe</actor>
+      <actor>Bill Paterson</actor>
     </credits><date>2004</date>
     <category lang="en">Series</category>
     <category lang="en">Drama</category>
@@ -596,33 +1031,33 @@
     </rating><rating system="Régie du cinéma">
       <value>G</value>
     </rating>
-  </programme><programme channel="PBS-SoCal-KOCE-US" start="20260517180000 +0500" stop="20260517183000 +0500">
+  </programme><programme channel="PBS-SoCal-KOCE-US" start="20260524180000 +0500" stop="20260524183000 +0500">
     <title>Work It Out Wombats!</title>
-    <sub-title>Welcome to the Treeborhood; Ice Cream Bike</sub-title>
-    <desc>Devonte J. Squirrel moves to the Treeborhood; Devonte and the Wombats create a machine that makes ice cream using a bike.</desc>
-    <episode-num system="onscreen">S2 E6</episode-num>
+    <sub-title>Treeborhood Carnaval; Magic Tricky</sub-title>
+    <desc>Sammy plans a surprise Carnaval for his dad while Quique plans a surprise treat for his son; Malik performs a magic trick.</desc>
+    <episode-num system="onscreen">S1 E27</episode-num>
     <credits>
       <actor>Ian Ho</actor>
       <actor>Rain Janjua</actor>
       <actor>Mia SwamiNathan</actor>
-    </credits><date>2025</date>
+    </credits><date>2024</date>
     <category lang="en">Series</category>
     <category lang="en">Animated</category>
     <category lang="en">Children</category>
     <category lang="en">Educational</category>
     <category lang="en">Adventure</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p23615394_b_h8_aa.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p23615398_b_h8_aa.jpg?w=960&amp;h=540" />
     <rating system="USA Parental Rating">
       <value>TVY</value>
     </rating><rating system="Canadian Parental Rating">
       <value>C</value>
     </rating>
-  </programme><programme channel="PBS-SoCal-KOCE-US" start="20260517183000 +0500" stop="20260517190000 +0500">
+  </programme><programme channel="PBS-SoCal-KOCE-US" start="20260524183000 +0500" stop="20260524190000 +0500">
     <title>Lyla in the Loop</title>
-    <sub-title>When Luke Became Stu; Secret Surprise Party</sub-title>
-    <desc>After feeling left out, Luke decides to switch places with Stu; the Loops kids throw a surprise party for their parents.</desc>
-    <episode-num system="onscreen">S1 E14</episode-num>
+    <sub-title>Happy New Year, Lyla!; Everett's Summer Sale</sub-title>
+    <desc>Lyla and Everett make pins for New Year's Eve; Lyla and Everett clash while making a fun unboxing video for Phan Hardware's Summer Sale.</desc>
+    <episode-num system="onscreen">S1 E22</episode-num>
     <credits>
       <actor>Liyou Abere</actor>
       <actor>Izzy Woodbury</actor>
@@ -640,16 +1075,16 @@
     </rating><rating system="Canadian Parental Rating">
       <value>C</value>
     </rating>
-  </programme><programme channel="PBS-SoCal-KOCE-US" start="20260517190000 +0500" stop="20260517193000 +0500">
+  </programme><programme channel="PBS-SoCal-KOCE-US" start="20260524190000 +0500" stop="20260524193000 +0500">
     <title>Alma's Way</title>
-    <sub-title>Uncle Nestor's Bumpy Ride; Grocery Goof</sub-title>
-    <desc>Alma and Junior teach Uncle Nestor how to ride his first bike; Papi lets Alma go to the grocery store by herself.</desc>
-    <episode-num system="onscreen">S2 E12</episode-num>
+    <sub-title>Piragua Problem; Balloon Blues</sub-title>
+    <desc>Mr. Piragua Man names a new flavor after Alma; Alma wants to keep playing with balloon animals, but André doesn't want to play anymore.</desc>
+    <episode-num system="onscreen">S2 E4</episode-num>
     <credits>
       <actor>Summer Rose Castillo</actor>
       <actor>Jesús E. Martínez</actor>
       <actor>Annie Henk</actor>
-    </credits><date>2024</date>
+    </credits><date>2023</date>
     <category lang="en">Series</category>
     <category lang="en">Animated</category>
     <category lang="en">Children</category>
@@ -662,319 +1097,102 @@
     </rating><rating system="Canadian Parental Rating">
       <value>C</value>
     </rating>
-  </programme><programme channel="PBS-SoCal-KOCE-US" start="20260517193000 +0500" stop="20260517200000 +0500">
-    <title>Alma's Way</title>
-    <sub-title>Almas Cat-tastrophe; Stickball</sub-title>
-    <desc>Alma helps Mr. Ramirez figure out what to do when he lets too many cats into his shoe shop; Alma tries to convince Howard to play stickball.</desc>
-    <episode-num system="onscreen">S1 E36</episode-num>
+  </programme><programme channel="PBS-SoCal-KOCE-US" start="20260524193000 +0500" stop="20260524200000 +0500">
+    <title>Wowsabout</title>
+    <sub-title />
+    <desc>Ronald, a meticulous, rule-following pig, and Roxy, a free-spirited musical hedgehog, explore the "wows" of one of America's most extraordinary places -- Sequoia National Park.</desc>
     <credits>
-      <actor>Summer Rose Castillo</actor>
-      <actor>Jesús E. Martínez</actor>
-      <actor>Annie Henk</actor>
-    </credits><date>2023</date>
-    <category lang="en">Series</category>
-    <category lang="en">Animated</category>
-    <category lang="en">Children</category>
+      <director>John Tartaglia</director>
+      <actor>Dorien Davies</actor>
+      <actor>John Tartaglia</actor>
+      <actor>Alice Dinnean</actor>
+    </credits><date>2026</date>
+    <category lang="en">Special</category>
     <category lang="en">Entertainment</category>
     <category lang="en">Educational</category>
+    <category lang="en">Animated</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p20485755_b_h8_aa.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p32635772_b_h8_aa.jpg?w=960&amp;h=540" />
     <rating system="USA Parental Rating">
       <value>TVY</value>
     </rating><rating system="Canadian Parental Rating">
       <value>C</value>
     </rating>
-  </programme><programme channel="PBS-SoCal-KOCE-US" start="20260517200000 +0500" stop="20260517210000 +0500">
+  </programme><programme channel="PBS-SoCal-KOCE-US" start="20260524200000 +0500" stop="20260524210000 +0500">
     <title>Finding Your Roots With Henry Louis Gates, Jr.</title>
-    <sub-title>Far From Home</sub-title>
-    <desc>Jamie Chung, Cyndi Lauper and Danny Trejo retrace the journeys of their immigrant ancestors.</desc>
-    <episode-num system="onscreen">S9 E4</episode-num>
+    <sub-title>Stranger Than Fiction</sub-title>
+    <desc>Traveling across China and the American South to reveal the ancestry of novelist Amy Tan and poet Rita Dove.</desc>
+    <episode-num system="onscreen">S11 E3</episode-num>
     <credits>
       <director>Jesse Sweet</director>
       <director>Hazel Gurland</director>
       <actor>Henry Louis Gates</actor>
-      <actor>Jamie Chung</actor>
-      <actor>Cyndi Lauper</actor>
-    </credits><date>2023</date>
+      <actor>Amy Tan</actor>
+      <actor>Rita Dove</actor>
+    </credits><date>2025</date>
     <category lang="en">Series</category>
     <category lang="en">Documentary</category>
     <category lang="en">History</category>
     <language>en</language>
     <icon src="http://dtil.tmsimg.com/assets/p9029128_b_h8_ad.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Canadian Parental Rating">
+    <rating system="Canadian Parental Rating">
       <value>PG</value>
     </rating><rating system="방송통신심의위원회">
       <value>All</value>
-    </rating>
-  </programme><programme channel="PBS-SoCal-KOCE-US" start="20260517210000 +0500" stop="20260517220000 +0500">
-    <title>Atlantic Crossing on Masterpiece</title>
-    <sub-title>Fires Spread</sub-title>
-    <desc>Martha is pressured to exploit her friendship with President Roosevelt; Martha and her children get a surprise Christmas present.</desc>
-    <episode-num system="onscreen">S1 E4</episode-num>
-    <credits>
-      <director>Alexander Eik</director>
-      <director>Janic Heen</director>
-      <actor>Sofia Helin</actor>
-      <actor>Tobias Santelmann</actor>
-      <actor>Kyle MacLachlan</actor>
-    </credits><date>2020</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">History</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p18895921_b_h8_af.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>AL</value>
-    </rating><rating system="Instituto Nacional de Cine y Artes Audiovisuales">
-      <value>ATP</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating>
-  </programme><programme channel="PBS-SoCal-KOCE-US" start="20260517220000 +0500" stop="20260517230000 +0500">
-    <title>Atlantic Crossing on Masterpiece</title>
-    <sub-title>Empty Promises</sub-title>
-    <desc>Martha uses dinner-table tactics to help Norway; the first lady offers Martha unusual lessons in public speaking; the president treads dangerous ground with Martha.</desc>
-    <episode-num system="onscreen">S1 E5</episode-num>
-    <credits>
-      <director>Alexander Eik</director>
-      <director>Janic Heen</director>
-      <actor>Sofia Helin</actor>
-      <actor>Tobias Santelmann</actor>
-      <actor>Kyle MacLachlan</actor>
-    </credits><date>2020</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">History</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p18895921_b_h8_af.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>AL</value>
-    </rating><rating system="Instituto Nacional de Cine y Artes Audiovisuales">
-      <value>ATP</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating>
-  </programme><programme channel="PBS-SoCal-KOCE-US" start="20260517230000 +0500" stop="20260518020000 +0500">
-    <title>Great Performances at the Met</title>
-    <sub-title>Arabella</sub-title>
-    <desc>Step into 19th-century Vienna in Otto Schenk's production of "Arabella" starring Rachel Willis-Sorensen in the title role.</desc>
-    <episode-num system="onscreen">S20 E3</episode-num>
-    <credits>
-      <actor>Rachel Willis-Sørensen</actor>
-      <actor>Louise Alder</actor>
-      <actor>Tomasz Konieczny</actor>
-    </credits><date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Music</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p241428_b_h8_ac.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating>
-  </programme><programme channel="PBS-SoCal-KOCE-US" start="20260518020000 +0500" stop="20260518030000 +0500">
-    <title>Atlantic Crossing on Masterpiece</title>
-    <sub-title>The Giant Awakes</sub-title>
-    <desc>Olav arrives from England as America enters the war; Missy becomes suspicious of ties between Martha and the president; a Nazi plot unfolds.</desc>
-    <episode-num system="onscreen">S1 E6</episode-num>
-    <credits>
-      <director>Alexander Eik</director>
-      <director>Janic Heen</director>
-      <actor>Sofia Helin</actor>
-      <actor>Tobias Santelmann</actor>
-      <actor>Kyle MacLachlan</actor>
-    </credits><date>2020</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">History</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p18895921_b_h8_af.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>AL</value>
-    </rating><rating system="Instituto Nacional de Cine y Artes Audiovisuales">
-      <value>ATP</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating>
-  </programme><programme channel="PBS-SoCal-KOCE-US" start="20260518030000 +0500" stop="20260518040000 +0500">
-    <title>Atlantic Crossing on Masterpiece</title>
-    <sub-title>The Gift</sub-title>
-    <desc>A Nazi agent slips through the cracks; Martha travels to England and gets a shock; a Norwegian war hero meets a tragic fate.</desc>
-    <episode-num system="onscreen">S1 E7</episode-num>
-    <credits>
-      <director>Alexander Eik</director>
-      <director>Janic Heen</director>
-      <actor>Sofia Helin</actor>
-      <actor>Tobias Santelmann</actor>
-      <actor>Kyle MacLachlan</actor>
-    </credits><date>2020</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">History</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p18895921_b_h8_af.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>AL</value>
-    </rating><rating system="Instituto Nacional de Cine y Artes Audiovisuales">
-      <value>ATP</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating>
-  </programme><programme channel="PBS-SoCal-KOCE-US" start="20260518040000 +0500" stop="20260518050000 +0500">
-    <title>Atlantic Crossing on Masterpiece</title>
-    <sub-title>A Queen Returns</sub-title>
-    <desc>With the war nearly over, the president's health takes a bad turn; Olav tries to keep Norway out of the hands of the Soviets as he faces rocky relations with Martha.</desc>
-    <episode-num system="onscreen">S1 E8</episode-num>
-    <credits>
-      <director>Alexander Eik</director>
-      <director>Janic Heen</director>
-      <actor>Sofia Helin</actor>
-      <actor>Tobias Santelmann</actor>
-      <actor>Kyle MacLachlan</actor>
-    </credits><date>2020</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">History</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p18895921_b_h8_af.jpg?w=960&amp;h=540" />
-    <rating system="Canadian Parental Rating">
-      <value>14+</value>
+    </rating><rating system="Australian Classification Board">
+      <value>M 15+</value>
     </rating><rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>AL</value>
-    </rating><rating system="Instituto Nacional de Cine y Artes Audiovisuales">
-      <value>ATP</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
+      <value>TV14</value>
     </rating>
-  </programme><programme channel="PBS-SoCal-KOCE-US" start="20260518050000 +0500" stop="20260518053000 +0500">
-    <title>Washington Week With The Atlantic</title>
-    <sub-title />
-    <desc>A panel of journalists provides reporting and analysis of the major stories emanating from the United States capital.</desc>
-    <episode-num system="onscreen">S60 E46</episode-num>
-    <credits>
-      <actor>Jeffrey Goldberg</actor>
-    </credits><date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">News</category>
-    <category lang="en">Public affairs</category>
-    <category lang="en">Politics</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p25350982_b_h8_aa.jpg?w=960&amp;h=540" />
-  </programme><programme channel="PBS-SoCal-KOCE-US" start="20260518053000 +0500" stop="20260518060000 +0500">
-    <title>Compass Points From PBS News</title>
-    <sub-title />
-    <desc>Experts analyze prominent international affairs topics and America's role in a shifting world.</desc>
-    <episode-num system="onscreen">S1 E18</episode-num>
-    <credits>
-      <actor>Nick Schifrin</actor>
-    </credits><date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Public affairs</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p31977081_b_h8_ab.jpg?w=960&amp;h=540" />
-  </programme><programme channel="PBS-SoCal-KOCE-US" start="20260518060000 +0500" stop="20260518080000 +0500">
+  </programme><programme channel="PBS-SoCal-KOCE-US" start="20260524210000 +0500" stop="20260524224000 +0500">
     <title>Foyle's War</title>
-    <sub-title>War of Nerves</sub-title>
-    <desc>A group of engineers finds thousands of pounds of hidden cash at a shipyard.</desc>
-    <episode-num system="onscreen">S3 E4</episode-num>
+    <sub-title>The German Woman</sub-title>
+    <desc>An elderly couple is sent to an alien internment camp where one of them dies; a German woman who has avoided the camps feels the disdain of the community.</desc>
+    <episode-num system="onscreen">S1 E1</episode-num>
     <credits>
-      <director>Gavin Millar</director>
-      <actor>Samuel Oatley</actor>
-      <actor>David Alexander</actor>
-      <actor>Eamon Geoghegan</actor>
-    </credits><date>2004</date>
+      <director>Jeremy Silberston</director>
+      <actor>David Horovitch</actor>
+      <actor>Elizabeth Bell</actor>
+      <actor>Robert Pickavance</actor>
+    </credits><date>2002</date>
     <category lang="en">Series</category>
     <category lang="en">Drama</category>
     <category lang="en">Historical drama</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p388858_b_h8_ah.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p8831331_b_h8_aa.jpg?w=960&amp;h=540" />
     <rating system="Canadian Parental Rating">
       <value>14+</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TV14</value>
     </rating><rating system="Australian Classification Board">
       <value>M 15+</value>
     </rating><rating system="Régie du cinéma">
       <value>G</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TVPG</value>
     </rating>
-  </programme><programme channel="PBS-SoCal-KOCE-US" start="20260518080000 +0500" stop="20260518090000 +0500">
-    <title>Lucy Worsley's Royal Myths &amp; Secrets</title>
-    <sub-title>Elizabeth I, The Warrior Queen</sub-title>
-    <desc>Elizabeth I's image as a warrior queen, facilitated by myths and secrets about her victory over the Spanish Armada, shaped British national identity for centuries.</desc>
+  </programme><programme channel="PBS-SoCal-KOCE-US" start="20260524224000 +0500" stop="20260525002000 +0500">
+    <title>Foyle's War</title>
+    <sub-title>The White Feather</sub-title>
+    <desc>Foyle's investigation of a young saboteur leads to the leader of a British fascist organization.</desc>
     <episode-num system="onscreen">S1 E2</episode-num>
     <credits>
-      <director>Laura Blount</director>
-      <actor>Lucy Worsley</actor>
-    </credits><date>2020</date>
-    <category lang="en">Series</category>
-    <category lang="en">Documentary</category>
-    <category lang="en">History</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p17949554_b_h10_ar.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>10</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
-    </rating>
-  </programme><programme channel="PBS-SoCal-KOCE-US" start="20260518090000 +0500" stop="20260518100000 +0500">
-    <title>MaryLand on Masterpiece</title>
-    <sub-title />
-    <desc>Everything comes to a head as Richard and Jim descend on Bayview; the family tries to heal and reconnect; the fallout from Mary's actions continues to reverberate.</desc>
-    <episode-num system="onscreen">S1 E3</episode-num>
-    <credits>
-      <director>Sue Tully</director>
-      <actor>Suranne Jones</actor>
-      <actor>Eve Best</actor>
-      <actor>Hugh Quarshie</actor>
-    </credits><date>2023</date>
+      <director>Jeremy Silberston</director>
+      <actor>Lisa Ellis</actor>
+      <actor>Anthony Howell</actor>
+      <actor>Charles Dance</actor>
+    </credits><date>2002</date>
     <category lang="en">Series</category>
     <category lang="en">Drama</category>
-    <category lang="en">Miniseries</category>
+    <category lang="en">Historical drama</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p24729882_b_h8_ac.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating><rating system="Canadian Parental Rating">
+    <icon src="http://dtil.tmsimg.com/assets/p8831331_b_h8_aa.jpg?w=960&amp;h=540" />
+    <rating system="Canadian Parental Rating">
       <value>14+</value>
-    </rating><rating system="Kijkwijzer">
-      <value>12</value>
+    </rating><rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TVPG</value>
     </rating>
   </programme>
 </tv>

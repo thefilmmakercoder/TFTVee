@@ -1,13 +1,55 @@
 <?xml version='1.0' encoding='utf-8'?>
 <tv>
   <channel id="History-East-US">
+    <icon src="https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/History-East-US.png" />
+    <url>https://tv.thefilmtuition.com</url>
     <display-name>History East</display-name>
-    <icon src="https://thefilmtuition.com/tvlogo/History-East-US.png" />
-  </channel><programme channel="History-East-US" start="20260516060000 +0500" stop="20260516070300 +0500">
+  </channel><programme channel="History-East-US" start="20260522200000 +0500" stop="20260522210000 +0500">
+    <title>The Proof Is Out There: Bermuda Triangle Edition</title>
+    <sub-title>UFOs &amp; Wormholes</sub-title>
+    <desc>Traveling to the Florida coast, a hotspot for UFO sightings; Tony and his team analyze evidence of UFOs and wormholes in the Bermuda Triangle and pass a verdict on similar discoveries from around the world.</desc>
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <language>en</language>
+  </programme><programme channel="History-East-US" start="20260522210000 +0500" stop="20260522220000 +0500">
+    <title>The Proof Is Out There: Bermuda Triangle Edition</title>
+    <sub-title>Sea Creatures</sub-title>
+    <desc>Tony Harris travels to the Florida coast to investigate the legendary Bermuda beast and other mysterious sea creatures at the Bermuda Triangle; Tony and a team of experts will analyze evidence of similar bizarre sea creatures from around the world.</desc>
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <language>en</language>
+  </programme><programme channel="History-East-US" start="20260522220000 +0500" stop="20260522230000 +0500">
     <title>The UnBelievable With Dan Aykroyd</title>
-    <sub-title>Most Shocking Dances With Death</sub-title>
-    <desc>What drives someone to gamble with their own life? From a French tailor who leaps off the Eiffel Tower to a man struck by lightning more times than should be humanly possible, these perilous wagers with death are as shocking as they are unbelievable.</desc>
-    <episode-num system="onscreen">S3 E20</episode-num>
+    <sub-title>Out of this World</sub-title>
+    <desc>From a piece of the International Space Station crashing into a Florida home, to the first chimpanzee blasted into space, to a mind-bending time slip experienced by two women in Versailles, this episode dives into the unbelievable stories that challenge what we think we know about our place in the universe.</desc>
+    <episode-num system="onscreen">S3 E14</episode-num>
+    <credits>
+      <actor>Dan Aykroyd</actor>
+      <actor>Adam Richman</actor>
+      <actor>Hakeem Oluseyi</actor>
+    </credits><date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">History</category>
+    <category lang="en">Anthology</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p26008905_b_h8_at.jpg?w=960&amp;h=540" />
+    <rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A12</value>
+    </rating><rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>0</value>
+    </rating>
+  </programme><programme channel="History-East-US" start="20260522230000 +0500" stop="20260523000000 +0500">
+    <title>The UnBelievable With Dan Aykroyd</title>
+    <sub-title>Unlikely Heroes</sub-title>
+    <desc>How did a pet pig spring into action to save its owner's life? Which mysterious spirits became the unlikely heroes that turned the tide for a doomed flight? And what shocking move did a carjacker make to rescue a baby trapped in a scorching car? These are the wild, unexpected stories of heroes you'd never see coming.</desc>
+    <episode-num system="onscreen">S3 E16</episode-num>
     <credits>
       <actor>Dan Aykroyd</actor>
       <actor>Adam Richman</actor>
@@ -32,16 +74,16 @@
     </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
       <value>0</value>
     </rating>
-  </programme><programme channel="History-East-US" start="20260516070300 +0500" stop="20260516080500 +0500">
+  </programme><programme channel="History-East-US" start="20260523000000 +0500" stop="20260523010000 +0500">
     <title>The UnBelievable With Dan Aykroyd</title>
-    <sub-title>Peculiar Punishments</sub-title>
-    <desc>One-of-a-kind crimes are often met with one-of-a-kind punishments; like a pig whose bloody rampage lands itself in the courtroom, or a music enthusiast whose wall-rattling beats subject them to hours of classical symphonies.</desc>
-    <episode-num system="onscreen">S2 E13</episode-num>
+    <sub-title>Wildest Weapons</sub-title>
+    <desc>Weapons rank among humanity's most powerful-and wildest-inventions; some unleash mass destruction, while others are downright bizarre; from launching corpses with trebuchets, to turning animals into killing machines, and missiles guided by pigeons, these are the stories behind history's most outrageous weapons.</desc>
+    <episode-num system="onscreen">S3 E10</episode-num>
     <credits>
       <actor>Dan Aykroyd</actor>
       <actor>Adam Richman</actor>
       <actor>Hakeem Oluseyi</actor>
-    </credits><date>2025</date>
+    </credits><date>2026</date>
     <category lang="en">Series</category>
     <category lang="en">Documentary</category>
     <category lang="en">History</category>
@@ -52,45 +94,128 @@
       <value>15</value>
     </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
       <value>A12</value>
-    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
-      <value>12</value>
     </rating><rating system="Australian Classification Board">
       <value>MA 15+</value>
     </rating><rating system="USA Parental Rating">
       <value>TVPG</value>
     </rating><rating system="Canadian Parental Rating">
       <value>PG</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating>
-  </programme><programme channel="History-East-US" start="20260516080500 +0500" stop="20260516090300 +0500">
-    <title>The UnBelievable With Dan Aykroyd</title>
-    <sub-title>Unusual Rituals</sub-title>
-    <desc>Human bones as a "miracle cure" for gout; living mummies buried alive; a truly bizarre Victorian way to lose weight -- with tapeworms; from daily rites to once-in-a-lifetime rituals, the stranger side of human nature is revealed in these rituals.</desc>
-    <episode-num system="onscreen">S1 E7</episode-num>
-    <credits>
-      <actor>Dan Aykroyd</actor>
-    </credits><date>2024</date>
-    <category lang="en">Series</category>
-    <category lang="en">Documentary</category>
-    <category lang="en">History</category>
-    <category lang="en">Anthology</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p26008905_b_h8_at.jpg?w=960&amp;h=540" />
-    <rating system="방송통신심의위원회">
-      <value>15</value>
+    </rating><rating system="UK Content Provider">
+      <value>PG</value>
     </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
       <value>12</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating><rating system="Kijkwijzer">
-      <value>12</value>
-    </rating><rating system="Arcom">
-      <value>-10</value>
+    </rating>
+  </programme><programme channel="History-East-US" start="20260523010000 +0500" stop="20260523020000 +0500">
+    <title>The UnBelievable With Dan Aykroyd</title>
+    <sub-title>Spectacular Cons</sub-title>
+    <desc>History is full of miracle cures, far-fetched products, and astonishing feats, but not all of them are legitimate; a miracle snake oil that cures all? A piece of the Brooklyn Bridge for sale? A marathon-winner who crosses the finish line without hardly breaking a sweat? These are the stories of some of history's most spectacular cons, each deception more unbelievable than the last.</desc>
+    <episode-num system="onscreen">S3 E11</episode-num>
+    <credits>
+      <actor>Dan Aykroyd</actor>
+      <actor>Adam Richman</actor>
+      <actor>Hakeem Oluseyi</actor>
+    </credits><date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">History</category>
+    <category lang="en">Anthology</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p26008905_b_h8_at.jpg?w=960&amp;h=540" />
+    <rating system="방송통신심의위원회">
+      <value>15</value>
     </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
       <value>A12</value>
+    </rating><rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
     </rating>
-  </programme><programme channel="History-East-US" start="20260516090300 +0500" stop="20260516100500 +0500">
+  </programme><programme channel="History-East-US" start="20260523020000 +0500" stop="20260523030000 +0500">
+    <title>The UnBelievable With Dan Aykroyd</title>
+    <sub-title>Unimaginable Disasters</sub-title>
+    <desc>A drilling accident tears open the Earth and unleashes a fire pit known as the "Gates of Hell"; a routine flight turns harrowing when the pilot gets sucked out of the cockpit midair; a ship mishap sinks 4,000 luxury cars into the Atlantic.</desc>
+    <episode-num system="onscreen">S3 E13</episode-num>
+    <credits>
+      <actor>Dan Aykroyd</actor>
+      <actor>Adam Richman</actor>
+      <actor>Hakeem Oluseyi</actor>
+    </credits><date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">History</category>
+    <category lang="en">Anthology</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p26008905_b_h8_at.jpg?w=960&amp;h=540" />
+    <rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A12</value>
+    </rating><rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="History-East-US" start="20260523030000 +0500" stop="20260523040000 +0500">
+    <title>The UnBelievable With Dan Aykroyd</title>
+    <sub-title>Strange Machines</sub-title>
+    <desc>From the kitchen to the battlefield, some machines are just too strange to believe; like an appliance that runs on pup power; or a mousetrap so deadly, you need a permit to own one; how about a submarine car straight out of a Bond movie? Whether brilliant or baffling, these devices push the limits of what you thought possible.</desc>
+    <episode-num system="onscreen">S3 E12</episode-num>
+    <credits>
+      <actor>Dan Aykroyd</actor>
+      <actor>Adam Richman</actor>
+      <actor>Hakeem Oluseyi</actor>
+    </credits><date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">History</category>
+    <category lang="en">Anthology</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p26008905_b_h8_at.jpg?w=960&amp;h=540" />
+    <rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A12</value>
+    </rating><rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="History-East-US" start="20260523040000 +0500" stop="20260523050000 +0500">
+    <title>The UnBelievable With Dan Aykroyd</title>
+    <sub-title>When Darkness Falls</sub-title>
+    <desc>When the sun sets, strange things come alive; imagine a full-scale war waged against thousands of invading frogs, an artist who only paints while sleepwalking, and battlefield wounds that literally glow in the dark; these bizarre and unbelievable moments all have one thing in common they happen only when darkness falls.</desc>
+    <episode-num system="onscreen">S3 E15</episode-num>
+    <credits>
+      <actor>Dan Aykroyd</actor>
+      <actor>Adam Richman</actor>
+      <actor>Hakeem Oluseyi</actor>
+    </credits><date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">History</category>
+    <category lang="en">Anthology</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p26008905_b_h8_at.jpg?w=960&amp;h=540" />
+    <rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A12</value>
+    </rating><rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>0</value>
+    </rating>
+  </programme><programme channel="History-East-US" start="20260523050000 +0500" stop="20260523060200 +0500">
     <title>The UnBelievable With Dan Aykroyd</title>
     <sub-title>Most Shocking Dances With Death</sub-title>
     <desc>What drives someone to gamble with their own life? From a French tailor who leaps off the Eiffel Tower to a man struck by lightning more times than should be humanly possible, these perilous wagers with death are as shocking as they are unbelievable.</desc>
@@ -119,7 +244,65 @@
     </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
       <value>0</value>
     </rating>
-  </programme><programme channel="History-East-US" start="20260516100500 +0500" stop="20260516110400 +0500">
+  </programme><programme channel="History-East-US" start="20260523060200 +0500" stop="20260523070500 +0500">
+    <title>The UnBelievable With Dan Aykroyd</title>
+    <sub-title>Odd Origins</sub-title>
+    <desc>Uncover the wild beginnings behind ordinary objects, legendary figures, and even the sayings we use every day; why did Abraham Lincoln once step into the wrestling ring? How do million-dollar birds procreate? What's the story behind a dog that ignited an international conflict? These are the strangest origin tales you've never heard-and won't believe!</desc>
+    <episode-num system="onscreen">S3 E17</episode-num>
+    <credits>
+      <actor>Dan Aykroyd</actor>
+      <actor>Adam Richman</actor>
+      <actor>Hakeem Oluseyi</actor>
+    </credits><date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">History</category>
+    <category lang="en">Anthology</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p26008905_b_h8_at.jpg?w=960&amp;h=540" />
+    <rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A12</value>
+    </rating><rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>0</value>
+    </rating>
+  </programme><programme channel="History-East-US" start="20260523070500 +0500" stop="20260523080500 +0500">
+    <title>The UnBelievable With Dan Aykroyd</title>
+    <sub-title>Most Astonishing Creatures</sub-title>
+    <desc>Some of Earth's most remarkable creatures push the limits of belief from a headless chicken who toured the nation, to a goat who tipped the scales of war, to dolphins drafted into Cold War espionage; proof that the strangest legends sometimes walk, swim, or fly among us.</desc>
+    <episode-num system="onscreen">S3 E18</episode-num>
+    <credits>
+      <actor>Dan Aykroyd</actor>
+      <actor>Adam Richman</actor>
+      <actor>Hakeem Oluseyi</actor>
+    </credits><date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">History</category>
+    <category lang="en">Anthology</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p26008905_b_h8_at.jpg?w=960&amp;h=540" />
+    <rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A12</value>
+    </rating><rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>0</value>
+    </rating>
+  </programme><programme channel="History-East-US" start="20260523080500 +0500" stop="20260523090300 +0500">
     <title>The UnBelievable With Dan Aykroyd</title>
     <sub-title>Maddest Minds</sub-title>
     <desc>From a doctor who swallowed Yellow Fever vomit to prove a theory, to another who stitched together a two-headed dog, history's boldest experiments reveal just how far some minds will go; buckle in for a flying lawn chair ride, hear sound played through a dead man's ear, and witness a billionaire's bloody hunt for immortality; these are the maddest minds-and their most unbelievable experiments.</desc>
@@ -148,16 +331,16 @@
     </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
       <value>0</value>
     </rating>
-  </programme><programme channel="History-East-US" start="20260516110400 +0500" stop="20260516120500 +0500">
+  </programme><programme channel="History-East-US" start="20260523090300 +0500" stop="20260523100400 +0500">
     <title>The UnBelievable With Dan Aykroyd</title>
-    <sub-title>Peculiar Punishments</sub-title>
-    <desc>One-of-a-kind crimes are often met with one-of-a-kind punishments; like a pig whose bloody rampage lands itself in the courtroom, or a music enthusiast whose wall-rattling beats subject them to hours of classical symphonies.</desc>
-    <episode-num system="onscreen">S2 E13</episode-num>
+    <sub-title>Most Shocking Dances With Death</sub-title>
+    <desc>What drives someone to gamble with their own life? From a French tailor who leaps off the Eiffel Tower to a man struck by lightning more times than should be humanly possible, these perilous wagers with death are as shocking as they are unbelievable.</desc>
+    <episode-num system="onscreen">S3 E20</episode-num>
     <credits>
       <actor>Dan Aykroyd</actor>
       <actor>Adam Richman</actor>
       <actor>Hakeem Oluseyi</actor>
-    </credits><date>2025</date>
+    </credits><date>2026</date>
     <category lang="en">Series</category>
     <category lang="en">Documentary</category>
     <category lang="en">History</category>
@@ -168,8 +351,6 @@
       <value>15</value>
     </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
       <value>A12</value>
-    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
-      <value>12</value>
     </rating><rating system="Australian Classification Board">
       <value>MA 15+</value>
     </rating><rating system="USA Parental Rating">
@@ -177,16 +358,18 @@
     </rating><rating system="Canadian Parental Rating">
       <value>PG</value>
     </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
+      <value>0</value>
     </rating>
-  </programme><programme channel="History-East-US" start="20260516120500 +0500" stop="20260516130100 +0500">
+  </programme><programme channel="History-East-US" start="20260523100400 +0500" stop="20260523110600 +0500">
     <title>The UnBelievable With Dan Aykroyd</title>
-    <sub-title>Unusual Rituals</sub-title>
-    <desc>Human bones as a "miracle cure" for gout; living mummies buried alive; a truly bizarre Victorian way to lose weight -- with tapeworms; from daily rites to once-in-a-lifetime rituals, the stranger side of human nature is revealed in these rituals.</desc>
-    <episode-num system="onscreen">S1 E7</episode-num>
+    <sub-title>Odd Origins</sub-title>
+    <desc>Uncover the wild beginnings behind ordinary objects, legendary figures, and even the sayings we use every day; why did Abraham Lincoln once step into the wrestling ring? How do million-dollar birds procreate? What's the story behind a dog that ignited an international conflict? These are the strangest origin tales you've never heard-and won't believe!</desc>
+    <episode-num system="onscreen">S3 E17</episode-num>
     <credits>
       <actor>Dan Aykroyd</actor>
-    </credits><date>2024</date>
+      <actor>Adam Richman</actor>
+      <actor>Hakeem Oluseyi</actor>
+    </credits><date>2026</date>
     <category lang="en">Series</category>
     <category lang="en">Documentary</category>
     <category lang="en">History</category>
@@ -195,762 +378,856 @@
     <icon src="http://dtil.tmsimg.com/assets/p26008905_b_h8_at.jpg?w=960&amp;h=540" />
     <rating system="방송통신심의위원회">
       <value>15</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A12</value>
+    </rating><rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>0</value>
+    </rating>
+  </programme><programme channel="History-East-US" start="20260523110600 +0500" stop="20260523120500 +0500">
+    <title>The UnBelievable With Dan Aykroyd</title>
+    <sub-title>Most Astonishing Creatures</sub-title>
+    <desc>Some of Earth's most remarkable creatures push the limits of belief from a headless chicken who toured the nation, to a goat who tipped the scales of war, to dolphins drafted into Cold War espionage; proof that the strangest legends sometimes walk, swim, or fly among us.</desc>
+    <episode-num system="onscreen">S3 E18</episode-num>
+    <credits>
+      <actor>Dan Aykroyd</actor>
+      <actor>Adam Richman</actor>
+      <actor>Hakeem Oluseyi</actor>
+    </credits><date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">History</category>
+    <category lang="en">Anthology</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p26008905_b_h8_at.jpg?w=960&amp;h=540" />
+    <rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A12</value>
+    </rating><rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>0</value>
+    </rating>
+  </programme><programme channel="History-East-US" start="20260523120500 +0500" stop="20260523130100 +0500">
+    <title>The UnBelievable With Dan Aykroyd</title>
+    <sub-title>Maddest Minds</sub-title>
+    <desc>From a doctor who swallowed Yellow Fever vomit to prove a theory, to another who stitched together a two-headed dog, history's boldest experiments reveal just how far some minds will go; buckle in for a flying lawn chair ride, hear sound played through a dead man's ear, and witness a billionaire's bloody hunt for immortality; these are the maddest minds-and their most unbelievable experiments.</desc>
+    <episode-num system="onscreen">S3 E19</episode-num>
+    <credits>
+      <actor>Dan Aykroyd</actor>
+      <actor>Adam Richman</actor>
+      <actor>Hakeem Oluseyi</actor>
+    </credits><date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">History</category>
+    <category lang="en">Anthology</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p26008905_b_h8_at.jpg?w=960&amp;h=540" />
+    <rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A12</value>
+    </rating><rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>0</value>
+    </rating>
+  </programme><programme channel="History-East-US" start="20260523130100 +0500" stop="20260523150000 +0500">
+    <title>CSN Mint</title>
+    <sub-title />
+    <desc>Learn about the wonderful world of Coin Collecting with your host Mike Mezack and get the opportunity to build your own collection with the best coin deals on TV!</desc>
+    <category lang="en">Consumer</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p11377439_st_h10_ab.jpg?w=960&amp;h=540" />
+  </programme><programme channel="History-East-US" start="20260523150000 +0500" stop="20260523160000 +0500">
+    <title>CSN Mint</title>
+    <sub-title />
+    <desc>Learn about the wonderful world of Coin Collecting with your host Mike Mezack and get the opportunity to build your own collection with the best coin deals on TV!</desc>
+    <category lang="en">Consumer</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p11377439_st_h10_ab.jpg?w=960&amp;h=540" />
+  </programme><programme channel="History-East-US" start="20260523160000 +0500" stop="20260523170000 +0500">
+    <title>Hidden Heroes: The Nisei Soldiers of WWII</title>
+    <sub-title />
+    <desc>The unsung story of America's Nisei warriors of WWII, the sons of Japanese immigrants who volunteered by the thousands after Pearl Harbor and served in a segregated regiment to fight in some of the bloodiest battles of WWII.</desc>
+    <date>2021</date>
+    <category lang="en">Special</category>
+    <category lang="en">History</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p20839146_b_h8_ac.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="UK Content Provider">
+      <value>PG</value>
     </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
       <value>12</value>
+    </rating><rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating>
+  </programme><programme channel="History-East-US" start="20260523170000 +0500" stop="20260523190000 +0500">
+    <title>Triumph: Jesse Owens and the Berlin Olympics</title>
+    <sub-title />
+    <desc>The dramatic tale of Owens' athletic dedication, perseverance and triumph over Hitler's Aryan supremacy agenda.</desc>
+    <credits>
+      <director>Andre Gaines</director>
+      <actor>Don Cheadle</actor>
+    </credits><date>2024</date>
+    <category lang="en">Special</category>
+    <category lang="en">Documentary</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p27388478_b_h8_aa.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="History-East-US" start="20260523190000 +0500" stop="20260523210000 +0500">
+    <title>WW2 From Space</title>
+    <sub-title />
+    <desc>New information details how a nation ranked 19th in the world's militaries in 1939 emerged six years later as the planet's only atomic superpower.</desc>
+    <date>2012</date>
+    <category lang="en">Special</category>
+    <category lang="en">History</category>
+    <category lang="en">War</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p9465826_b_h10_ar.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A10</value>
+    </rating>
+  </programme><programme channel="History-East-US" start="20260523210000 +0500" stop="20260523230000 +0500">
+    <title>Navy SEALs: America's Secret Warriors</title>
+    <sub-title>Part 1</sub-title>
+    <desc>The history of the SEALs' predecessors in World War II and the Korean War and their evolution into elite warriors, fighting in the jungles of Vietnam and executing secret missions in Panama and Grenada; the formation of SEAL Team 6.</desc>
+    <episode-num system="onscreen">S1 E1 P1/2</episode-num>
+    <credits>
+      <actor>Jeff Wilburn</actor>
+    </credits><date>2017</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Military</category>
+    <category lang="en">Reality</category>
+    <category lang="en">American history</category>
+    <category lang="en">War</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p13708688_b_h8_ab.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>16</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating><rating system="Arcom">
+      <value>-10</value>
+    </rating>
+  </programme><programme channel="History-East-US" start="20260523230000 +0500" stop="20260524010000 +0500">
+    <title>Navy SEALs: America's Secret Warriors</title>
+    <sub-title>Part 2</sub-title>
+    <desc>The SEALs become the tip of the spear in the War on Terror, executing daily raids in Afghanistan and Iraq as well as high-profile missions, such as the rescue of Capt. Richard Phillips from pirates and the raid on Osama bin Laden's compound.</desc>
+    <episode-num system="onscreen">S1 E2 P2/2</episode-num>
+    <credits>
+      <actor>Jeff Wilburn</actor>
+    </credits><date>2017</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Military</category>
+    <category lang="en">Reality</category>
+    <category lang="en">American history</category>
+    <category lang="en">War</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p13708688_b_h8_ab.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>16</value>
+    </rating><rating system="Arcom">
+      <value>-10</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating>
+  </programme><programme channel="History-East-US" start="20260524010000 +0500" stop="20260524020000 +0500">
+    <title>The UnXplained</title>
+    <sub-title>America's Lost Treasures</sub-title>
+    <desc>Whether legends of vast, lost treasures hidden throughout the U.S. are real or tall tales.</desc>
+    <episode-num system="onscreen">S4 E17</episode-num>
+    <credits>
+      <actor>William Shatner</actor>
+    </credits><date>2022</date>
+    <category lang="en">Series</category>
+    <category lang="en">Paranormal</category>
+    <category lang="en">Documentary</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p17027962_b_h8_bs.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>12</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating><rating system="Australian Classification Board">
+      <value>MA 15+</value>
     </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
       <value>12</value>
     </rating><rating system="Kijkwijzer">
       <value>12</value>
-    </rating><rating system="Arcom">
-      <value>-10</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A10</value>
+    </rating>
+  </programme><programme channel="History-East-US" start="20260524020000 +0500" stop="20260524030000 +0500">
+    <title>The UnXplained</title>
+    <sub-title>The Time Travelers</sub-title>
+    <desc>A look at whether time travel has already occurred, on purpose or by accident, and scientists who believe it is theoretically possible.</desc>
+    <episode-num system="onscreen">S6 E2</episode-num>
+    <credits>
+      <actor>William Shatner</actor>
+    </credits><date>2023</date>
+    <category lang="en">Series</category>
+    <category lang="en">Paranormal</category>
+    <category lang="en">Documentary</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p17027962_b_h8_bs.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>12</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating><rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
+      <value>7</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating><rating system="Kijkwijzer">
+      <value>12</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A10</value>
+    </rating>
+  </programme><programme channel="History-East-US" start="20260524030000 +0500" stop="20260524040000 +0500">
+    <title>The UnXplained</title>
+    <sub-title>The Weird Wild West</sub-title>
+    <desc>The American frontier is full of legends of cowboys, Native Americans and outlaws; but there are also many eerie stories of cursed mountains, monsters and even UFOs.</desc>
+    <episode-num system="onscreen">S4 E20</episode-num>
+    <credits>
+      <actor>William Shatner</actor>
+    </credits><date>2022</date>
+    <category lang="en">Series</category>
+    <category lang="en">Paranormal</category>
+    <category lang="en">Documentary</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p17027962_b_h8_bs.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>12</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating><rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating><rating system="Kijkwijzer">
+      <value>12</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A10</value>
+    </rating>
+  </programme><programme channel="History-East-US" start="20260524040000 +0500" stop="20260524050000 +0500">
+    <title>The UnXplained</title>
+    <sub-title>Secrets of the Civil War</sub-title>
+    <desc>From 1861-1865, the United States of America found itself in a bloody four-year struggle known as the Civil War.</desc>
+    <episode-num system="onscreen">S7 E11</episode-num>
+    <credits>
+      <director>Susan Leventhal</director>
+      <actor>William Shatner</actor>
+    </credits><date>2025</date>
+    <category lang="en">Series</category>
+    <category lang="en">Paranormal</category>
+    <category lang="en">Documentary</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p17027962_b_h8_bs.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>12</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating><rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
+      <value>7</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A10</value>
+    </rating>
+  </programme><programme channel="History-East-US" start="20260524050000 +0500" stop="20260524060200 +0500">
+    <title>The UnXplained</title>
+    <sub-title>Strange Stories of the Presidents</sub-title>
+    <desc>There are many bizarre tales involving U.S. presidents that defy explanation and are still shrouded in mystery.</desc>
+    <episode-num system="onscreen">S6 E5</episode-num>
+    <credits>
+      <actor>William Shatner</actor>
+    </credits><date>2023</date>
+    <category lang="en">Series</category>
+    <category lang="en">Paranormal</category>
+    <category lang="en">Documentary</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p17027962_b_h8_bs.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>12</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating><rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
+      <value>7</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating><rating system="Kijkwijzer">
+      <value>12</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A10</value>
+    </rating>
+  </programme><programme channel="History-East-US" start="20260524060200 +0500" stop="20260524070500 +0500">
+    <title>The UnXplained</title>
+    <sub-title>Strange Stories of World War II</sub-title>
+    <desc>During World War II, a number of persistent mysteries were born, including unexplained stories about everything from lost gold to secret societies and highly advanced technology.</desc>
+    <episode-num system="onscreen">S6 E9</episode-num>
+    <credits>
+      <actor>William Shatner</actor>
+    </credits><date>2023</date>
+    <category lang="en">Series</category>
+    <category lang="en">Paranormal</category>
+    <category lang="en">Documentary</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p17027962_b_h8_bs.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>12</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating><rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
+      <value>7</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A10</value>
+    </rating>
+  </programme><programme channel="History-East-US" start="20260524070500 +0500" stop="20260524080500 +0500">
+    <title>The UnXplained</title>
+    <sub-title>Secrets of the Founding Fathers</sub-title>
+    <desc>The Founding Fathers established the pillars of freedom and democracy in the United States; more than two centuries after their bold vision came to life, new information has emerged about the agendas and secrets of these important historical figures.</desc>
+    <episode-num system="onscreen">S4 E19</episode-num>
+    <credits>
+      <actor>William Shatner</actor>
+    </credits><date>2022</date>
+    <category lang="en">Series</category>
+    <category lang="en">Paranormal</category>
+    <category lang="en">Documentary</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p17027962_b_h8_bs.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>12</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating><rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating><rating system="Kijkwijzer">
+      <value>12</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A10</value>
+    </rating>
+  </programme><programme channel="History-East-US" start="20260524080500 +0500" stop="20260524090300 +0500">
+    <title>The UnXplained</title>
+    <sub-title>Secrets of America's Monuments</sub-title>
+    <desc>America's monuments are inarguably impressive due to their colossal size and scope, their groundbreaking feats of engineering, and their storied histories, as well as the closely guarded secrets their implacable facades may be hiding.</desc>
+    <episode-num system="onscreen">S2 E9</episode-num>
+    <credits>
+      <actor>William Shatner</actor>
+    </credits><date>2021</date>
+    <category lang="en">Series</category>
+    <category lang="en">Paranormal</category>
+    <category lang="en">Documentary</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p17027962_b_h8_bs.jpg?w=960&amp;h=540" />
+    <rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>12</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A10</value>
+    </rating>
+  </programme><programme channel="History-East-US" start="20260524090300 +0500" stop="20260524100400 +0500">
+    <title>The UnXplained</title>
+    <sub-title>Strange Stories of the Presidents</sub-title>
+    <desc>There are many bizarre tales involving U.S. presidents that defy explanation and are still shrouded in mystery.</desc>
+    <episode-num system="onscreen">S6 E5</episode-num>
+    <credits>
+      <actor>William Shatner</actor>
+    </credits><date>2023</date>
+    <category lang="en">Series</category>
+    <category lang="en">Paranormal</category>
+    <category lang="en">Documentary</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p17027962_b_h8_bs.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>12</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating><rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
+      <value>7</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating><rating system="Kijkwijzer">
+      <value>12</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A10</value>
+    </rating>
+  </programme><programme channel="History-East-US" start="20260524100400 +0500" stop="20260524110600 +0500">
+    <title>The UnXplained</title>
+    <sub-title>Strange Stories of World War II</sub-title>
+    <desc>During World War II, a number of persistent mysteries were born, including unexplained stories about everything from lost gold to secret societies and highly advanced technology.</desc>
+    <episode-num system="onscreen">S6 E9</episode-num>
+    <credits>
+      <actor>William Shatner</actor>
+    </credits><date>2023</date>
+    <category lang="en">Series</category>
+    <category lang="en">Paranormal</category>
+    <category lang="en">Documentary</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p17027962_b_h8_bs.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>12</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating><rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
+      <value>7</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A10</value>
+    </rating>
+  </programme><programme channel="History-East-US" start="20260524110600 +0500" stop="20260524120500 +0500">
+    <title>The UnXplained</title>
+    <sub-title>Secrets of the Founding Fathers</sub-title>
+    <desc>The Founding Fathers established the pillars of freedom and democracy in the United States; more than two centuries after their bold vision came to life, new information has emerged about the agendas and secrets of these important historical figures.</desc>
+    <episode-num system="onscreen">S4 E19</episode-num>
+    <credits>
+      <actor>William Shatner</actor>
+    </credits><date>2022</date>
+    <category lang="en">Series</category>
+    <category lang="en">Paranormal</category>
+    <category lang="en">Documentary</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p17027962_b_h8_bs.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>12</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating><rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating><rating system="Kijkwijzer">
+      <value>12</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A10</value>
+    </rating>
+  </programme><programme channel="History-East-US" start="20260524120500 +0500" stop="20260524130100 +0500">
+    <title>The UnXplained</title>
+    <sub-title>Secrets of America's Monuments</sub-title>
+    <desc>America's monuments are inarguably impressive due to their colossal size and scope, their groundbreaking feats of engineering, and their storied histories, as well as the closely guarded secrets their implacable facades may be hiding.</desc>
+    <episode-num system="onscreen">S2 E9</episode-num>
+    <credits>
+      <actor>William Shatner</actor>
+    </credits><date>2021</date>
+    <category lang="en">Series</category>
+    <category lang="en">Paranormal</category>
+    <category lang="en">Documentary</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p17027962_b_h8_bs.jpg?w=960&amp;h=540" />
+    <rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>12</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A10</value>
+    </rating>
+  </programme><programme channel="History-East-US" start="20260524130100 +0500" stop="20260524150000 +0500">
+    <title>CSN Mint</title>
+    <sub-title />
+    <desc>Learn about the wonderful world of Coin Collecting with your host Mike Mezack and get the opportunity to build your own collection with the best coin deals on TV!</desc>
+    <category lang="en">Consumer</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p11377439_st_h10_ab.jpg?w=960&amp;h=540" />
+  </programme><programme channel="History-East-US" start="20260524150000 +0500" stop="20260524160000 +0500">
+    <title>CSN Mint</title>
+    <sub-title />
+    <desc>Learn about the wonderful world of Coin Collecting with your host Mike Mezack and get the opportunity to build your own collection with the best coin deals on TV!</desc>
+    <category lang="en">Consumer</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p11377439_st_h10_ab.jpg?w=960&amp;h=540" />
+  </programme><programme channel="History-East-US" start="20260524160000 +0500" stop="20260524170000 +0500">
+    <title>Tuskegee Airmen: Legacy of Courage</title>
+    <sub-title />
+    <desc>Exploring the legacy of the Tuskegee Airmen, the legendary group of African American pilots, revealing how these warriors for change helped end segregation in the military and pave the way for the civil rights movement.</desc>
+    <credits>
+      <actor>Robin Roberts</actor>
+    </credits><date>2021</date>
+    <category lang="en">Special</category>
+    <category lang="en">History</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p19360082_b_h8_ag.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>19</value>
+    </rating><rating system="Australian Classification Board">
+      <value>PG</value>
     </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
       <value>A12</value>
     </rating>
-  </programme><programme channel="History-East-US" start="20260516130100 +0500" stop="20260516150000 +0500">
-    <title>CSN Mint</title>
-    <sub-title />
-    <desc>Learn about the wonderful world of Coin Collecting with your host Mike Mezack and get the opportunity to build your own collection with the best coin deals on TV!</desc>
-    <category lang="en">Consumer</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p11377439_st_h10_ab.jpg?w=960&amp;h=540" />
-  </programme><programme channel="History-East-US" start="20260516150000 +0500" stop="20260516160000 +0500">
-    <title>CSN Mint</title>
-    <sub-title />
-    <desc>Learn about the wonderful world of Coin Collecting with your host Mike Mezack and get the opportunity to build your own collection with the best coin deals on TV!</desc>
-    <category lang="en">Consumer</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p11377439_st_h10_ab.jpg?w=960&amp;h=540" />
-  </programme><programme channel="History-East-US" start="20260516160000 +0500" stop="20260516170000 +0500">
-    <title>Counting Cars</title>
-    <sub-title>The Coolest Cutlass</sub-title>
-    <desc>Danny and the crew are faced with a monumental task when they take on a botched restoration job on a 1968 Oldsmobile Cutlass.</desc>
-    <episode-num system="onscreen">S10 E4</episode-num>
+  </programme><programme channel="History-East-US" start="20260524170000 +0500" stop="20260524180000 +0500">
+    <title>WWII in HD</title>
+    <sub-title>Darkness Falls</sub-title>
+    <desc>As Europe falls under the sway of Nazi Germany, America is unprepared for war and the Japanese attack on Pearl Harbor.</desc>
+    <episode-num system="onscreen">S1 E1</episode-num>
     <credits>
-      <actor>Danny Koker</actor>
-      <actor>Kevin Mack</actor>
-      <actor>Mike "Horny" Henry</actor>
-    </credits><date>2021</date>
+      <actor>Gary Sinise</actor>
+      <actor>Justin Bartha</actor>
+      <actor>Rob Corddry</actor>
+    </credits><date>2009</date>
     <category lang="en">Series</category>
-    <category lang="en">Reality</category>
-    <category lang="en">Auto</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">History</category>
+    <category lang="en">War</category>
+    <category lang="en">Military</category>
+    <category lang="en">World history</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p9354925_b_h8_bq.jpg?w=960&amp;h=540" />
-    <rating system="방송통신심의위원회">
-      <value>15</value>
-    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K7</value>
-    </rating><rating system="Kijkwijzer">
-      <value>AL</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="Australian Classification Board">
-      <value>PG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A10</value>
-    </rating>
-  </programme><programme channel="History-East-US" start="20260516170000 +0500" stop="20260516180000 +0500">
-    <title>Counting Cars</title>
-    <sub-title>Little Red Corvette</sub-title>
-    <desc>Danny finds the perfect car, a 1966 Corvette Stingray; the Count's Kustoms crew takes Danny's latest SEMA creation, a '61 Cadillac Coupe de Ville, to a Palm Springs car auction to find a buyer.</desc>
-    <episode-num system="onscreen">S9 E4</episode-num>
-    <credits>
-      <actor>Danny Koker</actor>
-      <actor>Kevin Mack</actor>
-      <actor>Mike "Horny" Henry</actor>
-    </credits><date>2020</date>
-    <category lang="en">Series</category>
-    <category lang="en">Reality</category>
-    <category lang="en">Auto</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p9354925_b_h8_bq.jpg?w=960&amp;h=540" />
-    <rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="Australian Classification Board">
-      <value>PG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>7</value>
-    </rating><rating system="Kijkwijzer">
-      <value>AL</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A10</value>
-    </rating>
-  </programme><programme channel="History-East-US" start="20260516180000 +0500" stop="20260516190000 +0500">
-    <title>Counting Cars</title>
-    <sub-title>Big Love Buick</sub-title>
-    <desc>A couple from Miami enlists Danny and the Counts crew to raise money and awareness to combat a very rare disease; Ryan and Shannon transform a valuable 1954 Harley Davidson Panhead motorcycle to its former glory.</desc>
-    <episode-num system="onscreen">S9 E3</episode-num>
-    <credits>
-      <actor>Danny Koker</actor>
-      <actor>Kevin Mack</actor>
-      <actor>Mike "Horny" Henry</actor>
-    </credits><date>2020</date>
-    <category lang="en">Series</category>
-    <category lang="en">Reality</category>
-    <category lang="en">Auto</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p9354925_b_h8_bq.jpg?w=960&amp;h=540" />
-    <rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="Australian Classification Board">
-      <value>PG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>7</value>
-    </rating><rating system="Kijkwijzer">
-      <value>AL</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A10</value>
-    </rating>
-  </programme><programme channel="History-East-US" start="20260516190000 +0500" stop="20260516200000 +0500">
-    <title>Counting Cars</title>
-    <sub-title>Count's Car Show</sub-title>
-    <desc>Danny is hosting a giant car show and has to restore a '73 boat-tail Riviera to be the main attraction; Danny finds a collection of jaw-dropping muscle cars.</desc>
-    <episode-num system="onscreen">S4 E2</episode-num>
-    <credits>
-      <actor>Danny Koker</actor>
-    </credits><date>2015</date>
-    <category lang="en">Series</category>
-    <category lang="en">Reality</category>
-    <category lang="en">Auto</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p9354925_b_h8_bq.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p8598957_b_h10_aa.jpg?w=960&amp;h=540" />
     <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
+      <value>TV14</value>
     </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="Australian Classification Board">
-      <value>PG</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
-    </rating><rating system="Kijkwijzer">
-      <value>AL</value>
+      <value>14+</value>
     </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A10</value>
+      <value>14</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>7</value>
+    </rating><rating system="UK Content Provider">
+      <value>15</value>
     </rating><rating system="Arcom">
       <value>-10</value>
     </rating>
-  </programme><programme channel="History-East-US" start="20260516200000 +0500" stop="20260516220000 +0500">
-    <title>The Cars That Made America</title>
-    <sub-title>Part 1</sub-title>
-    <desc>Young visionaries wage battle for control of the fledgling industry; Henry Ford, William Durant, Walter Chrysler and the Dodge brothers revolutionize transportation, while paving the way for the largest and most influential corporate empires.</desc>
-    <episode-num system="onscreen">S1 E1 P1/3</episode-num>
-    <credits>
-      <actor>Dale Earnhardt</actor>
-    </credits><date>2017</date>
-    <category lang="en">Series</category>
-    <category lang="en">Docudrama</category>
-    <category lang="en">History</category>
-    <category lang="en">Auto</category>
-    <category lang="en">American history</category>
-    <category lang="en">Technology</category>
-    <category lang="en">Miniseries</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p14301862_b_h8_ac.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>10</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating><rating system="방송통신심의위원회">
-      <value>15</value>
-    </rating>
-  </programme><programme channel="History-East-US" start="20260516220000 +0500" stop="20260517000000 +0500">
-    <title>The Cars That Made America</title>
-    <sub-title>Part 2</sub-title>
-    <desc>The automobile begins to transform the United States; cities and towns change to suit the automobile; the middle class grows due to the booming manufacturing sector; the Big Three dominates the industry while the battle to be number one heats up.</desc>
-    <episode-num system="onscreen">S1 E2 P2/3</episode-num>
-    <credits>
-      <actor>Dale Earnhardt</actor>
-    </credits><date>2017</date>
-    <category lang="en">Series</category>
-    <category lang="en">Docudrama</category>
-    <category lang="en">History</category>
-    <category lang="en">Auto</category>
-    <category lang="en">American history</category>
-    <category lang="en">Technology</category>
-    <category lang="en">Miniseries</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p14301862_b_h8_ac.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>10</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating><rating system="방송통신심의위원회">
-      <value>15</value>
-    </rating>
-  </programme><programme channel="History-East-US" start="20260517000000 +0500" stop="20260517020000 +0500">
-    <title>The Cars That Made America</title>
-    <sub-title>Part 3</sub-title>
-    <desc>After World War II, Americans move to the suburbs, fueling demand for new cars and leading to the golden age of the American automobile; car companies create the muscle car, even as external influences threaten to bring the industry to its knees.</desc>
-    <episode-num system="onscreen">S1 E3 P3/3</episode-num>
-    <credits>
-      <actor>Dale Earnhardt</actor>
-    </credits><date>2017</date>
-    <category lang="en">Series</category>
-    <category lang="en">Docudrama</category>
-    <category lang="en">History</category>
-    <category lang="en">Auto</category>
-    <category lang="en">American history</category>
-    <category lang="en">Technology</category>
-    <category lang="en">Miniseries</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p14301862_b_h8_ac.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>10</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating><rating system="방송통신심의위원회">
-      <value>15</value>
-    </rating>
-  </programme><programme channel="History-East-US" start="20260517020000 +0500" stop="20260517030000 +0500">
-    <title>History's Greatest Warriors</title>
-    <sub-title>The Delta Force</sub-title>
-    <desc>A Delta Force operator deploys unparalleled skill in counterterrorism, hostage rescue, and covert operations; his ability to neutralize high-level threats makes the Delta Force operator a critical force in combating global terrorism.</desc>
-    <episode-num system="onscreen">S1 E3</episode-num>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Documentary</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p32554621_b_h8_aa.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-  </programme><programme channel="History-East-US" start="20260517030000 +0500" stop="20260517040000 +0500">
-    <title>History's Greatest Warriors</title>
-    <sub-title>The Navy SEALs</sub-title>
-    <desc>The Navy SEAL is forged in pain: intense training that transforms him into a fighting force capable of operating in any environment, from sea to land to air; originating during World War II and further honed in the Vietnam War, the SEAL develops cutting-edge tactics in special operations, making him a highly skilled and adaptable fighter.</desc>
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Documentary</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p32554621_b_h8_aa.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-  </programme><programme channel="History-East-US" start="20260517040000 +0500" stop="20260517050000 +0500">
-    <title>History's Greatest Warriors</title>
-    <sub-title>The Vikings</sub-title>
-    <desc>The Viking's fearless ability to launch devastating raids across vast distances make him an elite force from the late 8th century to the mid-11th century; armed with axe and sword, he uses both strength and strategy to dominate his enemies.</desc>
+  </programme><programme channel="History-East-US" start="20260524180000 +0500" stop="20260524190000 +0500">
+    <title>WWII in HD</title>
+    <sub-title>Hard Way Back</sub-title>
+    <desc>Charles Scheffel battles German forces in North Africa; Jack Werner faces bitter combat against the Japanese in the Pacific.</desc>
     <episode-num system="onscreen">S1 E2</episode-num>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Documentary</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p32554621_b_h8_aa.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating><rating system="UK Content Provider">
-      <value>PG</value>
-    </rating>
-  </programme><programme channel="History-East-US" start="20260517050000 +0500" stop="20260517060200 +0500">
-    <title>History's Greatest Warriors</title>
-    <sub-title>The Samurai</sub-title>
-    <desc>The Japanese samurai is a master of both military strategy and combat skills, honed through rigorous training in weapons like the katana and yumi.</desc>
-    <episode-num system="onscreen">S1 E7</episode-num>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Documentary</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p32554621_b_h8_aa.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-  </programme><programme channel="History-East-US" start="20260517060200 +0500" stop="20260517070500 +0500">
-    <title>History's Greatest Warriors</title>
-    <sub-title>The Knights Templar</sub-title>
-    <desc>The Templar Knights of the 12th century build some of history's greatest warriors through elite training in the Holy Land, combining religious devotion with extraordinary combat skills.</desc>
-    <episode-num system="onscreen">S1 E4</episode-num>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Documentary</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p32554621_b_h8_aa.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-  </programme><programme channel="History-East-US" start="20260517070500 +0500" stop="20260517080500 +0500">
-    <title>History's Greatest Warriors</title>
-    <sub-title>The Mongols</sub-title>
-    <desc>The Mongol's unmatched skill in horseback archery and lightning-fast mobility across vast terrains build him into the most elite fighter of his time.</desc>
-    <episode-num system="onscreen">S1 E6</episode-num>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Documentary</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p32554621_b_h8_aa.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-  </programme><programme channel="History-East-US" start="20260517080500 +0500" stop="20260517090300 +0500">
-    <title>History's Greatest Warriors</title>
-    <sub-title>The Spartans</sub-title>
-    <desc>The Spartan is one of the most powerful soldiers in the world from the 7th century BC to the 4th century BC; his unmatched discipline and lifelong dedication to rigorous military training begins in childhood.</desc>
-    <episode-num system="onscreen">S1 E5</episode-num>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Documentary</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p32554621_b_h8_aa.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-  </programme><programme channel="History-East-US" start="20260517090300 +0500" stop="20260517100400 +0500">
-    <title>History's Greatest Warriors</title>
-    <sub-title>The Samurai</sub-title>
-    <desc>The Japanese samurai is a master of both military strategy and combat skills, honed through rigorous training in weapons like the katana and yumi.</desc>
-    <episode-num system="onscreen">S1 E7</episode-num>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Documentary</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p32554621_b_h8_aa.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-  </programme><programme channel="History-East-US" start="20260517100400 +0500" stop="20260517110600 +0500">
-    <title>History's Greatest Warriors</title>
-    <sub-title>The Knights Templar</sub-title>
-    <desc>The Templar Knights of the 12th century build some of history's greatest warriors through elite training in the Holy Land, combining religious devotion with extraordinary combat skills.</desc>
-    <episode-num system="onscreen">S1 E4</episode-num>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Documentary</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p32554621_b_h8_aa.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-  </programme><programme channel="History-East-US" start="20260517110600 +0500" stop="20260517120500 +0500">
-    <title>History's Greatest Warriors</title>
-    <sub-title>The Mongols</sub-title>
-    <desc>The Mongol's unmatched skill in horseback archery and lightning-fast mobility across vast terrains build him into the most elite fighter of his time.</desc>
-    <episode-num system="onscreen">S1 E6</episode-num>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Documentary</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p32554621_b_h8_aa.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-  </programme><programme channel="History-East-US" start="20260517120500 +0500" stop="20260517130100 +0500">
-    <title>History's Greatest Warriors</title>
-    <sub-title>The Spartans</sub-title>
-    <desc>The Spartan is one of the most powerful soldiers in the world from the 7th century BC to the 4th century BC; his unmatched discipline and lifelong dedication to rigorous military training begins in childhood.</desc>
-    <episode-num system="onscreen">S1 E5</episode-num>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Documentary</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p32554621_b_h8_aa.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-  </programme><programme channel="History-East-US" start="20260517130100 +0500" stop="20260517150000 +0500">
-    <title>CSN Mint</title>
-    <sub-title />
-    <desc>Learn about the wonderful world of Coin Collecting with your host Mike Mezack and get the opportunity to build your own collection with the best coin deals on TV!</desc>
-    <category lang="en">Consumer</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p11377439_st_h10_ab.jpg?w=960&amp;h=540" />
-  </programme><programme channel="History-East-US" start="20260517150000 +0500" stop="20260517160000 +0500">
-    <title>CSN Mint</title>
-    <sub-title />
-    <desc>Learn about the wonderful world of Coin Collecting with your host Mike Mezack and get the opportunity to build your own collection with the best coin deals on TV!</desc>
-    <category lang="en">Consumer</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p11377439_st_h10_ab.jpg?w=960&amp;h=540" />
-  </programme><programme channel="History-East-US" start="20260517160000 +0500" stop="20260517170000 +0500">
-    <title>Modern Marvels</title>
-    <sub-title>Battlefield Engineering</sub-title>
-    <desc>Perhaps the most important and yet least recognized aspect of warfare is battlefield engineering; battlefield engineers lay the groundwork, quite literally, for the battle to come.</desc>
-    <episode-num system="onscreen">S3 E16</episode-num>
     <credits>
-      <actor>Adam Richman</actor>
-    </credits><date>1998</date>
+      <actor>Gary Sinise</actor>
+      <actor>Justin Bartha</actor>
+      <actor>Rob Corddry</actor>
+    </credits><date>2009</date>
     <category lang="en">Series</category>
     <category lang="en">Documentary</category>
     <category lang="en">History</category>
-    <category lang="en">Science</category>
-    <category lang="en">Technology</category>
-    <category lang="en">Anthology</category>
+    <category lang="en">War</category>
+    <category lang="en">Military</category>
+    <category lang="en">World history</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p185155_b_h8_bd.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p8598957_b_h10_aa.jpg?w=960&amp;h=540" />
     <rating system="USA Parental Rating">
-      <value>TVPG</value>
+      <value>TV14</value>
     </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
+      <value>14+</value>
     </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>L</value>
+      <value>14</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>7</value>
+    </rating><rating system="UK Content Provider">
+      <value>15</value>
+    </rating><rating system="Arcom">
+      <value>-10</value>
     </rating>
-  </programme><programme channel="History-East-US" start="20260517170000 +0500" stop="20260517190000 +0500">
-    <title>The Men Who Built America</title>
-    <sub-title>A New War Begins</sub-title>
-    <desc>The nation attempts to rebuild following the destruction of the Civil War; the demand for oil goes sky high.</desc>
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <credits>
-      <actor>Campbell Scott</actor>
-      <actor>H.W. Brands</actor>
-      <actor>Mark Cuban</actor>
-    </credits><date>2012</date>
-    <category lang="en">Series</category>
-    <category lang="en">Documentary</category>
-    <category lang="en">American history</category>
-    <category lang="en">Technology</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p9459711_b_h8_ba.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating>
-  </programme><programme channel="History-East-US" start="20260517190000 +0500" stop="20260517210000 +0500">
-    <title>The Men Who Built America</title>
-    <sub-title>Bloody Battles</sub-title>
-    <desc>Andrew Carnegie immigrates to the United States and learns about business; Carnegie hires Henry Frick to help him achieve his goal of besting Rockefeller.</desc>
+  </programme><programme channel="History-East-US" start="20260524190000 +0500" stop="20260524200000 +0500">
+    <title>WWII in HD</title>
+    <sub-title>Bloody Resolve</sub-title>
+    <desc>U.S. Marines assault Japanese-held Tarawa in the Pacific; the fighting in Italy claims a casualty. Narrator: Gary Sinise.</desc>
     <episode-num system="onscreen">S1 E3</episode-num>
     <credits>
-      <actor>Campbell Scott</actor>
-      <actor>H.W. Brands</actor>
-      <actor>Mark Cuban</actor>
-    </credits><date>2012</date>
+      <actor>Gary Sinise</actor>
+      <actor>Justin Bartha</actor>
+      <actor>Rob Corddry</actor>
+    </credits><date>2009</date>
     <category lang="en">Series</category>
     <category lang="en">Documentary</category>
-    <category lang="en">American history</category>
-    <category lang="en">Technology</category>
+    <category lang="en">History</category>
+    <category lang="en">War</category>
+    <category lang="en">Military</category>
+    <category lang="en">World history</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p9459714_b_h8_ac.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p8598957_b_h10_aa.jpg?w=960&amp;h=540" />
     <rating system="USA Parental Rating">
-      <value>TVPG</value>
+      <value>TV14</value>
     </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="Australian Classification Board">
-      <value>M 15+</value>
+      <value>14+</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>7</value>
+    </rating><rating system="UK Content Provider">
+      <value>15</value>
+    </rating><rating system="Arcom">
+      <value>-10</value>
     </rating>
-  </programme><programme channel="History-East-US" start="20260517210000 +0500" stop="20260517230000 +0500">
-    <title>The Men Who Built America</title>
-    <sub-title>Changing the Game</sub-title>
-    <desc>The steel and oil have forever changed the face of America; JP Morgan expedites growth through finance.</desc>
+  </programme><programme channel="History-East-US" start="20260524200000 +0500" stop="20260524210000 +0500">
+    <title>WWII in HD</title>
+    <sub-title>Battle Stations</sub-title>
+    <desc>The Allies lay plans for the invasion of France; Bert Stiles and the 8th Air Force try to win air supremacy over Normandy as D-Day arrives.</desc>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <credits>
+      <actor>Gary Sinise</actor>
+      <actor>Justin Bartha</actor>
+      <actor>Rob Corddry</actor>
+    </credits><date>2009</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">History</category>
+    <category lang="en">War</category>
+    <category lang="en">Military</category>
+    <category lang="en">World history</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p8598957_b_h10_aa.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>7</value>
+    </rating><rating system="UK Content Provider">
+      <value>15</value>
+    </rating><rating system="Arcom">
+      <value>-10</value>
+    </rating>
+  </programme><programme channel="History-East-US" start="20260524210000 +0500" stop="20260524220000 +0500">
+    <title>WWII in HD</title>
+    <sub-title>Day of Days</sub-title>
+    <desc>The Allies get bogged down in Normandy's hedgerows after D-Day; victory turns to horror on Saipan in the Pacific.</desc>
     <episode-num system="onscreen">S1 E5</episode-num>
     <credits>
-      <actor>Campbell Scott</actor>
-      <actor>H.W. Brands</actor>
-      <actor>Mark Cuban</actor>
-    </credits><date>2012</date>
+      <actor>Gary Sinise</actor>
+      <actor>Justin Bartha</actor>
+      <actor>Rob Corddry</actor>
+    </credits><date>2009</date>
     <category lang="en">Series</category>
     <category lang="en">Documentary</category>
-    <category lang="en">American history</category>
-    <category lang="en">Technology</category>
+    <category lang="en">History</category>
+    <category lang="en">War</category>
+    <category lang="en">Military</category>
+    <category lang="en">World history</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p9459714_b_h8_ac.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p8598957_b_h10_aa.jpg?w=960&amp;h=540" />
     <rating system="USA Parental Rating">
-      <value>TVPG</value>
+      <value>TV14</value>
     </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="Australian Classification Board">
-      <value>M 15+</value>
+      <value>14+</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>7</value>
+    </rating><rating system="UK Content Provider">
+      <value>15</value>
+    </rating><rating system="Arcom">
+      <value>-10</value>
     </rating>
-  </programme><programme channel="History-East-US" start="20260517230000 +0500" stop="20260518010000 +0500">
-    <title>The Men Who Built America</title>
-    <sub-title>When One Ends, Another Begins</sub-title>
-    <desc>Even as new resources are harnessed, America changes.</desc>
+  </programme><programme channel="History-East-US" start="20260524220000 +0500" stop="20260524230000 +0500">
+    <title>WWII in HD</title>
+    <sub-title>Point of No Return</sub-title>
+    <desc>U.S. Marines battle for Peleliu in the Pacific; the Allies race toward Germany. Narrator: Gary Sinise.</desc>
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <credits>
+      <actor>Gary Sinise</actor>
+      <actor>Justin Bartha</actor>
+      <actor>Rob Corddry</actor>
+    </credits><date>2009</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">History</category>
+    <category lang="en">War</category>
+    <category lang="en">Military</category>
+    <category lang="en">World history</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p8598957_b_h10_aa.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>7</value>
+    </rating><rating system="UK Content Provider">
+      <value>15</value>
+    </rating><rating system="Arcom">
+      <value>-10</value>
+    </rating>
+  </programme><programme channel="History-East-US" start="20260524230000 +0500" stop="20260525000000 +0500">
+    <title>WWII in HD</title>
+    <sub-title>Striking Distance</sub-title>
+    <desc>American forces storm the Philippines; Shelby Westbrook is shot down over Europe; Jack Yusen's ship is sunk.</desc>
     <episode-num system="onscreen">S1 E7</episode-num>
     <credits>
-      <actor>Campbell Scott</actor>
-      <actor>H.W. Brands</actor>
-      <actor>Mark Cuban</actor>
-    </credits><date>2012</date>
+      <actor>Gary Sinise</actor>
+      <actor>Justin Bartha</actor>
+      <actor>Rob Corddry</actor>
+    </credits><date>2009</date>
     <category lang="en">Series</category>
     <category lang="en">Documentary</category>
-    <category lang="en">American history</category>
-    <category lang="en">Technology</category>
+    <category lang="en">History</category>
+    <category lang="en">War</category>
+    <category lang="en">Military</category>
+    <category lang="en">World history</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p9459711_b_h8_ba.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p8598957_b_h10_aa.jpg?w=960&amp;h=540" />
     <rating system="USA Parental Rating">
-      <value>TVPG</value>
+      <value>TV14</value>
     </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating>
-  </programme><programme channel="History-East-US" start="20260518010000 +0500" stop="20260518020000 +0500">
-    <title>The Food That Built America</title>
-    <sub-title>Thirst Quenchers</sub-title>
-    <desc>Before juice was everywhere, these innovators used brilliant ingenuity to create the most nostalgic drink products and thirst quenchers of the last century, leading the charge on a new billion dollar beverage industry.</desc>
-    <episode-num system="onscreen">S4 E12</episode-num>
-    <credits>
-      <director>Drew Painter</director>
-      <actor>Campbell Scott</actor>
-      <actor>Adam Richman</actor>
-      <actor>Libby O'Connell</actor>
-    </credits><date>2023</date>
-    <category lang="en">Series</category>
-    <category lang="en">Cooking</category>
-    <category lang="en">History</category>
-    <category lang="en">Documentary</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p17145484_b_h8_bv.jpg?w=960&amp;h=540" />
-    <rating system="Australian Classification Board">
-      <value>PG</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
-      <value>12</value>
+      <value>14+</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
     </rating><rating system="방송통신심의위원회">
       <value>15</value>
     </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
       <value>7</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A10</value>
-    </rating>
-  </programme><programme channel="History-East-US" start="20260518020000 +0500" stop="20260518030000 +0500">
-    <title>The Food That Built America</title>
-    <sub-title>Sunshine in a Glass</sub-title>
-    <desc>A scientist and businessman team up to develop a Vitamin C-rich war ration for WWII troopers, leading to orange juice concentrate; a fruit salesman develops a process of flash-pasteurizing fresh orange juice; the two companies soon compete.</desc>
-    <episode-num system="onscreen">S5 E4</episode-num>
-    <credits>
-      <actor>Campbell Scott</actor>
-      <actor>Adam Richman</actor>
-      <actor>Libby O'Connell</actor>
-    </credits><date>2024</date>
-    <category lang="en">Series</category>
-    <category lang="en">Cooking</category>
-    <category lang="en">History</category>
-    <category lang="en">Documentary</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p17145484_b_h8_bv.jpg?w=960&amp;h=540" />
-    <rating system="Australian Classification Board">
-      <value>PG</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
-      <value>12</value>
-    </rating><rating system="방송통신심의위원회">
-      <value>15</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>7</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A10</value>
-    </rating>
-  </programme><programme channel="History-East-US" start="20260518030000 +0500" stop="20260518040000 +0500">
-    <title>The Food That Built America</title>
-    <sub-title>Citrus Soda Stars</sub-title>
-    <desc>A small-time St. Louis soda maker, Charles Leiper Grigg, takes on Coke and Pepsi by introducing a clear, lemon-lime soda he calls 7-Up; at the same time, two brothers in Tennessee, Ali and Barney Hartman, have their own, called Mountain Dew.</desc>
-    <episode-num system="onscreen">S5 E11</episode-num>
-    <credits>
-      <actor>Campbell Scott</actor>
-      <actor>Adam Richman</actor>
-      <actor>Libby O'Connell</actor>
-    </credits><date>2024</date>
-    <category lang="en">Series</category>
-    <category lang="en">Cooking</category>
-    <category lang="en">History</category>
-    <category lang="en">Documentary</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p17145484_b_h8_bv.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
-      <value>12</value>
-    </rating><rating system="방송통신심의위원회">
-      <value>15</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>7</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A10</value>
-    </rating><rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating>
-  </programme><programme channel="History-East-US" start="20260518040000 +0500" stop="20260518050000 +0500">
-    <title>Hazardous History With Henry Winkler</title>
-    <sub-title>Mad Medicine</sub-title>
-    <desc>There was a time when any and all cures could be sold to the public indiscriminately; diving into a world where animal skin can replace your own, where doctors give coffee enemas and a world of heroin-laced cough syrup.</desc>
-    <episode-num system="onscreen">S1 E3</episode-num>
-    <credits>
-      <director>Jim Pasquarella</director>
-      <actor>Henry Winkler</actor>
-    </credits><date>2025</date>
-    <category lang="en">Series</category>
-    <category lang="en">Documentary</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p30220346_b_h8_ag.jpg?w=960&amp;h=540" />
-    <rating system="방송통신심의위원회">
-      <value>15</value>
     </rating><rating system="UK Content Provider">
-      <value>PG</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>7</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A10</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-  </programme><programme channel="History-East-US" start="20260518050000 +0500" stop="20260518060000 +0500">
-    <title>Hazardous History With Henry Winkler</title>
-    <sub-title>Hell On Wheels</sub-title>
-    <desc>Remember when hitting the road meant flirting with disaster?; from rumble seats that turn passengers into projectiles, to scorching cigarette lighters built right into the dash, to cars that have a habit of going up in flames, even a simple trip can go south; these are the bright ideas and questionable designs that turn people daily commute into a demolition derby; it's a high-speed, white-knuckle ride back to a time when the rules of the road were still being written.</desc>
-    <episode-num system="onscreen">S2 E4</episode-num>
-    <credits>
-      <actor>Henry Winkler</actor>
-    </credits><date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Documentary</category>
-    <category lang="en">Reality</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p30220346_b_h8_ag.jpg?w=960&amp;h=540" />
-    <rating system="방송통신심의위원회">
       <value>15</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A10</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-  </programme><programme channel="History-East-US" start="20260518060000 +0500" stop="20260518070300 +0500">
-    <title>Hazardous History With Henry Winkler</title>
-    <sub-title>Domestic Dangers</sub-title>
-    <desc>Remember when having a modern home meant living on the edge of danger?; from backyard trash fires and waterbeds that turn bedrooms into flood zones, to electric fans that snatch fingers and garden hoses that serve up toxic sips of water, domestic life is full of hidden peril; these are the familiar fixes and convenient comforts that turn out to be far from safe; it's a hair-raising, eye-opening trip back to the homegrown hazards that can make you wonder what are we thinking?</desc>
-    <episode-num system="onscreen">S2 E5</episode-num>
-    <credits>
-      <actor>Henry Winkler</actor>
-    </credits><date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Documentary</category>
-    <category lang="en">Reality</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p32658523_b_h8_ab.jpg?w=960&amp;h=540" />
-    <rating system="방송통신심의위원회">
-      <value>15</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A10</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-  </programme><programme channel="History-East-US" start="20260518070300 +0500" stop="20260518080500 +0500">
-    <title>The Food That Built America</title>
-    <sub-title>Chocolate in a Glass</sub-title>
-    <desc>A chemist unlocks a chocolate syrup that transforms milk into a magic sensation; a soda shop owner cracks the code to bottling liquid chocolate for the masses; and a dairy innovator turns wartime surplus into instant cocoa gold, launching a chocolate drink revolution that sweeps America.</desc>
-    <episode-num system="onscreen">S7 E5</episode-num>
-    <credits>
-      <actor>Campbell Scott</actor>
-      <actor>Adam Richman</actor>
-      <actor>Libby O'Connell</actor>
-    </credits><date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Cooking</category>
-    <category lang="en">History</category>
-    <category lang="en">Documentary</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p17145484_b_h8_bv.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
-      <value>12</value>
-    </rating><rating system="방송통신심의위원회">
-      <value>15</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>7</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A10</value>
-    </rating><rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating>
-  </programme><programme channel="History-East-US" start="20260518080500 +0500" stop="20260518090300 +0500">
-    <title>The Food That Built America</title>
-    <sub-title>Drive-Thru Burger Revolution</sub-title>
-    <desc>Three burger operators race to serve a new generation on wheels, and a primitive intercom and sliding window evolve into the drive-thru, revolutionizing fast food and kicking off an industry arms race.</desc>
-    <episode-num system="onscreen">S7 E4</episode-num>
-    <credits>
-      <actor>Campbell Scott</actor>
-      <actor>Adam Richman</actor>
-      <actor>Libby O'Connell</actor>
-    </credits><date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Cooking</category>
-    <category lang="en">History</category>
-    <category lang="en">Documentary</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p17145484_b_h8_bv.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
-      <value>12</value>
-    </rating><rating system="방송통신심의위원회">
-      <value>15</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>7</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A10</value>
-    </rating><rating system="Australian Classification Board">
-      <value>M 15+</value>
+    </rating><rating system="Arcom">
+      <value>-10</value>
     </rating>
   </programme>
 </tv>

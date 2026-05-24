@@ -1,78 +1,34 @@
 <?xml version='1.0' encoding='utf-8'?>
 <tv>
   <channel id="Logo-US">
+    <icon src="https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/Logo-US.png" />
+    <url>https://tv.thefilmtuition.com</url>
     <display-name>Logo</display-name>
-    <icon src="https://thefilmtuition.com/tvlogo/Logo-US.png" />
-  </channel><programme channel="Logo-US" start="20260516073000 +0500" stop="20260516080000 +0500">
-    <title>Mama's Family</title>
-    <sub-title>Where There's Smoke</sub-title>
-    <desc>Bubba may ruin Mama's chance of becoming president of a church club.</desc>
-    <episode-num system="onscreen">S3 E11</episode-num>
-    <credits>
-      <director>Dave Powers</director>
-      <actor>Vicki Lawrence</actor>
-      <actor>Ken Berry</actor>
-      <actor>Dorothy Lyman</actor>
-    </credits><date>1986</date>
-    <category lang="en">Series</category>
-    <category lang="en">Sitcom</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p436833_b_h10_ac.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating>
-  </programme><programme channel="Logo-US" start="20260516080000 +0500" stop="20260516083000 +0500">
-    <title>Mama's Family</title>
-    <sub-title>Fly Naomi</sub-title>
-    <desc>Naomi causes problems at home when she decides to become a flight attendant.</desc>
-    <episode-num system="onscreen">S3 E12</episode-num>
-    <credits>
-      <director>Dave Powers</director>
-      <actor>Vicki Lawrence</actor>
-      <actor>Ken Berry</actor>
-      <actor>Dorothy Lyman</actor>
-    </credits><date>1986</date>
-    <category lang="en">Series</category>
-    <category lang="en">Sitcom</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p436833_b_h10_ac.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating>
-  </programme><programme channel="Logo-US" start="20260516083000 +0500" stop="20260516090000 +0500">
-    <title>Mama's Family</title>
-    <sub-title>Santa Mama</sub-title>
-    <desc>Mama's not in the merriest of moods when she's forced to play Santa at the mall.</desc>
-    <episode-num system="onscreen">S3 E13</episode-num>
-    <credits>
-      <director>Dave Powers</director>
-      <actor>Vicki Lawrence</actor>
-      <actor>Ken Berry</actor>
-      <actor>Dorothy Lyman</actor>
-    </credits><date>1986</date>
-    <category lang="en">Series</category>
-    <category lang="en">Sitcom</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p436833_b_h10_ac.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating>
-  </programme><programme channel="Logo-US" start="20260516090000 +0500" stop="20260516100000 +0500">
+  </channel><programme channel="Logo-US" start="20260522173000 +0500" stop="20260522183000 +0500">
     <title>RuPaul's Drag Race</title>
     <sub-title>Countdown to the Crown</sub-title>
-    <desc>A look back on the highlights, low-lights, and previously unseen footage as we race toward the crowning of America's Next Drag Superstar.</desc>
-    <episode-num system="onscreen">S7 E13</episode-num>
+    <desc>Highlights, and lowlights, of the season as contestants race to the grand finale.</desc>
+    <episode-num system="onscreen">S5 E13</episode-num>
+    <language>en</language>
+  </programme><programme channel="Logo-US" start="20260522183000 +0500" stop="20260522200000 +0500">
+    <title>RuPaul's Drag Race</title>
+    <sub-title>RuPaul's Drag Race: Reunited</sub-title>
+    <desc>The queens return to discuss the drama of the season.</desc>
+    <episode-num system="onscreen">S5 E14</episode-num>
+    <language>en</language>
+  </programme><programme channel="Logo-US" start="20260522200000 +0500" stop="20260522213000 +0500">
+    <title>RuPaul's Drag Race</title>
+    <sub-title>Rate-A-Queen</sub-title>
+    <desc>A new cast of queens compete to be crowned America's Next Drag Superstar and must show off their performance skills in a talent show; actress Charlize Theron guest judges.</desc>
+    <episode-num system="onscreen">S16 E1</episode-num>
     <credits>
+      <director>Nick Murray</director>
+      <director>Ian Stevenson</director>
+      <director>Justin Harder</director>
       <actor>RuPaul</actor>
       <actor>Michelle Visage</actor>
       <actor>Carson Kressley</actor>
-    </credits><date>2015</date>
+    </credits><date>2024</date>
     <category lang="en">Series</category>
     <category lang="en">Competition Reality</category>
     <language>en</language>
@@ -81,29 +37,582 @@
       <value>TV14</value>
     </rating><rating system="Canadian Parental Rating">
       <value>14+</value>
-    </rating><rating system="Australian Classification Board">
-      <value>MA 15+</value>
     </rating><rating system="Régie du cinéma">
       <value>13+</value>
+    </rating><rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating><rating system="Film &amp; Publication Board">
+      <value>16</value>
     </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
       <value>16</value>
     </rating><rating system="방송통신심의위원회">
       <value>19</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A14</value>
     </rating><rating system="Kijkwijzer">
       <value>AL</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
     </rating>
-  </programme><programme channel="Logo-US" start="20260516100000 +0500" stop="20260516113000 +0500">
+  </programme><programme channel="Logo-US" start="20260522213000 +0500" stop="20260522230000 +0500">
+    <title>RuPaul's Drag Race</title>
+    <sub-title>Queen Choice Awards</sub-title>
+    <desc>A new cast of queens compete to be crowned America's Next Drag Superstar.</desc>
+    <episode-num system="onscreen">S16 E2</episode-num>
+    <credits>
+      <director>Nick Murray</director>
+      <director>Ian Stevenson</director>
+      <director>Justin Harder</director>
+      <actor>RuPaul</actor>
+      <actor>Michelle Visage</actor>
+      <actor>Carson Kressley</actor>
+    </credits><date>2024</date>
+    <category lang="en">Series</category>
+    <category lang="en">Competition Reality</category>
+    <category lang="en">Reality</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p197358_b_h8_bp.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating><rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating><rating system="Film &amp; Publication Board">
+      <value>16</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>19</value>
+    </rating><rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating>
+  </programme><programme channel="Logo-US" start="20260522230000 +0500" stop="20260523003000 +0500">
+    <title>RuPaul's Drag Race</title>
+    <sub-title>The Mother of All Balls</sub-title>
+    <desc>Queens put their design skills to the test in a pageant of mother-inspired couture.</desc>
+    <episode-num system="onscreen">S16 E3</episode-num>
+    <credits>
+      <director>Nick Murray</director>
+      <director>Ian Stevenson</director>
+      <director>Justin Harder</director>
+      <actor>RuPaul</actor>
+      <actor>Michelle Visage</actor>
+      <actor>Carson Kressley</actor>
+    </credits><date>2024</date>
+    <category lang="en">Series</category>
+    <category lang="en">Competition Reality</category>
+    <category lang="en">Reality</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p197358_b_h8_bp.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating><rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating><rating system="Film &amp; Publication Board">
+      <value>16</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>19</value>
+    </rating><rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating>
+  </programme><programme channel="Logo-US" start="20260523003000 +0500" stop="20260523020000 +0500">
+    <title>RuPaul's Drag Race</title>
+    <sub-title>RDR Live!</sub-title>
+    <desc>Queens compete in a drag parody of Saturday Night Live, performing comedic sketches with guest judge Sarah Michelle Gellar.</desc>
+    <episode-num system="onscreen">S16 E4</episode-num>
+    <credits>
+      <director>Nick Murray</director>
+      <director>Ian Stevenson</director>
+      <director>Justin Harder</director>
+      <actor>RuPaul</actor>
+      <actor>Michelle Visage</actor>
+      <actor>Carson Kressley</actor>
+    </credits><date>2024</date>
+    <category lang="en">Series</category>
+    <category lang="en">Competition Reality</category>
+    <category lang="en">Reality</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p197358_b_h8_bp.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating><rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating><rating system="Film &amp; Publication Board">
+      <value>16</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>19</value>
+    </rating><rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating>
+  </programme><programme channel="Logo-US" start="20260523020000 +0500" stop="20260523033000 +0500">
+    <title>RuPaul's Drag Race</title>
+    <sub-title>Girl Groups</sub-title>
+    <desc>The queens must write and perform their own verses for RuPaul songs from his new album.</desc>
+    <episode-num system="onscreen">S16 E5</episode-num>
+    <credits>
+      <director>Nick Murray</director>
+      <director>Ian Stevenson</director>
+      <director>Justin Harder</director>
+      <actor>RuPaul</actor>
+      <actor>Michelle Visage</actor>
+      <actor>Carson Kressley</actor>
+    </credits><date>2024</date>
+    <category lang="en">Series</category>
+    <category lang="en">Competition Reality</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p197358_b_h8_bp.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating><rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating><rating system="Film &amp; Publication Board">
+      <value>16</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>19</value>
+    </rating><rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating>
+  </programme><programme channel="Logo-US" start="20260523033000 +0500" stop="20260523050000 +0500">
+    <title>RuPaul's Drag Race</title>
+    <sub-title>Welcome to the DollHouse</sub-title>
+    <desc>After a flamenco dance with Spanish sensation Charo, the queens must design their own dolls.</desc>
+    <episode-num system="onscreen">S16 E6</episode-num>
+    <credits>
+      <director>Nick Murray</director>
+      <director>Ian Stevenson</director>
+      <director>Justin Harder</director>
+      <actor>RuPaul</actor>
+      <actor>Michelle Visage</actor>
+      <actor>Carson Kressley</actor>
+    </credits><date>2024</date>
+    <category lang="en">Series</category>
+    <category lang="en">Competition Reality</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p197358_b_h8_bp.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating><rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating><rating system="Film &amp; Publication Board">
+      <value>16</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>19</value>
+    </rating><rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating>
+  </programme><programme channel="Logo-US" start="20260523050000 +0500" stop="20260523063000 +0500">
+    <title>RuPaul's Drag Race</title>
+    <sub-title>The Sound of Rusic</sub-title>
+    <desc>This season's Rusical is set high in the Swish Alps, as a young queen called Mariah goes in search of a musical outlet for her inner freak; director Adam Shankman guest judges.</desc>
+    <episode-num system="onscreen">S16 E7</episode-num>
+    <credits>
+      <director>Nick Murray</director>
+      <director>Ian Stevenson</director>
+      <director>Justin Harder</director>
+      <actor>RuPaul</actor>
+      <actor>Michelle Visage</actor>
+      <actor>Carson Kressley</actor>
+    </credits><date>2024</date>
+    <category lang="en">Series</category>
+    <category lang="en">Competition Reality</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p197358_b_h8_bp.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating><rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating><rating system="Film &amp; Publication Board">
+      <value>16</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>19</value>
+    </rating><rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating>
+  </programme><programme channel="Logo-US" start="20260523063000 +0500" stop="20260523080000 +0500">
+    <title>RuPaul's Drag Race</title>
+    <sub-title>Snatch Game</sub-title>
+    <desc>After the Reading challenge, the queens impersonate celebrities in a classic quick-fire comedy game show; All Stars' winner Chad Michaels drops by the werkroom; actress Kyra Sedgwick guest judges.</desc>
+    <episode-num system="onscreen">S16 E8</episode-num>
+    <credits>
+      <director>Nick Murray</director>
+      <director>Ian Stevenson</director>
+      <director>Justin Harder</director>
+      <actor>RuPaul</actor>
+      <actor>Michelle Visage</actor>
+      <actor>Carson Kressley</actor>
+    </credits><date>2024</date>
+    <category lang="en">Series</category>
+    <category lang="en">Competition Reality</category>
+    <category lang="en">Reality</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p197358_b_h8_bp.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating><rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating><rating system="Film &amp; Publication Board">
+      <value>16</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>19</value>
+    </rating><rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating>
+  </programme><programme channel="Logo-US" start="20260523080000 +0500" stop="20260523093000 +0500">
+    <title>RuPaul's Drag Race</title>
+    <sub-title>See You Next Wednesday</sub-title>
+    <desc>Morticia meets Mugler as the queens create a Neo-Goth look from scratch, using only black, white and gray fabric; model and actress Kaia Gerber guest judges.</desc>
+    <episode-num system="onscreen">S16 E9</episode-num>
+    <credits>
+      <director>Nick Murray</director>
+      <director>Ian Stevenson</director>
+      <director>Justin Harder</director>
+      <actor>RuPaul</actor>
+      <actor>Michelle Visage</actor>
+      <actor>Carson Kressley</actor>
+    </credits><date>2024</date>
+    <category lang="en">Series</category>
+    <category lang="en">Competition Reality</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p197358_b_h8_bp.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating><rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating><rating system="Film &amp; Publication Board">
+      <value>16</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>19</value>
+    </rating><rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating>
+  </programme><programme channel="Logo-US" start="20260523093000 +0500" stop="20260523110000 +0500">
+    <title>RuPaul's Drag Race</title>
+    <sub-title>Werq the World</sub-title>
+    <desc>The queens let their voices be heard in an inspirational political anthem and exercise their right to shake their groove thing; Choreographer Jamal Sims "Aladdin" guest judges.</desc>
+    <episode-num system="onscreen">S16 E10</episode-num>
+    <credits>
+      <director>Nick Murray</director>
+      <director>Ian Stevenson</director>
+      <director>Justin Harder</director>
+      <actor>RuPaul</actor>
+      <actor>Michelle Visage</actor>
+      <actor>Carson Kressley</actor>
+    </credits><date>2024</date>
+    <category lang="en">Series</category>
+    <category lang="en">Competition Reality</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p197358_b_h8_bp.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating><rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating><rating system="Film &amp; Publication Board">
+      <value>16</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>19</value>
+    </rating><rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating>
+  </programme><programme channel="Logo-US" start="20260523110000 +0500" stop="20260523123000 +0500">
+    <title>RuPaul's Drag Race</title>
+    <sub-title>Corporate Queens</sub-title>
+    <desc>The queens must devise and present comical Drag Awareness seminars, in front of a live audience of bored corporate employees; actor and comedian Joel Kim Booster guest judges.</desc>
+    <episode-num system="onscreen">S16 E11</episode-num>
+    <credits>
+      <director>Nick Murray</director>
+      <director>Ian Stevenson</director>
+      <director>Justin Harder</director>
+      <actor>RuPaul</actor>
+      <actor>Michelle Visage</actor>
+      <actor>Carson Kressley</actor>
+    </credits><date>2024</date>
+    <category lang="en">Series</category>
+    <category lang="en">Competition Reality</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p197358_b_h8_bp.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating><rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating><rating system="Film &amp; Publication Board">
+      <value>16</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>19</value>
+    </rating><rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating>
+  </programme><programme channel="Logo-US" start="20260523123000 +0500" stop="20260523140000 +0500">
+    <title>RuPaul's Drag Race</title>
+    <sub-title>Bathroom Hunties</sub-title>
+    <desc>The queens star in the hot new design show called Bathroom Hunties, decorating and showcasing over-the-top powder rooms.</desc>
+    <episode-num system="onscreen">S16 E12</episode-num>
+    <credits>
+      <director>Nick Murray</director>
+      <director>Ian Stevenson</director>
+      <director>Justin Harder</director>
+      <actor>RuPaul</actor>
+      <actor>Michelle Visage</actor>
+      <actor>Carson Kressley</actor>
+    </credits><date>2024</date>
+    <category lang="en">Series</category>
+    <category lang="en">Competition Reality</category>
+    <category lang="en">Reality</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p197358_b_h8_bp.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating><rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating><rating system="Film &amp; Publication Board">
+      <value>16</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>19</value>
+    </rating><rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating>
+  </programme><programme channel="Logo-US" start="20260523140000 +0500" stop="20260523150000 +0500">
+    <title>RuPaul's Drag Race</title>
+    <sub-title>Drag Race Vegas LIVE! Makeovers</sub-title>
+    <desc>Male dancers from the "RuPaul's Drag Race Live" show in Las Vegas drop by the werkroom to be made over into drag queens; country star Kelsea Ballerini guest judges.</desc>
+    <episode-num system="onscreen">S16 E13</episode-num>
+    <credits>
+      <director>Nick Murray</director>
+      <director>Ian Stevenson</director>
+      <director>Justin Harder</director>
+      <actor>RuPaul</actor>
+      <actor>Michelle Visage</actor>
+      <actor>Carson Kressley</actor>
+    </credits><date>2024</date>
+    <category lang="en">Series</category>
+    <category lang="en">Competition Reality</category>
+    <category lang="en">Reality</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p197358_b_h8_bp.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating><rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating><rating system="Film &amp; Publication Board">
+      <value>16</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>19</value>
+    </rating><rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating>
+  </programme><programme channel="Logo-US" start="20260523150000 +0500" stop="20260523153000 +0500">
+    <title>RuPaul's Drag Race</title>
+    <sub-title>Drag Race Vegas LIVE! Makeovers</sub-title>
+    <desc>Male dancers from the "RuPaul's Drag Race Live" show in Las Vegas drop by the werkroom to be made over into drag queens; country star Kelsea Ballerini guest judges.</desc>
+    <episode-num system="onscreen">S16 E13</episode-num>
+    <credits>
+      <director>Nick Murray</director>
+      <director>Ian Stevenson</director>
+      <director>Justin Harder</director>
+      <actor>RuPaul</actor>
+      <actor>Michelle Visage</actor>
+      <actor>Carson Kressley</actor>
+    </credits><date>2024</date>
+    <category lang="en">Series</category>
+    <category lang="en">Competition Reality</category>
+    <category lang="en">Reality</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p197358_b_h8_bp.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating><rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating><rating system="Film &amp; Publication Board">
+      <value>16</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>19</value>
+    </rating><rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating>
+  </programme><programme channel="Logo-US" start="20260523153000 +0500" stop="20260523170000 +0500">
+    <title>RuPaul's Drag Race</title>
+    <sub-title>Booked &amp; Blessed</sub-title>
+    <desc>The queens dig deep to write their memoirs, pose for a book cover photo shoot, and get grilled by podcaster Matt Rogers.</desc>
+    <episode-num system="onscreen">S16 E14</episode-num>
+    <credits>
+      <director>Nick Murray</director>
+      <director>Ian Stevenson</director>
+      <director>Justin Harder</director>
+      <actor>RuPaul</actor>
+      <actor>Michelle Visage</actor>
+      <actor>Carson Kressley</actor>
+    </credits><date>2024</date>
+    <category lang="en">Series</category>
+    <category lang="en">Competition Reality</category>
+    <category lang="en">Drag racing</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p197358_b_h8_bp.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating><rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating><rating system="Film &amp; Publication Board">
+      <value>16</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>19</value>
+    </rating><rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating>
+  </programme><programme channel="Logo-US" start="20260523170000 +0500" stop="20260523183000 +0500">
+    <title>RuPaul's Drag Race</title>
+    <sub-title>LipSync Lalaparuza Smackdown - Reunited</sub-title>
+    <desc>All of the eliminated queens return to battle it out in a LipSync Lalaparuza Smackdown, with nine lip syncs, and a cash prize of $50,000 on the line.</desc>
+    <episode-num system="onscreen">S16 E15</episode-num>
+    <credits>
+      <director>Nick Murray</director>
+      <director>Ian Stevenson</director>
+      <director>Justin Harder</director>
+      <actor>RuPaul</actor>
+      <actor>Michelle Visage</actor>
+      <actor>Carson Kressley</actor>
+    </credits><date>2024</date>
+    <category lang="en">Series</category>
+    <category lang="en">Competition Reality</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p197358_b_h8_bp.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating><rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating><rating system="Film &amp; Publication Board">
+      <value>16</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>19</value>
+    </rating><rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating>
+  </programme><programme channel="Logo-US" start="20260523183000 +0500" stop="20260523200000 +0500">
     <title>RuPaul's Drag Race</title>
     <sub-title>Grand Finale</sub-title>
-    <desc>Tensions mount as the queens return to discuss dramas of the season.</desc>
-    <episode-num system="onscreen">S7 E14</episode-num>
+    <desc>The top queens face off in an epic evening of performances and lip syncs, as they compete for the title of America's Next Drag Superstar and a grand prize of $200,000.</desc>
+    <episode-num system="onscreen">S16 E16</episode-num>
     <credits>
+      <director>Nick Murray</director>
+      <director>Ian Stevenson</director>
+      <director>Justin Harder</director>
       <actor>RuPaul</actor>
       <actor>Michelle Visage</actor>
       <actor>Carson Kressley</actor>
-    </credits><date>2015</date>
+    </credits><date>2024</date>
     <category lang="en">Series</category>
     <category lang="en">Competition Reality</category>
     <language>en</language>
@@ -112,30 +621,31 @@
       <value>TV14</value>
     </rating><rating system="Canadian Parental Rating">
       <value>14+</value>
-    </rating><rating system="Australian Classification Board">
-      <value>MA 15+</value>
     </rating><rating system="Régie du cinéma">
       <value>13+</value>
+    </rating><rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating><rating system="Film &amp; Publication Board">
+      <value>16</value>
     </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
       <value>16</value>
-    </rating><rating system="Kijkwijzer">
-      <value>AL</value>
     </rating><rating system="방송통신심의위원회">
       <value>19</value>
+    </rating><rating system="Kijkwijzer">
+      <value>AL</value>
     </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
       <value>A14</value>
     </rating>
-  </programme><programme channel="Logo-US" start="20260516113000 +0500" stop="20260516123000 +0500">
+  </programme><programme channel="Logo-US" start="20260523200000 +0500" stop="20260523213000 +0500">
     <title>RuPaul's Drag Race: All Stars</title>
-    <sub-title>It Takes Two</sub-title>
-    <desc>The queens have to produce high fashion editorial photo spreads.</desc>
-    <episode-num system="onscreen">S1 E1</episode-num>
+    <sub-title>All Star Talent Show Extravaganza</sub-title>
+    <desc>The first test is to compete in a drag talent show; guest judge Raven-Symoné.</desc>
+    <episode-num system="onscreen">S2 E1</episode-num>
     <credits>
-      <director>Nick Murray</director>
       <actor>RuPaul</actor>
       <actor>Michelle Visage</actor>
-      <actor>Santino Rice</actor>
-    </credits><date>2012</date>
+      <actor>Todrick Hall</actor>
+    </credits><date>2016</date>
     <category lang="en">Series</category>
     <category lang="en">Fashion</category>
     <category lang="en">Competition Reality</category>
@@ -158,1365 +668,173 @@
     </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
       <value>16</value>
     </rating>
-  </programme><programme channel="Logo-US" start="20260516123000 +0500" stop="20260516133000 +0500">
-    <title>RuPaul's Drag Race: All Stars</title>
-    <sub-title>RuPaul's Gaff-In</sub-title>
-    <desc>The queens must impersonate their favorite celebrities.</desc>
-    <episode-num system="onscreen">S1 E2</episode-num>
-    <credits>
-      <director>Nick Murray</director>
-      <actor>RuPaul</actor>
-      <actor>Michelle Visage</actor>
-      <actor>Santino Rice</actor>
-    </credits><date>2012</date>
-    <category lang="en">Series</category>
-    <category lang="en">Fashion</category>
-    <category lang="en">Competition Reality</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p9489996_b_h8_bh.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating><rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating><rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating><rating system="Kijkwijzer">
-      <value>AL</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A14</value>
-    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
-      <value>16</value>
-    </rating>
-  </programme><programme channel="Logo-US" start="20260516133000 +0500" stop="20260516143000 +0500">
-    <title>RuPaul's Drag Race: All Stars</title>
-    <sub-title>Queens Behaving Badly</sub-title>
-    <desc>The queens hit the streets of Hollywood to prank unsuspecting passers-by.</desc>
-    <episode-num system="onscreen">S1 E3</episode-num>
-    <credits>
-      <director>Nick Murray</director>
-      <actor>RuPaul</actor>
-      <actor>Michelle Visage</actor>
-      <actor>Santino Rice</actor>
-    </credits><date>2012</date>
-    <category lang="en">Series</category>
-    <category lang="en">Fashion</category>
-    <category lang="en">Competition Reality</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p9489996_b_h8_bh.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating><rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating><rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating><rating system="Kijkwijzer">
-      <value>AL</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A14</value>
-    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
-      <value>16</value>
-    </rating>
-  </programme><programme channel="Logo-US" start="20260516143000 +0500" stop="20260516150000 +0500">
-    <title>RuPaul's Drag Race: All Stars</title>
-    <sub-title>All Star Girl Groups</sub-title>
-    <desc>All star girl groups; the battle of the divas.</desc>
-    <episode-num system="onscreen">S1 E4</episode-num>
-    <credits>
-      <director>Nick Murray</director>
-      <actor>RuPaul</actor>
-      <actor>Michelle Visage</actor>
-      <actor>Santino Rice</actor>
-    </credits><date>2012</date>
-    <category lang="en">Series</category>
-    <category lang="en">Fashion</category>
-    <category lang="en">Competition Reality</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p9489996_b_h8_bh.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating><rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating><rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating><rating system="Kijkwijzer">
-      <value>AL</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A14</value>
-    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
-      <value>16</value>
-    </rating>
-  </programme><programme channel="Logo-US" start="20260516150000 +0500" stop="20260516153000 +0500">
-    <title>RuPaul's Drag Race: All Stars</title>
-    <sub-title>All Star Girl Groups</sub-title>
-    <desc>All star girl groups; the battle of the divas.</desc>
-    <episode-num system="onscreen">S1 E4</episode-num>
-    <credits>
-      <director>Nick Murray</director>
-      <actor>RuPaul</actor>
-      <actor>Michelle Visage</actor>
-      <actor>Santino Rice</actor>
-    </credits><date>2012</date>
-    <category lang="en">Series</category>
-    <category lang="en">Fashion</category>
-    <category lang="en">Competition Reality</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p9489996_b_h8_bh.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating><rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating><rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating><rating system="Kijkwijzer">
-      <value>AL</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A14</value>
-    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
-      <value>16</value>
-    </rating>
-  </programme><programme channel="Logo-US" start="20260516153000 +0500" stop="20260516163000 +0500">
-    <title>RuPaul's Drag Race: All Stars</title>
-    <sub-title>Dynamic Drag Duos</sub-title>
-    <desc>The final four assume superhero and superfoe alter egos.</desc>
-    <episode-num system="onscreen">S1 E5</episode-num>
-    <credits>
-      <director>Ian Stevenson</director>
-      <actor>RuPaul</actor>
-      <actor>Michelle Visage</actor>
-      <actor>Santino Rice</actor>
-    </credits><date>2012</date>
-    <category lang="en">Series</category>
-    <category lang="en">Fashion</category>
-    <category lang="en">Competition Reality</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p9489996_b_h8_bh.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating><rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating><rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating><rating system="Kijkwijzer">
-      <value>AL</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A14</value>
-    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
-      <value>16</value>
-    </rating>
-  </programme><programme channel="Logo-US" start="20260516163000 +0500" stop="20260516173000 +0500">
-    <title>RuPaul's Drag Race: All Stars</title>
-    <sub-title>The Grand Finale</sub-title>
-    <desc>For the final challenge, the All Stars are sent on a junket that culminates with a stand-up routine; Cheri Oteri is their comedy coach.</desc>
-    <episode-num system="onscreen">S1 E6</episode-num>
-    <credits>
-      <director>Nick Murray</director>
-      <actor>RuPaul</actor>
-      <actor>Michelle Visage</actor>
-      <actor>Santino Rice</actor>
-    </credits><date>2012</date>
-    <category lang="en">Series</category>
-    <category lang="en">Fashion</category>
-    <category lang="en">Competition Reality</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p9489996_b_h8_bh.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating><rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating><rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A14</value>
-    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
-      <value>16</value>
-    </rating><rating system="Kijkwijzer">
-      <value>AL</value>
-    </rating>
-  </programme><programme channel="Logo-US" start="20260516173000 +0500" stop="20260516183000 +0500">
-    <title>RuPaul's Drag Race</title>
-    <sub-title>RuPaul's Big Opening</sub-title>
-    <desc>The 14 new queens must face a death-defying photo shoot.</desc>
-    <episode-num system="onscreen">S6 E1</episode-num>
-    <credits>
-      <actor>RuPaul</actor>
-      <actor>Santino Rice</actor>
-      <actor>Michelle Visage</actor>
-    </credits><date>2014</date>
-    <category lang="en">Series</category>
-    <category lang="en">Competition Reality</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p197358_b_h8_bp.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating><rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating><rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating><rating system="Kijkwijzer">
-      <value>9</value>
-    </rating><rating system="방송통신심의위원회">
-      <value>19</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A14</value>
-    </rating>
-  </programme><programme channel="Logo-US" start="20260516183000 +0500" stop="20260516193000 +0500">
-    <title>RuPaul's Drag Race</title>
-    <sub-title>RuPaul's Big Opening: Part 2</sub-title>
-    <desc>The queens are challenged to create party-themed couture for a runway face-off.</desc>
-    <episode-num system="onscreen">S6 E2 P2/2</episode-num>
-    <credits>
-      <actor>RuPaul</actor>
-      <actor>Santino Rice</actor>
-      <actor>Michelle Visage</actor>
-    </credits><date>2014</date>
-    <category lang="en">Series</category>
-    <category lang="en">Competition Reality</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p197358_b_h8_bp.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating><rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating><rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating><rating system="Kijkwijzer">
-      <value>9</value>
-    </rating><rating system="방송통신심의위원회">
-      <value>19</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A14</value>
-    </rating>
-  </programme><programme channel="Logo-US" start="20260516193000 +0500" stop="20260516203000 +0500">
-    <title>RuPaul's Drag Race</title>
-    <sub-title>Scream Queens</sub-title>
-    <desc>The queens act in a drag horror franchise; Lena Headey and Linda Blair judge.</desc>
-    <episode-num system="onscreen">S6 E3</episode-num>
-    <credits>
-      <actor>RuPaul</actor>
-      <actor>Santino Rice</actor>
-      <actor>Michelle Visage</actor>
-    </credits><date>2014</date>
-    <category lang="en">Series</category>
-    <category lang="en">Competition Reality</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p197358_b_h8_bp.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating><rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating><rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating><rating system="Kijkwijzer">
-      <value>9</value>
-    </rating><rating system="방송통신심의위원회">
-      <value>19</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A14</value>
-    </rating>
-  </programme><programme channel="Logo-US" start="20260516203000 +0500" stop="20260516210000 +0500">
+  </programme><programme channel="Logo-US" start="20260523213000 +0500" stop="20260523220000 +0500">
     <title>Mama's Family</title>
-    <sub-title>Desperately Seeking Anyone</sub-title>
-    <desc>Iola's blind date sets his sights on Mama.</desc>
-    <episode-num system="onscreen">S3 E14</episode-num>
-    <credits>
-      <director>Dave Powers</director>
-      <actor>Vicki Lawrence</actor>
-      <actor>Ken Berry</actor>
-      <actor>Dorothy Lyman</actor>
-    </credits><date>1987</date>
-    <category lang="en">Series</category>
-    <category lang="en">Sitcom</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p436833_b_h10_ac.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating>
-  </programme><programme channel="Logo-US" start="20260516210000 +0500" stop="20260516213000 +0500">
-    <title>Mama's Family</title>
-    <sub-title>Porn Again</sub-title>
-    <desc>Mama joins a group that opposes pornography.</desc>
-    <episode-num system="onscreen">S3 E15</episode-num>
-    <credits>
-      <director>Dave Powers</director>
-      <actor>Vicki Lawrence</actor>
-      <actor>Ken Berry</actor>
-      <actor>Dorothy Lyman</actor>
-    </credits><date>1987</date>
-    <category lang="en">Series</category>
-    <category lang="en">Sitcom</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p436833_b_h10_ac.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating>
-  </programme><programme channel="Logo-US" start="20260516213000 +0500" stop="20260516220000 +0500">
-    <title>Mama's Family</title>
-    <sub-title>Have It Mama's Way</sub-title>
-    <desc>Bubba and Mama apply for the same job at a local fast-food stand.</desc>
-    <episode-num system="onscreen">S3 E16</episode-num>
-    <credits>
-      <director>Dave Powers</director>
-      <actor>Vicki Lawrence</actor>
-      <actor>Ken Berry</actor>
-      <actor>Dorothy Lyman</actor>
-    </credits><date>1987</date>
-    <category lang="en">Series</category>
-    <category lang="en">Sitcom</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p436833_b_h10_ac.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating>
-  </programme><programme channel="Logo-US" start="20260516220000 +0500" stop="20260516223000 +0500">
-    <title>Mama's Family</title>
-    <sub-title>Birthright</sub-title>
-    <desc>Vint is certain he was adopted when he discovers some disturbing information on his birth certificate.</desc>
-    <episode-num system="onscreen">S3 E17</episode-num>
-    <credits>
-      <director>Dave Powers</director>
-      <actor>Vicki Lawrence</actor>
-      <actor>Ken Berry</actor>
-      <actor>Dorothy Lyman</actor>
-    </credits><date>1987</date>
-    <category lang="en">Series</category>
-    <category lang="en">Sitcom</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p436833_b_h10_ac.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating>
-  </programme><programme channel="Logo-US" start="20260516223000 +0500" stop="20260516230000 +0500">
-    <title>Mama's Family</title>
-    <sub-title>Grandma USA</sub-title>
-    <desc>Mama participates in a "Grandma USA" pageant.</desc>
-    <episode-num system="onscreen">S3 E18</episode-num>
-    <credits>
-      <director>Dave Powers</director>
-      <actor>Vicki Lawrence</actor>
-      <actor>Ken Berry</actor>
-      <actor>Dorothy Lyman</actor>
-    </credits><date>1987</date>
-    <category lang="en">Series</category>
-    <category lang="en">Sitcom</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p436833_b_h10_ac.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating>
-  </programme><programme channel="Logo-US" start="20260516230000 +0500" stop="20260516233000 +0500">
-    <title>Mama's Family</title>
-    <sub-title>Buck Private Bubba</sub-title>
-    <desc>Bubba enlists in the Army to impress his girlfriend.</desc>
-    <episode-num system="onscreen">S3 E19</episode-num>
-    <credits>
-      <director>Dave Powers</director>
-      <actor>Vicki Lawrence</actor>
-      <actor>Ken Berry</actor>
-      <actor>Dorothy Lyman</actor>
-    </credits><date>1987</date>
-    <category lang="en">Series</category>
-    <category lang="en">Sitcom</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p436833_b_h10_ac.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating>
-  </programme><programme channel="Logo-US" start="20260516233000 +0500" stop="20260517000000 +0500">
-    <title>Mama's Family</title>
-    <sub-title>Mama's Cousin</sub-title>
-    <desc>Mama's worldly cousin annoys Mama with her lifestyle and her never-ending stories.</desc>
-    <episode-num system="onscreen">S3 E20</episode-num>
-    <credits>
-      <director>Dave Powers</director>
-      <actor>Vicki Lawrence</actor>
-      <actor>Ken Berry</actor>
-      <actor>Dorothy Lyman</actor>
-    </credits><date>1987</date>
-    <category lang="en">Series</category>
-    <category lang="en">Sitcom</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p436833_b_h10_ac.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating>
-  </programme><programme channel="Logo-US" start="20260517000000 +0500" stop="20260517003000 +0500">
-    <title>Mama's Family</title>
-    <sub-title>Mama With the Golden Arm</sub-title>
-    <desc>Mama emerges as a contender in an arm-wrestling competition and goes up against a biker's equally tough mother.</desc>
-    <episode-num system="onscreen">S3 E21</episode-num>
-    <credits>
-      <director>Dave Powers</director>
-      <actor>Vicki Lawrence</actor>
-      <actor>Ken Berry</actor>
-      <actor>Dorothy Lyman</actor>
-    </credits><date>1987</date>
-    <category lang="en">Series</category>
-    <category lang="en">Sitcom</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p436833_b_h10_ac.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating>
-  </programme><programme channel="Logo-US" start="20260517003000 +0500" stop="20260517010000 +0500">
-    <title>Mama's Family</title>
-    <sub-title>It Takes Two to Watusi</sub-title>
-    <desc>Bubba must stand in for Luann's blind date.</desc>
-    <episode-num system="onscreen">S3 E22</episode-num>
-    <credits>
-      <director>Dave Powers</director>
-      <actor>Vicki Lawrence</actor>
-      <actor>Ken Berry</actor>
-      <actor>Dorothy Lyman</actor>
-    </credits><date>1987</date>
-    <category lang="en">Series</category>
-    <category lang="en">Sitcom</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p436833_b_h10_ac.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating>
-  </programme><programme channel="Logo-US" start="20260517010000 +0500" stop="20260517013000 +0500">
-    <title>Mama's Family</title>
-    <sub-title>Fangs Alot, Mama</sub-title>
-    <desc>Naomi feels neglected when Vint decides to join an elite men's club.</desc>
-    <episode-num system="onscreen">S3 E23</episode-num>
-    <credits>
-      <director>Dave Powers</director>
-      <actor>Vicki Lawrence</actor>
-      <actor>Ken Berry</actor>
-      <actor>Dorothy Lyman</actor>
-    </credits><date>1987</date>
-    <category lang="en">Series</category>
-    <category lang="en">Sitcom</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p436833_b_h10_ac.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating>
-  </programme><programme channel="Logo-US" start="20260517013000 +0500" stop="20260517020000 +0500">
-    <title>Mama's Family</title>
-    <sub-title>The Best Policy</sub-title>
-    <desc>Mama suspects Naomi of trying to cash in on Vint's life insurance policy.</desc>
-    <episode-num system="onscreen">S3 E24</episode-num>
-    <credits>
-      <director>Dave Powers</director>
-      <actor>Vicki Lawrence</actor>
-      <actor>Ken Berry</actor>
-      <actor>Dorothy Lyman</actor>
-    </credits><date>1987</date>
-    <category lang="en">Series</category>
-    <category lang="en">Sitcom</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p436833_b_h10_ac.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating>
-  </programme><programme channel="Logo-US" start="20260517020000 +0500" stop="20260517023000 +0500">
-    <title>Mama's Family</title>
-    <sub-title>After the Fall</sub-title>
-    <desc>Mama helps Aunt Effie recover from a concussion.</desc>
-    <episode-num system="onscreen">S3 E25</episode-num>
-    <credits>
-      <director>Dave Powers</director>
-      <actor>Vicki Lawrence</actor>
-      <actor>Ken Berry</actor>
-      <actor>Dorothy Lyman</actor>
-    </credits><date>1987</date>
-    <category lang="en">Series</category>
-    <category lang="en">Sitcom</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p436833_b_h10_ac.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating>
-  </programme><programme channel="Logo-US" start="20260517023000 +0500" stop="20260517030000 +0500">
-    <title>Mama's Family</title>
-    <sub-title>Educating Mama</sub-title>
-    <desc>Bubba learns he has to attend night school to graduate high school; when it is revealed that Mama doesn't have her high school diploma, she joins him, but she is soon faced with the same problem she was some 40 years ago.</desc>
-    <episode-num system="onscreen">S4 E1</episode-num>
-    <credits>
-      <director>Dave Powers</director>
-      <actor>Vicki Lawrence</actor>
-      <actor>Ken Berry</actor>
-      <actor>Dorothy Lyman</actor>
-    </credits><date>1987</date>
-    <category lang="en">Series</category>
-    <category lang="en">Sitcom</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p436833_b_h10_ac.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating>
-  </programme><programme channel="Logo-US" start="20260517030000 +0500" stop="20260517033000 +0500">
-    <title>Mama's Family</title>
-    <sub-title>Zirconias Are a Girl's Best Friend</sub-title>
-    <desc>The Harpers hope to cure Mama of her addiction to home-shopping TV shows.</desc>
-    <episode-num system="onscreen">S4 E2</episode-num>
-    <credits>
-      <director>Dave Powers</director>
-      <actor>Vicki Lawrence</actor>
-      <actor>Ken Berry</actor>
-      <actor>Dorothy Lyman</actor>
-    </credits><date>1987</date>
-    <category lang="en">Series</category>
-    <category lang="en">Sitcom</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p436833_b_h10_ac.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating>
-  </programme><programme channel="Logo-US" start="20260517033000 +0500" stop="20260517040000 +0500">
-    <title>Three's Company</title>
-    <sub-title>Lee Ain't Heavy, He's My Brother</sub-title>
-    <desc>Jack becomes enraged when his brother decides to romance Chrissy.</desc>
-    <episode-num system="onscreen">S4 E21</episode-num>
-    <credits>
-      <director>Dave Powers</director>
-      <actor>John Ritter</actor>
-      <actor>Joyce DeWitt</actor>
-      <actor>Suzanne Somers</actor>
-    </credits><date>1980</date>
-    <category lang="en">Series</category>
-    <category lang="en">Sitcom</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p7894987_b_h8_aa.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating>
-  </programme><programme channel="Logo-US" start="20260517040000 +0500" stop="20260517043000 +0500">
-    <title>Three's Company</title>
-    <sub-title>The Root of All Evil</sub-title>
-    <desc>Chrissy's big track winnings threaten to split the threesome.</desc>
-    <episode-num system="onscreen">S4 E22</episode-num>
-    <credits>
-      <director>Dave Powers</director>
-      <actor>John Ritter</actor>
-      <actor>Joyce DeWitt</actor>
-      <actor>Suzanne Somers</actor>
-    </credits><date>1980</date>
-    <category lang="en">Series</category>
-    <category lang="en">Sitcom</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p7894987_b_h8_aa.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating>
-  </programme><programme channel="Logo-US" start="20260517043000 +0500" stop="20260517050000 +0500">
-    <title>Three's Company</title>
-    <sub-title>Secret Admirer</sub-title>
-    <desc>Chrissy sets up a rendezvous with the man who has been sending her secret love notes.</desc>
+    <sub-title>Bed and Breakdown</sub-title>
+    <desc>Mama opens her house to boarders with hopes of raising money for a new stove.</desc>
     <episode-num system="onscreen">S4 E23</episode-num>
     <credits>
       <director>Dave Powers</director>
-      <actor>John Ritter</actor>
-      <actor>Joyce DeWitt</actor>
-      <actor>Suzanne Somers</actor>
-    </credits><date>1980</date>
+      <actor>Vicki Lawrence</actor>
+      <actor>Ken Berry</actor>
+      <actor>Dorothy Lyman</actor>
+    </credits><date>1988</date>
     <category lang="en">Series</category>
     <category lang="en">Sitcom</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p7894987_b_h8_aa.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p436833_b_h10_ac.jpg?w=960&amp;h=540" />
     <rating system="USA Parental Rating">
       <value>TVPG</value>
     </rating><rating system="Canadian Parental Rating">
       <value>PG</value>
     </rating>
-  </programme><programme channel="Logo-US" start="20260517050000 +0500" stop="20260517053000 +0500">
-    <title>Three's Company</title>
-    <sub-title>The Goodbye Guy</sub-title>
-    <desc>The roommates help Furley attract a lady friend.</desc>
+  </programme><programme channel="Logo-US" start="20260523220000 +0500" stop="20260523223000 +0500">
+    <title>Mama's Family</title>
+    <sub-title>Naomi's Identity Crisis</sub-title>
+    <desc>When Naomi is stricken with amnesia, Mama hopes to turn her into the perfect housewife.</desc>
     <episode-num system="onscreen">S4 E24</episode-num>
     <credits>
       <director>Dave Powers</director>
-      <actor>John Ritter</actor>
-      <actor>Joyce DeWitt</actor>
-      <actor>Suzanne Somers</actor>
-    </credits><date>1980</date>
+      <actor>Vicki Lawrence</actor>
+      <actor>Ken Berry</actor>
+      <actor>Dorothy Lyman</actor>
+    </credits><date>1988</date>
     <category lang="en">Series</category>
     <category lang="en">Sitcom</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p7894987_b_h8_aa.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p436833_b_h10_ac.jpg?w=960&amp;h=540" />
     <rating system="USA Parental Rating">
       <value>TVPG</value>
     </rating><rating system="Canadian Parental Rating">
       <value>PG</value>
     </rating>
-  </programme><programme channel="Logo-US" start="20260517053000 +0500" stop="20260517060000 +0500">
-    <title>Three's Company</title>
-    <sub-title>Jack's Graduation</sub-title>
-    <desc>A dishonest student may prevent Jack's graduation.</desc>
+  </programme><programme channel="Logo-US" start="20260523223000 +0500" stop="20260523230000 +0500">
+    <title>Mama's Family</title>
+    <sub-title>Pomp and Circumstance</sub-title>
+    <desc>Mama and Bubba almost miss high-school graduation.</desc>
     <episode-num system="onscreen">S4 E25</episode-num>
     <credits>
       <director>Dave Powers</director>
-      <actor>John Ritter</actor>
-      <actor>Joyce DeWitt</actor>
-      <actor>Suzanne Somers</actor>
-    </credits><date>1980</date>
+      <actor>Vicki Lawrence</actor>
+      <actor>Ken Berry</actor>
+      <actor>Dorothy Lyman</actor>
+    </credits><date>1988</date>
     <category lang="en">Series</category>
     <category lang="en">Sitcom</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p7894987_b_h8_aa.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p436833_b_h10_ac.jpg?w=960&amp;h=540" />
     <rating system="USA Parental Rating">
       <value>TVPG</value>
     </rating><rating system="Canadian Parental Rating">
       <value>PG</value>
     </rating>
-  </programme><programme channel="Logo-US" start="20260517060000 +0500" stop="20260517063000 +0500">
-    <title>Three's Company</title>
-    <sub-title>Upstairs, Downstairs, Downstairs</sub-title>
-    <desc>Jack prepares three different meals in three separate apartments.</desc>
+  </programme><programme channel="Logo-US" start="20260523230000 +0500" stop="20260523233000 +0500">
+    <title>Mama's Family</title>
+    <sub-title>Ladies' Choice</sub-title>
+    <desc>Iola and Mama run for the presidency of the ladies' church group.</desc>
     <episode-num system="onscreen">S5 E1</episode-num>
     <credits>
       <director>Dave Powers</director>
-      <actor>John Ritter</actor>
-      <actor>Joyce DeWitt</actor>
-      <actor>Suzanne Somers</actor>
-    </credits><date>1980</date>
+      <actor>Vicki Lawrence</actor>
+      <actor>Ken Berry</actor>
+      <actor>Dorothy Lyman</actor>
+    </credits><date>1988</date>
     <category lang="en">Series</category>
     <category lang="en">Sitcom</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p7894988_b_h10_aa.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p436833_b_h10_ac.jpg?w=960&amp;h=540" />
     <rating system="USA Parental Rating">
       <value>TVPG</value>
     </rating><rating system="Canadian Parental Rating">
       <value>PG</value>
     </rating>
-  </programme><programme channel="Logo-US" start="20260517063000 +0500" stop="20260517070000 +0500">
-    <title>Three's Company</title>
-    <sub-title>... And Justice for Jack</sub-title>
-    <desc>Jack charges his new boss with sexual harassment.</desc>
+  </programme><programme channel="Logo-US" start="20260523233000 +0500" stop="20260524000000 +0500">
+    <title>Mama's Family</title>
+    <sub-title>Baby Talk</sub-title>
+    <desc>Mama sets out to discourage Naomi and Vint from having a baby.</desc>
     <episode-num system="onscreen">S5 E2</episode-num>
     <credits>
       <director>Dave Powers</director>
-      <actor>John Ritter</actor>
-      <actor>Joyce DeWitt</actor>
-      <actor>Richard Kline</actor>
-    </credits><date>1980</date>
+      <actor>Vicki Lawrence</actor>
+      <actor>Ken Berry</actor>
+      <actor>Dorothy Lyman</actor>
+    </credits><date>1988</date>
     <category lang="en">Series</category>
     <category lang="en">Sitcom</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p7894988_b_h10_aa.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p436833_b_h10_ac.jpg?w=960&amp;h=540" />
     <rating system="USA Parental Rating">
       <value>TVPG</value>
     </rating><rating system="Canadian Parental Rating">
       <value>PG</value>
     </rating>
-  </programme><programme channel="Logo-US" start="20260517070000 +0500" stop="20260517073000 +0500">
-    <title>Three's Company</title>
-    <sub-title>A Hundred Dollars a What?</sub-title>
-    <desc>Janet discovers that Chrissy's old high-school friend is a prostitute.</desc>
+  </programme><programme channel="Logo-US" start="20260524000000 +0500" stop="20260524003000 +0500">
+    <title>Mama's Family</title>
+    <sub-title>Naomi's New Position</sub-title>
+    <desc>Naomi's boss wants to trade favors for a promotion.</desc>
     <episode-num system="onscreen">S5 E3</episode-num>
     <credits>
       <director>Dave Powers</director>
-      <actor>John Ritter</actor>
-      <actor>Joyce DeWitt</actor>
-      <actor>Suzanne Somers</actor>
-    </credits><date>1980</date>
+      <actor>Vicki Lawrence</actor>
+      <actor>Ken Berry</actor>
+      <actor>Dorothy Lyman</actor>
+    </credits><date>1988</date>
     <category lang="en">Series</category>
     <category lang="en">Sitcom</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p7894988_b_h10_aa.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p436833_b_h10_ac.jpg?w=960&amp;h=540" />
     <rating system="USA Parental Rating">
       <value>TVPG</value>
     </rating><rating system="Canadian Parental Rating">
       <value>PG</value>
     </rating>
-  </programme><programme channel="Logo-US" start="20260517073000 +0500" stop="20260517080000 +0500">
-    <title>Three's Company</title>
-    <sub-title>Downhill Chaser</sub-title>
-    <desc>A lovely skier thinks Jack is an alpine champion.</desc>
+  </programme><programme channel="Logo-US" start="20260524003000 +0500" stop="20260524010000 +0500">
+    <title>Mama's Family</title>
+    <sub-title>The Really Loud Family</sub-title>
+    <desc>Bubba videotapes his family for a class project.</desc>
     <episode-num system="onscreen">S5 E4</episode-num>
     <credits>
       <director>Dave Powers</director>
-      <actor>John Ritter</actor>
-      <actor>Joyce DeWitt</actor>
-      <actor>Richard Kline</actor>
-    </credits><date>1980</date>
+      <actor>Vicki Lawrence</actor>
+      <actor>Ken Berry</actor>
+      <actor>Dorothy Lyman</actor>
+    </credits><date>1988</date>
     <category lang="en">Series</category>
     <category lang="en">Sitcom</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p7894988_b_h10_aa.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p436833_b_h10_ac.jpg?w=960&amp;h=540" />
     <rating system="USA Parental Rating">
       <value>TVPG</value>
     </rating><rating system="Canadian Parental Rating">
       <value>PG</value>
     </rating>
-  </programme><programme channel="Logo-US" start="20260517080000 +0500" stop="20260517083000 +0500">
-    <title>Three's Company</title>
-    <sub-title>A Crowded Romance</sub-title>
-    <desc>Jack and Larry unknowingly date the same woman.</desc>
+  </programme><programme channel="Logo-US" start="20260524010000 +0500" stop="20260524013000 +0500">
+    <title>Mama's Family</title>
+    <sub-title>Many Unhappy Returns</sub-title>
+    <desc>Mama mistakenly believes that Vint bought her an expensive bracelet.</desc>
     <episode-num system="onscreen">S5 E5</episode-num>
     <credits>
       <director>Dave Powers</director>
-      <actor>John Ritter</actor>
-      <actor>Joyce DeWitt</actor>
-      <actor>Richard Kline</actor>
-    </credits><date>1980</date>
+      <actor>Vicki Lawrence</actor>
+      <actor>Ken Berry</actor>
+      <actor>Dorothy Lyman</actor>
+    </credits><date>1988</date>
     <category lang="en">Series</category>
     <category lang="en">Sitcom</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p7894988_b_h10_aa.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p436833_b_h10_ac.jpg?w=960&amp;h=540" />
     <rating system="USA Parental Rating">
       <value>TVPG</value>
     </rating><rating system="Canadian Parental Rating">
       <value>PG</value>
     </rating>
-  </programme><programme channel="Logo-US" start="20260517083000 +0500" stop="20260517090000 +0500">
-    <title>Three's Company</title>
-    <sub-title>Room at the Bottom</sub-title>
-    <desc>Jack's friends think he is the chef at a fancy French restaurant where he is actually a busboy.</desc>
+  </programme><programme channel="Logo-US" start="20260524013000 +0500" stop="20260524020000 +0500">
+    <title>Mama's Family</title>
+    <sub-title>Found Money</sub-title>
+    <desc>Greed overtakes Mama when she gets $800 from a malfunctioning bank teller machine.</desc>
     <episode-num system="onscreen">S5 E6</episode-num>
     <credits>
       <director>Dave Powers</director>
-      <actor>John Ritter</actor>
-      <actor>Joyce DeWitt</actor>
-      <actor>Suzanne Somers</actor>
-    </credits><date>1980</date>
-    <category lang="en">Series</category>
-    <category lang="en">Sitcom</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p7894988_b_h10_aa.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating>
-  </programme><programme channel="Logo-US" start="20260517090000 +0500" stop="20260517100000 +0500">
-    <title>RuPaul's Drag Race</title>
-    <sub-title>Shade: The Rusical</sub-title>
-    <desc>The queens enter the world of musical theater. Guest judges composer Lucian Piane and Sheryl Lee Ralph.</desc>
-    <episode-num system="onscreen">S6 E4</episode-num>
-    <credits>
-      <actor>RuPaul</actor>
-      <actor>Santino Rice</actor>
-      <actor>Michelle Visage</actor>
-    </credits><date>2014</date>
-    <category lang="en">Series</category>
-    <category lang="en">Competition Reality</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p197358_b_h8_bp.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating><rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating><rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating><rating system="Kijkwijzer">
-      <value>9</value>
-    </rating><rating system="방송통신심의위원회">
-      <value>19</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A14</value>
-    </rating>
-  </programme><programme channel="Logo-US" start="20260517100000 +0500" stop="20260517110000 +0500">
-    <title>RuPaul's Drag Race</title>
-    <sub-title>Snatch Game</sub-title>
-    <desc>The queens impersonate celebrities in a TV game show; guest judges Gillian Jacobs and Heather McDonald.</desc>
-    <episode-num system="onscreen">S6 E5</episode-num>
-    <credits>
-      <actor>RuPaul</actor>
-      <actor>Santino Rice</actor>
-      <actor>Michelle Visage</actor>
-    </credits><date>2014</date>
-    <category lang="en">Series</category>
-    <category lang="en">Competition Reality</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p197358_b_h8_bp.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating><rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating><rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating><rating system="Kijkwijzer">
-      <value>9</value>
-    </rating><rating system="방송통신심의위원회">
-      <value>19</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A14</value>
-    </rating>
-  </programme><programme channel="Logo-US" start="20260517110000 +0500" stop="20260517120000 +0500">
-    <title>RuPaul's Drag Race</title>
-    <sub-title>Oh No She Betta Don't</sub-title>
-    <desc>The queens rap in a 90's music video.</desc>
-    <episode-num system="onscreen">S6 E6</episode-num>
-    <credits>
-      <actor>RuPaul</actor>
-      <actor>Santino Rice</actor>
-      <actor>Michelle Visage</actor>
-    </credits><date>2014</date>
-    <category lang="en">Series</category>
-    <category lang="en">Competition Reality</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p197358_b_h8_bp.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating><rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating><rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating><rating system="Kijkwijzer">
-      <value>9</value>
-    </rating><rating system="방송통신심의위원회">
-      <value>19</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A14</value>
-    </rating>
-  </programme><programme channel="Logo-US" start="20260517120000 +0500" stop="20260517130000 +0500">
-    <title>RuPaul's Drag Race</title>
-    <sub-title>Glamazon by Colorevolution</sub-title>
-    <desc>The queens sell RuPaul's new makeup line; guest judges Leah Remini and Lainie Kazan.</desc>
-    <episode-num system="onscreen">S6 E7</episode-num>
-    <credits>
-      <actor>RuPaul</actor>
-      <actor>Santino Rice</actor>
-      <actor>Michelle Visage</actor>
-    </credits><date>2014</date>
-    <category lang="en">Series</category>
-    <category lang="en">Competition Reality</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p197358_b_h8_bp.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating><rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating><rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating><rating system="Kijkwijzer">
-      <value>9</value>
-    </rating><rating system="방송통신심의위원회">
-      <value>19</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A14</value>
-    </rating>
-  </programme><programme channel="Logo-US" start="20260517130000 +0500" stop="20260517140000 +0500">
-    <title>RuPaul's Drag Race</title>
-    <sub-title>Drag Queens of Comedy</sub-title>
-    <desc>The queens must write and perform a stand-up comedy routine in front of a live audience.</desc>
-    <episode-num system="onscreen">S6 E8</episode-num>
-    <credits>
-      <actor>RuPaul</actor>
-      <actor>Santino Rice</actor>
-      <actor>Michelle Visage</actor>
-    </credits><date>2014</date>
-    <category lang="en">Series</category>
-    <category lang="en">Competition Reality</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p197358_b_h8_bp.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating><rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating><rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating><rating system="Kijkwijzer">
-      <value>9</value>
-    </rating><rating system="방송통신심의위원회">
-      <value>19</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A14</value>
-    </rating>
-  </programme><programme channel="Logo-US" start="20260517140000 +0500" stop="20260517150000 +0500">
-    <title>RuPaul's Drag Race</title>
-    <sub-title>Queens of Talk</sub-title>
-    <desc>The queens host their very own talk show.</desc>
-    <episode-num system="onscreen">S6 E9</episode-num>
-    <credits>
-      <actor>RuPaul</actor>
-      <actor>Santino Rice</actor>
-      <actor>Michelle Visage</actor>
-    </credits><date>2014</date>
-    <category lang="en">Series</category>
-    <category lang="en">Competition Reality</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p197358_b_h8_bp.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating><rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating><rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating><rating system="Kijkwijzer">
-      <value>9</value>
-    </rating><rating system="방송통신심의위원회">
-      <value>19</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A14</value>
-    </rating>
-  </programme><programme channel="Logo-US" start="20260517150000 +0500" stop="20260517160000 +0500">
-    <title>RuPaul's Drag Race</title>
-    <sub-title>Drag My Wedding</sub-title>
-    <desc>The queens give brides drag makeovers before RuPaul officiates their wedding.</desc>
-    <episode-num system="onscreen">S6 E10</episode-num>
-    <credits>
-      <actor>RuPaul</actor>
-      <actor>Santino Rice</actor>
-      <actor>Michelle Visage</actor>
-    </credits><date>2014</date>
-    <category lang="en">Series</category>
-    <category lang="en">Competition Reality</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p197358_b_h8_bp.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating><rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating><rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating><rating system="Kijkwijzer">
-      <value>9</value>
-    </rating><rating system="방송통신심의위원회">
-      <value>19</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A14</value>
-    </rating>
-  </programme><programme channel="Logo-US" start="20260517160000 +0500" stop="20260517170000 +0500">
-    <title>RuPaul's Drag Race</title>
-    <sub-title>Glitter Ball</sub-title>
-    <desc>The queens compete in a pageant of jewelry inspired couture.</desc>
-    <episode-num system="onscreen">S6 E11</episode-num>
-    <credits>
-      <actor>RuPaul</actor>
-      <actor>Santino Rice</actor>
-      <actor>Michelle Visage</actor>
-    </credits><date>2014</date>
-    <category lang="en">Series</category>
-    <category lang="en">Competition Reality</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p197358_b_h8_bp.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating><rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating><rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating><rating system="Kijkwijzer">
-      <value>9</value>
-    </rating><rating system="방송통신심의위원회">
-      <value>19</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A14</value>
-    </rating>
-  </programme><programme channel="Logo-US" start="20260517170000 +0500" stop="20260517180000 +0500">
-    <title>RuPaul's Drag Race</title>
-    <sub-title>Sissy That Walk</sub-title>
-    <desc>The queens compete in their final challenge; starring in the music video for RuPaul's hit "Sissy That Walk.".</desc>
-    <episode-num system="onscreen">S6 E12</episode-num>
-    <credits>
-      <actor>RuPaul</actor>
-      <actor>Santino Rice</actor>
-      <actor>Michelle Visage</actor>
-    </credits><date>2014</date>
-    <category lang="en">Series</category>
-    <category lang="en">Competition Reality</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p197358_b_h8_bp.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating><rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating><rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating><rating system="Kijkwijzer">
-      <value>9</value>
-    </rating><rating system="방송통신심의위원회">
-      <value>19</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A14</value>
-    </rating>
-  </programme><programme channel="Logo-US" start="20260517180000 +0500" stop="20260517190000 +0500">
-    <title>RuPaul's Drag Race</title>
-    <sub-title>Countdown to the Crown</sub-title>
-    <desc>A look back on the highlights, low-lights, and previously unseen footage.</desc>
-    <episode-num system="onscreen">S6 E13</episode-num>
-    <credits>
-      <actor>RuPaul</actor>
-      <actor>Santino Rice</actor>
-      <actor>Michelle Visage</actor>
-    </credits><date>2014</date>
-    <category lang="en">Series</category>
-    <category lang="en">Competition Reality</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p197358_b_h8_bp.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating><rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating><rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating><rating system="Kijkwijzer">
-      <value>9</value>
-    </rating><rating system="방송통신심의위원회">
-      <value>19</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A14</value>
-    </rating>
-  </programme><programme channel="Logo-US" start="20260517190000 +0500" stop="20260517203000 +0500">
-    <title>RuPaul's Drag Race</title>
-    <sub-title>Reunited!</sub-title>
-    <desc>The queens return to discuss the drama of the season; "America's Next Drag Superstar" and "Miss Congeniality" are crowned.</desc>
-    <episode-num system="onscreen">S6 E14</episode-num>
-    <credits>
-      <actor>RuPaul</actor>
-      <actor>Santino Rice</actor>
-      <actor>Michelle Visage</actor>
-    </credits><date>2014</date>
-    <category lang="en">Series</category>
-    <category lang="en">Competition Reality</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p197358_b_h8_bp.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating><rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating><rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating><rating system="방송통신심의위원회">
-      <value>19</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A14</value>
-    </rating><rating system="Kijkwijzer">
-      <value>9</value>
-    </rating>
-  </programme><programme channel="Logo-US" start="20260517203000 +0500" stop="20260517210000 +0500">
-    <title>Mama's Family</title>
-    <sub-title>The Key to the Crime</sub-title>
-    <desc>Iola and Mama set out to prove that Vint isn't Raytown's serial burglar.</desc>
-    <episode-num system="onscreen">S4 E3</episode-num>
-    <credits>
-      <director>Dave Powers</director>
-      <actor>Vicki Lawrence</actor>
-      <actor>Ken Berry</actor>
-      <actor>Dorothy Lyman</actor>
-    </credits><date>1987</date>
-    <category lang="en">Series</category>
-    <category lang="en">Sitcom</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p436833_b_h10_ac.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating>
-  </programme><programme channel="Logo-US" start="20260517210000 +0500" stop="20260517213000 +0500">
-    <title>Mama's Family</title>
-    <sub-title>Breaking Up Is Hard to Do</sub-title>
-    <desc>Even though Naomi and Vint separate, they must continue to live with Mama.</desc>
-    <episode-num system="onscreen">S4 E4</episode-num>
-    <credits>
-      <director>Dave Powers</director>
-      <actor>Vicki Lawrence</actor>
-      <actor>Ken Berry</actor>
-      <actor>Dorothy Lyman</actor>
-    </credits><date>1987</date>
-    <category lang="en">Series</category>
-    <category lang="en">Sitcom</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p436833_b_h10_ac.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating>
-  </programme><programme channel="Logo-US" start="20260517213000 +0500" stop="20260517220000 +0500">
-    <title>Mama's Family</title>
-    <sub-title>A Big Hand for Mama</sub-title>
-    <desc>Mama has a new outlook on life when she's almost hit by lightning.</desc>
-    <episode-num system="onscreen">S4 E5</episode-num>
-    <credits>
-      <director>Dave Powers</director>
-      <actor>Vicki Lawrence</actor>
-      <actor>Ken Berry</actor>
-      <actor>Dorothy Lyman</actor>
-    </credits><date>1987</date>
-    <category lang="en">Series</category>
-    <category lang="en">Sitcom</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p436833_b_h10_ac.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating>
-  </programme><programme channel="Logo-US" start="20260517220000 +0500" stop="20260517223000 +0500">
-    <title>Mama's Family</title>
-    <sub-title>Flounder's Day</sub-title>
-    <desc>Mama wants to sing at Raytown's Founder's Day.</desc>
-    <episode-num system="onscreen">S4 E6</episode-num>
-    <credits>
-      <director>Dave Powers</director>
-      <actor>Vicki Lawrence</actor>
-      <actor>Ken Berry</actor>
-      <actor>Dorothy Lyman</actor>
-    </credits><date>1987</date>
-    <category lang="en">Series</category>
-    <category lang="en">Sitcom</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p436833_b_h10_ac.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating>
-  </programme><programme channel="Logo-US" start="20260517223000 +0500" stop="20260517230000 +0500">
-    <title>Mama's Family</title>
-    <sub-title>Teacher's Pet</sub-title>
-    <desc>Mama develops a crush on her night-school teacher (Joseph Campanella).</desc>
-    <episode-num system="onscreen">S4 E7</episode-num>
-    <credits>
-      <director>Dave Powers</director>
-      <actor>Vicki Lawrence</actor>
-      <actor>Ken Berry</actor>
-      <actor>Dorothy Lyman</actor>
-    </credits><date>1987</date>
-    <category lang="en">Series</category>
-    <category lang="en">Sitcom</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p436833_b_h10_ac.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating>
-  </programme><programme channel="Logo-US" start="20260517230000 +0500" stop="20260517233000 +0500">
-    <title>Mama's Family</title>
-    <sub-title>Child's Play</sub-title>
-    <desc>The Harpers baby-sit for the minister's grandson.</desc>
-    <episode-num system="onscreen">S4 E8</episode-num>
-    <credits>
-      <director>Dave Powers</director>
-      <actor>Vicki Lawrence</actor>
-      <actor>Ken Berry</actor>
-      <actor>Dorothy Lyman</actor>
-    </credits><date>1987</date>
-    <category lang="en">Series</category>
-    <category lang="en">Sitcom</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p436833_b_h10_ac.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating>
-  </programme><programme channel="Logo-US" start="20260517233000 +0500" stop="20260518000000 +0500">
-    <title>Mama's Family</title>
-    <sub-title>Mama Mania</sub-title>
-    <desc>Mama and Naomi team up for tag-team wrestling.</desc>
-    <episode-num system="onscreen">S4 E9</episode-num>
-    <credits>
-      <director>Dave Powers</director>
-      <actor>Vicki Lawrence</actor>
-      <actor>Ken Berry</actor>
-      <actor>Dorothy Lyman</actor>
-    </credits><date>1987</date>
-    <category lang="en">Series</category>
-    <category lang="en">Sitcom</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p436833_b_h10_ac.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating>
-  </programme><programme channel="Logo-US" start="20260518000000 +0500" stop="20260518003000 +0500">
-    <title>Mama's Family</title>
-    <sub-title>Gift Horse</sub-title>
-    <desc>Iola discovers her handmade gifts to family members are being sold at the Harpers' garage sale.</desc>
-    <episode-num system="onscreen">S4 E10</episode-num>
-    <credits>
-      <director>Dave Powers</director>
-      <actor>Vicki Lawrence</actor>
-      <actor>Ken Berry</actor>
-      <actor>Dorothy Lyman</actor>
-    </credits><date>1987</date>
-    <category lang="en">Series</category>
-    <category lang="en">Sitcom</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p436833_b_h10_ac.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating>
-  </programme><programme channel="Logo-US" start="20260518003000 +0500" stop="20260518010000 +0500">
-    <title>Mama's Family</title>
-    <sub-title>Workman's Holiday</sub-title>
-    <desc>Vint's embarrassed at work when Mama brings him his childhood lunch box.</desc>
-    <episode-num system="onscreen">S4 E11</episode-num>
-    <credits>
-      <director>Dave Powers</director>
-      <actor>Vicki Lawrence</actor>
-      <actor>Ken Berry</actor>
-      <actor>Dorothy Lyman</actor>
-    </credits><date>1987</date>
-    <category lang="en">Series</category>
-    <category lang="en">Sitcom</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p436833_b_h10_ac.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating>
-  </programme><programme channel="Logo-US" start="20260518010000 +0500" stop="20260518013000 +0500">
-    <title>Mama's Family</title>
-    <sub-title>Mama Sees Red</sub-title>
-    <desc>A typical Russian homemaker visits the all-American Harper family.</desc>
-    <episode-num system="onscreen">S4 E12</episode-num>
-    <credits>
-      <director>Dave Powers</director>
-      <actor>Vicki Lawrence</actor>
-      <actor>Ken Berry</actor>
-      <actor>Dorothy Lyman</actor>
-    </credits><date>1987</date>
-    <category lang="en">Series</category>
-    <category lang="en">Sitcom</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p436833_b_h10_ac.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating>
-  </programme><programme channel="Logo-US" start="20260518013000 +0500" stop="20260518020000 +0500">
-    <title>Mama's Family</title>
-    <sub-title>A Room With No View</sub-title>
-    <desc>A family war erupts when Vint and Naomi want to switch bedrooms with Bubba.</desc>
-    <episode-num system="onscreen">S4 E13</episode-num>
-    <credits>
-      <director>Dave Powers</director>
-      <actor>Vicki Lawrence</actor>
-      <actor>Ken Berry</actor>
-      <actor>Dorothy Lyman</actor>
-    </credits><date>1987</date>
-    <category lang="en">Series</category>
-    <category lang="en">Sitcom</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p436833_b_h10_ac.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating>
-  </programme><programme channel="Logo-US" start="20260518020000 +0500" stop="20260518023000 +0500">
-    <title>Mama's Family</title>
-    <sub-title>The Sins of the Mother</sub-title>
-    <desc>When Bubba comes home tipsy, Mama is reminded of a drunken incident involving Eunice.</desc>
-    <episode-num system="onscreen">S4 E14</episode-num>
-    <credits>
-      <director>Dave Powers</director>
       <actor>Vicki Lawrence</actor>
       <actor>Ken Berry</actor>
       <actor>Dorothy Lyman</actor>
@@ -1530,261 +848,731 @@
     </rating><rating system="Canadian Parental Rating">
       <value>PG</value>
     </rating>
-  </programme><programme channel="Logo-US" start="20260518023000 +0500" stop="20260518030000 +0500">
+  </programme><programme channel="Logo-US" start="20260524020000 +0500" stop="20260524023000 +0500">
     <title>Mama's Family</title>
-    <sub-title>A Friend Indeed</sub-title>
-    <desc>Mama is jealous when Iola acquires a new best friend.</desc>
-    <episode-num system="onscreen">S4 E15</episode-num>
-    <credits>
-      <director>Dave Powers</director>
-      <actor>Vicki Lawrence</actor>
-      <actor>Ken Berry</actor>
-      <actor>Dorothy Lyman</actor>
-    </credits><date>1988</date>
-    <category lang="en">Series</category>
-    <category lang="en">Sitcom</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p436833_b_h10_ac.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating>
-  </programme><programme channel="Logo-US" start="20260518030000 +0500" stop="20260518033000 +0500">
-    <title>Mama's Family</title>
-    <sub-title>I Do, I Don't</sub-title>
-    <desc>Iola, Bubba and Mama fantasize about marriage after attending a wedding. Guest star: Joseph Campanella.</desc>
-    <episode-num system="onscreen">S4 E16</episode-num>
-    <credits>
-      <director>Dave Powers</director>
-      <actor>Vicki Lawrence</actor>
-      <actor>Ken Berry</actor>
-      <actor>Dorothy Lyman</actor>
-    </credits><date>1988</date>
-    <category lang="en">Series</category>
-    <category lang="en">Sitcom</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p436833_b_h10_ac.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating>
-  </programme><programme channel="Logo-US" start="20260518033000 +0500" stop="20260518040000 +0500">
-    <title>Three's Company</title>
-    <sub-title>Chrissy's Cousin</sub-title>
-    <desc>Chrissy's cousin Cindy (Jenilee Harrison) arrives.</desc>
+    <sub-title>My Mama, Myself</sub-title>
+    <desc>Mama has visions of her overbearing mother.</desc>
     <episode-num system="onscreen">S5 E7</episode-num>
     <credits>
       <director>Dave Powers</director>
-      <actor>John Ritter</actor>
-      <actor>Joyce DeWitt</actor>
-      <actor>Jenilee Harrison</actor>
-    </credits><date>1980</date>
+      <actor>Vicki Lawrence</actor>
+      <actor>Ken Berry</actor>
+      <actor>Dorothy Lyman</actor>
+    </credits><date>1988</date>
     <category lang="en">Series</category>
     <category lang="en">Sitcom</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p7894988_b_h10_aa.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p436833_b_h10_ac.jpg?w=960&amp;h=540" />
     <rating system="USA Parental Rating">
       <value>TVPG</value>
     </rating><rating system="Canadian Parental Rating">
       <value>PG</value>
     </rating>
-  </programme><programme channel="Logo-US" start="20260518040000 +0500" stop="20260518043000 +0500">
-    <title>Three's Company</title>
-    <sub-title>Jack to the Rescue</sub-title>
-    <desc>Cindy's boss expects her to be his errand girl.</desc>
+  </programme><programme channel="Logo-US" start="20260524023000 +0500" stop="20260524030000 +0500">
+    <title>Mama's Family</title>
+    <sub-title>Full House</sub-title>
+    <desc>Mama disrupts Vint's plans to join an elite poker club.</desc>
     <episode-num system="onscreen">S5 E8</episode-num>
     <credits>
       <director>Dave Powers</director>
-      <actor>John Ritter</actor>
-      <actor>Joyce DeWitt</actor>
-      <actor>Jenilee Harrison</actor>
-    </credits><date>1981</date>
+      <actor>Vicki Lawrence</actor>
+      <actor>Ken Berry</actor>
+      <actor>Dorothy Lyman</actor>
+    </credits><date>1989</date>
     <category lang="en">Series</category>
     <category lang="en">Sitcom</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p7894988_b_h10_aa.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p436833_b_h10_ac.jpg?w=960&amp;h=540" />
     <rating system="USA Parental Rating">
       <value>TVPG</value>
     </rating><rating system="Canadian Parental Rating">
       <value>PG</value>
     </rating>
-  </programme><programme channel="Logo-US" start="20260518043000 +0500" stop="20260518050000 +0500">
-    <title>Three's Company</title>
-    <sub-title>The Not So Great Impostor</sub-title>
-    <desc>Jack gets a prestigious job after being mistaken for a famous chef.</desc>
+  </programme><programme channel="Logo-US" start="20260524030000 +0500" stop="20260524033000 +0500">
+    <title>Mama's Family</title>
+    <sub-title>Bedtime for Bubba</sub-title>
+    <desc>Mama suspects Bubba of more than studying with a pretty classmate.</desc>
     <episode-num system="onscreen">S5 E9</episode-num>
     <credits>
       <director>Dave Powers</director>
-      <actor>John Ritter</actor>
-      <actor>Joyce DeWitt</actor>
-      <actor>Jenilee Harrison</actor>
-    </credits><date>1981</date>
+      <actor>Vicki Lawrence</actor>
+      <actor>Ken Berry</actor>
+      <actor>Dorothy Lyman</actor>
+    </credits><date>1989</date>
     <category lang="en">Series</category>
     <category lang="en">Sitcom</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p7894988_b_h10_aa.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p436833_b_h10_ac.jpg?w=960&amp;h=540" />
     <rating system="USA Parental Rating">
       <value>TVPG</value>
     </rating><rating system="Canadian Parental Rating">
       <value>PG</value>
     </rating>
-  </programme><programme channel="Logo-US" start="20260518050000 +0500" stop="20260518053000 +0500">
+  </programme><programme channel="Logo-US" start="20260524033000 +0500" stop="20260524040000 +0500">
     <title>Three's Company</title>
-    <sub-title>Jack's Other Mother</sub-title>
-    <desc>An elderly neighbor smothers Jack with attention.</desc>
+    <sub-title>Some of That Jazz</sub-title>
+    <desc>Terri and Jack fear that Janet will need to have an affair with her dance instructor if she is to be successful.</desc>
+    <episode-num system="onscreen">S6 E5</episode-num>
+    <credits>
+      <director>Dave Powers</director>
+      <actor>John Ritter</actor>
+      <actor>Joyce DeWitt</actor>
+      <actor>Priscilla Barnes</actor>
+    </credits><date>1981</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sitcom</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p7894989_b_h10_aa.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="Logo-US" start="20260524040000 +0500" stop="20260524043000 +0500">
+    <title>Three's Company</title>
+    <sub-title>Lies My Roommate Told Me</sub-title>
+    <desc>Jack breaks a date with Janet to coach Larry in the art of romantic conversation.</desc>
+    <episode-num system="onscreen">S6 E6</episode-num>
+    <credits>
+      <director>Dave Powers</director>
+      <actor>John Ritter</actor>
+      <actor>Joyce DeWitt</actor>
+      <actor>Priscilla Barnes</actor>
+    </credits><date>1981</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sitcom</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p7894989_b_h10_aa.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="Logo-US" start="20260524043000 +0500" stop="20260524050000 +0500">
+    <title>Three's Company</title>
+    <sub-title>Two Flew Over the Cuckoo's Nest</sub-title>
+    <desc>Terri invites Dr. Miller, a psychiatrist from the hospital, to dinner at her place to get a break from his patients; misunderstandings arise when Jack and Janet think he is a mental-ward escapee.</desc>
+    <episode-num system="onscreen">S6 E7</episode-num>
+    <credits>
+      <director>Dave Powers</director>
+      <actor>John Ritter</actor>
+      <actor>Joyce DeWitt</actor>
+      <actor>Priscilla Barnes</actor>
+    </credits><date>1981</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sitcom</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p7894989_b_h10_aa.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="Logo-US" start="20260524050000 +0500" stop="20260524053000 +0500">
+    <title>Three's Company</title>
+    <sub-title>Eyewitness Blues</sub-title>
+    <desc>A policeman moves in to protect Jack after he witnesses an armed robbery.</desc>
+    <episode-num system="onscreen">S6 E8</episode-num>
+    <credits>
+      <director>Dave Powers</director>
+      <actor>John Ritter</actor>
+      <actor>Joyce DeWitt</actor>
+      <actor>Priscilla Barnes</actor>
+    </credits><date>1981</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sitcom</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p7894989_b_h10_aa.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="Logo-US" start="20260524053000 +0500" stop="20260524060000 +0500">
+    <title>Three's Company</title>
+    <sub-title>Boy Meets Dummy</sub-title>
+    <desc>Jack must come up with a temporary wife to deter his boss's man-hungry daughter.</desc>
+    <episode-num system="onscreen">S6 E9</episode-num>
+    <credits>
+      <director>Dave Powers</director>
+      <actor>John Ritter</actor>
+      <actor>Joyce DeWitt</actor>
+      <actor>Priscilla Barnes</actor>
+    </credits><date>1981</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sitcom</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p7894989_b_h10_aa.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="Logo-US" start="20260524060000 +0500" stop="20260524063000 +0500">
+    <title>Three's Company</title>
+    <sub-title>Dates of Wrath</sub-title>
+    <desc>Janet inadvertently fixes Terri up with a guy she had wanted to date herself.</desc>
+    <episode-num system="onscreen">S6 E10</episode-num>
+    <credits>
+      <director>Dave Powers</director>
+      <actor>John Ritter</actor>
+      <actor>Joyce DeWitt</actor>
+      <actor>Priscilla Barnes</actor>
+    </credits><date>1981</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sitcom</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p7894989_b_h10_aa.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="Logo-US" start="20260524063000 +0500" stop="20260524070000 +0500">
+    <title>Three's Company</title>
+    <sub-title>Macho Man</sub-title>
+    <desc>A guy gives Terri unwanted attention, causing her to use karate when he starts to get surly; Jack asks Terri to teach him some basic moves.</desc>
+    <episode-num system="onscreen">S6 E11</episode-num>
+    <credits>
+      <director>Dave Powers</director>
+      <actor>John Ritter</actor>
+      <actor>Joyce DeWitt</actor>
+      <actor>Priscilla Barnes</actor>
+    </credits><date>1981</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sitcom</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p7894989_b_h10_aa.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="Logo-US" start="20260524070000 +0500" stop="20260524073000 +0500">
+    <title>Three's Company</title>
+    <sub-title>Strangers in the Night</sub-title>
+    <desc>Jack tries to win over a Southern belle he insulted on a date.</desc>
+    <episode-num system="onscreen">S6 E12</episode-num>
+    <credits>
+      <director>Dave Powers</director>
+      <actor>John Ritter</actor>
+      <actor>Joyce DeWitt</actor>
+      <actor>Priscilla Barnes</actor>
+    </credits><date>1982</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sitcom</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p7894989_b_h10_aa.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="Logo-US" start="20260524073000 +0500" stop="20260524080000 +0500">
+    <title>Three's Company</title>
+    <sub-title>The Matchbreakers</sub-title>
+    <desc>When Mr. Furley starts dating a new girl, the trio wonder why she is interested in him; Larry sets up a test to determine if she is a gold digger.</desc>
+    <episode-num system="onscreen">S6 E13</episode-num>
+    <credits>
+      <director>Dave Powers</director>
+      <actor>John Ritter</actor>
+      <actor>Joyce DeWitt</actor>
+      <actor>Priscilla Barnes</actor>
+    </credits><date>1982</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sitcom</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p7894989_b_h10_aa.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="Logo-US" start="20260524080000 +0500" stop="20260524083000 +0500">
+    <title>Three's Company</title>
+    <sub-title>Oh, Nun</sub-title>
+    <desc>Jack assumes that Terri's nun friend wants to leave the convent to be with him.</desc>
+    <episode-num system="onscreen">S6 E14</episode-num>
+    <credits>
+      <director>Dave Powers</director>
+      <actor>John Ritter</actor>
+      <actor>Joyce DeWitt</actor>
+      <actor>Priscilla Barnes</actor>
+    </credits><date>1982</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sitcom</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p7894989_b_h10_aa.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="Logo-US" start="20260524083000 +0500" stop="20260524100000 +0500">
+    <title>RuPaul's Drag Race: All Stars</title>
+    <sub-title>All Stars Snatch Game</sub-title>
+    <desc>The queens impersonate celebrities in a quick-witted TV game show, and burn rubber in a latex runway; guest judge Ross Mathews.</desc>
+    <episode-num system="onscreen">S2 E2</episode-num>
+    <credits>
+      <director>Nick Murray</director>
+      <actor>RuPaul</actor>
+      <actor>Michelle Visage</actor>
+      <actor>Todrick Hall</actor>
+    </credits><date>2016</date>
+    <category lang="en">Series</category>
+    <category lang="en">Fashion</category>
+    <category lang="en">Competition Reality</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p9489996_b_h8_bh.jpg?w=960&amp;h=540" />
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating><rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating><rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
+      <value>16</value>
+    </rating>
+  </programme><programme channel="Logo-US" start="20260524100000 +0500" stop="20260524110000 +0500">
+    <title>RuPaul's Drag Race: All Stars</title>
+    <sub-title>HERstory Of The World</sub-title>
+    <desc>The queens are challenged to perform in a lip-syncing dance number inspired by the legendary historical women; fashion designer Jeremy Scott guest judges.</desc>
+    <episode-num system="onscreen">S2 E3</episode-num>
+    <credits>
+      <director>Nick Murray</director>
+      <actor>RuPaul</actor>
+      <actor>Michelle Visage</actor>
+      <actor>Todrick Hall</actor>
+    </credits><date>2016</date>
+    <category lang="en">Series</category>
+    <category lang="en">Fashion</category>
+    <category lang="en">Competition Reality</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p9489996_b_h8_bh.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating><rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating><rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
+      <value>16</value>
+    </rating>
+  </programme><programme channel="Logo-US" start="20260524110000 +0500" stop="20260524120000 +0500">
+    <title>RuPaul's Drag Race: All Stars</title>
+    <sub-title>Drag Movie Shequels</sub-title>
+    <desc>Acting chops are tested in parody movie sequels of RuPaul's favorite flicks; Big Freedia co-stars and Nicole Scherzinger guest judges.</desc>
+    <episode-num system="onscreen">S2 E4</episode-num>
+    <credits>
+      <director>Nick Murray</director>
+      <actor>RuPaul</actor>
+      <actor>Michelle Visage</actor>
+      <actor>Todrick Hall</actor>
+    </credits><date>2016</date>
+    <category lang="en">Series</category>
+    <category lang="en">Fashion</category>
+    <category lang="en">Competition Reality</category>
+    <category lang="en">Reality</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p9489996_b_h8_bh.jpg?w=960&amp;h=540" />
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating><rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating><rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating>
+  </programme><programme channel="Logo-US" start="20260524120000 +0500" stop="20260524130000 +0500">
+    <title>RuPaul's Drag Race: All Stars</title>
+    <sub-title>Revenge of the Queens</sub-title>
+    <desc>The queens must perform a stand-up comedy routine for judgmental drag queens; guest judge Ross Mathews.</desc>
+    <episode-num system="onscreen">S2 E5</episode-num>
+    <credits>
+      <director>Nick Murray</director>
+      <actor>RuPaul</actor>
+      <actor>Michelle Visage</actor>
+      <actor>Todrick Hall</actor>
+    </credits><date>2016</date>
+    <category lang="en">Series</category>
+    <category lang="en">Fashion</category>
+    <category lang="en">Competition Reality</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p9489996_b_h8_bh.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating><rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating><rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
+      <value>16</value>
+    </rating>
+  </programme><programme channel="Logo-US" start="20260524130000 +0500" stop="20260524140000 +0500">
+    <title>RuPaul's Drag Race: All Stars</title>
+    <sub-title>Drag Fish Tank</sub-title>
+    <desc>The queens design drag-influenced products; entrepreneur Marcus Lemonis and comic Graham Norton judge.</desc>
+    <episode-num system="onscreen">S2 E6</episode-num>
+    <credits>
+      <director>Nick Murray</director>
+      <actor>RuPaul</actor>
+      <actor>Michelle Visage</actor>
+      <actor>Todrick Hall</actor>
+    </credits><date>2016</date>
+    <category lang="en">Series</category>
+    <category lang="en">Fashion</category>
+    <category lang="en">Competition Reality</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p9489996_b_h8_bh.jpg?w=960&amp;h=540" />
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating><rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating><rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
+      <value>16</value>
+    </rating>
+  </programme><programme channel="Logo-US" start="20260524140000 +0500" stop="20260524150000 +0500">
+    <title>RuPaul's Drag Race: All Stars</title>
+    <sub-title>Family That Drags Together</sub-title>
+    <desc>The queens do makeovers on family members; actress Aubrey Plaza judges.</desc>
+    <episode-num system="onscreen">S2 E7</episode-num>
+    <credits>
+      <actor>RuPaul</actor>
+      <actor>Michelle Visage</actor>
+      <actor>Todrick Hall</actor>
+    </credits><date>2016</date>
+    <category lang="en">Series</category>
+    <category lang="en">Fashion</category>
+    <category lang="en">Competition Reality</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p9489996_b_h8_bh.jpg?w=960&amp;h=540" />
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating><rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating><rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
+      <value>16</value>
+    </rating>
+  </programme><programme channel="Logo-US" start="20260524150000 +0500" stop="20260524160000 +0500">
+    <title>RuPaul's Drag Race: All Stars</title>
+    <sub-title>All Stars Supergroup</sub-title>
+    <desc>The queens must write original rap lyrics and perform as a girl group; crowning a winner.</desc>
+    <episode-num system="onscreen">S2 E8</episode-num>
+    <credits>
+      <director>Nick Murray</director>
+      <actor>RuPaul</actor>
+      <actor>Michelle Visage</actor>
+      <actor>Todrick Hall</actor>
+    </credits><date>2016</date>
+    <category lang="en">Series</category>
+    <category lang="en">Fashion</category>
+    <category lang="en">Competition Reality</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p9489996_b_h8_bh.jpg?w=960&amp;h=540" />
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating><rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating><rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
+      <value>16</value>
+    </rating>
+  </programme><programme channel="Logo-US" start="20260524160000 +0500" stop="20260524170000 +0500">
+    <title>RuPaul's Drag Race: All Stars</title>
+    <sub-title>Reunited</sub-title>
+    <desc>Tensions run high as the queens return to discuss the drama of the season.</desc>
+    <episode-num system="onscreen">S2 E9</episode-num>
+    <credits>
+      <director>Nick Murray</director>
+      <actor>RuPaul</actor>
+      <actor>Michelle Visage</actor>
+      <actor>Todrick Hall</actor>
+    </credits><date>2016</date>
+    <category lang="en">Series</category>
+    <category lang="en">Fashion</category>
+    <category lang="en">Competition Reality</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p9489996_b_h8_bh.jpg?w=960&amp;h=540" />
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating><rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
+      <value>16</value>
+    </rating><rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating>
+  </programme><programme channel="Logo-US" start="20260524170000 +0500" stop="20260524183000 +0500">
+    <title>RuPaul's Drag Race</title>
+    <sub-title>The Pork Chop</sub-title>
+    <desc>The queens discover an explosive surprise -- that they must immediately perform six lip syncs to defend their place in the competition.</desc>
+    <episode-num system="onscreen">S13 E1</episode-num>
+    <credits>
+      <director>Nick Murray</director>
+      <director>Ian Stevenson</director>
+      <director>Justin Harder</director>
+      <actor>RuPaul</actor>
+      <actor>Michelle Visage</actor>
+      <actor>Carson Kressley</actor>
+    </credits><date>2021</date>
+    <category lang="en">Series</category>
+    <category lang="en">Competition Reality</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p197358_b_h8_bp.jpg?w=960&amp;h=540" />
+    <rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating><rating system="Film &amp; Publication Board">
+      <value>16</value>
+    </rating><rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating><rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>19</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating>
+  </programme><programme channel="Logo-US" start="20260524183000 +0500" stop="20260524200000 +0500">
+    <title>RuPaul's Drag Race</title>
+    <sub-title>Condragulations</sub-title>
+    <desc>Queens form a pop group to write lyrics and perform choreography to a new version of RuPaul's song "Condragulations"; choreographer Jamal Sims guest judges.</desc>
+    <episode-num system="onscreen">S13 E2</episode-num>
+    <credits>
+      <director>Nick Murray</director>
+      <director>Ian Stevenson</director>
+      <director>Justin Harder</director>
+      <actor>RuPaul</actor>
+      <actor>Michelle Visage</actor>
+      <actor>Carson Kressley</actor>
+    </credits><date>2021</date>
+    <category lang="en">Series</category>
+    <category lang="en">Competition Reality</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p197358_b_h8_bp.jpg?w=960&amp;h=540" />
+    <rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating><rating system="Film &amp; Publication Board">
+      <value>16</value>
+    </rating><rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating><rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>19</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating>
+  </programme><programme channel="Logo-US" start="20260524200000 +0500" stop="20260524213000 +0500">
+    <title>RuPaul's Drag Race</title>
+    <sub-title>Phenomenon</sub-title>
+    <desc>As the race for the crown continues, queens must write lyrics and perform choreography in a performance of RuPaul's song, "Phenomenon"; comedian and host Nicole Byer guest judges.</desc>
+    <episode-num system="onscreen">S13 E3</episode-num>
+    <credits>
+      <director>Nick Murray</director>
+      <director>Ian Stevenson</director>
+      <director>Justin Harder</director>
+      <actor>RuPaul</actor>
+      <actor>Michelle Visage</actor>
+      <actor>Carson Kressley</actor>
+    </credits><date>2021</date>
+    <category lang="en">Series</category>
+    <category lang="en">Competition Reality</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p197358_b_h8_bp.jpg?w=960&amp;h=540" />
+    <rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating><rating system="Film &amp; Publication Board">
+      <value>16</value>
+    </rating><rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating><rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>19</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating>
+  </programme><programme channel="Logo-US" start="20260524213000 +0500" stop="20260524220000 +0500">
+    <title>Mama's Family</title>
+    <sub-title>What a Dump</sub-title>
+    <desc>Mama's home may be demolished to make way for a new landfill.</desc>
     <episode-num system="onscreen">S5 E10</episode-num>
     <credits>
       <director>Dave Powers</director>
-      <actor>John Ritter</actor>
-      <actor>Joyce DeWitt</actor>
-      <actor>Jenilee Harrison</actor>
-    </credits><date>1981</date>
+      <actor>Vicki Lawrence</actor>
+      <actor>Ken Berry</actor>
+      <actor>Dorothy Lyman</actor>
+    </credits><date>1989</date>
     <category lang="en">Series</category>
     <category lang="en">Sitcom</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p7894988_b_h10_aa.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p436833_b_h10_ac.jpg?w=960&amp;h=540" />
     <rating system="USA Parental Rating">
       <value>TVPG</value>
     </rating><rating system="Canadian Parental Rating">
       <value>PG</value>
     </rating>
-  </programme><programme channel="Logo-US" start="20260518053000 +0500" stop="20260518060000 +0500">
-    <title>Three's Company</title>
-    <sub-title>Make Room for Daddy</sub-title>
-    <desc>Jack plays cupid for his date's widowed father.</desc>
+  </programme><programme channel="Logo-US" start="20260524220000 +0500" stop="20260524223000 +0500">
+    <title>Mama's Family</title>
+    <sub-title>Mama Bell</sub-title>
+    <desc>An answering machine and a stray dog give Mama the wrong idea.</desc>
     <episode-num system="onscreen">S5 E11</episode-num>
     <credits>
       <director>Dave Powers</director>
-      <actor>John Ritter</actor>
-      <actor>Joyce DeWitt</actor>
-      <actor>Jenilee Harrison</actor>
-    </credits><date>1981</date>
+      <actor>Vicki Lawrence</actor>
+      <actor>Ken Berry</actor>
+      <actor>Dorothy Lyman</actor>
+    </credits><date>1989</date>
     <category lang="en">Series</category>
     <category lang="en">Sitcom</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p7894988_b_h10_aa.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p436833_b_h10_ac.jpg?w=960&amp;h=540" />
     <rating system="USA Parental Rating">
       <value>TVPG</value>
     </rating><rating system="Canadian Parental Rating">
       <value>PG</value>
     </rating>
-  </programme><programme channel="Logo-US" start="20260518060000 +0500" stop="20260518063000 +0500">
-    <title>Three's Company</title>
-    <sub-title>Janet's Secret</sub-title>
-    <desc>Janet tells her parents she and Jack are married.</desc>
+  </programme><programme channel="Logo-US" start="20260524223000 +0500" stop="20260524230000 +0500">
+    <title>Mama's Family</title>
+    <sub-title>Very Dirty Dancing</sub-title>
+    <desc>Vint and Naomi compete against Mama and her friend in a dance contest.</desc>
     <episode-num system="onscreen">S5 E12</episode-num>
     <credits>
       <director>Dave Powers</director>
-      <actor>John Ritter</actor>
-      <actor>Joyce DeWitt</actor>
-      <actor>Jenilee Harrison</actor>
-    </credits><date>1981</date>
+      <actor>Vicki Lawrence</actor>
+      <actor>Ken Berry</actor>
+      <actor>Dorothy Lyman</actor>
+    </credits><date>1989</date>
     <category lang="en">Series</category>
     <category lang="en">Sitcom</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p7894988_b_h10_aa.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p436833_b_h10_ac.jpg?w=960&amp;h=540" />
     <rating system="USA Parental Rating">
       <value>TVPG</value>
     </rating><rating system="Canadian Parental Rating">
       <value>PG</value>
     </rating>
-  </programme><programme channel="Logo-US" start="20260518063000 +0500" stop="20260518070000 +0500">
-    <title>Three's Company</title>
-    <sub-title>Father of the Bride</sub-title>
-    <desc>Jack and Janet try to thwart a wealthy man's efforts to make Cindy his bride.</desc>
+  </programme><programme channel="Logo-US" start="20260524230000 +0500" stop="20260524233000 +0500">
+    <title>Mama's Family</title>
+    <sub-title>Mama's Layaway Plan</sub-title>
+    <desc>Mama earmarks her life savings for a perfect funeral.</desc>
     <episode-num system="onscreen">S5 E13</episode-num>
     <credits>
       <director>Dave Powers</director>
-      <actor>John Ritter</actor>
-      <actor>Joyce DeWitt</actor>
-      <actor>Jenilee Harrison</actor>
-    </credits><date>1981</date>
+      <actor>Vicki Lawrence</actor>
+      <actor>Ken Berry</actor>
+      <actor>Dorothy Lyman</actor>
+    </credits><date>1989</date>
     <category lang="en">Series</category>
     <category lang="en">Sitcom</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p7894988_b_h10_aa.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p436833_b_h10_ac.jpg?w=960&amp;h=540" />
     <rating system="USA Parental Rating">
       <value>TVPG</value>
     </rating><rating system="Canadian Parental Rating">
       <value>PG</value>
     </rating>
-  </programme><programme channel="Logo-US" start="20260518070000 +0500" stop="20260518073000 +0500">
-    <title>Three's Company</title>
-    <sub-title>Furley vs. Furley</sub-title>
-    <desc>Fired Furley moves in with the roommates.</desc>
+  </programme><programme channel="Logo-US" start="20260524233000 +0500" stop="20260525000000 +0500">
+    <title>Mama's Family</title>
+    <sub-title>My Phony Valentine</sub-title>
+    <desc>Mama pretends to have a banquet date so Iola won't stay home.</desc>
     <episode-num system="onscreen">S5 E14</episode-num>
     <credits>
       <director>Dave Powers</director>
-      <actor>John Ritter</actor>
-      <actor>Joyce DeWitt</actor>
-      <actor>Jenilee Harrison</actor>
-    </credits><date>1981</date>
+      <actor>Vicki Lawrence</actor>
+      <actor>Ken Berry</actor>
+      <actor>Dorothy Lyman</actor>
+    </credits><date>1989</date>
     <category lang="en">Series</category>
     <category lang="en">Sitcom</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p7894988_b_h10_aa.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating>
-  </programme><programme channel="Logo-US" start="20260518073000 +0500" stop="20260518080000 +0500">
-    <title>Three's Company</title>
-    <sub-title>In Like Larry</sub-title>
-    <desc>Jack and Larry switch apartments after Jack has an argument with the girls.</desc>
-    <episode-num system="onscreen">S5 E15</episode-num>
-    <credits>
-      <director>Dave Powers</director>
-      <actor>John Ritter</actor>
-      <actor>Joyce DeWitt</actor>
-      <actor>Jenilee Harrison</actor>
-    </credits><date>1981</date>
-    <category lang="en">Series</category>
-    <category lang="en">Sitcom</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p7894988_b_h10_aa.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating>
-  </programme><programme channel="Logo-US" start="20260518080000 +0500" stop="20260518083000 +0500">
-    <title>Three's Company</title>
-    <sub-title>Teacher's Pet</sub-title>
-    <desc>The niece of the cooking-school dean pursues Jack.</desc>
-    <episode-num system="onscreen">S5 E16</episode-num>
-    <credits>
-      <director>Dave Powers</director>
-      <actor>John Ritter</actor>
-      <actor>Joyce DeWitt</actor>
-      <actor>Jenilee Harrison</actor>
-    </credits><date>1981</date>
-    <category lang="en">Series</category>
-    <category lang="en">Sitcom</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p7894988_b_h10_aa.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating>
-  </programme><programme channel="Logo-US" start="20260518083000 +0500" stop="20260518090000 +0500">
-    <title>Three's Company</title>
-    <sub-title>And Baby Makes Four</sub-title>
-    <desc>Jack grows suspicious when Cindy starts collecting maternity clothes.</desc>
-    <episode-num system="onscreen">S5 E17</episode-num>
-    <credits>
-      <director>Dave Powers</director>
-      <actor>John Ritter</actor>
-      <actor>Joyce DeWitt</actor>
-      <actor>Jenilee Harrison</actor>
-    </credits><date>1981</date>
-    <category lang="en">Series</category>
-    <category lang="en">Sitcom</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p7894988_b_h10_aa.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p436833_b_h10_ac.jpg?w=960&amp;h=540" />
     <rating system="USA Parental Rating">
       <value>TVPG</value>
     </rating><rating system="Canadian Parental Rating">

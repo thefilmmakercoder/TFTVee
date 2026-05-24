@@ -1,77 +1,24 @@
 <?xml version='1.0' encoding='utf-8'?>
 <tv>
   <channel id="Fox5-WNYW-US">
+    <icon src="https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/Fox5-WNYW-US.png" />
+    <url>https://tv.thefilmtuition.com</url>
     <display-name>WNYW</display-name>
-    <icon src="https://thefilmtuition.com/tvlogo/Fox5-WNYW-US.png" />
-  </channel><programme channel="Fox5-WNYW-US" start="20260516080000 +0500" stop="20260516083000 +0500">
-    <title>The 10 O'Clock News</title>
-    <sub-title />
-    <desc>Local, national and international news.</desc>
-    <date>2021</date>
-    <category lang="en">News</category>
+  </channel><programme channel="Fox5-WNYW-US" start="20260522210000 +0500" stop="20260522220000 +0500">
+    <title>The Noon</title>
+    <desc>Midday news update.</desc>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p19319081_b_h8_ab.jpg?w=960&amp;h=540" />
-  </programme><programme channel="Fox5-WNYW-US" start="20260516083000 +0500" stop="20260516090000 +0500">
-    <title>Street Soldiers</title>
-    <sub-title />
-    <desc />
-    <date>2016</date>
-    <category lang="en">Newsmagazine</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p12442514_b_h10_aa.jpg?w=960&amp;h=540" />
-  </programme><programme channel="Fox5-WNYW-US" start="20260516090000 +0500" stop="20260516093000 +0500">
-    <title>Good Night New York</title>
-    <sub-title />
-    <desc>Christal Young and Ryan Kristafer's edgy perspective on entertainment and lifestyle news in NYC and beyond.</desc>
-    <date>2024</date>
-    <category lang="en">Newsmagazine</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p27878460_b_h8_aa.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-  </programme><programme channel="Fox5-WNYW-US" start="20260516093000 +0500" stop="20260516100000 +0500">
-    <title>Family Feud Favorites</title>
-    <sub-title />
-    <desc>"Family Feud" has seen some crazy moments over the years, so buckle up as we revisit these fan favorites.</desc>
-    <episode-num system="onscreen">S1 E113</episode-num>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Comedy</category>
-    <category lang="en">Game show</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p30947082_b_h10_aa.jpg?w=960&amp;h=540" />
-    <rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating>
-  </programme><programme channel="Fox5-WNYW-US" start="20260516100000 +0500" stop="20260516103000 +0500">
+  </programme><programme channel="Fox5-WNYW-US" start="20260522220000 +0500" stop="20260522223000 +0500">
     <title>25 Words or Less</title>
-    <sub-title>One Clue Sent Them Down the Wrong Corridor</sub-title>
-    <desc>A confident hint becomes a detour fast; can they course-correct and reach the answer before the buzzer?</desc>
-    <episode-num system="onscreen">S7 E115</episode-num>
-    <credits>
-      <actor>Meredith Vieira</actor>
-      <actor>Greg Grunberg</actor>
-      <actor>Matt Iseman</actor>
-    </credits><date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Game show</category>
+    <sub-title>Can They Find the Word in the Crowd?</sub-title>
+    <desc>Big energy, fast guesses and a word that won't land. Can they focus through the noise and get it in time?</desc>
+    <episode-num system="onscreen">S7 E160</episode-num>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p15722953_b_h8_am.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating>
-  </programme><programme channel="Fox5-WNYW-US" start="20260516103000 +0500" stop="20260516110000 +0500">
+  </programme><programme channel="Fox5-WNYW-US" start="20260522223000 +0500" stop="20260522230000 +0500">
     <title>TMZ</title>
     <sub-title />
     <desc>TMZ TV tracks down today's hottest stars with their cameras, whether they are hitting the clubs or the dry cleaners.</desc>
-    <episode-num system="onscreen">S19 E221</episode-num>
+    <episode-num system="onscreen">S19 E227</episode-num>
     <credits>
       <actor>Harvey Levin</actor>
     </credits><date>2026</date>
@@ -87,7 +34,205 @@
     </rating><rating system="Canadian Parental Rating">
       <value>PG</value>
     </rating>
-  </programme><programme channel="Fox5-WNYW-US" start="20260516110000 +0500" stop="20260516113000 +0500">
+  </programme><programme channel="Fox5-WNYW-US" start="20260522230000 +0500" stop="20260522233000 +0500">
+    <title>Live: IndyCar Racing</title>
+    <sub-title />
+    <desc>Six Oscar Mayer Wienermobiles race in the second annual Wienie 500 at Indianapolis Motor Speedway. Each car represents a different favorite hot dog - Corn Dog, Chi Dog, N.Y. Dog, Chili Dog, Seattle Dog and Slaw Dog, the reigning champion.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Auto racing</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p32687708_b_h8_aa.jpg?w=960&amp;h=540" />
+  </programme><programme channel="Fox5-WNYW-US" start="20260522233000 +0500" stop="20260523010000 +0500">
+    <title>Live: Indy 500 Pit Stop Challenge</title>
+    <sub-title />
+    <desc>Featuring head-to-head competition between pit crews, in which crews will simulate fuel hookup and change all four Firestone Firehawk tires to see who has the fastest time.</desc>
+    <date>2026</date>
+    <category lang="en">Special</category>
+    <category lang="en">Auto racing</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p32688120_b_h8_ab.jpg?w=960&amp;h=540" />
+  </programme><programme channel="Fox5-WNYW-US" start="20260523010000 +0500" stop="20260523013000 +0500">
+    <title>FOX 5 News Block</title>
+    <sub-title />
+    <desc>Live news and weather from the FOX 5 team.</desc>
+    <date>2024</date>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p28526349_b_h8_aa.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+  </programme><programme channel="Fox5-WNYW-US" start="20260523013000 +0500" stop="20260523020000 +0500">
+    <title>Street Soldiers</title>
+    <sub-title />
+    <desc>WNYW delivers premier New York City news and entertainment, specializing in high-impact local journalism, live professional sports, and the flagship Fox network lineup of primetime series and reality television.</desc>
+    <date>2016</date>
+    <category lang="en">Newsmagazine</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p12442514_b_h10_aa.jpg?w=960&amp;h=540" />
+  </programme><programme channel="Fox5-WNYW-US" start="20260523020000 +0500" stop="20260523030000 +0500">
+    <title>The 5 O'Clock News</title>
+    <sub-title />
+    <desc>Local, national and international news.</desc>
+    <date>2021</date>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p19319061_b_h8_ab.jpg?w=960&amp;h=540" />
+  </programme><programme channel="Fox5-WNYW-US" start="20260523030000 +0500" stop="20260523033000 +0500">
+    <title>The 6 O'Clock News</title>
+    <sub-title />
+    <desc>Local, national and international news.</desc>
+    <date>2021</date>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p19319065_b_h8_ab.jpg?w=960&amp;h=540" />
+  </programme><programme channel="Fox5-WNYW-US" start="20260523033000 +0500" stop="20260523040000 +0500">
+    <title>Politics Unusual</title>
+    <sub-title />
+    <desc>Politics these days is anything but usual. Our political landscape is constantly changing and the potential impact is still unknown. FOX 5s political reporters break down the weeks biggest local and national political headlines.</desc>
+    <date>2025</date>
+    <category lang="en">Special</category>
+    <category lang="en">Politics</category>
+    <category lang="en">Community</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p29744130_b_h8_aa.jpg?w=960&amp;h=540" />
+  </programme><programme channel="Fox5-WNYW-US" start="20260523040000 +0500" stop="20260523043000 +0500">
+    <title>Extra</title>
+    <sub-title />
+    <desc>Inside the entertainment newsgathering process, as reporters coast-to-coast break headlines, advance the stories of the day and sit down with celebrities.</desc>
+    <episode-num system="onscreen">S32 E227</episode-num>
+    <credits>
+      <actor>Derek Hough</actor>
+      <actor>Mona Kosar Abdi</actor>
+      <actor>Terri Seymour</actor>
+    </credits><date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Newsmagazine</category>
+    <category lang="en">Entertainment</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p30948222_b_h8_aa.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="Fox5-WNYW-US" start="20260523043000 +0500" stop="20260523050000 +0500">
+    <title>TMZ</title>
+    <sub-title />
+    <desc>TMZ TV tracks down today's hottest stars with their cameras, whether they are hitting the clubs or the dry cleaners.</desc>
+    <episode-num system="onscreen">S19 E227</episode-num>
+    <credits>
+      <actor>Harvey Levin</actor>
+    </credits><date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Newsmagazine</category>
+    <category lang="en">Entertainment</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p30985766_b_h10_aa.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="Fox5-WNYW-US" start="20260523050000 +0500" stop="20260523080000 +0500">
+    <title>Live: United Football League</title>
+    <sub-title />
+    <desc>The Orlando Storm host the DC Defenders for a United Football League game at Inter&amp;Co Stadium. The 6-2 Storm face the 5-3 Defenders as Orlando running back Jashaun Corbin brings three rushing touchdowns against DC back Deon Jackson and his six.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG0033S6F6.jpg?w=960&amp;h=540" />
+  </programme><programme channel="Fox5-WNYW-US" start="20260523080000 +0500" stop="20260523083000 +0500">
+    <title>The 10 O'Clock News</title>
+    <sub-title />
+    <desc>Local, national and international news.</desc>
+    <date>2021</date>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p19319081_b_h8_ab.jpg?w=960&amp;h=540" />
+  </programme><programme channel="Fox5-WNYW-US" start="20260523083000 +0500" stop="20260523090000 +0500">
+    <title>Street Soldiers</title>
+    <sub-title />
+    <desc>WNYW delivers premier New York City news and entertainment, specializing in high-impact local journalism, live professional sports, and the flagship Fox network lineup of primetime series and reality television.</desc>
+    <date>2016</date>
+    <category lang="en">Newsmagazine</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p12442514_b_h10_aa.jpg?w=960&amp;h=540" />
+  </programme><programme channel="Fox5-WNYW-US" start="20260523090000 +0500" stop="20260523093000 +0500">
+    <title>Good Night New York</title>
+    <sub-title />
+    <desc>Christal Young and Ryan Kristafer's edgy perspective on entertainment and lifestyle news in NYC and beyond.</desc>
+    <date>2024</date>
+    <category lang="en">Newsmagazine</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p27878460_b_h8_aa.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+  </programme><programme channel="Fox5-WNYW-US" start="20260523093000 +0500" stop="20260523100000 +0500">
+    <title>Family Feud Favorites</title>
+    <sub-title />
+    <desc>"Family Feud" has seen some crazy moments over the years, so buckle up as we revisit these fan favorites.</desc>
+    <episode-num system="onscreen">S1 E123</episode-num>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Game show</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p30947082_b_h10_aa.jpg?w=960&amp;h=540" />
+    <rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating>
+  </programme><programme channel="Fox5-WNYW-US" start="20260523100000 +0500" stop="20260523103000 +0500">
+    <title>25 Words or Less</title>
+    <sub-title>Can They Find Courage to Beat the Buzzer?</sub-title>
+    <desc>The timer's loud and the team's second-guessing everything. Do they step up -- or freeze at the worst moment?</desc>
+    <episode-num system="onscreen">S7 E120</episode-num>
+    <credits>
+      <actor>Meredith Vieira</actor>
+      <actor>Matt Iseman</actor>
+      <actor>Lauren Ash</actor>
+    </credits><date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Game show</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p15722953_b_h8_am.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="Fox5-WNYW-US" start="20260523103000 +0500" stop="20260523110000 +0500">
+    <title>TMZ</title>
+    <sub-title />
+    <desc>TMZ TV tracks down today's hottest stars with their cameras, whether they are hitting the clubs or the dry cleaners.</desc>
+    <episode-num system="onscreen">S19 E227</episode-num>
+    <credits>
+      <actor>Harvey Levin</actor>
+    </credits><date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Newsmagazine</category>
+    <category lang="en">Entertainment</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p30985766_b_h10_aa.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="Fox5-WNYW-US" start="20260523110000 +0500" stop="20260523113000 +0500">
     <title>Paid Programming</title>
     <sub-title />
     <desc>Paid programming.</desc>
@@ -111,7 +256,7 @@
     </rating><rating system="Kijkwijzer">
       <value>AL</value>
     </rating>
-  </programme><programme channel="Fox5-WNYW-US" start="20260516113000 +0500" stop="20260516120000 +0500">
+  </programme><programme channel="Fox5-WNYW-US" start="20260523113000 +0500" stop="20260523120000 +0500">
     <title>Paid Programming</title>
     <sub-title />
     <desc>Paid programming.</desc>
@@ -135,7 +280,7 @@
     </rating><rating system="Kijkwijzer">
       <value>AL</value>
     </rating>
-  </programme><programme channel="Fox5-WNYW-US" start="20260516120000 +0500" stop="20260516123000 +0500">
+  </programme><programme channel="Fox5-WNYW-US" start="20260523120000 +0500" stop="20260523123000 +0500">
     <title>Paid Programming</title>
     <sub-title />
     <desc>Paid programming.</desc>
@@ -159,7 +304,7 @@
     </rating><rating system="Kijkwijzer">
       <value>AL</value>
     </rating>
-  </programme><programme channel="Fox5-WNYW-US" start="20260516123000 +0500" stop="20260516130000 +0500">
+  </programme><programme channel="Fox5-WNYW-US" start="20260523123000 +0500" stop="20260523130000 +0500">
     <title>Paid Programming</title>
     <sub-title />
     <desc>Paid programming.</desc>
@@ -183,28 +328,42 @@
     </rating><rating system="Kijkwijzer">
       <value>AL</value>
     </rating>
-  </programme><programme channel="Fox5-WNYW-US" start="20260516130000 +0500" stop="20260516133000 +0500">
-    <title>Bathroom Makeover</title>
-    <sub-title />
-    <desc>Transform your bath affordably in just one day!</desc>
-    <category lang="en">Consumer</category>
-    <category lang="en">Health</category>
-    <category lang="en">House/garden</category>
-    <category lang="en">Self improvement</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p30220270_b_h8_aa.jpg?w=960&amp;h=540" />
-  </programme><programme channel="Fox5-WNYW-US" start="20260516133000 +0500" stop="20260516140000 +0500">
+  </programme><programme channel="Fox5-WNYW-US" start="20260523130000 +0500" stop="20260523133000 +0500">
     <title>Victim of Nursing Home Abuse?</title>
     <sub-title />
     <desc>Have you or a family member been a victim of nursing home abuse?</desc>
     <category lang="en">Consumer</category>
     <language>en</language>
     <icon src="http://dtil.tmsimg.com/assets/p32656820_st_h10_aa.jpg?w=960&amp;h=540" />
-  </programme><programme channel="Fox5-WNYW-US" start="20260516140000 +0500" stop="20260516143000 +0500">
+  </programme><programme channel="Fox5-WNYW-US" start="20260523133000 +0500" stop="20260523140000 +0500">
+    <title>Paid Programming</title>
+    <sub-title />
+    <desc>Paid programming.</desc>
+    <category lang="en">Consumer</category>
+    <category lang="en">Shopping</category>
+    <category lang="en">Variety</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>A</value>
+    </rating><rating system="Australian Classification Board">
+      <value>G</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>L</value>
+    </rating><rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating>
+  </programme><programme channel="Fox5-WNYW-US" start="20260523140000 +0500" stop="20260523143000 +0500">
     <title>Coffee With America</title>
     <sub-title />
     <desc>"Coffee With America" is a magazine show featuring lifestyle interviews and health and entertainment stories.</desc>
-    <episode-num system="onscreen">S10 E37</episode-num>
+    <episode-num system="onscreen">S10 E38</episode-num>
     <credits>
       <actor>Sasha Rionda</actor>
     </credits><date>2026</date>
@@ -220,7 +379,7 @@
     </rating><rating system="Régie du cinéma">
       <value>G</value>
     </rating>
-  </programme><programme channel="Fox5-WNYW-US" start="20260516143000 +0500" stop="20260516150000 +0500">
+  </programme><programme channel="Fox5-WNYW-US" start="20260523143000 +0500" stop="20260523150000 +0500">
     <title>Paid Programming</title>
     <sub-title />
     <desc>Paid programming.</desc>
@@ -244,7 +403,7 @@
     </rating><rating system="Kijkwijzer">
       <value>AL</value>
     </rating>
-  </programme><programme channel="Fox5-WNYW-US" start="20260516150000 +0500" stop="20260516153000 +0500">
+  </programme><programme channel="Fox5-WNYW-US" start="20260523150000 +0500" stop="20260523153000 +0500">
     <title>Good Day Street Talk</title>
     <sub-title />
     <desc>New York public affairs program focusing on important issues in the tri-state area.</desc>
@@ -252,18 +411,18 @@
     <category lang="en">Public affairs</category>
     <language>en</language>
     <icon src="http://dtil.tmsimg.com/assets/p8083062_b_h10_ab.jpg?w=960&amp;h=540" />
-  </programme><programme channel="Fox5-WNYW-US" start="20260516153000 +0500" stop="20260516160000 +0500">
+  </programme><programme channel="Fox5-WNYW-US" start="20260523153000 +0500" stop="20260523160000 +0500">
     <title>Victim of Nursing Home Abuse?</title>
     <sub-title />
     <desc>Have you or a family member been a victim of nursing home abuse?</desc>
     <category lang="en">Consumer</category>
     <language>en</language>
     <icon src="http://dtil.tmsimg.com/assets/p32656820_st_h10_aa.jpg?w=960&amp;h=540" />
-  </programme><programme channel="Fox5-WNYW-US" start="20260516160000 +0500" stop="20260516163000 +0500">
+  </programme><programme channel="Fox5-WNYW-US" start="20260523160000 +0500" stop="20260523163000 +0500">
     <title>Xploration Awesome Planet</title>
-    <sub-title>Animal Coexistence</sub-title>
-    <desc>Cousteau travels to Australia to catch the world's deadliest jellyfish; the California condor slowly rebounds from near extinction; the endangered Hawaiian monk seal.</desc>
-    <episode-num system="onscreen">S4 E11</episode-num>
+    <sub-title>Farmers</sub-title>
+    <desc>An oyster farmer pulls in a harvest; an aquaponics farmer grows sustainable foods; training future farmers.</desc>
+    <episode-num system="onscreen">S4 E10</episode-num>
     <credits>
       <actor>Philippe Cousteau</actor>
     </credits><date>2017</date>
@@ -277,14 +436,14 @@
     </rating><rating system="USA Parental Rating">
       <value>TVPG</value>
     </rating>
-  </programme><programme channel="Fox5-WNYW-US" start="20260516163000 +0500" stop="20260516170000 +0500">
+  </programme><programme channel="Fox5-WNYW-US" start="20260523163000 +0500" stop="20260523170000 +0500">
     <title>Xploration Outer Space</title>
-    <sub-title>Student Astronaut Contest</sub-title>
-    <desc>Host Emily Calandrelli holds the fourth annual Student Astronaut Contest; one student will win a trip to Russia to train like a cosmonaut at the Yuri Gagarin Cosmonaut Training Center.</desc>
-    <episode-num system="onscreen">S5 E11</episode-num>
+    <sub-title>Landing on Mars</sub-title>
+    <desc>NASA has been remarkably successful sending robots to Mars' surface; host Emily Calandrelli looks at the varied and ingenious methods used to land spacecraft on the red planet, starting with Pathfinder in 1997.</desc>
+    <episode-num system="onscreen">S4 E1</episode-num>
     <credits>
       <actor>Emily Calandrelli</actor>
-    </credits><date>2018</date>
+    </credits><date>2017</date>
     <category lang="en">Series</category>
     <category lang="en">Science</category>
     <category lang="en">Educational</category>
@@ -297,30 +456,30 @@
     </rating><rating system="방송통신심의위원회">
       <value>All</value>
     </rating>
-  </programme><programme channel="Fox5-WNYW-US" start="20260516170000 +0500" stop="20260516173000 +0500">
+  </programme><programme channel="Fox5-WNYW-US" start="20260523170000 +0500" stop="20260523173000 +0500">
     <title>Xploration Nature Knows Best</title>
-    <sub-title>Designing Drones</sub-title>
-    <desc>Join Danni as she checks out tiny robots based on manta rays that are helping to fight heart problems, robots that are learning to run as fast as our speediest animals, and giant snake-like robots that are drawing attention to climate change.</desc>
-    <episode-num system="onscreen">S1 E13</episode-num>
+    <sub-title>Nature and Physical Activity</sub-title>
+    <desc>Mother Nature revamps some of our favorite sports; roller skates' reinvented wheels are inspired by how snakes and fish move; a workout mimics the physiology of little kids; a basic component in plants helps divers see more clearly underwater.</desc>
+    <episode-num system="onscreen">S2 E1</episode-num>
     <credits>
       <actor>Danni Washington</actor>
-    </credits><date>2016</date>
+    </credits><date>2017</date>
     <category lang="en">Series</category>
     <category lang="en">Science</category>
     <category lang="en">Nature</category>
     <category lang="en">Educational</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p13055421_b_h8_ad.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p14423828_b_h8_ac.jpg?w=960&amp;h=540" />
     <rating system="USA Parental Rating">
       <value>TVPG</value>
     </rating><rating system="Canadian Parental Rating">
       <value>PG</value>
     </rating>
-  </programme><programme channel="Fox5-WNYW-US" start="20260516173000 +0500" stop="20260516180000 +0500">
+  </programme><programme channel="Fox5-WNYW-US" start="20260523173000 +0500" stop="20260523180000 +0500">
     <title>Second Chance Pets</title>
     <sub-title />
-    <desc>A dog named Luna Bell needs two braces to keep walking; a dog named Roland needs his brace tweaked so he can continue going on walks.</desc>
-    <episode-num system="onscreen">S1 E9</episode-num>
+    <desc>A dog named Luna is hit by a car and needs a brace to avoid amputation; Miley the bulldog needs her brace adjusted.</desc>
+    <episode-num system="onscreen">S1 E10</episode-num>
     <date>2021</date>
     <category lang="en">Series</category>
     <category lang="en">Animals</category>
@@ -332,7 +491,7 @@
     </rating><rating system="USA Parental Rating">
       <value>TVPG</value>
     </rating>
-  </programme><programme channel="Fox5-WNYW-US" start="20260516180000 +0500" stop="20260516183000 +0500">
+  </programme><programme channel="Fox5-WNYW-US" start="20260523180000 +0500" stop="20260523183000 +0500">
     <title>Paid Programming</title>
     <sub-title />
     <desc>Paid programming.</desc>
@@ -356,31 +515,21 @@
     </rating><rating system="Kijkwijzer">
       <value>AL</value>
     </rating>
-  </programme><programme channel="Fox5-WNYW-US" start="20260516183000 +0500" stop="20260516190000 +0500">
-    <title>NECTAR TRI-PILLOW -Cooler, Comfy, Better Sleep! Buy One Get One FREE!</title>
+  </programme><programme channel="Fox5-WNYW-US" start="20260523183000 +0500" stop="20260523190000 +0500">
+    <title>RateEscape: Stop Overpaying For Cellular</title>
     <sub-title />
-    <desc>Discover the Nectar Tri-Comfort Cooling Pillow for the ultimate sleep experience! Adjustable to three firmness levels to provide customized support and cooling all night long. Order NOW to get a second pillow FREE, plus a 30-night home trial!</desc>
+    <desc>Cut up to half the cost of your monthly cell phone bill; same towers, same coverage, but a lot less money; it sounds great but is it too good to be true?; join myth-busting legend Kari Byron as she takes on Big Wireless to save you money.</desc>
     <category lang="en">Consumer</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p30176714_b_h8_aa.jpg?w=960&amp;h=540" />
-  </programme><programme channel="Fox5-WNYW-US" start="20260516190000 +0500" stop="20260516193000 +0500">
-    <title>Joint Relief Revolution</title>
+    <icon src="http://dtil.tmsimg.com/assets/p30869357_st_h10_ab.jpg?w=960&amp;h=540" />
+  </programme><programme channel="Fox5-WNYW-US" start="20260523190000 +0500" stop="20260523193000 +0500">
+    <title>Victim of Nursing Home Abuse?</title>
     <sub-title />
-    <desc>Join Connie Craig-Carroll and health visionary Ken Meares as they uncover OmegaXL, the groundbreaking natural supplement transforming lives by tackling joint pain and inflammation.</desc>
+    <desc>Have you or a family member been a victim of nursing home abuse?</desc>
     <category lang="en">Consumer</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p32370416_st_h10_aa.jpg?w=960&amp;h=540" />
-  </programme><programme channel="Fox5-WNYW-US" start="20260516193000 +0500" stop="20260516200000 +0500">
-    <title>POOF! Bye Bye Under Eye Bags!</title>
-    <sub-title />
-    <desc>Plexaderm helps reduce Under Eye Bags, Dark Circles, and Wrinkles in just 10 minutes!</desc>
-    <category lang="en">Consumer</category>
-    <category lang="en">Health</category>
-    <category lang="en">How-to</category>
-    <category lang="en">Medical</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p30715204_b_h8_aa.jpg?w=960&amp;h=540" />
-  </programme><programme channel="Fox5-WNYW-US" start="20260516200000 +0500" stop="20260516203000 +0500">
+    <icon src="http://dtil.tmsimg.com/assets/p32656820_st_h10_aa.jpg?w=960&amp;h=540" />
+  </programme><programme channel="Fox5-WNYW-US" start="20260523193000 +0500" stop="20260523200000 +0500">
     <title>Paid Programming</title>
     <sub-title />
     <desc>Paid programming.</desc>
@@ -404,90 +553,81 @@
     </rating><rating system="Kijkwijzer">
       <value>AL</value>
     </rating>
-  </programme><programme channel="Fox5-WNYW-US" start="20260516203000 +0500" stop="20260516210000 +0500">
-    <title>Bathroom Makeover</title>
+  </programme><programme channel="Fox5-WNYW-US" start="20260523200000 +0500" stop="20260523203000 +0500">
+    <title>Paid Programming</title>
     <sub-title />
-    <desc>Transform your bath affordably in just one day!</desc>
+    <desc>Paid programming.</desc>
     <category lang="en">Consumer</category>
-    <category lang="en">Health</category>
-    <category lang="en">House/garden</category>
-    <category lang="en">Self improvement</category>
+    <category lang="en">Shopping</category>
+    <category lang="en">Variety</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p30220270_b_h8_aa.jpg?w=960&amp;h=540" />
-  </programme><programme channel="Fox5-WNYW-US" start="20260516210000 +0500" stop="20260517000000 +0500">
-    <title>Bassmaster Elite Series</title>
-    <sub-title>Santee Cooper Lakes</sub-title>
-    <desc>From Clarendon County, S.C.</desc>
-    <episode-num system="onscreen">E12</episode-num>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Fishing</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p8193134_b_h8_ai.jpg?w=960&amp;h=540" />
-  </programme><programme channel="Fox5-WNYW-US" start="20260517000000 +0500" stop="20260517003000 +0500">
-    <title>Whacked Out Sports</title>
-    <sub-title />
-    <desc>Roof jumping; BMX back flips; snow wipeouts.</desc>
-    <episode-num system="onscreen">S7 E17</episode-num>
-    <date>2009</date>
-    <category lang="en">Series</category>
-    <category lang="en">Anthology</category>
-    <category lang="en">Comedy</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p528839_b_h10_ac.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&amp;h=540" />
     <rating system="USA Parental Rating">
-      <value>TVPG</value>
+      <value>TVG</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>G</value>
     </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
       <value>A</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
+    </rating><rating system="Australian Classification Board">
+      <value>G</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>L</value>
     </rating><rating system="Kijkwijzer">
-      <value>12</value>
+      <value>AL</value>
     </rating>
-  </programme><programme channel="Fox5-WNYW-US" start="20260517003000 +0500" stop="20260517010000 +0500">
-    <title>Whacked Out Sports</title>
+  </programme><programme channel="Fox5-WNYW-US" start="20260523203000 +0500" stop="20260523210000 +0500">
+    <title>The Aging Brain</title>
     <sub-title />
-    <desc>Bikinis and football; the half-pint beat down; exploding porta potty; beer can smashing.</desc>
-    <episode-num system="onscreen">S5 E15</episode-num>
-    <date>2008</date>
-    <category lang="en">Series</category>
-    <category lang="en">Anthology</category>
-    <category lang="en">Comedy</category>
+    <desc>Learn what's behind mental decline with age, and how to improve memory, focus and concentration with NeuroQ's Darrin Peterson and Dale Bredesen MD.</desc>
+    <category lang="en">Consumer</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p528839_b_h10_ac.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>A</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating>
-  </programme><programme channel="Fox5-WNYW-US" start="20260517010000 +0500" stop="20260517030000 +0500">
-    <title>Live: IndyCar Racing</title>
+    <icon src="http://dtil.tmsimg.com/assets/p30127108_st_h10_aa.jpg?w=960&amp;h=540" />
+  </programme><programme channel="Fox5-WNYW-US" start="20260523210000 +0500" stop="20260523213000 +0500">
+    <title>Natural Blood Pressure Management</title>
     <sub-title />
-    <desc>Drivers take practice runs while trying to record times that will qualify for the 110th running of the Indianapolis 500.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Auto racing</category>
+    <desc>Cardiologist Dr. Ernst von Schwarz, M.D. shows how to manage your blood pressure naturally and help protect your heart for life with My Best Heart.</desc>
+    <category lang="en">Consumer</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p32688136_b_h8_aa.jpg?w=960&amp;h=540" />
-  </programme><programme channel="Fox5-WNYW-US" start="20260517030000 +0500" stop="20260517040000 +0500">
-    <title>The 500: Immortality at Indy</title>
+    <icon src="http://dtil.tmsimg.com/assets/p29188954_st_h10_aa.jpg?w=960&amp;h=540" />
+  </programme><programme channel="Fox5-WNYW-US" start="20260523213000 +0500" stop="20260523233000 +0500">
+    <title>Summer of '94</title>
     <sub-title />
-    <desc>A cinematic journey through the IMS Museum that connects the legendary artifacts of the past to the high-stakes ambition of the present; hosted by James Hinchcliffe, the film explores what it takes to be remembered at the Brickyard.</desc>
+    <desc>Chronicling the rise of the U.S. Men's National Soccer Team's ahead of the 1994 FIFA World Cup.</desc>
     <date>2026</date>
     <category lang="en">Special</category>
-    <category lang="en">Auto racing</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Soccer</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p33019294_b_h8_aa.jpg?w=960&amp;h=540" />
-  </programme><programme channel="Fox5-WNYW-US" start="20260517040000 +0500" stop="20260517070000 +0500">
+    <icon src="http://dtil.tmsimg.com/assets/p32688323_b_h8_ac.jpg?w=960&amp;h=540" />
+  </programme><programme channel="Fox5-WNYW-US" start="20260523233000 +0500" stop="20260524020000 +0500">
+    <title>Live: MLS Soccer</title>
+    <sub-title />
+    <desc>St. Louis CITY SC faces Austin FC at Energizer Park in an MLS matchup. Austin beat St. Louis 2-0 on May 4, 2026, behind goals from Christian Ramirez and Myrto Uzuni. St. Louis wants to rebound at home, while Austin aims to bounce back from a loss.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Soccer</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG00345FL6.jpg?w=960&amp;h=540" />
+  </programme><programme channel="Fox5-WNYW-US" start="20260524020000 +0500" stop="20260524040000 +0500">
+    <title>The American Rodeo</title>
+    <sub-title />
+    <desc>From Arlington, Texas.</desc>
+    <episode-num system="onscreen">E15</episode-num>
+    <category lang="en">Sports</category>
+    <category lang="en">Rodeo</category>
+    <category lang="en">Classic Sport Event</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p26632176_b_h8_ab.jpg?w=960&amp;h=540" />
+  </programme><programme channel="Fox5-WNYW-US" start="20260524040000 +0500" stop="20260524070000 +0500">
     <title>Live: MLB Baseball</title>
     <sub-title />
-    <desc>From Citi Field in Flushing, N.Y.</desc>
+    <desc>From American Family Field in Milwaukee.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Baseball</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG0031G6BB.jpg?w=960&amp;h=540" />
-  </programme><programme channel="Fox5-WNYW-US" start="20260517070000 +0500" stop="20260517080000 +0500">
+    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG0033XJX9.jpg?w=960&amp;h=540" />
+  </programme><programme channel="Fox5-WNYW-US" start="20260524070000 +0500" stop="20260524080000 +0500">
     <title>The 10 O'Clock News</title>
     <sub-title />
     <desc>Live and breaking news for New York City and the surrounding area.</desc>
@@ -495,28 +635,28 @@
     <category lang="en">News</category>
     <language>en</language>
     <icon src="http://dtil.tmsimg.com/assets/p26337524_b_h10_ab.jpg?w=960&amp;h=540" />
-  </programme><programme channel="Fox5-WNYW-US" start="20260517080000 +0500" stop="20260517090000 +0500">
+  </programme><programme channel="Fox5-WNYW-US" start="20260524080000 +0500" stop="20260524090000 +0500">
     <title>Fear Factor: House of Fear</title>
-    <sub-title>Wrecking Ball</sub-title>
-    <desc>Fears of fire and of heights push players to the edge -- as the women of Fear House target their top enemy.</desc>
-    <episode-num system="onscreen">S1 E2</episode-num>
+    <sub-title>Stuck</sub-title>
+    <desc>Players are buried alive in a claustrophobic challenge; a favorite fights for her show life against a hissing boa constrictor.</desc>
+    <episode-num system="onscreen">S1 E3</episode-num>
     <credits>
       <actor>Johnny Knoxville</actor>
     </credits><date>2026</date>
     <category lang="en">Series</category>
     <category lang="en">Competition Reality</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p31694821_b_h8_ab.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p30552914_b_h8_ab.jpg?w=960&amp;h=540" />
     <rating system="USA Parental Rating">
       <value>TV14</value>
     </rating><rating system="Canadian Parental Rating">
       <value>14+</value>
     </rating>
-  </programme><programme channel="Fox5-WNYW-US" start="20260517090000 +0500" stop="20260517100000 +0500">
+  </programme><programme channel="Fox5-WNYW-US" start="20260524090000 +0500" stop="20260524100000 +0500">
     <title>TMZ</title>
     <sub-title />
     <desc>TMZ TV tracks down today's hottest stars with their cameras, whether they are hitting the clubs or the dry cleaners.</desc>
-    <episode-num system="onscreen">S19 E222</episode-num>
+    <episode-num system="onscreen">S19 E228</episode-num>
     <credits>
       <actor>Harvey Levin</actor>
     </credits><date>2026</date>
@@ -532,11 +672,11 @@
     </rating><rating system="Canadian Parental Rating">
       <value>PG</value>
     </rating>
-  </programme><programme channel="Fox5-WNYW-US" start="20260517100000 +0500" stop="20260517110000 +0500">
+  </programme><programme channel="Fox5-WNYW-US" start="20260524100000 +0500" stop="20260524110000 +0500">
     <title>Extra</title>
     <sub-title />
     <desc>Inside the entertainment newsgathering process, as reporters coast-to-coast break headlines, advance the stories of the day and sit down with celebrities.</desc>
-    <episode-num system="onscreen">S32 E222</episode-num>
+    <episode-num system="onscreen">S32 E228</episode-num>
     <credits>
       <actor>Mona Kosar Abdi</actor>
       <actor>Terri Seymour</actor>
@@ -553,7 +693,7 @@
     </rating><rating system="Australian Classification Board">
       <value>PG</value>
     </rating>
-  </programme><programme channel="Fox5-WNYW-US" start="20260517110000 +0500" stop="20260517113000 +0500">
+  </programme><programme channel="Fox5-WNYW-US" start="20260524110000 +0500" stop="20260524113000 +0500">
     <title>Paid Programming</title>
     <sub-title />
     <desc>Paid programming.</desc>
@@ -577,7 +717,7 @@
     </rating><rating system="Kijkwijzer">
       <value>AL</value>
     </rating>
-  </programme><programme channel="Fox5-WNYW-US" start="20260517113000 +0500" stop="20260517120000 +0500">
+  </programme><programme channel="Fox5-WNYW-US" start="20260524113000 +0500" stop="20260524120000 +0500">
     <title>Paid Programming</title>
     <sub-title />
     <desc>Paid programming.</desc>
@@ -601,7 +741,7 @@
     </rating><rating system="Kijkwijzer">
       <value>AL</value>
     </rating>
-  </programme><programme channel="Fox5-WNYW-US" start="20260517120000 +0500" stop="20260517123000 +0500">
+  </programme><programme channel="Fox5-WNYW-US" start="20260524120000 +0500" stop="20260524123000 +0500">
     <title>Paid Programming</title>
     <sub-title />
     <desc>Paid programming.</desc>
@@ -625,7 +765,7 @@
     </rating><rating system="Kijkwijzer">
       <value>AL</value>
     </rating>
-  </programme><programme channel="Fox5-WNYW-US" start="20260517123000 +0500" stop="20260517130000 +0500">
+  </programme><programme channel="Fox5-WNYW-US" start="20260524123000 +0500" stop="20260524130000 +0500">
     <title>Paid Programming</title>
     <sub-title />
     <desc>Paid programming.</desc>
@@ -649,7 +789,7 @@
     </rating><rating system="Kijkwijzer">
       <value>AL</value>
     </rating>
-  </programme><programme channel="Fox5-WNYW-US" start="20260517130000 +0500" stop="20260517133000 +0500">
+  </programme><programme channel="Fox5-WNYW-US" start="20260524130000 +0500" stop="20260524133000 +0500">
     <title>Paid Programming</title>
     <sub-title />
     <desc>Paid programming.</desc>
@@ -673,7 +813,7 @@
     </rating><rating system="Kijkwijzer">
       <value>AL</value>
     </rating>
-  </programme><programme channel="Fox5-WNYW-US" start="20260517133000 +0500" stop="20260517140000 +0500">
+  </programme><programme channel="Fox5-WNYW-US" start="20260524133000 +0500" stop="20260524140000 +0500">
     <title>Paid Programming</title>
     <sub-title />
     <desc>Paid programming.</desc>
@@ -697,17 +837,14 @@
     </rating><rating system="Kijkwijzer">
       <value>AL</value>
     </rating>
-  </programme><programme channel="Fox5-WNYW-US" start="20260517140000 +0500" stop="20260517143000 +0500">
-    <title>Bathroom Makeover</title>
+  </programme><programme channel="Fox5-WNYW-US" start="20260524140000 +0500" stop="20260524143000 +0500">
+    <title>Victim of Nursing Home Abuse?</title>
     <sub-title />
-    <desc>Transform your bath affordably in just one day!</desc>
+    <desc>Have you or a family member been a victim of nursing home abuse?</desc>
     <category lang="en">Consumer</category>
-    <category lang="en">Health</category>
-    <category lang="en">House/garden</category>
-    <category lang="en">Self improvement</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p30220270_b_h8_aa.jpg?w=960&amp;h=540" />
-  </programme><programme channel="Fox5-WNYW-US" start="20260517143000 +0500" stop="20260517150000 +0500">
+    <icon src="http://dtil.tmsimg.com/assets/p32656820_st_h10_aa.jpg?w=960&amp;h=540" />
+  </programme><programme channel="Fox5-WNYW-US" start="20260524143000 +0500" stop="20260524150000 +0500">
     <title>The Sunday Mass</title>
     <sub-title />
     <desc>Sunday religious service.</desc>
@@ -722,7 +859,7 @@
     </rating><rating system="Régie du cinéma">
       <value>G</value>
     </rating>
-  </programme><programme channel="Fox5-WNYW-US" start="20260517150000 +0500" stop="20260517153000 +0500">
+  </programme><programme channel="Fox5-WNYW-US" start="20260524150000 +0500" stop="20260524153000 +0500">
     <title>Joel Osteen</title>
     <sub-title />
     <desc>Author and evangelist Joel Osteen spreads his message of love and hope as he preaches at the 30,000-plus member Lakewood Church in Houston. The program can be seen in more than 100 countries. Osteen urges people to live at their full potential and form a close relationship with God.</desc>
@@ -731,7 +868,7 @@
     </credits><date>1999</date>
     <category lang="en">Religious</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p29200166_b_h10_aa.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p32120412_b_h10_aa.jpg?w=960&amp;h=540" />
     <rating system="USA Parental Rating">
       <value>TVPG</value>
     </rating><rating system="Canadian Parental Rating">
@@ -741,7 +878,7 @@
     </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
       <value>12</value>
     </rating>
-  </programme><programme channel="Fox5-WNYW-US" start="20260517153000 +0500" stop="20260517160000 +0500">
+  </programme><programme channel="Fox5-WNYW-US" start="20260524153000 +0500" stop="20260524160000 +0500">
     <title>Amazing Facts</title>
     <sub-title />
     <desc>Bible study proclaims God's good news to the world.</desc>
@@ -757,7 +894,7 @@
     </rating><rating system="Régie du cinéma">
       <value>G</value>
     </rating>
-  </programme><programme channel="Fox5-WNYW-US" start="20260517160000 +0500" stop="20260517163000 +0500">
+  </programme><programme channel="Fox5-WNYW-US" start="20260524160000 +0500" stop="20260524163000 +0500">
     <title>Joel Osteen</title>
     <sub-title />
     <desc>Author and evangelist Joel Osteen spreads his message of love and hope as he preaches at the 30,000-plus member Lakewood Church in Houston. The program can be seen in more than 100 countries. Osteen urges people to live at their full potential and form a close relationship with God.</desc>
@@ -766,7 +903,7 @@
     </credits><date>1999</date>
     <category lang="en">Religious</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p29200166_b_h10_aa.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p32120412_b_h10_aa.jpg?w=960&amp;h=540" />
     <rating system="USA Parental Rating">
       <value>TVPG</value>
     </rating><rating system="Canadian Parental Rating">
@@ -776,11 +913,11 @@
     </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
       <value>12</value>
     </rating>
-  </programme><programme channel="Fox5-WNYW-US" start="20260517163000 +0500" stop="20260517170000 +0500">
+  </programme><programme channel="Fox5-WNYW-US" start="20260524163000 +0500" stop="20260524170000 +0500">
     <title>David Jeremiah</title>
-    <sub-title>The Promise of the Spirit</sub-title>
-    <desc>Understanding the Holy Spirit; how He teaches, strengthens, and points you back to Christ in every situation.</desc>
-    <episode-num system="onscreen">E6</episode-num>
+    <sub-title>Born of the Spirit</sub-title>
+    <desc>Dr. Jeremiah unpacks what it truly means to be "born of the Spirit" and why it's essential for eternal life.</desc>
+    <episode-num system="onscreen">E7</episode-num>
     <credits>
       <actor>David Jeremiah</actor>
     </credits><date>2026</date>
@@ -797,7 +934,7 @@
     </rating><rating system="Australian Classification Board">
       <value>M 15+</value>
     </rating>
-  </programme><programme channel="Fox5-WNYW-US" start="20260517170000 +0500" stop="20260517180000 +0500">
+  </programme><programme channel="Fox5-WNYW-US" start="20260524170000 +0500" stop="20260524180000 +0500">
     <title>In Touch With Dr. Charles Stanley</title>
     <sub-title />
     <desc>Charles Stanley, pastor of the First Baptist Church in Atlanta, shares his insights on Christian faith and enlightens viewers with spiritual motivation.</desc>
@@ -818,38 +955,11 @@
     </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
       <value>L</value>
     </rating>
-  </programme><programme channel="Fox5-WNYW-US" start="20260517180000 +0500" stop="20260517183000 +0500">
-    <title>Joel Osteen</title>
-    <sub-title />
-    <desc>Author and evangelist Joel Osteen spreads his message of love and hope as he preaches at the 30,000-plus member Lakewood Church in Houston. The program can be seen in more than 100 countries. Osteen urges people to live at their full potential and form a close relationship with God.</desc>
-    <credits>
-      <actor>Joel Osteen</actor>
-    </credits><date>1999</date>
-    <category lang="en">Religious</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p29200166_b_h10_aa.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="Australian Classification Board">
-      <value>G</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
-    </rating>
-  </programme><programme channel="Fox5-WNYW-US" start="20260517183000 +0500" stop="20260517190000 +0500">
-    <title>Elevation With Steven Furtick</title>
-    <sub-title />
-    <desc>Pastor Steven Furtick of Elevation Church in Charlotte, N.C. shows what God can accomplish.</desc>
-    <date>2020</date>
-    <category lang="en">Religious</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p17809970_b_h8_aa.jpg?w=960&amp;h=540" />
-  </programme><programme channel="Fox5-WNYW-US" start="20260517190000 +0500" stop="20260517200000 +0500">
+  </programme><programme channel="Fox5-WNYW-US" start="20260524180000 +0500" stop="20260524190000 +0500">
     <title>FOX News Sunday</title>
     <sub-title />
     <desc>Anchor Shannon Bream interviews the biggest newsmakers of the week and leads guests in providing context and analysis of the issues facing Americans.</desc>
-    <episode-num system="onscreen">E20</episode-num>
+    <episode-num system="onscreen">E21</episode-num>
     <credits>
       <actor>Shannon Bream</actor>
     </credits><date>2026</date>
@@ -860,341 +970,22 @@
     <category lang="en">Politics</category>
     <language>en</language>
     <icon src="http://dtil.tmsimg.com/assets/p21244589_b_h8_ae.jpg?w=960&amp;h=540" />
-  </programme><programme channel="Fox5-WNYW-US" start="20260517200000 +0500" stop="20260517203000 +0500">
-    <title>Paid Programming</title>
+  </programme><programme channel="Fox5-WNYW-US" start="20260524190000 +0500" stop="20260524213000 +0500">
+    <title>Live: Indianapolis 500 Pre-Race</title>
     <sub-title />
-    <desc>Paid programming.</desc>
-    <category lang="en">Consumer</category>
-    <category lang="en">Shopping</category>
-    <category lang="en">Variety</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>G</value>
-    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>A</value>
-    </rating><rating system="Australian Classification Board">
-      <value>G</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>L</value>
-    </rating><rating system="Kijkwijzer">
-      <value>AL</value>
-    </rating>
-  </programme><programme channel="Fox5-WNYW-US" start="20260517203000 +0500" stop="20260517210000 +0500">
-    <title>Paid Programming</title>
-    <sub-title />
-    <desc>Paid programming.</desc>
-    <category lang="en">Consumer</category>
-    <category lang="en">Shopping</category>
-    <category lang="en">Variety</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>G</value>
-    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>A</value>
-    </rating><rating system="Australian Classification Board">
-      <value>G</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>L</value>
-    </rating><rating system="Kijkwijzer">
-      <value>AL</value>
-    </rating>
-  </programme><programme channel="Fox5-WNYW-US" start="20260517210000 +0500" stop="20260517213000 +0500">
-    <title>NECTAR TRI-PILLOW -Cooler, Comfy, Better Sleep! Buy One Get One FREE!</title>
-    <sub-title />
-    <desc>Discover the Nectar Tri-Comfort Cooling Pillow for the ultimate sleep experience! Adjustable to three firmness levels to provide customized support and cooling all night long. Order NOW to get a second pillow FREE, plus a 30-night home trial!</desc>
-    <category lang="en">Consumer</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p30176714_b_h8_aa.jpg?w=960&amp;h=540" />
-  </programme><programme channel="Fox5-WNYW-US" start="20260517213000 +0500" stop="20260517220000 +0500">
-    <title>Raw Travel</title>
-    <sub-title>Taste of Puerto Rico</sub-title>
-    <desc>Robert Rose travels the world, highlighting unique activities, attractions and cultures.</desc>
-    <episode-num system="onscreen">S9 E7</episode-num>
-    <credits>
-      <actor>Robert Rose</actor>
-    </credits><date>2022</date>
-    <category lang="en">Series</category>
-    <category lang="en">Travel</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p10064306_b_h10_ai.jpg?w=960&amp;h=540" />
-    <rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating>
-  </programme><programme channel="Fox5-WNYW-US" start="20260517220000 +0500" stop="20260518010000 +0500">
-    <title>Live: United Football League</title>
-    <sub-title />
-    <desc>The Birmingham Stallions host the Columbus Aviators for a UFL contest at Protective Stadium. Quarterback Dorian Thompson-Robinson leads the Birmingham offense against Aviators starting quarterback Jalan McClendon in the regular-season clash.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG0033S7GT.jpg?w=960&amp;h=540" />
-  </programme><programme channel="Fox5-WNYW-US" start="20260518010000 +0500" stop="20260518040000 +0500">
-    <title>Live: IndyCar Racing</title>
-    <sub-title />
-    <desc>Qualifying continues for post positions at the 110th running of the Indianapolis 500 from Indianapolis Motor Speedway.</desc>
-    <category lang="en">Sports</category>
+    <desc>Analysis and discussion leading up to the 110th running of the Indianapolis 500.</desc>
+    <date>2026</date>
+    <category lang="en">Special</category>
+    <category lang="en">Sports talk</category>
     <category lang="en">Auto racing</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p32688812_b_h8_aa.jpg?w=960&amp;h=540" />
-  </programme><programme channel="Fox5-WNYW-US" start="20260518040000 +0500" stop="20260518050000 +0500">
-    <title>Next Level Chef</title>
-    <sub-title>Use Your Noodle</sub-title>
-    <desc>The seven remaining chefs must make a noodle dish that honors tradition while elevating this ingredient that is loved all over the world.</desc>
-    <episode-num system="onscreen">S5 E12</episode-num>
-    <credits>
-      <actor>Gordon Ramsay</actor>
-      <actor>Nyesha Arrington</actor>
-      <actor>Richard Blais</actor>
-    </credits><date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Reality</category>
-    <category lang="en">Cooking</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p31694899_b_h8_ab.jpg?w=960&amp;h=540" />
-    <rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating><rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>AL</value>
-    </rating>
-  </programme><programme channel="Fox5-WNYW-US" start="20260518050000 +0500" stop="20260518053000 +0500">
-    <title>Family Guy</title>
-    <sub-title>High School History</sub-title>
-    <desc>The Griffins take a humorous look at the French Revolution, the American Civil War, and World War II.</desc>
-    <episode-num system="onscreen">S24 E15</episode-num>
-    <credits>
-      <actor>Seth MacFarlane</actor>
-      <actor>Alex Borstein</actor>
-      <actor>Seth Green</actor>
-    </credits><date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Animated</category>
-    <category lang="en">Sitcom</category>
-    <category lang="en">Comedy</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p184483_b_h8_al.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
-      <value>12</value>
-    </rating><rating system="Film &amp; Publication Board">
-      <value>16</value>
-    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K12</value>
-    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
-      <value>16</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>14</value>
-    </rating><rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>B15</value>
-    </rating><rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating><rating system="Kijkwijzer">
-      <value>12</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating><rating system="방송통신심의위원회">
-      <value>19</value>
-    </rating><rating system="Arcom">
-      <value>-10</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
-    </rating>
-  </programme><programme channel="Fox5-WNYW-US" start="20260518053000 +0500" stop="20260518060000 +0500">
-    <title>Bob's Burgers</title>
-    <sub-title>Stuck in the Middle With Hu(go)</sub-title>
-    <desc>Bob is forced to spend time with one of his least favorite people; Tina is entrusted with something very close to Jimmy Junior's heart.</desc>
-    <episode-num system="onscreen">S16 E14</episode-num>
-    <credits>
-      <actor>H. Jon Benjamin</actor>
-      <actor>Dan Mintz</actor>
-      <actor>Eugene Mirman</actor>
-    </credits><date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Animated</category>
-    <category lang="en">Sitcom</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p8127591_b_h8_ah.jpg?w=960&amp;h=540" />
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K7</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>12</value>
-    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>B</value>
-    </rating><rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating><rating system="Kijkwijzer">
-      <value>AL</value>
-    </rating><rating system="방송통신심의위원회">
-      <value>12</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Arcom">
-      <value>-10</value>
-    </rating>
-  </programme><programme channel="Fox5-WNYW-US" start="20260518060000 +0500" stop="20260518063000 +0500">
-    <title>American Dad!</title>
-    <sub-title>Where the Wild Boars Are</sub-title>
-    <desc>Jeff comes of age with the help of an old man; Roger takes care of a "special" shed.</desc>
-    <episode-num system="onscreen">S20 E9</episode-num>
-    <credits>
-      <actor>Seth MacFarlane</actor>
-      <actor>Wendy Schaal</actor>
-      <actor>Rachael MacFarlane</actor>
-    </credits><date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Animated</category>
-    <category lang="en">Sitcom</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p30126274_b_h8_ad.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>14</value>
-    </rating><rating system="Arcom">
-      <value>-10</value>
-    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
-      <value>18</value>
-    </rating><rating system="Film &amp; Publication Board">
-      <value>16</value>
-    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K12</value>
-    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
-      <value>12</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating><rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>B15</value>
-    </rating><rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating><rating system="Kijkwijzer">
-      <value>6</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>6</value>
-    </rating><rating system="방송통신심의위원회">
-      <value>15</value>
-    </rating>
-  </programme><programme channel="Fox5-WNYW-US" start="20260518063000 +0500" stop="20260518070000 +0500">
-    <title>Bob's Burgers</title>
-    <sub-title>Smellbound</sub-title>
-    <desc>When a horrible smell threatens to cancel one of the kids' favorite town traditions, Tina, Gene, and Louise decide to try and get rid of the smell themselves.</desc>
-    <episode-num system="onscreen">S16 E15</episode-num>
-    <credits>
-      <actor>H. Jon Benjamin</actor>
-      <actor>Dan Mintz</actor>
-      <actor>Eugene Mirman</actor>
-    </credits><date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Animated</category>
-    <category lang="en">Sitcom</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p8127591_b_h8_ah.jpg?w=960&amp;h=540" />
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K7</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>12</value>
-    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>B</value>
-    </rating><rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating><rating system="Kijkwijzer">
-      <value>AL</value>
-    </rating><rating system="방송통신심의위원회">
-      <value>12</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Arcom">
-      <value>-10</value>
-    </rating>
-  </programme><programme channel="Fox5-WNYW-US" start="20260518070000 +0500" stop="20260518073000 +0500">
-    <title>The 10 O'Clock News</title>
+    <icon src="http://dtil.tmsimg.com/assets/p32688651_b_h8_aa.jpg?w=960&amp;h=540" />
+  </programme><programme channel="Fox5-WNYW-US" start="20260524213000 +0500" stop="20260525003000 +0500">
+    <title>Live: The 110th Running of the Indianapolis 500</title>
     <sub-title />
-    <desc>Local, national and international news.</desc>
-    <date>2021</date>
-    <category lang="en">News</category>
+    <desc>The IndyCar Series runs its crown jewel event, the 110th Indianapolis 500.</desc>
+    <category lang="en">Auto racing</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p19319081_b_h8_ab.jpg?w=960&amp;h=540" />
-  </programme><programme channel="Fox5-WNYW-US" start="20260518073000 +0500" stop="20260518080000 +0500">
-    <title>Fox 5 Sports Extra</title>
-    <sub-title />
-    <desc>Regional sports coverage.</desc>
-    <date>2008</date>
-    <category lang="en">Sports talk</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p692435_b_h8_aa.jpg?w=960&amp;h=540" />
-  </programme><programme channel="Fox5-WNYW-US" start="20260518080000 +0500" stop="20260518083000 +0500">
-    <title>FOX Local Futbol HQ</title>
-    <sub-title />
-    <desc>A look at the stories, rivalries and dreams driving nations towards soccer's ultimate prize, the FIFA World Cup trophy.</desc>
-    <date>2025</date>
-    <category lang="en">Soccer</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p31774634_b_h8_ab.jpg?w=960&amp;h=540" />
-  </programme><programme channel="Fox5-WNYW-US" start="20260518083000 +0500" stop="20260518090000 +0500">
-    <title>In Depth With Graham Bensinger</title>
-    <sub-title>Crew Chaos</sub-title>
-    <desc>Going behind the scenes with the "In Depth" crew as they deal with everything from flight delays and agitated actors to herding hens and losing guests in the great outdoors.</desc>
-    <episode-num system="onscreen">S16 E24</episode-num>
-    <credits>
-      <actor>Graham Bensinger</actor>
-    </credits><date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Sports talk</category>
-    <category lang="en">Interview</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p8178298_b_h8_ad.jpg?w=960&amp;h=540" />
-  </programme><programme channel="Fox5-WNYW-US" start="20260518090000 +0500" stop="20260518100000 +0500">
-    <title>TMZ</title>
-    <sub-title />
-    <desc>TMZ TV tracks down today's hottest stars with their cameras, whether they are hitting the clubs or the dry cleaners.</desc>
-    <episode-num system="onscreen">S19 E222</episode-num>
-    <credits>
-      <actor>Harvey Levin</actor>
-    </credits><date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Newsmagazine</category>
-    <category lang="en">Entertainment</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p30985766_b_h10_aa.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>14</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating>
+    <icon src="http://dtil.tmsimg.com/assets/p32415235_b_h8_aa.jpg?w=960&amp;h=540" />
   </programme>
 </tv>

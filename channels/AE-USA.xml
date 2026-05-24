@@ -1,14 +1,27 @@
 <?xml version='1.0' encoding='utf-8'?>
 <tv>
   <channel id="AE-USA">
-    <display-name>A&amp;E East</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/AE-USA.png" />
-  </channel><programme channel="AE-USA" start="20260516073200 +0500" stop="20260516080400 +0500">
+    <url>https://tv.thefilmtuition.com</url>
+    <display-name>A&amp;E East</display-name>
+  </channel><programme channel="AE-USA" start="20260522220000 +0500" stop="20260522223000 +0500">
     <title>Fugitives Caught on Tape</title>
-    <sub-title>Episode 15</sub-title>
-    <desc>Law enforcement officers pursue fugitives on the run; 911 operators receive a call in the middle of a road rage incident; state troopers pursue a man wanted for domestic assault and fleeing with his 6-year-old son in the car.</desc>
-    <episode-num system="onscreen">S1 E15</episode-num>
-    <date>2024</date>
+    <sub-title>Episode 8</sub-title>
+    <desc>Police on the ground and in the air pursue suspects as they commit multiple carjackings; officers chase a murder suspect through a crowded big box store; police pursue a convicted felon at speeds over 110 miles an hour.</desc>
+    <episode-num system="onscreen">S1 E8</episode-num>
+    <language>en</language>
+  </programme><programme channel="AE-USA" start="20260522223000 +0500" stop="20260522230000 +0500">
+    <title>Fugitives Caught on Tape</title>
+    <sub-title>Episode 10</sub-title>
+    <desc>Law enforcement officers pursue fugitives on the run; an ex-con suspected of drunk driving flees a traffic stop and then tells a 911 operator that he'll shoot at officers if they stop him again; a woman rams into police cruisers.</desc>
+    <episode-num system="onscreen">S2 E10</episode-num>
+    <language>en</language>
+  </programme><programme channel="AE-USA" start="20260522230000 +0500" stop="20260522233000 +0500">
+    <title>Fugitives Caught on Tape</title>
+    <sub-title>Episode 13</sub-title>
+    <desc>Law enforcement officers pursue fugitives on the run; multiple agencies face off against an armed fugitive who's abducted his daughter; a driver who crashed his car while fleeing from police gets tased; fugitives in a stolen car survive stop sticks.</desc>
+    <episode-num system="onscreen">S2 E13</episode-num>
+    <date>2025</date>
     <category lang="en">Series</category>
     <category lang="en">Crime</category>
     <language>en</language>
@@ -17,14 +30,27 @@
       <value>TV14</value>
     </rating><rating system="Canadian Parental Rating">
       <value>14+</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
     </rating>
-  </programme><programme channel="AE-USA" start="20260516080400 +0500" stop="20260516083400 +0500">
+  </programme><programme channel="AE-USA" start="20260522233000 +0500" stop="20260523000000 +0500">
     <title>Fugitives Caught on Tape</title>
     <sub-title>Episode 12</sub-title>
-    <desc>A wanted felon smashes into a state trooper's car while fleeing from local police and county deputies; police get into a shootout with a man wanted for murdering his roommate; a deputy's PIT maneuver knocks a fugitive's car up on two wheels.</desc>
-    <episode-num system="onscreen">S1 E12</episode-num>
+    <desc>Law enforcement officers pursue fugitives on the run; a drunk driver flashes her middle finger while fleeing from troopers; a local police chief rolls his cruiser into a ditch after executing a PIT Maneuver.</desc>
+    <episode-num system="onscreen">S2 E12</episode-num>
+    <date>2025</date>
+    <category lang="en">Series</category>
+    <category lang="en">Crime</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p28275951_b_h8_ac.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+  </programme><programme channel="AE-USA" start="20260523000000 +0500" stop="20260523003000 +0500">
+    <title>Fugitives Caught on Tape</title>
+    <sub-title>Episode 14</sub-title>
+    <desc>Law enforcement officers pursue fugitives on the run; deputies race to extract a mother and her daughters from their truck after a fleeing suspect crashes into them; fish and wildlife officers pursue a fugitive attempting to escape by swimming away.</desc>
+    <episode-num system="onscreen">S1 E14</episode-num>
     <date>2024</date>
     <category lang="en">Series</category>
     <category lang="en">Crime</category>
@@ -37,12 +63,27 @@
     </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
       <value>12</value>
     </rating>
-  </programme><programme channel="AE-USA" start="20260516083400 +0500" stop="20260516090300 +0500">
+  </programme><programme channel="AE-USA" start="20260523003000 +0500" stop="20260523010000 +0500">
+    <title>Fugitives Caught on Tape</title>
+    <sub-title>Episode 8</sub-title>
+    <desc>A man with seven active warrants for his arrest tries to evade officers by throwing chocolate milk at their cruiser; a distressed eight-year-old girl calls 911 to report her father assaulting her mother; a robbery and carjacking suspect shoots.</desc>
+    <episode-num system="onscreen">S2 E8</episode-num>
+    <date>2025</date>
+    <category lang="en">Series</category>
+    <category lang="en">Crime</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p28275951_b_h8_ac.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+  </programme><programme channel="AE-USA" start="20260523010000 +0500" stop="20260523013000 +0500">
     <title>Fugitives Caught on Tape</title>
     <sub-title>Episode 7</sub-title>
-    <desc>A desperate couple hold a truck driver hostage in his own semi; marine patrol deputies chase down smugglers in a high-speed boat chase; officers report a late-night pursuit of a suspect fleeing in reverse.</desc>
-    <episode-num system="onscreen">S1 E7</episode-num>
-    <date>2024</date>
+    <desc>Law enforcement officers pursue fugitives on the run; a convicted felon fleeing from police across a highway nearly gets hit by a semi truck; a fugitive wanted for kidnapping and attempted murder leads officers on a high-speed highway chase.</desc>
+    <episode-num system="onscreen">S2 E7</episode-num>
+    <date>2025</date>
     <category lang="en">Series</category>
     <category lang="en">Crime</category>
     <language>en</language>
@@ -53,788 +94,1212 @@
       <value>14+</value>
     </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
       <value>12</value>
-    </rating><rating system="Kijkwijzer">
-      <value>AL</value>
     </rating>
-  </programme><programme channel="AE-USA" start="20260516090300 +0500" stop="20260516093300 +0500">
+  </programme><programme channel="AE-USA" start="20260523013000 +0500" stop="20260523020000 +0500">
     <title>Fugitives Caught on Tape</title>
-    <sub-title>Episode 17</sub-title>
-    <desc>State Troopers chase a drunk driver in an R-V as she causes multiple accidents while driving recklessly through busy city streets; a kidnapping and murder suspect fires at officers from inside his car; a wrong-way driver fleeing from State Troopers.</desc>
-    <episode-num system="onscreen">S2 E17</episode-num>
-    <date>2025</date>
-    <category lang="en">Series</category>
-    <category lang="en">Crime</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p28275951_b_h8_ac.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-  </programme><programme channel="AE-USA" start="20260516093300 +0500" stop="20260516100300 +0500">
-    <title>Fugitives Caught on Tape</title>
-    <sub-title>Episode 18</sub-title>
-    <desc>Law enforcement officers pursue fugitives on the run; a woman accused of shoplifting rams a police cruiser and leads officers on a dangerous high speed chase.</desc>
-    <episode-num system="onscreen">S1 E18</episode-num>
+    <sub-title>Episode 2</sub-title>
+    <desc>Officers in Florida pursue a man who stole two police cars in the same day; deputies engage in a foot chase with an alleged cop killer; police respond to a report of a man attacked with a machete.</desc>
+    <episode-num system="onscreen">S1 E2</episode-num>
     <date>2024</date>
     <category lang="en">Series</category>
     <category lang="en">Crime</category>
     <language>en</language>
     <icon src="http://dtil.tmsimg.com/assets/p28275951_b_h8_ac.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>14+</value>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
     </rating>
-  </programme><programme channel="AE-USA" start="20260516100300 +0500" stop="20260516103300 +0500">
-    <title>Fugitives Caught on Tape</title>
-    <sub-title>Episode 18</sub-title>
-    <desc>State Troopers become engaged in a gunfight with a suspected drug dealer; a K-9 officer runs down an alleged car thief who's fled on foot; police pursue a road rage suspect who's driving recklessly on wet, snow-filled streets; and more.</desc>
-    <episode-num system="onscreen">S2 E18</episode-num>
-    <date>2025</date>
-    <category lang="en">Series</category>
-    <category lang="en">Crime</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p28275951_b_h8_ac.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-  </programme><programme channel="AE-USA" start="20260516103300 +0500" stop="20260516110400 +0500">
-    <title>Fugitives Caught on Tape</title>
-    <sub-title>Episode 16</sub-title>
-    <desc>Police exchange gunfire in the streets of Tampa with a man wanted for stabbing his wife; a State Trooper performs a PIT Maneuver on a fleeing hit-and-run suspect; police get in a chase with two men wanted for armed carjacking.</desc>
-    <episode-num system="onscreen">S1 E16</episode-num>
-    <date>2024</date>
-    <category lang="en">Series</category>
-    <category lang="en">Crime</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p28275951_b_h8_ac.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-  </programme><programme channel="AE-USA" start="20260516110400 +0500" stop="20260516113400 +0500">
+  </programme><programme channel="AE-USA" start="20260523020000 +0500" stop="20260523023000 +0500">
     <title>Fugitives Caught on Tape</title>
     <sub-title>Episode 9</sub-title>
-    <desc>Law enforcement officers pursue fugitives on the run; a man fleeing from state troopers jumps off Florida's 7-Mile Bridge into the ocean below; a wanted man smashes into multiple cars while trying to flee from police at a gas station.</desc>
-    <episode-num system="onscreen">S2 E9</episode-num>
-    <date>2025</date>
-    <category lang="en">Series</category>
-    <category lang="en">Crime</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p28275951_b_h8_ac.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
-    </rating>
-  </programme><programme channel="AE-USA" start="20260516113400 +0500" stop="20260516120500 +0500">
-    <title>Fugitives Caught on Tape</title>
-    <sub-title>Episode 15</sub-title>
-    <desc>Law enforcement officers pursue fugitives on the run; 911 operators receive a call in the middle of a road rage incident; state troopers pursue a man wanted for domestic assault and fleeing with his 6-year-old son in the car.</desc>
-    <episode-num system="onscreen">S1 E15</episode-num>
-    <date>2024</date>
-    <category lang="en">Series</category>
-    <category lang="en">Crime</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p28275951_b_h8_ac.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
-    </rating>
-  </programme><programme channel="AE-USA" start="20260516120500 +0500" stop="20260516123400 +0500">
-    <title>Fugitives Caught on Tape</title>
-    <sub-title>Episode 12</sub-title>
-    <desc>A wanted felon smashes into a state trooper's car while fleeing from local police and county deputies; police get into a shootout with a man wanted for murdering his roommate; a deputy's PIT maneuver knocks a fugitive's car up on two wheels.</desc>
-    <episode-num system="onscreen">S1 E12</episode-num>
-    <date>2024</date>
-    <category lang="en">Series</category>
-    <category lang="en">Crime</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p28275951_b_h8_ac.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
-    </rating>
-  </programme><programme channel="AE-USA" start="20260516123400 +0500" stop="20260516130200 +0500">
-    <title>Fugitives Caught on Tape</title>
-    <sub-title>Episode 7</sub-title>
-    <desc>A desperate couple hold a truck driver hostage in his own semi; marine patrol deputies chase down smugglers in a high-speed boat chase; officers report a late-night pursuit of a suspect fleeing in reverse.</desc>
-    <episode-num system="onscreen">S1 E7</episode-num>
-    <date>2024</date>
-    <category lang="en">Series</category>
-    <category lang="en">Crime</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p28275951_b_h8_ac.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
-    </rating><rating system="Kijkwijzer">
-      <value>AL</value>
-    </rating>
-  </programme><programme channel="AE-USA" start="20260516130200 +0500" stop="20260516133200 +0500">
-    <title>Freedom to Leave the House! Inogen Portable Oxygen</title>
-    <sub-title />
-    <desc>Regain independence and enjoy greater mobility with the compact design and long-lasting battery of portable oxygen.</desc>
-    <category lang="en">Consumer</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p29463212_st_h10_aa.jpg?w=960&amp;h=540" />
-  </programme><programme channel="AE-USA" start="20260516133200 +0500" stop="20260516140200 +0500">
-    <title>Sleep Deeper Tonight with DREAMCLOUD's Advanced Hybrid Mattress Today!</title>
-    <sub-title />
-    <desc>Treat yourself to luxurious, award-winning comfort with the premium DreamCloud Mattress &amp; adjustable base. Enjoy restorative sleep, relax with zero gravity comfort, and wake up refreshed. Plus, save 66% with this amazing deal today!</desc>
-    <category lang="en">Consumer</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/tvbanners/generic/generic_tvbanners_h12.png" />
-  </programme><programme channel="AE-USA" start="20260516140200 +0500" stop="20260516143200 +0500">
-    <title>Natural Blood Pressure Management</title>
-    <sub-title />
-    <desc>Cardiologist Dr. Ernst von Schwarz, M.D. shows how to manage your blood pressure naturally and help protect your heart for life with My Best Heart.</desc>
-    <category lang="en">Consumer</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p29188954_st_h10_aa.jpg?w=960&amp;h=540" />
-  </programme><programme channel="AE-USA" start="20260516143200 +0500" stop="20260516150000 +0500">
-    <title>The Aging Brain</title>
-    <sub-title />
-    <desc>Learn what's behind mental decline with age, and how to improve memory, focus and concentration with NeuroQ's Darrin Peterson and Dale Bredesen MD.</desc>
-    <category lang="en">Consumer</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p30127108_st_h10_aa.jpg?w=960&amp;h=540" />
-  </programme><programme channel="AE-USA" start="20260516150000 +0500" stop="20260516153000 +0500">
-    <title>Nuwave Forever, Air Purifier With Never Replace Filters</title>
-    <sub-title />
-    <desc>B. Johnson shares the Nuwave Forever Air Purifier with NeverReplace Filters; get the smart Wi-Fi-enabled air purifier that helps achieve zero airborne pollutants without any additional replacement filters.</desc>
-    <category lang="en">Consumer</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p28829444_st_h10_ab.jpg?w=960&amp;h=540" />
-  </programme><programme channel="AE-USA" start="20260516153000 +0500" stop="20260516160000 +0500">
-    <title>NECTAR TRI-PILLOW -Cooler, Comfy, Better Sleep! Buy One Get One FREE!</title>
-    <sub-title />
-    <desc>Discover the Nectar Tri-Comfort Cooling Pillow for the ultimate sleep experience! Adjustable to three firmness levels to provide customized support and cooling all night long. Order NOW to get a second pillow FREE, plus a 30-night home trial!</desc>
-    <category lang="en">Consumer</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p30176714_b_h8_aa.jpg?w=960&amp;h=540" />
-  </programme><programme channel="AE-USA" start="20260516160000 +0500" stop="20260516163000 +0500">
-    <title>Rachael Ray's Meals in Minutes</title>
-    <sub-title>Italian Brisket With Gremolata, Polenta and Sautéed Greens</sub-title>
-    <desc>Rachael shows the ultimate way to beat the winter chill with her irresistible Italian brisket.</desc>
-    <episode-num system="onscreen">S3 E7</episode-num>
-    <credits>
-      <actor>Rachael Ray</actor>
-    </credits><date>2025</date>
-    <category lang="en">Series</category>
-    <category lang="en">Cooking</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p26976887_b_h8_ae.jpg?w=960&amp;h=540" />
-    <rating system="Australian Classification Board">
-      <value>PG</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating>
-  </programme><programme channel="AE-USA" start="20260516163000 +0500" stop="20260516170000 +0500">
-    <title>Rachael Ray's Meals in Minutes</title>
-    <sub-title>Chicken Under a Brick With Herb Salsa Verde</sub-title>
-    <desc>Rachael adds a delicious twist to a classic chicken dinner with her recipe for Chicken Under a Brick.</desc>
-    <episode-num system="onscreen">S3 E8</episode-num>
-    <credits>
-      <actor>Rachael Ray</actor>
-    </credits><date>2025</date>
-    <category lang="en">Series</category>
-    <category lang="en">Cooking</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p26976887_b_h8_ae.jpg?w=960&amp;h=540" />
-    <rating system="Australian Classification Board">
-      <value>PG</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating>
-  </programme><programme channel="AE-USA" start="20260516170000 +0500" stop="20260516180000 +0500">
-    <title>Million Dollar Zombie Flips</title>
-    <sub-title>Sibling Flip Out</sub-title>
-    <desc>Expert house flipper James Dainard and his team partner with brother-sister newbie flippers Blake and Abby on a risky zombie house project; James funds the renovation, while the siblings manage the contractors and oversee the work.</desc>
-    <episode-num system="onscreen">S1 E5</episode-num>
-    <date>2025</date>
-    <category lang="en">Series</category>
-    <category lang="en">Home improvement</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p29450803_b_h8_ac.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating>
-  </programme><programme channel="AE-USA" start="20260516180000 +0500" stop="20260516190000 +0500">
-    <title>Million Dollar Zombie Flips</title>
-    <sub-title>This Flippin' Guy</sub-title>
-    <desc>James Dainard butts heads when the competition, fellow flipper Rob, brings him a potential project: a split-level property with a massive yard in a prime neighborhood; Rob's short on funds and full of confidence.</desc>
-    <episode-num system="onscreen">S1 E4</episode-num>
-    <date>2025</date>
-    <category lang="en">Series</category>
-    <category lang="en">Home improvement</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p29450803_b_h8_ac.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating>
-  </programme><programme channel="AE-USA" start="20260516190000 +0500" stop="20260516200000 +0500">
-    <title>Million Dollar Zombie Flips</title>
-    <sub-title>Hot Tub Flip Machine</sub-title>
-    <desc>James Dainard and his team connect with Tyler, a first-time flipper with a lead on a zombie house they'll need to renovate from top to bottom; but entrusting such a big job to a newbie makes them question whether he can execute the plan on time.</desc>
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <date>2025</date>
-    <category lang="en">Series</category>
-    <category lang="en">Home improvement</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p29450803_b_h8_ac.jpg?w=960&amp;h=540" />
-  </programme><programme channel="AE-USA" start="20260516200000 +0500" stop="20260516210000 +0500">
-    <title>Million Dollar Zombie Flips</title>
-    <sub-title>Pool House Clusterflip</sub-title>
-    <desc>A massive zombie home with a terrible layout and a rotting pool house in the backyard; Andy's stubbornness becomes a problem; James struggles to decide if Andy's attitude and the challenging pool house will make or break the deal.</desc>
-    <episode-num system="onscreen">S1 E6</episode-num>
-    <date>2025</date>
-    <category lang="en">Series</category>
-    <category lang="en">Home improvement</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p29450803_b_h8_ac.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating>
-  </programme><programme channel="AE-USA" start="20260516210000 +0500" stop="20260516220000 +0500">
-    <title>Million Dollar Zombie Flips</title>
-    <sub-title>Big Flip Energy</sub-title>
-    <desc>James Dainard takes on his toughest challenge yet; when his team finds a hoarder's nightmare with rotting walls, a sketchy layout and a collapsing roof, James is excited by the challenge.</desc>
+    <desc>A high-speed chase across three states; a woman pulled over for speeding flees the scene but still manages to obey traffic laws; suspected auto thieves flee a hit-and-run to hide on a golf course.</desc>
     <episode-num system="onscreen">S1 E9</episode-num>
+    <date>2024</date>
+    <category lang="en">Series</category>
+    <category lang="en">Crime</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p28275951_b_h8_ac.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating>
+  </programme><programme channel="AE-USA" start="20260523023000 +0500" stop="20260523030000 +0500">
+    <title>Fugitives Caught on Tape</title>
+    <sub-title>Episode 4</sub-title>
+    <desc>The pursuit of a convicted felon ends with a head-on collision with a police cruiser; a shoplifting suspect shoots at police and then sets his own house on fire during a standoff; air and ground units coordinate during a high-speed chase.</desc>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <date>2024</date>
+    <category lang="en">Series</category>
+    <category lang="en">Crime</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p28275951_b_h8_ac.jpg?w=960&amp;h=540" />
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating><rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating>
+  </programme><programme channel="AE-USA" start="20260523030000 +0500" stop="20260523033000 +0500">
+    <title>Fugitives Caught on Tape</title>
+    <sub-title>Episode 3</sub-title>
+    <desc>A man wanted for robbery and carjacking leads sheriff's deputies on a chase through crowded city streets; police get in a foot chase with an attempted murder suspect; a late-night, 145-mile-an-hour highway pursuit; and more.</desc>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <date>2024</date>
+    <category lang="en">Series</category>
+    <category lang="en">Crime</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p28275951_b_h8_ac.jpg?w=960&amp;h=540" />
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating>
+  </programme><programme channel="AE-USA" start="20260523033000 +0500" stop="20260523040000 +0500">
+    <title>Fugitives Caught on Tape</title>
+    <sub-title>Episode 13</sub-title>
+    <desc>A man out on bond leads police on a high-speed chase down the wrong side of the highway; officers try to engage with a shoplifting suspect during a highway standoff; a convicted child sex abuser steals a Homeland Security vehicle.</desc>
+    <episode-num system="onscreen">S1 E13</episode-num>
+    <credits>
+      <director>Andrew Davis</director>
+    </credits><date>2024</date>
+    <category lang="en">Series</category>
+    <category lang="en">Crime</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p28275951_b_h8_ac.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating>
+  </programme><programme channel="AE-USA" start="20260523040000 +0500" stop="20260523043000 +0500">
+    <title>Fugitives Caught on Tape</title>
+    <sub-title>Episode 11</sub-title>
+    <desc>An accused car thief jumps off a 36-foot bridge to avoid capture; an armed fugitive on the run breaks into a building full of law school students; a DUI suspect flees by car, foot, and water before deputies capture him.</desc>
+    <episode-num system="onscreen">S1 E11</episode-num>
+    <date>2024</date>
+    <category lang="en">Series</category>
+    <category lang="en">Crime</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p28275951_b_h8_ac.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating>
+  </programme><programme channel="AE-USA" start="20260523043000 +0500" stop="20260523050000 +0500">
+    <title>Fugitives Caught on Tape</title>
+    <sub-title>Episode 5</sub-title>
+    <desc>Law enforcement officers pursue fugitives on the run; a getaway driver smashes into three police cruisers and a bystander's SUV while leading officers on a high-speed, parking lot chase.</desc>
+    <episode-num system="onscreen">S2 E5</episode-num>
     <date>2025</date>
     <category lang="en">Series</category>
-    <category lang="en">Home improvement</category>
+    <category lang="en">Crime</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p29450803_b_h8_ac.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p28275951_b_h8_ac.jpg?w=960&amp;h=540" />
     <rating system="USA Parental Rating">
-      <value>TVPG</value>
+      <value>TV14</value>
     </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
+      <value>14+</value>
     </rating>
-  </programme><programme channel="AE-USA" start="20260516220000 +0500" stop="20260516230000 +0500">
-    <title>Dr. Pimple Popper: Breaking Out</title>
-    <sub-title>Psoria-Sisters</sub-title>
-    <desc>Dave is a firefighter and avid cyclist whose bump gets in the way of wearing various helmets; Bree empowers others on social media by accepting her own psoriasis, but it has recently become too painful to endure.</desc>
-    <episode-num system="onscreen">S1 E11</episode-num>
-    <credits>
-      <director>Kim Chessler</director>
-      <actor>Sandra Lee</actor>
-    </credits><date>2025</date>
+  </programme><programme channel="AE-USA" start="20260523050000 +0500" stop="20260523053000 +0500">
+    <title>Fugitives Caught on Tape</title>
+    <sub-title>Episode 1</sub-title>
+    <desc>Law enforcement officers pursue fugitives on the run; a suspect in a box truck causes multiple collisions on the highway before engaging officers in an airport shootout; a K-9 officer chases down a fugitive wanted for aggravated battery.</desc>
+    <episode-num system="onscreen">S2 E1</episode-num>
+    <date>2025</date>
     <category lang="en">Series</category>
-    <category lang="en">Health</category>
-    <category lang="en">Entertainment</category>
+    <category lang="en">Crime</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p29725512_b_h8_ag.jpg?w=960&amp;h=540" />
-    <rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating>
-  </programme><programme channel="AE-USA" start="20260516230000 +0500" stop="20260517000000 +0500">
-    <title>Dr. Pimple Popper: Breaking Out</title>
-    <sub-title>Buffalo Hump Bump</sub-title>
-    <desc>Dee has the voice of an angel, but her huge neck hump has stolen her passion to sing; Eli wants to be a chef, but feels ashamed of his cheek bump; Dr. Zoe assists Dr. Lee to remove Showta's many boba-shaped bumps.</desc>
-    <episode-num system="onscreen">S1 E12</episode-num>
-    <credits>
-      <actor>Sandra Lee</actor>
-    </credits><date>2025</date>
-    <category lang="en">Series</category>
-    <category lang="en">Health</category>
-    <category lang="en">Entertainment</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p29725512_b_h8_ag.jpg?w=960&amp;h=540" />
-    <rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating>
-  </programme><programme channel="AE-USA" start="20260517000000 +0500" stop="20260517010000 +0500">
-    <title>Dr. Pimple Popper: Breaking Out</title>
-    <sub-title>Needle Little Help</sub-title>
-    <desc>Jimmy is a Charleston firefighter whose myriad of torso bumps make it painful to play with his young son.</desc>
-    <episode-num system="onscreen">S1 E14</episode-num>
-    <credits>
-      <actor>Sandra Lee</actor>
-    </credits><date>2025</date>
-    <category lang="en">Series</category>
-    <category lang="en">Health</category>
-    <category lang="en">Entertainment</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p29725512_b_h8_ag.jpg?w=960&amp;h=540" />
-    <rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating>
-  </programme><programme channel="AE-USA" start="20260517010000 +0500" stop="20260517020000 +0500">
-    <title>Storage Wars</title>
-    <sub-title>The Slings and Arrows of Outrageous Lockers</sub-title>
-    <desc>The city of Hemet reminds Kenny of a certain English poet, but he ends up focusing on the Eastern arts; Ivy spreads holiday joy as he battles it out with a new buyer who isn't all that intimidated.</desc>
-    <episode-num system="onscreen">S17 E7</episode-num>
-    <credits>
-      <director>Sean Gottlieb</director>
-      <director>Franklin Cumberbatch</director>
-      <actor>Darrell Sheets</actor>
-      <actor>Brandi Passante</actor>
-      <actor>Dan Dotson</actor>
-    </credits><date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Reality</category>
-    <category lang="en">Auction</category>
-    <category lang="en">Collectibles</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p8354064_b_h8_aw.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p28275951_b_h8_ac.jpg?w=960&amp;h=540" />
     <rating system="USA Parental Rating">
-      <value>TVPG</value>
+      <value>TV14</value>
     </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
+      <value>14+</value>
     </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
       <value>12</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+    </rating>
+  </programme><programme channel="AE-USA" start="20260523053000 +0500" stop="20260523060000 +0500">
+    <title>Fugitives Caught on Tape</title>
+    <sub-title>Episode 19</sub-title>
+    <desc>Law enforcement officers pursue fugitives on the run; deputies get in a high-speed chase with a man wanted for shooting a highway patrolman and stealing his cruiser; officers pursue a fugitive who's driving recklessly.</desc>
+    <episode-num system="onscreen">S1 E19</episode-num>
+    <date>2024</date>
+    <category lang="en">Series</category>
+    <category lang="en">Crime</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p28275951_b_h8_ac.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating>
+  </programme><programme channel="AE-USA" start="20260523060000 +0500" stop="20260523063000 +0500">
+    <title>Fugitives Caught on Tape</title>
+    <sub-title>Episode 6</sub-title>
+    <desc>Law enforcement officers pursue fugitives on the run; a man who tried to run his daughter over with a pickup truck shoots at officers and rams a police cruiser; a state trooper captures a fugitive.</desc>
+    <episode-num system="onscreen">S2 E6</episode-num>
+    <date>2025</date>
+    <category lang="en">Series</category>
+    <category lang="en">Crime</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p28275951_b_h8_ac.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+  </programme><programme channel="AE-USA" start="20260523063000 +0500" stop="20260523070100 +0500">
+    <title>Fugitives Caught on Tape</title>
+    <sub-title>Episode 14</sub-title>
+    <desc>Law enforcement officers pursue fugitives on the run; two murder suspects fire shots at State Troopers during a high-speed, highway pursuit; police pursue a man driving a baggage trailer he allegedly stole from a local airport.</desc>
+    <episode-num system="onscreen">S2 E14</episode-num>
+    <date>2025</date>
+    <category lang="en">Series</category>
+    <category lang="en">Crime</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p28275951_b_h8_ac.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+  </programme><programme channel="AE-USA" start="20260523070100 +0500" stop="20260523073200 +0500">
+    <title>Fugitives Caught on Tape</title>
+    <sub-title>Episode 2</sub-title>
+    <desc>Law enforcement officers pursue fugitives on the run; after a high-speed chase ends with a crash on the highway, the suspect shocks officers by attacking one of the accident victims with a knife.</desc>
+    <episode-num system="onscreen">S2 E2</episode-num>
+    <date>2025</date>
+    <category lang="en">Series</category>
+    <category lang="en">Crime</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p28275951_b_h8_ac.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating>
+  </programme><programme channel="AE-USA" start="20260523073200 +0500" stop="20260523080400 +0500">
+    <title>Fugitives Caught on Tape</title>
+    <sub-title>Episode 20</sub-title>
+    <desc>Law enforcement officers pursue fugitives on the run; a man wanted for carjacking runs out of the road during a high-speed chase; an officer climbs on the hood of a car while trying to prevent a fugitive from fleeing.</desc>
+    <episode-num system="onscreen">S1 E20</episode-num>
+    <date>2024</date>
+    <category lang="en">Series</category>
+    <category lang="en">Crime</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p28275951_b_h8_ac.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating>
+  </programme><programme channel="AE-USA" start="20260523080400 +0500" stop="20260523083400 +0500">
+    <title>Fugitives Caught on Tape</title>
+    <sub-title>Episode 6</sub-title>
+    <desc>A car thief in New Mexico steals a vehicle from right under the noses of deputies; police in Wisconsin get in a foot chase with a serial evader; LAPD officers engage in the slow-speed highway pursuit of a suspect on a bicycle.</desc>
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <date>2024</date>
+    <category lang="en">Series</category>
+    <category lang="en">Crime</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p28275951_b_h8_ac.jpg?w=960&amp;h=540" />
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
       <value>12</value>
     </rating><rating system="Kijkwijzer">
       <value>AL</value>
-    </rating><rating system="UK Content Provider">
-      <value>PG</value>
-    </rating><rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A12</value>
     </rating>
-  </programme><programme channel="AE-USA" start="20260517020000 +0500" stop="20260517030000 +0500">
-    <title>Storage Wars</title>
-    <sub-title>Million Dollar Brandi</sub-title>
-    <desc>In West Covina, Dusty uses magic to find his treasure; Lisa, determined to make her carpenter father proud, looks for something to refurbish and ends up channeling something else; Ivy wrestles with heels and tools, while Brandi gets in the ring to honor her grandpa.</desc>
-    <episode-num system="onscreen">S17 E3</episode-num>
-    <credits>
-      <actor>Darrell Sheets</actor>
-      <actor>Brandi Passante</actor>
-      <actor>Dan Dotson</actor>
-    </credits><date>2026</date>
+  </programme><programme channel="AE-USA" start="20260523083400 +0500" stop="20260523090300 +0500">
+    <title>Fugitives Caught on Tape</title>
+    <sub-title>Episode 1</sub-title>
+    <desc>LAPD ground units work with helicopter officers to catch an alleged multiple-hit-and-run suspect; deputies and police in Florida chase an alleged murder suspect; deputies in New Mexico pursue a naked woman driving recklessly on the highway.</desc>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <date>2024</date>
     <category lang="en">Series</category>
-    <category lang="en">Reality</category>
-    <category lang="en">Auction</category>
-    <category lang="en">Collectibles</category>
+    <category lang="en">Crime</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p8354064_b_h8_aw.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p28275951_b_h8_ac.jpg?w=960&amp;h=540" />
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating>
+  </programme><programme channel="AE-USA" start="20260523090300 +0500" stop="20260523093300 +0500">
+    <title>Fugitives Caught on Tape</title>
+    <sub-title>Episode 1</sub-title>
+    <desc>Law enforcement officers pursue fugitives on the run; a suspect in a box truck causes multiple collisions on the highway before engaging officers in an airport shootout; a K-9 officer chases down a fugitive wanted for aggravated battery.</desc>
+    <episode-num system="onscreen">S2 E1</episode-num>
+    <date>2025</date>
+    <category lang="en">Series</category>
+    <category lang="en">Crime</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p28275951_b_h8_ac.jpg?w=960&amp;h=540" />
     <rating system="USA Parental Rating">
-      <value>TVPG</value>
+      <value>TV14</value>
     </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
+      <value>14+</value>
     </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
       <value>12</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+    </rating>
+  </programme><programme channel="AE-USA" start="20260523093300 +0500" stop="20260523100300 +0500">
+    <title>Fugitives Caught on Tape</title>
+    <sub-title>Episode 19</sub-title>
+    <desc>Law enforcement officers pursue fugitives on the run; deputies get in a high-speed chase with a man wanted for shooting a highway patrolman and stealing his cruiser; officers pursue a fugitive who's driving recklessly.</desc>
+    <episode-num system="onscreen">S1 E19</episode-num>
+    <date>2024</date>
+    <category lang="en">Series</category>
+    <category lang="en">Crime</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p28275951_b_h8_ac.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating>
+  </programme><programme channel="AE-USA" start="20260523100300 +0500" stop="20260523103300 +0500">
+    <title>Fugitives Caught on Tape</title>
+    <sub-title>Episode 6</sub-title>
+    <desc>Law enforcement officers pursue fugitives on the run; a man who tried to run his daughter over with a pickup truck shoots at officers and rams a police cruiser; a state trooper captures a fugitive.</desc>
+    <episode-num system="onscreen">S2 E6</episode-num>
+    <date>2025</date>
+    <category lang="en">Series</category>
+    <category lang="en">Crime</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p28275951_b_h8_ac.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+  </programme><programme channel="AE-USA" start="20260523103300 +0500" stop="20260523110400 +0500">
+    <title>Fugitives Caught on Tape</title>
+    <sub-title>Episode 14</sub-title>
+    <desc>Law enforcement officers pursue fugitives on the run; two murder suspects fire shots at State Troopers during a high-speed, highway pursuit; police pursue a man driving a baggage trailer he allegedly stole from a local airport.</desc>
+    <episode-num system="onscreen">S2 E14</episode-num>
+    <date>2025</date>
+    <category lang="en">Series</category>
+    <category lang="en">Crime</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p28275951_b_h8_ac.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+  </programme><programme channel="AE-USA" start="20260523110400 +0500" stop="20260523113400 +0500">
+    <title>Fugitives Caught on Tape</title>
+    <sub-title>Episode 2</sub-title>
+    <desc>Law enforcement officers pursue fugitives on the run; after a high-speed chase ends with a crash on the highway, the suspect shocks officers by attacking one of the accident victims with a knife.</desc>
+    <episode-num system="onscreen">S2 E2</episode-num>
+    <date>2025</date>
+    <category lang="en">Series</category>
+    <category lang="en">Crime</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p28275951_b_h8_ac.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating>
+  </programme><programme channel="AE-USA" start="20260523113400 +0500" stop="20260523120500 +0500">
+    <title>Fugitives Caught on Tape</title>
+    <sub-title>Episode 20</sub-title>
+    <desc>Law enforcement officers pursue fugitives on the run; a man wanted for carjacking runs out of the road during a high-speed chase; an officer climbs on the hood of a car while trying to prevent a fugitive from fleeing.</desc>
+    <episode-num system="onscreen">S1 E20</episode-num>
+    <date>2024</date>
+    <category lang="en">Series</category>
+    <category lang="en">Crime</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p28275951_b_h8_ac.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating>
+  </programme><programme channel="AE-USA" start="20260523120500 +0500" stop="20260523123400 +0500">
+    <title>Fugitives Caught on Tape</title>
+    <sub-title>Episode 6</sub-title>
+    <desc>A car thief in New Mexico steals a vehicle from right under the noses of deputies; police in Wisconsin get in a foot chase with a serial evader; LAPD officers engage in the slow-speed highway pursuit of a suspect on a bicycle.</desc>
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <date>2024</date>
+    <category lang="en">Series</category>
+    <category lang="en">Crime</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p28275951_b_h8_ac.jpg?w=960&amp;h=540" />
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
       <value>12</value>
     </rating><rating system="Kijkwijzer">
       <value>AL</value>
-    </rating><rating system="UK Content Provider">
-      <value>PG</value>
-    </rating><rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A12</value>
     </rating>
-  </programme><programme channel="AE-USA" start="20260517030000 +0500" stop="20260517040000 +0500">
-    <title>Storage Wars</title>
-    <sub-title>All About Steve</sub-title>
-    <desc>Bathed in the heat of Moreno Valley, Kenny has difficulty with names, so he calls an audible; Brandi can't catch a break without some help from above; Dave gets stuck with the business end of an unsatisfying locker; Dusty and Lupe put their "street" smarts to good use.</desc>
-    <episode-num system="onscreen">S17 E1</episode-num>
-    <credits>
-      <actor>Darrell Sheets</actor>
-      <actor>Brandi Passante</actor>
-      <actor>Dan Dotson</actor>
-    </credits><date>2026</date>
+  </programme><programme channel="AE-USA" start="20260523123400 +0500" stop="20260523130200 +0500">
+    <title>Fugitives Caught on Tape</title>
+    <sub-title>Episode 1</sub-title>
+    <desc>LAPD ground units work with helicopter officers to catch an alleged multiple-hit-and-run suspect; deputies and police in Florida chase an alleged murder suspect; deputies in New Mexico pursue a naked woman driving recklessly on the highway.</desc>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <date>2024</date>
     <category lang="en">Series</category>
-    <category lang="en">Reality</category>
-    <category lang="en">Auction</category>
-    <category lang="en">Collectibles</category>
+    <category lang="en">Crime</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p8354064_b_h8_aw.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+    <icon src="http://dtil.tmsimg.com/assets/p28275951_b_h8_ac.jpg?w=960&amp;h=540" />
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
       <value>12</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating><rating system="Kijkwijzer">
-      <value>AL</value>
-    </rating><rating system="UK Content Provider">
-      <value>PG</value>
-    </rating><rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A12</value>
     </rating>
-  </programme><programme channel="AE-USA" start="20260517040000 +0500" stop="20260517050000 +0500">
-    <title>Storage Wars</title>
-    <sub-title>The Count of Montebello</sub-title>
-    <desc>Back in Montebello, Kenny is determined to stop swearing by carrying around a cuss counter; Dave goes in big on a high-end locker; Ivy doesn't hit the bullseye when it counts; Dusty and Lupe hope to hear the pristine sounds of success.</desc>
-    <episode-num system="onscreen">S17 E9</episode-num>
-    <credits>
-      <actor>Darrell Sheets</actor>
-      <actor>Brandi Passante</actor>
-      <actor>Dan Dotson</actor>
-    </credits><date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Reality</category>
-    <category lang="en">Auction</category>
-    <category lang="en">Collectibles</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p8354064_b_h8_aw.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating><rating system="Kijkwijzer">
-      <value>AL</value>
-    </rating><rating system="UK Content Provider">
-      <value>PG</value>
-    </rating><rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A12</value>
-    </rating>
-  </programme><programme channel="AE-USA" start="20260517050000 +0500" stop="20260517060000 +0500">
-    <title>Storage Wars</title>
-    <sub-title>It's a Brew-tiful Day in Fullerton</sub-title>
-    <desc>Lisa keeps getting her lockers taken from her, and it makes her hopping mad; Kenny goes in for a banjo but comes out with a harmonica; Dusty and Lupe find the locker of her dreams; Ivy finds a vehicle in his locker, just not the one he expected.</desc>
-    <episode-num system="onscreen">S17 E5</episode-num>
-    <credits>
-      <actor>Darrell Sheets</actor>
-      <actor>Brandi Passante</actor>
-      <actor>Dan Dotson</actor>
-    </credits><date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Reality</category>
-    <category lang="en">Auction</category>
-    <category lang="en">Collectibles</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p8354064_b_h8_aw.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating><rating system="Kijkwijzer">
-      <value>AL</value>
-    </rating><rating system="UK Content Provider">
-      <value>PG</value>
-    </rating><rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A12</value>
-    </rating>
-  </programme><programme channel="AE-USA" start="20260517060000 +0500" stop="20260517070100 +0500">
-    <title>Storage Wars</title>
-    <sub-title>Not Mary's First Rodeo</sub-title>
-    <desc>The buyers return to Moreno Valley, where an old friend surprises them; Dusty &amp; Lupe do their best to hit it out of the park; Ivy finds a couple of "less scary" coffins; Brandi isn't going to let anything ruin her bright and sunny attitude.</desc>
-    <episode-num system="onscreen">S17 E4</episode-num>
-    <credits>
-      <actor>Darrell Sheets</actor>
-      <actor>Brandi Passante</actor>
-      <actor>Dan Dotson</actor>
-    </credits><date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Reality</category>
-    <category lang="en">Auction</category>
-    <category lang="en">Collectibles</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p8354064_b_h8_aw.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating><rating system="Kijkwijzer">
-      <value>AL</value>
-    </rating><rating system="UK Content Provider">
-      <value>PG</value>
-    </rating><rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A12</value>
-    </rating>
-  </programme><programme channel="AE-USA" start="20260517070100 +0500" stop="20260517080400 +0500">
-    <title>Storage Wars</title>
-    <sub-title>Diamonds and Tigers and Bids... Oh My!</sub-title>
-    <desc>All the buyers are excited about the upscale potential of Rancho Palos Verdes, but it's Dave who finds his loot there; Brandi racks up a decent profit while saving herself from having to shell out for shelving; in Garden Grove, Kerri keeps Lisa focused long enough to weave a profit, while Kenny faces his fears in a new way.</desc>
-    <episode-num system="onscreen">S17 E6</episode-num>
-    <credits>
-      <actor>Darrell Sheets</actor>
-      <actor>Brandi Passante</actor>
-      <actor>Dan Dotson</actor>
-    </credits><date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Reality</category>
-    <category lang="en">Auction</category>
-    <category lang="en">Collectibles</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p8354064_b_h8_aw.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating><rating system="Kijkwijzer">
-      <value>AL</value>
-    </rating><rating system="UK Content Provider">
-      <value>PG</value>
-    </rating><rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A12</value>
-    </rating>
-  </programme><programme channel="AE-USA" start="20260517080400 +0500" stop="20260517090300 +0500">
-    <title>Storage Wars</title>
-    <sub-title>A Song of Vinyl and Denim</sub-title>
-    <desc>Dave is joined by his biggest fan, who helps him sink a winning locker; Emily is determined to salvage a profit from a smaller unit; Lisa puts her faith in Karma, and it treats her like royalty; Kenny carves out some monies in record time.</desc>
-    <episode-num system="onscreen">S17 E12</episode-num>
-    <credits>
-      <actor>Darrell Sheets</actor>
-      <actor>Brandi Passante</actor>
-      <actor>Dan Dotson</actor>
-    </credits><date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Reality</category>
-    <category lang="en">Auction</category>
-    <category lang="en">Collectibles</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p8354064_b_h8_aw.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating><rating system="Kijkwijzer">
-      <value>AL</value>
-    </rating><rating system="UK Content Provider">
-      <value>PG</value>
-    </rating><rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A12</value>
-    </rating>
-  </programme><programme channel="AE-USA" start="20260517090300 +0500" stop="20260517100300 +0500">
-    <title>Storage Wars</title>
-    <sub-title>It's a Brew-tiful Day in Fullerton</sub-title>
-    <desc>Lisa keeps getting her lockers taken from her, and it makes her hopping mad; Kenny goes in for a banjo but comes out with a harmonica; Dusty and Lupe find the locker of her dreams; Ivy finds a vehicle in his locker, just not the one he expected.</desc>
-    <episode-num system="onscreen">S17 E5</episode-num>
-    <credits>
-      <actor>Darrell Sheets</actor>
-      <actor>Brandi Passante</actor>
-      <actor>Dan Dotson</actor>
-    </credits><date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Reality</category>
-    <category lang="en">Auction</category>
-    <category lang="en">Collectibles</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p8354064_b_h8_aw.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating><rating system="Kijkwijzer">
-      <value>AL</value>
-    </rating><rating system="UK Content Provider">
-      <value>PG</value>
-    </rating><rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A12</value>
-    </rating>
-  </programme><programme channel="AE-USA" start="20260517100300 +0500" stop="20260517110400 +0500">
-    <title>Storage Wars</title>
-    <sub-title>Not Mary's First Rodeo</sub-title>
-    <desc>The buyers return to Moreno Valley, where an old friend surprises them; Dusty &amp; Lupe do their best to hit it out of the park; Ivy finds a couple of "less scary" coffins; Brandi isn't going to let anything ruin her bright and sunny attitude.</desc>
-    <episode-num system="onscreen">S17 E4</episode-num>
-    <credits>
-      <actor>Darrell Sheets</actor>
-      <actor>Brandi Passante</actor>
-      <actor>Dan Dotson</actor>
-    </credits><date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Reality</category>
-    <category lang="en">Auction</category>
-    <category lang="en">Collectibles</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p8354064_b_h8_aw.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating><rating system="Kijkwijzer">
-      <value>AL</value>
-    </rating><rating system="UK Content Provider">
-      <value>PG</value>
-    </rating><rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A12</value>
-    </rating>
-  </programme><programme channel="AE-USA" start="20260517110400 +0500" stop="20260517120500 +0500">
-    <title>Storage Wars</title>
-    <sub-title>Diamonds and Tigers and Bids... Oh My!</sub-title>
-    <desc>All the buyers are excited about the upscale potential of Rancho Palos Verdes, but it's Dave who finds his loot there; Brandi racks up a decent profit while saving herself from having to shell out for shelving; in Garden Grove, Kerri keeps Lisa focused long enough to weave a profit, while Kenny faces his fears in a new way.</desc>
-    <episode-num system="onscreen">S17 E6</episode-num>
-    <credits>
-      <actor>Darrell Sheets</actor>
-      <actor>Brandi Passante</actor>
-      <actor>Dan Dotson</actor>
-    </credits><date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Reality</category>
-    <category lang="en">Auction</category>
-    <category lang="en">Collectibles</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p8354064_b_h8_aw.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating><rating system="Kijkwijzer">
-      <value>AL</value>
-    </rating><rating system="UK Content Provider">
-      <value>PG</value>
-    </rating><rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A12</value>
-    </rating>
-  </programme><programme channel="AE-USA" start="20260517120500 +0500" stop="20260517130200 +0500">
-    <title>Storage Wars</title>
-    <sub-title>A Song of Vinyl and Denim</sub-title>
-    <desc>Dave is joined by his biggest fan, who helps him sink a winning locker; Emily is determined to salvage a profit from a smaller unit; Lisa puts her faith in Karma, and it treats her like royalty; Kenny carves out some monies in record time.</desc>
-    <episode-num system="onscreen">S17 E12</episode-num>
-    <credits>
-      <actor>Darrell Sheets</actor>
-      <actor>Brandi Passante</actor>
-      <actor>Dan Dotson</actor>
-    </credits><date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Reality</category>
-    <category lang="en">Auction</category>
-    <category lang="en">Collectibles</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p8354064_b_h8_aw.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating><rating system="Kijkwijzer">
-      <value>AL</value>
-    </rating><rating system="UK Content Provider">
-      <value>PG</value>
-    </rating><rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A12</value>
-    </rating>
-  </programme><programme channel="AE-USA" start="20260517130200 +0500" stop="20260517133200 +0500">
-    <title>The Aging Brain</title>
-    <sub-title />
-    <desc>Learn what's behind mental decline with age, and how to improve memory, focus and concentration with NeuroQ's Darrin Peterson and Dale Bredesen MD.</desc>
-    <category lang="en">Consumer</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p30127108_st_h10_aa.jpg?w=960&amp;h=540" />
-  </programme><programme channel="AE-USA" start="20260517133200 +0500" stop="20260517140200 +0500">
+  </programme><programme channel="AE-USA" start="20260523130200 +0500" stop="20260523133200 +0500">
     <title>Overwhelmed with IRS Debt? Keys to Resolving Tax Debt</title>
     <sub-title />
     <desc>See how one company is changing people's lives by helping them put their tax problems to rest.</desc>
     <category lang="en">Consumer</category>
     <language>en</language>
     <icon src="http://dtil.tmsimg.com/assets/p20254756_b_h8_aa.jpg?w=960&amp;h=540" />
-  </programme><programme channel="AE-USA" start="20260517140200 +0500" stop="20260517143100 +0500">
+  </programme><programme channel="AE-USA" start="20260523133200 +0500" stop="20260523140200 +0500">
+    <title>Freedom to Leave the House! Inogen Portable Oxygen</title>
+    <sub-title />
+    <desc>Regain independence and enjoy greater mobility with the compact design and long-lasting battery of portable oxygen.</desc>
+    <category lang="en">Consumer</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p29463212_st_h10_aa.jpg?w=960&amp;h=540" />
+  </programme><programme channel="AE-USA" start="20260523140200 +0500" stop="20260523143200 +0500">
+    <title>Tired of Pain? Go Drug-Free</title>
+    <sub-title />
+    <desc>See how a drug-free patch is helping people find relief-without medication.</desc>
+    <category lang="en">Consumer</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p32384250_st_h10_aa.jpg?w=960&amp;h=540" />
+  </programme><programme channel="AE-USA" start="20260523143200 +0500" stop="20260523150200 +0500">
+    <title>RateEscape: Stop Overpaying For Cellular</title>
+    <sub-title />
+    <desc>Cut up to half the cost of your monthly cell phone bill; same towers, same coverage, but a lot less money; it sounds great but is it too good to be true?; join myth-busting legend Kari Byron as she takes on Big Wireless to save you money.</desc>
+    <category lang="en">Consumer</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p30869357_st_h10_ab.jpg?w=960&amp;h=540" />
+  </programme><programme channel="AE-USA" start="20260523150200 +0500" stop="20260523153000 +0500">
+    <title>NEW! Shark PowerDetect with DuoClean Detect Technology</title>
+    <sub-title />
+    <desc>Meet the new Shark PowerDetect Upright Vacuum with features like DuoClean Detect Technology, self-cleaning brush roll and odor neutralizing, and you will be cleaning faster, smarter and better!</desc>
+    <category lang="en">Consumer</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p29966207_b_h10_aa.jpg?w=960&amp;h=540" />
+  </programme><programme channel="AE-USA" start="20260523153000 +0500" stop="20260523160000 +0500">
+    <title>RateEscape: Stop Overpaying For Cellular</title>
+    <sub-title />
+    <desc>Cut up to half the cost of your monthly cell phone bill; same towers, same coverage, but a lot less money; it sounds great but is it too good to be true?; join myth-busting legend Kari Byron as she takes on Big Wireless to save you money.</desc>
+    <category lang="en">Consumer</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p30869357_st_h10_ab.jpg?w=960&amp;h=540" />
+  </programme><programme channel="AE-USA" start="20260523160000 +0500" stop="20260523163000 +0500">
+    <title>Rachael Ray's Meals in Minutes</title>
+    <sub-title>Panadas with Anna Francese Gass</sub-title>
+    <desc>Rachael and her friend, TV host and cookbook author Anna Francese Gass, are preparing a delicious feast together in Rachael's Tuscan kitchen. First, Rachael creates a dish inspired by cucina povera, featuring a hearty bean base, roasted onions, greens, and more. Next, Anna demonstrates how to make Panadas, Italian-style empanadas filled with vegetables, lamb, and cheese, all wrapped in a perfectly crisp pastry dough.</desc>
+    <episode-num system="onscreen">S3 E9</episode-num>
+    <credits>
+      <actor>Rachael Ray</actor>
+    </credits><date>2025</date>
+    <category lang="en">Series</category>
+    <category lang="en">Cooking</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p26976887_b_h8_ae.jpg?w=960&amp;h=540" />
+    <rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="AE-USA" start="20260523163000 +0500" stop="20260523170000 +0500">
+    <title>Rachael Ray's Meals in Minutes</title>
+    <sub-title>Shrimp Salad Stuffed Shells</sub-title>
+    <desc>Rachael prepares sautéed red shrimp with homemade stock, served over a vibrant vegetable salad. John mixes a Pre-Prohibition Martini with a spicy kick, and Rachael's friend, Giancarla, joins her to make a tray of delicious baked large shell pasta.</desc>
+    <episode-num system="onscreen">S3 E10</episode-num>
+    <credits>
+      <actor>Rachael Ray</actor>
+    </credits><date>2025</date>
+    <category lang="en">Series</category>
+    <category lang="en">Cooking</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p26976887_b_h8_ae.jpg?w=960&amp;h=540" />
+    <rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="AE-USA" start="20260523170000 +0500" stop="20260523180000 +0500">
+    <title>Million Dollar Zombie Flips</title>
+    <sub-title>Overbudget and Underwhelmed</sub-title>
+    <desc>The master of flipping, James Dainard, and longtime rival Jared decide to bury the hatchet and partner on a 100-year-old zombie house trashed by squatters. The property has huge potential, but it's in rough shape and needs a full overhaul-including restoring its original character and finishing the entire basement to push the value well past a million dollars. James has a strict plan to keep the numbers on track, but Jared is notorious for blowing budgets on high-end finishes.</desc>
+    <episode-num system="onscreen">S2 E1</episode-num>
+    <credits>
+      <actor>James Dainard</actor>
+    </credits><date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Home improvement</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p30135184_b_h8_ab.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="AE-USA" start="20260523180000 +0500" stop="20260523190000 +0500">
+    <title>Million Dollar Zombie Flips</title>
+    <sub-title>Holey Coley</sub-title>
+    <desc>James Dainard is faced with a big dilemma, do flipping and friendship go together?; his longtime friend Carrie, friend to his wife Clair, has fallen on some tough times and wants James' help; recently divorced and eager for financial freedom, Carrie convinces James she can handle the project even though she is a complete novice; together, they tackle a mid-century modern disaster with an unfinished basement, small kitchen, and a single main-floor bathroom.</desc>
+    <episode-num system="onscreen">S2 E2</episode-num>
+    <credits>
+      <actor>James Dainard</actor>
+    </credits><date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Home improvement</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p29450803_b_h8_ac.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="AE-USA" start="20260523190000 +0500" stop="20260523200000 +0500">
+    <title>Million Dollar Zombie Flips</title>
+    <sub-title>Grandma's House</sub-title>
+    <desc>James Dainard's grandparents have recently passed, and together with his mom, Claire, James must help decide the future of the family home. The house is full of memories but also outdated, with a small kitchen and a layout that doesn't showcase its views. Working with his team—construction manager Ryan and designer and realtor Megan—James aims to renovate and restore the home for top dollar.</desc>
+    <episode-num system="onscreen">S2 E3</episode-num>
+    <credits>
+      <actor>James Dainard</actor>
+    </credits><date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Home improvement</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p29450803_b_h8_ac.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="AE-USA" start="20260523200000 +0500" stop="20260523210000 +0500">
+    <title>Million Dollar Zombie Flips</title>
+    <sub-title>Flipped and Confused</sub-title>
+    <desc>James Dainard has seen it all, but nothing quite like this. Longtime real estate deal-finders Buck and Will want to partner with James and step into the flipping world, but they're total rookies. Clueless about renovation but full of big ideas, they pitch James on a disaster of a house: a damaged roof, a choppy main floor, and a yard and deck that are more jungle than backyard.</desc>
+    <episode-num system="onscreen">S2 E4</episode-num>
+    <credits>
+      <actor>James Dainard</actor>
+    </credits><date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Home improvement</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p30135184_b_h8_ab.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="AE-USA" start="20260523210000 +0500" stop="20260523220000 +0500">
+    <title>Million Dollar Zombie Flips</title>
+    <sub-title>Don't Flip with Your Friends</sub-title>
+    <desc>James Dainard is faced with a big dilemma, do flip and friendship go together?; his longtime friend Carrie, friend to his wife Clair, has fallen on some tough times and wants James' help; recently divorced and eager for financial freedom, Carrie convinces James she can handle the project even though she is a complete novice; together, they tackle a mid-century modern disaster with an unfinished basement, small kitchen, and a single main-floor bathroom.</desc>
+    <episode-num system="onscreen">S2 E5</episode-num>
+    <credits>
+      <actor>James Dainard</actor>
+    </credits><date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Home improvement</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p29450803_b_h8_ac.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="AE-USA" start="20260523220000 +0500" stop="20260523223000 +0500">
+    <title>Squatters</title>
+    <sub-title>Get Outta My House, Now!</sub-title>
+    <desc>Flash Shelton and his team head to Vancouver, Washington to help a homeowner after a house sitter overstays her welcome and becomes an unwanted squatter; when Flash's team attempts to reclaim the home by using surveillance cameras, megaphones and even snakes, the confrontation turns into a tense standoff.</desc>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <credits>
+      <actor>Flash Shelton</actor>
+    </credits><date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Home improvement</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p30445754_b_h8_aa.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="AE-USA" start="20260523223000 +0500" stop="20260523230000 +0500">
+    <title>Squatters</title>
+    <sub-title>Mary Had a Little Squatter</sub-title>
+    <desc>In Cle Elum, Washington, Casey lost her dream home to a stranger who claimed it as her own for over 4 months and even tried to rent rooms out to other people for profit; but when Flash and his team move in, will their tactics be enough for this squatter to finally leave once and for all?</desc>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <credits>
+      <actor>Flash Shelton</actor>
+    </credits><date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Home improvement</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p30445754_b_h8_aa.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="AE-USA" start="20260523230000 +0500" stop="20260523233000 +0500">
+    <title>Squatters</title>
+    <sub-title>A House Arrest</sub-title>
+    <desc>Justin and Ashley's plans to sell their home in Auburn, Washington are thrown into chaos when the property is overrun by intruders. When Flash and his team arrive to remove the squatters, what should be a routine civil matter quickly turns criminal, as police descend on the property upending the entire operation.</desc>
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <credits>
+      <actor>Flash Shelton</actor>
+    </credits><date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Home improvement</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p30445754_b_h8_aa.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="AE-USA" start="20260523233000 +0500" stop="20260524000000 +0500">
+    <title>Squatters</title>
+    <sub-title>I'm Not Leaving</sub-title>
+    <desc>The team head to Conroe, Texas, to help a grieving family reclaim their late grandmother's home from a squatter couple who moved in after her passing; tensions run high when the couple resists leaving.</desc>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <credits>
+      <actor>Flash Shelton</actor>
+    </credits><date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Home improvement</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p30445754_b_h8_aa.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="AE-USA" start="20260524000000 +0500" stop="20260524003000 +0500">
+    <title>Squatters</title>
+    <sub-title>Battle of Wits</sub-title>
+    <desc>When a stranger moves in and takes over the new home of Nabih and Kadeisha, Flash and his team are deployed to Dearborn, Michigan with one goal: out squat the squatter. But what starts as a straightforward job becomes a battle of endurance when the trespasser challenges Flash to see who can hold their ground the longest.</desc>
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <credits>
+      <actor>Flash Shelton</actor>
+    </credits><date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Home improvement</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p30445754_b_h8_aa.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="AE-USA" start="20260524003000 +0500" stop="20260524010000 +0500">
+    <title>Squatters</title>
+    <sub-title>Come Out Wherever You Are</sub-title>
+    <desc>In Garland, Texas, Flash Shelton and his team help a family repossess their deceased brother's home from a squatter who moved in on the day that their brother died.</desc>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <credits>
+      <actor>Flash Shelton</actor>
+    </credits><date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Home improvement</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p30445754_b_h8_aa.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="AE-USA" start="20260524010000 +0500" stop="20260524013000 +0500">
+    <title>Storage Wars</title>
+    <sub-title>Vending, Vidi, Vici!</sub-title>
+    <desc>The buyers head to Palm Springs, Calif., in search of higher-end goods; Kenny tries to amp up the profit on an otherwise unimpressive unit; Rene sees quick potential where others don't; Brandi and Bozek try to keep their gains from squirming away.</desc>
+    <episode-num system="onscreen">S15 E7</episode-num>
+    <credits>
+      <actor>Darrell Sheets</actor>
+      <actor>Brandi Passante</actor>
+      <actor>Dan Dotson</actor>
+    </credits><date>2023</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">Auction</category>
+    <category lang="en">Collectibles</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p8354064_b_h8_aw.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>7</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating><rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating><rating system="UK Content Provider">
+      <value>PG</value>
+    </rating><rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A12</value>
+    </rating>
+  </programme><programme channel="AE-USA" start="20260524013000 +0500" stop="20260524020000 +0500">
+    <title>Storage Wars</title>
+    <sub-title>Tanks for the Memories</sub-title>
+    <desc>An expensive jewelry box in discovered among the treasures in Huntington Beach, Calif.; Darrell attempts to reel in a unit; Barry eyes military antiques.</desc>
+    <episode-num system="onscreen">S2 E9</episode-num>
+    <credits>
+      <actor>Darrell Sheets</actor>
+      <actor>Jarrod Schulz</actor>
+      <actor>Brandi Passante</actor>
+    </credits><date>2011</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">Auction</category>
+    <category lang="en">Collectibles</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p8354064_b_h8_aw.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating><rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A12</value>
+    </rating>
+  </programme><programme channel="AE-USA" start="20260524020000 +0500" stop="20260524023000 +0500">
+    <title>Storage Wars</title>
+    <sub-title>The Donut Effect</sub-title>
+    <desc>Rene and Casey display their confidence by arriving with a caravan of trucks; Darrell hopes to distract his competitors with doughnuts; Jarrod and Brandi plan an anniversary party for their store.</desc>
+    <episode-num system="onscreen">S5 E12</episode-num>
+    <credits>
+      <actor>Darrell Sheets</actor>
+      <actor>Jarrod Schulz</actor>
+      <actor>Brandi Passante</actor>
+    </credits><date>2014</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">Auction</category>
+    <category lang="en">Collectibles</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p8354064_b_h8_aw.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating><rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A12</value>
+    </rating>
+  </programme><programme channel="AE-USA" start="20260524023000 +0500" stop="20260524030000 +0500">
+    <title>Storage Wars</title>
+    <sub-title>The Gutfather</sub-title>
+    <desc>Rene's superstitious attitude could prove to be a hindrance; Ivy trusts his gut; Jarrod and Brandi manage to get the last laugh on their rivals.</desc>
+    <episode-num system="onscreen">S5 E13</episode-num>
+    <credits>
+      <actor>Darrell Sheets</actor>
+      <actor>Jarrod Schulz</actor>
+      <actor>Brandi Passante</actor>
+    </credits><date>2014</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">Auction</category>
+    <category lang="en">Collectibles</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p8354064_b_h8_aw.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating><rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A12</value>
+    </rating>
+  </programme><programme channel="AE-USA" start="20260524030000 +0500" stop="20260524033000 +0500">
+    <title>Storage Wars</title>
+    <sub-title>All Hail, King Brandi: The Rule-her of West Covina</sub-title>
+    <desc>In West Covina, Brandi makes a serious land grab, and it pays off handsomely; Rene can't resist the mystery of a good safe; Kenny can't seem to satisfy his hunger; Barry takes an opportunity to poach from the competition.</desc>
+    <episode-num system="onscreen">S15 E1</episode-num>
+    <credits>
+      <actor>Darrell Sheets</actor>
+      <actor>Brandi Passante</actor>
+      <actor>Dan Dotson</actor>
+    </credits><date>2023</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">Auction</category>
+    <category lang="en">Collectibles</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p8354064_b_h8_aw.jpg?w=960&amp;h=540" />
+    <rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating><rating system="UK Content Provider">
+      <value>PG</value>
+    </rating><rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>7</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A12</value>
+    </rating>
+  </programme><programme channel="AE-USA" start="20260524033000 +0500" stop="20260524040000 +0500">
+    <title>Storage Wars</title>
+    <sub-title>The Emperor of El Monte</sub-title>
+    <desc>The buyers travel to El Monte, Calif.; Darrell and Brandon locate antiques; Jarrod and Brandi find a locker; Ivy scores big.</desc>
+    <episode-num system="onscreen">S6 E4</episode-num>
+    <credits>
+      <actor>Darrell Sheets</actor>
+      <actor>Jarrod Schulz</actor>
+      <actor>Brandi Passante</actor>
+    </credits><date>2014</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">Auction</category>
+    <category lang="en">Collectibles</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p8354064_b_h8_aw.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating><rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A12</value>
+    </rating>
+  </programme><programme channel="AE-USA" start="20260524040000 +0500" stop="20260524043000 +0500">
+    <title>Storage Wars</title>
+    <sub-title>Pay the Lady</sub-title>
+    <desc>Laura takes over as auctioneer when Dan calls in sick; Barry uncovers a "knock out" unit; Jarrod finds a locker with "gangsta" flavor; Darrell discovers a classic movie prop.</desc>
+    <episode-num system="onscreen">S2 E3</episode-num>
+    <credits>
+      <actor>Thom Beers</actor>
+      <actor>Darrell Sheets</actor>
+      <actor>Jarrod Schulz</actor>
+    </credits><date>2011</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">Auction</category>
+    <category lang="en">Collectibles</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p8354064_b_h8_aw.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating><rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A12</value>
+    </rating>
+  </programme><programme channel="AE-USA" start="20260524043000 +0500" stop="20260524050000 +0500">
+    <title>Storage Wars</title>
+    <sub-title>The Robot Cowboy</sub-title>
+    <desc>Darrell and Brandon need to secure merchandise for their Website; an exhausted Ivy switches into robot mode; Rene dresses for success; Jarrod and Brandi try a new strategy.</desc>
+    <episode-num system="onscreen">S5 E18</episode-num>
+    <credits>
+      <actor>Darrell Sheets</actor>
+      <actor>Jarrod Schulz</actor>
+      <actor>Brandi Passante</actor>
+    </credits><date>2014</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">Auction</category>
+    <category lang="en">Collectibles</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p8354064_b_h8_aw.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating><rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A12</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating>
+  </programme><programme channel="AE-USA" start="20260524050000 +0500" stop="20260524060000 +0500">
+    <title>Storage Wars</title>
+    <sub-title>Survey Says...Payback's a Bit*h!</sub-title>
+    <desc>The Lord of Lancaster asserts his reign by levying tariffs on the little people; Lisa &amp; Kerri stitch together some antique accoutrements; Dusty &amp; Lupe spot some gold in an immense locker; Kenny finally finds himself some decent profit.</desc>
+    <episode-num system="onscreen">S16 E7</episode-num>
+    <credits>
+      <actor>Darrell Sheets</actor>
+      <actor>Brandi Passante</actor>
+      <actor>Dan Dotson</actor>
+    </credits><date>2025</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">Auction</category>
+    <category lang="en">Collectibles</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p8354064_b_h8_aw.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>7</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating><rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating><rating system="UK Content Provider">
+      <value>PG</value>
+    </rating><rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A12</value>
+    </rating>
+  </programme><programme channel="AE-USA" start="20260524060000 +0500" stop="20260524070100 +0500">
+    <title>Storage Wars</title>
+    <sub-title>YUUUPocalypse Now!</sub-title>
+    <desc>Ivy takes an opportunity to practice his dart game as the buyers head to Riverside; Rene exchanges poker for a chance to get his Becker on; Brandi ropes in more than she bargained for, but a surprise shows up.</desc>
+    <episode-num system="onscreen">S16 E4</episode-num>
+    <credits>
+      <actor>Darrell Sheets</actor>
+      <actor>Brandi Passante</actor>
+      <actor>Dan Dotson</actor>
+    </credits><date>2025</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">Auction</category>
+    <category lang="en">Collectibles</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p8354064_b_h8_aw.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating><rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating><rating system="UK Content Provider">
+      <value>PG</value>
+    </rating><rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A12</value>
+    </rating>
+  </programme><programme channel="AE-USA" start="20260524070100 +0500" stop="20260524080400 +0500">
+    <title>Storage Wars</title>
+    <sub-title>The INKredible Mr. Calvin</sub-title>
+    <desc>The buyers have their worlds rocked in Garden Grove; Ivy learns that there are surprising uses for office equipment; Lisa finds the shiniest bowl she's ever seen; Dusty, getting a rise out of everyone, finds out the true meaning of being a jerk.</desc>
+    <episode-num system="onscreen">S16 E8</episode-num>
+    <credits>
+      <actor>Darrell Sheets</actor>
+      <actor>Brandi Passante</actor>
+      <actor>Dan Dotson</actor>
+    </credits><date>2025</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">Auction</category>
+    <category lang="en">Collectibles</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p8354064_b_h8_aw.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>7</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating><rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating><rating system="UK Content Provider">
+      <value>PG</value>
+    </rating><rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A12</value>
+    </rating>
+  </programme><programme channel="AE-USA" start="20260524080400 +0500" stop="20260524090300 +0500">
+    <title>Storage Wars</title>
+    <sub-title>The Return of the Return of San Burrito</sub-title>
+    <desc>Kenny channels an old friend's tactics, allowing him to pick just the right unit; Brandi flexes her muscles on a dusty locker; Ivy does his best to look beneath the surface, while Rene and Casey gamble big on an even bigger room.</desc>
+    <episode-num system="onscreen">S16 E1</episode-num>
+    <credits>
+      <actor>Darrell Sheets</actor>
+      <actor>Brandi Passante</actor>
+      <actor>Dan Dotson</actor>
+    </credits><date>2025</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">Auction</category>
+    <category lang="en">Collectibles</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p8354064_b_h8_aw.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating><rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating><rating system="UK Content Provider">
+      <value>PG</value>
+    </rating><rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A12</value>
+    </rating>
+  </programme><programme channel="AE-USA" start="20260524090300 +0500" stop="20260524100300 +0500">
+    <title>Storage Wars</title>
+    <sub-title>Survey Says...Payback's a Bit*h!</sub-title>
+    <desc>The Lord of Lancaster asserts his reign by levying tariffs on the little people; Lisa &amp; Kerri stitch together some antique accoutrements; Dusty &amp; Lupe spot some gold in an immense locker; Kenny finally finds himself some decent profit.</desc>
+    <episode-num system="onscreen">S16 E7</episode-num>
+    <credits>
+      <actor>Darrell Sheets</actor>
+      <actor>Brandi Passante</actor>
+      <actor>Dan Dotson</actor>
+    </credits><date>2025</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">Auction</category>
+    <category lang="en">Collectibles</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p8354064_b_h8_aw.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>7</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating><rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating><rating system="UK Content Provider">
+      <value>PG</value>
+    </rating><rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A12</value>
+    </rating>
+  </programme><programme channel="AE-USA" start="20260524100300 +0500" stop="20260524110400 +0500">
+    <title>Storage Wars</title>
+    <sub-title>YUUUPocalypse Now!</sub-title>
+    <desc>Ivy takes an opportunity to practice his dart game as the buyers head to Riverside; Rene exchanges poker for a chance to get his Becker on; Brandi ropes in more than she bargained for, but a surprise shows up.</desc>
+    <episode-num system="onscreen">S16 E4</episode-num>
+    <credits>
+      <actor>Darrell Sheets</actor>
+      <actor>Brandi Passante</actor>
+      <actor>Dan Dotson</actor>
+    </credits><date>2025</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">Auction</category>
+    <category lang="en">Collectibles</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p8354064_b_h8_aw.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating><rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating><rating system="UK Content Provider">
+      <value>PG</value>
+    </rating><rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A12</value>
+    </rating>
+  </programme><programme channel="AE-USA" start="20260524110400 +0500" stop="20260524120500 +0500">
+    <title>Storage Wars</title>
+    <sub-title>The INKredible Mr. Calvin</sub-title>
+    <desc>The buyers have their worlds rocked in Garden Grove; Ivy learns that there are surprising uses for office equipment; Lisa finds the shiniest bowl she's ever seen; Dusty, getting a rise out of everyone, finds out the true meaning of being a jerk.</desc>
+    <episode-num system="onscreen">S16 E8</episode-num>
+    <credits>
+      <actor>Darrell Sheets</actor>
+      <actor>Brandi Passante</actor>
+      <actor>Dan Dotson</actor>
+    </credits><date>2025</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">Auction</category>
+    <category lang="en">Collectibles</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p8354064_b_h8_aw.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>7</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating><rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating><rating system="UK Content Provider">
+      <value>PG</value>
+    </rating><rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A12</value>
+    </rating>
+  </programme><programme channel="AE-USA" start="20260524120500 +0500" stop="20260524130200 +0500">
+    <title>Storage Wars</title>
+    <sub-title>The Return of the Return of San Burrito</sub-title>
+    <desc>Kenny channels an old friend's tactics, allowing him to pick just the right unit; Brandi flexes her muscles on a dusty locker; Ivy does his best to look beneath the surface, while Rene and Casey gamble big on an even bigger room.</desc>
+    <episode-num system="onscreen">S16 E1</episode-num>
+    <credits>
+      <actor>Darrell Sheets</actor>
+      <actor>Brandi Passante</actor>
+      <actor>Dan Dotson</actor>
+    </credits><date>2025</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">Auction</category>
+    <category lang="en">Collectibles</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p8354064_b_h8_aw.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating><rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating><rating system="UK Content Provider">
+      <value>PG</value>
+    </rating><rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A12</value>
+    </rating>
+  </programme><programme channel="AE-USA" start="20260524130200 +0500" stop="20260524133200 +0500">
+    <title>Freedom to Leave the House! Inogen Portable Oxygen</title>
+    <sub-title />
+    <desc>Regain independence and enjoy greater mobility with the compact design and long-lasting battery of portable oxygen.</desc>
+    <category lang="en">Consumer</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p29463212_st_h10_aa.jpg?w=960&amp;h=540" />
+  </programme><programme channel="AE-USA" start="20260524133200 +0500" stop="20260524140200 +0500">
+    <title>Overwhelmed with IRS Debt? Keys to Resolving Tax Debt</title>
+    <sub-title />
+    <desc>See how one company is changing people's lives by helping them put their tax problems to rest.</desc>
+    <category lang="en">Consumer</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p20254756_b_h8_aa.jpg?w=960&amp;h=540" />
+  </programme><programme channel="AE-USA" start="20260524140200 +0500" stop="20260524143200 +0500">
+    <title>Sleep Deeper Tonight with DREAMCLOUD's Advanced Hybrid Mattress Today!</title>
+    <sub-title />
+    <desc>Treat yourself to luxurious, award-winning comfort with the premium DreamCloud Mattress &amp; adjustable base. Enjoy restorative sleep, relax with zero gravity comfort, and wake up refreshed. Plus, save 66% with this amazing deal today!</desc>
+    <category lang="en">Consumer</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p33069620_st_h10_aa.jpg?w=960&amp;h=540" />
+  </programme><programme channel="AE-USA" start="20260524143200 +0500" stop="20260524150200 +0500">
     <title>NECTAR TRI-PILLOW -Cooler, Comfy, Better Sleep! Buy One Get One FREE!</title>
     <sub-title />
     <desc>Discover the Nectar Tri-Comfort Cooling Pillow for the ultimate sleep experience! Adjustable to three firmness levels to provide customized support and cooling all night long. Order NOW to get a second pillow FREE, plus a 30-night home trial!</desc>
     <category lang="en">Consumer</category>
     <language>en</language>
     <icon src="http://dtil.tmsimg.com/assets/p30176714_b_h8_aa.jpg?w=960&amp;h=540" />
-  </programme><programme channel="AE-USA" start="20260517143100 +0500" stop="20260517150000 +0500">
+  </programme><programme channel="AE-USA" start="20260524150200 +0500" stop="20260524153000 +0500">
     <title>Paid Programming</title>
     <sub-title />
     <desc>Paid programming.</desc>
@@ -858,14 +1323,7 @@
     </rating><rating system="Kijkwijzer">
       <value>AL</value>
     </rating>
-  </programme><programme channel="AE-USA" start="20260517150000 +0500" stop="20260517153000 +0500">
-    <title>NEW! Shark PowerDetect with DuoClean Detect Technology</title>
-    <sub-title />
-    <desc>Meet the new Shark PowerDetect Upright Vacuum with features like DuoClean Detect Technology, self-cleaning brush roll and odor neutralizing, and you will be cleaning faster, smarter and better!</desc>
-    <category lang="en">Consumer</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p29966207_b_h10_aa.jpg?w=960&amp;h=540" />
-  </programme><programme channel="AE-USA" start="20260517153000 +0500" stop="20260517160000 +0500">
+  </programme><programme channel="AE-USA" start="20260524153000 +0500" stop="20260524160000 +0500">
     <title>David Jeremiah</title>
     <sub-title />
     <desc>In this weekly program, Dr. David Jeremiah delivers practical messages to the congregation at the Shadow Mountain Community Church in San Diego. Also featured is music from the Shadow Mountain Community Church Choir and Orchestra, as well as performances by musical guests that have included Steve Green and Charles Billingsley. Men and women who have been impacted by the Turning Point ministry also share their stories with viewers. During the month of December, "Turning Point" usually features special Christmas programming.</desc>
@@ -884,14 +1342,15 @@
     </rating><rating system="Australian Classification Board">
       <value>M 15+</value>
     </rating>
-  </programme><programme channel="AE-USA" start="20260517160000 +0500" stop="20260517170000 +0500">
+  </programme><programme channel="AE-USA" start="20260524160000 +0500" stop="20260524170000 +0500">
     <title>Alaska State Troopers</title>
-    <sub-title>The Wild West</sub-title>
-    <desc>State troopers fight crime on Alaska's Seward Peninsula; a female trooper goes after a man wanted on a felony warrant while her trooper husband conducts an interrogation; investigating an incident involving "home brew.".</desc>
-    <episode-num system="onscreen">S1 E3</episode-num>
+    <sub-title>No Way Out</sub-title>
+    <desc>Alaska State Troopers chase a suspect into the woods, apprehend a wanted fugitive and rescue kayakers stranded in the wilderness.</desc>
+    <episode-num system="onscreen">S9 E5</episode-num>
     <credits>
-      <actor>Marc Graue</actor>
-    </credits><date>2009</date>
+      <director>Sean Gottlieb</director>
+      <actor>Jim Cutler</actor>
+    </credits><date>2026</date>
     <category lang="en">Series</category>
     <category lang="en">Reality</category>
     <category lang="en">Documentary</category>
@@ -911,215 +1370,107 @@
       <value>12</value>
     </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
       <value>12</value>
-    </rating>
-  </programme><programme channel="AE-USA" start="20260517170000 +0500" stop="20260517180000 +0500">
-    <title>Alaska State Troopers</title>
-    <sub-title>Arctic Force</sub-title>
-    <desc>Troopers use the Bering Sea as an airstrip to reach one of the most remote villages in America. North of the Arctic Circle, a wildlife trooper patrols his territory. In the Matsu Valley, troopers race against time to prevent a suicide.</desc>
-    <episode-num system="onscreen">S2 E1</episode-num>
-    <credits>
-      <actor>Marc Graue</actor>
-    </credits><date>2011</date>
-    <category lang="en">Series</category>
-    <category lang="en">Reality</category>
-    <category lang="en">Documentary</category>
-    <category lang="en">Crime</category>
-    <category lang="en">Outdoors</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p7828643_b_h8_ai.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating><rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
-      <value>12</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>12</value>
-    </rating>
-  </programme><programme channel="AE-USA" start="20260517180000 +0500" stop="20260517190000 +0500">
-    <title>Alaska State Troopers</title>
-    <sub-title>Grizzly Showdown</sub-title>
-    <desc>Troopers search for a woman lost on the ice, patrol the world's largest fishery, check on the Girdwood's annual party and track a wanted felon.</desc>
-    <episode-num system="onscreen">S3 E1</episode-num>
-    <credits>
-      <actor>Marc Graue</actor>
-    </credits><date>2011</date>
-    <category lang="en">Series</category>
-    <category lang="en">Reality</category>
-    <category lang="en">Documentary</category>
-    <category lang="en">Crime</category>
-    <category lang="en">Outdoors</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p7828643_b_h8_ai.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating><rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
-      <value>12</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>12</value>
-    </rating>
-  </programme><programme channel="AE-USA" start="20260517190000 +0500" stop="20260517200000 +0500">
-    <title>Alaska State Troopers</title>
-    <sub-title>Village Vigilantes</sub-title>
-    <desc>Troopers take to land, air, and snow machine to bring justice to remote regions of Alaska.</desc>
-    <episode-num system="onscreen">S3 E13</episode-num>
-    <credits>
-      <actor>Marc Graue</actor>
-    </credits><date>2012</date>
-    <category lang="en">Series</category>
-    <category lang="en">Reality</category>
-    <category lang="en">Documentary</category>
-    <category lang="en">Crime</category>
-    <category lang="en">Outdoors</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p7828643_b_h8_ai.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating><rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
-      <value>12</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>12</value>
-    </rating>
-  </programme><programme channel="AE-USA" start="20260517200000 +0500" stop="20260517210000 +0500">
-    <title>Alaska State Troopers</title>
-    <sub-title>Knife Fight</sub-title>
-    <desc>A search and rescue call in the Kenai Peninsula; a frantic search for the person responsible for a horrific stabbing.</desc>
-    <episode-num system="onscreen">S4 E1</episode-num>
-    <credits>
-      <actor>Marc Graue</actor>
-    </credits><date>2012</date>
-    <category lang="en">Series</category>
-    <category lang="en">Reality</category>
-    <category lang="en">Documentary</category>
-    <category lang="en">Crime</category>
-    <category lang="en">Outdoors</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p7828643_b_h8_ai.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating><rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
-      <value>12</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>12</value>
-    </rating>
-  </programme><programme channel="AE-USA" start="20260517210000 +0500" stop="20260517220000 +0500">
-    <title>Alaska State Troopers</title>
-    <sub-title>Meth Dealer Manhunt</sub-title>
-    <desc>Officers in Alaska use skills, wit, and guts to bring suspects to justice.</desc>
-    <episode-num system="onscreen">S4 E11</episode-num>
-    <credits>
-      <actor>Marc Graue</actor>
-    </credits><date>2012</date>
-    <category lang="en">Series</category>
-    <category lang="en">Reality</category>
-    <category lang="en">Documentary</category>
-    <category lang="en">Crime</category>
-    <category lang="en">Outdoors</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p7828643_b_h8_ai.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating><rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
-      <value>12</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>12</value>
-    </rating>
-  </programme><programme channel="AE-USA" start="20260517220000 +0500" stop="20260517230000 +0500">
-    <title>Alaska State Troopers</title>
-    <sub-title>Campground Crazies</sub-title>
-    <desc>The State Troopers investigate human-like remains found by campers and patrol the wild Arctic Man festival.</desc>
-    <episode-num system="onscreen">S4 E7</episode-num>
-    <credits>
-      <actor>Marc Graue</actor>
-    </credits><date>2012</date>
-    <category lang="en">Series</category>
-    <category lang="en">Reality</category>
-    <category lang="en">Documentary</category>
-    <category lang="en">Crime</category>
-    <category lang="en">Outdoors</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p7828643_b_h8_ai.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating><rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
-      <value>12</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>12</value>
-    </rating>
-  </programme><programme channel="AE-USA" start="20260517230000 +0500" stop="20260518000000 +0500">
-    <title>Alaska State Troopers</title>
-    <sub-title>Lock'N'Load Neighbors</sub-title>
-    <desc>The Troopers face wintry conditions while pursuing suspects.</desc>
-    <episode-num system="onscreen">S5 E6</episode-num>
-    <credits>
-      <actor>Marc Graue</actor>
-    </credits><date>2013</date>
-    <category lang="en">Series</category>
-    <category lang="en">Reality</category>
-    <category lang="en">Documentary</category>
-    <category lang="en">Crime</category>
-    <category lang="en">Outdoors</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p7828643_b_h8_ai.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating><rating system="Régie du cinéma">
-      <value>13+</value>
     </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
       <value>B</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+    </rating>
+  </programme><programme channel="AE-USA" start="20260524170000 +0500" stop="20260524180000 +0500">
+    <title>Alaska State Troopers</title>
+    <sub-title>Winter Is Coming</sub-title>
+    <desc>In the Mat-su, Halloween brings mayhem as Troopers respond to a roadside meltdown and recover a trove of credit cards in different names; the season's first snowfall causes chaos in Fairbanks and in Nome, Troopers bring in a wanted man as a typhoon moves in.</desc>
+    <episode-num system="onscreen">S9 E9</episode-num>
+    <credits>
+      <actor>Jim Cutler</actor>
+    </credits><date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Outdoors</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p7828643_b_h8_ai.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
       <value>12</value>
     </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
       <value>12</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>12</value>
+    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B</value>
+    </rating>
+  </programme><programme channel="AE-USA" start="20260524180000 +0500" stop="20260524190000 +0500">
+    <title>Alaska State Troopers</title>
+    <sub-title>Lost in the Woods</sub-title>
+    <desc>It's a wild Alaska summer day as troopers locate a naked wolf hunter, track a suspected felon through the woods and respond to an animal hoarder in a remote village just north of the Arctic Circle.</desc>
+    <episode-num system="onscreen">S9 E3</episode-num>
+    <credits>
+      <actor>Jim Cutler</actor>
+    </credits><date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Outdoors</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p7828643_b_h8_ai.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="Régie du cinéma">
+      <value>13+</value>
     </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
       <value>12</value>
-    </rating><rating system="Kijkwijzer">
-      <value>AL</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>12</value>
+    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B</value>
     </rating>
-  </programme><programme channel="AE-USA" start="20260518000000 +0500" stop="20260518010000 +0500">
+  </programme><programme channel="AE-USA" start="20260524190000 +0500" stop="20260524200000 +0500">
     <title>Alaska State Troopers</title>
-    <sub-title>Burning Alaska</sub-title>
-    <desc>An out-of-control wildfire heads straight for Fairbanks, Alaska; evacuating the dangerous area is challenging.</desc>
-    <episode-num system="onscreen">S6 E3</episode-num>
+    <sub-title>Wild and Dangerous</sub-title>
+    <desc>Alaska State Troopers pursue gas thieves, use pepper balls to arrest a barricaded suspect and respond to shots fired in a remote village, showing the risks of policing Alaska's wild terrain.</desc>
+    <episode-num system="onscreen">S9 E2</episode-num>
+    <credits>
+      <actor>Jim Cutler</actor>
+    </credits><date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Outdoors</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p7828643_b_h8_ai.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>12</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>12</value>
+    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B</value>
+    </rating>
+  </programme><programme channel="AE-USA" start="20260524200000 +0500" stop="20260524210000 +0500">
+    <title>Alaska State Troopers</title>
+    <sub-title>Drugged, Drunk, &amp; Deranged</sub-title>
+    <desc>Troopers respond to one call after another, from an apparently aggressive rabbit to a family member involved in a car crash.</desc>
+    <episode-num system="onscreen">S8 E9</episode-num>
     <credits>
       <actor>Marc Graue</actor>
-    </credits><date>2014</date>
+    </credits><date>2015</date>
     <category lang="en">Series</category>
     <category lang="en">Reality</category>
     <category lang="en">Documentary</category>
@@ -1139,125 +1490,100 @@
       <value>12</value>
     </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
       <value>12</value>
+    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>C</value>
     </rating><rating system="Kijkwijzer">
       <value>AL</value>
     </rating>
-  </programme><programme channel="AE-USA" start="20260518010000 +0500" stop="20260518030000 +0500">
-    <title>Biography: WWE Legends</title>
-    <sub-title>Ricky Steamboat</sub-title>
-    <desc>A look at a more personal Ricky, from his humble beginnings as a military brat, unshakable family values, trials and triumphs, all culminating in the legendary bouts that sealed his place as an icon in sports-entertainment history.</desc>
-    <episode-num system="onscreen">S4 E9</episode-num>
-    <date>2024</date>
-    <category lang="en">Series</category>
-    <category lang="en">Documentary</category>
-    <category lang="en">Biography</category>
-    <category lang="en">Pro wrestling</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p20246651_b_h8_an.jpg?w=960&amp;h=540" />
-    <rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-  </programme><programme channel="AE-USA" start="20260518030000 +0500" stop="20260518050000 +0500">
-    <title>Biography: WWE Legends</title>
-    <sub-title>Dusty Rhodes</sub-title>
-    <desc>Growing up in East Austin, Texas, Virgil Riley Runnels, Jr. always had an outsized vision of the possibilities for himself; his iconic rivalry and promos with Ric Flair set the path for an entire industry.</desc>
-    <episode-num system="onscreen">S3 E9</episode-num>
+  </programme><programme channel="AE-USA" start="20260524210000 +0500" stop="20260524220000 +0500">
+    <title>Alaska State Troopers</title>
+    <sub-title>On the Run</sub-title>
+    <desc>Troopers go undercover to bring down a wanted fugitive, arrest a driver who throws drugs out the window during a traffic stop and engage in a high-speed pursuit on city streets.</desc>
+    <episode-num system="onscreen">S9 E6</episode-num>
     <credits>
-      <director>Robert Liano</director>
-    </credits><date>2023</date>
-    <category lang="en">Series</category>
-    <category lang="en">Documentary</category>
-    <category lang="en">Biography</category>
-    <category lang="en">Pro wrestling</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p20246651_b_h8_an.jpg?w=960&amp;h=540" />
-    <rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-  </programme><programme channel="AE-USA" start="20260518050000 +0500" stop="20260518070100 +0500">
-    <title>Biography: WWE Legends</title>
-    <sub-title>Legion of Doom</sub-title>
-    <desc>Joe Laurinaitis and Mike Hegstrand were two young men searching for direction when they crossed paths in suburban Minneapolis in the early 1980s. A chance opportunity led them to become one of pro wrestling's most legendary tag teams, "The Road Warriors," later known as "Legion of Doom." Their journey to fame was marked by loyalty, obstacles and the struggle between one man's family life and the other's battle with addiction.</desc>
-    <episode-num system="onscreen">S5 E4</episode-num>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Documentary</category>
-    <category lang="en">Biography</category>
-    <category lang="en">Pro wrestling</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p20246651_b_h8_an.jpg?w=960&amp;h=540" />
-    <rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-  </programme><programme channel="AE-USA" start="20260518070100 +0500" stop="20260518080400 +0500">
-    <title>WWE LFG</title>
-    <sub-title>Walk on the Wild Side</sub-title>
-    <desc>The Future Greats receive a WrestleMania-sized lesson from Legend Terry Taylor; Zena Sterling struggles to channel her inner fire, and faces a tough dose of reality in the main event, as she squares off with LFG newcomer Chantel Monroe; Bayley Humphrey returns to LFG to take on Nikkita Lyons, while Chris Island &amp; Tate Wilder study a classic match for inspiration.</desc>
-    <episode-num system="onscreen">S3 E4</episode-num>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Reality</category>
-    <category lang="en">Pro wrestling</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p32670518_b_h8_aa.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-  </programme><programme channel="AE-USA" start="20260518080400 +0500" stop="20260518083400 +0500">
-    <title>WWE's Greatest Moments</title>
-    <sub-title>Raw in the 2000s</sub-title>
-    <desc>Monday Night Raw is the longest running episodic television show in history! And in the unpredictable decade of the 2000s, the program was taken to a whole new level. Witness such iconic moments such as The Rock and Hollywood Hogan's electric in-ring confrontation, Kurt Angle delivering milk to "Stone Cold" Steve Austin, Batista's WrestleMania choice, and more!</desc>
-    <episode-num system="onscreen">S3 E7</episode-num>
-    <credits>
-      <actor>Michael Cole</actor>
+      <actor>Jim Cutler</actor>
     </credits><date>2026</date>
     <category lang="en">Series</category>
     <category lang="en">Reality</category>
-    <category lang="en">Pro wrestling</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Outdoors</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p32658050_b_h8_ab.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p7828643_b_h8_ai.jpg?w=960&amp;h=540" />
     <rating system="USA Parental Rating">
       <value>TV14</value>
     </rating><rating system="Canadian Parental Rating">
       <value>14+</value>
+    </rating><rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>12</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>12</value>
+    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B</value>
     </rating>
-  </programme><programme channel="AE-USA" start="20260518083400 +0500" stop="20260518090300 +0500">
-    <title>WWE's Greatest Moments</title>
-    <sub-title>Jake ``The Snake'' Roberts</sub-title>
-    <desc>Known for carrying a live snake with him to the ring, Jake Roberts was not only a vicious competitor, but a true master of the spoken word, delivering some of the most memorable promos during his famed career; relive moments like his partnership with legendary rock music icon Alice Cooper, unleashing his snake onto "Macho Man" Randy Savage, his unforgettable feud with "Ravishing" Rick Rude and so much more.</desc>
-    <episode-num system="onscreen">S3 E8</episode-num>
+  </programme><programme channel="AE-USA" start="20260524220000 +0500" stop="20260524230000 +0500">
+    <title>Alaska State Troopers</title>
+    <sub-title>Cold Truth and Consequences</sub-title>
+    <desc>In the Mat-Su, Troopers catch a runner connected to an alleged Facebook scam and arrest a suspect wanted on murder charges; in Fairbanks, two hunters are caught butchering a moose in a bank drive-thru.</desc>
+    <episode-num system="onscreen">S9 E7</episode-num>
     <credits>
-      <actor>Michael Cole</actor>
+      <actor>Jim Cutler</actor>
     </credits><date>2026</date>
     <category lang="en">Series</category>
     <category lang="en">Reality</category>
-    <category lang="en">Pro wrestling</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Outdoors</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p32658050_b_h8_ab.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p7828643_b_h8_ai.jpg?w=960&amp;h=540" />
     <rating system="USA Parental Rating">
       <value>TV14</value>
     </rating><rating system="Canadian Parental Rating">
       <value>14+</value>
+    </rating><rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>12</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>12</value>
+    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B</value>
+    </rating>
+  </programme><programme channel="AE-USA" start="20260524230000 +0500" stop="20260525000000 +0500">
+    <title>Alaska State Troopers</title>
+    <sub-title>Shots in the Snow</sub-title>
+    <desc>In the Mat-Su, troopers respond to shots fired at winter bonfire and a neighbor dispatching his gun; in Ketchikan, troopers stop a stolen truck.</desc>
+    <episode-num system="onscreen">S9 E10</episode-num>
+    <credits>
+      <actor>Jim Cutler</actor>
+    </credits><date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Outdoors</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p7828643_b_h8_ai.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>12</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>12</value>
+    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B</value>
     </rating>
   </programme>
 </tv>

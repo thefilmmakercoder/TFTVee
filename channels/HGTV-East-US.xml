@@ -1,97 +1,336 @@
 <?xml version='1.0' encoding='utf-8'?>
 <tv>
   <channel id="HGTV-East-US">
+    <icon src="https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/HGTV-East-US.png" />
+    <url>https://tv.thefilmtuition.com</url>
     <display-name>HGTV East</display-name>
-    <icon src="https://thefilmtuition.com/tvlogo/HGTV-East-US.png" />
-  </channel><programme channel="HGTV-East-US" start="20260516073100 +0500" stop="20260516080000 +0500">
-    <title>House Hunters</title>
-    <sub-title>Winding Down From the Windy City</sub-title>
-    <desc>A young family looks to leave Chicago and search for a home in the far-flung suburbs; they're thrilled to gain tons of space, but adjusting to the quirks that come with the suburban real estate market is a challenge.</desc>
-    <episode-num system="onscreen">S227 E1</episode-num>
+  </channel><programme channel="HGTV-East-US" start="20260522220000 +0500" stop="20260522223000 +0500">
+    <title>World's Bargain Dream Homes</title>
+    <sub-title>Panamá Oeste, Panama</sub-title>
+    <desc>After a lifestyle that led to illness in the US, a woman now looks to reset in nature in the Panama Oeste province; with help from her sister and a local real estate expert, she's ready to find an affordable dream home by the beach.</desc>
+    <episode-num system="onscreen">S1 E10</episode-num>
+    <language>en</language>
+  </programme><programme channel="HGTV-East-US" start="20260522223000 +0500" stop="20260522230000 +0500">
+    <title>World's Bargain Dream Homes</title>
+    <sub-title>Carcassonne, France</sub-title>
+    <desc>Deep in the French countryside, a local expert helps a mother and daughter duo hunt bargain properties in Carcassonne; mom's looking to start a new life in a beautiful home and the search includes medieval castles, antique fairs, and some fine cheese.</desc>
+    <episode-num system="onscreen">S1 E7</episode-num>
+    <language>en</language>
+  </programme><programme channel="HGTV-East-US" start="20260522230000 +0500" stop="20260522233000 +0500">
+    <title>World's Bargain Dream Homes</title>
+    <sub-title>Limón, Costa Rica</sub-title>
+    <desc>In the tropical Limón Province of Costa Rica, a Michigan couple seeks a bargain dream home; with a relocation expert's guidance, they explore the area's traditions and local secrets on an insider's tour while hunting for the perfect Caribbean getaway.</desc>
+    <episode-num system="onscreen">S1 E11</episode-num>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Home improvement</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p32524843_b_h8_ab.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+  </programme><programme channel="HGTV-East-US" start="20260522233000 +0500" stop="20260523000000 +0500">
+    <title>World's Bargain Dream Homes</title>
+    <sub-title>Guanacaste, Costa Rica</sub-title>
+    <desc>A relocation expert helps a retired military officer search affordable paradise properties in Guanacaste, Costa Rica.</desc>
+    <episode-num system="onscreen">S1 E9</episode-num>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Home improvement</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p32524843_b_h8_ab.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+  </programme><programme channel="HGTV-East-US" start="20260523000000 +0500" stop="20260523003000 +0500">
+    <title>My Lottery Dream Home</title>
+    <sub-title>Below Dock</sub-title>
+    <desc>A woman is left an inheritance from her parents and decides to honor their memory by buying a generational vacation home on the Emerald Coast; David embarks on a pilgrimage for perfection as he searches for some real waterfront showstoppers.</desc>
+    <episode-num system="onscreen">S16 E4</episode-num>
     <credits>
-      <actor>Andromeda Dunker</actor>
+      <actor>David Bromstad</actor>
+    </credits><date>2024</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">House/garden</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p11547416_b_h8_bl.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>AL</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating><rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating>
+  </programme><programme channel="HGTV-East-US" start="20260523003000 +0500" stop="20260523010000 +0500">
+    <title>My Lottery Dream Home</title>
+    <sub-title>Small Town, Big Dreams</sub-title>
+    <desc>After winning $1 million on a scratcher, a couple is ready to find a home outside their tiny town of Wilmot, Ohio; David Bromstad searches surrounding areas for a home that has a big yard for their grandson and two Jack Russell terriers to enjoy.</desc>
+    <episode-num system="onscreen">S16 E6</episode-num>
+    <credits>
+      <actor>David Bromstad</actor>
+    </credits><date>2024</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">House/garden</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p11547416_b_h8_bl.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>AL</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating><rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating>
+  </programme><programme channel="HGTV-East-US" start="20260523010000 +0500" stop="20260523013000 +0500">
+    <title>My Lottery Dream Home</title>
+    <sub-title>Rolling In It on the Texas Plains</sub-title>
+    <desc>A couple gets set up for life when they win $3.5 million in the Texas lottery; David is enlisted to help find a dream home just outside of Lubbock, Texas; it is perfect for stargazing at night.</desc>
+    <episode-num system="onscreen">S16 E5</episode-num>
+    <credits>
+      <actor>David Bromstad</actor>
+    </credits><date>2024</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">House/garden</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p11547416_b_h8_bl.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>AL</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating><rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating>
+  </programme><programme channel="HGTV-East-US" start="20260523013000 +0500" stop="20260523020000 +0500">
+    <title>My Lottery Dream Home</title>
+    <sub-title>Carolina Beach Legacy House</sub-title>
+    <desc>A couple decide to invest an inheritance in a beach house that can be a legacy home for the entire family; they want something that's quirky and need David's help to search for just the right place in Carolina Beach, N.C.</desc>
+    <episode-num system="onscreen">S13 E6</episode-num>
+    <credits>
+      <actor>David Bromstad</actor>
+    </credits><date>2022</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">House/garden</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p11547416_b_h8_bl.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating><rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>AL</value>
+    </rating>
+  </programme><programme channel="HGTV-East-US" start="20260523020000 +0500" stop="20260523023000 +0500">
+    <title>My Lottery Dream Home</title>
+    <sub-title>A Snowbirder's Florida Haven</sub-title>
+    <desc>Thanks to a family inheritance, a Midwestern couple are ready for the relaxing vibes of central Florida; they're bringing in David to help search for their forever home, and now it's a decision between a golf course view and a relaxing rural outlook.</desc>
+    <episode-num system="onscreen">S13 E9</episode-num>
+    <credits>
+      <actor>David Bromstad</actor>
     </credits><date>2023</date>
     <category lang="en">Series</category>
     <category lang="en">Reality</category>
     <category lang="en">House/garden</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p185405_b_h8_dc.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p11547416_b_h8_bl.jpg?w=960&amp;h=540" />
     <rating system="USA Parental Rating">
       <value>TVG</value>
     </rating><rating system="Canadian Parental Rating">
       <value>G</value>
     </rating><rating system="Régie du cinéma">
       <value>G</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
-    </rating><rating system="Kijkwijzer">
-      <value>AL</value>
     </rating><rating system="Australian Classification Board">
       <value>PG</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>AL</value>
-    </rating>
-  </programme><programme channel="HGTV-East-US" start="20260516080000 +0500" stop="20260516083000 +0500">
-    <title>House Hunters</title>
-    <sub-title>Farmhouse or Craftsman in Columbus, Ohio</sub-title>
-    <desc>Blending their families eight years ago, a couple now looks to make a fresh start after their kids have all moved off to college in Columbus, Ohio; she wants a craftsman in the city, but he's ready for a change of pace with a farmhouse farther out.</desc>
-    <episode-num system="onscreen">S260 E11</episode-num>
-    <credits>
-      <actor>Andromeda Dunker</actor>
-    </credits><date>2025</date>
-    <category lang="en">Series</category>
-    <category lang="en">Reality</category>
-    <category lang="en">House/garden</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p30032482_b_h8_ad.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>G</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
     </rating><rating system="Kijkwijzer">
       <value>AL</value>
-    </rating><rating system="Australian Classification Board">
-      <value>PG</value>
     </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
       <value>AL</value>
-    </rating>
-  </programme><programme channel="HGTV-East-US" start="20260516083000 +0500" stop="20260516090000 +0500">
-    <title>House Hunters</title>
-    <sub-title>Baby Four on the Way</sub-title>
-    <desc>A young couple with three little boys and a baby girl on the way hunt for a large family home in Knoxville, Tennessee. He'd like the ease of a new build, but she loves character and is ready to bring out her DIY skills.</desc>
-    <episode-num system="onscreen">S265 E7</episode-num>
-    <credits>
-      <actor>Andromeda Dunker</actor>
-    </credits><date>2025</date>
-    <category lang="en">Series</category>
-    <category lang="en">Reality</category>
-    <category lang="en">House/garden</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p31179098_b_h8_ac.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>G</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
     </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
       <value>12</value>
-    </rating><rating system="Kijkwijzer">
-      <value>AL</value>
-    </rating><rating system="Australian Classification Board">
-      <value>PG</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>AL</value>
     </rating>
-  </programme><programme channel="HGTV-East-US" start="20260516090000 +0500" stop="20260516093000 +0500">
+  </programme><programme channel="HGTV-East-US" start="20260523023000 +0500" stop="20260523030000 +0500">
     <title>My Lottery Dream Home</title>
-    <sub-title>Mid-Winter in the Mid-West</sub-title>
-    <desc>David braves arctic temperatures to help a couple find a bigger house for their expanding family in the suburbs of Cleveland. They're hoping to find their forever dream home, and David's donning his woolliest wardrobe in the sub-zero search.</desc>
-    <episode-num system="onscreen">S19 E5</episode-num>
+    <sub-title>Tri-State Scratch King</sub-title>
+    <desc>David helps a single dad find a move-in ready home he can enjoy with his 5-year-old son.</desc>
+    <episode-num system="onscreen">S12 E9</episode-num>
+    <credits>
+      <actor>David Bromstad</actor>
+    </credits><date>2022</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">House/garden</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p11547416_b_h8_bl.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating><rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>AL</value>
+    </rating>
+  </programme><programme channel="HGTV-East-US" start="20260523030000 +0500" stop="20260523033000 +0500">
+    <title>My Lottery Dream Home</title>
+    <sub-title>Anything You Want in Vermont</sub-title>
+    <desc>After receiving a family inheritance, ex-Long Island residents now see an opportunity to buy a property in their much-loved Vermont; David steps in and finds character-filled homes full of variety and charm in the breathtaking mountain landscape.</desc>
+    <episode-num system="onscreen">S14 E2</episode-num>
+    <credits>
+      <actor>David Bromstad</actor>
+    </credits><date>2023</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">House/garden</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p11547416_b_h8_bl.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>AL</value>
+    </rating><rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating>
+  </programme><programme channel="HGTV-East-US" start="20260523033000 +0500" stop="20260523040000 +0500">
+    <title>My Lottery Dream Home</title>
+    <sub-title>City Mouse vs. Country Mouse</sub-title>
+    <desc>A couple with a $2 million budget is ready to find their dream home, but she's a city mouse, and her husband prefers the country; unable to reach a decision, they ask David to help find a house with a lot of space for him and bling for her.</desc>
+    <episode-num system="onscreen">S15 E4</episode-num>
+    <credits>
+      <actor>David Bromstad</actor>
+    </credits><date>2024</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">House/garden</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p11547416_b_h8_bl.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>AL</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating><rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating>
+  </programme><programme channel="HGTV-East-US" start="20260523040000 +0500" stop="20260523043000 +0500">
+    <title>My Lottery Dream Home</title>
+    <sub-title>Family Bonds</sub-title>
+    <desc>Siblings inherited money from their late brother, and after finding one a home in Palm Springs, David's ready to help the other locate a place of his own; it's a desert oasis exploration as David hunts for a stunner in the Coachella Valley.</desc>
+    <episode-num system="onscreen">S16 E3</episode-num>
+    <credits>
+      <actor>David Bromstad</actor>
+    </credits><date>2024</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">House/garden</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p11547416_b_h8_bl.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>AL</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating><rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating>
+  </programme><programme channel="HGTV-East-US" start="20260523043000 +0500" stop="20260523050000 +0500">
+    <title>My Lottery Dream Home</title>
+    <sub-title>Palm Springs Heaven</sub-title>
+    <desc>After a $1.6 million Powerball win, a couple's ready to buy a home in their favorite vacation spot in Palm Springs, Calif.; they're ready to splurge, and they're calling on David to find a place their families can gather to carry on traditions.</desc>
+    <episode-num system="onscreen">S17 E14</episode-num>
+    <credits>
+      <actor>David Bromstad</actor>
+    </credits><date>2025</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">House/garden</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p11547416_b_h8_bl.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>AL</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating><rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating>
+  </programme><programme channel="HGTV-East-US" start="20260523050000 +0500" stop="20260523053000 +0500">
+    <title>My Lottery Dream Home</title>
+    <sub-title>Santa Fe Family Home</sub-title>
+    <desc>With the help of an inheritance, a couple and their daughter search for a house upgrade to fit their extended family; David's tasked with finding a place big enough for a teenager, an adult son, and some pets in Santa Fe, New Mexico.</desc>
+    <episode-num system="onscreen">S19 E2</episode-num>
     <credits>
       <actor>David Bromstad</actor>
     </credits><date>2026</date>
@@ -112,12 +351,70 @@
       <value>AL</value>
     </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
       <value>12</value>
+    </rating><rating system="Kijkwijzer">
+      <value>AL</value>
     </rating>
-  </programme><programme channel="HGTV-East-US" start="20260516093000 +0500" stop="20260516100100 +0500">
+  </programme><programme channel="HGTV-East-US" start="20260523053000 +0500" stop="20260523060000 +0500">
+    <title>My Lottery Dream Home</title>
+    <sub-title>The Second Time Around</sub-title>
+    <desc>When a Long Island couple relocates to North Carolina, life takes an unexpected turn; after facing a series of setbacks, a turning point comes with an inheritance from her late mother, a timely windfall that offers them the chance to start over.</desc>
+    <episode-num system="onscreen">S18 E6</episode-num>
+    <credits>
+      <actor>David Bromstad</actor>
+    </credits><date>2025</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">House/garden</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p11547416_b_h8_bl.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>AL</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating><rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating>
+  </programme><programme channel="HGTV-East-US" start="20260523060000 +0500" stop="20260523063000 +0500">
+    <title>My Lottery Dream Home</title>
+    <sub-title>BFF Bonanza</sub-title>
+    <desc>Left with an inheritance, a woman and her husband are ready to find a dream home near friends and family in Richmond, Texas. She's taking her BFF of 50 years along as David searches for a house big enough for all their Grand-chicks to play and stay.</desc>
+    <episode-num system="onscreen">S17 E9</episode-num>
+    <credits>
+      <actor>David Bromstad</actor>
+    </credits><date>2025</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">House/garden</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p11547416_b_h8_bl.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>AL</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating><rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating>
+  </programme><programme channel="HGTV-East-US" start="20260523063000 +0500" stop="20260523070100 +0500">
     <title>Zillow Gone Wild</title>
-    <sub-title>Ranch Dressing</sub-title>
-    <desc>Jack McBrayer searches for wild homes and goes chugga-chuggin' down to a cozy train caboose hideaway; next, he dreams in color at a pastel-painted ranch and stops by a desert dream oasis; only one home can reign supreme!</desc>
-    <episode-num system="onscreen">S3 E3</episode-num>
+    <sub-title>Florida, Man</sub-title>
+    <desc>Jack McBrayer hunts for wildness in Florida and starts with a maritime-themed property with its own shark!; next, he heads to an estate honoring military flight and sees a storybook-shaped home.</desc>
+    <episode-num system="onscreen">S3 E4</episode-num>
     <credits>
       <actor>Jack McBrayer</actor>
     </credits><date>2026</date>
@@ -134,11 +431,11 @@
     </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
       <value>AL</value>
     </rating>
-  </programme><programme channel="HGTV-East-US" start="20260516100100 +0500" stop="20260516103100 +0500">
+  </programme><programme channel="HGTV-East-US" start="20260523070100 +0500" stop="20260523073100 +0500">
     <title>House Hunters</title>
-    <sub-title>Call Me By Your Mortgage</sub-title>
-    <desc>Recently relocating from Rhode Island, an age-gap couple now seeks to buy a home in Orlando, Florida. Both agree on backyard privacy for skinny-dipping, but one wants a fixer while the other prefers a place that's move-in ready.</desc>
-    <episode-num system="onscreen">S274 E15</episode-num>
+    <sub-title>Our Own Worst Enemies</sub-title>
+    <desc>For three years, a couple has fought a tough market, and each other, to buy in their hometown of Berlin, Connecticut. She refuses to settle, and he refuses to spend, so it may take some hard truths to bring them together.</desc>
+    <episode-num system="onscreen">S274 E17</episode-num>
     <credits>
       <actor>Andromeda Dunker</actor>
     </credits><date>2026</date>
@@ -162,19 +459,19 @@
     </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
       <value>AL</value>
     </rating>
-  </programme><programme channel="HGTV-East-US" start="20260516103100 +0500" stop="20260516110000 +0500">
+  </programme><programme channel="HGTV-East-US" start="20260523073100 +0500" stop="20260523080000 +0500">
     <title>House Hunters</title>
-    <sub-title>Winding Down From the Windy City</sub-title>
-    <desc>A young family looks to leave Chicago and search for a home in the far-flung suburbs; they're thrilled to gain tons of space, but adjusting to the quirks that come with the suburban real estate market is a challenge.</desc>
-    <episode-num system="onscreen">S227 E1</episode-num>
+    <sub-title>Competing in Utah</sub-title>
+    <desc>A married couple's on the search for a character home they can make their own in Salt Lake City; both are okay with tackling a renovation, and he's looking for a bungalow that's close to the mountains; she prefers a midcentury fixer near downtown.</desc>
+    <episode-num system="onscreen">S261 E10</episode-num>
     <credits>
       <actor>Andromeda Dunker</actor>
-    </credits><date>2023</date>
+    </credits><date>2025</date>
     <category lang="en">Series</category>
     <category lang="en">Reality</category>
     <category lang="en">House/garden</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p185405_b_h8_dc.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p30032471_b_h8_ac.jpg?w=960&amp;h=540" />
     <rating system="USA Parental Rating">
       <value>TVG</value>
     </rating><rating system="Canadian Parental Rating">
@@ -190,11 +487,39 @@
     </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
       <value>AL</value>
     </rating>
-  </programme><programme channel="HGTV-East-US" start="20260516110000 +0500" stop="20260516113000 +0500">
+  </programme><programme channel="HGTV-East-US" start="20260523080000 +0500" stop="20260523083000 +0500">
     <title>House Hunters</title>
-    <sub-title>Farmhouse or Craftsman in Columbus, Ohio</sub-title>
-    <desc>Blending their families eight years ago, a couple now looks to make a fresh start after their kids have all moved off to college in Columbus, Ohio; she wants a craftsman in the city, but he's ready for a change of pace with a farmhouse farther out.</desc>
-    <episode-num system="onscreen">S260 E11</episode-num>
+    <sub-title>First Home for Philly Doctor</sub-title>
+    <desc>After years of moving around for his medical training, a young doctor is ready to put down roots in Philadelphia, Penn.</desc>
+    <episode-num system="onscreen">S264 E4</episode-num>
+    <credits>
+      <actor>Andromeda Dunker</actor>
+    </credits><date>2025</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">House/garden</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p30250435_b_h8_af.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating><rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating><rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>AL</value>
+    </rating>
+  </programme><programme channel="HGTV-East-US" start="20260523083000 +0500" stop="20260523090000 +0500">
+    <title>House Hunters</title>
+    <sub-title>Dreaming of a Chateau in DC</sub-title>
+    <desc>A couple has outgrown their rental, so they're on the hunt for their first home in the suburbs of Washington, DC; they agree that any place they choose has to work for their dog, but he wants something practical while she prefers chateau-style bling.</desc>
+    <episode-num system="onscreen">S260 E1</episode-num>
     <credits>
       <actor>Andromeda Dunker</actor>
     </credits><date>2025</date>
@@ -218,11 +543,88 @@
     </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
       <value>AL</value>
     </rating>
-  </programme><programme channel="HGTV-East-US" start="20260516113000 +0500" stop="20260516120000 +0500">
+  </programme><programme channel="HGTV-East-US" start="20260523090000 +0500" stop="20260523093000 +0500">
+    <title>My Lottery Dream Home</title>
+    <sub-title>BFF Bonanza</sub-title>
+    <desc>Left with an inheritance, a woman and her husband are ready to find a dream home near friends and family in Richmond, Texas. She's taking her BFF of 50 years along as David searches for a house big enough for all their Grand-chicks to play and stay.</desc>
+    <episode-num system="onscreen">S17 E9</episode-num>
+    <credits>
+      <actor>David Bromstad</actor>
+    </credits><date>2025</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">House/garden</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p11547416_b_h8_bl.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>AL</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating><rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating>
+  </programme><programme channel="HGTV-East-US" start="20260523093000 +0500" stop="20260523100100 +0500">
+    <title>Zillow Gone Wild</title>
+    <sub-title>Florida, Man</sub-title>
+    <desc>Jack McBrayer hunts for wildness in Florida and starts with a maritime-themed property with its own shark!; next, he heads to an estate honoring military flight and sees a storybook-shaped home.</desc>
+    <episode-num system="onscreen">S3 E4</episode-num>
+    <credits>
+      <actor>Jack McBrayer</actor>
+    </credits><date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">House/garden</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p26198800_b_h8_al.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>AL</value>
+    </rating>
+  </programme><programme channel="HGTV-East-US" start="20260523100100 +0500" stop="20260523103100 +0500">
     <title>House Hunters</title>
-    <sub-title>Baby Four on the Way</sub-title>
-    <desc>A young couple with three little boys and a baby girl on the way hunt for a large family home in Knoxville, Tennessee. He'd like the ease of a new build, but she loves character and is ready to bring out her DIY skills.</desc>
-    <episode-num system="onscreen">S265 E7</episode-num>
+    <sub-title>Our Own Worst Enemies</sub-title>
+    <desc>For three years, a couple has fought a tough market, and each other, to buy in their hometown of Berlin, Connecticut. She refuses to settle, and he refuses to spend, so it may take some hard truths to bring them together.</desc>
+    <episode-num system="onscreen">S274 E17</episode-num>
+    <credits>
+      <actor>Andromeda Dunker</actor>
+    </credits><date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">House/garden</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p32322345_b_h8_ab.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating><rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating><rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>AL</value>
+    </rating>
+  </programme><programme channel="HGTV-East-US" start="20260523103100 +0500" stop="20260523110000 +0500">
+    <title>House Hunters</title>
+    <sub-title>Competing in Utah</sub-title>
+    <desc>A married couple's on the search for a character home they can make their own in Salt Lake City; both are okay with tackling a renovation, and he's looking for a bungalow that's close to the mountains; she prefers a midcentury fixer near downtown.</desc>
+    <episode-num system="onscreen">S261 E10</episode-num>
     <credits>
       <actor>Andromeda Dunker</actor>
     </credits><date>2025</date>
@@ -230,7 +632,7 @@
     <category lang="en">Reality</category>
     <category lang="en">House/garden</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p31179098_b_h8_ac.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p30032471_b_h8_ac.jpg?w=960&amp;h=540" />
     <rating system="USA Parental Rating">
       <value>TVG</value>
     </rating><rating system="Canadian Parental Rating">
@@ -246,11 +648,95 @@
     </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
       <value>AL</value>
     </rating>
-  </programme><programme channel="HGTV-East-US" start="20260516120000 +0500" stop="20260516123000 +0500">
+  </programme><programme channel="HGTV-East-US" start="20260523110000 +0500" stop="20260523113000 +0500">
+    <title>House Hunters</title>
+    <sub-title>First Home for Philly Doctor</sub-title>
+    <desc>After years of moving around for his medical training, a young doctor is ready to put down roots in Philadelphia, Penn.</desc>
+    <episode-num system="onscreen">S264 E4</episode-num>
+    <credits>
+      <actor>Andromeda Dunker</actor>
+    </credits><date>2025</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">House/garden</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p30250435_b_h8_af.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating><rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating><rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>AL</value>
+    </rating>
+  </programme><programme channel="HGTV-East-US" start="20260523113000 +0500" stop="20260523120000 +0500">
+    <title>House Hunters</title>
+    <sub-title>Dreaming of a Chateau in DC</sub-title>
+    <desc>A couple has outgrown their rental, so they're on the hunt for their first home in the suburbs of Washington, DC; they agree that any place they choose has to work for their dog, but he wants something practical while she prefers chateau-style bling.</desc>
+    <episode-num system="onscreen">S260 E1</episode-num>
+    <credits>
+      <actor>Andromeda Dunker</actor>
+    </credits><date>2025</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">House/garden</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p30032482_b_h8_ad.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating><rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating><rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>AL</value>
+    </rating>
+  </programme><programme channel="HGTV-East-US" start="20260523120000 +0500" stop="20260523123000 +0500">
     <title>My Lottery Dream Home</title>
-    <sub-title>Lottery Lessons: How to Spend 101</sub-title>
-    <desc>Raising four boys, a single mom has been working three jobs until she won five million on a scratcher; she and one son have been sharing a small apartment, but now David Bromstad arrives to help them find their first home in Winter Haven, Florida.</desc>
-    <episode-num system="onscreen">S18 E12</episode-num>
+    <sub-title>Santa Fe Family Home</sub-title>
+    <desc>With the help of an inheritance, a couple and their daughter search for a house upgrade to fit their extended family; David's tasked with finding a place big enough for a teenager, an adult son, and some pets in Santa Fe, New Mexico.</desc>
+    <episode-num system="onscreen">S19 E2</episode-num>
+    <credits>
+      <actor>David Bromstad</actor>
+    </credits><date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">House/garden</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p32521246_b_h8_ab.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>AL</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating><rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating>
+  </programme><programme channel="HGTV-East-US" start="20260523123000 +0500" stop="20260523130000 +0500">
+    <title>My Lottery Dream Home</title>
+    <sub-title>The Second Time Around</sub-title>
+    <desc>When a Long Island couple relocates to North Carolina, life takes an unexpected turn; after facing a series of setbacks, a turning point comes with an inheritance from her late mother, a timely windfall that offers them the chance to start over.</desc>
+    <episode-num system="onscreen">S18 E6</episode-num>
     <credits>
       <actor>David Bromstad</actor>
     </credits><date>2025</date>
@@ -271,201 +757,311 @@
       <value>AL</value>
     </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
       <value>12</value>
-    </rating>
-  </programme><programme channel="HGTV-East-US" start="20260516123000 +0500" stop="20260516130000 +0500">
-    <title>My Lottery Dream Home</title>
-    <sub-title>A New New Jersey</sub-title>
-    <desc>After receiving a life-changing inheritance, a man is ready to find a New Jersey dream home; he's spent 30 years in Washington, DC, and now he's ready to return to his home state and hopes David can help find his forever home.</desc>
-    <episode-num system="onscreen">S18 E9</episode-num>
-    <credits>
-      <actor>David Bromstad</actor>
-    </credits><date>2025</date>
-    <category lang="en">Series</category>
-    <category lang="en">Reality</category>
-    <category lang="en">House/garden</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p11547416_b_h8_bl.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>G</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="Australian Classification Board">
-      <value>PG</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>AL</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
     </rating><rating system="Kijkwijzer">
       <value>AL</value>
     </rating>
-  </programme><programme channel="HGTV-East-US" start="20260516130000 +0500" stop="20260516133000 +0500">
-    <title>NECTAR TRI-PILLOW -Cooler, Comfy, Better Sleep! Buy One Get One FREE!</title>
-    <sub-title />
-    <desc>Discover the Nectar Tri-Comfort Cooling Pillow for the ultimate sleep experience! Adjustable to three firmness levels to provide customized support and cooling all night long. Order NOW to get a second pillow FREE, plus a 30-night home trial!</desc>
-    <category lang="en">Consumer</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p30176714_b_h8_aa.jpg?w=960&amp;h=540" />
-  </programme><programme channel="HGTV-East-US" start="20260516133000 +0500" stop="20260516140000 +0500">
-    <title>Jane Seymour, Kate Walsh share their skin secrets</title>
-    <sub-title />
-    <desc>Crepe Erase Ultra visibly transforms your skin with 9 super hydrators! Tune in to see how Jane Seymour and Kate Walsh keep their skin so smooth. Treat and repair the look of crepey skin.Shop at CrepeErase.com.</desc>
-    <category lang="en">Consumer</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p22575233_b_h8_aa.jpg?w=960&amp;h=540" />
-  </programme><programme channel="HGTV-East-US" start="20260516140000 +0500" stop="20260516143000 +0500">
+  </programme><programme channel="HGTV-East-US" start="20260523130000 +0500" stop="20260523133000 +0500">
     <title>NEW! Shark PowerDetect with DuoClean Detect Technology</title>
     <sub-title />
     <desc>Meet the new Shark PowerDetect Upright Vacuum with features like DuoClean Detect Technology, self-cleaning brush roll and odor neutralizing, and you will be cleaning faster, smarter and better!</desc>
     <category lang="en">Consumer</category>
     <language>en</language>
     <icon src="http://dtil.tmsimg.com/assets/p29966207_b_h10_aa.jpg?w=960&amp;h=540" />
-  </programme><programme channel="HGTV-East-US" start="20260516143000 +0500" stop="20260516150000 +0500">
-    <title>Have Thinning Hair? Keranique Can Help Regrow Beautiful, Thicker Hair!</title>
+  </programme><programme channel="HGTV-East-US" start="20260523133000 +0500" stop="20260523140000 +0500">
+    <title>Paid Programming</title>
     <sub-title />
-    <desc>If you have thinning hair or hair loss, Keranique can help regrow thicker, longer and fuller hair. Keranique is the number 1 hair regrowth system for women. Regain your confidence with beautiful, thicker and fuller hair in just 3 easy steps!</desc>
+    <desc>Paid programming.</desc>
+    <category lang="en">Consumer</category>
+    <category lang="en">Shopping</category>
+    <category lang="en">Variety</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>A</value>
+    </rating><rating system="Australian Classification Board">
+      <value>G</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>L</value>
+    </rating><rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating>
+  </programme><programme channel="HGTV-East-US" start="20260523140000 +0500" stop="20260523143000 +0500">
+    <title>The Aging Brain</title>
+    <sub-title />
+    <desc>Learn what's behind mental decline with age, and how to improve memory, focus and concentration with NeuroQ's Darrin Peterson and Dale Bredesen MD.</desc>
     <category lang="en">Consumer</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p15918995_b_h10_aa.jpg?w=960&amp;h=540" />
-  </programme><programme channel="HGTV-East-US" start="20260516150000 +0500" stop="20260516160000 +0500">
-    <title>Love It or List It</title>
-    <sub-title>Picture-Perfect Kitchen</sub-title>
-    <desc>A couple compromised on a fixer upper on 1.5 acres near a nice neighborhood; the woman is eager for David to find them a new house with a gourmet kitchen, but the man insists that they can make the house work with Hilary's help.</desc>
-    <episode-num system="onscreen">S15 E1</episode-num>
-    <credits>
-      <actor>Hilary Farr</actor>
-      <actor>David Visentin</actor>
-    </credits><date>2018</date>
+    <icon src="http://dtil.tmsimg.com/assets/p30127108_st_h10_aa.jpg?w=960&amp;h=540" />
+  </programme><programme channel="HGTV-East-US" start="20260523143000 +0500" stop="20260523150000 +0500">
+    <title>NEW! Shark PowerDetect with DuoClean Detect Technology</title>
+    <sub-title />
+    <desc>Meet the new Shark PowerDetect Upright Vacuum with features like DuoClean Detect Technology, self-cleaning brush roll and odor neutralizing, and you will be cleaning faster, smarter and better!</desc>
+    <category lang="en">Consumer</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p29966207_b_h10_aa.jpg?w=960&amp;h=540" />
+  </programme><programme channel="HGTV-East-US" start="20260523150000 +0500" stop="20260523153000 +0500">
+    <title>Mexico Life</title>
+    <sub-title>A New Adventure in Cabo</sub-title>
+    <desc>Now that her two daughters are in college, a single mother from Arizona has decided to live a more adventurous lifestyle in Cabo San Lucas, Mexico.</desc>
+    <episode-num system="onscreen">S2 E9</episode-num>
+    <date>2017</date>
     <category lang="en">Series</category>
-    <category lang="en">Home improvement</category>
+    <category lang="en">Reality</category>
     <category lang="en">House/garden</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p197803_b_h8_ai.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p12405564_b_h8_ak.jpg?w=960&amp;h=540" />
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>AL</value>
+    </rating>
+  </programme><programme channel="HGTV-East-US" start="20260523153000 +0500" stop="20260523160000 +0500">
+    <title>Mexico Life</title>
+    <sub-title>Raising Kids in San Carlos</sub-title>
+    <desc>Single father Art feels he misses out on time with his two kids because of his busy job, so he decides to sell his business in Arizona and relocates to San Carlos, Mexico.</desc>
+    <episode-num system="onscreen">S2 E1</episode-num>
+    <date>2017</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">House/garden</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p12405564_b_h8_ak.jpg?w=960&amp;h=540" />
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>AL</value>
+    </rating>
+  </programme><programme channel="HGTV-East-US" start="20260523160000 +0500" stop="20260523163000 +0500">
+    <title>Mexico Life</title>
+    <sub-title>Teeing Off in San Carlos</sub-title>
+    <desc>Steve, a golf professional from Arizona, fell in love with the stunning scenery in San Carlos during his first visit and wants to help its golf community grow.</desc>
+    <episode-num system="onscreen">S2 E8</episode-num>
+    <date>2017</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">House/garden</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p12405564_b_h8_ak.jpg?w=960&amp;h=540" />
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>AL</value>
+    </rating>
+  </programme><programme channel="HGTV-East-US" start="20260523163000 +0500" stop="20260523170000 +0500">
+    <title>Mexico Life</title>
+    <sub-title>New Life in Nuevo Vallarta</sub-title>
+    <desc>Colorado couple Allison and Gordon look for a property close to the beach in Nuevo Vallarta so they can have 365 days of summer.</desc>
+    <episode-num system="onscreen">S2 E3</episode-num>
+    <date>2017</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">House/garden</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p12405564_b_h8_ak.jpg?w=960&amp;h=540" />
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>AL</value>
+    </rating>
+  </programme><programme channel="HGTV-East-US" start="20260523170000 +0500" stop="20260523173000 +0500">
+    <title>Mexico Life</title>
+    <sub-title>Perfect Weather Winters in Puerto Morelos, Mexico</sub-title>
+    <desc>A young couple goes into business after buying a local bookstore in their favorite vacation spot of Puerto Morelos, Mexico.</desc>
+    <episode-num system="onscreen">S2 E6</episode-num>
+    <date>2017</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">House/garden</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p12405564_b_h8_ak.jpg?w=960&amp;h=540" />
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>AL</value>
+    </rating>
+  </programme><programme channel="HGTV-East-US" start="20260523173000 +0500" stop="20260523180000 +0500">
+    <title>Mexico Life</title>
+    <sub-title>Adventures in Riviera Maya</sub-title>
+    <desc>After 16 cold winters, a Utah couple is ready to leave their ski town for the jungle adventures of Riviera Maya, Mexico; their ideal dream home has a traditional style and is located as close to the beach as possible.</desc>
+    <episode-num system="onscreen">S2 E12</episode-num>
+    <date>2017</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">House/garden</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p12405564_b_h8_ak.jpg?w=960&amp;h=540" />
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>AL</value>
+    </rating>
+  </programme><programme channel="HGTV-East-US" start="20260523180000 +0500" stop="20260523183000 +0500">
+    <title>Bahamas Life</title>
+    <sub-title>A Mermaid's Retreat</sub-title>
+    <desc>A Kentucky couple look for their ideal family retreat in Treasure Cay; they seek a place directly on the ocean that is large enough to accommodate their family and visiting guests.</desc>
+    <episode-num system="onscreen">S4 E14</episode-num>
+    <credits>
+      <actor>Candice Knihnitski</actor>
+    </credits><date>2020</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">House/garden</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p14913489_b_h8_ag.jpg?w=960&amp;h=540" />
     <rating system="Régie du cinéma">
       <value>G</value>
     </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Australian Classification Board">
       <value>G</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TVG</value>
     </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
       <value>12</value>
     </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
       <value>AL</value>
+    </rating><rating system="Kijkwijzer">
+      <value>AL</value>
     </rating>
-  </programme><programme channel="HGTV-East-US" start="20260516160000 +0500" stop="20260516170000 +0500">
-    <title>Love It or List It</title>
-    <sub-title>A Hole-in-One Location</sub-title>
-    <desc>A couple fall in love with a home in a coveted family-friendly community near a golf course and hastily purchase it before they even start a family; three kids later, she decides the dated house cannot accommodate their busy family.</desc>
-    <episode-num system="onscreen">S15 E3</episode-num>
+  </programme><programme channel="HGTV-East-US" start="20260523183000 +0500" stop="20260523190000 +0500">
+    <title>Bahamas Life</title>
+    <sub-title>All In</sub-title>
+    <desc>A Floridian couple decides to sell everything and move to Exuma; having built and sold a successful tourism business, these outdoor enthusiasts are ready for their next adventure.</desc>
+    <episode-num system="onscreen">S4 E4</episode-num>
     <credits>
-      <actor>Hilary Farr</actor>
-      <actor>David Visentin</actor>
-    </credits><date>2018</date>
+      <actor>Candice Knihnitski</actor>
+    </credits><date>2020</date>
     <category lang="en">Series</category>
-    <category lang="en">Home improvement</category>
+    <category lang="en">Reality</category>
     <category lang="en">House/garden</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p197803_b_h8_ai.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p14913489_b_h8_ag.jpg?w=960&amp;h=540" />
     <rating system="Régie du cinéma">
       <value>G</value>
     </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Australian Classification Board">
-      <value>G</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>AL</value>
-    </rating>
-  </programme><programme channel="HGTV-East-US" start="20260516170000 +0500" stop="20260516180000 +0500">
-    <title>Love It or List It</title>
-    <sub-title>Right-Size Ranch Reno</sub-title>
-    <desc>Five years in, Aaron is still in love with the location while Jessica's priorities have changed; with a new baby in the mix, the once sufficient square footage is now feeling tight.</desc>
-    <episode-num system="onscreen">S17 E2</episode-num>
-    <credits>
-      <actor>Hilary Farr</actor>
-      <actor>David Visentin</actor>
-    </credits><date>2020</date>
-    <category lang="en">Series</category>
-    <category lang="en">Home improvement</category>
-    <category lang="en">House/garden</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p197803_b_h8_ai.jpg?w=960&amp;h=540" />
-    <rating system="Australian Classification Board">
-      <value>PG</value>
-    </rating><rating system="Régie du cinéma">
       <value>G</value>
     </rating><rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
+      <value>TVG</value>
     </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
       <value>12</value>
     </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
       <value>AL</value>
+    </rating><rating system="Kijkwijzer">
+      <value>AL</value>
     </rating>
-  </programme><programme channel="HGTV-East-US" start="20260516180000 +0500" stop="20260516190000 +0500">
-    <title>Love It or List It</title>
-    <sub-title>No Love for the Land</sub-title>
-    <desc>Katherine reluctantly agreed to move into Tyler's well-established bachelor pad after getting married; while Tyler and their son Liam are in outdoor heaven, Katherine is not feeling the love for the inside of their house.</desc>
-    <episode-num system="onscreen">S17 E3</episode-num>
+  </programme><programme channel="HGTV-East-US" start="20260523190000 +0500" stop="20260523193000 +0500">
+    <title>Bahamas Life</title>
+    <sub-title>Making Every Day Count</sub-title>
+    <desc>A professional couple seeks to escape their hectic lives in Virginia and find a quiet retreat on Eleuthera; they're looking for a place with little to no maintenance with a pool and an ocean view.</desc>
+    <episode-num system="onscreen">S4 E8</episode-num>
     <credits>
-      <actor>Hilary Farr</actor>
-      <actor>David Visentin</actor>
+      <actor>Candice Knihnitski</actor>
     </credits><date>2020</date>
     <category lang="en">Series</category>
-    <category lang="en">Home improvement</category>
+    <category lang="en">Reality</category>
     <category lang="en">House/garden</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p197803_b_h8_ai.jpg?w=960&amp;h=540" />
-    <rating system="Australian Classification Board">
-      <value>PG</value>
-    </rating><rating system="Régie du cinéma">
+    <icon src="http://dtil.tmsimg.com/assets/p14913489_b_h8_ag.jpg?w=960&amp;h=540" />
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="Canadian Parental Rating">
       <value>G</value>
     </rating><rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
+      <value>TVG</value>
     </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
       <value>12</value>
     </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
       <value>AL</value>
+    </rating><rating system="Kijkwijzer">
+      <value>AL</value>
     </rating>
-  </programme><programme channel="HGTV-East-US" start="20260516190000 +0500" stop="20260516200000 +0500">
-    <title>Love It or List It</title>
-    <sub-title>1970s Drab to Fab</sub-title>
-    <desc>A busy family life has taken priority over updating a 1970s home; Mom is ready to find a newer, open concept home, but Dad is not ready to give up on their original one.</desc>
-    <episode-num system="onscreen">S17 E4</episode-num>
+  </programme><programme channel="HGTV-East-US" start="20260523193000 +0500" stop="20260523200000 +0500">
+    <title>Bahamas Life</title>
+    <sub-title>All About That Boat</sub-title>
+    <desc>Empty nesters seek to make Bimini a permanent part of their lives; they're looking for a home that's great for entertaining and space for their boat, but satisfying everything on their wish list will be a challenge.</desc>
+    <episode-num system="onscreen">S4 E7</episode-num>
     <credits>
-      <actor>Hilary Farr</actor>
-      <actor>David Visentin</actor>
+      <actor>Candice Knihnitski</actor>
     </credits><date>2020</date>
     <category lang="en">Series</category>
-    <category lang="en">Home improvement</category>
+    <category lang="en">Reality</category>
     <category lang="en">House/garden</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p197803_b_h8_ai.jpg?w=960&amp;h=540" />
-    <rating system="Australian Classification Board">
-      <value>PG</value>
-    </rating><rating system="Régie du cinéma">
+    <icon src="http://dtil.tmsimg.com/assets/p14913489_b_h8_ag.jpg?w=960&amp;h=540" />
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="Canadian Parental Rating">
       <value>G</value>
     </rating><rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
+      <value>TVG</value>
     </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
       <value>12</value>
     </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
       <value>AL</value>
+    </rating><rating system="Kijkwijzer">
+      <value>AL</value>
     </rating>
-  </programme><programme channel="HGTV-East-US" start="20260516200000 +0500" stop="20260516213000 +0500">
+  </programme><programme channel="HGTV-East-US" start="20260523200000 +0500" stop="20260523203000 +0500">
+    <title>Bahamas Life</title>
+    <sub-title>Home Away From Home</sub-title>
+    <desc>A young South Carolina family looks for a semipermanent home in Hope Town on Elbow Cay; they seek a place with outdoor space for their kids, and he wants a property with easy water access for a boat.</desc>
+    <episode-num system="onscreen">S4 E13</episode-num>
+    <credits>
+      <actor>Candice Knihnitski</actor>
+    </credits><date>2020</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">House/garden</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p14913489_b_h8_ag.jpg?w=960&amp;h=540" />
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>AL</value>
+    </rating><rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating>
+  </programme><programme channel="HGTV-East-US" start="20260523203000 +0500" stop="20260523220000 +0500">
     <title>Rock the Block</title>
-    <sub-title>Great Reasons To Be Mad</sub-title>
-    <desc>In Week Five, the teams conquer the largest space in the house: the RV garage!; these massive blank canvases let the creativity flow as they take big risks in hopes of getting a win; Luann de Lesseps arrives to judge their incredible work.</desc>
-    <episode-num system="onscreen">S7 E5</episode-num>
+    <sub-title>Sometimes Size Matters</sub-title>
+    <desc>Teams kick off Week Six by heading outside to renovate their backyards; with a spin of the roulette wheel, each wins a swimming pool to create their own Vegas oasis; former NFL great Danny Amendola arrives to determine who made the right moves.</desc>
+    <episode-num system="onscreen">S7 E6</episode-num>
     <credits>
       <director>Scott Farquharson</director>
       <director>David Ortkiese</director>
@@ -494,74 +1090,48 @@
     </rating><rating system="방송통신심의위원회">
       <value>15</value>
     </rating>
-  </programme><programme channel="HGTV-East-US" start="20260516213000 +0500" stop="20260516220000 +0500">
-    <title>Zillow Gone Wild</title>
-    <sub-title>Back to the Wild</sub-title>
-    <desc>Jack McBrayer is back on the road to find wild homes around; he kicks things off at a house with a 727 airplane inside, and later, he explores a pink time capsule-esque penthouse.</desc>
-    <episode-num system="onscreen">S3 E1</episode-num>
-    <credits>
-      <actor>Jack McBrayer</actor>
-    </credits><date>2026</date>
+  </programme><programme channel="HGTV-East-US" start="20260523220000 +0500" stop="20260523230000 +0500">
+    <title>Property Brothers: Under Pressure</title>
+    <sub-title>His Past, Their Future</sub-title>
+    <desc>A Los Angeles couple inherits a home that could solve their housing issues, except it's where he raised his children with his ex-wife; they're calling on Jonathan and Drew to help decide whether to make this house work or find one to claim together.</desc>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <date>2026</date>
     <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">Home improvement</category>
     <category lang="en">House/garden</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p26198800_b_h8_al.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p32322427_b_h8_aa.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="HGTV-East-US" start="20260523230000 +0500" stop="20260524000000 +0500">
+    <title>Property Brothers: Under Pressure</title>
+    <sub-title>Pooling for a Place</sub-title>
+    <desc>Shelly-Ann and her mom Umilta are pooling their resources to buy a home together, tying their finances and daily lives to one major decision.</desc>
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <credits>
+      <actor>Drew Scott</actor>
+      <actor>Jonathan Silver Scott</actor>
+    </credits><date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">Home improvement</category>
+    <category lang="en">House/garden</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p32322427_b_h8_aa.jpg?w=960&amp;h=540" />
     <rating system="USA Parental Rating">
       <value>TVPG</value>
     </rating><rating system="Canadian Parental Rating">
       <value>G</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>AL</value>
     </rating>
-  </programme><programme channel="HGTV-East-US" start="20260516220000 +0500" stop="20260516223000 +0500">
-    <title>Zillow Gone Wild</title>
-    <sub-title>The Bold and the Bunker</sub-title>
-    <desc>Jack McBrayer is back on the hunt to find wild homes!; his journey takes him to resurrected ruins of a desert ghost town, a concrete castle in the mountains, and a home that's mostly black and white.</desc>
-    <episode-num system="onscreen">S3 E2</episode-num>
-    <credits>
-      <actor>Jack McBrayer</actor>
-    </credits><date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">House/garden</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p26198800_b_h8_al.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>G</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>AL</value>
-    </rating>
-  </programme><programme channel="HGTV-East-US" start="20260516223000 +0500" stop="20260516230000 +0500">
-    <title>Zillow Gone Wild</title>
-    <sub-title>Ranch Dressing</sub-title>
-    <desc>Jack McBrayer searches for wild homes and goes chugga-chuggin' down to a cozy train caboose hideaway; next, he dreams in color at a pastel-painted ranch and stops by a desert dream oasis; only one home can reign supreme!</desc>
-    <episode-num system="onscreen">S3 E3</episode-num>
-    <credits>
-      <actor>Jack McBrayer</actor>
-    </credits><date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">House/garden</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p26198800_b_h8_al.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>G</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>AL</value>
-    </rating>
-  </programme><programme channel="HGTV-East-US" start="20260516230000 +0500" stop="20260516233000 +0500">
+  </programme><programme channel="HGTV-East-US" start="20260524000000 +0500" stop="20260524003000 +0500">
     <title>House Hunters</title>
-    <sub-title>Moving Up in North Tampa</sub-title>
-    <desc>After years of hard work, a couple look to trade up for a more spacious home in the Tampa area; she wants a place that's sleek and modern, but he prefers something bright that reminds him of the Caribbean.</desc>
-    <episode-num system="onscreen">S230 E6</episode-num>
+    <sub-title>Home on the Water in Honolulu</sub-title>
+    <desc>After living in Seattle, a couple is ready for a home on the water in Honolulu; he wants to be close to the action in a walkable neighborhood, but with her mom and dog in tow, she wants a house with outdoor space that will accommodate everyone.</desc>
+    <episode-num system="onscreen">S238</episode-num>
     <credits>
       <actor>Andromeda Dunker</actor>
     </credits><date>2023</date>
@@ -585,207 +1155,11 @@
     </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
       <value>AL</value>
     </rating>
-  </programme><programme channel="HGTV-East-US" start="20260516233000 +0500" stop="20260517000000 +0500">
+  </programme><programme channel="HGTV-East-US" start="20260524003000 +0500" stop="20260524010000 +0500">
     <title>House Hunters</title>
-    <sub-title>Country Mouse vs. Uptown Girl</sub-title>
-    <desc>For their next home in Philadelphia, a married couple looks for a place big enough to start a family. He aspires to be a stay-at-home dad and wants space in the suburbs, but she prefers to find a townhouse in the city.</desc>
-    <episode-num system="onscreen">S274 E14</episode-num>
-    <credits>
-      <actor>Andromeda Dunker</actor>
-    </credits><date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Reality</category>
-    <category lang="en">House/garden</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p32322345_b_h8_ab.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>G</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
-    </rating><rating system="Kijkwijzer">
-      <value>AL</value>
-    </rating><rating system="Australian Classification Board">
-      <value>PG</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>AL</value>
-    </rating>
-  </programme><programme channel="HGTV-East-US" start="20260517000000 +0500" stop="20260517003000 +0500">
-    <title>House Hunters</title>
-    <sub-title>Nesting on Overdrive</sub-title>
-    <desc>An expecting couple searches for a home in Minneapolis; she's looking for a unique nest for their first baby and wants to build it herself, but he prefers something calm and a place that's move-in ready.</desc>
-    <episode-num system="onscreen">S269 E8</episode-num>
-    <credits>
-      <actor>Andromeda Dunker</actor>
-    </credits><date>2025</date>
-    <category lang="en">Series</category>
-    <category lang="en">Reality</category>
-    <category lang="en">House/garden</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p30568681_b_h8_ad.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>G</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
-    </rating><rating system="Kijkwijzer">
-      <value>AL</value>
-    </rating><rating system="Australian Classification Board">
-      <value>PG</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>AL</value>
-    </rating>
-  </programme><programme channel="HGTV-East-US" start="20260517003000 +0500" stop="20260517010000 +0500">
-    <title>House Hunters</title>
-    <sub-title>He Ain't Afraid of No Ghosts</sub-title>
-    <desc>A young couple expecting twins is looking for an upgrade from their current condo in Los Angeles. He's looking for a place with charm and history, but she's terrified that anything old might be haunted and prefers something easy and new.</desc>
-    <episode-num system="onscreen">S273 E16</episode-num>
-    <credits>
-      <actor>Andromeda Dunker</actor>
-    </credits><date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Reality</category>
-    <category lang="en">House/garden</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p32322319_b_h8_aa.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>G</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
-    </rating><rating system="Kijkwijzer">
-      <value>AL</value>
-    </rating><rating system="Australian Classification Board">
-      <value>PG</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>AL</value>
-    </rating>
-  </programme><programme channel="HGTV-East-US" start="20260517010000 +0500" stop="20260517013000 +0500">
-    <title>House Hunters</title>
-    <sub-title>Barns Are for People, Too</sub-title>
-    <desc>A mother and daughter duo looks for their next horse property on Kitsap Peninsula, Washington. Mom wants a place that's fully updated, but her daughter prefers a larger property and doesn't mind projects.</desc>
-    <episode-num system="onscreen">S274 E8</episode-num>
-    <credits>
-      <actor>Andromeda Dunker</actor>
-    </credits><date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Reality</category>
-    <category lang="en">House/garden</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p32322345_b_h8_ab.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>G</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
-    </rating><rating system="Kijkwijzer">
-      <value>AL</value>
-    </rating><rating system="Australian Classification Board">
-      <value>PG</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>AL</value>
-    </rating>
-  </programme><programme channel="HGTV-East-US" start="20260517013000 +0500" stop="20260517020000 +0500">
-    <title>House Hunters</title>
-    <sub-title>Fixers are Triggering</sub-title>
-    <desc>After a bad experience with a fixer years ago, a couple's back in the market for a home in the North Dallas suburbs. She wants to try it again with something low-priced that she can make into her dream home, but he prefers modern and move-in ready.</desc>
-    <episode-num system="onscreen">S270</episode-num>
-    <credits>
-      <actor>Andromeda Dunker</actor>
-    </credits><date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Reality</category>
-    <category lang="en">House/garden</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p32322315_b_h8_aa.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>G</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
-    </rating><rating system="Kijkwijzer">
-      <value>AL</value>
-    </rating><rating system="Australian Classification Board">
-      <value>PG</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>AL</value>
-    </rating>
-  </programme><programme channel="HGTV-East-US" start="20260517020000 +0500" stop="20260517023000 +0500">
-    <title>House Hunters</title>
-    <sub-title>Young Parents in Chicago</sub-title>
-    <desc>Young parents look to buy a larger home for their family in Chicago; he loves the historic houses he saw while traveling in Europe and wants a vintage charmer, but she prefers something modern that's move-in ready.</desc>
-    <episode-num system="onscreen">S259 E3</episode-num>
-    <credits>
-      <actor>Andromeda Dunker</actor>
-    </credits><date>2025</date>
-    <category lang="en">Series</category>
-    <category lang="en">Reality</category>
-    <category lang="en">House/garden</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p29663500_b_h8_ac.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>G</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
-    </rating><rating system="Kijkwijzer">
-      <value>AL</value>
-    </rating><rating system="Australian Classification Board">
-      <value>PG</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>AL</value>
-    </rating>
-  </programme><programme channel="HGTV-East-US" start="20260517023000 +0500" stop="20260517030000 +0500">
-    <title>House Hunters</title>
-    <sub-title>Buy Me Maybe</sub-title>
-    <desc>A couple living in a small NYC apartment looks for more space in Wilmington, Delaware. She has nine months left to finish a dental residency, and he thinks it's too soon to buy, but she may be ready to pull the trigger if they find the right charmer.</desc>
-    <episode-num system="onscreen">S274 E10</episode-num>
-    <credits>
-      <actor>Andromeda Dunker</actor>
-    </credits><date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Reality</category>
-    <category lang="en">House/garden</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p32322345_b_h8_ab.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>G</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
-    </rating><rating system="Kijkwijzer">
-      <value>AL</value>
-    </rating><rating system="Australian Classification Board">
-      <value>PG</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>AL</value>
-    </rating>
-  </programme><programme channel="HGTV-East-US" start="20260517030000 +0500" stop="20260517033000 +0500">
-    <title>House Hunters</title>
-    <sub-title>A Home of Her Own in San Francisco</sub-title>
-    <desc>An ICU nurse has worked shift after shift to be able to afford a place in pricey San Francisco; she's focused on aesthetics, but her mom's along on the search to make sure she keeps practical concerns in mind considering the area's expensive market.</desc>
-    <episode-num system="onscreen">S227 E7</episode-num>
+    <sub-title>A Marine Family</sub-title>
+    <desc>After 20 years in the military, a retired Marine and his wife search for an oceanfront home that will fit their family of nine in Topsail, North Carolina. She wants to be right on the water, but he's willing to sacrifice convenience to stay on budget.</desc>
+    <episode-num system="onscreen">S237</episode-num>
     <credits>
       <actor>Andromeda Dunker</actor>
     </credits><date>2023</date>
@@ -809,11 +1183,179 @@
     </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
       <value>AL</value>
     </rating>
-  </programme><programme channel="HGTV-East-US" start="20260517033000 +0500" stop="20260517040000 +0500">
+  </programme><programme channel="HGTV-East-US" start="20260524010000 +0500" stop="20260524013000 +0500">
     <title>House Hunters</title>
-    <sub-title>Abandonment Issues in Phoenix</sub-title>
-    <desc>A Phoenix native looks to move back to his hometown to be closer to family. He wants a home that's small and manageable, but his partner in Chicago plans to split his time between the two cities, and he prefers a larger place where he can host.</desc>
-    <episode-num system="onscreen">S271 E39</episode-num>
+    <sub-title>All Water Access in Arizona</sub-title>
+    <desc>A California couple searches for a laid-back waterfront lifestyle in Parker, Ariz.; they have a huge extended family, including a grandson, so their biggest concern is accommodating a crowd while enjoying all the amenities the water has to offer.</desc>
+    <episode-num system="onscreen">S237</episode-num>
+    <credits>
+      <actor>Andromeda Dunker</actor>
+    </credits><date>2023</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">House/garden</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p185405_b_h8_dc.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating><rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating><rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>AL</value>
+    </rating>
+  </programme><programme channel="HGTV-East-US" start="20260524013000 +0500" stop="20260524020000 +0500">
+    <title>House Hunters</title>
+    <sub-title>Go Big or Go Boat</sub-title>
+    <desc>A couple searches for a waterfront home with a dock that's big enough for their extended family to visit in Gulf Shores, Alabama; with limited inventory, they'll have to consider spending more to get everything they want, or compromise on space.</desc>
+    <episode-num system="onscreen">S238</episode-num>
+    <credits>
+      <actor>Andromeda Dunker</actor>
+    </credits><date>2023</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">House/garden</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p185405_b_h8_dc.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating><rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating><rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>AL</value>
+    </rating>
+  </programme><programme channel="HGTV-East-US" start="20260524020000 +0500" stop="20260524023000 +0500">
+    <title>House Hunters</title>
+    <sub-title>Looking for High Ground in Hilo</sub-title>
+    <desc>A new job ups a couple's timeline for a permanent move to Hilo, Hawaii; one dreams of beachfront living, but the other has safety concerns when it comes to the very real risk of tsunamis.</desc>
+    <episode-num system="onscreen">S233</episode-num>
+    <credits>
+      <actor>Andromeda Dunker</actor>
+    </credits><date>2023</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">House/garden</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p185405_b_h8_dc.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating><rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating><rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>AL</value>
+    </rating>
+  </programme><programme channel="HGTV-East-US" start="20260524023000 +0500" stop="20260524030000 +0500">
+    <title>House Hunters</title>
+    <sub-title>Girl Dad Goes to Florida</sub-title>
+    <desc>A New Jersey couple is ready to leave cold winters behind and make the move to Orlando, Fla.; with a toddler in tow and another baby girl on the way, the couple is on a tight deadline to find the waterfront home of their dreams.</desc>
+    <episode-num system="onscreen">S234</episode-num>
+    <credits>
+      <actor>Andromeda Dunker</actor>
+    </credits><date>2023</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">House/garden</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p185405_b_h8_dc.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating><rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating><rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>AL</value>
+    </rating>
+  </programme><programme channel="HGTV-East-US" start="20260524030000 +0500" stop="20260524033000 +0500">
+    <title>House Hunters</title>
+    <sub-title>From Rain to Remote Living in Costa Rica</sub-title>
+    <desc>A couple's ready to relocate from a rainy Vancouver to a waterfront home in Guanacaste, Costa Rica; they're looking for easy ocean access, and he wants something modern that's near town, but she prefers a place with Spanish style that's more remote.</desc>
+    <episode-num system="onscreen">S271 E12</episode-num>
+    <credits>
+      <actor>Andromeda Dunker</actor>
+    </credits><date>2025</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">House/garden</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p31307683_b_h8_ai.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating><rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating><rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>AL</value>
+    </rating>
+  </programme><programme channel="HGTV-East-US" start="20260524033000 +0500" stop="20260524040000 +0500">
+    <title>House Hunters</title>
+    <sub-title>A Remote Water Home in Rangeley, Maine</sub-title>
+    <desc>Busy professionals and parents search for a remote waterfront home in Rangeley, Maine; he longs to be beyond the reach of cell service so he can truly relax, but she's more concerned about wild animals and easy access for their two young daughters.</desc>
+    <episode-num system="onscreen">S271 E16</episode-num>
+    <credits>
+      <actor>Andromeda Dunker</actor>
+    </credits><date>2025</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">House/garden</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p31307683_b_h8_ai.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating><rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating><rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>AL</value>
+    </rating>
+  </programme><programme channel="HGTV-East-US" start="20260524040000 +0500" stop="20260524043000 +0500">
+    <title>House Hunters</title>
+    <sub-title>From RV to Oceanfront in Flagler Beach, Florida</sub-title>
+    <desc>After years of RV Florida vacations, a couple's ready for a full-time home on Flagler Beach. They both want a place that's right on the beach, and he's after something modern with a big garage, but she prefers a more traditional house.</desc>
+    <episode-num system="onscreen">S271 E41</episode-num>
     <credits>
       <actor>Andromeda Dunker</actor>
     </credits><date>2026</date>
@@ -837,67 +1379,11 @@
     </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
       <value>AL</value>
     </rating>
-  </programme><programme channel="HGTV-East-US" start="20260517040000 +0500" stop="20260517043000 +0500">
+  </programme><programme channel="HGTV-East-US" start="20260524043000 +0500" stop="20260524050000 +0500">
     <title>House Hunters</title>
-    <sub-title>Queen of Connecticut</sub-title>
-    <desc>A buyer has worked hard to clean up her credit and is ready to find a home for herself and her fiancé in Connecticut; she's determined to get a raised ranch with the kitchen of her dreams, but he prefers the wood details of a craftsman-style house.</desc>
-    <episode-num system="onscreen">S233 E12</episode-num>
-    <credits>
-      <actor>Andromeda Dunker</actor>
-    </credits><date>2023</date>
-    <category lang="en">Series</category>
-    <category lang="en">Reality</category>
-    <category lang="en">House/garden</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p185405_b_h8_dc.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>G</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
-    </rating><rating system="Kijkwijzer">
-      <value>AL</value>
-    </rating><rating system="Australian Classification Board">
-      <value>PG</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>AL</value>
-    </rating>
-  </programme><programme channel="HGTV-East-US" start="20260517043000 +0500" stop="20260517050000 +0500">
-    <title>House Hunters</title>
-    <sub-title>Dream Home Near Lake Michigan</sub-title>
-    <desc>Buyers can finally afford to purchase property after moving from New York City to the Grand Rapids area near Lake Michigan; one wants to play it safe with a smaller and cheaper home, but the other wants to spend big for a large house by the lake.</desc>
-    <episode-num system="onscreen">S240 E4</episode-num>
-    <credits>
-      <actor>Andromeda Dunker</actor>
-    </credits><date>2023</date>
-    <category lang="en">Series</category>
-    <category lang="en">Reality</category>
-    <category lang="en">House/garden</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p185405_b_h8_dc.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>G</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
-    </rating><rating system="Kijkwijzer">
-      <value>AL</value>
-    </rating><rating system="Australian Classification Board">
-      <value>PG</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>AL</value>
-    </rating>
-  </programme><programme channel="HGTV-East-US" start="20260517050000 +0500" stop="20260517053000 +0500">
-    <title>House Hunters</title>
-    <sub-title>A Mulligan in Michigan</sub-title>
-    <desc>A Michigan couple has been living in his house from a previous marriage; after 15 years, she's ready for a new place; she wants a fresh start in a home; he prefers a modern Colonial and thinks they should consider downsizing.</desc>
-    <episode-num system="onscreen">S264 E12</episode-num>
+    <sub-title>Loving Real Estate in Lake Elsinore, California</sub-title>
+    <desc>After relocating their business, real estate professionals search for a new home in Lake Elsinore, Calif.; they're looking for an active lifestyle and waterfront views; but finding a place that's best for both work and family may be a challenge.</desc>
+    <episode-num system="onscreen">S271 E15</episode-num>
     <credits>
       <actor>Andromeda Dunker</actor>
     </credits><date>2025</date>
@@ -905,7 +1391,7 @@
     <category lang="en">Reality</category>
     <category lang="en">House/garden</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p30250435_b_h8_af.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p31307683_b_h8_ai.jpg?w=960&amp;h=540" />
     <rating system="USA Parental Rating">
       <value>TVG</value>
     </rating><rating system="Canadian Parental Rating">
@@ -921,95 +1407,11 @@
     </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
       <value>AL</value>
     </rating>
-  </programme><programme channel="HGTV-East-US" start="20260517053000 +0500" stop="20260517060000 +0500">
+  </programme><programme channel="HGTV-East-US" start="20260524050000 +0500" stop="20260524053000 +0500">
     <title>House Hunters</title>
-    <sub-title>Leaving Winter Behind in Florida</sub-title>
-    <desc>A couple decides to leave New Jersey and relocate with their four kids to sunny Boca Raton, Fla.; she wants a home with a Mediterranean vibe, but he's after something that's more modern.</desc>
-    <episode-num system="onscreen">S242 E3</episode-num>
-    <credits>
-      <actor>Andromeda Dunker</actor>
-    </credits><date>2023</date>
-    <category lang="en">Series</category>
-    <category lang="en">Reality</category>
-    <category lang="en">House/garden</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p185405_b_h8_dc.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>G</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
-    </rating><rating system="Kijkwijzer">
-      <value>AL</value>
-    </rating><rating system="Australian Classification Board">
-      <value>PG</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>AL</value>
-    </rating>
-  </programme><programme channel="HGTV-East-US" start="20260517060000 +0500" stop="20260517063000 +0500">
-    <title>House Hunters</title>
-    <sub-title>Young Buyer Wants a Project in Vermont</sub-title>
-    <desc>A twenty-something amateur woodworker wants to take on a project for her first home in Burlington, Vt.; her best friend is worried she'll get in over her head and hopes to steer her toward something more updated.</desc>
-    <episode-num system="onscreen">S242 E9</episode-num>
-    <credits>
-      <actor>Andromeda Dunker</actor>
-    </credits><date>2023</date>
-    <category lang="en">Series</category>
-    <category lang="en">Reality</category>
-    <category lang="en">House/garden</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p185405_b_h8_dc.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>G</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
-    </rating><rating system="Kijkwijzer">
-      <value>AL</value>
-    </rating><rating system="Australian Classification Board">
-      <value>PG</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>AL</value>
-    </rating>
-  </programme><programme channel="HGTV-East-US" start="20260517063000 +0500" stop="20260517070000 +0500">
-    <title>House Hunters</title>
-    <sub-title>Large Home for Six Kids and Eight Pets</sub-title>
-    <desc>A recently married couple need to find a home with enough space for their blended family of six kids and eight pets in New Palestine, Ind.; she wants something warm and homey, but he prefers a place with a more industrial look.</desc>
-    <episode-num system="onscreen">S229 E4</episode-num>
-    <credits>
-      <actor>Andromeda Dunker</actor>
-    </credits><date>2023</date>
-    <category lang="en">Series</category>
-    <category lang="en">Reality</category>
-    <category lang="en">House/garden</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p185405_b_h8_dc.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>G</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
-    </rating><rating system="Kijkwijzer">
-      <value>AL</value>
-    </rating><rating system="Australian Classification Board">
-      <value>PG</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>AL</value>
-    </rating>
-  </programme><programme channel="HGTV-East-US" start="20260517070000 +0500" stop="20260517073000 +0500">
-    <title>House Hunters</title>
-    <sub-title>The Quarterback Chickens of Woodland Park</sub-title>
-    <desc>Having moved back to Colorado, a young couple's ready to find a home to start a family. He's all about a mountain lifestyle and wants to be near great fishing and hunting spots, but she prefers to spend less on a more modest place that's in town.</desc>
-    <episode-num system="onscreen">S274 E16</episode-num>
+    <sub-title>High Expectations in Show Low, Arizona</sub-title>
+    <desc>A couple sells their Idaho property to find an equivalent waterfront home near their two daughters in Show Low, Arizona; they want to choose the right place to begin their new life, but with high expectations, agreeing on a house may be a challenge.</desc>
+    <episode-num system="onscreen">S271 E46</episode-num>
     <credits>
       <actor>Andromeda Dunker</actor>
     </credits><date>2026</date>
@@ -1017,83 +1419,7 @@
     <category lang="en">Reality</category>
     <category lang="en">House/garden</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p32322345_b_h8_ab.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>G</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
-    </rating><rating system="Kijkwijzer">
-      <value>AL</value>
-    </rating><rating system="Australian Classification Board">
-      <value>PG</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>AL</value>
-    </rating>
-  </programme><programme channel="HGTV-East-US" start="20260517073000 +0500" stop="20260517080000 +0500">
-    <title>Tropic Like It's Hot</title>
-    <sub-title>Reconnecting in Roatan</sub-title>
-    <desc>On the brink of divorce, an Alabama couple makes one final gamble on a move to Roatán, Honduras; they seek to uproot their lives for a fresh start in a dream home, hoping to rekindle their romance and save their marriage.</desc>
-    <episode-num system="onscreen">S1 E12</episode-num>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Reality</category>
-    <category lang="en">House/garden</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p32524093_b_h8_aa.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-  </programme><programme channel="HGTV-East-US" start="20260517080000 +0500" stop="20260517083000 +0500">
-    <title>Tropic Like It's Hot</title>
-    <sub-title>Bachelors in Bonaire</sub-title>
-    <desc>A bachelor enlists his wingman and cousin to help find a waterfront home on the Caribbean island of Bonaire; he's an avid scuba diver and wants a place for entertaining, but his list of must-haves may be a challenge for his agent.</desc>
-    <episode-num system="onscreen">S1 E6</episode-num>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Travel</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p32524093_b_h8_aa.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating><rating system="Kijkwijzer">
-      <value>AL</value>
-    </rating>
-  </programme><programme channel="HGTV-East-US" start="20260517083000 +0500" stop="20260517090000 +0500">
-    <title>Tropic Like It's Hot</title>
-    <sub-title>Drag Me to San Juan</sub-title>
-    <desc>An engaged couple with a drag queen entertainment business in New Jersey looks to relocate to San Juan, Puerto Rico; with a sassy, drag alter ego in tow, they plan to run their business from afar while finding their dream home.</desc>
-    <episode-num system="onscreen">S1 E11</episode-num>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">House/garden</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p32524093_b_h8_aa.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-  </programme><programme channel="HGTV-East-US" start="20260517090000 +0500" stop="20260517093000 +0500">
-    <title>House Hunters</title>
-    <sub-title>Young Buyer Wants a Project in Vermont</sub-title>
-    <desc>A twenty-something amateur woodworker wants to take on a project for her first home in Burlington, Vt.; her best friend is worried she'll get in over her head and hopes to steer her toward something more updated.</desc>
-    <episode-num system="onscreen">S242 E9</episode-num>
-    <credits>
-      <actor>Andromeda Dunker</actor>
-    </credits><date>2023</date>
-    <category lang="en">Series</category>
-    <category lang="en">Reality</category>
-    <category lang="en">House/garden</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p185405_b_h8_dc.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p31307683_b_h8_ai.jpg?w=960&amp;h=540" />
     <rating system="USA Parental Rating">
       <value>TVG</value>
     </rating><rating system="Canadian Parental Rating">
@@ -1109,39 +1435,11 @@
     </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
       <value>AL</value>
     </rating>
-  </programme><programme channel="HGTV-East-US" start="20260517093000 +0500" stop="20260517100000 +0500">
+  </programme><programme channel="HGTV-East-US" start="20260524053000 +0500" stop="20260524060000 +0500">
     <title>House Hunters</title>
-    <sub-title>Large Home for Six Kids and Eight Pets</sub-title>
-    <desc>A recently married couple need to find a home with enough space for their blended family of six kids and eight pets in New Palestine, Ind.; she wants something warm and homey, but he prefers a place with a more industrial look.</desc>
-    <episode-num system="onscreen">S229 E4</episode-num>
-    <credits>
-      <actor>Andromeda Dunker</actor>
-    </credits><date>2023</date>
-    <category lang="en">Series</category>
-    <category lang="en">Reality</category>
-    <category lang="en">House/garden</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p185405_b_h8_dc.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>G</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
-    </rating><rating system="Kijkwijzer">
-      <value>AL</value>
-    </rating><rating system="Australian Classification Board">
-      <value>PG</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>AL</value>
-    </rating>
-  </programme><programme channel="HGTV-East-US" start="20260517100000 +0500" stop="20260517103000 +0500">
-    <title>House Hunters</title>
-    <sub-title>The Quarterback Chickens of Woodland Park</sub-title>
-    <desc>Having moved back to Colorado, a young couple's ready to find a home to start a family. He's all about a mountain lifestyle and wants to be near great fishing and hunting spots, but she prefers to spend less on a more modest place that's in town.</desc>
-    <episode-num system="onscreen">S274 E16</episode-num>
+    <sub-title>Looking for a Lakefront Family Home in Minnesota</sub-title>
+    <desc>High school pals reconnected and remarried, and now their blended family of seven is on the hunt for a lakefront home in Minnesota. They're looking for a house with a sandy beach on Mille Lacs Lake, but the rocky shoreline makes that a rarity.</desc>
+    <episode-num system="onscreen">S271 E23</episode-num>
     <credits>
       <actor>Andromeda Dunker</actor>
     </credits><date>2026</date>
@@ -1149,9 +1447,9 @@
     <category lang="en">Reality</category>
     <category lang="en">House/garden</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p32322345_b_h8_ab.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p31307683_b_h8_ai.jpg?w=960&amp;h=540" />
     <rating system="USA Parental Rating">
-      <value>TVPG</value>
+      <value>TVG</value>
     </rating><rating system="Canadian Parental Rating">
       <value>G</value>
     </rating><rating system="Régie du cinéma">
@@ -1165,67 +1463,19 @@
     </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
       <value>AL</value>
     </rating>
-  </programme><programme channel="HGTV-East-US" start="20260517103000 +0500" stop="20260517110000 +0500">
-    <title>Tropic Like It's Hot</title>
-    <sub-title>Reconnecting in Roatan</sub-title>
-    <desc>On the brink of divorce, an Alabama couple makes one final gamble on a move to Roatán, Honduras; they seek to uproot their lives for a fresh start in a dream home, hoping to rekindle their romance and save their marriage.</desc>
-    <episode-num system="onscreen">S1 E12</episode-num>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Reality</category>
-    <category lang="en">House/garden</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p32524093_b_h8_aa.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-  </programme><programme channel="HGTV-East-US" start="20260517110000 +0500" stop="20260517113000 +0500">
-    <title>Tropic Like It's Hot</title>
-    <sub-title>Bachelors in Bonaire</sub-title>
-    <desc>A bachelor enlists his wingman and cousin to help find a waterfront home on the Caribbean island of Bonaire; he's an avid scuba diver and wants a place for entertaining, but his list of must-haves may be a challenge for his agent.</desc>
-    <episode-num system="onscreen">S1 E6</episode-num>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Travel</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p32524093_b_h8_aa.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating><rating system="Kijkwijzer">
-      <value>AL</value>
-    </rating>
-  </programme><programme channel="HGTV-East-US" start="20260517113000 +0500" stop="20260517120000 +0500">
-    <title>Tropic Like It's Hot</title>
-    <sub-title>Drag Me to San Juan</sub-title>
-    <desc>An engaged couple with a drag queen entertainment business in New Jersey looks to relocate to San Juan, Puerto Rico; with a sassy, drag alter ego in tow, they plan to run their business from afar while finding their dream home.</desc>
-    <episode-num system="onscreen">S1 E11</episode-num>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">House/garden</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p32524093_b_h8_aa.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-  </programme><programme channel="HGTV-East-US" start="20260517120000 +0500" stop="20260517123000 +0500">
+  </programme><programme channel="HGTV-East-US" start="20260524060000 +0500" stop="20260524063000 +0500">
     <title>House Hunters</title>
-    <sub-title>A Mulligan in Michigan</sub-title>
-    <desc>A Michigan couple has been living in his house from a previous marriage; after 15 years, she's ready for a new place; she wants a fresh start in a home; he prefers a modern Colonial and thinks they should consider downsizing.</desc>
-    <episode-num system="onscreen">S264 E12</episode-num>
+    <sub-title>An Oceanfront Condo in Cancun, Mexico</sub-title>
+    <desc>A couple searches for a waterfront home that's big enough for them and their 11-year-old son in Cancun, Mexico. They want beautiful ocean views, but in an area designed for short term visitors, finding a place with privacy may be a challenge.</desc>
+    <episode-num system="onscreen">S271 E35</episode-num>
     <credits>
       <actor>Andromeda Dunker</actor>
-    </credits><date>2025</date>
+    </credits><date>2026</date>
     <category lang="en">Series</category>
     <category lang="en">Reality</category>
     <category lang="en">House/garden</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p30250435_b_h8_af.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p31307683_b_h8_ai.jpg?w=960&amp;h=540" />
     <rating system="USA Parental Rating">
       <value>TVG</value>
     </rating><rating system="Canadian Parental Rating">
@@ -1241,19 +1491,19 @@
     </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
       <value>AL</value>
     </rating>
-  </programme><programme channel="HGTV-East-US" start="20260517123000 +0500" stop="20260517130000 +0500">
+  </programme><programme channel="HGTV-East-US" start="20260524063000 +0500" stop="20260524070000 +0500">
     <title>House Hunters</title>
-    <sub-title>Leaving Winter Behind in Florida</sub-title>
-    <desc>A couple decides to leave New Jersey and relocate with their four kids to sunny Boca Raton, Fla.; she wants a home with a Mediterranean vibe, but he's after something that's more modern.</desc>
-    <episode-num system="onscreen">S242 E3</episode-num>
+    <sub-title>Daughter Knows Best in Canyon Lake, California</sub-title>
+    <desc>After raising their family in Northern California, a couple's ready to relocate to Southern California for waterfront living opportunities; since their kids will be coming along as well, they want a home that meets everyone's approval.</desc>
+    <episode-num system="onscreen">S271 E29</episode-num>
     <credits>
       <actor>Andromeda Dunker</actor>
-    </credits><date>2023</date>
+    </credits><date>2026</date>
     <category lang="en">Series</category>
     <category lang="en">Reality</category>
     <category lang="en">House/garden</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p185405_b_h8_dc.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p31307683_b_h8_ai.jpg?w=960&amp;h=540" />
     <rating system="USA Parental Rating">
       <value>TVG</value>
     </rating><rating system="Canadian Parental Rating">
@@ -1269,569 +1519,11 @@
     </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
       <value>AL</value>
     </rating>
-  </programme><programme channel="HGTV-East-US" start="20260517130000 +0500" stop="20260517133000 +0500">
-    <title>NEW! Shark PowerDetect with DuoClean Detect Technology</title>
-    <sub-title />
-    <desc>Meet the new Shark PowerDetect Upright Vacuum with features like DuoClean Detect Technology, self-cleaning brush roll and odor neutralizing, and you will be cleaning faster, smarter and better!</desc>
-    <category lang="en">Consumer</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p29966207_b_h10_aa.jpg?w=960&amp;h=540" />
-  </programme><programme channel="HGTV-East-US" start="20260517133000 +0500" stop="20260517140000 +0500">
-    <title>POOF! Bye Bye Under Eye Bags!</title>
-    <sub-title />
-    <desc>Plexaderm helps reduce Under Eye Bags, Dark Circles, and Wrinkles in just 10 minutes!</desc>
-    <category lang="en">Consumer</category>
-    <category lang="en">Health</category>
-    <category lang="en">How-to</category>
-    <category lang="en">Medical</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p30715204_b_h8_aa.jpg?w=960&amp;h=540" />
-  </programme><programme channel="HGTV-East-US" start="20260517140000 +0500" stop="20260517143000 +0500">
-    <title>Paid Programming</title>
-    <sub-title />
-    <desc>Paid programming.</desc>
-    <category lang="en">Consumer</category>
-    <category lang="en">Shopping</category>
-    <category lang="en">Variety</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>G</value>
-    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>A</value>
-    </rating><rating system="Australian Classification Board">
-      <value>G</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>L</value>
-    </rating><rating system="Kijkwijzer">
-      <value>AL</value>
-    </rating>
-  </programme><programme channel="HGTV-East-US" start="20260517143000 +0500" stop="20260517150000 +0500">
-    <title>Emma: Natural Relief for Bloating, Constipation &amp; Gut Imbalance</title>
-    <sub-title />
-    <desc>Tired of bloating or gut issues that won't go away?; discovering the root cause-and how Emma can help eliminate methane-producing archaea, reset digestion and restore balance naturally.</desc>
-    <category lang="en">Consumer</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p30347164_b_h8_aa.jpg?w=960&amp;h=540" />
-  </programme><programme channel="HGTV-East-US" start="20260517150000 +0500" stop="20260517153000 +0500">
-    <title>World's Bargain Dream Homes</title>
-    <sub-title>Tarragona, Spain</sub-title>
-    <desc>On the Spanish coast just south of Barcelona, best friends from Texas look for an affordable dream home near Tarragona; with a local property expert, they tour through all the local culture and traditions the flavorful region has to offer.</desc>
-    <episode-num system="onscreen">S1 E2</episode-num>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Home improvement</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p32524843_b_h8_ab.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>G</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating>
-  </programme><programme channel="HGTV-East-US" start="20260517153000 +0500" stop="20260517160000 +0500">
-    <title>World's Bargain Dream Homes</title>
-    <sub-title>Tuscany, Italy</sub-title>
-    <desc>In the Italian region of Tuscany, a real estate expert helps a husband and wife search for a bargain dream home for their family; with insider knowledge on the local Tuscan culture, the couple discovers hidden gems and Italian traditions.</desc>
-    <episode-num system="onscreen">S1 E5</episode-num>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Home improvement</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p32524843_b_h8_ab.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>G</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating>
-  </programme><programme channel="HGTV-East-US" start="20260517160000 +0500" stop="20260517163000 +0500">
-    <title>World's Bargain Dream Homes</title>
-    <sub-title>Carcassonne, France</sub-title>
-    <desc>Deep in the French countryside, a local expert helps a mother and daughter duo hunt bargain properties in Carcassonne; mom's looking to start a new life in a beautiful home and the search includes medieval castles, antique fairs, and some fine cheese.</desc>
-    <episode-num system="onscreen">S1 E7</episode-num>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Home improvement</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p32524843_b_h8_ab.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>G</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating>
-  </programme><programme channel="HGTV-East-US" start="20260517163000 +0500" stop="20260517170000 +0500">
-    <title>World's Bargain Dream Homes</title>
-    <sub-title>Guanacaste, Costa Rica</sub-title>
-    <desc>A relocation expert helps a retired military officer search affordable paradise properties in Guanacaste, Costa Rica.</desc>
-    <episode-num system="onscreen">S1 E9</episode-num>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Home improvement</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p32524843_b_h8_ab.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>G</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating>
-  </programme><programme channel="HGTV-East-US" start="20260517170000 +0500" stop="20260517173000 +0500">
-    <title>World's Bargain Dream Homes</title>
-    <sub-title>Sicily, Italy</sub-title>
-    <desc>On the Italian island of Sicily, a local guide takes a couple on a unique tour of the sizzling local traditions as they explore affordable and dreamy homes.</desc>
-    <episode-num system="onscreen">S1 E3</episode-num>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Home improvement</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p32524843_b_h8_ab.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>G</value>
-    </rating>
-  </programme><programme channel="HGTV-East-US" start="20260517173000 +0500" stop="20260517180000 +0500">
-    <title>World's Bargain Dream Homes</title>
-    <sub-title>Galicia, Spain</sub-title>
-    <desc>On the northwest coast of Spain, a relocation expert guides a young couple searching for a dream bargain home in Galicia; they're taking in all the local culture of the region as they enjoy the natural thermal spas and learn how to make cheese!</desc>
-    <episode-num system="onscreen">S1 E8</episode-num>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Home improvement</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p32524843_b_h8_ab.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>G</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating>
-  </programme><programme channel="HGTV-East-US" start="20260517180000 +0500" stop="20260517183000 +0500">
-    <title>World's Bargain Dream Homes</title>
-    <sub-title>Panamá Oeste, Panama</sub-title>
-    <desc>After a lifestyle that led to illness in the US, a woman now looks to reset in nature in the Panama Oeste province; with help from her sister and a local real estate expert, she's ready to find an affordable dream home by the beach.</desc>
-    <episode-num system="onscreen">S1 E10</episode-num>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Home improvement</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p32524843_b_h8_ab.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>G</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating>
-  </programme><programme channel="HGTV-East-US" start="20260517183000 +0500" stop="20260517190000 +0500">
-    <title>World's Bargain Dream Homes</title>
-    <sub-title>Puglia, Italy</sub-title>
-    <desc>A creative pair are ready to relocate for an artistic life in Puglia, Italy; with an expert local guide, they experience Italian countryside La Dolce Vita and tour breathtaking bargain homes that are far beyond what they could afford in the U.S.</desc>
-    <episode-num system="onscreen">S1 E6</episode-num>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Home improvement</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p32524843_b_h8_ab.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>G</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating>
-  </programme><programme channel="HGTV-East-US" start="20260517190000 +0500" stop="20260517193000 +0500">
-    <title>Beachfront Bargain Hunt</title>
-    <sub-title>The Tybee Time Has Come</sub-title>
-    <desc>A Georgia family is eager to find a vacation home on Tybee Island; while previously living in Hawaii, they fell in love with the beautiful beaches and are hoping to get back to that lifestyle within their budget.</desc>
-    <episode-num system="onscreen">S24 E7</episode-num>
-    <credits>
-      <actor>John Beach</actor>
-    </credits><date>2019</date>
-    <category lang="en">Series</category>
-    <category lang="en">Reality</category>
-    <category lang="en">House/garden</category>
-    <category lang="en">Documentary</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p10130440_b_h8_bh.jpg?w=960&amp;h=540" />
-    <rating system="Australian Classification Board">
-      <value>G</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>G</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating><rating system="Kijkwijzer">
-      <value>AL</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>AL</value>
-    </rating>
-  </programme><programme channel="HGTV-East-US" start="20260517193000 +0500" stop="20260517200000 +0500">
-    <title>Beachfront Bargain Hunt</title>
-    <sub-title>Leaving No Stone Unturned in Connecticut</sub-title>
-    <desc>A Connecticut family look for a beach house to help them spend more time together; they love nearby Stonington, and with its unique maritime history they think it's the perfect location for their new vacation home.</desc>
-    <episode-num system="onscreen">S24 E8</episode-num>
-    <credits>
-      <actor>John Beach</actor>
-    </credits><date>2019</date>
-    <category lang="en">Series</category>
-    <category lang="en">Reality</category>
-    <category lang="en">House/garden</category>
-    <category lang="en">Documentary</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p10130440_b_h8_bh.jpg?w=960&amp;h=540" />
-    <rating system="Australian Classification Board">
-      <value>G</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>G</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
-    </rating><rating system="Kijkwijzer">
-      <value>AL</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>AL</value>
-    </rating>
-  </programme><programme channel="HGTV-East-US" start="20260517200000 +0500" stop="20260517203000 +0500">
-    <title>Beachfront Bargain Hunt</title>
-    <sub-title>Some Don't Like It Hot in Maine</sub-title>
-    <desc>A couple from Fort Lauderdale, Fla., searches the southern coast of Maine for a getaway retreat as they seek an escape from the heat.</desc>
-    <episode-num system="onscreen">S24 E9</episode-num>
-    <credits>
-      <actor>John Beach</actor>
-    </credits><date>2020</date>
-    <category lang="en">Series</category>
-    <category lang="en">Reality</category>
-    <category lang="en">House/garden</category>
-    <category lang="en">Documentary</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p10130440_b_h8_bh.jpg?w=960&amp;h=540" />
-    <rating system="Australian Classification Board">
-      <value>G</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>G</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
-    </rating><rating system="Kijkwijzer">
-      <value>AL</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>AL</value>
-    </rating>
-  </programme><programme channel="HGTV-East-US" start="20260517203000 +0500" stop="20260517210000 +0500">
-    <title>Beachfront Bargain Hunt</title>
-    <sub-title>Finding a View for a Value</sub-title>
-    <desc>A married couple is eager to move into a house that overlooks the Gulf of Mexico in the cozy beach community of Matagorda, Texas.</desc>
-    <episode-num system="onscreen">S24 E10</episode-num>
-    <credits>
-      <actor>John Beach</actor>
-    </credits><date>2019</date>
-    <category lang="en">Series</category>
-    <category lang="en">Reality</category>
-    <category lang="en">House/garden</category>
-    <category lang="en">Documentary</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p10130440_b_h8_bh.jpg?w=960&amp;h=540" />
-    <rating system="Australian Classification Board">
-      <value>G</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>G</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
-    </rating><rating system="Kijkwijzer">
-      <value>AL</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>AL</value>
-    </rating>
-  </programme><programme channel="HGTV-East-US" start="20260517210000 +0500" stop="20260517213000 +0500">
-    <title>Tropic Like It's Hot</title>
-    <sub-title>Rebirth in Rincón</sub-title>
-    <desc>After shedding their restrictive religious past in Utah, a couple's ready to start fresh in Rincón, Puerto Rico; they're hunting for a fantasy home to serve as their personal paradise where they can unleash the passions they've always kept hidden.</desc>
-    <episode-num system="onscreen">S1 E9</episode-num>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Entertainment</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p32524093_b_h8_aa.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating><rating system="Kijkwijzer">
-      <value>AL</value>
-    </rating>
-  </programme><programme channel="HGTV-East-US" start="20260517213000 +0500" stop="20260517220000 +0500">
-    <title>Tropic Like It's Hot</title>
-    <sub-title>Tight Quarters to Tropical Nights</sub-title>
-    <desc>A couple has endured a cramped condo in order to fund their fantasy for an island escape in St. Thomas; they're ready to ditch the city and find a dream home where they can move from their tiny quarters to endless nights of tropical romance.</desc>
-    <episode-num system="onscreen">S1 E5</episode-num>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p32524093_b_h8_aa.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating><rating system="Kijkwijzer">
-      <value>AL</value>
-    </rating>
-  </programme><programme channel="HGTV-East-US" start="20260517220000 +0500" stop="20260517223000 +0500">
-    <title>Tropic Like It's Hot</title>
-    <sub-title>Drag Me to San Juan</sub-title>
-    <desc>An engaged couple with a drag queen entertainment business in New Jersey looks to relocate to San Juan, Puerto Rico; with a sassy, drag alter ego in tow, they plan to run their business from afar while finding their dream home.</desc>
-    <episode-num system="onscreen">S1 E11</episode-num>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">House/garden</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p32524093_b_h8_aa.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-  </programme><programme channel="HGTV-East-US" start="20260517223000 +0500" stop="20260517230000 +0500">
-    <title>Tropic Like It's Hot</title>
-    <sub-title>Besties Take Tulum</sub-title>
-    <desc>Two besties are pooling their cash to buy a shared home in Tulum, Mexico; they want a permanent slice of paradise, but finding a house that suits them both might be the biggest test of their friendship.</desc>
-    <episode-num system="onscreen">S1 E4</episode-num>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Reality</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p32524093_b_h8_aa.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating><rating system="Kijkwijzer">
-      <value>AL</value>
-    </rating>
-  </programme><programme channel="HGTV-East-US" start="20260517230000 +0500" stop="20260517233000 +0500">
-    <title>Tropic Like It's Hot</title>
-    <sub-title>Reconnecting in Roatan</sub-title>
-    <desc>On the brink of divorce, an Alabama couple makes one final gamble on a move to Roatán, Honduras; they seek to uproot their lives for a fresh start in a dream home, hoping to rekindle their romance and save their marriage.</desc>
-    <episode-num system="onscreen">S1 E12</episode-num>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Reality</category>
-    <category lang="en">House/garden</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p32524093_b_h8_aa.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-  </programme><programme channel="HGTV-East-US" start="20260517233000 +0500" stop="20260518000000 +0500">
-    <title>Tropic Like It's Hot</title>
-    <sub-title>Champagne Taste in St. Thomas</sub-title>
-    <desc>A couple has quit their jobs, sold their house, and they're ready to leave the rat race for St. Thomas, Virgin Islands; one has champagne taste and is out to splurge, but the other is budget-conscious and wants to put a cork in the spending.</desc>
-    <episode-num system="onscreen">S1 E10</episode-num>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Reality</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p32524093_b_h8_aa.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-  </programme><programme channel="HGTV-East-US" start="20260518000000 +0500" stop="20260518010000 +0500">
-    <title>Renovation Aloha</title>
-    <sub-title>Partnered in Pearl Harbor</sub-title>
-    <desc>After a friend brings a deal in exchange for a 50/50 partnership, the Kalamas take on a 4,000-square-foot A-frame overlooking Pearl Harbor. But when surprise design upgrades are added mid-reno, finances and friendships are put to the test.</desc>
-    <episode-num system="onscreen">S3 E4</episode-num>
-    <credits>
-      <actor>Tristyn Kalama</actor>
-      <actor>Kamohai Kalama</actor>
-    </credits><date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Home improvement</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p26386666_b_h8_al.jpg?w=960&amp;h=540" />
-    <rating system="Freiwillige Selbstkontrolle Fernsehen">
-      <value>6</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>G</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>AL</value>
-    </rating><rating system="Australian Classification Board">
-      <value>PG</value>
-    </rating>
-  </programme><programme channel="HGTV-East-US" start="20260518010000 +0500" stop="20260518020000 +0500">
-    <title>Renovation Aloha</title>
-    <sub-title>Ohana Overhaul</sub-title>
-    <desc>When Kamohai and Tristyn buy a family home from Kamohai's cousin, they're torn between honoring generations of Kalama legacy and making the numbers work.</desc>
-    <episode-num system="onscreen">S3 E5</episode-num>
-    <credits>
-      <actor>Tristyn Kalama</actor>
-      <actor>Kamohai Kalama</actor>
-    </credits><date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Home improvement</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p26386666_b_h8_al.jpg?w=960&amp;h=540" />
-    <rating system="Freiwillige Selbstkontrolle Fernsehen">
-      <value>6</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>G</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>AL</value>
-    </rating><rating system="Australian Classification Board">
-      <value>PG</value>
-    </rating>
-  </programme><programme channel="HGTV-East-US" start="20260518020000 +0500" stop="20260518030000 +0500">
-    <title>Renovation Aloha</title>
-    <sub-title>Rats to Riches</sub-title>
-    <desc>With rotting floors, rats, and roaming chickens, Kamohai and Tristyn make an offer on the worst house they've ever seen. The deal falls out of escrow and returns at a bargain price, and now, they must transform this total disaster into a dream home.</desc>
-    <episode-num system="onscreen">S3 E6</episode-num>
-    <credits>
-      <actor>Tristyn Kalama</actor>
-      <actor>Kamohai Kalama</actor>
-    </credits><date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Home improvement</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p26386666_b_h8_al.jpg?w=960&amp;h=540" />
-    <rating system="Freiwillige Selbstkontrolle Fernsehen">
-      <value>6</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>G</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>AL</value>
-    </rating><rating system="Australian Classification Board">
-      <value>PG</value>
-    </rating>
-  </programme><programme channel="HGTV-East-US" start="20260518030000 +0500" stop="20260518040000 +0500">
-    <title>Renovation Aloha</title>
-    <sub-title>Mango Money Pit</sub-title>
-    <desc>In island real estate, speed can win the deal, but it can also backfire. When Kamohai and Tristyn rush to buy a Kaimuki fixer, huge mango trees, unreliable contractors, and spiraling costs threaten to turn a six-figure profit into a money pit.</desc>
-    <episode-num system="onscreen">S3 E7</episode-num>
-    <credits>
-      <actor>Tristyn Kalama</actor>
-      <actor>Kamohai Kalama</actor>
-    </credits><date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Home improvement</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p32523374_b_h8_aa.jpg?w=960&amp;h=540" />
-    <rating system="Freiwillige Selbstkontrolle Fernsehen">
-      <value>6</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>G</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>AL</value>
-    </rating><rating system="Australian Classification Board">
-      <value>PG</value>
-    </rating>
-  </programme><programme channel="HGTV-East-US" start="20260518040000 +0500" stop="20260518050000 +0500">
-    <title>Home Town: Inn This Together</title>
-    <sub-title>Millions with an S</sub-title>
-    <desc>Ben and Erin help their best friends turn a dilapidated 1930s department store into Laurel's first boutique hotel; with crushing financial risks and six months to open, they must finish a prototype room to secure bookings.</desc>
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <credits>
-      <actor>Erin Napier</actor>
-      <actor>Ben Napier</actor>
-    </credits><date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Reality</category>
-    <category lang="en">House/garden</category>
-    <category lang="en">Home improvement</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p32879940_b_h8_ab.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>G</value>
-    </rating>
-  </programme><programme channel="HGTV-East-US" start="20260518050000 +0500" stop="20260518060000 +0500">
-    <title>Home Town: Inn This Together</title>
-    <sub-title>Turning Numbers Into Dreams</sub-title>
-    <desc>Ben and Erin help their friends open the first public retail space in the hotel, Scotsman Company. Tensions rise as money's tight with a big loan delayed, but a newly discovered space offers hope if they can agree on how to use it.</desc>
-    <episode-num system="onscreen">S1 E2</episode-num>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Reality</category>
-    <category lang="en">House/garden</category>
-    <category lang="en">Home improvement</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p32879940_b_h8_ab.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>G</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating>
-  </programme><programme channel="HGTV-East-US" start="20260518060000 +0500" stop="20260518070100 +0500">
-    <title>Property Brothers: Under Pressure</title>
-    <sub-title>Signed, Sealed, Stressed</sub-title>
-    <desc>A couple made the emotional leap of buying their first home, but their renovation budget has been pushed to the edge along with their clashing styles; Jonathan and Drew step in to help them get on the same page and stretch every dollar.</desc>
-    <episode-num system="onscreen">S1 E10</episode-num>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Reality</category>
-    <category lang="en">Home improvement</category>
-    <category lang="en">House/garden</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p32322427_b_h8_aa.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating>
-  </programme><programme channel="HGTV-East-US" start="20260518070100 +0500" stop="20260518073100 +0500">
+  </programme><programme channel="HGTV-East-US" start="20260524070000 +0500" stop="20260524073000 +0500">
     <title>House Hunters</title>
-    <sub-title>Buying Skips a Generation</sub-title>
-    <desc>After renting for 35 years, a Maryland couple finally looks to buy their first home. Their adult daughters are also moving in, so while he wants a bargain they can renovate, she thinks updated and bigger is the way to go.</desc>
-    <episode-num system="onscreen">S275 E3</episode-num>
+    <sub-title>Spreadsheets in Paradise</sub-title>
+    <desc>As the area recovers from a major hurricane, a family decides it's time to finally buy a vacation place of their own on Sanibel Island, Florida. They need to overcome not only clashing wish lists, but also the fear of more potential catastrophes.</desc>
+    <episode-num system="onscreen">S275 E5</episode-num>
     <credits>
       <actor>Andromeda Dunker</actor>
     </credits><date>2026</date>
@@ -1855,66 +1547,792 @@
     </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
       <value>AL</value>
     </rating>
-  </programme><programme channel="HGTV-East-US" start="20260518073100 +0500" stop="20260518080000 +0500">
-    <title>Zillow Gone Wild</title>
-    <sub-title>Back to the Wild</sub-title>
-    <desc>Jack McBrayer is back on the road to find wild homes around; he kicks things off at a house with a 727 airplane inside, and later, he explores a pink time capsule-esque penthouse.</desc>
-    <episode-num system="onscreen">S3 E1</episode-num>
+  </programme><programme channel="HGTV-East-US" start="20260524073000 +0500" stop="20260524080000 +0500">
+    <title>House Hunters</title>
+    <sub-title>A Soldier Settles in Texas</sub-title>
+    <desc>After 25 years in the military, a soldier is retiring with his young family to El Paso, Texas; he's looking for a two-story home with a swimming pool, but his wife is more concerned with their kids' safety, so for her, it's no pool and no stairs.</desc>
+    <episode-num system="onscreen">S233 E13</episode-num>
     <credits>
-      <actor>Jack McBrayer</actor>
-    </credits><date>2026</date>
+      <actor>Andromeda Dunker</actor>
+    </credits><date>2023</date>
     <category lang="en">Series</category>
+    <category lang="en">Reality</category>
     <category lang="en">House/garden</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p26198800_b_h8_al.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p185405_b_h8_dc.jpg?w=960&amp;h=540" />
     <rating system="USA Parental Rating">
-      <value>TVPG</value>
+      <value>TVG</value>
     </rating><rating system="Canadian Parental Rating">
       <value>G</value>
     </rating><rating system="Régie du cinéma">
       <value>G</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating><rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating><rating system="Australian Classification Board">
+      <value>PG</value>
     </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
       <value>AL</value>
     </rating>
-  </programme><programme channel="HGTV-East-US" start="20260518080000 +0500" stop="20260518083000 +0500">
-    <title>Zillow Gone Wild</title>
-    <sub-title>The Bold and the Bunker</sub-title>
-    <desc>Jack McBrayer is back on the hunt to find wild homes!; his journey takes him to resurrected ruins of a desert ghost town, a concrete castle in the mountains, and a home that's mostly black and white.</desc>
-    <episode-num system="onscreen">S3 E2</episode-num>
+  </programme><programme channel="HGTV-East-US" start="20260524080000 +0500" stop="20260524083000 +0500">
+    <title>House Hunters</title>
+    <sub-title>Trying to Downsize in Grand Rapids</sub-title>
+    <desc>A Michigander is hoping to downsize from her previous home that had a headache's heap of upkeep; she's zeroed in on Grand Rapids, Mich., for its exciting city life, but she's also tempted to head out to the suburbs for the familiar lure of space.</desc>
+    <episode-num system="onscreen">S242 E7</episode-num>
     <credits>
-      <actor>Jack McBrayer</actor>
-    </credits><date>2026</date>
+      <actor>Andromeda Dunker</actor>
+    </credits><date>2023</date>
     <category lang="en">Series</category>
+    <category lang="en">Reality</category>
     <category lang="en">House/garden</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p26198800_b_h8_al.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p185405_b_h8_dc.jpg?w=960&amp;h=540" />
     <rating system="USA Parental Rating">
-      <value>TVPG</value>
+      <value>TVG</value>
     </rating><rating system="Canadian Parental Rating">
       <value>G</value>
     </rating><rating system="Régie du cinéma">
       <value>G</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating><rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating><rating system="Australian Classification Board">
+      <value>PG</value>
     </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
       <value>AL</value>
     </rating>
-  </programme><programme channel="HGTV-East-US" start="20260518083000 +0500" stop="20260518090000 +0500">
-    <title>Zillow Gone Wild</title>
-    <sub-title>Ranch Dressing</sub-title>
-    <desc>Jack McBrayer searches for wild homes and goes chugga-chuggin' down to a cozy train caboose hideaway; next, he dreams in color at a pastel-painted ranch and stops by a desert dream oasis; only one home can reign supreme!</desc>
-    <episode-num system="onscreen">S3 E3</episode-num>
+  </programme><programme channel="HGTV-East-US" start="20260524083000 +0500" stop="20260524090000 +0500">
+    <title>House Hunters</title>
+    <sub-title>Avoiding Snakes in Colorado Springs</sub-title>
+    <desc>A couple seeks a safe home for their young daughter with autism in Colorado Springs, Colo.; he wants something rustic where they can add their own sweat equity, but she wants something turnkey and top-of-the-line.</desc>
+    <episode-num system="onscreen">S233 E3</episode-num>
     <credits>
-      <actor>Jack McBrayer</actor>
-    </credits><date>2026</date>
+      <actor>Andromeda Dunker</actor>
+    </credits><date>2023</date>
     <category lang="en">Series</category>
+    <category lang="en">Reality</category>
     <category lang="en">House/garden</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p26198800_b_h8_al.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p185405_b_h8_dc.jpg?w=960&amp;h=540" />
     <rating system="USA Parental Rating">
-      <value>TVPG</value>
+      <value>TVG</value>
     </rating><rating system="Canadian Parental Rating">
       <value>G</value>
     </rating><rating system="Régie du cinéma">
       <value>G</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating><rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating><rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>AL</value>
+    </rating>
+  </programme><programme channel="HGTV-East-US" start="20260524090000 +0500" stop="20260524093000 +0500">
+    <title>House Hunters</title>
+    <sub-title>An Oceanfront Condo in Cancun, Mexico</sub-title>
+    <desc>A couple searches for a waterfront home that's big enough for them and their 11-year-old son in Cancun, Mexico. They want beautiful ocean views, but in an area designed for short term visitors, finding a place with privacy may be a challenge.</desc>
+    <episode-num system="onscreen">S271 E35</episode-num>
+    <credits>
+      <actor>Andromeda Dunker</actor>
+    </credits><date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">House/garden</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p31307683_b_h8_ai.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating><rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating><rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>AL</value>
+    </rating>
+  </programme><programme channel="HGTV-East-US" start="20260524093000 +0500" stop="20260524100000 +0500">
+    <title>House Hunters</title>
+    <sub-title>Daughter Knows Best in Canyon Lake, California</sub-title>
+    <desc>After raising their family in Northern California, a couple's ready to relocate to Southern California for waterfront living opportunities; since their kids will be coming along as well, they want a home that meets everyone's approval.</desc>
+    <episode-num system="onscreen">S271 E29</episode-num>
+    <credits>
+      <actor>Andromeda Dunker</actor>
+    </credits><date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">House/garden</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p31307683_b_h8_ai.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating><rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating><rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>AL</value>
+    </rating>
+  </programme><programme channel="HGTV-East-US" start="20260524100000 +0500" stop="20260524103000 +0500">
+    <title>House Hunters</title>
+    <sub-title>Spreadsheets in Paradise</sub-title>
+    <desc>As the area recovers from a major hurricane, a family decides it's time to finally buy a vacation place of their own on Sanibel Island, Florida. They need to overcome not only clashing wish lists, but also the fear of more potential catastrophes.</desc>
+    <episode-num system="onscreen">S275 E5</episode-num>
+    <credits>
+      <actor>Andromeda Dunker</actor>
+    </credits><date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">House/garden</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p32524594_b_h8_aa.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating><rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating><rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>AL</value>
+    </rating>
+  </programme><programme channel="HGTV-East-US" start="20260524103000 +0500" stop="20260524110000 +0500">
+    <title>House Hunters</title>
+    <sub-title>A Soldier Settles in Texas</sub-title>
+    <desc>After 25 years in the military, a soldier is retiring with his young family to El Paso, Texas; he's looking for a two-story home with a swimming pool, but his wife is more concerned with their kids' safety, so for her, it's no pool and no stairs.</desc>
+    <episode-num system="onscreen">S233 E13</episode-num>
+    <credits>
+      <actor>Andromeda Dunker</actor>
+    </credits><date>2023</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">House/garden</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p185405_b_h8_dc.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating><rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating><rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>AL</value>
+    </rating>
+  </programme><programme channel="HGTV-East-US" start="20260524110000 +0500" stop="20260524113000 +0500">
+    <title>House Hunters</title>
+    <sub-title>Trying to Downsize in Grand Rapids</sub-title>
+    <desc>A Michigander is hoping to downsize from her previous home that had a headache's heap of upkeep; she's zeroed in on Grand Rapids, Mich., for its exciting city life, but she's also tempted to head out to the suburbs for the familiar lure of space.</desc>
+    <episode-num system="onscreen">S242 E7</episode-num>
+    <credits>
+      <actor>Andromeda Dunker</actor>
+    </credits><date>2023</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">House/garden</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p185405_b_h8_dc.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating><rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating><rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>AL</value>
+    </rating>
+  </programme><programme channel="HGTV-East-US" start="20260524113000 +0500" stop="20260524120000 +0500">
+    <title>House Hunters</title>
+    <sub-title>Avoiding Snakes in Colorado Springs</sub-title>
+    <desc>A couple seeks a safe home for their young daughter with autism in Colorado Springs, Colo.; he wants something rustic where they can add their own sweat equity, but she wants something turnkey and top-of-the-line.</desc>
+    <episode-num system="onscreen">S233 E3</episode-num>
+    <credits>
+      <actor>Andromeda Dunker</actor>
+    </credits><date>2023</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">House/garden</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p185405_b_h8_dc.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating><rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating><rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>AL</value>
+    </rating>
+  </programme><programme channel="HGTV-East-US" start="20260524120000 +0500" stop="20260524123000 +0500">
+    <title>House Hunters</title>
+    <sub-title>High Expectations in Show Low, Arizona</sub-title>
+    <desc>A couple sells their Idaho property to find an equivalent waterfront home near their two daughters in Show Low, Arizona; they want to choose the right place to begin their new life, but with high expectations, agreeing on a house may be a challenge.</desc>
+    <episode-num system="onscreen">S271 E46</episode-num>
+    <credits>
+      <actor>Andromeda Dunker</actor>
+    </credits><date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">House/garden</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p31307683_b_h8_ai.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating><rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating><rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>AL</value>
+    </rating>
+  </programme><programme channel="HGTV-East-US" start="20260524123000 +0500" stop="20260524130000 +0500">
+    <title>House Hunters</title>
+    <sub-title>Looking for a Lakefront Family Home in Minnesota</sub-title>
+    <desc>High school pals reconnected and remarried, and now their blended family of seven is on the hunt for a lakefront home in Minnesota. They're looking for a house with a sandy beach on Mille Lacs Lake, but the rocky shoreline makes that a rarity.</desc>
+    <episode-num system="onscreen">S271 E23</episode-num>
+    <credits>
+      <actor>Andromeda Dunker</actor>
+    </credits><date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">House/garden</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p31307683_b_h8_ai.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating><rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating><rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>AL</value>
+    </rating>
+  </programme><programme channel="HGTV-East-US" start="20260524130000 +0500" stop="20260524133000 +0500">
+    <title>Sleep Deeper Tonight with DREAMCLOUD's Advanced Hybrid Mattress Today!</title>
+    <sub-title />
+    <desc>Treat yourself to luxurious, award-winning comfort with the premium DreamCloud Mattress &amp; adjustable base. Enjoy restorative sleep, relax with zero gravity comfort, and wake up refreshed. Plus, save 66% with this amazing deal today!</desc>
+    <category lang="en">Consumer</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p33069620_st_h10_aa.jpg?w=960&amp;h=540" />
+  </programme><programme channel="HGTV-East-US" start="20260524133000 +0500" stop="20260524140000 +0500">
+    <title>Cindy Crawford talks about the latest breakthroughs in skincare</title>
+    <sub-title />
+    <desc>Join Cindy Crawford as she talks to real customers about the breakthrough skincare system that keeps them looking their best. Take a trip to the stunning French countryside to see the rare French melon that defies the aging process.</desc>
+    <category lang="en">Consumer</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p29044745_b_h8_aa.jpg?w=960&amp;h=540" />
+  </programme><programme channel="HGTV-East-US" start="20260524140000 +0500" stop="20260524143000 +0500">
+    <title>Paid Programming</title>
+    <sub-title />
+    <desc>Paid programming.</desc>
+    <category lang="en">Consumer</category>
+    <category lang="en">Shopping</category>
+    <category lang="en">Variety</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>A</value>
+    </rating><rating system="Australian Classification Board">
+      <value>G</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>L</value>
+    </rating><rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating>
+  </programme><programme channel="HGTV-East-US" start="20260524143000 +0500" stop="20260524150000 +0500">
+    <title>Sleep Deeper Tonight with DREAMCLOUD's Advanced Hybrid Mattress Today!</title>
+    <sub-title />
+    <desc>Treat yourself to luxurious, award-winning comfort with the premium DreamCloud Mattress &amp; adjustable base. Enjoy restorative sleep, relax with zero gravity comfort, and wake up refreshed. Plus, save 66% with this amazing deal today!</desc>
+    <category lang="en">Consumer</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p33069620_st_h10_aa.jpg?w=960&amp;h=540" />
+  </programme><programme channel="HGTV-East-US" start="20260524150000 +0500" stop="20260524153000 +0500">
+    <title>Caribbean Life</title>
+    <sub-title>Trading Business Suits for Bathing Suits</sub-title>
+    <desc>A Maryland couple trades in business attire for bathing suits with a move to Turks and Caicos; the two hope to open their own beach bar so they can enjoy the island vibe, beautiful beaches and spectacular food for life.</desc>
+    <episode-num system="onscreen">S15 E2</episode-num>
+    <credits>
+      <director>Caity Quinn</director>
+      <actor>Korey Jackson</actor>
+    </credits><date>2019</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">House/garden</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p10392339_b_h10_bk.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating><rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>AL</value>
+    </rating>
+  </programme><programme channel="HGTV-East-US" start="20260524153000 +0500" stop="20260524160000 +0500">
+    <title>Caribbean Life</title>
+    <sub-title>Utila or Bust</sub-title>
+    <desc>College sweethearts from Dexter, Mo., want a taste of the Caribbean life and Utila, Honduras, has the peaceful atmosphere they're looking for; they hope to find the home of their dreams within their budget so they can enjoy the island.</desc>
+    <episode-num system="onscreen">S15 E9</episode-num>
+    <credits>
+      <director>Dunia Rodriguez</director>
+      <actor>Korey Jackson</actor>
+    </credits><date>2019</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">House/garden</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p10392339_b_h10_bk.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating><rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>AL</value>
+    </rating>
+  </programme><programme channel="HGTV-East-US" start="20260524160000 +0500" stop="20260524163000 +0500">
+    <title>Caribbean Life</title>
+    <sub-title>Reeling in the Good Life</sub-title>
+    <desc>A Tennessee couple with eight kids wants a slower pace of life in the Dominican Republic; they frequently visit the island for work; they look for a large home that comes with a pool and soaking tub in the sleepy beach town of Juan Dolio.</desc>
+    <episode-num system="onscreen">S15 E3</episode-num>
+    <credits>
+      <director>Steve Ginsberg</director>
+      <actor>Korey Jackson</actor>
+    </credits><date>2019</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">House/garden</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p10392339_b_h10_bk.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating><rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>AL</value>
+    </rating>
+  </programme><programme channel="HGTV-East-US" start="20260524163000 +0500" stop="20260524170000 +0500">
+    <title>Caribbean Life</title>
+    <sub-title>From the Big Apple to the Small Island of Vieques, Puerto Rico</sub-title>
+    <desc>After saving for years, a New York City couple is ready to live full time on the quiet island of Vieques, Puerto Rico; his dream is to be oceanfront, while she wants a home far from the shore, but they both agree that rental potential is a must.</desc>
+    <episode-num system="onscreen">S15 E13</episode-num>
+    <credits>
+      <director>David Grant</director>
+      <actor>Korey Jackson</actor>
+    </credits><date>2019</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">House/garden</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p10392339_b_h10_bk.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating><rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>AL</value>
+    </rating>
+  </programme><programme channel="HGTV-East-US" start="20260524170000 +0500" stop="20260524173000 +0500">
+    <title>Caribbean Life</title>
+    <sub-title>From Pittsburgh to Paradise in Puerto Rico</sub-title>
+    <desc>Tired of Pittsburgh winters, a young couple plots a move to sunny Vieques, Puerto Rico; their shared love of small towns and empty beaches makes this island the ideal home; their wish list includes a yard for their large dogs and a water view.</desc>
+    <episode-num system="onscreen">S15 E8</episode-num>
+    <credits>
+      <director>David Grant</director>
+      <actor>Korey Jackson</actor>
+    </credits><date>2019</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">House/garden</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p10392339_b_h10_bk.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating><rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>AL</value>
+    </rating>
+  </programme><programme channel="HGTV-East-US" start="20260524173000 +0500" stop="20260524180000 +0500">
+    <title>Caribbean Life</title>
+    <sub-title>Working It Out</sub-title>
+    <desc>A Michigan couple is ready to ditch indoor gym workouts for outdoor exercises in St. Croix; they want to find a perfect home in the hillside, preferably with a pool and an open-floor plan for entertaining.</desc>
+    <episode-num system="onscreen">S15 E7</episode-num>
+    <credits>
+      <director>Dunia Rodriguez</director>
+      <actor>Korey Jackson</actor>
+    </credits><date>2019</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">House/garden</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p10392339_b_h10_bk.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating><rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>AL</value>
+    </rating>
+  </programme><programme channel="HGTV-East-US" start="20260524180000 +0500" stop="20260524183000 +0500">
+    <title>Caribbean Life</title>
+    <sub-title>Laid-Back Life in Utila, Honduras</sub-title>
+    <desc>A Utah couple trades their Western lifestyle for slower vibes in Utila, Honduras; she wants a home with plenty of windows and a view, while he hopes for outdoor space, but no house will be perfect without space for family to visit.</desc>
+    <episode-num system="onscreen">S15 E11</episode-num>
+    <credits>
+      <director>Matthew Maguire</director>
+      <actor>Korey Jackson</actor>
+    </credits><date>2019</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">House/garden</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p10392339_b_h10_bk.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating><rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>AL</value>
+    </rating>
+  </programme><programme channel="HGTV-East-US" start="20260524183000 +0500" stop="20260524190000 +0500">
+    <title>Caribbean Life</title>
+    <sub-title>New Adventures on Roatan</sub-title>
+    <desc>A couple of avid divers leave Iowa to explore the secluded island of Roatan, Honduras, and hope to find a home that brings their large, blended family together.</desc>
+    <episode-num system="onscreen">S15 E1</episode-num>
+    <credits>
+      <director>Matthew Maguire</director>
+      <actor>Korey Jackson</actor>
+    </credits><date>2019</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">House/garden</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p10392339_b_h10_bk.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating><rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>AL</value>
+    </rating>
+  </programme><programme channel="HGTV-East-US" start="20260524190000 +0500" stop="20260524193000 +0500">
+    <title>Caribbean Life</title>
+    <sub-title>Revving Up for a New Life in Aruba</sub-title>
+    <desc>A couple with two daughters leaves behind their hectic life in Texas for the island of Aruba; they're eager to relax as a family and discover more about the island's culture, but are torn between buying a condo or a single-family home.</desc>
+    <episode-num system="onscreen">S16 E9</episode-num>
+    <credits>
+      <director>Caity Quinn</director>
+      <actor>Korey Jackson</actor>
+    </credits><date>2019</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">House/garden</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p10392339_b_h10_bk.jpg?w=960&amp;h=540" />
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating><rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>AL</value>
+    </rating>
+  </programme><programme channel="HGTV-East-US" start="20260524193000 +0500" stop="20260524200000 +0500">
+    <title>Caribbean Life</title>
+    <sub-title>To Build or Not to Build in Aruba</sub-title>
+    <desc>A couple is ready to ditch snowy winters with a move to Aruba; she lived on the island years ago and wants to get back to that life, ideally in a move-in-ready home with a pool and rooms so their kids can visit, though he wouldn't mind a fixer-upper.</desc>
+    <episode-num system="onscreen">S16 E14</episode-num>
+    <credits>
+      <director>Caity Quinn</director>
+      <actor>Korey Jackson</actor>
+    </credits><date>2019</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">House/garden</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p10392339_b_h10_bk.jpg?w=960&amp;h=540" />
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating><rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>AL</value>
+    </rating>
+  </programme><programme channel="HGTV-East-US" start="20260524200000 +0500" stop="20260524203000 +0500">
+    <title>Cheap A$$ Beach Houses</title>
+    <sub-title>Siren's Song</sub-title>
+    <desc>After losing their home to a hurricane, a couple searches for a residence in Hernando Beach, Fla; they struggle to balance a strict budget against the desire for high-end coastal features.</desc>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <date>2025</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">House/garden</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p31556578_b_h8_ab.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating>
+  </programme><programme channel="HGTV-East-US" start="20260524203000 +0500" stop="20260524210000 +0500">
+    <title>Cheap A$$ Beach Houses</title>
+    <sub-title>Fun Times and Bad Decisions</sub-title>
+    <desc>Two best friends travel to Orange Beach, Al, to find a large, affordable beach house for their families; their search includes social outings and waterfront tours as they hunt for a deal.</desc>
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <date>2025</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">House/garden</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p31556592_b_h8_aa.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating>
+  </programme><programme channel="HGTV-East-US" start="20260524210000 +0500" stop="20260524213000 +0500">
+    <title>Cheap A$$ Beach Houses</title>
+    <sub-title>Gnarly Deals</sub-title>
+    <desc>Married surfers hang ten on the hunt for a bodacious and affordable beach house in Virginia Beach, Virginia. With low tides and a lower budget, they look to ride waves of gnarly renos and tubular views in search of the ultimate crash pad.</desc>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <date>2025</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">House/garden</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p31556578_b_h8_ab.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating>
+  </programme><programme channel="HGTV-East-US" start="20260524213000 +0500" stop="20260524220000 +0500">
+    <title>Cheap A$$ Beach Houses</title>
+    <sub-title>Yacht Curious</sub-title>
+    <desc>After years on the road as traveling medical professionals, a couple trades scrubs for sunsets in Panama City Beach, Fla; but when her budget-conscious nature and his love of golf collide, finding a beachside paradise may not be a shore-thing.</desc>
+    <episode-num system="onscreen">S1 E7</episode-num>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">House/garden</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p31556578_b_h8_ab.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating>
+  </programme><programme channel="HGTV-East-US" start="20260524220000 +0500" stop="20260524223000 +0500">
+    <title>Cheap A$$ Beach Houses</title>
+    <sub-title>The Tides That Bind</sub-title>
+    <desc>With their daughter as their realtor, empty nesters hunt for a home on the sun-soaked beaches of Gulf Shores, Alabama. But this search could turn into a storm of mother-daughter drama, with dad caught in the middle.</desc>
+    <episode-num system="onscreen">S1 E9</episode-num>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">House/garden</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p31556592_b_h8_aa.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating>
+  </programme><programme channel="HGTV-East-US" start="20260524223000 +0500" stop="20260524230000 +0500">
+    <title>Cheap A$$ Beach Houses</title>
+    <sub-title>Boss Beach</sub-title>
+    <desc>After adding a new addition to their family, a couple plans to flee harsh Michigan winters for sunny Fort Myers Beach; with her fear of heights and his obsession with electrical outlets, finding an affordable beach house is a challenge.</desc>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <date>2025</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">House/garden</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p31556578_b_h8_ab.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating>
+  </programme><programme channel="HGTV-East-US" start="20260524230000 +0500" stop="20260524233000 +0500">
+    <title>Beachfront Bargain Hunt</title>
+    <sub-title>All in for Amenities in Myrtle Beach</sub-title>
+    <desc>A father brings his young daughter along as they search for a vacation condo in Myrtle Beach, S.C., with all the amenities.</desc>
+    <episode-num system="onscreen">S25 E4</episode-num>
+    <credits>
+      <actor>John Beach</actor>
+    </credits><date>2019</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">House/garden</category>
+    <category lang="en">Documentary</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p10130440_b_h8_bh.jpg?w=960&amp;h=540" />
+    <rating system="Australian Classification Board">
+      <value>G</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating><rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>AL</value>
+    </rating>
+  </programme><programme channel="HGTV-East-US" start="20260524233000 +0500" stop="20260525000000 +0500">
+    <title>Beachfront Bargain Hunt</title>
+    <sub-title>Twice as Nice in St. Thomas</sub-title>
+    <desc>A couple want to purchase a beachfront property they can enjoy with their two sons in St. Thomas, U.S. Virgin Islands.</desc>
+    <episode-num system="onscreen">S25 E5</episode-num>
+    <credits>
+      <actor>John Beach</actor>
+    </credits><date>2019</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">House/garden</category>
+    <category lang="en">Documentary</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p10130440_b_h8_bh.jpg?w=960&amp;h=540" />
+    <rating system="Australian Classification Board">
+      <value>G</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating><rating system="Kijkwijzer">
+      <value>AL</value>
     </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
       <value>AL</value>
     </rating>

@@ -1,139 +1,372 @@
 <?xml version='1.0' encoding='utf-8'?>
 <tv>
   <channel id="Fuse-US">
+    <icon src="https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/Fuse-US.png" />
+    <url>https://tv.thefilmtuition.com</url>
     <display-name>Fuse</display-name>
-    <icon src="https://thefilmtuition.com/tvlogo/Fuse-US.png" />
-  </channel><programme channel="Fuse-US" start="20260516033000 +0500" stop="20260516050000 +0500">
+  </channel><programme channel="Fuse-US" start="20260522180000 +0500" stop="20260522193000 +0500">
     <title>Michael Jackson: Chase the Truth</title>
-    <sub-title />
     <desc>Close friends, former staff and researchers paint an intimate portrait of pop star Michael Jackson's complicated world and put allegations of sexual abuse under the microscope.</desc>
+    <language>en</language>
+  </programme><programme channel="Fuse-US" start="20260522193000 +0500" stop="20260522210000 +0500">
+    <title>Deadly Love: Bobby &amp; Whitney</title>
+    <desc>Exploring the romance of Whitney Houston and Bobby Brown; behind the glamour is a story of love, addiction and heartbreak that shaped their lives and legacies.</desc>
+    <language>en</language>
+  </programme><programme channel="Fuse-US" start="20260522210000 +0500" stop="20260522223000 +0500">
+    <title>The Life and Death of Tupac Shakur</title>
+    <sub-title />
+    <desc>Seen as a poet whose tales of urban alienation captivated young people of all races and backgrounds, Tupac Shakur sets the stage for the current and continuing evolution of the hip-hop phenomenon.</desc>
+    <credits>
+      <director>Finlay Bald</director>
+      <actor>Tupac Shakur</actor>
+    </credits><category lang="en">Special</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Music</category>
+    <category lang="en">Hip-Hop &amp; Rap</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Biography</category>
+    <category lang="en">Crime</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p20909303_b_h10_ac.jpg?w=960&amp;h=540" />
+  </programme><programme channel="Fuse-US" start="20260522223000 +0500" stop="20260523000000 +0500">
+    <title>The Last 24 Hours: Michael Jackson</title>
+    <sub-title />
+    <desc>Michael Jackson, the "King of Pop," spends his last hours battling insomnia and pleading with his personal physician.</desc>
     <credits>
       <director>Jordan Hill</director>
-      <actor>Mike Smallcombe</actor>
-      <actor>Mark Lester</actor>
-      <actor>Lucy Lester</actor>
+      <actor>Michael Jackson</actor>
     </credits><date>2019</date>
     <category lang="en">Special</category>
     <category lang="en">Documentary</category>
-    <category lang="en">Music</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p17227031_b_h10_ai.jpg?w=960&amp;h=540" />
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>14</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+    <icon src="http://dtil.tmsimg.com/assets/p16728040_b_h10_aa.jpg?w=960&amp;h=540" />
+    <rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating>
+  </programme><programme channel="Fuse-US" start="20260523000000 +0500" stop="20260523003000 +0500">
+    <title>Cheaters</title>
+    <sub-title>Alex Montoya</sub-title>
+    <desc>Alex Montoya discovers her girlfriend models with and without her clothes.</desc>
+    <credits>
+      <actor>Robert Magruder</actor>
+      <actor>Peter Pankey</actor>
+    </credits><category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p28206091_b_h10_aa.jpg?w=960&amp;h=540" />
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
       <value>16</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>12</value>
+    </rating><rating system="Film &amp; Publication Board">
+      <value>16</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TV14</value>
     </rating>
-  </programme><programme channel="Fuse-US" start="20260516050000 +0500" stop="20260516073000 +0500">
-    <title>Domino: Battle of the Bones</title>
-    <sub-title />
-    <desc>Hoping to reclaim his former glory, a fallen dominoes champion recruits his step-grandson to help him win an off-the-wall tournament.</desc>
+  </programme><programme channel="Fuse-US" start="20260523003000 +0500" stop="20260523010000 +0500">
+    <title>Cheaters</title>
+    <sub-title>Pedro Green</sub-title>
+    <desc>Pedro Green worries about his girlfriend's shady ways after she moves in with him.</desc>
+    <episode-num system="onscreen">S21</episode-num>
     <credits>
-      <director>Baron Davis</director>
-      <actor>Baron Davis</actor>
-      <actor>David Arquette</actor>
-      <actor>Snoop Dogg</actor>
+      <actor>Robert Magruder</actor>
+      <actor>Peter Pankey</actor>
     </credits><date>2021</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Comedy</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p19599956_v_h8_ae.jpg?w=960&amp;h=540" />
-    <rating system="Motion Picture Association">
-      <value>R</value>
-    </rating><rating system="British Board of Film Classification">
-      <value>15</value>
-    </rating>
-  </programme><programme channel="Fuse-US" start="20260516073000 +0500" stop="20260516100000 +0500">
-    <title>Bodied</title>
-    <sub-title />
-    <desc>A progressive graduate student finds success and sparks outrage when his interest in battle rap as a thesis subject turns into a competitive obsession.</desc>
-    <credits>
-      <director>Joseph Kahn</director>
-      <actor>Calum Worthy</actor>
-      <actor>Jackie Long</actor>
-      <actor>Rory Uphold</actor>
-    </credits><date>2017</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Comedy</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p14576566_v_h8_aa.jpg?w=960&amp;h=540" />
-    <rating system="Motion Picture Association">
-      <value>R</value>
-    </rating><rating system="B.C. Film Classification Office">
-      <value>18A</value>
-    </rating><rating system="Saskatchewan Film and Video Classification Board">
-      <value>18A</value>
-    </rating><rating system="Manitoba Film Classification Board">
-      <value>18A</value>
-    </rating>
-  </programme><programme channel="Fuse-US" start="20260516100000 +0500" stop="20260516110000 +0500">
-    <title>Sex Sells</title>
-    <sub-title>Bone-jour From Paris!</sub-title>
-    <desc>A very special episode takes Weezy to Paris, where she'll be tasting more than the cuisine.</desc>
-    <episode-num system="onscreen">S3 E8</episode-num>
-    <credits>
-      <actor>WeezyWTF</actor>
-    </credits><date>2024</date>
     <category lang="en">Series</category>
     <category lang="en">Reality</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p26027513_b_h8_aa.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-  </programme><programme channel="Fuse-US" start="20260516110000 +0500" stop="20260516120000 +0500">
-    <title>Vogue Williams: Is Monogamy Dead?</title>
-    <sub-title />
-    <desc>As she enters into her second marriage, television personality Vogue Williams explores the concept of monogamy in society and how it has changed over the years.</desc>
-    <credits>
-      <actor>Vogue Williams</actor>
-    </credits><date>2019</date>
-    <category lang="en">Special</category>
-    <category lang="en">Documentary</category>
-    <category lang="en">Public affairs</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p17115432_b_h10_aa.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p185490_b_h10_ag.jpg?w=960&amp;h=540" />
     <rating system="Krajowa Rada Radiofonii i Telewizji">
       <value>16</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>12</value>
+    </rating><rating system="Film &amp; Publication Board">
+      <value>16</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+  </programme><programme channel="Fuse-US" start="20260523010000 +0500" stop="20260523013000 +0500">
+    <title>Cheaters</title>
+    <sub-title>LaShan Hudson</sub-title>
+    <desc>LaShan Hudson finds out why her girlfriend only wants to work out alone.</desc>
+    <episode-num system="onscreen">S21</episode-num>
+    <credits>
+      <actor>Robert Magruder</actor>
+      <actor>Peter Pankey</actor>
+    </credits><date>2021</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p185490_b_h10_ag.jpg?w=960&amp;h=540" />
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>12</value>
+    </rating><rating system="Film &amp; Publication Board">
+      <value>16</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+  </programme><programme channel="Fuse-US" start="20260523013000 +0500" stop="20260523020000 +0500">
+    <title>Cheaters</title>
+    <sub-title>Nadia Freeman</sub-title>
+    <desc>Nadia Freeman discovers the reason behind her boyfriend's unbalanced behavior.</desc>
+    <episode-num system="onscreen">S21</episode-num>
+    <credits>
+      <actor>Robert Magruder</actor>
+      <actor>Peter Pankey</actor>
+    </credits><date>2021</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p185490_b_h10_ag.jpg?w=960&amp;h=540" />
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>12</value>
+    </rating><rating system="Film &amp; Publication Board">
+      <value>16</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+  </programme><programme channel="Fuse-US" start="20260523020000 +0500" stop="20260523023000 +0500">
+    <title>Cheaters</title>
+    <sub-title>Brittany Fowler</sub-title>
+    <desc>Brittany wants to find out why her boyfriend, Taylor, has become distant.</desc>
+    <episode-num system="onscreen">S16</episode-num>
+    <credits>
+      <actor>Clark Gable</actor>
+      <actor>Robert Magruder</actor>
+    </credits><date>2018</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p185490_b_h10_ag.jpg?w=960&amp;h=540" />
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>12</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Film &amp; Publication Board">
+      <value>16</value>
+    </rating>
+  </programme><programme channel="Fuse-US" start="20260523023000 +0500" stop="20260523030000 +0500">
+    <title>Cheaters</title>
+    <sub-title>Kesha Simmonds</sub-title>
+    <desc>Kesha wants to find out what's going on with Duke.</desc>
+    <episode-num system="onscreen">S16</episode-num>
+    <credits>
+      <actor>Clark Gable</actor>
+      <actor>Robert Magruder</actor>
+    </credits><date>2018</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p185490_b_h10_ag.jpg?w=960&amp;h=540" />
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>12</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Film &amp; Publication Board">
+      <value>16</value>
+    </rating>
+  </programme><programme channel="Fuse-US" start="20260523030000 +0500" stop="20260523033000 +0500">
+    <title>Cheaters</title>
+    <sub-title>Nicholas Booth</sub-title>
+    <desc>Nicholas is worried about his relationship with Ava.</desc>
+    <episode-num system="onscreen">S16</episode-num>
+    <credits>
+      <actor>Clark Gable</actor>
+      <actor>Robert Magruder</actor>
+    </credits><date>2018</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p185490_b_h10_ag.jpg?w=960&amp;h=540" />
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>12</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Film &amp; Publication Board">
+      <value>16</value>
+    </rating>
+  </programme><programme channel="Fuse-US" start="20260523033000 +0500" stop="20260523040000 +0500">
+    <title>Cheaters</title>
+    <sub-title>Jill Kelly</sub-title>
+    <desc>Jill wants to know why Rose constantly wants alone time.</desc>
+    <episode-num system="onscreen">S16</episode-num>
+    <credits>
+      <actor>Clark Gable</actor>
+      <actor>Robert Magruder</actor>
+    </credits><date>2018</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p185490_b_h10_ag.jpg?w=960&amp;h=540" />
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>12</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Film &amp; Publication Board">
+      <value>16</value>
+    </rating>
+  </programme><programme channel="Fuse-US" start="20260523040000 +0500" stop="20260523060000 +0500">
+    <title>The Luau</title>
+    <sub-title />
+    <desc>A man who owes a large sum of cash throws a party that soon spirals out of control just to raise some money.</desc>
+    <credits>
+      <director>Barry Bowles</director>
+      <actor>Brian Hooks</actor>
+      <actor>Maia Campbell</actor>
+      <actor>Troy Winbush</actor>
+    </credits><date>2001</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Comedy</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p168987_v_h10_aa.jpg?w=960&amp;h=540" />
+    <rating system="Motion Picture Association">
+      <value>R</value>
+    </rating>
+  </programme><programme channel="Fuse-US" start="20260523060000 +0500" stop="20260523080000 +0500">
+    <title>Malibooty</title>
+    <sub-title />
+    <desc>Three buddies (Brian Hooks, Sticky Fingaz, J.T. Jackson) leave their Arizona town and head to California for a wild beach party.</desc>
+    <credits>
+      <director>Barry Bowles</director>
+      <actor>Brian Hooks</actor>
+      <actor>Sticky Fingaz</actor>
+      <actor>J.T. Jackson</actor>
+    </credits><date>2003</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Comedy</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p34560_v_h8_aa.jpg?w=960&amp;h=540" />
+    <rating system="Motion Picture Association">
+      <value>PG-13</value>
+    </rating>
+  </programme><programme channel="Fuse-US" start="20260523080000 +0500" stop="20260523100000 +0500">
+    <title>The Extraordinary Journey of the Fakir</title>
+    <sub-title />
+    <desc>An Indian street magician travels to France to find his estranged father.</desc>
+    <credits>
+      <director>Ken Scott</director>
+      <actor>Dhanush</actor>
+      <actor>Bérénice Bejo</actor>
+      <actor>Erin Moriarty</actor>
+    </credits><date>2018</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Comedy drama</category>
+    <category lang="en">Adventure</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p16160112_v_h10_as.jpg?w=960&amp;h=540" />
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>12</value>
+    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>A</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>6</value>
+    </rating><rating system="Motion Picture Association">
+      <value>PG-13</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="Alberta's Film Classification Board">
+      <value>PG</value>
+    </rating><rating system="B.C. Film Classification Office">
+      <value>PG</value>
+    </rating><rating system="Manitoba Film Classification Board">
+      <value>PG</value>
+    </rating><rating system="Statens medieråd">
+      <value>Från 7 år</value>
+    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K7</value>
+    </rating><rating system="映倫">
+      <value>G</value>
+    </rating><rating system="Kijkwijzer">
+      <value>9</value>
+    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
+      <value>7</value>
+    </rating><rating system="영상물등급위원회">
+      <value>12+</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
     </rating><rating system="Australian Classification Board">
       <value>M 15+</value>
-    </rating><rating system="Kijkwijzer">
-      <value>AL</value>
+    </rating><rating system="Medierådet">
+      <value>7</value>
+    </rating><rating system="Central Board of Film Certification">
+      <value>UA</value>
     </rating>
-  </programme><programme channel="Fuse-US" start="20260516120000 +0500" stop="20260516130000 +0500">
-    <title>Dating a Sugar Daddy: Vogue Williams Investigates</title>
+  </programme><programme channel="Fuse-US" start="20260523100000 +0500" stop="20260523113000 +0500">
+    <title>Hollywood: No Sex, Please</title>
     <sub-title />
-    <desc>Television personality Vogue Williams travels across Europe to explore the world of sugar daddies, sugar babies and have common questions answered by those involved.</desc>
+    <desc>Exploring how Hollywood has evolved to reflect society's changing attitudes towards sex over the decades, from "Basic Instinct" and "Body Heat" to "Mad Men" and "Sex and the City.".</desc>
     <credits>
-      <actor>Vogue Williams</actor>
-    </credits><date>2024</date>
+      <director>Clara Kuperberg</director>
+      <director>Julia Kuperberg</director>
+    </credits><date>2018</date>
+    <category lang="en">Special</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">History</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p15084246_b_h10_ac.jpg?w=960&amp;h=540" />
+  </programme><programme channel="Fuse-US" start="20260523113000 +0500" stop="20260523123000 +0500">
+    <title>101 Body Shocks</title>
+    <sub-title />
+    <desc>A tour of the human body from head to toe.</desc>
+    <category lang="en">Special</category>
     <category lang="en">Documentary</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p27286187_b_h10_ab.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p22760708_b_h8_aa.jpg?w=960&amp;h=540" />
+  </programme><programme channel="Fuse-US" start="20260523123000 +0500" stop="20260523130000 +0500">
+    <title>My Big Boobs</title>
+    <sub-title />
+    <desc>Podcaster and body confidence advocate Jackie Adedeji meets women with big breasts to explore the growing issue living with larger breasts and the increased demand for reduction surgery.</desc>
+    <credits>
+      <director>Paula Haydock</director>
+      <actor>Jackie Adedeji</actor>
+    </credits><date>2023</date>
+    <category lang="en">Special</category>
+    <category lang="en">Documentary</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p24836840_b_h10_ad.jpg?w=960&amp;h=540" />
+  </programme><programme channel="Fuse-US" start="20260523130000 +0500" stop="20260523140000 +0500">
+    <title>Bob Marley: Roots of the Man</title>
+    <sub-title />
+    <desc>The life of Jamaican Robert Nesta Marley, known around the globe as reggae musician Bob Marley.</desc>
+    <credits>
+      <director>Brian Aabech</director>
+      <actor>Bob Marley</actor>
+      <actor>Ziggy Marley</actor>
+    </credits><date>2018</date>
+    <category lang="en">Special</category>
+    <category lang="en">Biography</category>
+    <category lang="en">Music</category>
+    <category lang="en">Reggae</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p15179064_b_h10_ad.jpg?w=960&amp;h=540" />
     <rating system="USA Parental Rating">
       <value>TV14</value>
     </rating><rating system="Canadian Parental Rating">
       <value>14+</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>L</value>
     </rating>
-  </programme><programme channel="Fuse-US" start="20260516130000 +0500" stop="20260516140000 +0500">
-    <title>The Myth of Marilyn Monroe</title>
-    <sub-title />
-    <desc>A look at Marilyn Monroe as a defining icon of 1950s America and how, throughout the decade, the myth of Marilyn and the American dream seemed to crumble.</desc>
-    <credits>
-      <director>Oliver Elphick</director>
-      <actor>Sherry Carter Brownell</actor>
-    </credits><category lang="en">Special</category>
-    <category lang="en">Biography</category>
-    <category lang="en">Documentary</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p25232377_b_h10_aa.jpg?w=960&amp;h=540" />
-    <rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating><rating system="UK Content Provider">
-      <value>12</value>
-    </rating>
-  </programme><programme channel="Fuse-US" start="20260516140000 +0500" stop="20260516143000 +0500">
+  </programme><programme channel="Fuse-US" start="20260523140000 +0500" stop="20260523143000 +0500">
     <title>True Dating Stories</title>
     <sub-title>Allie and Dorian</sub-title>
     <desc>Allie falls for a handsome pilot who lives in her building. But when he disappears Allie is left heartbroken until he shows up again. Dorian goes on a date with a girl who has a Jekyll and Hyde-like personality.</desc>
@@ -149,7 +382,7 @@
     </rating><rating system="USA Parental Rating">
       <value>TVMA</value>
     </rating>
-  </programme><programme channel="Fuse-US" start="20260516143000 +0500" stop="20260516150000 +0500">
+  </programme><programme channel="Fuse-US" start="20260523143000 +0500" stop="20260523150000 +0500">
     <title>True Dating Stories</title>
     <sub-title>Tanya and Sam</sub-title>
     <desc>In 1995, Tanya was on a double date driving through the mountains; the boys hunt down an elk and leave the girls stranded in the Utah wilderness; 19-year-old Sam dates a much older army veteran with a dark past and an insatiable sexual appetite.</desc>
@@ -165,524 +398,35 @@
     </rating><rating system="USA Parental Rating">
       <value>TVMA</value>
     </rating>
-  </programme><programme channel="Fuse-US" start="20260516150000 +0500" stop="20260516153000 +0500">
-    <title>Off the Map With Shannen and Holly</title>
-    <sub-title>Kentucky</sub-title>
-    <desc>The girls go zip lining; a horse sanctuary.</desc>
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <credits>
-      <actor>Shannen Doherty</actor>
-      <actor>Holly Marie Combs</actor>
-    </credits><date>2015</date>
-    <category lang="en">Series</category>
-    <category lang="en">Reality</category>
-    <category lang="en">Travel</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p11359059_b_h10_aa.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>G</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating>
-  </programme><programme channel="Fuse-US" start="20260516153000 +0500" stop="20260516160000 +0500">
-    <title>Off the Map With Shannen and Holly</title>
-    <sub-title>Tennessee</sub-title>
-    <desc>A night of music and dancing; Southern cuisine with a local twist.</desc>
-    <episode-num system="onscreen">S1 E2</episode-num>
-    <credits>
-      <actor>Shannen Doherty</actor>
-      <actor>Holly Marie Combs</actor>
-    </credits><date>2015</date>
-    <category lang="en">Series</category>
-    <category lang="en">Reality</category>
-    <category lang="en">Travel</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p11359059_b_h10_aa.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>G</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating>
-  </programme><programme channel="Fuse-US" start="20260516160000 +0500" stop="20260516163000 +0500">
-    <title>Off the Map With Shannen and Holly</title>
-    <sub-title>Mississippi</sub-title>
-    <desc>Shannen learns to play the harmonica; the best ribs of the South.</desc>
-    <episode-num system="onscreen">S1 E3</episode-num>
-    <credits>
-      <actor>Shannen Doherty</actor>
-      <actor>Holly Marie Combs</actor>
-    </credits><date>2015</date>
-    <category lang="en">Series</category>
-    <category lang="en">Reality</category>
-    <category lang="en">Travel</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p11359059_b_h10_aa.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>G</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating>
-  </programme><programme channel="Fuse-US" start="20260516163000 +0500" stop="20260516170000 +0500">
-    <title>Off the Map With Shannen and Holly</title>
-    <sub-title>Alabama</sub-title>
-    <desc>The girls are pulled over; dirt track race.</desc>
-    <episode-num system="onscreen">S1 E4</episode-num>
-    <credits>
-      <actor>Shannen Doherty</actor>
-      <actor>Holly Marie Combs</actor>
-    </credits><date>2015</date>
-    <category lang="en">Series</category>
-    <category lang="en">Reality</category>
-    <category lang="en">Travel</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p11359059_b_h10_aa.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>G</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating>
-  </programme><programme channel="Fuse-US" start="20260516170000 +0500" stop="20260516173000 +0500">
-    <title>Off the Map With Shannen and Holly</title>
-    <sub-title>Georgia</sub-title>
-    <desc>One of the prettiest inns in town; Savannah's ghostly history.</desc>
-    <episode-num system="onscreen">S1 E5</episode-num>
-    <credits>
-      <actor>Shannen Doherty</actor>
-      <actor>Holly Marie Combs</actor>
-    </credits><date>2015</date>
-    <category lang="en">Series</category>
-    <category lang="en">Reality</category>
-    <category lang="en">Travel</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p11359059_b_h10_aa.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>G</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating>
-  </programme><programme channel="Fuse-US" start="20260516173000 +0500" stop="20260516180000 +0500">
-    <title>Off the Map With Shannen and Holly</title>
-    <sub-title>Florida</sub-title>
-    <desc>Home to white sand beaches, nesting sea turtles.</desc>
-    <episode-num system="onscreen">S1 E6</episode-num>
-    <credits>
-      <actor>Shannen Doherty</actor>
-      <actor>Holly Marie Combs</actor>
-    </credits><date>2015</date>
-    <category lang="en">Series</category>
-    <category lang="en">Reality</category>
-    <category lang="en">Travel</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p11359059_b_h10_aa.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>G</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating>
-  </programme><programme channel="Fuse-US" start="20260516180000 +0500" stop="20260516183000 +0500">
-    <title>Big Freedia Means Business</title>
-    <sub-title>Back to Business</sub-title>
-    <desc>Hotel Freedia needs more funding; Tootie and Crystal discuss Freedia's businesses; Freedia decides her next project will be a gospel album.</desc>
-    <episode-num system="onscreen">S2 E1</episode-num>
-    <category lang="en">Series</category>
-    <category lang="en">Reality</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p28391942_b_h8_aa.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-  </programme><programme channel="Fuse-US" start="20260516183000 +0500" stop="20260516190000 +0500">
-    <title>Big Freedia Means Business</title>
-    <sub-title>Big Freedia Goes Gospel</sub-title>
-    <desc>Devon and Crystal voice their concerns about Freedia's gospel album; Tootie wants to be a travel agent; Crystal shares a personal story from her past.</desc>
-    <episode-num system="onscreen">S2 E2</episode-num>
-    <date>2024</date>
-    <category lang="en">Series</category>
-    <category lang="en">Reality</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p28391942_b_h8_aa.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-  </programme><programme channel="Fuse-US" start="20260516190000 +0500" stop="20260516193000 +0500">
-    <title>Big Freedia Means Business</title>
-    <sub-title>Hello Hollywood</sub-title>
-    <desc>The team goes to Los Angeles to advance their business ventures and perform at the star-studded Truth Awards.</desc>
-    <episode-num system="onscreen">S2 E3</episode-num>
-    <category lang="en">Series</category>
-    <category lang="en">Reality</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p28391942_b_h8_aa.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-  </programme><programme channel="Fuse-US" start="20260516193000 +0500" stop="20260516200000 +0500">
-    <title>Big Freedia Means Business</title>
-    <sub-title>Project Hotel Freedia</sub-title>
-    <desc>Freedia and Reid go on a tour of the potential new home of hotel Freedia; Meredith starts a Cuban Artists Outreach.</desc>
-    <episode-num system="onscreen">S2 E4</episode-num>
-    <category lang="en">Series</category>
-    <category lang="en">Reality</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p28391942_b_h8_aa.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-  </programme><programme channel="Fuse-US" start="20260516200000 +0500" stop="20260516203000 +0500">
-    <title>Big Freedia Means Business</title>
-    <sub-title>All Hell Breaks Loose</sub-title>
-    <desc>All hell breaks loose when Crystal confronts Tootie; Freedia and Devon meet with potential artists for her label.</desc>
-    <episode-num system="onscreen">S2 E5</episode-num>
-    <category lang="en">Series</category>
-    <category lang="en">Reality</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p28391942_b_h8_aa.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-  </programme><programme channel="Fuse-US" start="20260516203000 +0500" stop="20260516210000 +0500">
-    <title>Big Freedia Means Business</title>
-    <sub-title>Big Freedia's In Charge</sub-title>
-    <desc>Freedia tries to play peacemaker to Crystal and Tootie; the pressure is on Reid to raise funds for Hotel Freedia.</desc>
-    <episode-num system="onscreen">S2 E6</episode-num>
-    <category lang="en">Series</category>
-    <category lang="en">Reality</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p28391942_b_h8_aa.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-  </programme><programme channel="Fuse-US" start="20260516210000 +0500" stop="20260516213000 +0500">
-    <title>Big Freedia Means Business</title>
-    <sub-title>The Show Must Go On</sub-title>
-    <desc>Freedia plans a boxing retreat to get her team all on the same page; Freedia rewards Devon for doing a good job; Freedia performs with Cimafunk.</desc>
-    <episode-num system="onscreen">S2 E7</episode-num>
-    <category lang="en">Series</category>
-    <category lang="en">Reality</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p28391942_b_h8_aa.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-  </programme><programme channel="Fuse-US" start="20260516213000 +0500" stop="20260516220000 +0500">
-    <title>Big Freedia Means Business</title>
-    <sub-title>Big Freedia Takes the Stage</sub-title>
-    <desc>Team Freedia cleans up the site of Hotel Freedia; Freedia debuts her new gospel song during her Louisiana Philharmonic performance.</desc>
-    <episode-num system="onscreen">S2 E8</episode-num>
-    <date>2024</date>
-    <category lang="en">Series</category>
-    <category lang="en">Reality</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p28391942_b_h8_aa.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-  </programme><programme channel="Fuse-US" start="20260516220000 +0500" stop="20260516233000 +0500">
-    <title>Fatal Addiction: Michael Jackson</title>
+  </programme><programme channel="Fuse-US" start="20260523150000 +0500" stop="20260523163000 +0500">
+    <title>Beauty and the Bleach</title>
     <sub-title />
-    <desc>Family, friends and fellow musicians describe the life of the child prodigy turned king of pop Michael Jackson over his four-decade career, from his rise to fame to his later battle with tabloids.</desc>
+    <desc>Stylist and television presenter Tan France faces his own experience with skin bleaching while exploring the world's perception of beauty, skin tone and colorism.</desc>
     <credits>
-      <director>Danielle Winter</director>
-      <actor>Peter Hughes</actor>
-      <actor>Michael Jackson</actor>
-      <actor>Lucy Lester</actor>
+      <director>Heenan Bhatti</director>
+      <actor>Tan France</actor>
+      <actor>Charlotte Armitage</actor>
     </credits><date>2022</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Documentary</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p22434451_v_h8_aa.jpg?w=960&amp;h=540" />
-  </programme><programme channel="Fuse-US" start="20260516233000 +0500" stop="20260517010000 +0500">
-    <title>Michael Jackson: Chase the Truth</title>
-    <sub-title />
-    <desc>Close friends, former staff and researchers paint an intimate portrait of pop star Michael Jackson's complicated world and put allegations of sexual abuse under the microscope.</desc>
-    <credits>
-      <director>Jordan Hill</director>
-      <actor>Mike Smallcombe</actor>
-      <actor>Mark Lester</actor>
-      <actor>Lucy Lester</actor>
-    </credits><date>2019</date>
     <category lang="en">Special</category>
     <category lang="en">Documentary</category>
-    <category lang="en">Music</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p17227031_b_h10_ai.jpg?w=960&amp;h=540" />
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>14</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>16</value>
-    </rating>
-  </programme><programme channel="Fuse-US" start="20260517010000 +0500" stop="20260517020000 +0500">
-    <title>Diddy: Monster's Fall</title>
-    <sub-title />
-    <desc>A look into the downfall of the disgraced hip-hop mogul, Sean "Diddy" Combs, who could no longer buy his way out of trouble, when a grand jury indicted Combs on a racketeering conspiracy. It included sex trafficking, forced labor and bribery.</desc>
-    <date>2025</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Documentary</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p29119720_v_h10_aa.jpg?w=960&amp;h=540" />
-    <rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
-      <value>16</value>
-    </rating>
-  </programme><programme channel="Fuse-US" start="20260517020000 +0500" stop="20260517030000 +0500">
-    <title>The Manson Murders</title>
-    <sub-title />
-    <desc>A dive into the murders committed by the Manson Family in July and August of 1969, including the brutal killing of Sharon Tate.</desc>
-    <credits>
-      <director>Remone Jones</director>
-      <actor>Glen Lloyd</actor>
-    </credits><category lang="en">Special</category>
-    <category lang="en">Documentary</category>
-    <category lang="en">History</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p25129439_b_h10_aa.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p22016800_b_h8_ac.jpg?w=960&amp;h=540" />
     <rating system="Australian Classification Board">
       <value>M 15+</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>16</value>
     </rating>
-  </programme><programme channel="Fuse-US" start="20260517030000 +0500" stop="20260517050000 +0500">
-    <title>Righteous Thieves</title>
+  </programme><programme channel="Fuse-US" start="20260523163000 +0500" stop="20260523180000 +0500">
+    <title>Yellowface: Asian Whitewashing and Racism in Hollywood</title>
     <sub-title />
-    <desc>Annabel, the leader of a secret organization engaged in the recovery of priceless artwork, assembles a ragtag crew of art thieves to recover a Monet, Picasso, Degas and Van Gogh stolen by Nazis during WWII.</desc>
+    <desc>A history of anti-Asian racism and yellowface in Hollywood after the 1941 Pearl Harbor attack.</desc>
     <credits>
-      <director>Anthony Nardolillo</director>
-      <actor>Cam Gigandet</actor>
-      <actor>Jaina Lee Ortiz</actor>
-      <actor>Lisa Vidal</actor>
-    </credits><date>2023</date>
+      <director>Clara Kuperberg</director>
+      <director>Julia Kuperberg</director>
+    </credits><date>2019</date>
     <category lang="en">Movie</category>
-    <category lang="en">Thriller</category>
-    <category lang="en">Mystery</category>
+    <category lang="en">Documentary</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p23953006_v_h8_aa.jpg?w=960&amp;h=540" />
-    <rating system="Motion Picture Association">
-      <value>R</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="Kijkwijzer">
-      <value>12</value>
-    </rating><rating system="영상물등급위원회">
-      <value>12+</value>
-    </rating><rating system="Arcom">
-      <value>-10</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating>
-  </programme><programme channel="Fuse-US" start="20260517050000 +0500" stop="20260517070000 +0500">
-    <title>Better Criminal</title>
-    <sub-title />
-    <desc>A detective in the LAPD is forced to work for two warring crime syndicates while under an internal investigation.</desc>
-    <credits>
-      <director>Ben Burke</director>
-      <actor>Bai Ling</actor>
-      <actor>Tom Sizemore</actor>
-      <actor>James Hong</actor>
-    </credits><date>2016</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Action</category>
-    <category lang="en">Thriller</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p13510469_v_h10_aa.jpg?w=960&amp;h=540" />
-    <rating system="Medietilsynet">
-      <value>15 år</value>
-    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
-      <value>16</value>
-    </rating>
-  </programme><programme channel="Fuse-US" start="20260517070000 +0500" stop="20260517090000 +0500">
-    <title>Shoot the Hero</title>
-    <sub-title />
-    <desc>An engaged couple accidentally thwart a jewelry heist and become the target of hit men.</desc>
-    <credits>
-      <director>Christian Sesma</director>
-      <actor>Jason Mewes</actor>
-      <actor>Samantha Lockwood</actor>
-      <actor>Danny Trejo</actor>
-    </credits><date>2010</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Action</category>
-    <category lang="en">Comedy</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p8068366_v_h10_ac.jpg?w=960&amp;h=540" />
-    <rating system="Motion Picture Association">
-      <value>R</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>14</value>
-    </rating>
-  </programme><programme channel="Fuse-US" start="20260517090000 +0500" stop="20260517093000 +0500">
-    <title>Cheaters</title>
-    <sub-title>Lynn Skinner</sub-title>
-    <desc>Lynn Skinner worries her husband has the seven-year itch.</desc>
-    <episode-num system="onscreen">S21</episode-num>
-    <credits>
-      <actor>Robert Magruder</actor>
-      <actor>Peter Pankey</actor>
-    </credits><date>2021</date>
-    <category lang="en">Series</category>
-    <category lang="en">Reality</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p185490_b_h10_ag.jpg?w=960&amp;h=540" />
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>16</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>12</value>
-    </rating><rating system="Film &amp; Publication Board">
-      <value>16</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
-  </programme><programme channel="Fuse-US" start="20260517093000 +0500" stop="20260517100000 +0500">
-    <title>Cheaters</title>
-    <sub-title>Ashley Santos</sub-title>
-    <desc>Ashley Santos discovers the disconnect between her boyfriend's actions and words.</desc>
-    <episode-num system="onscreen">S21</episode-num>
-    <credits>
-      <actor>Robert Magruder</actor>
-      <actor>Peter Pankey</actor>
-    </credits><date>2021</date>
-    <category lang="en">Series</category>
-    <category lang="en">Reality</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p185490_b_h10_ag.jpg?w=960&amp;h=540" />
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>16</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>12</value>
-    </rating><rating system="Film &amp; Publication Board">
-      <value>16</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
-  </programme><programme channel="Fuse-US" start="20260517100000 +0500" stop="20260517103000 +0500">
-    <title>Cheaters</title>
-    <sub-title>Wendy Spring</sub-title>
-    <desc>Wendy Spring learns out why her husband is suddenly interested in yoga.</desc>
-    <episode-num system="onscreen">S21 E7</episode-num>
-    <credits>
-      <actor>Robert Magruder</actor>
-      <actor>Peter Pankey</actor>
-    </credits><date>2020</date>
-    <category lang="en">Series</category>
-    <category lang="en">Reality</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p185490_b_h10_ag.jpg?w=960&amp;h=540" />
-    <rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>12</value>
-    </rating><rating system="Film &amp; Publication Board">
-      <value>16</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
-  </programme><programme channel="Fuse-US" start="20260517103000 +0500" stop="20260517110000 +0500">
-    <title>Cheaters</title>
-    <sub-title>Jasmine Washington</sub-title>
-    <desc>Jasmine Washington is concerned about her boyfriend's backsliding behavior.</desc>
-    <episode-num system="onscreen">S21</episode-num>
-    <credits>
-      <actor>Robert Magruder</actor>
-      <actor>Peter Pankey</actor>
-    </credits><date>2021</date>
-    <category lang="en">Series</category>
-    <category lang="en">Reality</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p185490_b_h10_ag.jpg?w=960&amp;h=540" />
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>16</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>12</value>
-    </rating><rating system="Film &amp; Publication Board">
-      <value>16</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
-  </programme><programme channel="Fuse-US" start="20260517110000 +0500" stop="20260517113000 +0500">
-    <title>Cheaters</title>
-    <sub-title>Lindsey Johnson</sub-title>
-    <desc>Lindsey Johnson fears her unemployed boyfriend is not using his time wisely.</desc>
-    <episode-num system="onscreen">S21</episode-num>
-    <credits>
-      <actor>Robert Magruder</actor>
-      <actor>Peter Pankey</actor>
-    </credits><date>2021</date>
-    <category lang="en">Series</category>
-    <category lang="en">Reality</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p185490_b_h10_ag.jpg?w=960&amp;h=540" />
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>16</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>12</value>
-    </rating><rating system="Film &amp; Publication Board">
-      <value>16</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
-  </programme><programme channel="Fuse-US" start="20260517113000 +0500" stop="20260517120000 +0500">
-    <title>Cheaters</title>
-    <sub-title>Mondo Brown</sub-title>
-    <desc>Mondo Brown discovers why his girlfriend has been so out of pocket lately.</desc>
-    <episode-num system="onscreen">S21</episode-num>
-    <credits>
-      <actor>Robert Magruder</actor>
-      <actor>Peter Pankey</actor>
-    </credits><date>2021</date>
-    <category lang="en">Series</category>
-    <category lang="en">Reality</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p185490_b_h10_ag.jpg?w=960&amp;h=540" />
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>16</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>12</value>
-    </rating><rating system="Film &amp; Publication Board">
-      <value>16</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
-  </programme><programme channel="Fuse-US" start="20260517120000 +0500" stop="20260517123000 +0500">
+    <icon src="http://dtil.tmsimg.com/assets/p21814285_v_h8_ab.jpg?w=960&amp;h=540" />
+  </programme><programme channel="Fuse-US" start="20260523180000 +0500" stop="20260523183000 +0500">
     <title>Cheaters</title>
     <sub-title>Jasmine Skiles</sub-title>
     <desc>Jasmine Skiles is betrayed by her husband during their trial separation.</desc>
@@ -704,7 +448,7 @@
     </rating><rating system="USA Parental Rating">
       <value>TV14</value>
     </rating>
-  </programme><programme channel="Fuse-US" start="20260517123000 +0500" stop="20260517130000 +0500">
+  </programme><programme channel="Fuse-US" start="20260523183000 +0500" stop="20260523190000 +0500">
     <title>Cheaters</title>
     <sub-title>Deondre Bradford</sub-title>
     <desc>Deondre Bradford discovers the source of his girlfriend's new secretive behavior.</desc>
@@ -728,429 +472,670 @@
     </rating><rating system="USA Parental Rating">
       <value>TV14</value>
     </rating>
-  </programme><programme channel="Fuse-US" start="20260517130000 +0500" stop="20260517133000 +0500">
-    <title>Sense Appeal</title>
-    <sub-title>Matt</sub-title>
-    <desc>Matt the manager is bisexual, blond and brimming with desire to have a sensory seduction that will lead to his perfect match; he senses a strong grip, a lingering dance and passion.</desc>
-    <episode-num system="onscreen">S1</episode-num>
+  </programme><programme channel="Fuse-US" start="20260523190000 +0500" stop="20260523193000 +0500">
+    <title>Cheaters</title>
+    <sub-title>Alex Montoya</sub-title>
+    <desc>Alex Montoya discovers her girlfriend models with and without her clothes.</desc>
     <credits>
-      <actor>Patrick Orr</actor>
-    </credits><date>2019</date>
-    <category lang="en">Series</category>
+      <actor>Robert Magruder</actor>
+      <actor>Peter Pankey</actor>
+    </credits><category lang="en">Series</category>
     <category lang="en">Reality</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p16258298_b_h8_aa.jpg?w=960&amp;h=540" />
-    <rating system="Canadian Parental Rating">
+    <icon src="http://dtil.tmsimg.com/assets/p28206091_b_h10_aa.jpg?w=960&amp;h=540" />
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating><rating system="Canadian Parental Rating">
       <value>14+</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>12</value>
+    </rating><rating system="Film &amp; Publication Board">
+      <value>16</value>
     </rating><rating system="USA Parental Rating">
       <value>TV14</value>
     </rating>
-  </programme><programme channel="Fuse-US" start="20260517133000 +0500" stop="20260517140000 +0500">
-    <title>Sense Appeal</title>
-    <sub-title>Sierra</sub-title>
-    <desc>Psychic librarian Sierra is done being decimated by bad dates, and is ready to check out a divine man with good vibes; she senses Fiji beaches and nightmare sweats.</desc>
-    <episode-num system="onscreen">S1</episode-num>
+  </programme><programme channel="Fuse-US" start="20260523193000 +0500" stop="20260523200000 +0500">
+    <title>Cheaters</title>
+    <sub-title>Pedro Green</sub-title>
+    <desc>Pedro Green worries about his girlfriend's shady ways after she moves in with him.</desc>
+    <episode-num system="onscreen">S21</episode-num>
     <credits>
-      <actor>Patrick Orr</actor>
-    </credits><date>2019</date>
+      <actor>Robert Magruder</actor>
+      <actor>Peter Pankey</actor>
+    </credits><date>2021</date>
     <category lang="en">Series</category>
     <category lang="en">Reality</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p16258298_b_h8_aa.jpg?w=960&amp;h=540" />
-    <rating system="Canadian Parental Rating">
+    <icon src="http://dtil.tmsimg.com/assets/p185490_b_h10_ag.jpg?w=960&amp;h=540" />
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating><rating system="Canadian Parental Rating">
       <value>14+</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>12</value>
+    </rating><rating system="Film &amp; Publication Board">
+      <value>16</value>
     </rating><rating system="USA Parental Rating">
       <value>TV14</value>
     </rating>
-  </programme><programme channel="Fuse-US" start="20260517140000 +0500" stop="20260517143000 +0500">
-    <title>Sense Appeal</title>
-    <sub-title>Vin</sub-title>
-    <desc>Makeup artist Vin wants more than just a pretty face; he calls himself "dangerously sassy," but he's really just looking for a best friend to share his love foundation with; he senses an electric touch and a jolting taste.</desc>
-    <episode-num system="onscreen">S1</episode-num>
+  </programme><programme channel="Fuse-US" start="20260523200000 +0500" stop="20260523203000 +0500">
+    <title>Cheaters</title>
+    <sub-title>LaShan Hudson</sub-title>
+    <desc>LaShan Hudson finds out why her girlfriend only wants to work out alone.</desc>
+    <episode-num system="onscreen">S21</episode-num>
     <credits>
-      <actor>Patrick Orr</actor>
-    </credits><date>2019</date>
+      <actor>Robert Magruder</actor>
+      <actor>Peter Pankey</actor>
+    </credits><date>2021</date>
     <category lang="en">Series</category>
     <category lang="en">Reality</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p16258298_b_h8_aa.jpg?w=960&amp;h=540" />
-    <rating system="Canadian Parental Rating">
+    <icon src="http://dtil.tmsimg.com/assets/p185490_b_h10_ag.jpg?w=960&amp;h=540" />
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating><rating system="Canadian Parental Rating">
       <value>14+</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>12</value>
+    </rating><rating system="Film &amp; Publication Board">
+      <value>16</value>
     </rating><rating system="USA Parental Rating">
       <value>TV14</value>
     </rating>
-  </programme><programme channel="Fuse-US" start="20260517143000 +0500" stop="20260517150000 +0500">
-    <title>Sense Appeal</title>
-    <sub-title>Spencer</sub-title>
-    <desc>Café manager and drag star Spencer wonders if his senses will be sharper than his nails and more heightened than his heels for finding a suitable man; he senses seascapes and urinal cakes.</desc>
-    <episode-num system="onscreen">S1</episode-num>
+  </programme><programme channel="Fuse-US" start="20260523203000 +0500" stop="20260523210000 +0500">
+    <title>Cheaters</title>
+    <sub-title>Nadia Freeman</sub-title>
+    <desc>Nadia Freeman discovers the reason behind her boyfriend's unbalanced behavior.</desc>
+    <episode-num system="onscreen">S21</episode-num>
     <credits>
-      <actor>Patrick Orr</actor>
-    </credits><date>2019</date>
+      <actor>Robert Magruder</actor>
+      <actor>Peter Pankey</actor>
+    </credits><date>2021</date>
     <category lang="en">Series</category>
     <category lang="en">Reality</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p16258298_b_h8_aa.jpg?w=960&amp;h=540" />
-    <rating system="Canadian Parental Rating">
+    <icon src="http://dtil.tmsimg.com/assets/p185490_b_h10_ag.jpg?w=960&amp;h=540" />
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating><rating system="Canadian Parental Rating">
       <value>14+</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>12</value>
+    </rating><rating system="Film &amp; Publication Board">
+      <value>16</value>
     </rating><rating system="USA Parental Rating">
       <value>TV14</value>
     </rating>
-  </programme><programme channel="Fuse-US" start="20260517150000 +0500" stop="20260517170000 +0500">
-    <title>This Is Not Financial Advice</title>
+  </programme><programme channel="Fuse-US" start="20260523210000 +0500" stop="20260523213000 +0500">
+    <title>Cheaters</title>
+    <sub-title>Brittany Fowler</sub-title>
+    <desc>Brittany wants to find out why her boyfriend, Taylor, has become distant.</desc>
+    <episode-num system="onscreen">S16</episode-num>
+    <credits>
+      <actor>Clark Gable</actor>
+      <actor>Robert Magruder</actor>
+    </credits><date>2018</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p185490_b_h10_ag.jpg?w=960&amp;h=540" />
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>12</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Film &amp; Publication Board">
+      <value>16</value>
+    </rating>
+  </programme><programme channel="Fuse-US" start="20260523213000 +0500" stop="20260523220000 +0500">
+    <title>Cheaters</title>
+    <sub-title>Kesha Simmonds</sub-title>
+    <desc>Kesha wants to find out what's going on with Duke.</desc>
+    <episode-num system="onscreen">S16</episode-num>
+    <credits>
+      <actor>Clark Gable</actor>
+      <actor>Robert Magruder</actor>
+    </credits><date>2018</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p185490_b_h10_ag.jpg?w=960&amp;h=540" />
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>12</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Film &amp; Publication Board">
+      <value>16</value>
+    </rating>
+  </programme><programme channel="Fuse-US" start="20260523220000 +0500" stop="20260523230000 +0500">
+    <title>Jim Morrison's Final Chapter</title>
     <sub-title />
-    <desc>Glauber Contessoto gambles his life savings on a joke cryptocurrency. Two months later, he becomes the Dogecoin Millionaire and an internet legend. While it might seem easy to get rich online, it's even easier to lose it all.</desc>
+    <desc>Explore the life of Jim Morrison, the Doors frontman, and uncover the enigmatic details surrounding his untimely death in Paris at age 27.</desc>
     <credits>
-      <director>Zach Ingrasci</director>
-      <director>Chris Temple</director>
-      <actor>Glauber Contessoto</actor>
-      <actor>Kayla Kilbride</actor>
-      <actor>Senay Kenfe</actor>
+      <director>Hannah Summer</director>
+      <actor>Jennifer Otter Bickerdike</actor>
     </credits><date>2024</date>
+    <category lang="en">Special</category>
+    <category lang="en">Documentary</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p29659099_b_h10_aa.jpg?w=960&amp;h=540" />
+  </programme><programme channel="Fuse-US" start="20260523230000 +0500" stop="20260524000000 +0500">
+    <title>Willie Nelson: The Outlaw Country King</title>
+    <sub-title />
+    <desc>Fuse delivers music-centric lifestyle programming, multicultural reality series, and docuseries showcasing diverse artists and creators.</desc>
+    <credits>
+      <director>Nick Randall</director>
+    </credits><date>2024</date>
+    <category lang="en">Special</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Biography</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p28177827_b_h10_aa.jpg?w=960&amp;h=540" />
+  </programme><programme channel="Fuse-US" start="20260524000000 +0500" stop="20260524010000 +0500">
+    <title>Elvis Presley: Shook Up</title>
+    <sub-title />
+    <desc>Behind the glitz and glamour of rock 'n' roll royalty is the haunting tale of Elvis Presley; many question his moral fiber and notorious violent temper; devilish charm dressed in angelic white had friends and fans fooled for too long.</desc>
+    <credits>
+      <director>Angelica Butcher</director>
+      <actor>Elvis Presley</actor>
+      <actor>Joe Esposito</actor>
+      <actor>Sonny West</actor>
+    </credits><date>2024</date>
+    <category lang="en">Special</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Biography</category>
+    <category lang="en">Music</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p28865041_b_h10_aa.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="Fuse-US" start="20260524010000 +0500" stop="20260524020000 +0500">
+    <title>Bruce Springsteen: Born to Rock</title>
+    <sub-title />
+    <desc>Following electrifying rock star Bruce Springsteen's career from the Jersey Shore to sold-out live performances in stadiums around the globe.</desc>
+    <credits>
+      <director>Jordan Hill</director>
+      <actor>Jeremy Vine</actor>
+      <actor>Jeff Weiss</actor>
+      <actor>Laura Barton</actor>
+    </credits><date>2020</date>
+    <category lang="en">Special</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Music</category>
+    <category lang="en">Rock</category>
+    <category lang="en">Biography</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p18387317_b_h10_aa.jpg?w=960&amp;h=540" />
+    <rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="Fuse-US" start="20260524020000 +0500" stop="20260524033000 +0500">
+    <title>David Bowie: Out of This World</title>
+    <sub-title />
+    <desc>Few artists marked the 20th century like David Bowie marked it. He was an astonishing and eclectic performer whose work brought a new dimension to the music scene and queer culture. Driven, fierce and always wanting to escape conformity, he was an outsider and was considered as a man from another planet.</desc>
+    <credits>
+      <director>Brian Aabech</director>
+      <director>Roxane Schlumberger</director>
+      <actor>David Bowie</actor>
+    </credits><date>2021</date>
     <category lang="en">Movie</category>
     <category lang="en">Documentary</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p26317153_v_h8_aa.jpg?w=960&amp;h=540" />
-  </programme><programme channel="Fuse-US" start="20260517170000 +0500" stop="20260517180000 +0500">
-    <title>Taking Care</title>
-    <sub-title />
-    <desc>Soon after Lauren Miller and Seth Rogen begin dating in 2004, Lauren's mother, Adele is diagnosed with early-onset Alzheimer's; through intimate interviews, "Taking Care" sheds warmth on Alzheimer's through comedy, medical insights, and abiding love.</desc>
+    <icon src="http://dtil.tmsimg.com/assets/p19781323_v_h8_aa.jpg?w=960&amp;h=540" />
+    <rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating>
+  </programme><programme channel="Fuse-US" start="20260524033000 +0500" stop="20260524060000 +0500">
+    <title>Reggie Yates' Extreme Russia</title>
+    <sub-title>Gay and Under Attack</sub-title>
+    <desc>In Russia, Reggie Yates finds out what life is like for young gay people; in the U.K., Reggie discovers that, for young Black and Muslim LGBTQ+ folk, their harshest critics and persecutors come from their own communities, or even their own families.</desc>
+    <episode-num system="onscreen">S1 E2</episode-num>
     <credits>
-      <director>James Keach</director>
-      <actor>Seth Rogen</actor>
-    </credits><category lang="en">Special</category>
+      <director>Sam Wilkinson</director>
+      <actor>Reggie Yates</actor>
+    </credits><date>2015</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Public affairs</category>
+    <category lang="en">Miniseries</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p13955790_b_h8_aa.jpg?w=960&amp;h=540" />
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+  </programme><programme channel="Fuse-US" start="20260524060000 +0500" stop="20260524083000 +0500">
+    <title>Reggie Yates' Extreme Russia</title>
+    <sub-title>Teen Model Factory and Six Packs</sub-title>
+    <desc>Reggie Yates visits Siberia to meet the young girls who are going to extreme lengths to attract the international scouts and make it as fashion models in the West; Reggie investigates the ways in which male body culture is impacting young men.</desc>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <credits>
+      <director>Ruhi Hamid</director>
+      <actor>Reggie Yates</actor>
+    </credits><date>2015</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Public affairs</category>
+    <category lang="en">Miniseries</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p13955790_b_h8_aa.jpg?w=960&amp;h=540" />
+    <rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating>
+  </programme><programme channel="Fuse-US" start="20260524083000 +0500" stop="20260524093000 +0500">
+    <title>Reggie Yates' Extreme South Africa</title>
+    <sub-title>The White Slums</sub-title>
+    <desc>Reggie spends a week in South Africa's largest white squatter camp, Coronation Park, outside Johannesburg.</desc>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <credits>
+      <director>Sam Wilkinson</director>
+      <actor>Reggie Yates</actor>
+    </credits><date>2014</date>
+    <category lang="en">Series</category>
     <category lang="en">Documentary</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p29281304_b_h10_aa.jpg?w=960&amp;h=540" />
-  </programme><programme channel="Fuse-US" start="20260517180000 +0500" stop="20260517183000 +0500">
-    <title>Made From Scratch</title>
-    <sub-title>Jhene Aiko and T-Pain</sub-title>
-    <desc>T-Pain and his mom make beef pie and talk about the origin of his sound and share old photos; Jhené Aiko and her mom make vegan tacos and talk about their family's fusion of cultures and female influencers.</desc>
-    <episode-num system="onscreen">S1 E7</episode-num>
+    <icon src="http://dtil.tmsimg.com/assets/p10531673_b_h8_aa.jpg?w=960&amp;h=540" />
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+  </programme><programme channel="Fuse-US" start="20260524093000 +0500" stop="20260524110000 +0500">
+    <title>Yellowface: Asian Whitewashing and Racism in Hollywood</title>
+    <sub-title />
+    <desc>A history of anti-Asian racism and yellowface in Hollywood after the 1941 Pearl Harbor attack.</desc>
     <credits>
-      <actor>Jhené Aiko</actor>
-      <actor>T-Pain</actor>
+      <director>Clara Kuperberg</director>
+      <director>Julia Kuperberg</director>
+    </credits><date>2019</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Documentary</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p21814285_v_h8_ab.jpg?w=960&amp;h=540" />
+  </programme><programme channel="Fuse-US" start="20260524110000 +0500" stop="20260524113000 +0500">
+    <title>TallBoyz</title>
+    <sub-title>Under Caricature Clouds</sub-title>
+    <desc>The Tallboyz force Tim to choose a best friend; a pair of wannabe rappers searches for a place to record; detectives negotiate a hostage situation.</desc>
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <credits>
+      <director>Bruce McCulloch</director>
+      <actor>Vance Banzo</actor>
+      <actor>Guled Abdi</actor>
+      <actor>Franco Nguyen</actor>
     </credits><date>2019</date>
     <category lang="en">Series</category>
-    <category lang="en">Cooking</category>
-    <category lang="en">Reality</category>
+    <category lang="en">Comedy</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p16080480_b_h8_af.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p16747191_b_h8_ac.jpg?w=960&amp;h=540" />
     <rating system="Canadian Parental Rating">
       <value>14+</value>
     </rating><rating system="USA Parental Rating">
       <value>TV14</value>
     </rating>
-  </programme><programme channel="Fuse-US" start="20260517183000 +0500" stop="20260517190000 +0500">
-    <title>Made From Scratch</title>
-    <sub-title>Big Boi</sub-title>
-    <desc>Big Boi and his mom Rowena share a family favorite of shrimp and grits as they talk about his latest album, discovering new artists and how he's handling being an empty nester.</desc>
-    <episode-num system="onscreen">S1 E8</episode-num>
-    <date>2019</date>
-    <category lang="en">Series</category>
-    <category lang="en">Cooking</category>
-    <category lang="en">Reality</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p16080480_b_h8_af.jpg?w=960&amp;h=540" />
-    <rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
-  </programme><programme channel="Fuse-US" start="20260517190000 +0500" stop="20260517193000 +0500">
-    <title>Made From Scratch</title>
-    <sub-title>Noah Cyrus</sub-title>
-    <desc>Noah Cyrus and her mom, Tish, talk about growing up in a musical family; they cook filet mignons and make heavy use of their favorite kitchen appliance: the air fryer.</desc>
-    <episode-num system="onscreen">S4 E7</episode-num>
+  </programme><programme channel="Fuse-US" start="20260524113000 +0500" stop="20260524120000 +0500">
+    <title>TallBoyz</title>
+    <sub-title>Hoop Hoop Hooray!</sub-title>
+    <desc>An officer attempts to disarm a bomb; someone leaks the TallBoyz' secret handshake; soldiers comfort a fallen comrade during his final moments.</desc>
+    <episode-num system="onscreen">S1 E7</episode-num>
     <credits>
-      <director>Kurt Williamson</director>
-      <actor>Ayo &amp; Teo</actor>
-      <actor>Young M.A.</actor>
-      <actor>T-Pain</actor>
-    </credits><date>2022</date>
+      <director>Bruce McCulloch</director>
+      <actor>Vance Banzo</actor>
+      <actor>Guled Abdi</actor>
+      <actor>Franco Nguyen</actor>
+    </credits><date>2019</date>
     <category lang="en">Series</category>
-    <category lang="en">Cooking</category>
+    <category lang="en">Comedy</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p16080480_b_h8_af.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p16747191_b_h8_ac.jpg?w=960&amp;h=540" />
     <rating system="USA Parental Rating">
       <value>TV14</value>
     </rating><rating system="Canadian Parental Rating">
       <value>14+</value>
     </rating>
-  </programme><programme channel="Fuse-US" start="20260517193000 +0500" stop="20260517200000 +0500">
-    <title>Bollywed</title>
-    <sub-title>Everybody Loves a Party</sub-title>
-    <desc>Mom and Dad hope nostalgia will keep the kids from leaving the store when the Festival of South Asia makes its return.</desc>
-    <episode-num system="onscreen">S1 E6</episode-num>
-    <credits>
-      <actor>Kuki Singh</actor>
-      <actor>Sarab Singh</actor>
-    </credits><date>2023</date>
+  </programme><programme channel="Fuse-US" start="20260524120000 +0500" stop="20260524123000 +0500">
+    <title>We Need to Talk About America</title>
+    <sub-title>The American Rat Race</sub-title>
+    <desc>Breaking down American work culture: Chinedu Unaka reunites with his first boss; Sherry Cola visits her parents' restaurant; quitting goes viral.</desc>
+    <episode-num system="onscreen">S2 E1</episode-num>
+    <date>2023</date>
     <category lang="en">Series</category>
-    <category lang="en">Reality</category>
+    <category lang="en">Comedy</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p23635239_b_h10_ad.jpg?w=960&amp;h=540" />
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>6</value>
-    </rating>
-  </programme><programme channel="Fuse-US" start="20260517200000 +0500" stop="20260517203000 +0500">
-    <title>Bollywed</title>
-    <sub-title>Sweet Like Kuki</sub-title>
-    <desc>Kuki's sweet tooth has the family keeping a watchful eye on his diet, but for Kuki what they don't see won't hurt them.</desc>
-    <episode-num system="onscreen">S1 E7</episode-num>
-    <credits>
-      <actor>Kuki Singh</actor>
-      <actor>Sarab Singh</actor>
-    </credits><date>2023</date>
-    <category lang="en">Series</category>
-    <category lang="en">Reality</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p23635239_b_h10_ad.jpg?w=960&amp;h=540" />
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>6</value>
-    </rating>
-  </programme><programme channel="Fuse-US" start="20260517203000 +0500" stop="20260517210000 +0500">
-    <title>Bollywed</title>
-    <sub-title>Game On!</sub-title>
-    <desc>It's game on when a posters vs. mannequins debate sees the family on opposite sides of marketing techniques.</desc>
-    <episode-num system="onscreen">S1 E8</episode-num>
-    <credits>
-      <actor>Kuki Singh</actor>
-      <actor>Sarab Singh</actor>
-    </credits><date>2023</date>
-    <category lang="en">Series</category>
-    <category lang="en">Reality</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p23635239_b_h10_ad.jpg?w=960&amp;h=540" />
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>6</value>
-    </rating>
-  </programme><programme channel="Fuse-US" start="20260517210000 +0500" stop="20260517213000 +0500">
-    <title>Cheaters</title>
-    <sub-title>Christian Boyd</sub-title>
-    <desc>Christian wants to discover why Celeste is so secretive.</desc>
-    <episode-num system="onscreen">S16</episode-num>
-    <credits>
-      <actor>Clark Gable</actor>
-      <actor>Robert Magruder</actor>
-    </credits><date>2019</date>
-    <category lang="en">Series</category>
-    <category lang="en">Reality</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p185490_b_h10_ag.jpg?w=960&amp;h=540" />
-    <rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>12</value>
-    </rating><rating system="USA Parental Rating">
+    <icon src="http://dtil.tmsimg.com/assets/p24543752_b_h8_aa.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
       <value>TV14</value>
-    </rating><rating system="Film &amp; Publication Board">
-      <value>16</value>
-    </rating>
-  </programme><programme channel="Fuse-US" start="20260517213000 +0500" stop="20260517220000 +0500">
-    <title>Cheaters</title>
-    <sub-title>Amber Prosser</sub-title>
-    <desc>Amber wants to know the reason behind Robert's constant showering and frequent haircuts.</desc>
-    <episode-num system="onscreen">S16</episode-num>
-    <credits>
-      <actor>Clark Gable</actor>
-      <actor>Robert Magruder</actor>
-    </credits><date>2019</date>
-    <category lang="en">Series</category>
-    <category lang="en">Reality</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p185490_b_h10_ag.jpg?w=960&amp;h=540" />
-    <rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>12</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating><rating system="Film &amp; Publication Board">
-      <value>16</value>
-    </rating>
-  </programme><programme channel="Fuse-US" start="20260517220000 +0500" stop="20260517223000 +0500">
-    <title>Cheaters</title>
-    <sub-title>Lynn Skinner</sub-title>
-    <desc>Lynn Skinner worries her husband has the seven-year itch.</desc>
-    <episode-num system="onscreen">S21</episode-num>
-    <credits>
-      <actor>Robert Magruder</actor>
-      <actor>Peter Pankey</actor>
-    </credits><date>2021</date>
-    <category lang="en">Series</category>
-    <category lang="en">Reality</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p185490_b_h10_ag.jpg?w=960&amp;h=540" />
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>16</value>
     </rating><rating system="Canadian Parental Rating">
       <value>14+</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>12</value>
-    </rating><rating system="Film &amp; Publication Board">
-      <value>16</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TV14</value>
     </rating>
-  </programme><programme channel="Fuse-US" start="20260517223000 +0500" stop="20260517230000 +0500">
-    <title>Cheaters</title>
-    <sub-title>Ashley Santos</sub-title>
-    <desc>Ashley Santos discovers the disconnect between her boyfriend's actions and words.</desc>
-    <episode-num system="onscreen">S21</episode-num>
+  </programme><programme channel="Fuse-US" start="20260524123000 +0500" stop="20260524130000 +0500">
+    <title>We Need to Talk About America</title>
+    <sub-title>Mom Wants Me to Find a Tinder Match</sub-title>
+    <desc>Parents join the cast to discuss the current state of love and marriage in the U.S.; Tim and Chinedu meet a wedding planner.</desc>
+    <episode-num system="onscreen">S2 E2</episode-num>
+    <date>2023</date>
+    <category lang="en">Series</category>
+    <category lang="en">Comedy</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p21931441_b_h8_ab.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+  </programme><programme channel="Fuse-US" start="20260524130000 +0500" stop="20260524133000 +0500">
+    <title>Sense Appeal</title>
+    <sub-title>Noah</sub-title>
+    <desc>Film student Noah is holding sensual auditions for a leading man; he senses crushes, grunts and pheromones.</desc>
+    <episode-num system="onscreen">S1</episode-num>
     <credits>
-      <actor>Robert Magruder</actor>
-      <actor>Peter Pankey</actor>
-    </credits><date>2021</date>
+      <actor>Patrick Orr</actor>
+    </credits><date>2019</date>
     <category lang="en">Series</category>
     <category lang="en">Reality</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p185490_b_h10_ag.jpg?w=960&amp;h=540" />
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>16</value>
-    </rating><rating system="Canadian Parental Rating">
+    <icon src="http://dtil.tmsimg.com/assets/p16258298_b_h8_aa.jpg?w=960&amp;h=540" />
+    <rating system="Canadian Parental Rating">
       <value>14+</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>12</value>
-    </rating><rating system="Film &amp; Publication Board">
-      <value>16</value>
     </rating><rating system="USA Parental Rating">
       <value>TV14</value>
     </rating>
-  </programme><programme channel="Fuse-US" start="20260517230000 +0500" stop="20260518003000 +0500">
-    <title>The Rolling Stones: Rock Royalty</title>
-    <sub-title />
-    <desc>Two old friends bumping into each other at a train station in England leads to formation of the Rolling Stones and the band's enduring success in music and business.</desc>
-    <date>2018</date>
-    <category lang="en">Special</category>
-    <category lang="en">Documentary</category>
-    <category lang="en">Music</category>
-    <category lang="en">Rock</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p15452517_b_h10_aa.jpg?w=960&amp;h=540" />
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>14</value>
-    </rating><rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating>
-  </programme><programme channel="Fuse-US" start="20260518003000 +0500" stop="20260518020000 +0500">
-    <title>The Beatles: In the Life</title>
-    <sub-title />
-    <desc>The Beatles took the world by storm in the 1960s and are still the best-selling band of all time with 183 million sales worldwide.</desc>
+  </programme><programme channel="Fuse-US" start="20260524133000 +0500" stop="20260524140000 +0500">
+    <title>Sense Appeal</title>
+    <sub-title>Patrick</sub-title>
+    <desc>Artist Patrick hopes his senses will be the muse to a masterpiece; he senses smoky candied coffee beans and a ferocious black panther.</desc>
+    <episode-num system="onscreen">S1</episode-num>
     <credits>
-      <director>Matt Salmon</director>
-      <actor>Jennifer Bickerdike</actor>
-      <actor>Sid Griffin</actor>
-      <actor>Tony Calder</actor>
+      <actor>Patrick Orr</actor>
     </credits><date>2019</date>
-    <category lang="en">Special</category>
-    <category lang="en">Documentary</category>
-    <category lang="en">Music</category>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p17524154_b_h10_aa.jpg?w=960&amp;h=540" />
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>10</value>
+    <icon src="http://dtil.tmsimg.com/assets/p16258298_b_h8_aa.jpg?w=960&amp;h=540" />
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TV14</value>
     </rating>
-  </programme><programme channel="Fuse-US" start="20260518020000 +0500" stop="20260518033000 +0500">
-    <title>Killing John Lennon</title>
-    <sub-title />
-    <desc>A dramatic step-by-step breakdown behind the lead up to John Lennon's murder on Dec. 8, 1980.</desc>
+  </programme><programme channel="Fuse-US" start="20260524140000 +0500" stop="20260524143000 +0500">
+    <title>Sense Appeal</title>
+    <sub-title>Jas</sub-title>
+    <desc>Super sexy nerd Jas is a maestro of makeup but can't find a glow up in her dating life; she senses jazz festivals and GPS sounds.</desc>
+    <episode-num system="onscreen">S1</episode-num>
     <credits>
-      <director>Jordan Hill</director>
-      <actor>Dr. Peter Hughes</actor>
-      <actor>Sid Griffin</actor>
+      <actor>Patrick Orr</actor>
     </credits><date>2019</date>
-    <category lang="en">Special</category>
-    <category lang="en">Documentary</category>
-    <category lang="en">Biography</category>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p17628874_b_h10_af.jpg?w=960&amp;h=540" />
-  </programme><programme channel="Fuse-US" start="20260518033000 +0500" stop="20260518050000 +0500">
-    <title>Stevie Nicks: Wild at Heart</title>
-    <sub-title />
-    <desc>For decades, Stevie Nicks has fronted one of the most successful bands in history, resurrecting them from the ashes; even with the trials and tribulations of being a member of Fleetwood Mac, Stevie has remained a role model.</desc>
+    <icon src="http://dtil.tmsimg.com/assets/p16258298_b_h8_aa.jpg?w=960&amp;h=540" />
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+  </programme><programme channel="Fuse-US" start="20260524143000 +0500" stop="20260524150000 +0500">
+    <title>Sense Appeal</title>
+    <sub-title>Jeremy</sub-title>
+    <desc>Jeremy is an account executive looking for a man who can handle his well-hung kiss; he senses a preppy smell and a salty taste.</desc>
+    <episode-num system="onscreen">S1</episode-num>
     <credits>
-      <director>Piers Garland</director>
-    </credits><date>2020</date>
-    <category lang="en">Special</category>
-    <category lang="en">Documentary</category>
-    <category lang="en">Music</category>
-    <category lang="en">Biography</category>
+      <actor>Patrick Orr</actor>
+    </credits><date>2019</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p18693762_b_h10_aa.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p16258298_b_h8_aa.jpg?w=960&amp;h=540" />
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+  </programme><programme channel="Fuse-US" start="20260524150000 +0500" stop="20260524170000 +0500">
+    <title>The Revolution Generation</title>
+    <sub-title />
+    <desc>Exploring how the millennial generation came to be, the world that the people in it grew up in, and the impact they have in the world.</desc>
+    <credits>
+      <director>Joshua Tickell</director>
+      <director>Rebecca Harrell Tickell</director>
+    </credits><date>2021</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Documentary</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p20886305_v_h8_aa.jpg?w=960&amp;h=540" />
+  </programme><programme channel="Fuse-US" start="20260524170000 +0500" stop="20260524180000 +0500">
+    <title>Reggie Yates' Extreme South Africa</title>
+    <sub-title>The White Slums</sub-title>
+    <desc>Reggie spends a week in South Africa's largest white squatter camp, Coronation Park, outside Johannesburg.</desc>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <credits>
+      <director>Sam Wilkinson</director>
+      <actor>Reggie Yates</actor>
+    </credits><date>2014</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p10531673_b_h8_aa.jpg?w=960&amp;h=540" />
     <rating system="Australian Classification Board">
-      <value>M 15+</value>
+      <value>MA 15+</value>
     </rating>
-  </programme><programme channel="Fuse-US" start="20260518050000 +0500" stop="20260518060000 +0500">
-    <title>Elvis &amp; Priscilla: Conditional Love</title>
-    <sub-title />
-    <desc>Experts peel back the layers of Priscilla and the Rock 'n' Roll King's controversial love story to cast light on the dysfunction under the dreamy and glamorous surface.</desc>
+  </programme><programme channel="Fuse-US" start="20260524180000 +0500" stop="20260524183000 +0500">
+    <title>Cheaters</title>
+    <sub-title>Alex Montoya</sub-title>
+    <desc>Alex Montoya discovers her girlfriend models with and without her clothes.</desc>
     <credits>
-      <director>Finlay Bald</director>
+      <actor>Robert Magruder</actor>
+      <actor>Peter Pankey</actor>
+    </credits><category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p28206091_b_h10_aa.jpg?w=960&amp;h=540" />
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>12</value>
+    </rating><rating system="Film &amp; Publication Board">
+      <value>16</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+  </programme><programme channel="Fuse-US" start="20260524183000 +0500" stop="20260524190000 +0500">
+    <title>Cheaters</title>
+    <sub-title>Pedro Green</sub-title>
+    <desc>Pedro Green worries about his girlfriend's shady ways after she moves in with him.</desc>
+    <episode-num system="onscreen">S21</episode-num>
+    <credits>
+      <actor>Robert Magruder</actor>
+      <actor>Peter Pankey</actor>
+    </credits><date>2021</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p185490_b_h10_ag.jpg?w=960&amp;h=540" />
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>12</value>
+    </rating><rating system="Film &amp; Publication Board">
+      <value>16</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+  </programme><programme channel="Fuse-US" start="20260524190000 +0500" stop="20260524193000 +0500">
+    <title>Cheaters</title>
+    <sub-title>LaShan Hudson</sub-title>
+    <desc>LaShan Hudson finds out why her girlfriend only wants to work out alone.</desc>
+    <episode-num system="onscreen">S21</episode-num>
+    <credits>
+      <actor>Robert Magruder</actor>
+      <actor>Peter Pankey</actor>
+    </credits><date>2021</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p185490_b_h10_ag.jpg?w=960&amp;h=540" />
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>12</value>
+    </rating><rating system="Film &amp; Publication Board">
+      <value>16</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+  </programme><programme channel="Fuse-US" start="20260524193000 +0500" stop="20260524200000 +0500">
+    <title>Cheaters</title>
+    <sub-title>Nadia Freeman</sub-title>
+    <desc>Nadia Freeman discovers the reason behind her boyfriend's unbalanced behavior.</desc>
+    <episode-num system="onscreen">S21</episode-num>
+    <credits>
+      <actor>Robert Magruder</actor>
+      <actor>Peter Pankey</actor>
+    </credits><date>2021</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p185490_b_h10_ag.jpg?w=960&amp;h=540" />
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>12</value>
+    </rating><rating system="Film &amp; Publication Board">
+      <value>16</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+  </programme><programme channel="Fuse-US" start="20260524200000 +0500" stop="20260524203000 +0500">
+    <title>Cheaters</title>
+    <sub-title>Brittany Fowler</sub-title>
+    <desc>Brittany wants to find out why her boyfriend, Taylor, has become distant.</desc>
+    <episode-num system="onscreen">S16</episode-num>
+    <credits>
+      <actor>Clark Gable</actor>
+      <actor>Robert Magruder</actor>
+    </credits><date>2018</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p185490_b_h10_ag.jpg?w=960&amp;h=540" />
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>12</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Film &amp; Publication Board">
+      <value>16</value>
+    </rating>
+  </programme><programme channel="Fuse-US" start="20260524203000 +0500" stop="20260524210000 +0500">
+    <title>Cheaters</title>
+    <sub-title>Kesha Simmonds</sub-title>
+    <desc>Kesha wants to find out what's going on with Duke.</desc>
+    <episode-num system="onscreen">S16</episode-num>
+    <credits>
+      <actor>Clark Gable</actor>
+      <actor>Robert Magruder</actor>
+    </credits><date>2018</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p185490_b_h10_ag.jpg?w=960&amp;h=540" />
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>12</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Film &amp; Publication Board">
+      <value>16</value>
+    </rating>
+  </programme><programme channel="Fuse-US" start="20260524210000 +0500" stop="20260524213000 +0500">
+    <title>Cheaters</title>
+    <sub-title>Nicholas Booth</sub-title>
+    <desc>Nicholas is worried about his relationship with Ava.</desc>
+    <episode-num system="onscreen">S16</episode-num>
+    <credits>
+      <actor>Clark Gable</actor>
+      <actor>Robert Magruder</actor>
+    </credits><date>2018</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p185490_b_h10_ag.jpg?w=960&amp;h=540" />
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>12</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Film &amp; Publication Board">
+      <value>16</value>
+    </rating>
+  </programme><programme channel="Fuse-US" start="20260524213000 +0500" stop="20260524220000 +0500">
+    <title>Cheaters</title>
+    <sub-title>Jill Kelly</sub-title>
+    <desc>Jill wants to know why Rose constantly wants alone time.</desc>
+    <episode-num system="onscreen">S16</episode-num>
+    <credits>
+      <actor>Clark Gable</actor>
+      <actor>Robert Magruder</actor>
+    </credits><date>2018</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p185490_b_h10_ag.jpg?w=960&amp;h=540" />
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>12</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Film &amp; Publication Board">
+      <value>16</value>
+    </rating>
+  </programme><programme channel="Fuse-US" start="20260524220000 +0500" stop="20260524230000 +0500">
+    <title>The Manson Murders</title>
+    <sub-title />
+    <desc>A dive into the murders committed by the Manson Family in July and August of 1969, including the brutal killing of Sharon Tate.</desc>
+    <credits>
+      <director>Remone Jones</director>
+      <actor>Glen Lloyd</actor>
     </credits><category lang="en">Special</category>
     <category lang="en">Documentary</category>
-    <category lang="en">Biography</category>
-    <category lang="en">Music</category>
+    <category lang="en">History</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p24931001_b_h10_ad.jpg?w=960&amp;h=540" />
-  </programme><programme channel="Fuse-US" start="20260518060000 +0500" stop="20260518070000 +0500">
-    <title>Elvis: Death of the King</title>
-    <sub-title />
-    <desc>Elvis Presley's charisma and musical talent made him the king of rock, but his rock star lifestyle led to a downfall that was as swift as his rise.</desc>
-    <credits>
-      <director>Patrick R Byrne</director>
-      <actor>David Flosi</actor>
-    </credits><date>2023</date>
-    <category lang="en">Special</category>
-    <category lang="en">Documentary</category>
-    <category lang="en">Biography</category>
-    <category lang="en">Music</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p26493465_b_h10_ab.jpg?w=960&amp;h=540" />
-  </programme><programme channel="Fuse-US" start="20260518070000 +0500" stop="20260518080000 +0500">
-    <title>The Sex Clinic</title>
-    <sub-title>Lumps, Premature Ejaculation and a Dry Vagina</sub-title>
-    <desc>Marco finds a lump on his penis; Harriette gets her dry vagina examined; Iffy seeks help for ongoing issues with premature ejaculation.</desc>
-    <episode-num system="onscreen">S2 E1</episode-num>
-    <date>2020</date>
-    <category lang="en">Series</category>
-    <category lang="en">Health</category>
-    <category lang="en">Documentary</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p9884854_b_h8_al.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p25129439_b_h10_aa.jpg?w=960&amp;h=540" />
     <rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K16</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>14</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating><rating system="Kijkwijzer">
+      <value>M 15+</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
       <value>16</value>
     </rating>
-  </programme><programme channel="Fuse-US" start="20260518080000 +0500" stop="20260518090000 +0500">
-    <title>The Sex Clinic</title>
+  </programme><programme channel="Fuse-US" start="20260524230000 +0500" stop="20260525003000 +0500">
+    <title>Deadly Love: Bobby &amp; Whitney</title>
     <sub-title />
-    <desc>Taps has ejaculation issues; Tracy's concerned she might be a sex addict; Tom needs an STI test; Jordan has a lump on his bum.</desc>
-    <episode-num system="onscreen">S2 E2</episode-num>
+    <desc>Exploring the romance of Whitney Houston and Bobby Brown; behind the glamour is a story of love, addiction and heartbreak that shaped their lives and legacies.</desc>
     <credits>
-      <director>Guy Simmonds</director>
-    </credits><date>2020</date>
-    <category lang="en">Series</category>
-    <category lang="en">Health</category>
+      <director>Remone Jones</director>
+    </credits><date>2024</date>
+    <category lang="en">Special</category>
     <category lang="en">Documentary</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p9884854_b_h8_al.jpg?w=960&amp;h=540" />
-    <rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K16</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>14</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating><rating system="Kijkwijzer">
+    <icon src="http://dtil.tmsimg.com/assets/p29980723_st_h10_aa.jpg?w=960&amp;h=540" />
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
       <value>16</value>
     </rating>
   </programme>

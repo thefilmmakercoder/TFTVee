@@ -1,315 +1,176 @@
 <?xml version='1.0' encoding='utf-8'?>
 <tv>
   <channel id="LMN-East-US">
+    <icon src="https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/LMN-East-US.png" />
+    <url>https://tv.thefilmtuition.com</url>
     <display-name>LMN East</display-name>
-    <icon src="https://thefilmtuition.com/tvlogo/LMN-East-US.png" />
-  </channel><programme channel="LMN-East-US" start="20260516030000 +0500" stop="20260516050000 +0500">
-    <title>My Professor's Deadly Secret</title>
+  </channel><programme channel="LMN-East-US" start="20260522150000 +0500" stop="20260522170000 +0500">
+    <title>The Wrong Boy Next Door</title>
+    <desc>A troubled teenager, sentenced to house arrest, becomes attracted to her seemingly harmless new neighbor.</desc>
+    <language>en</language>
+  </programme><programme channel="LMN-East-US" start="20260522170000 +0500" stop="20260522190000 +0500">
+    <title>Be Careful What You Say</title>
+    <desc>Podcast host Iris Atwood gives Vanessa, a single mother, advice on how to raise her out-of-control son. However, when the teen ends up tragically dying, Vanessa blames Iris and returns six months later to seek revenge.</desc>
+    <language>en</language>
+  </programme><programme channel="LMN-East-US" start="20260522190000 +0500" stop="20260522210000 +0500">
+    <title>Mother's Deadly Son</title>
     <sub-title />
-    <desc>With help from her daughter's tutor, a woman uncovers a shocking family betrayal while investigating the death of her sister.</desc>
+    <desc>Marianne is in a desperate fight for the survival of her only son and must fight for his life to prove his innocence.</desc>
     <credits>
-      <director>Ryan Francis</director>
-      <actor>Maddison Bullock</actor>
-      <actor>Nicole Marie Johnson</actor>
-      <actor>Kayden Tokarski</actor>
+      <director>Chris Lancey</director>
+      <actor>Rene Ashton</actor>
+      <actor>Brittany Underwood</actor>
+      <actor>Noah Fearnley</actor>
+    </credits><date>2022</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Thriller</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p23209980_v_h8_aa.jpg?w=960&amp;h=540" />
+    <rating system="Instituto de Cinematografía y de las Artes Visuales">
+      <value>16</value>
+    </rating><rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating>
+  </programme><programme channel="LMN-East-US" start="20260522210000 +0500" stop="20260522230000 +0500">
+    <title>Who's Stalking My Family</title>
+    <sub-title />
+    <desc>A woman discovers that someone wants her dead after her teenage daughter starts tutoring a new student.</desc>
+    <credits>
+      <director>Jeff Hare</director>
+      <actor>Kate Watson</actor>
+      <actor>Kennedy Martin</actor>
+      <actor>Jacob Kaufman</actor>
     </credits><date>2024</date>
     <category lang="en">Movie</category>
     <category lang="en">Thriller</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p28390489_v_h8_aa.jpg?w=960&amp;h=540" />
-  </programme><programme channel="LMN-East-US" start="20260516050000 +0500" stop="20260516070000 +0500">
-    <title>Death at the Dinner Party</title>
+    <icon src="http://dtil.tmsimg.com/assets/p28534819_v_h8_ab.jpg?w=960&amp;h=540" />
+    <rating system="Arcom">
+      <value>-10</value>
+    </rating>
+  </programme><programme channel="LMN-East-US" start="20260522230000 +0500" stop="20260523010000 +0500">
+    <title>Dateless to Dangerous: My Son's Secret Life</title>
     <sub-title />
-    <desc>Andrea visits her son, Ethan, at college and discovers a psychology professor has taken him under his wing. But when Ethan's friend dies at one of the teacher's dinner parties, Andrea starts to suspect foul play.</desc>
+    <desc>A teen becomes angry, isolated and hostile when he's rejected by a few girls at school. When he joins a shadowy online underworld that fuels his growing resentment, his mother and sister race against time to try and save him.</desc>
     <credits>
-      <actor>Candice Lidstone</actor>
-      <actor>Cameron Brodeur</actor>
+      <director>Stefan Brogren</director>
+      <actor>Jodie Sweetin</actor>
+      <actor>Alexander Elliot</actor>
+      <actor>Nikki Roumel</actor>
+    </credits><date>2025</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Thriller</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p30210171_v_h8_aa.jpg?w=960&amp;h=540" />
+  </programme><programme channel="LMN-East-US" start="20260523010000 +0500" stop="20260523030000 +0500">
+    <title>My Son Didn't Do It</title>
+    <sub-title />
+    <desc>Doing her best to balance a successful career with family life, a single mother's world spirals out of control when her shy teenage son is arrested for the murder of a young woman he met online.</desc>
+    <credits>
+      <director>Soran Mardookhi</director>
+      <actor>Gina Holden</actor>
+      <actor>Jason Cermak</actor>
+      <actor>Zoë Christie</actor>
+    </credits><date>2023</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Crime drama</category>
+    <category lang="en">Thriller</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p25217553_v_h8_aa.jpg?w=960&amp;h=540" />
+    <rating system="Arcom">
+      <value>-10</value>
+    </rating><rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating>
+  </programme><programme channel="LMN-East-US" start="20260523030000 +0500" stop="20260523050000 +0500">
+    <title>Have You Seen My Son?</title>
+    <sub-title />
+    <desc>Released from prison, a woman tries to find out where her child vanished to while she was away. When her journey leads her down a winding path that puts her life in danger, she realizes that learning the truth might come at the cost of her freedom.</desc>
+    <credits>
+      <director>Jim Cliffe</director>
+      <actor>Sarah Smyth</actor>
+      <actor>Catherine Lough Haggquist</actor>
+      <actor>Alana Hawley Purvis</actor>
+    </credits><date>2024</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Thriller</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p26965442_v_h8_aa.jpg?w=960&amp;h=540" />
+    <rating system="Arcom">
+      <value>-10</value>
+    </rating>
+  </programme><programme channel="LMN-East-US" start="20260523050000 +0500" stop="20260523070000 +0500">
+    <title>Everyone Has Something to Hide</title>
+    <sub-title />
+    <desc>A woman must navigate a dangerous maze of lies and cover-ups when her son becomes the prime suspect in the murder of his former best friend.</desc>
+    <credits>
+      <director>Sean Cisterna</director>
+      <actor>Emily Alatalo</actor>
+      <actor>Sam Ashe Arnold</actor>
+      <actor>Shanna Armogan</actor>
     </credits><date>2026</date>
     <category lang="en">Movie</category>
     <category lang="en">Thriller</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p32866020_v_h8_aa.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p32243080_v_h8_aa.jpg?w=960&amp;h=540" />
     <rating system="USA Parental Rating">
       <value>TV14</value>
     </rating>
-  </programme><programme channel="LMN-East-US" start="20260516070000 +0500" stop="20260516090100 +0500">
-    <title>Sex, Lies and Murder</title>
+  </programme><programme channel="LMN-East-US" start="20260523070000 +0500" stop="20260523090100 +0500">
+    <title>Mama's Little Murderer</title>
     <sub-title />
-    <desc>A young man hatches a devious plan to destroy a college professor's life and career by framing her husband for murder and seducing her daughter.</desc>
+    <desc>A devoted single mother, Constance, struggles to balance her newfound love with Leo and the obsessive, destructive behavior of her son, Anthony, who goes to extreme lengths to keep her all to himself.</desc>
     <credits>
-      <director>Tom Shell</director>
-      <actor>Lindsay Hartley</actor>
-      <actor>Katie Kelly</actor>
-      <actor>Andrew Rogers</actor>
-    </credits><date>2021</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Thriller</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p20673850_v_h8_ab.jpg?w=960&amp;h=540" />
-    <rating system="Arcom">
-      <value>-10</value>
-    </rating><rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating>
-  </programme><programme channel="LMN-East-US" start="20260516090100 +0500" stop="20260516110100 +0500">
-    <title>Death at the Dinner Party</title>
-    <sub-title />
-    <desc>Andrea visits her son, Ethan, at college and discovers a psychology professor has taken him under his wing. But when Ethan's friend dies at one of the teacher's dinner parties, Andrea starts to suspect foul play.</desc>
-    <credits>
-      <actor>Candice Lidstone</actor>
-      <actor>Cameron Brodeur</actor>
+      <actor>Sara Canning</actor>
+      <actor>Isaac Kragten</actor>
     </credits><date>2026</date>
     <category lang="en">Movie</category>
     <category lang="en">Thriller</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p32866020_v_h8_aa.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p31990406_v_h8_aa.jpg?w=960&amp;h=540" />
     <rating system="USA Parental Rating">
       <value>TV14</value>
     </rating>
-  </programme><programme channel="LMN-East-US" start="20260516110100 +0500" stop="20260516130200 +0500">
-    <title>Sex, Lies and Murder</title>
+  </programme><programme channel="LMN-East-US" start="20260523090100 +0500" stop="20260523110100 +0500">
+    <title>Everyone Has Something to Hide</title>
     <sub-title />
-    <desc>A young man hatches a devious plan to destroy a college professor's life and career by framing her husband for murder and seducing her daughter.</desc>
+    <desc>A woman must navigate a dangerous maze of lies and cover-ups when her son becomes the prime suspect in the murder of his former best friend.</desc>
     <credits>
-      <director>Tom Shell</director>
-      <actor>Lindsay Hartley</actor>
-      <actor>Katie Kelly</actor>
-      <actor>Andrew Rogers</actor>
-    </credits><date>2021</date>
+      <director>Sean Cisterna</director>
+      <actor>Emily Alatalo</actor>
+      <actor>Sam Ashe Arnold</actor>
+      <actor>Shanna Armogan</actor>
+    </credits><date>2026</date>
     <category lang="en">Movie</category>
     <category lang="en">Thriller</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p20673850_v_h8_ab.jpg?w=960&amp;h=540" />
-    <rating system="Arcom">
-      <value>-10</value>
-    </rating><rating system="Australian Classification Board">
-      <value>MA 15+</value>
+    <icon src="http://dtil.tmsimg.com/assets/p32243080_v_h8_aa.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
     </rating>
-  </programme><programme channel="LMN-East-US" start="20260516130200 +0500" stop="20260516133200 +0500">
-    <title>Cindy Crawford talks about the latest breakthroughs in skincare</title>
+  </programme><programme channel="LMN-East-US" start="20260523110100 +0500" stop="20260523130200 +0500">
+    <title>Mama's Little Murderer</title>
     <sub-title />
-    <desc>Join Cindy Crawford as she talks to real customers about the breakthrough skincare system that keeps them looking their best. Take a trip to the stunning French countryside to see the rare French melon that defies the aging process.</desc>
-    <category lang="en">Consumer</category>
+    <desc>A devoted single mother, Constance, struggles to balance her newfound love with Leo and the obsessive, destructive behavior of her son, Anthony, who goes to extreme lengths to keep her all to himself.</desc>
+    <credits>
+      <actor>Sara Canning</actor>
+      <actor>Isaac Kragten</actor>
+    </credits><date>2026</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Thriller</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p29044745_b_h8_aa.jpg?w=960&amp;h=540" />
-  </programme><programme channel="LMN-East-US" start="20260516133200 +0500" stop="20260516140200 +0500">
-    <title>Freedom to Leave the House! Inogen Portable Oxygen</title>
-    <sub-title />
-    <desc>Regain independence and enjoy greater mobility with the compact design and long-lasting battery of portable oxygen.</desc>
-    <category lang="en">Consumer</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p29463212_st_h10_aa.jpg?w=960&amp;h=540" />
-  </programme><programme channel="LMN-East-US" start="20260516140200 +0500" stop="20260516143200 +0500">
+    <icon src="http://dtil.tmsimg.com/assets/p31990406_v_h8_aa.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+  </programme><programme channel="LMN-East-US" start="20260523130200 +0500" stop="20260523133200 +0500">
     <title>Natural Blood Pressure Management</title>
     <sub-title />
     <desc>Cardiologist Dr. Ernst von Schwarz, M.D. shows how to manage your blood pressure naturally and help protect your heart for life with My Best Heart.</desc>
     <category lang="en">Consumer</category>
     <language>en</language>
     <icon src="http://dtil.tmsimg.com/assets/p29188954_st_h10_aa.jpg?w=960&amp;h=540" />
-  </programme><programme channel="LMN-East-US" start="20260516143200 +0500" stop="20260516150000 +0500">
-    <title>NEW! Shark PowerDetect with DuoClean Detect Technology</title>
-    <sub-title />
-    <desc>Meet the new Shark PowerDetect Upright Vacuum with features like DuoClean Detect Technology, self-cleaning brush roll and odor neutralizing, and you will be cleaning faster, smarter and better!</desc>
-    <category lang="en">Consumer</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p29966207_b_h10_aa.jpg?w=960&amp;h=540" />
-  </programme><programme channel="LMN-East-US" start="20260516150000 +0500" stop="20260516170000 +0500">
-    <title>If Walls Could Talk</title>
-    <sub-title />
-    <desc>After the death of her father, Olivia moves home to help her mother, Rebecca, who claims there is a ghost in the house. When Rebecca breaks her hip, Olivia hires a health aide whose patience and warmth seem too good to be true.</desc>
-    <credits>
-      <director>Mariah Murlowski</director>
-      <actor>Margo Eve Parker</actor>
-      <actor>Conner Floyd</actor>
-      <actor>Nicole Danielle Watts</actor>
-    </credits><date>2022</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Thriller</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p21621751_v_h8_ac.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A14</value>
-    </rating>
-  </programme><programme channel="LMN-East-US" start="20260516170000 +0500" stop="20260516190000 +0500">
-    <title>Home, Not Alone</title>
-    <sub-title />
-    <desc>Sara and her 18-year-old daughter, Jordyn, make a fresh start by moving into their dream home in a great neighborhood. However, when strange occurrences start happening in the house, Sara can't help but feel danger is lurking closer than she thinks.</desc>
-    <credits>
-      <director>Amy Barrett</director>
-      <actor>Andrea Bogart</actor>
-      <actor>Adam Huss</actor>
-      <actor>Maya Jenson</actor>
-    </credits><date>2023</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Thriller</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p24098165_v_h8_aa.jpg?w=960&amp;h=540" />
-    <rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A14</value>
-    </rating><rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating><rating system="Arcom">
-      <value>-10</value>
-    </rating>
-  </programme><programme channel="LMN-East-US" start="20260516190000 +0500" stop="20260516210000 +0500">
-    <title>Handyman From Hell</title>
-    <sub-title />
-    <desc>Separated from her husband, a woman meets a handsome, skilled and murderous handyman who has a mysterious connection to her family.</desc>
-    <credits>
-      <director>Cody Hartman</director>
-      <actor>Liliana Tandon</actor>
-      <actor>Joey Ariemma</actor>
-      <actor>Kristina Horan</actor>
-    </credits><date>2023</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Thriller</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p25859764_v_h8_aa.jpg?w=960&amp;h=540" />
-  </programme><programme channel="LMN-East-US" start="20260516210000 +0500" stop="20260516230000 +0500">
-    <title>Lies and Ex Wives: Secrets on Maple Street</title>
-    <sub-title />
-    <desc>When Katie starts dating her divorced neighbor, she prepares to endure some gossip about their relationship. However, when a mysterious stalker starts harassing her, she soon realizes she's facing a threat far more deadly than a few whispered jeers.</desc>
-    <credits>
-      <director>Paula Elle</director>
-      <actor>Ali Liebert</actor>
-      <actor>Matthew MacCaull</actor>
-      <actor>Lucia Walters</actor>
-    </credits><date>2024</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Thriller</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p27620559_v_h8_aa.jpg?w=960&amp;h=540" />
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A14</value>
-    </rating>
-  </programme><programme channel="LMN-East-US" start="20260516230000 +0500" stop="20260517010000 +0500">
-    <title>A Family Nightmare: Secrets on Maple Street</title>
-    <sub-title />
-    <desc>Returning home from an alcohol-fueled night, a high school student gets knocked out cold by an unseen intruder. Waking up safe in her bed, she soon tries to uncover the truth when her parents act as if nothing happened.</desc>
-    <credits>
-      <director>Paula Elle</director>
-      <actor>Karis Cameron</actor>
-      <actor>Dan Payne</actor>
-      <actor>Lucia Walters</actor>
-    </credits><date>2024</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Thriller</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p27620611_v_h8_aa.jpg?w=960&amp;h=540" />
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A14</value>
-    </rating>
-  </programme><programme channel="LMN-East-US" start="20260517010000 +0500" stop="20260517030000 +0500">
-    <title>Murder for Mortgage: Secrets on Maple Street</title>
-    <sub-title />
-    <desc>After the death of an old woman, young couple Carlee and Alex jump at the chance to buy her house at a discounted rate. However, when strange things start happening, Carlee begins to suspect that there was more to her death than meets the eye.</desc>
-    <credits>
-      <director>Paula Elle</director>
-      <actor>Frances Leigh</actor>
-      <actor>Thomas Cadrot</actor>
-      <actor>Lucia Walters</actor>
-    </credits><date>2024</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Thriller</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p27620671_v_h8_aa.jpg?w=960&amp;h=540" />
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A14</value>
-    </rating>
-  </programme><programme channel="LMN-East-US" start="20260517030000 +0500" stop="20260517050000 +0500">
-    <title>The Killer With No Name</title>
-    <sub-title />
-    <desc>While investigating an unsolved case, a famous podcast host comes face-to-face with a power-hungry predator who will stop at nothing to keep the crime under wraps.</desc>
-    <credits>
-      <director>Jeff Hare</director>
-      <actor>Kabby Borders</actor>
-      <actor>Brianna Butler</actor>
-      <actor>Adam Harper</actor>
-    </credits><date>2024</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Thriller</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p27553693_v_h8_aa.jpg?w=960&amp;h=540" />
-    <rating system="Arcom">
-      <value>-10</value>
-    </rating>
-  </programme><programme channel="LMN-East-US" start="20260517050000 +0500" stop="20260517070000 +0500">
-    <title>The Guest Who Wouldn't Leave</title>
-    <sub-title />
-    <desc>Tom and his daughter decide to open their guesthouse to short-term renters. However, when their first tenant begins to overstay her welcome, he's faced with the chilling reality that he may never be able to get her to leave.</desc>
-    <credits>
-      <director>Peter Sullivan</director>
-      <actor>Molly Flanagan</actor>
-      <actor>Alex Trumble</actor>
-      <actor>Tenny Conroy</actor>
-    </credits><date>2026</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Thriller</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p32656977_v_h8_aa.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
-  </programme><programme channel="LMN-East-US" start="20260517070000 +0500" stop="20260517090100 +0500">
-    <title>Secrets on the Ranch</title>
-    <sub-title />
-    <desc>A woman discovers the remains of her long-missing sister at her late mother's Montana ranch. She soon unravels a deadly secret that's tied to her estranged father and a generations-long feud with a rival family.</desc>
-    <credits>
-      <director>Adrian Langley</director>
-      <actor>Camille Stopps</actor>
-      <actor>Jesse Collin</actor>
-      <actor>Matthew Stefiuk</actor>
-    </credits><date>2026</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Thriller</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p31990429_v_h8_aa.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A14</value>
-    </rating>
-  </programme><programme channel="LMN-East-US" start="20260517090100 +0500" stop="20260517110100 +0500">
-    <title>The Guest Who Wouldn't Leave</title>
-    <sub-title />
-    <desc>Tom and his daughter decide to open their guesthouse to short-term renters. However, when their first tenant begins to overstay her welcome, he's faced with the chilling reality that he may never be able to get her to leave.</desc>
-    <credits>
-      <director>Peter Sullivan</director>
-      <actor>Molly Flanagan</actor>
-      <actor>Alex Trumble</actor>
-      <actor>Tenny Conroy</actor>
-    </credits><date>2026</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Thriller</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p32656977_v_h8_aa.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
-  </programme><programme channel="LMN-East-US" start="20260517110100 +0500" stop="20260517130200 +0500">
-    <title>Secrets on the Ranch</title>
-    <sub-title />
-    <desc>A woman discovers the remains of her long-missing sister at her late mother's Montana ranch. She soon unravels a deadly secret that's tied to her estranged father and a generations-long feud with a rival family.</desc>
-    <credits>
-      <director>Adrian Langley</director>
-      <actor>Camille Stopps</actor>
-      <actor>Jesse Collin</actor>
-      <actor>Matthew Stefiuk</actor>
-    </credits><date>2026</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Thriller</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p31990429_v_h8_aa.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A14</value>
-    </rating>
-  </programme><programme channel="LMN-East-US" start="20260517130200 +0500" stop="20260517133200 +0500">
+  </programme><programme channel="LMN-East-US" start="20260523133200 +0500" stop="20260523140200 +0500">
     <title>Paid Programming</title>
     <sub-title />
     <desc>Paid programming.</desc>
@@ -333,14 +194,14 @@
     </rating><rating system="Kijkwijzer">
       <value>AL</value>
     </rating>
-  </programme><programme channel="LMN-East-US" start="20260517133200 +0500" stop="20260517140200 +0500">
+  </programme><programme channel="LMN-East-US" start="20260523140200 +0500" stop="20260523143200 +0500">
     <title>Have Thinning Hair? Keranique Can Help Regrow Beautiful, Thicker Hair!</title>
     <sub-title />
     <desc>If you have thinning hair or hair loss, Keranique can help regrow thicker, longer and fuller hair. Keranique is the number 1 hair regrowth system for women. Regain your confidence with beautiful, thicker and fuller hair in just 3 easy steps!</desc>
     <category lang="en">Consumer</category>
     <language>en</language>
     <icon src="http://dtil.tmsimg.com/assets/p15918995_b_h10_aa.jpg?w=960&amp;h=540" />
-  </programme><programme channel="LMN-East-US" start="20260517140200 +0500" stop="20260517143100 +0500">
+  </programme><programme channel="LMN-East-US" start="20260523143200 +0500" stop="20260523150000 +0500">
     <title>Paid Programming</title>
     <sub-title />
     <desc>Paid programming.</desc>
@@ -364,197 +225,412 @@
     </rating><rating system="Kijkwijzer">
       <value>AL</value>
     </rating>
-  </programme><programme channel="LMN-East-US" start="20260517143100 +0500" stop="20260517150000 +0500">
-    <title>Paid Programming</title>
+  </programme><programme channel="LMN-East-US" start="20260523150000 +0500" stop="20260523170000 +0500">
+    <title>Deadly Ex Next Door</title>
     <sub-title />
-    <desc>Paid programming.</desc>
-    <category lang="en">Consumer</category>
-    <category lang="en">Shopping</category>
-    <category lang="en">Variety</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>G</value>
-    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>A</value>
-    </rating><rating system="Australian Classification Board">
-      <value>G</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>L</value>
-    </rating><rating system="Kijkwijzer">
-      <value>AL</value>
-    </rating>
-  </programme><programme channel="LMN-East-US" start="20260517150000 +0500" stop="20260517170000 +0500">
-    <title>Old Flames Never Die</title>
-    <sub-title />
-    <desc>When successful novelist Kira Young returns to her hometown to escape bad press, she rekindles a romantic one-night stand with her high school sweetheart Weston Wade, who soon develops an unhealthy obsession for her.</desc>
+    <desc>An author and her husband are thrilled to be the new homeowners of a cabin that overlooks a lake. However, they soon find themselves in a fight for their lives when her former friend moves in next door.</desc>
     <credits>
-      <director>Jake Helgren</director>
-      <actor>Yan-Kay Crystal Lowe</actor>
-      <actor>Lou Ferrigno</actor>
-      <actor>Rich Paul</actor>
+      <director>Joseph J. Gillanders</director>
+      <actor>Tianna Nori</actor>
+      <actor>Jack Grinhaus</actor>
+      <actor>Jean Paul Najm</actor>
     </credits><date>2022</date>
     <category lang="en">Movie</category>
     <category lang="en">Thriller</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p21397146_v_h8_aa.jpg?w=960&amp;h=540" />
-    <rating system="Motion Picture Association">
-      <value>PG-13</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A14</value>
-    </rating>
-  </programme><programme channel="LMN-East-US" start="20260517170000 +0500" stop="20260517190000 +0500">
-    <title>Deadly Infidelity</title>
-    <sub-title />
-    <desc>Awakening from a month-long coma, a woman discovers the last five years of memories of her husband and daughter are gone. However, things go from bad to dangerous when a man she doesn't remember appears, claiming they had a passionate affair.</desc>
-    <credits>
-      <director>Gigi Gaston</director>
-      <actor>Kate Watson</actor>
-      <actor>Anna Marie Dobbins</actor>
-      <actor>Houston Rhines</actor>
-    </credits><date>2022</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Thriller</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p21172368_v_h10_aa.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
+    <icon src="http://dtil.tmsimg.com/assets/p21173866_v_h8_aa.jpg?w=960&amp;h=540" />
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K12</value>
+    </rating><rating system="USA Parental Rating">
       <value>TV14</value>
+    </rating><rating system="Medietilsynet">
+      <value>15 år</value>
     </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
       <value>12</value>
     </rating>
-  </programme><programme channel="LMN-East-US" start="20260517190000 +0500" stop="20260517210000 +0500">
-    <title>Cheating for Your Life</title>
+  </programme><programme channel="LMN-East-US" start="20260523170000 +0500" stop="20260523190000 +0500">
+    <title>Fiancé Killer</title>
     <sub-title />
-    <desc>When star student Kaley gets suspicious of a group of underachievers' high SAT scores, she unwittingly uncovers a cheating ring and puts her life in jeopardy.</desc>
+    <desc>A woman is stunned when her daughter returns from a vacation in Mexico and is engaged to a handsome man. As time goes on, she can't help but feel that there is something wrong with her daughter's new fiancé.</desc>
     <credits>
-      <director>Brittany Underwood</director>
-      <actor>Heather McComb</actor>
-      <actor>Francesca Xuereb</actor>
-      <actor>Brian Ames</actor>
-    </credits><date>2022</date>
+      <director>Fred Olen Ray</director>
+      <actor>Felisha Cooper</actor>
+      <actor>Kari Wuhrer</actor>
+      <actor>Adam Huss</actor>
+    </credits><date>2018</date>
     <category lang="en">Movie</category>
     <category lang="en">Thriller</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p21621968_v_h8_ab.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p15283119_v_h8_ad.jpg?w=960&amp;h=540" />
     <rating system="USA Parental Rating">
       <value>TVPG</value>
+    </rating><rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
+      <value>12</value>
+    </rating><rating system="Arcom">
+      <value>-10</value>
     </rating>
-  </programme><programme channel="LMN-East-US" start="20260517210000 +0500" stop="20260517230000 +0500">
-    <title>A Dangerous Affair</title>
+  </programme><programme channel="LMN-East-US" start="20260523190000 +0500" stop="20260523210000 +0500">
+    <title>Sleeping With My Student</title>
     <sub-title />
-    <desc>Pilates instructor Amélie Didot begins a steamy love affair with one of her handsome clients, journalist Pierce Dalton. However, when a killer develops an erotic obsession with Pierce, Amélie finds herself in the middle of a deadly love triangle.</desc>
+    <desc>New school headmaster Kathy discovers her vacation fling with charming 18-year-old Ian was no accident when he transfers to her school and targets Kathy and her teenage daughter Bree in a deadly scheme.</desc>
     <credits>
-      <director>Christie Will Wolf</director>
-      <actor>Aubree Bouche</actor>
-      <actor>Charlie Bewley</actor>
-      <actor>Karlee Eldridge</actor>
+      <director>Tom Shell</director>
+      <actor>Gina Holden</actor>
+      <actor>Jessica Belkin</actor>
+      <actor>Mitchell Hoog</actor>
+    </credits><date>2019</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Thriller</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p17411238_v_h8_ab.jpg?w=960&amp;h=540" />
+    <rating system="Arcom">
+      <value>-10</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating><rating system="영상물등급위원회">
+      <value>15+</value>
+    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
+      <value>12</value>
+    </rating>
+  </programme><programme channel="LMN-East-US" start="20260523210000 +0500" stop="20260523230000 +0500">
+    <title>Family Vanished</title>
+    <sub-title />
+    <desc>Family members return from vacation and discover that criminals have taken over their home and identities. They are held hostage and forced to drain a business account, and when they escape, they are named as suspects in the thefts.</desc>
+    <credits>
+      <director>Robert Malenfant</director>
+      <actor>Kelly Packard</actor>
+      <actor>Kristin Carey</actor>
+      <actor>Todd Cahoon</actor>
+    </credits><date>2018</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Thriller</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p15648780_v_h8_aa.jpg?w=960&amp;h=540" />
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating><rating system="Film &amp; Publication Board">
+      <value>13</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
+      <value>16</value>
+    </rating><rating system="Kijkwijzer">
+      <value>12</value>
+    </rating>
+  </programme><programme channel="LMN-East-US" start="20260523230000 +0500" stop="20260524010000 +0500">
+    <title>Secrets in the Woods</title>
+    <sub-title />
+    <desc>A woman discovers a horrifying secret about her boyfriend's father during a romantic getaway in the woods.</desc>
+    <credits>
+      <director>Sara Lohman</director>
+      <actor>Brittany Underwood</actor>
+      <actor>Taylor Frey</actor>
+      <actor>Jim Klock</actor>
+    </credits><date>2020</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Thriller</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p18555755_v_h8_ac.jpg?w=960&amp;h=540" />
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating><rating system="Arcom">
+      <value>-10</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating>
+  </programme><programme channel="LMN-East-US" start="20260524010000 +0500" stop="20260524030000 +0500">
+    <title>Temptation Under the Sun</title>
+    <sub-title />
+    <desc>While vacationing on an exotic island, Detective Cassady Cruz begins a torrid affair with an expat named Travis. However, when he becomes the main suspect in the death of his ex-girlfriend, Cassady tries to clear his name by finding the real killer.</desc>
+    <credits>
+      <director>Lane Shefter Bishop</director>
+      <actor>Annika Foster</actor>
+      <actor>Mike Markoff</actor>
+      <actor>Scott Christopher</actor>
     </credits><date>2022</date>
     <category lang="en">Movie</category>
     <category lang="en">Thriller</category>
-    <category lang="en">Romance</category>
+    <category lang="en">Mystery</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p22563517_v_h8_aa.jpg?w=960&amp;h=540" />
-    <rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A14</value>
-    </rating>
-  </programme><programme channel="LMN-East-US" start="20260517230000 +0500" stop="20260518010000 +0500">
-    <title>Envy: A Seven Deadly Sins Story</title>
-    <sub-title />
-    <desc>Gabrielle seems to have it all -- a devoted husband, a beautiful daughter and a successful career in public relations. However, she soon stands to lose everything when she meets Keisha, her devious half sister who wants everything Gabrielle has.</desc>
-    <credits>
-      <director>Damon Lee</director>
-      <actor>Rose Rollins</actor>
-      <actor>Serayah</actor>
-      <actor>Kandi Burruss</actor>
-    </credits><date>2021</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Thriller</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p19533383_v_h8_ae.jpg?w=960&amp;h=540" />
-    <rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A14</value>
-    </rating><rating system="영상물등급위원회">
-      <value>12+</value>
-    </rating>
-  </programme><programme channel="LMN-East-US" start="20260518010000 +0500" stop="20260518030000 +0500">
-    <title>My Husband's Worst Mistake</title>
-    <sub-title />
-    <desc>Brad Collins' love for his wife, Amy, becomes an all-encompassing obsession, and he grows more and more controlling of her with each passing year. When Brad finds out that Amy had an affair with a colleague, a huge fight ensues and tragedy results.</desc>
-    <credits>
-      <director>Roxanne Boisvert</director>
-      <actor>Matt Wells</actor>
-      <actor>Sarah Cleveland</actor>
-      <actor>Scott Gibson</actor>
-    </credits><date>2023</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Thriller</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p24741070_v_h8_aa.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p22600306_v_h8_aa.jpg?w=960&amp;h=540" />
     <rating system="USA Parental Rating">
       <value>TV14</value>
-    </rating>
-  </programme><programme channel="LMN-East-US" start="20260518030000 +0500" stop="20260518050000 +0500">
-    <title>Secret Life of the Surgeon's Wife</title>
-    <sub-title />
-    <desc>A woman tries to prove her husband is having an affair so she can initiate a divorce. She soon finds herself romantically involved with the other woman's husband, unaware that her own husband and his mistress are plotting to kill them.</desc>
-    <credits>
-      <actor>Gina Vitori</actor>
-      <actor>Justin Berti</actor>
-    </credits><date>2025</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Thriller</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p30018541_v_h8_aa.jpg?w=960&amp;h=540" />
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
       <value>A14</value>
     </rating><rating system="Australian Classification Board">
       <value>M 15+</value>
     </rating>
-  </programme><programme channel="LMN-East-US" start="20260518050000 +0500" stop="20260518070000 +0500">
-    <title>Eat, Pray, Lie</title>
+  </programme><programme channel="LMN-East-US" start="20260524030000 +0500" stop="20260524050000 +0500">
+    <title>Danger Below Deck</title>
     <sub-title />
-    <desc>When an altercation between her cheating husband, Will, and another man has deadly consequences, Sophia must figure out if Will is her knight in shining armor or an obsessed soon-to-be ex.</desc>
+    <desc>Two influencers find themselves on a luxury cruise through the Caribbean and South Pacific, but a battle of wills threatens to tear them apart as the mirage of their online personas begins to clash with their real-life ambitions.</desc>
     <credits>
-      <director>Crystal Lowe</director>
-      <actor>Chelsea Rose Cook</actor>
-      <actor>Jake Foy</actor>
-      <actor>Zane Haney</actor>
+      <director>Vic Sarin</director>
+      <actor>Katherine McNamara</actor>
+      <actor>Jasmine Sky Sarin</actor>
+      <actor>Éric Bruneau</actor>
+    </credits><date>2022</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Thriller</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p23300535_v_h8_ae.jpg?w=960&amp;h=540" />
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating>
+  </programme><programme channel="LMN-East-US" start="20260524050000 +0500" stop="20260524070000 +0500">
+    <title>Cabin Pressure</title>
+    <sub-title />
+    <desc>A flight attendant gets a mysterious call from a stranger who tries to blackmail her into poisoning a passenger in exchange for her family. One way or another, someone will die during the flight as the plane gets closer to its destination.</desc>
+    <credits>
+      <director>Peter Sullivan</director>
+      <actor>Alicia S Mason</actor>
+      <actor>Christopher Sky</actor>
+      <actor>Sophie Woods</actor>
     </credits><date>2025</date>
     <category lang="en">Movie</category>
     <category lang="en">Thriller</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p30784991_v_h8_aa.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p30851558_v_h8_aa.jpg?w=960&amp;h=540" />
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
       <value>A14</value>
     </rating>
-  </programme><programme channel="LMN-East-US" start="20260518070000 +0500" stop="20260518090100 +0500">
-    <title>My Wife's Hidden Lover</title>
+  </programme><programme channel="LMN-East-US" start="20260524070000 +0500" stop="20260524090100 +0500">
+    <title>Desire: A Temptations Story</title>
     <sub-title />
-    <desc>An unhappily married woman convinces her lover to move into her attic. However, when she finds him dead, she starts to suspect her husband knew about the affair.</desc>
+    <desc>Caught up in a whirlwind romance, inspirational talk-show host Kendra spontaneously marries the man of her dreams. However, once the honeymoon is over, revelations about her new husband's past lead her down a dangerous road.</desc>
     <credits>
-      <director>Damián Romay</director>
-      <actor>Abigail Hawk</actor>
-      <actor>Donny Boaz</actor>
-      <actor>Marc Herrmann</actor>
-    </credits><date>2023</date>
+      <director>Robert Adetuyi</director>
+      <actor>Tasha Smith</actor>
+      <actor>Adrian Holmes</actor>
+      <actor>Millan Tesfazgi</actor>
+    </credits><date>2025</date>
     <category lang="en">Movie</category>
     <category lang="en">Thriller</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p26066141_v_h8_aa.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p29740407_v_h8_aa.jpg?w=960&amp;h=540" />
+  </programme><programme channel="LMN-East-US" start="20260524090100 +0500" stop="20260524110100 +0500">
+    <title>Cabin Pressure</title>
+    <sub-title />
+    <desc>A flight attendant gets a mysterious call from a stranger who tries to blackmail her into poisoning a passenger in exchange for her family. One way or another, someone will die during the flight as the plane gets closer to its destination.</desc>
+    <credits>
+      <director>Peter Sullivan</director>
+      <actor>Alicia S Mason</actor>
+      <actor>Christopher Sky</actor>
+      <actor>Sophie Woods</actor>
+    </credits><date>2025</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Thriller</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p30851558_v_h8_aa.jpg?w=960&amp;h=540" />
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating>
+  </programme><programme channel="LMN-East-US" start="20260524110100 +0500" stop="20260524130200 +0500">
+    <title>Desire: A Temptations Story</title>
+    <sub-title />
+    <desc>Caught up in a whirlwind romance, inspirational talk-show host Kendra spontaneously marries the man of her dreams. However, once the honeymoon is over, revelations about her new husband's past lead her down a dangerous road.</desc>
+    <credits>
+      <director>Robert Adetuyi</director>
+      <actor>Tasha Smith</actor>
+      <actor>Adrian Holmes</actor>
+      <actor>Millan Tesfazgi</actor>
+    </credits><date>2025</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Thriller</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p29740407_v_h8_aa.jpg?w=960&amp;h=540" />
+  </programme><programme channel="LMN-East-US" start="20260524130200 +0500" stop="20260524133200 +0500">
+    <title>Have Thinning Hair? Keranique Can Help Regrow Beautiful, Thicker Hair!</title>
+    <sub-title />
+    <desc>If you have thinning hair or hair loss, Keranique can help regrow thicker, longer and fuller hair. Keranique is the number 1 hair regrowth system for women. Regain your confidence with beautiful, thicker and fuller hair in just 3 easy steps!</desc>
+    <category lang="en">Consumer</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p15918995_b_h10_aa.jpg?w=960&amp;h=540" />
+  </programme><programme channel="LMN-East-US" start="20260524133200 +0500" stop="20260524140200 +0500">
+    <title>Paid Programming</title>
+    <sub-title />
+    <desc>Paid programming.</desc>
+    <category lang="en">Consumer</category>
+    <category lang="en">Shopping</category>
+    <category lang="en">Variety</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>A</value>
+    </rating><rating system="Australian Classification Board">
+      <value>G</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>L</value>
+    </rating><rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating>
+  </programme><programme channel="LMN-East-US" start="20260524140200 +0500" stop="20260524143100 +0500">
+    <title>Paid Programming</title>
+    <sub-title />
+    <desc>Paid programming.</desc>
+    <category lang="en">Consumer</category>
+    <category lang="en">Shopping</category>
+    <category lang="en">Variety</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>A</value>
+    </rating><rating system="Australian Classification Board">
+      <value>G</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>L</value>
+    </rating><rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating>
+  </programme><programme channel="LMN-East-US" start="20260524143100 +0500" stop="20260524150000 +0500">
+    <title>Paid Programming</title>
+    <sub-title />
+    <desc>Paid programming.</desc>
+    <category lang="en">Consumer</category>
+    <category lang="en">Shopping</category>
+    <category lang="en">Variety</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>A</value>
+    </rating><rating system="Australian Classification Board">
+      <value>G</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>L</value>
+    </rating><rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating>
+  </programme><programme channel="LMN-East-US" start="20260524150000 +0500" stop="20260524170000 +0500">
+    <title>V.C. Andrews' Heaven</title>
+    <sub-title />
+    <desc>Heaven Leigh Casteel is the eldest of five dirt-poor children struggling to survive in a mountain shack. As she endures neglect and abuse, Heaven discovers a dark secret that changes everything.</desc>
+    <credits>
+      <director>Paul Shapiro</director>
+      <actor>Annalise Basso</actor>
+      <actor>Chris McNally</actor>
+      <actor>Julie Benz</actor>
+    </credits><date>2019</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Thriller</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p15299651_v_h8_ae.jpg?w=960&amp;h=540" />
     <rating system="Arcom">
       <value>-10</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>15</value>
     </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>7</value>
+      <value>12</value>
+    </rating><rating system="Kijkwijzer">
+      <value>6</value>
     </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
       <value>A14</value>
+    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
+      <value>16</value>
+    </rating>
+  </programme><programme channel="LMN-East-US" start="20260524170000 +0500" stop="20260524190000 +0500">
+    <title>V.C. Andrews' Heaven Series</title>
+    <sub-title>Part 2: Dark Angel</sub-title>
+    <desc>Heaven finds a new life at her estranged grandparents' exquisite Boston mansion, but even in the world of the wealthy, there are strange forebodings, secrets best forgotten.</desc>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <credits>
+      <director>Paul Shapiro</director>
+      <actor>Annalise Basso</actor>
+      <actor>Chris William Martin</actor>
+      <actor>Jason Priestley</actor>
+    </credits><date>2019</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p24646347_b_h8_aa.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+  </programme><programme channel="LMN-East-US" start="20260524190000 +0500" stop="20260524210000 +0500">
+    <title>V.C. Andrews' Heaven Series</title>
+    <sub-title>Part 3: Fallen Hearts</sub-title>
+    <desc>Heaven is married and ready to settle in her hometown; after a trip to Farthinggale Manor, she is persuaded to stay by her grandfather to live amidst the wealthy -- until the ghosts of her past threaten her new life.</desc>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <credits>
+      <director>Jason Priestley</director>
+      <actor>Annalise Basso</actor>
+      <actor>Chris William Martin</actor>
+      <actor>Jason Priestley</actor>
+    </credits><date>2019</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p24646347_b_h8_aa.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+  </programme><programme channel="LMN-East-US" start="20260524210000 +0500" stop="20260524230000 +0500">
+    <title>V.C. Andrews' Heaven Series</title>
+    <sub-title>Part 4: Gates of Paradise</sub-title>
+    <desc>After Annie becomes orphaned and crippled, she is whisked off to Farthinggale Manor; she becomes lost in the shadows of despair until she discovers a cottage hidden in Farthinggale's woods, where the mystery of her past deepens.</desc>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <credits>
+      <actor>Annalise Basso</actor>
+      <actor>Chris William Martin</actor>
+      <actor>Jason Priestley</actor>
+    </credits><date>2019</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p24646347_b_h8_aa.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+  </programme><programme channel="LMN-East-US" start="20260524230000 +0500" stop="20260525010000 +0500">
+    <title>V.C. Andrews' Heaven Series</title>
+    <sub-title>Part 5: Web of Dreams</sub-title>
+    <desc>In the past, Leigh had to escape from Farthinggale Manor and the secrets she harbors; falling into the arms of Luke Casteel Sr., and with a baby girl on the way, she hopes for a chance at happy ever after.</desc>
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <credits>
+      <director>Mike Rohl</director>
+      <actor>June Laporte</actor>
+      <actor>Max Lloyd-Jones</actor>
+      <actor>Cindy Busby</actor>
+    </credits><date>2019</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p24646347_b_h8_aa.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
     </rating>
   </programme>
 </tv>

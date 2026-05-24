@@ -1,42 +1,308 @@
 <?xml version='1.0' encoding='utf-8'?>
 <tv>
   <channel id="CTV-Life-CA">
+    <icon src="https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/CTV-Life-CA.png" />
+    <url>https://tv.thefilmtuition.com</url>
     <display-name>CTV Life</display-name>
-    <icon src="https://thefilmtuition.com/tvlogo/CTV-Life-CA.png" />
-  </channel><programme channel="CTV-Life-CA" start="20260516060000 +0500" stop="20260516070000 +0500">
-    <title>MasterChef Australia: Back to Win</title>
-    <sub-title>Mystery Box: Garlic &amp; ?</sub-title>
-    <desc>MasterChef Australia's brightest stars return in 2025 for a Back To Win contest promising to be an epic showdown; judges welcome contestants from Season 1 to all the way through to Season 16.</desc>
-    <episode-num system="onscreen">S17 E45</episode-num>
+  </channel><programme channel="CTV-Life-CA" start="20260522210000 +0500" stop="20260522220000 +0500">
+    <title>The Good Stuff With Mary Berg</title>
+    <desc>Mary Berg explores lifestyle trends, do-it-yourself projects, home renovations, recipes and more; featuring celebrity guests, influencers and everyday heroes.</desc>
+    <language>en</language>
+  </programme><programme channel="CTV-Life-CA" start="20260522220000 +0500" stop="20260522223000 +0500">
+    <title>Jamie's 15 Minute Meals</title>
+    <sub-title>Sausage Gnocchi and Mexican Chicken</sub-title>
+    <desc>Jamie prepares sausage gnocchi with warm kale and bean salad and Mexican chicken with wicked mole sauce, veg and rice.</desc>
+    <episode-num system="onscreen">S1 E39</episode-num>
+    <language>en</language>
+  </programme><programme channel="CTV-Life-CA" start="20260522223000 +0500" stop="20260522230000 +0500">
+    <title>Jamie's 15 Minute Meals</title>
+    <sub-title>Asian Sea Bass and Chorizo Carbonara</sub-title>
+    <desc>Jamie Oliver cooks Asian sea bass, sticky rice and dressed greens; chorizo carbonara and Catalan market salad.</desc>
+    <episode-num system="onscreen">S1 E40</episode-num>
     <credits>
-      <actor>Andy Allen</actor>
-      <actor>Poh Ling Yeow</actor>
-      <actor>Sofia Levin</actor>
-    </credits><date>2025</date>
+      <director>Mike Matthews</director>
+      <actor>Jamie Oliver</actor>
+    </credits><date>2012</date>
     <category lang="en">Series</category>
-    <category lang="en">Competition Reality</category>
     <category lang="en">Cooking</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p29855874_b_h10_aa.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p9527801_b_h10_av.jpg?w=960&amp;h=540" />
     <rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating>
+  </programme><programme channel="CTV-Life-CA" start="20260522230000 +0500" stop="20260523000000 +0500">
+    <title>The Amazing Race Canada</title>
+    <sub-title>This is Not a Hot Girl Moment</sub-title>
+    <desc>Teams travel to Tofino and Ucluelet, B.C., where things get icy before they take a dive.</desc>
+    <episode-num system="onscreen">S9 E5</episode-num>
+    <credits>
+      <actor>Jon Montgomery</actor>
+      <actor>Jet Black</actor>
+      <actor>Dave Schram</actor>
+    </credits><date>2023</date>
+    <category lang="en">Series</category>
+    <category lang="en">Adventure</category>
+    <category lang="en">Travel</category>
+    <category lang="en">Competition Reality</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p10017313_b_h8_aq.jpg?w=960&amp;h=540" />
+    <rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating>
+  </programme><programme channel="CTV-Life-CA" start="20260523000000 +0500" stop="20260523003000 +0500">
+    <title>My Pet Ate What?</title>
+    <sub-title>Show Me the Money</sub-title>
+    <desc>One feline has an appetite that's shockingly on the money, while another's taste for stringy oddities appears to be insatiable; while Ben is back home visiting family, an exotic bird with questionable peckishness puts Dr. G out of his comfort zone.</desc>
+    <episode-num system="onscreen">S1 E7</episode-num>
+    <date>2025</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Animals</category>
+    <category lang="en">Nature</category>
+    <category lang="en">Competition Reality</category>
+    <category lang="en">Reality</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p29188361_b_h8_ag.jpg?w=960&amp;h=540" />
+    <rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating>
+  </programme><programme channel="CTV-Life-CA" start="20260523003000 +0500" stop="20260523010000 +0500">
+    <title>My Pet Ate What?</title>
+    <sub-title>Toy My God!</sub-title>
+    <desc>A pet owner who is a nurse gets a front-row seat as Dr. G explores a troublesome appetite; a feline at risk for a dangerous blockage means a high-pressure game of cat and mouse.</desc>
+    <episode-num system="onscreen">S1 E8</episode-num>
+    <date>2025</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Animals</category>
+    <category lang="en">Nature</category>
+    <category lang="en">Competition Reality</category>
+    <category lang="en">Reality</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p29188361_b_h8_ag.jpg?w=960&amp;h=540" />
+    <rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating>
+  </programme><programme channel="CTV-Life-CA" start="20260523010000 +0500" stop="20260523020000 +0500">
+    <title>Next Level Chef</title>
+    <sub-title>Social Media Chef Auditions</sub-title>
+    <desc>Eight social media chefs kick off the competition.</desc>
+    <episode-num system="onscreen">S4 E1</episode-num>
+    <credits>
+      <actor>Gordon Ramsay</actor>
+      <actor>Nyesha Arrington</actor>
+      <actor>Richard Blais</actor>
+    </credits><date>2025</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">Cooking</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p20001189_b_h8_aw.jpg?w=960&amp;h=540" />
+    <rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>AL</value>
+    </rating>
+  </programme><programme channel="CTV-Life-CA" start="20260523020000 +0500" stop="20260523030000 +0500">
+    <title>Blue Bloods</title>
+    <sub-title>Thanksgiving</sub-title>
+    <desc>Jackie and Danny think a young woman was forced to commit suicide; Frank clashes with Mayor Poole over a threat to the city; Henry has a heart attack.</desc>
+    <episode-num system="onscreen">S2 E8</episode-num>
+    <credits>
+      <director>Steve Gomer</director>
+      <actor>Tom Selleck</actor>
+      <actor>Donnie Wahlberg</actor>
+      <actor>Bridget Moynahan</actor>
+    </credits><date>2011</date>
+    <category lang="en">Series</category>
+    <category lang="en">Holiday</category>
+    <category lang="en">Crime drama</category>
+    <category lang="en">Action</category>
+    <category lang="en">Entertainment</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p8130493_b_h8_af.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating><rating system="Film &amp; Publication Board">
+      <value>16</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating><rating system="UK Content Provider">
+      <value>PG</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B</value>
+    </rating><rating system="Arcom">
+      <value>-10</value>
+    </rating><rating system="Kijkwijzer">
+      <value>12</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating><rating system="Medietilsynet">
+      <value>15 år</value>
+    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
+      <value>12</value>
+    </rating>
+  </programme><programme channel="CTV-Life-CA" start="20260523030000 +0500" stop="20260523040000 +0500">
+    <title>Blue Bloods</title>
+    <sub-title>Moonlighting</sub-title>
+    <desc>A dangerous ex-mobster helps Danny with cold cases in exchange for leniency for his son; Jamie searches for a secret about the Sanfino family.</desc>
+    <episode-num system="onscreen">S2 E9</episode-num>
+    <credits>
+      <director>Robert Harmon</director>
+      <actor>Tom Selleck</actor>
+      <actor>Donnie Wahlberg</actor>
+      <actor>Bridget Moynahan</actor>
+    </credits><date>2011</date>
+    <category lang="en">Series</category>
+    <category lang="en">Crime drama</category>
+    <category lang="en">Action</category>
+    <category lang="en">Entertainment</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p8130493_b_h8_af.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating><rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating><rating system="Film &amp; Publication Board">
+      <value>16</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="Arcom">
+      <value>-10</value>
+    </rating><rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating><rating system="UK Content Provider">
+      <value>PG</value>
+    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B</value>
+    </rating><rating system="Kijkwijzer">
+      <value>12</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating><rating system="Medietilsynet">
+      <value>15 år</value>
+    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
+      <value>12</value>
+    </rating>
+  </programme><programme channel="CTV-Life-CA" start="20260523040000 +0500" stop="20260523050000 +0500">
+    <title>Escape to the Country</title>
+    <sub-title>Argyll and Bute</sub-title>
+    <desc>Alistair Appleton helps globetrotter Sabiha find an Argyll and Bute retreat with a line-up that includes a magical home on an island, just a short ferry ride from the mainland.</desc>
+    <episode-num system="onscreen">S26 E35</episode-num>
+    <credits>
+      <actor>Jules Hudson</actor>
+      <actor>Alistair Appleton</actor>
+      <actor>Nicki Chapman</actor>
+    </credits><date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">House/garden</category>
+    <category lang="en">Home improvement</category>
+    <category lang="en">Bus./financial</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p379352_b_h8_bq.jpg?w=960&amp;h=540" />
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="Australian Classification Board">
       <value>PG</value>
     </rating><rating system="Kijkwijzer">
       <value>AL</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TVPG</value>
     </rating>
-  </programme><programme channel="CTV-Life-CA" start="20260516070000 +0500" stop="20260516080000 +0500">
-    <title>Escape to the Country</title>
-    <sub-title>Buckinghamshire</sub-title>
-    <desc>Three generations of the same family ask Jules to help them move from London to Buckinghamshire.</desc>
-    <episode-num system="onscreen">S23 E3</episode-num>
+  </programme><programme channel="CTV-Life-CA" start="20260523050000 +0500" stop="20260523060000 +0500">
+    <title>Next Level Chef</title>
+    <sub-title>Building a Legacy</sub-title>
+    <desc>The chefs must create a signature dish that they feel defines them, but there is a hidden catch.</desc>
+    <episode-num system="onscreen">S5 E15</episode-num>
     <credits>
-      <actor>Jules Hudson</actor>
+      <actor>Gordon Ramsay</actor>
+      <actor>Nyesha Arrington</actor>
+      <actor>Richard Blais</actor>
+    </credits><date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">Cooking</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p31694899_b_h8_ab.jpg?w=960&amp;h=540" />
+    <rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>AL</value>
+    </rating>
+  </programme><programme channel="CTV-Life-CA" start="20260523060000 +0500" stop="20260523070000 +0500">
+    <title>MasterChef Australia</title>
+    <sub-title>Service Challenge: Vue de Monde</sub-title>
+    <desc>Contestants compete in a service challenge at the prestigious Vue de Monde restaurant in Melbourne.</desc>
+    <episode-num system="onscreen">S6 E58</episode-num>
+    <credits>
+      <actor>Matt Preston</actor>
+      <actor>George Calombaris</actor>
+      <actor>Gary Mehigan</actor>
+    </credits><date>2014</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">Cooking</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p8137747_b_h10_as.jpg?w=960&amp;h=540" />
+    <rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating>
+  </programme><programme channel="CTV-Life-CA" start="20260523070000 +0500" stop="20260523080000 +0500">
+    <title>Escape to the Country</title>
+    <sub-title>Devon</sub-title>
+    <desc>Nicki Chapman helps a couple from London search for their dream home in the countryside.</desc>
+    <episode-num system="onscreen">S23 E7</episode-num>
+    <credits>
+      <actor>Nicki Chapman</actor>
     </credits><date>2022</date>
     <category lang="en">Series</category>
     <category lang="en">House/garden</category>
     <category lang="en">Home improvement</category>
     <category lang="en">Bus./financial</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p379352_b_h10_bn.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p379352_b_h8_bq.jpg?w=960&amp;h=540" />
     <rating system="USA Parental Rating">
       <value>TVG</value>
     </rating><rating system="Canadian Parental Rating">
@@ -50,11 +316,11 @@
     </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
       <value>12</value>
     </rating>
-  </programme><programme channel="CTV-Life-CA" start="20260516080000 +0500" stop="20260516090000 +0500">
+  </programme><programme channel="CTV-Life-CA" start="20260523080000 +0500" stop="20260523090000 +0500">
     <title>MasterChef Canada</title>
-    <sub-title>Mystery Box Mayhem</sub-title>
-    <desc>Mystery box mayhem erupts as the Top 12 take on Canadian classics and surprise flavour combos for a powerful advantage.</desc>
-    <episode-num system="onscreen">S8 E2</episode-num>
+    <sub-title>Let Them Make Cake</sub-title>
+    <desc>In the series' 100th episode, the Top Seven must bake it to the top with show-stopping cakes; one home cook wins big, while another goes home.</desc>
+    <episode-num system="onscreen">S8 E7</episode-num>
     <credits>
       <actor>Michael Bonacini</actor>
       <actor>Alvin Leung</actor>
@@ -74,18 +340,19 @@
     </rating><rating system="Australian Classification Board">
       <value>PG</value>
     </rating>
-  </programme><programme channel="CTV-Life-CA" start="20260516090000 +0500" stop="20260516100000 +0500">
+  </programme><programme channel="CTV-Life-CA" start="20260523090000 +0500" stop="20260523100000 +0500">
     <title>Blue Bloods</title>
-    <sub-title>Family Ties</sub-title>
-    <desc>Danny must delve into the family politics of the Russian mob while investigating the death of a gangster's son; Erin becomes involved in a high-profile corruption case.</desc>
-    <episode-num system="onscreen">S1 E12</episode-num>
+    <sub-title>Thanksgiving</sub-title>
+    <desc>Jackie and Danny think a young woman was forced to commit suicide; Frank clashes with Mayor Poole over a threat to the city; Henry has a heart attack.</desc>
+    <episode-num system="onscreen">S2 E8</episode-num>
     <credits>
-      <director>Stephen Gyllenhaal</director>
+      <director>Steve Gomer</director>
       <actor>Tom Selleck</actor>
       <actor>Donnie Wahlberg</actor>
       <actor>Bridget Moynahan</actor>
     </credits><date>2011</date>
     <category lang="en">Series</category>
+    <category lang="en">Holiday</category>
     <category lang="en">Crime drama</category>
     <category lang="en">Action</category>
     <category lang="en">Entertainment</category>
@@ -110,7 +377,7 @@
     </rating><rating system="Arcom">
       <value>-10</value>
     </rating><rating system="Kijkwijzer">
-      <value>16</value>
+      <value>12</value>
     </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
       <value>14</value>
     </rating><rating system="Medietilsynet">
@@ -118,13 +385,13 @@
     </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
       <value>12</value>
     </rating>
-  </programme><programme channel="CTV-Life-CA" start="20260516100000 +0500" stop="20260516110000 +0500">
+  </programme><programme channel="CTV-Life-CA" start="20260523100000 +0500" stop="20260523110000 +0500">
     <title>Blue Bloods</title>
-    <sub-title>Hall of Mirrors</sub-title>
-    <desc>Danny investigates the shooting of an undercover counterterrorism agent who was involved with infiltrating a sleeper cell.</desc>
-    <episode-num system="onscreen">S1 E13</episode-num>
+    <sub-title>Moonlighting</sub-title>
+    <desc>A dangerous ex-mobster helps Danny with cold cases in exchange for leniency for his son; Jamie searches for a secret about the Sanfino family.</desc>
+    <episode-num system="onscreen">S2 E9</episode-num>
     <credits>
-      <director>Frederick K. Keller</director>
+      <director>Robert Harmon</director>
       <actor>Tom Selleck</actor>
       <actor>Donnie Wahlberg</actor>
       <actor>Bridget Moynahan</actor>
@@ -137,24 +404,24 @@
     <icon src="http://dtil.tmsimg.com/assets/p8130493_b_h8_af.jpg?w=960&amp;h=540" />
     <rating system="USA Parental Rating">
       <value>TV14</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
     </rating><rating system="Australian Classification Board">
       <value>M 15+</value>
     </rating><rating system="Film &amp; Publication Board">
       <value>16</value>
     </rating><rating system="Canadian Parental Rating">
       <value>14+</value>
+    </rating><rating system="Arcom">
+      <value>-10</value>
     </rating><rating system="Régie du cinéma">
       <value>13+</value>
     </rating><rating system="UK Content Provider">
       <value>PG</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
     </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
       <value>B</value>
-    </rating><rating system="Arcom">
-      <value>-10</value>
     </rating><rating system="Kijkwijzer">
-      <value>16</value>
+      <value>12</value>
     </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
       <value>14</value>
     </rating><rating system="Medietilsynet">
@@ -162,16 +429,16 @@
     </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
       <value>12</value>
     </rating>
-  </programme><programme channel="CTV-Life-CA" start="20260516110000 +0500" stop="20260516120000 +0500">
+  </programme><programme channel="CTV-Life-CA" start="20260523110000 +0500" stop="20260523120000 +0500">
     <title>Next Level Chef</title>
-    <sub-title>Squad Goals</sub-title>
-    <desc>The eight remaining competitors must work together in teams to create a cohesive three-course meal; with only 30 minutes on the clock, the team with the winning menu remains safe from elimination.</desc>
-    <episode-num system="onscreen">S3 E11</episode-num>
+    <sub-title>Social Media Chef Auditions</sub-title>
+    <desc>Eight social media chefs kick off the competition.</desc>
+    <episode-num system="onscreen">S4 E1</episode-num>
     <credits>
       <actor>Gordon Ramsay</actor>
       <actor>Nyesha Arrington</actor>
       <actor>Richard Blais</actor>
-    </credits><date>2024</date>
+    </credits><date>2025</date>
     <category lang="en">Series</category>
     <category lang="en">Reality</category>
     <category lang="en">Cooking</category>
@@ -185,14 +452,38 @@
       <value>M 15+</value>
     </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
       <value>AL</value>
-    </rating><rating system="Kijkwijzer">
-      <value>9</value>
     </rating>
-  </programme><programme channel="CTV-Life-CA" start="20260516120000 +0500" stop="20260516123000 +0500">
+  </programme><programme channel="CTV-Life-CA" start="20260523120000 +0500" stop="20260523123000 +0500">
     <title>Jamie's 15 Minute Meals</title>
-    <sub-title>Glazed Pork Fillet and Tapas Bruschetta</sub-title>
-    <desc>Glazed pork fillet; Cajun-style pepper rice; barbecue sauce; tapas bruschetta; golden grilled sardines.</desc>
-    <episode-num system="onscreen">S1 E29</episode-num>
+    <sub-title>Sausage Gnocchi and Mexican Chicken</sub-title>
+    <desc>Jamie prepares sausage gnocchi with warm kale and bean salad and Mexican chicken with wicked mole sauce, veg and rice.</desc>
+    <episode-num system="onscreen">S1 E39</episode-num>
+    <credits>
+      <director>Mike Matthews</director>
+      <actor>Jamie Oliver</actor>
+    </credits><date>2012</date>
+    <category lang="en">Series</category>
+    <category lang="en">Cooking</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p9527803_b_h10_ac.jpg?w=960&amp;h=540" />
+    <rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>L</value>
+    </rating><rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating>
+  </programme><programme channel="CTV-Life-CA" start="20260523123000 +0500" stop="20260523130000 +0500">
+    <title>Jamie's 15 Minute Meals</title>
+    <sub-title>Asian Sea Bass and Chorizo Carbonara</sub-title>
+    <desc>Jamie Oliver cooks Asian sea bass, sticky rice and dressed greens; chorizo carbonara and Catalan market salad.</desc>
+    <episode-num system="onscreen">S1 E40</episode-num>
     <credits>
       <director>Mike Matthews</director>
       <actor>Jamie Oliver</actor>
@@ -207,58 +498,34 @@
       <value>PG</value>
     </rating><rating system="USA Parental Rating">
       <value>TVPG</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
     </rating><rating system="Kijkwijzer">
       <value>AL</value>
-    </rating>
-  </programme><programme channel="CTV-Life-CA" start="20260516123000 +0500" stop="20260516130000 +0500">
-    <title>Jamie's 15 Minute Meals</title>
-    <sub-title>Lamb Kofte and Keralan Veggie Curry</sub-title>
-    <desc>Jamie makes lamb kofte, pitta and greek salad, and Keralan veggie curry with poppadoms, rice and minty yoghurt.</desc>
-    <episode-num system="onscreen">S1 E30</episode-num>
-    <credits>
-      <director>Mike Matthews</director>
-      <actor>Jamie Oliver</actor>
-    </credits><date>2012</date>
-    <category lang="en">Series</category>
-    <category lang="en">Cooking</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p9527801_b_h10_av.jpg?w=960&amp;h=540" />
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>L</value>
-    </rating><rating system="Australian Classification Board">
-      <value>PG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TVPG</value>
     </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
       <value>12</value>
-    </rating><rating system="Kijkwijzer">
-      <value>AL</value>
     </rating>
-  </programme><programme channel="CTV-Life-CA" start="20260516130000 +0500" stop="20260516140000 +0500">
+  </programme><programme channel="CTV-Life-CA" start="20260523130000 +0500" stop="20260523140000 +0500">
     <title>The Good Stuff With Mary Berg</title>
     <sub-title />
-    <desc>Mary's apple pecan coffee cake; fall wardrobe edit; decorating with fall colours; fall home buying tips.</desc>
-    <episode-num system="onscreen">S3 E15</episode-num>
+    <desc>Chef Chuck Hughes spotlights new restaurants in Canada; time-saving tech; viral kitchen hacks tested; actress Lauren Ash ("Superstore").</desc>
+    <episode-num system="onscreen">S3 E16</episode-num>
     <credits>
       <actor>Mary Berg</actor>
+      <actor>Chuck Hughes</actor>
+      <actor>Lauren Ash</actor>
     </credits><date>2025</date>
     <category lang="en">Series</category>
     <category lang="en">Talk</category>
     <category lang="en">Entertainment</category>
     <language>en</language>
     <icon src="http://dtil.tmsimg.com/assets/p24996781_b_h8_ab.jpg?w=960&amp;h=540" />
-  </programme><programme channel="CTV-Life-CA" start="20260516140000 +0500" stop="20260516143000 +0500">
+  </programme><programme channel="CTV-Life-CA" start="20260523140000 +0500" stop="20260523143000 +0500">
     <title>Mary Makes It Easy</title>
-    <sub-title>The Short List</sub-title>
-    <desc>Mary keeps shopping lists short with flavorful dishes made up of just a few ingredients.</desc>
-    <episode-num system="onscreen">S2 E11</episode-num>
+    <sub-title>Scrap Cooking</sub-title>
+    <desc>To reduce food waste, Mary Berg shares how to use compost castoffs in recipes; using flavorful scraps like corn cobs and potato peels, Mary makes Parmesan corn chowder, twice baked potato casserole and cinnamon oat pancakes.</desc>
+    <episode-num system="onscreen">S2 E17</episode-num>
     <credits>
       <actor>Mary Berg</actor>
-    </credits><date>2022</date>
+    </credits><date>2023</date>
     <category lang="en">Series</category>
     <category lang="en">Cooking</category>
     <language>en</language>
@@ -269,22 +536,22 @@
       <value>G</value>
     </rating><rating system="방송통신심의위원회">
       <value>12</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TVPG</value>
     </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
       <value>6</value>
     </rating><rating system="Kijkwijzer">
       <value>AL</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TVG</value>
     </rating><rating system="Régie du cinéma">
       <value>G</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>G</value>
     </rating>
-  </programme><programme channel="CTV-Life-CA" start="20260516143000 +0500" stop="20260516150000 +0500">
+  </programme><programme channel="CTV-Life-CA" start="20260523143000 +0500" stop="20260523150000 +0500">
     <title>Spencer's BIG 30</title>
-    <sub-title>Lebanese Take-Out</sub-title>
-    <desc>Chef Spencer Watts creates a Lebanese supper for four in less than thirty minutes.</desc>
-    <episode-num system="onscreen">S3 E1</episode-num>
+    <sub-title>Japanese Take-Out</sub-title>
+    <desc>Chef Spencer Watts makes fast and affordable Japanese food for four in around 30 minutes.</desc>
+    <episode-num system="onscreen">S3 E6</episode-num>
     <credits>
       <actor>Spencer Watts</actor>
     </credits><date>2020</date>
@@ -297,40 +564,45 @@
     </rating><rating system="Canadian Parental Rating">
       <value>PG</value>
     </rating>
-  </programme><programme channel="CTV-Life-CA" start="20260516150000 +0500" stop="20260516170000 +0500">
-    <title>Aurora Teagarden Mysteries: Dead Over Heels</title>
-    <sub-title />
-    <desc>Librarian and real crime buff Aurora Roe Teagarden never liked Detective Sgt. Frederick Burns. She also never wanted to see him dead, but when he winds up murdered, she can't help but get involved.</desc>
+  </programme><programme channel="CTV-Life-CA" start="20260523150000 +0500" stop="20260523170000 +0500">
+    <title>Aurora Teagarden Mysteries</title>
+    <sub-title>Last Scene Alive</sub-title>
+    <desc>While filming a movie adaptation of a novel about Aurora, the lead actress is found murdered in her trailer.</desc>
+    <episode-num system="onscreen">S1 E7</episode-num>
     <credits>
-      <director>Terry Ingram</director>
+      <director>Martin Wood</director>
       <actor>Candace Cameron Bure</actor>
-      <actor>Yannick Bisson</actor>
       <actor>Marilu Henner</actor>
-    </credits><date>2017</date>
-    <category lang="en">Movie</category>
+      <actor>Peter Benson</actor>
+    </credits><date>2018</date>
+    <category lang="en">Series</category>
     <category lang="en">Mystery</category>
-    <category lang="en">Drama</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p13797126_v_h10_ah.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p15490141_b_h8_aj.jpg?w=960&amp;h=540" />
     <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>TVG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
       <value>12</value>
     </rating><rating system="Régie du cinéma">
       <value>G</value>
-    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>B</value>
-    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K12</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>7</value>
+    </rating><rating system="Medierådet">
+      <value>11</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>AL</value>
     </rating>
-  </programme><programme channel="CTV-Life-CA" start="20260516170000 +0500" stop="20260516173000 +0500">
+  </programme><programme channel="CTV-Life-CA" start="20260523170000 +0500" stop="20260523173000 +0500">
     <title>Mary Makes It Easy</title>
-    <sub-title>Livin' on the Veg</sub-title>
-    <desc>Celebrating the "veg life" with Mary's meatless recipes that are so much more than a bowl of greens.</desc>
-    <episode-num system="onscreen">S2 E12</episode-num>
+    <sub-title>Side Show</sub-title>
+    <desc>A side dish can make a lasting impression; starting with crispy sweet potatoes and a spicy chipotle mayo for dunking; a savory flip on French upside-down cake with pear and shallot tarte tatin; roasted carrots and greens with haloumi.</desc>
+    <episode-num system="onscreen">S2 E18</episode-num>
     <credits>
+      <director>Jan McCharles</director>
       <actor>Mary Berg</actor>
-    </credits><date>2022</date>
+    </credits><date>2023</date>
     <category lang="en">Series</category>
     <category lang="en">Cooking</category>
     <language>en</language>
@@ -341,402 +613,368 @@
       <value>G</value>
     </rating><rating system="방송통신심의위원회">
       <value>12</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TVPG</value>
     </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
       <value>6</value>
     </rating><rating system="Kijkwijzer">
       <value>AL</value>
     </rating><rating system="Régie du cinéma">
       <value>G</value>
-    </rating>
-  </programme><programme channel="CTV-Life-CA" start="20260516173000 +0500" stop="20260516190000 +0500">
-    <title>MasterChef Australia</title>
-    <sub-title />
-    <desc>The remaining contestants are flown to Japan; they must explore Tokyo to find ingredients for the mystery box challenge.</desc>
-    <episode-num system="onscreen">S9 E46</episode-num>
-    <credits>
-      <actor>Matt Preston</actor>
-      <actor>George Calombaris</actor>
-      <actor>Gary Mehigan</actor>
-    </credits><date>2017</date>
-    <category lang="en">Series</category>
-    <category lang="en">Reality</category>
-    <category lang="en">Cooking</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p8137747_b_h10_as.jpg?w=960&amp;h=540" />
-    <rating system="Australian Classification Board">
-      <value>PG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
     </rating><rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="Kijkwijzer">
-      <value>AL</value>
-    </rating>
-  </programme><programme channel="CTV-Life-CA" start="20260516190000 +0500" stop="20260516200000 +0500">
-    <title>MasterChef Australia</title>
-    <sub-title />
-    <desc>The nine contestants continue their mission trip in Tokyo; with Ben's win in the earlier challenge, the remaining eight must create a dish for an eight course meal; George overlooks the whole operation.</desc>
-    <episode-num system="onscreen">S9 E47</episode-num>
-    <credits>
-      <actor>Matt Preston</actor>
-      <actor>George Calombaris</actor>
-      <actor>Gary Mehigan</actor>
-    </credits><date>2017</date>
-    <category lang="en">Series</category>
-    <category lang="en">Reality</category>
-    <category lang="en">Cooking</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p8137747_b_h10_as.jpg?w=960&amp;h=540" />
-    <rating system="Australian Classification Board">
-      <value>PG</value>
+      <value>TVG</value>
     </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Régie du cinéma">
       <value>G</value>
-    </rating><rating system="Kijkwijzer">
-      <value>AL</value>
     </rating>
-  </programme><programme channel="CTV-Life-CA" start="20260516200000 +0500" stop="20260516210000 +0500">
-    <title>MasterChef Australia</title>
-    <sub-title />
-    <desc>Challenge winners Sarah, Karlie and Ben fight for immunity; they must add a Japanese fruit in a dish within an hour.</desc>
-    <episode-num system="onscreen">S9 E48</episode-num>
-    <credits>
-      <actor>Matt Preston</actor>
-      <actor>George Calombaris</actor>
-      <actor>Gary Mehigan</actor>
-    </credits><date>2017</date>
-    <category lang="en">Series</category>
-    <category lang="en">Reality</category>
-    <category lang="en">Cooking</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p8137747_b_h10_as.jpg?w=960&amp;h=540" />
-    <rating system="Australian Classification Board">
-      <value>PG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="Kijkwijzer">
-      <value>AL</value>
-    </rating>
-  </programme><programme channel="CTV-Life-CA" start="20260516210000 +0500" stop="20260516220000 +0500">
-    <title>MasterChef Australia</title>
-    <sub-title />
-    <desc>The remaining competitors tackle a feed-the-public challenge in Shinjuku; the team that stays calm in a busy alleyway remains, while the other faces elimination.</desc>
-    <episode-num system="onscreen">S9 E49</episode-num>
-    <credits>
-      <actor>Matt Preston</actor>
-      <actor>George Calombaris</actor>
-      <actor>Gary Mehigan</actor>
-    </credits><date>2017</date>
-    <category lang="en">Series</category>
-    <category lang="en">Reality</category>
-    <category lang="en">Cooking</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p8137747_b_h10_as.jpg?w=960&amp;h=540" />
-    <rating system="Australian Classification Board">
-      <value>PG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="Kijkwijzer">
-      <value>AL</value>
-    </rating>
-  </programme><programme channel="CTV-Life-CA" start="20260516220000 +0500" stop="20260516230000 +0500">
-    <title>MasterChef Australia</title>
-    <sub-title />
-    <desc>The losing team from the street stall challenge fight to continue in the competition; the bottom contestants must cook a dish that celebrates where they have come from and where they want to go.</desc>
-    <episode-num system="onscreen">S9 E50</episode-num>
-    <credits>
-      <actor>Matt Preston</actor>
-      <actor>George Calombaris</actor>
-      <actor>Gary Mehigan</actor>
-    </credits><date>2017</date>
-    <category lang="en">Series</category>
-    <category lang="en">Reality</category>
-    <category lang="en">Cooking</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p8137747_b_h10_as.jpg?w=960&amp;h=540" />
-    <rating system="Australian Classification Board">
-      <value>PG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="Kijkwijzer">
-      <value>AL</value>
-    </rating>
-  </programme><programme channel="CTV-Life-CA" start="20260516230000 +0500" stop="20260517000000 +0500">
-    <title>MasterChef Australia</title>
-    <sub-title />
-    <desc>The eight competitors return to the Australia kitchen; there's one hour to create a dish from four mystery ingredients in an invention test.</desc>
-    <episode-num system="onscreen">S9 E51</episode-num>
-    <credits>
-      <actor>Matt Preston</actor>
-      <actor>George Calombaris</actor>
-      <actor>Gary Mehigan</actor>
-    </credits><date>2017</date>
-    <category lang="en">Series</category>
-    <category lang="en">Reality</category>
-    <category lang="en">Cooking</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p8137747_b_h10_as.jpg?w=960&amp;h=540" />
-    <rating system="Australian Classification Board">
-      <value>PG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="Kijkwijzer">
-      <value>AL</value>
-    </rating>
-  </programme><programme channel="CTV-Life-CA" start="20260517000000 +0500" stop="20260517013000 +0500">
-    <title>MasterChef Australia</title>
-    <sub-title />
-    <desc>Ben, Eloise and Diana compete in a pressure test; the competitors have three hours to create the Nest; the losing competitor is sent home.</desc>
-    <episode-num system="onscreen">S9 E52</episode-num>
-    <credits>
-      <actor>Matt Preston</actor>
-      <actor>George Calombaris</actor>
-      <actor>Gary Mehigan</actor>
-    </credits><date>2017</date>
-    <category lang="en">Series</category>
-    <category lang="en">Reality</category>
-    <category lang="en">Cooking</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p8137747_b_h10_as.jpg?w=960&amp;h=540" />
-    <rating system="Australian Classification Board">
-      <value>PG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="Kijkwijzer">
-      <value>AL</value>
-    </rating>
-  </programme><programme channel="CTV-Life-CA" start="20260517013000 +0500" stop="20260517040000 +0500">
-    <title>Mrs. Doubtfire</title>
-    <sub-title />
-    <desc>An unemployed actor disguises himself as an elderly nanny in order to spend more time with his estranged family.</desc>
-    <credits>
-      <director>Chris Columbus</director>
-      <actor>Robin Williams</actor>
-      <actor>Sally Field</actor>
-      <actor>Pierce Brosnan</actor>
-    </credits><date>1993</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Children</category>
-    <category lang="en">Comedy</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p15209_v_h10_ah.jpg?w=960&amp;h=540" />
-    <rating system="Motion Picture Association">
-      <value>PG</value>
-    </rating><rating system="Manitoba Film Classification Board">
-      <value>PG</value>
-    </rating><rating system="Maritime Film Classification Board">
-      <value>PG</value>
-    </rating><rating system="Ontario Film Authority">
-      <value>PG</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="British Board of Film Classification">
-      <value>12</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>L</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>6</value>
-    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>S</value>
-    </rating><rating system="Australian Classification Board">
-      <value>PG</value>
-    </rating><rating system="UK Content Provider">
-      <value>PG</value>
-    </rating><rating system="Instituto Nacional de Cine y Artes Audiovisuales">
-      <value>ATP</value>
-    </rating><rating system="Statens medieråd">
-      <value>Barntillåten</value>
-    </rating><rating system="Irish Film Classification Office">
-      <value>PG</value>
-    </rating><rating system="映倫">
-      <value>G</value>
-    </rating><rating system="Medierådet">
-      <value>A</value>
-    </rating><rating system="영상물등급위원회">
-      <value>12+</value>
-    </rating><rating system="Kijkwijzer">
-      <value>AL</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
-    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>A</value>
-    </rating><rating system="Alberta's Film Classification Board">
-      <value>PG</value>
-    </rating><star-rating>
-      <value>6.0/10</value>
-    </star-rating>
-  </programme><programme channel="CTV-Life-CA" start="20260517040000 +0500" stop="20260517060000 +0500">
-    <title>Aurora Teagarden Mysteries: Dead Over Heels</title>
-    <sub-title />
-    <desc>Librarian and real crime buff Aurora Roe Teagarden never liked Detective Sgt. Frederick Burns. She also never wanted to see him dead, but when he winds up murdered, she can't help but get involved.</desc>
-    <credits>
-      <director>Terry Ingram</director>
-      <actor>Candace Cameron Bure</actor>
-      <actor>Yannick Bisson</actor>
-      <actor>Marilu Henner</actor>
-    </credits><date>2017</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Mystery</category>
-    <category lang="en">Drama</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p13797126_v_h10_ah.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>12</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>B</value>
-    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K12</value>
-    </rating>
-  </programme><programme channel="CTV-Life-CA" start="20260517060000 +0500" stop="20260517080000 +0500">
-    <title>Aurora Teagarden Mysteries: Bundle of Trouble</title>
-    <sub-title />
-    <desc>Aurora Teagarden and her boyfriend Martin are thrilled when they get an unexpected visit from his niece and her new baby. Their excitement is short-lived when his niece disappears and the baby is left behind.</desc>
-    <credits>
-      <director>Kevin Fair</director>
-      <actor>Candace Cameron Bure</actor>
-      <actor>Marilu Henner</actor>
-      <actor>Yannick Bisson</actor>
-    </credits><date>2017</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Mystery</category>
-    <category lang="en">Drama</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p14005697_v_h10_ag.jpg?w=960&amp;h=540" />
-    <rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>12</value>
-    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>B</value>
-    </rating><rating system="Arcom">
-      <value>-10</value>
-    </rating>
-  </programme><programme channel="CTV-Life-CA" start="20260517080000 +0500" stop="20260517100000 +0500">
-    <title>#FBF</title>
-    <sub-title />
-    <desc>When Annie accidentally takes her mother's laptop, she poses as her mother to her father to repair her divorced parents' relationship.</desc>
-    <credits>
-      <director>Ilyssa Goodman</director>
-      <actor>Cree Cicchino</actor>
-      <actor>Ashley Judd</actor>
-      <actor>Maria Canals-Barrera</actor>
-    </credits><date>2022</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Drama</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p23072657_v_h8_aa.jpg?w=960&amp;h=540" />
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>10</value>
-    </rating><rating system="Instituto Nacional de Cine y Artes Audiovisuales">
-      <value>ATP</value>
-    </rating>
-  </programme><programme channel="CTV-Life-CA" start="20260517100000 +0500" stop="20260517120000 +0500">
-    <title>Aurora Teagarden Mysteries: Dead Over Heels</title>
-    <sub-title />
-    <desc>Librarian and real crime buff Aurora Roe Teagarden never liked Detective Sgt. Frederick Burns. She also never wanted to see him dead, but when he winds up murdered, she can't help but get involved.</desc>
-    <credits>
-      <director>Terry Ingram</director>
-      <actor>Candace Cameron Bure</actor>
-      <actor>Yannick Bisson</actor>
-      <actor>Marilu Henner</actor>
-    </credits><date>2017</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Mystery</category>
-    <category lang="en">Drama</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p13797126_v_h10_ah.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>12</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>B</value>
-    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K12</value>
-    </rating>
-  </programme><programme channel="CTV-Life-CA" start="20260517120000 +0500" stop="20260517140000 +0500">
-    <title>Aurora Teagarden Mysteries: Bundle of Trouble</title>
-    <sub-title />
-    <desc>Aurora Teagarden and her boyfriend Martin are thrilled when they get an unexpected visit from his niece and her new baby. Their excitement is short-lived when his niece disappears and the baby is left behind.</desc>
-    <credits>
-      <director>Kevin Fair</director>
-      <actor>Candace Cameron Bure</actor>
-      <actor>Marilu Henner</actor>
-      <actor>Yannick Bisson</actor>
-    </credits><date>2017</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Mystery</category>
-    <category lang="en">Drama</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p14005697_v_h10_ag.jpg?w=960&amp;h=540" />
-    <rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>12</value>
-    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>B</value>
-    </rating><rating system="Arcom">
-      <value>-10</value>
-    </rating>
-  </programme><programme channel="CTV-Life-CA" start="20260517140000 +0500" stop="20260517143000 +0500">
+  </programme><programme channel="CTV-Life-CA" start="20260523173000 +0500" stop="20260523180000 +0500">
     <title>Mary Makes It Easy</title>
-    <sub-title>Uncanny Valley</sub-title>
-    <desc>Ingredients packed in cans and jars can be just as good as fresh ones.</desc>
-    <episode-num system="onscreen">S1 E16</episode-num>
+    <sub-title>Comfort Cooking</sub-title>
+    <desc>Mary Berg takes it step by step through recipes to impress without the stress.</desc>
+    <episode-num system="onscreen">S2 E19</episode-num>
     <credits>
+      <director>Jan McCharles</director>
       <actor>Mary Berg</actor>
-    </credits><date>2022</date>
+    </credits><date>2023</date>
     <category lang="en">Series</category>
     <category lang="en">Cooking</category>
     <language>en</language>
     <icon src="http://dtil.tmsimg.com/assets/p20486918_b_h8_ah.jpg?w=960&amp;h=540" />
-    <rating system="Kijkwijzer">
-      <value>AL</value>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating><rating system="Australian Classification Board">
+      <value>G</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>12</value>
     </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
       <value>6</value>
-    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>S</value>
+    </rating><rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>G</value>
     </rating>
-  </programme><programme channel="CTV-Life-CA" start="20260517143000 +0500" stop="20260517150000 +0500">
+  </programme><programme channel="CTV-Life-CA" start="20260523180000 +0500" stop="20260523190000 +0500">
+    <title>MasterChef Australia</title>
+    <sub-title />
+    <desc>The three best invention test dishes battle for immunity in a souffle challenge; the winner competes against chef Federico Zanellato.</desc>
+    <episode-num system="onscreen">S9 E53</episode-num>
+    <credits>
+      <actor>Matt Preston</actor>
+      <actor>George Calombaris</actor>
+      <actor>Gary Mehigan</actor>
+    </credits><date>2017</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">Cooking</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p8137747_b_h10_as.jpg?w=960&amp;h=540" />
+    <rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating>
+  </programme><programme channel="CTV-Life-CA" start="20260523190000 +0500" stop="20260523203000 +0500">
+    <title>MasterChef Australia</title>
+    <sub-title />
+    <desc>Six of the seven remaining competitors compete to avoid elimination; each is given an entrée, main or dessert to serve fifty customers.</desc>
+    <episode-num system="onscreen">S9 E54</episode-num>
+    <credits>
+      <actor>Matt Preston</actor>
+      <actor>George Calombaris</actor>
+      <actor>Gary Mehigan</actor>
+    </credits><date>2017</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">Cooking</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p8137747_b_h10_as.jpg?w=960&amp;h=540" />
+    <rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating>
+  </programme><programme channel="CTV-Life-CA" start="20260523203000 +0500" stop="20260523220000 +0500">
+    <title>MasterChef Australia</title>
+    <sub-title />
+    <desc>The three least impressive contestants from the service challenge compete to remain safe; two more contestants get fast-tracked to finals week.</desc>
+    <episode-num system="onscreen">S9 E55</episode-num>
+    <credits>
+      <actor>Matt Preston</actor>
+      <actor>George Calombaris</actor>
+      <actor>Gary Mehigan</actor>
+    </credits><date>2017</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">Cooking</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p8137747_b_h10_as.jpg?w=960&amp;h=540" />
+    <rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating>
+  </programme><programme channel="CTV-Life-CA" start="20260523220000 +0500" stop="20260523230000 +0500">
+    <title>MasterChef Australia</title>
+    <sub-title />
+    <desc>Eliza, Karlie and Tamara have 75 minutes to inspire their dishes with the memories of their respective vacation with their loved ones for the last two places to advance in the Finals Week.</desc>
+    <episode-num system="onscreen">S9 E56</episode-num>
+    <credits>
+      <actor>Matt Preston</actor>
+      <actor>George Calombaris</actor>
+      <actor>Gary Mehigan</actor>
+    </credits><date>2017</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">Cooking</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p8137747_b_h10_as.jpg?w=960&amp;h=540" />
+    <rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating>
+  </programme><programme channel="CTV-Life-CA" start="20260523230000 +0500" stop="20260524003000 +0500">
+    <title>MasterChef Australia</title>
+    <sub-title />
+    <desc>The bottom three from the invention test battle each other in a pressure test.</desc>
+    <episode-num system="onscreen">S9 E57</episode-num>
+    <credits>
+      <actor>Matt Preston</actor>
+      <actor>George Calombaris</actor>
+      <actor>Gary Mehigan</actor>
+    </credits><date>2017</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">Cooking</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p8137747_b_h10_as.jpg?w=960&amp;h=540" />
+    <rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating>
+  </programme><programme channel="CTV-Life-CA" start="20260524003000 +0500" stop="20260524013000 +0500">
+    <title>MasterChef Australia</title>
+    <sub-title />
+    <desc>Diana, Karlie and Sarah have three and a half hours to make the signature dish of Chef Shaun Quade; the dish is composed of various seafood and lemon marmalade concealed with flavoured sand, mussel foam and a miso pine nut ice cream.</desc>
+    <episode-num system="onscreen">S9 E58</episode-num>
+    <credits>
+      <actor>Matt Preston</actor>
+      <actor>George Calombaris</actor>
+      <actor>Gary Mehigan</actor>
+    </credits><date>2017</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">Cooking</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p8137747_b_h10_as.jpg?w=960&amp;h=540" />
+    <rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating>
+  </programme><programme channel="CTV-Life-CA" start="20260524013000 +0500" stop="20260524030000 +0500">
+    <title>MasterChef Australia</title>
+    <sub-title />
+    <desc>The top four contestants go to a Melbourne restaurant called Dinner by Heston to take part in a service challenge.</desc>
+    <episode-num system="onscreen">S9 E59</episode-num>
+    <credits>
+      <actor>Matt Preston</actor>
+      <actor>George Calombaris</actor>
+      <actor>Gary Mehigan</actor>
+    </credits><date>2017</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">Cooking</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p8137747_b_h10_as.jpg?w=960&amp;h=540" />
+    <rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating>
+  </programme><programme channel="CTV-Life-CA" start="20260524030000 +0500" stop="20260524040000 +0500">
+    <title>MasterChef Australia</title>
+    <sub-title />
+    <desc>The bottom three contestants have to create a dish to secure a spot in the semi-final; the judges participate in a masterclass run by Shannon Bennett; Curtis Stone with an invention test.</desc>
+    <episode-num system="onscreen">S9 E60</episode-num>
+    <credits>
+      <actor>Matt Preston</actor>
+      <actor>George Calombaris</actor>
+      <actor>Gary Mehigan</actor>
+    </credits><date>2017</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">Cooking</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p8137747_b_h10_as.jpg?w=960&amp;h=540" />
+    <rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating>
+  </programme><programme channel="CTV-Life-CA" start="20260524040000 +0500" stop="20260524060000 +0500">
+    <title>Best Served Cold: A Hannah Swensen Mystery</title>
+    <sub-title />
+    <desc>When a suspect in a forgery case is murdered and the prosecutor goes missing, Hannah and Chad must uncover how the two cases are connected and solve them in time for the trial.</desc>
+    <credits>
+      <actor>Alison Sweeney</actor>
+      <actor>Cameron Mathison</actor>
+      <actor>Barbara Niven</actor>
+    </credits><date>2026</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Mystery</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p33033382_v_h8_aa.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating>
+  </programme><programme channel="CTV-Life-CA" start="20260524060000 +0500" stop="20260524080000 +0500">
+    <title>Aurora Teagarden Mysteries: Reap What You Sew</title>
+    <sub-title />
+    <desc>Poppy Wilson, an old family friend of Aurora's, returns to Lawrenceton to start her new embroidery business. When Poppy turns up dead, Aurora must follow the unsettling truths that lead her into the path of the killer.</desc>
+    <credits>
+      <director>Terry Ingram</director>
+      <actor>Candace Cameron Bure</actor>
+      <actor>Marilu Henner</actor>
+      <actor>Peter Benson</actor>
+    </credits><date>2018</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Mystery</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p15238174_v_h10_ag.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>12</value>
+    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B</value>
+    </rating>
+  </programme><programme channel="CTV-Life-CA" start="20260524080000 +0500" stop="20260524100000 +0500">
+    <title>Best Served Cold: A Hannah Swensen Mystery</title>
+    <sub-title />
+    <desc>When a suspect in a forgery case is murdered and the prosecutor goes missing, Hannah and Chad must uncover how the two cases are connected and solve them in time for the trial.</desc>
+    <credits>
+      <actor>Alison Sweeney</actor>
+      <actor>Cameron Mathison</actor>
+      <actor>Barbara Niven</actor>
+    </credits><date>2026</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Mystery</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p33033382_v_h8_aa.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating>
+  </programme><programme channel="CTV-Life-CA" start="20260524100000 +0500" stop="20260524120000 +0500">
+    <title>Aurora Teagarden Mysteries</title>
+    <sub-title>Last Scene Alive</sub-title>
+    <desc>While filming a movie adaptation of a novel about Aurora, the lead actress is found murdered in her trailer.</desc>
+    <episode-num system="onscreen">S1 E7</episode-num>
+    <credits>
+      <director>Martin Wood</director>
+      <actor>Candace Cameron Bure</actor>
+      <actor>Marilu Henner</actor>
+      <actor>Peter Benson</actor>
+    </credits><date>2018</date>
+    <category lang="en">Series</category>
+    <category lang="en">Mystery</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p15490141_b_h8_aj.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>7</value>
+    </rating><rating system="Medierådet">
+      <value>11</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>AL</value>
+    </rating>
+  </programme><programme channel="CTV-Life-CA" start="20260524120000 +0500" stop="20260524140000 +0500">
+    <title>Aurora Teagarden Mysteries: Reap What You Sew</title>
+    <sub-title />
+    <desc>Poppy Wilson, an old family friend of Aurora's, returns to Lawrenceton to start her new embroidery business. When Poppy turns up dead, Aurora must follow the unsettling truths that lead her into the path of the killer.</desc>
+    <credits>
+      <director>Terry Ingram</director>
+      <actor>Candace Cameron Bure</actor>
+      <actor>Marilu Henner</actor>
+      <actor>Peter Benson</actor>
+    </credits><date>2018</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Mystery</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p15238174_v_h10_ag.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>12</value>
+    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B</value>
+    </rating>
+  </programme><programme channel="CTV-Life-CA" start="20260524140000 +0500" stop="20260524143000 +0500">
     <title>Mary Makes It Easy</title>
-    <sub-title>Budget Bites</sub-title>
-    <desc>Mary makes balsamic mushrooms with polenta, pork tenderloin with fennel, a potato-filled Spanish tortilla and ginger scallion noodles.</desc>
-    <episode-num system="onscreen">S1 E17</episode-num>
+    <sub-title>Pasta la Vista</sub-title>
+    <desc>Mary says "Grazie!" with four deliziosa pasta recipes that keep it simple but amp up the flavor.</desc>
+    <episode-num system="onscreen">S1 E18</episode-num>
     <credits>
       <actor>Mary Berg</actor>
     </credits><date>2022</date>
@@ -755,85 +993,63 @@
     </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
       <value>S</value>
     </rating>
-  </programme><programme channel="CTV-Life-CA" start="20260517150000 +0500" stop="20260517170000 +0500">
-    <title>Movie</title>
-    <sub-title />
-    <desc>Movie to be announced.</desc>
-    <category lang="en">Entertainment</category>
+  </programme><programme channel="CTV-Life-CA" start="20260524143000 +0500" stop="20260524150000 +0500">
+    <title>Mary Makes It Easy</title>
+    <sub-title>Pie in the Sky</sub-title>
+    <desc>Pie making can be daunting, but Mary provides a pastry crash course with three different types of dough to make all of any pie in the sky dreams come true.</desc>
+    <episode-num system="onscreen">S1 E19</episode-num>
+    <credits>
+      <actor>Mary Berg</actor>
+    </credits><date>2022</date>
+    <category lang="en">Series</category>
+    <category lang="en">Cooking</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p23415294_i_h8_ab.jpg?w=960&amp;h=540" />
-    <rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>B</value>
-    </rating><rating system="Ley de Responsabilidad Social en Radio y Televisión">
-      <value>A</value>
-    </rating><rating system="Instituto Nacional de Cine y Artes Audiovisuales">
-      <value>ATP</value>
-    </rating><rating system="Consejo Nacional de Televisión">
-      <value>F</value>
-    </rating><rating system="Kijkwijzer">
-      <value>16</value>
+    <icon src="http://dtil.tmsimg.com/assets/p20486918_b_h8_ah.jpg?w=960&amp;h=540" />
+    <rating system="Canadian Parental Rating">
+      <value>PG</value>
     </rating><rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>6</value>
+    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>S</value>
+    </rating>
+  </programme><programme channel="CTV-Life-CA" start="20260524150000 +0500" stop="20260524170000 +0500">
+    <title>Aurora Teagarden Mysteries: Reap What You Sew</title>
+    <sub-title />
+    <desc>Poppy Wilson, an old family friend of Aurora's, returns to Lawrenceton to start her new embroidery business. When Poppy turns up dead, Aurora must follow the unsettling truths that lead her into the path of the killer.</desc>
+    <credits>
+      <director>Terry Ingram</director>
+      <actor>Candace Cameron Bure</actor>
+      <actor>Marilu Henner</actor>
+      <actor>Peter Benson</actor>
+    </credits><date>2018</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Mystery</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p15238174_v_h10_ag.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
       <value>TVG</value>
     </rating><rating system="Régie du cinéma">
       <value>G</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>G</value>
-    </rating>
-  </programme><programme channel="CTV-Life-CA" start="20260517170000 +0500" stop="20260517180000 +0500">
-    <title>Blue Bloods</title>
-    <sub-title>My Funny Valentine</sub-title>
-    <desc>When a girl is kidnapped, Jackie and Danny suspect her drug-addicted boyfriend is responsible; Erin's relationship with her boss takes a step forward.</desc>
-    <episode-num system="onscreen">S1 E14</episode-num>
-    <credits>
-      <director>John Polson</director>
-      <actor>Tom Selleck</actor>
-      <actor>Donnie Wahlberg</actor>
-      <actor>Bridget Moynahan</actor>
-    </credits><date>2011</date>
-    <category lang="en">Series</category>
-    <category lang="en">Crime drama</category>
-    <category lang="en">Action</category>
-    <category lang="en">Entertainment</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p8130493_b_h8_af.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating><rating system="Film &amp; Publication Board">
-      <value>16</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating><rating system="UK Content Provider">
-      <value>PG</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
       <value>12</value>
     </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
       <value>B</value>
-    </rating><rating system="Arcom">
-      <value>-10</value>
-    </rating><rating system="Kijkwijzer">
-      <value>16</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>14</value>
-    </rating><rating system="Medietilsynet">
-      <value>15 år</value>
-    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
-      <value>12</value>
     </rating>
-  </programme><programme channel="CTV-Life-CA" start="20260517180000 +0500" stop="20260517190000 +0500">
+  </programme><programme channel="CTV-Life-CA" start="20260524170000 +0500" stop="20260524180000 +0500">
     <title>Blue Bloods</title>
-    <sub-title>Dedication</sub-title>
-    <desc>Frank is lucky to survive a stranger's assassination attempt, an act that prompts a citywide manhunt.</desc>
-    <episode-num system="onscreen">S1 E15</episode-num>
+    <sub-title>Whistle Blower</sub-title>
+    <desc>When Erin's informant is murdered, she can't help but blame herself for the death and work to help Danny discover who killed him; Frank deals with public backlash against an officer.</desc>
+    <episode-num system="onscreen">S2 E10</episode-num>
     <credits>
-      <director>Jan Biasberg</director>
+      <director>Robert Harmon</director>
       <actor>Tom Selleck</actor>
       <actor>Donnie Wahlberg</actor>
       <actor>Bridget Moynahan</actor>
-    </credits><date>2011</date>
+    </credits><date>2012</date>
     <category lang="en">Series</category>
     <category lang="en">Crime drama</category>
     <category lang="en">Action</category>
@@ -842,12 +1058,16 @@
     <icon src="http://dtil.tmsimg.com/assets/p8130493_b_h8_af.jpg?w=960&amp;h=540" />
     <rating system="USA Parental Rating">
       <value>TV14</value>
+    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>16</value>
     </rating><rating system="Australian Classification Board">
       <value>M 15+</value>
     </rating><rating system="Film &amp; Publication Board">
       <value>16</value>
     </rating><rating system="Canadian Parental Rating">
       <value>14+</value>
+    </rating><rating system="Arcom">
+      <value>-10</value>
     </rating><rating system="Régie du cinéma">
       <value>13+</value>
     </rating><rating system="UK Content Provider">
@@ -856,10 +1076,8 @@
       <value>12</value>
     </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
       <value>B</value>
-    </rating><rating system="Arcom">
-      <value>-10</value>
     </rating><rating system="Kijkwijzer">
-      <value>16</value>
+      <value>12</value>
     </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
       <value>14</value>
     </rating><rating system="Medietilsynet">
@@ -867,105 +1085,17 @@
     </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
       <value>12</value>
     </rating>
-  </programme><programme channel="CTV-Life-CA" start="20260517190000 +0500" stop="20260517200000 +0500">
+  </programme><programme channel="CTV-Life-CA" start="20260524180000 +0500" stop="20260524190000 +0500">
     <title>Blue Bloods</title>
-    <sub-title>Age of Innocence</sub-title>
-    <desc>A young girl is murdered at a debutante ball; Danny gets into an fight with his sister for bringing Nikki to a crime scene.</desc>
-    <episode-num system="onscreen">S1 E16</episode-num>
-    <credits>
-      <director>Felix Alcala</director>
-      <actor>Tom Selleck</actor>
-      <actor>Donnie Wahlberg</actor>
-      <actor>Bridget Moynahan</actor>
-    </credits><date>2011</date>
-    <category lang="en">Series</category>
-    <category lang="en">Crime drama</category>
-    <category lang="en">Action</category>
-    <category lang="en">Entertainment</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p8130493_b_h8_af.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating><rating system="Film &amp; Publication Board">
-      <value>16</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating><rating system="UK Content Provider">
-      <value>PG</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>B</value>
-    </rating><rating system="Arcom">
-      <value>-10</value>
-    </rating><rating system="Kijkwijzer">
-      <value>16</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>14</value>
-    </rating><rating system="Medietilsynet">
-      <value>15 år</value>
-    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
-      <value>12</value>
-    </rating>
-  </programme><programme channel="CTV-Life-CA" start="20260517200000 +0500" stop="20260517210000 +0500">
-    <title>Blue Bloods</title>
-    <sub-title>Silver Star</sub-title>
-    <desc>Danny vows to find the killer of a war hero who was homeless; false information about Frank leaks to the press.</desc>
-    <episode-num system="onscreen">S1 E17</episode-num>
-    <credits>
-      <director>Ralph Hemecker</director>
-      <actor>Tom Selleck</actor>
-      <actor>Donnie Wahlberg</actor>
-      <actor>Bridget Moynahan</actor>
-    </credits><date>2011</date>
-    <category lang="en">Series</category>
-    <category lang="en">Crime drama</category>
-    <category lang="en">Action</category>
-    <category lang="en">Entertainment</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p8130493_b_h8_af.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating><rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating><rating system="Film &amp; Publication Board">
-      <value>16</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating><rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating><rating system="UK Content Provider">
-      <value>PG</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>B</value>
-    </rating><rating system="Arcom">
-      <value>-10</value>
-    </rating><rating system="Kijkwijzer">
-      <value>16</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>14</value>
-    </rating><rating system="Medietilsynet">
-      <value>15 år</value>
-    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
-      <value>12</value>
-    </rating>
-  </programme><programme channel="CTV-Life-CA" start="20260517210000 +0500" stop="20260517220000 +0500">
-    <title>Blue Bloods</title>
-    <sub-title>To Tell the Truth</sub-title>
-    <desc>After Danny witnesses a murder, a member of his family is put in jeopardy in an attempt to stop him from testifying.</desc>
-    <episode-num system="onscreen">S1 E18</episode-num>
+    <sub-title>The Uniform</sub-title>
+    <desc>Jackie and Danny investigate a murder at a diner, where a witness claims a uniformed officer fled after shots were fired.</desc>
+    <episode-num system="onscreen">S2 E11</episode-num>
     <credits>
       <director>Alex Zakrzewski</director>
       <actor>Tom Selleck</actor>
       <actor>Donnie Wahlberg</actor>
       <actor>Bridget Moynahan</actor>
-    </credits><date>2011</date>
+    </credits><date>2012</date>
     <category lang="en">Series</category>
     <category lang="en">Crime drama</category>
     <category lang="en">Action</category>
@@ -974,14 +1104,14 @@
     <icon src="http://dtil.tmsimg.com/assets/p8130493_b_h8_af.jpg?w=960&amp;h=540" />
     <rating system="USA Parental Rating">
       <value>TV14</value>
-    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
-      <value>16</value>
     </rating><rating system="Australian Classification Board">
       <value>M 15+</value>
     </rating><rating system="Film &amp; Publication Board">
       <value>16</value>
     </rating><rating system="Canadian Parental Rating">
       <value>14+</value>
+    </rating><rating system="Arcom">
+      <value>-10</value>
     </rating><rating system="Régie du cinéma">
       <value>13+</value>
     </rating><rating system="UK Content Provider">
@@ -990,10 +1120,8 @@
       <value>12</value>
     </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
       <value>B</value>
-    </rating><rating system="Arcom">
-      <value>-10</value>
     </rating><rating system="Kijkwijzer">
-      <value>16</value>
+      <value>12</value>
     </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
       <value>14</value>
     </rating><rating system="Medietilsynet">
@@ -1001,17 +1129,17 @@
     </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
       <value>12</value>
     </rating>
-  </programme><programme channel="CTV-Life-CA" start="20260517220000 +0500" stop="20260517230000 +0500">
+  </programme><programme channel="CTV-Life-CA" start="20260524190000 +0500" stop="20260524200000 +0500">
     <title>Blue Bloods</title>
-    <sub-title>Model Behavior</sub-title>
-    <desc>Jackie and Danny investigate when a reporter and Linda's niece, a runway model, both collapse at a fashion show.</desc>
-    <episode-num system="onscreen">S1 E19</episode-num>
+    <sub-title>The Job</sub-title>
+    <desc>Danny and his family have an encounter with a gunman; Frank prepares to say goodbye to a friend he worked with at ground zero.</desc>
+    <episode-num system="onscreen">S2 E12</episode-num>
     <credits>
-      <director>Matt Penn</director>
+      <director>Nick Gomez</director>
       <actor>Tom Selleck</actor>
       <actor>Donnie Wahlberg</actor>
       <actor>Bridget Moynahan</actor>
-    </credits><date>2011</date>
+    </credits><date>2012</date>
     <category lang="en">Series</category>
     <category lang="en">Crime drama</category>
     <category lang="en">Action</category>
@@ -1020,14 +1148,14 @@
     <icon src="http://dtil.tmsimg.com/assets/p8130493_b_h8_af.jpg?w=960&amp;h=540" />
     <rating system="USA Parental Rating">
       <value>TV14</value>
-    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
-      <value>16</value>
     </rating><rating system="Australian Classification Board">
       <value>M 15+</value>
     </rating><rating system="Film &amp; Publication Board">
       <value>16</value>
     </rating><rating system="Canadian Parental Rating">
       <value>14+</value>
+    </rating><rating system="Arcom">
+      <value>-10</value>
     </rating><rating system="Régie du cinéma">
       <value>13+</value>
     </rating><rating system="UK Content Provider">
@@ -1036,10 +1164,8 @@
       <value>12</value>
     </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
       <value>B</value>
-    </rating><rating system="Arcom">
-      <value>-10</value>
     </rating><rating system="Kijkwijzer">
-      <value>16</value>
+      <value>12</value>
     </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
       <value>14</value>
     </rating><rating system="Medietilsynet">
@@ -1047,63 +1173,17 @@
     </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
       <value>12</value>
     </rating>
-  </programme><programme channel="CTV-Life-CA" start="20260517230000 +0500" stop="20260518000000 +0500">
+  </programme><programme channel="CTV-Life-CA" start="20260524200000 +0500" stop="20260524210000 +0500">
     <title>Blue Bloods</title>
-    <sub-title>All That Glitters</sub-title>
-    <desc>Frank's distress rises after the press makes a big fuzz out of the killing of a tourist right in front of a trendy Lower East Side restaurant.</desc>
-    <episode-num system="onscreen">S1 E20</episode-num>
+    <sub-title>Leap of Faith</sub-title>
+    <desc>After a wealthy woman dies of a heart attack, the daughter claims God told her that murder was the true cause of her parent's demise; Frank investigates a rumor about a priest.</desc>
+    <episode-num system="onscreen">S2 E13</episode-num>
     <credits>
-      <director>Michael Pressman</director>
+      <director>Dave Barrett</director>
       <actor>Tom Selleck</actor>
       <actor>Donnie Wahlberg</actor>
       <actor>Bridget Moynahan</actor>
-    </credits><date>2011</date>
-    <category lang="en">Series</category>
-    <category lang="en">Crime drama</category>
-    <category lang="en">Action</category>
-    <category lang="en">Entertainment</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p8130493_b_h8_af.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
-      <value>16</value>
-    </rating><rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating><rating system="Film &amp; Publication Board">
-      <value>16</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating><rating system="UK Content Provider">
-      <value>PG</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>B</value>
-    </rating><rating system="Arcom">
-      <value>-10</value>
-    </rating><rating system="Kijkwijzer">
-      <value>16</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>14</value>
-    </rating><rating system="Medietilsynet">
-      <value>15 år</value>
-    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
-      <value>12</value>
-    </rating>
-  </programme><programme channel="CTV-Life-CA" start="20260518000000 +0500" stop="20260518010000 +0500">
-    <title>Blue Bloods</title>
-    <sub-title>Cellar Boy</sub-title>
-    <desc>An alcohol and drug addict comes under suspicion when his family is murdered; when Jamie's gun disappears, he believes that he is being set up.</desc>
-    <episode-num system="onscreen">S1 E21</episode-num>
-    <credits>
-      <director>Karen Gaviola</director>
-      <actor>Tom Selleck</actor>
-      <actor>Donnie Wahlberg</actor>
-      <actor>Bridget Moynahan</actor>
-    </credits><date>2011</date>
+    </credits><date>2012</date>
     <category lang="en">Series</category>
     <category lang="en">Crime drama</category>
     <category lang="en">Action</category>
@@ -1112,14 +1192,14 @@
     <icon src="http://dtil.tmsimg.com/assets/p8130493_b_h8_af.jpg?w=960&amp;h=540" />
     <rating system="USA Parental Rating">
       <value>TV14</value>
-    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
-      <value>16</value>
     </rating><rating system="Australian Classification Board">
       <value>M 15+</value>
     </rating><rating system="Film &amp; Publication Board">
       <value>16</value>
     </rating><rating system="Canadian Parental Rating">
       <value>14+</value>
+    </rating><rating system="Arcom">
+      <value>-10</value>
     </rating><rating system="Régie du cinéma">
       <value>13+</value>
     </rating><rating system="UK Content Provider">
@@ -1128,10 +1208,8 @@
       <value>12</value>
     </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
       <value>B</value>
-    </rating><rating system="Arcom">
-      <value>-10</value>
     </rating><rating system="Kijkwijzer">
-      <value>16</value>
+      <value>12</value>
     </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
       <value>14</value>
     </rating><rating system="Medietilsynet">
@@ -1139,61 +1217,17 @@
     </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
       <value>12</value>
     </rating>
-  </programme><programme channel="CTV-Life-CA" start="20260518010000 +0500" stop="20260518020000 +0500">
+  </programme><programme channel="CTV-Life-CA" start="20260524210000 +0500" stop="20260524220000 +0500">
     <title>Blue Bloods</title>
-    <sub-title>My Funny Valentine</sub-title>
-    <desc>When a girl is kidnapped, Jackie and Danny suspect her drug-addicted boyfriend is responsible; Erin's relationship with her boss takes a step forward.</desc>
-    <episode-num system="onscreen">S1 E14</episode-num>
+    <sub-title>Parenthood</sub-title>
+    <desc>When a man's family is beaten and robbed in front of him, the Reagans debate how far they would go to protect the ones they love; Frank feels conflicted when a college student is arrested at a rally.</desc>
+    <episode-num system="onscreen">S2 E14</episode-num>
     <credits>
       <director>John Polson</director>
       <actor>Tom Selleck</actor>
       <actor>Donnie Wahlberg</actor>
       <actor>Bridget Moynahan</actor>
-    </credits><date>2011</date>
-    <category lang="en">Series</category>
-    <category lang="en">Crime drama</category>
-    <category lang="en">Action</category>
-    <category lang="en">Entertainment</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p8130493_b_h8_af.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating><rating system="Film &amp; Publication Board">
-      <value>16</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating><rating system="UK Content Provider">
-      <value>PG</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>B</value>
-    </rating><rating system="Arcom">
-      <value>-10</value>
-    </rating><rating system="Kijkwijzer">
-      <value>16</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>14</value>
-    </rating><rating system="Medietilsynet">
-      <value>15 år</value>
-    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
-      <value>12</value>
-    </rating>
-  </programme><programme channel="CTV-Life-CA" start="20260518020000 +0500" stop="20260518030000 +0500">
-    <title>Blue Bloods</title>
-    <sub-title>Dedication</sub-title>
-    <desc>Frank is lucky to survive a stranger's assassination attempt, an act that prompts a citywide manhunt.</desc>
-    <episode-num system="onscreen">S1 E15</episode-num>
-    <credits>
-      <director>Jan Biasberg</director>
-      <actor>Tom Selleck</actor>
-      <actor>Donnie Wahlberg</actor>
-      <actor>Bridget Moynahan</actor>
-    </credits><date>2011</date>
+    </credits><date>2012</date>
     <category lang="en">Series</category>
     <category lang="en">Crime drama</category>
     <category lang="en">Action</category>
@@ -1202,24 +1236,24 @@
     <icon src="http://dtil.tmsimg.com/assets/p8130493_b_h8_af.jpg?w=960&amp;h=540" />
     <rating system="USA Parental Rating">
       <value>TV14</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
     </rating><rating system="Australian Classification Board">
       <value>M 15+</value>
     </rating><rating system="Film &amp; Publication Board">
       <value>16</value>
     </rating><rating system="Canadian Parental Rating">
       <value>14+</value>
+    </rating><rating system="Arcom">
+      <value>-10</value>
     </rating><rating system="Régie du cinéma">
       <value>13+</value>
     </rating><rating system="UK Content Provider">
       <value>PG</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
     </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
       <value>B</value>
-    </rating><rating system="Arcom">
-      <value>-10</value>
     </rating><rating system="Kijkwijzer">
-      <value>16</value>
+      <value>12</value>
     </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
       <value>14</value>
     </rating><rating system="Medietilsynet">
@@ -1227,61 +1261,17 @@
     </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
       <value>12</value>
     </rating>
-  </programme><programme channel="CTV-Life-CA" start="20260518030000 +0500" stop="20260518040000 +0500">
+  </programme><programme channel="CTV-Life-CA" start="20260524220000 +0500" stop="20260524230000 +0500">
     <title>Blue Bloods</title>
-    <sub-title>Age of Innocence</sub-title>
-    <desc>A young girl is murdered at a debutante ball; Danny gets into an fight with his sister for bringing Nikki to a crime scene.</desc>
-    <episode-num system="onscreen">S1 E16</episode-num>
+    <sub-title>The Life We Chose</sub-title>
+    <desc>When a family friend, an undercover detective, is murdered, Danny embarks on a relentless search for the killer.</desc>
+    <episode-num system="onscreen">S2 E15</episode-num>
     <credits>
       <director>Felix Alcala</director>
       <actor>Tom Selleck</actor>
       <actor>Donnie Wahlberg</actor>
       <actor>Bridget Moynahan</actor>
-    </credits><date>2011</date>
-    <category lang="en">Series</category>
-    <category lang="en">Crime drama</category>
-    <category lang="en">Action</category>
-    <category lang="en">Entertainment</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p8130493_b_h8_af.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating><rating system="Film &amp; Publication Board">
-      <value>16</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating><rating system="UK Content Provider">
-      <value>PG</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>B</value>
-    </rating><rating system="Arcom">
-      <value>-10</value>
-    </rating><rating system="Kijkwijzer">
-      <value>16</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>14</value>
-    </rating><rating system="Medietilsynet">
-      <value>15 år</value>
-    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
-      <value>12</value>
-    </rating>
-  </programme><programme channel="CTV-Life-CA" start="20260518040000 +0500" stop="20260518050000 +0500">
-    <title>Blue Bloods</title>
-    <sub-title>Silver Star</sub-title>
-    <desc>Danny vows to find the killer of a war hero who was homeless; false information about Frank leaks to the press.</desc>
-    <episode-num system="onscreen">S1 E17</episode-num>
-    <credits>
-      <director>Ralph Hemecker</director>
-      <actor>Tom Selleck</actor>
-      <actor>Donnie Wahlberg</actor>
-      <actor>Bridget Moynahan</actor>
-    </credits><date>2011</date>
+    </credits><date>2012</date>
     <category lang="en">Series</category>
     <category lang="en">Crime drama</category>
     <category lang="en">Action</category>
@@ -1296,6 +1286,8 @@
       <value>16</value>
     </rating><rating system="Canadian Parental Rating">
       <value>14+</value>
+    </rating><rating system="Arcom">
+      <value>-10</value>
     </rating><rating system="Régie du cinéma">
       <value>13+</value>
     </rating><rating system="UK Content Provider">
@@ -1304,10 +1296,8 @@
       <value>12</value>
     </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
       <value>B</value>
-    </rating><rating system="Arcom">
-      <value>-10</value>
     </rating><rating system="Kijkwijzer">
-      <value>16</value>
+      <value>12</value>
     </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
       <value>14</value>
     </rating><rating system="Medietilsynet">
@@ -1315,17 +1305,17 @@
     </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
       <value>12</value>
     </rating>
-  </programme><programme channel="CTV-Life-CA" start="20260518050000 +0500" stop="20260518060000 +0500">
+  </programme><programme channel="CTV-Life-CA" start="20260524230000 +0500" stop="20260525000000 +0500">
     <title>Blue Bloods</title>
-    <sub-title>To Tell the Truth</sub-title>
-    <desc>After Danny witnesses a murder, a member of his family is put in jeopardy in an attempt to stop him from testifying.</desc>
-    <episode-num system="onscreen">S1 E18</episode-num>
+    <sub-title>Women With Guns</sub-title>
+    <desc>When a reporter friend of Frank's is almost attacked while investigating a story, Danny and Jackie try to find the would-be attacker; Jamie makes headway in his undercover case.</desc>
+    <episode-num system="onscreen">S2 E16</episode-num>
     <credits>
-      <director>Alex Zakrzewski</director>
+      <director>Martha Mitchell</director>
       <actor>Tom Selleck</actor>
       <actor>Donnie Wahlberg</actor>
       <actor>Bridget Moynahan</actor>
-    </credits><date>2011</date>
+    </credits><date>2012</date>
     <category lang="en">Series</category>
     <category lang="en">Crime drama</category>
     <category lang="en">Action</category>
@@ -1334,14 +1324,14 @@
     <icon src="http://dtil.tmsimg.com/assets/p8130493_b_h8_af.jpg?w=960&amp;h=540" />
     <rating system="USA Parental Rating">
       <value>TV14</value>
-    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
-      <value>16</value>
     </rating><rating system="Australian Classification Board">
       <value>M 15+</value>
     </rating><rating system="Film &amp; Publication Board">
       <value>16</value>
     </rating><rating system="Canadian Parental Rating">
       <value>14+</value>
+    </rating><rating system="Arcom">
+      <value>-10</value>
     </rating><rating system="Régie du cinéma">
       <value>13+</value>
     </rating><rating system="UK Content Provider">
@@ -1350,148 +1340,8 @@
       <value>12</value>
     </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
       <value>B</value>
-    </rating><rating system="Arcom">
-      <value>-10</value>
     </rating><rating system="Kijkwijzer">
-      <value>16</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>14</value>
-    </rating><rating system="Medietilsynet">
-      <value>15 år</value>
-    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
       <value>12</value>
-    </rating>
-  </programme><programme channel="CTV-Life-CA" start="20260518060000 +0500" stop="20260518070000 +0500">
-    <title>Blue Bloods</title>
-    <sub-title>Model Behavior</sub-title>
-    <desc>Jackie and Danny investigate when a reporter and Linda's niece, a runway model, both collapse at a fashion show.</desc>
-    <episode-num system="onscreen">S1 E19</episode-num>
-    <credits>
-      <director>Matt Penn</director>
-      <actor>Tom Selleck</actor>
-      <actor>Donnie Wahlberg</actor>
-      <actor>Bridget Moynahan</actor>
-    </credits><date>2011</date>
-    <category lang="en">Series</category>
-    <category lang="en">Crime drama</category>
-    <category lang="en">Action</category>
-    <category lang="en">Entertainment</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p8130493_b_h8_af.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
-      <value>16</value>
-    </rating><rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating><rating system="Film &amp; Publication Board">
-      <value>16</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating><rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating><rating system="UK Content Provider">
-      <value>PG</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>B</value>
-    </rating><rating system="Arcom">
-      <value>-10</value>
-    </rating><rating system="Kijkwijzer">
-      <value>16</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>14</value>
-    </rating><rating system="Medietilsynet">
-      <value>15 år</value>
-    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
-      <value>12</value>
-    </rating>
-  </programme><programme channel="CTV-Life-CA" start="20260518070000 +0500" stop="20260518080000 +0500">
-    <title>Blue Bloods</title>
-    <sub-title>All That Glitters</sub-title>
-    <desc>Frank's distress rises after the press makes a big fuzz out of the killing of a tourist right in front of a trendy Lower East Side restaurant.</desc>
-    <episode-num system="onscreen">S1 E20</episode-num>
-    <credits>
-      <director>Michael Pressman</director>
-      <actor>Tom Selleck</actor>
-      <actor>Donnie Wahlberg</actor>
-      <actor>Bridget Moynahan</actor>
-    </credits><date>2011</date>
-    <category lang="en">Series</category>
-    <category lang="en">Crime drama</category>
-    <category lang="en">Action</category>
-    <category lang="en">Entertainment</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p8130493_b_h8_af.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
-      <value>16</value>
-    </rating><rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating><rating system="Film &amp; Publication Board">
-      <value>16</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating><rating system="UK Content Provider">
-      <value>PG</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>B</value>
-    </rating><rating system="Arcom">
-      <value>-10</value>
-    </rating><rating system="Kijkwijzer">
-      <value>16</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>14</value>
-    </rating><rating system="Medietilsynet">
-      <value>15 år</value>
-    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
-      <value>12</value>
-    </rating>
-  </programme><programme channel="CTV-Life-CA" start="20260518080000 +0500" stop="20260518090000 +0500">
-    <title>Blue Bloods</title>
-    <sub-title>Cellar Boy</sub-title>
-    <desc>An alcohol and drug addict comes under suspicion when his family is murdered; when Jamie's gun disappears, he believes that he is being set up.</desc>
-    <episode-num system="onscreen">S1 E21</episode-num>
-    <credits>
-      <director>Karen Gaviola</director>
-      <actor>Tom Selleck</actor>
-      <actor>Donnie Wahlberg</actor>
-      <actor>Bridget Moynahan</actor>
-    </credits><date>2011</date>
-    <category lang="en">Series</category>
-    <category lang="en">Crime drama</category>
-    <category lang="en">Action</category>
-    <category lang="en">Entertainment</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p8130493_b_h8_af.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
-      <value>16</value>
-    </rating><rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating><rating system="Film &amp; Publication Board">
-      <value>16</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating><rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating><rating system="UK Content Provider">
-      <value>PG</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>B</value>
-    </rating><rating system="Arcom">
-      <value>-10</value>
-    </rating><rating system="Kijkwijzer">
-      <value>16</value>
     </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
       <value>14</value>
     </rating><rating system="Medietilsynet">

@@ -1,81 +1,65 @@
 <?xml version='1.0' encoding='utf-8'?>
 <tv>
   <channel id="Yahoo-Finance-US">
-    <icon src="https://thefilmtuition.com/tvlogo/Yahoo-Finance-US.png" />
-    <url>https://thefilmtuition.com/tv/</url>
-    <display-name>Yahoo Finance</display-name>
-  </channel><programme channel="Yahoo-Finance-US" start="20260516220000 +0500" stop="20260516223000 +0500">
-    <title>The Big Idea</title>
+    <icon src="https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/Yahoo-Finance-US.png" />
+    <url>https://tv.thefilmtuition.com</url>
+    <display-name>Yahoo! Finance</display-name>
+  </channel><programme channel="Yahoo-Finance-US" start="20260523223000 +0500" stop="20260523230000 +0500">
+    <title>Power Players with Brian Sozzi</title>
+    <desc>Power Players with Brian Sozzi goes beyond titles, revealing the human side of industry titans.</desc>
+    <language>en</language>
+  </programme><programme channel="Yahoo-Finance-US" start="20260523230000 +0500" stop="20260524000000 +0500">
+    <title>Power Players with Brian Sozzi</title>
+    <desc>Power Players with Brian Sozzi goes beyond titles, revealing the human side of industry titans.</desc>
+    <language>en</language>
+  </programme><programme channel="Yahoo-Finance-US" start="20260524000000 +0500" stop="20260524010000 +0500">
+    <title>Mag 7 Earnings Recap</title>
     <sub-title />
-    <desc>Big ideas for small businesses. Elizabeth Gore shares tools, trends &amp; tactics to grow in any economy.</desc>
+    <desc>Earnings highlights from all seven members for the Magnificent 7</desc>
     <date>20260102</date>
     <category>Movie</category>
     <language>en</language>
     <icon src="https://provider-static.plex.tv/epg/images/thumbnails/yahoo-finance.jpg" />
-  </programme><programme channel="Yahoo-Finance-US" start="20260516223000 +0500" stop="20260516230000 +0500">
-    <title>The Big Idea</title>
+  </programme><programme channel="Yahoo-Finance-US" start="20260524010000 +0500" stop="20260524020000 +0500">
+    <title>Nvidia Earnings Recap</title>
     <sub-title />
-    <desc>Big ideas for small businesses. Elizabeth Gore shares tools, trends &amp; tactics to grow in any economy.</desc>
+    <desc>Nvidia delivers Q1 earnings results</desc>
     <date>20260102</date>
     <category>Movie</category>
     <language>en</language>
     <icon src="https://provider-static.plex.tv/epg/images/thumbnails/yahoo-finance.jpg" />
-  </programme><programme channel="Yahoo-Finance-US" start="20260516230000 +0500" stop="20260517000000 +0500">
-    <title>The Big Idea</title>
-    <sub-title />
-    <desc>Big ideas for small businesses. Elizabeth Gore shares tools, trends &amp; tactics to grow in any economy.</desc>
-    <date>20250102</date>
-    <category>Movie</category>
-    <language>en</language>
-    <icon src="https://provider-static.plex.tv/epg/images/thumbnails/yahoo-finance.jpg" />
-  </programme><programme channel="Yahoo-Finance-US" start="20260517000000 +0500" stop="20260517010000 +0500">
-    <title>Best of Milken Conference 2026</title>
-    <sub-title />
-    <desc>Highlights from the 2026 Milken Institute Global Conference in Beverly Hills, CA</desc>
-    <date>20260102</date>
-    <category>Movie</category>
-    <language>en</language>
-    <icon src="https://provider-static.plex.tv/epg/images/thumbnails/yahoo-finance.jpg" />
-  </programme><programme channel="Yahoo-Finance-US" start="20260517010000 +0500" stop="20260517013000 +0500">
-    <title>YF Earnings Recap</title>
-    <sub-title />
-    <desc>Four members of the Mag 7 reported earnings. Here's a recap of the top moments.</desc>
-    <date>20260102</date>
-    <category>Movie</category>
-    <language>en</language>
-    <icon src="https://provider-static.plex.tv/epg/images/thumbnails/yahoo-finance.jpg" />
-  </programme><programme channel="Yahoo-Finance-US" start="20260517013000 +0500" stop="20260517020000 +0500">
-    <title>Fed Decision Recap</title>
-    <sub-title />
-    <desc>The Federal Reserve left interest rates unchanged in it's April meeting</desc>
-    <date>20260102</date>
-    <category>Movie</category>
-    <language>en</language>
-    <icon src="https://provider-static.plex.tv/epg/images/thumbnails/yahoo-finance.jpg" />
-  </programme><programme channel="Yahoo-Finance-US" start="20260517020000 +0500" stop="20260517030000 +0500">
+  </programme><programme channel="Yahoo-Finance-US" start="20260524020000 +0500" stop="20260524030000 +0500">
     <title>Market Movers</title>
     <sub-title />
     <desc>Yahoo Finance highlights key moments in the previous trading session.</desc>
     <category>Movie</category>
     <language>en</language>
     <icon src="https://provider-static.plex.tv/epg/images/thumbnails/yahoo-finance.jpg" />
-  </programme><programme channel="Yahoo-Finance-US" start="20260517030000 +0500" stop="20260517040000 +0500">
-    <title>Best of Semafor 2026</title>
+  </programme><programme channel="Yahoo-Finance-US" start="20260524030000 +0500" stop="20260524040000 +0500">
+    <title>Power Players with Brian Sozzi</title>
     <sub-title />
-    <desc>A look at the bigger takeaways from Semafor in Washington, DC</desc>
+    <desc>Power Players with Brian Sozzi goes beyond titles, revealing the human side of industry titans.</desc>
     <date>20260102</date>
     <category>Movie</category>
     <language>en</language>
     <icon src="https://provider-static.plex.tv/epg/images/thumbnails/yahoo-finance.jpg" />
-  </programme><programme channel="Yahoo-Finance-US" start="20260517040000 +0500" stop="20260517050000 +0500">
-    <title>Best of Milken Conference 2026</title>
+  </programme><programme channel="Yahoo-Finance-US" start="20260524040000 +0500" stop="20260524050000 +0500">
+    <title>Mag 7 Earnings Recap</title>
     <sub-title />
-    <desc>Highlights from the 2026 Milken Institute Global Conference in Beverly Hills, CA</desc>
+    <desc>Earnings highlights from all seven members for the Magnificent 7</desc>
     <date>20260102</date>
     <category>Movie</category>
     <language>en</language>
     <icon src="https://provider-static.plex.tv/epg/images/thumbnails/yahoo-finance.jpg" />
-  </programme><programme channel="Yahoo-Finance-US" start="20260517050000 +0500" stop="20260517053000 +0500">
+  </programme><programme channel="Yahoo-Finance-US" start="20260524050000 +0500" stop="20260524060000 +0500">
+    <title>Nvidia Earnings Recap</title>
+    <sub-title />
+    <desc>Nvidia delivers Q1 earnings results</desc>
+    <date>20260102</date>
+    <category>Movie</category>
+    <language>en</language>
+    <icon src="https://provider-static.plex.tv/epg/images/thumbnails/yahoo-finance.jpg" />
+  </programme><programme channel="Yahoo-Finance-US" start="20260524060000 +0500" stop="20260524063000 +0500">
     <title>Trader Talk</title>
     <sub-title />
     <desc>Wall Street wisdom without the BS. Kenny Polcari keeps it real for everyday investors.</desc>
@@ -83,7 +67,7 @@
     <category>Movie</category>
     <language>en</language>
     <icon src="https://provider-static.plex.tv/epg/images/thumbnails/yahoo-finance.jpg" />
-  </programme><programme channel="Yahoo-Finance-US" start="20260517053000 +0500" stop="20260517060000 +0500">
+  </programme><programme channel="Yahoo-Finance-US" start="20260524063000 +0500" stop="20260524070000 +0500">
     <title>Trader Talk</title>
     <sub-title />
     <desc>Wall Street wisdom without the BS. Kenny Polcari keeps it real for everyday investors.</desc>
@@ -91,7 +75,7 @@
     <category>Movie</category>
     <language>en</language>
     <icon src="https://provider-static.plex.tv/epg/images/thumbnails/yahoo-finance.jpg" />
-  </programme><programme channel="Yahoo-Finance-US" start="20260517060000 +0500" stop="20260517063000 +0500">
+  </programme><programme channel="Yahoo-Finance-US" start="20260524070000 +0500" stop="20260524073000 +0500">
     <title>Real Money with Ross Mac</title>
     <sub-title />
     <desc>Ross Mac tackles real-world scenarios, revealing what works and what doesn’t in modern financial planning.</desc>
@@ -99,7 +83,7 @@
     <category>Movie</category>
     <language>en</language>
     <icon src="https://provider-static.plex.tv/epg/images/thumbnails/yahoo-finance.jpg" />
-  </programme><programme channel="Yahoo-Finance-US" start="20260517063000 +0500" stop="20260517070000 +0500">
+  </programme><programme channel="Yahoo-Finance-US" start="20260524073000 +0500" stop="20260524080000 +0500">
     <title>Real Money with Ross Mac</title>
     <sub-title />
     <desc>Ross Mac tackles real-world scenarios, revealing what works and what doesn’t in modern financial planning.</desc>
@@ -107,7 +91,7 @@
     <category>Movie</category>
     <language>en</language>
     <icon src="https://provider-static.plex.tv/epg/images/thumbnails/yahoo-finance.jpg" />
-  </programme><programme channel="Yahoo-Finance-US" start="20260517070000 +0500" stop="20260517073000 +0500">
+  </programme><programme channel="Yahoo-Finance-US" start="20260524080000 +0500" stop="20260524083000 +0500">
     <title>Power Players with Brian Sozzi</title>
     <sub-title />
     <desc>Power Players with Brian Sozzi goes beyond titles, revealing the human side of industry titans.</desc>
@@ -115,7 +99,7 @@
     <category>Movie</category>
     <language>en</language>
     <icon src="https://provider-static.plex.tv/epg/images/thumbnails/yahoo-finance.jpg" />
-  </programme><programme channel="Yahoo-Finance-US" start="20260517073000 +0500" stop="20260517080000 +0500">
+  </programme><programme channel="Yahoo-Finance-US" start="20260524083000 +0500" stop="20260524090000 +0500">
     <title>Power Players with Brian Sozzi</title>
     <sub-title />
     <desc>Power Players with Brian Sozzi goes beyond titles, revealing the human side of industry titans.</desc>
@@ -123,15 +107,7 @@
     <category>Movie</category>
     <language>en</language>
     <icon src="https://provider-static.plex.tv/epg/images/thumbnails/yahoo-finance.jpg" />
-  </programme><programme channel="Yahoo-Finance-US" start="20260517080000 +0500" stop="20260517083000 +0500">
-    <title>Power Players with Brian Sozzi</title>
-    <sub-title />
-    <desc>Power Players with Brian Sozzi goes beyond titles, revealing the human side of industry titans.</desc>
-    <date>20260102</date>
-    <category>Movie</category>
-    <language>en</language>
-    <icon src="https://provider-static.plex.tv/epg/images/thumbnails/yahoo-finance.jpg" />
-  </programme><programme channel="Yahoo-Finance-US" start="20260517083000 +0500" stop="20260517090000 +0500">
+  </programme><programme channel="Yahoo-Finance-US" start="20260524090000 +0500" stop="20260524093000 +0500">
     <title>The Big Idea</title>
     <sub-title />
     <desc>Big ideas for small businesses. Elizabeth Gore shares tools, trends &amp; tactics to grow in any economy.</desc>
@@ -139,7 +115,15 @@
     <category>Movie</category>
     <language>en</language>
     <icon src="https://provider-static.plex.tv/epg/images/thumbnails/yahoo-finance.jpg" />
-  </programme><programme channel="Yahoo-Finance-US" start="20260517090000 +0500" stop="20260517101412 +0500">
+  </programme><programme channel="Yahoo-Finance-US" start="20260524093000 +0500" stop="20260524100000 +0500">
+    <title>The Big Idea</title>
+    <sub-title />
+    <desc>Big ideas for small businesses. Elizabeth Gore shares tools, trends &amp; tactics to grow in any economy.</desc>
+    <date>20260102</date>
+    <category>Movie</category>
+    <language>en</language>
+    <icon src="https://provider-static.plex.tv/epg/images/thumbnails/yahoo-finance.jpg" />
+  </programme><programme channel="Yahoo-Finance-US" start="20260524100000 +0500" stop="20260524111412 +0500">
     <title>Special Coverage: NVIDIA GTC 2026 Keynote</title>
     <sub-title />
     <desc>Nvidia CEO, Jensen Huang takes center stage at the SAP Center to reveal what’s next in AI</desc>
@@ -147,7 +131,7 @@
     <category>Movie</category>
     <language>en</language>
     <icon src="https://provider-static.plex.tv/epg/images/thumbnails/yahoo-finance.jpg" />
-  </programme><programme channel="Yahoo-Finance-US" start="20260517101412 +0500" stop="20260517113000 +0500">
+  </programme><programme channel="Yahoo-Finance-US" start="20260524111412 +0500" stop="20260524123000 +0500">
     <title>Special Coverage: NVIDIA GTC 2026 Keynote</title>
     <sub-title />
     <desc>Nvidia CEO, Jensen Huang takes center stage at the SAP Center to reveal what’s next in AI</desc>
@@ -155,22 +139,15 @@
     <category>Movie</category>
     <language>en</language>
     <icon src="https://provider-static.plex.tv/epg/images/thumbnails/yahoo-finance.jpg" />
-  </programme><programme channel="Yahoo-Finance-US" start="20260517113000 +0500" stop="20260517120000 +0500">
-    <title>YF Earnings Recap</title>
+  </programme><programme channel="Yahoo-Finance-US" start="20260524123000 +0500" stop="20260524133000 +0500">
+    <title>Mag 7 Earnings Recap</title>
     <sub-title />
-    <desc>Four members of the Mag 7 reported earnings. Here's a recap of the top moments.</desc>
+    <desc>Earnings highlights from all seven members for the Magnificent 7</desc>
     <date>20260102</date>
     <category>Movie</category>
     <language>en</language>
     <icon src="https://provider-static.plex.tv/epg/images/thumbnails/yahoo-finance.jpg" />
-  </programme><programme channel="Yahoo-Finance-US" start="20260517120000 +0500" stop="20260517130000 +0500">
-    <title>Market Movers</title>
-    <sub-title />
-    <desc>Yahoo Finance highlights key moments in the previous trading session.</desc>
-    <category>Movie</category>
-    <language>en</language>
-    <icon src="https://provider-static.plex.tv/epg/images/thumbnails/yahoo-finance.jpg" />
-  </programme><programme channel="Yahoo-Finance-US" start="20260517130000 +0500" stop="20260517140000 +0500">
+  </programme><programme channel="Yahoo-Finance-US" start="20260524133000 +0500" stop="20260524143000 +0500">
     <title>Best of Semafor 2026</title>
     <sub-title />
     <desc>A look at the bigger takeaways from Semafor in Washington, DC</desc>
@@ -178,7 +155,7 @@
     <category>Movie</category>
     <language>en</language>
     <icon src="https://provider-static.plex.tv/epg/images/thumbnails/yahoo-finance.jpg" />
-  </programme><programme channel="Yahoo-Finance-US" start="20260517140000 +0500" stop="20260517143000 +0500">
+  </programme><programme channel="Yahoo-Finance-US" start="20260524143000 +0500" stop="20260524150000 +0500">
     <title>YF Earnings Recap</title>
     <sub-title />
     <desc>Four members of the Mag 7 reported earnings. Here's a recap of the top moments.</desc>
@@ -186,22 +163,14 @@
     <category>Movie</category>
     <language>en</language>
     <icon src="https://provider-static.plex.tv/epg/images/thumbnails/yahoo-finance.jpg" />
-  </programme><programme channel="Yahoo-Finance-US" start="20260517143000 +0500" stop="20260517150000 +0500">
-    <title>Fed Decision Recap</title>
-    <sub-title />
-    <desc>The Federal Reserve left interest rates unchanged in it's April meeting</desc>
-    <date>20260102</date>
-    <category>Movie</category>
-    <language>en</language>
-    <icon src="https://provider-static.plex.tv/epg/images/thumbnails/yahoo-finance.jpg" />
-  </programme><programme channel="Yahoo-Finance-US" start="20260517150000 +0500" stop="20260517160000 +0500">
+  </programme><programme channel="Yahoo-Finance-US" start="20260524150000 +0500" stop="20260524160000 +0500">
     <title>Market Movers</title>
     <sub-title />
     <desc>Yahoo Finance highlights key moments in the previous trading session.</desc>
     <category>Movie</category>
     <language>en</language>
     <icon src="https://provider-static.plex.tv/epg/images/thumbnails/yahoo-finance.jpg" />
-  </programme><programme channel="Yahoo-Finance-US" start="20260517160000 +0500" stop="20260517163000 +0500">
+  </programme><programme channel="Yahoo-Finance-US" start="20260524160000 +0500" stop="20260524163000 +0500">
     <title>Trader Talk</title>
     <sub-title />
     <desc>Wall Street wisdom without the BS. Kenny Polcari keeps it real for everyday investors.</desc>
@@ -209,31 +178,7 @@
     <category>Movie</category>
     <language>en</language>
     <icon src="https://provider-static.plex.tv/epg/images/thumbnails/yahoo-finance.jpg" />
-  </programme><programme channel="Yahoo-Finance-US" start="20260517163000 +0500" stop="20260517170000 +0500">
-    <title>Opening Bid: Unfiltered</title>
-    <sub-title />
-    <desc>Brian Sozzi decodes market moves and shares scoops to get you thinking differently about your portfolio.</desc>
-    <date>20250102</date>
-    <category>Movie</category>
-    <language>en</language>
-    <icon src="https://provider-static.plex.tv/epg/images/thumbnails/yahoo-finance.jpg" />
-  </programme><programme channel="Yahoo-Finance-US" start="20260517170000 +0500" stop="20260517173000 +0500">
-    <title>Opening Bid: Unfiltered</title>
-    <sub-title />
-    <desc>Brian Sozzi decodes market moves and shares scoops to get you thinking differently about your portfolio.</desc>
-    <date>20250102</date>
-    <category>Movie</category>
-    <language>en</language>
-    <icon src="https://provider-static.plex.tv/epg/images/thumbnails/yahoo-finance.jpg" />
-  </programme><programme channel="Yahoo-Finance-US" start="20260517173000 +0500" stop="20260517183000 +0500">
-    <title>Best of Semafor 2026</title>
-    <sub-title />
-    <desc>A look at the bigger takeaways from Semafor in Washington, DC</desc>
-    <date>20260102</date>
-    <category>Movie</category>
-    <language>en</language>
-    <icon src="https://provider-static.plex.tv/epg/images/thumbnails/yahoo-finance.jpg" />
-  </programme><programme channel="Yahoo-Finance-US" start="20260517183000 +0500" stop="20260517190000 +0500">
+  </programme><programme channel="Yahoo-Finance-US" start="20260524163000 +0500" stop="20260524170000 +0500">
     <title>Trader Talk</title>
     <sub-title />
     <desc>Wall Street wisdom without the BS. Kenny Polcari keeps it real for everyday investors.</desc>
@@ -241,31 +186,7 @@
     <category>Movie</category>
     <language>en</language>
     <icon src="https://provider-static.plex.tv/epg/images/thumbnails/yahoo-finance.jpg" />
-  </programme><programme channel="Yahoo-Finance-US" start="20260517190000 +0500" stop="20260517193000 +0500">
-    <title>Trader Talk</title>
-    <sub-title />
-    <desc>Wall Street wisdom without the BS. Kenny Polcari keeps it real for everyday investors.</desc>
-    <date>20260102</date>
-    <category>Movie</category>
-    <language>en</language>
-    <icon src="https://provider-static.plex.tv/epg/images/thumbnails/yahoo-finance.jpg" />
-  </programme><programme channel="Yahoo-Finance-US" start="20260517193000 +0500" stop="20260517200000 +0500">
-    <title>Real Money with Ross Mac</title>
-    <sub-title />
-    <desc>Ross Mac tackles real-world scenarios, revealing what works and what doesn’t in modern financial planning.</desc>
-    <date>20260102</date>
-    <category>Movie</category>
-    <language>en</language>
-    <icon src="https://provider-static.plex.tv/epg/images/thumbnails/yahoo-finance.jpg" />
-  </programme><programme channel="Yahoo-Finance-US" start="20260517200000 +0500" stop="20260517203000 +0500">
-    <title>Real Money with Ross Mac</title>
-    <sub-title />
-    <desc>Ross Mac tackles real-world scenarios, revealing what works and what doesn’t in modern financial planning.</desc>
-    <date>20260102</date>
-    <category>Movie</category>
-    <language>en</language>
-    <icon src="https://provider-static.plex.tv/epg/images/thumbnails/yahoo-finance.jpg" />
-  </programme><programme channel="Yahoo-Finance-US" start="20260517203000 +0500" stop="20260517210000 +0500">
+  </programme><programme channel="Yahoo-Finance-US" start="20260524170000 +0500" stop="20260524173000 +0500">
     <title>Power Players with Brian Sozzi</title>
     <sub-title />
     <desc>Power Players with Brian Sozzi goes beyond titles, revealing the human side of industry titans.</desc>
@@ -273,7 +194,7 @@
     <category>Movie</category>
     <language>en</language>
     <icon src="https://provider-static.plex.tv/epg/images/thumbnails/yahoo-finance.jpg" />
-  </programme><programme channel="Yahoo-Finance-US" start="20260517210000 +0500" stop="20260517213000 +0500">
+  </programme><programme channel="Yahoo-Finance-US" start="20260524173000 +0500" stop="20260524183000 +0500">
     <title>Power Players with Brian Sozzi</title>
     <sub-title />
     <desc>Power Players with Brian Sozzi goes beyond titles, revealing the human side of industry titans.</desc>
@@ -281,20 +202,231 @@
     <category>Movie</category>
     <language>en</language>
     <icon src="https://provider-static.plex.tv/epg/images/thumbnails/yahoo-finance.jpg" />
-  </programme><programme channel="Yahoo-Finance-US" start="20260517213000 +0500" stop="20260517223000 +0500">
-    <title>Yahoo Finance: Programme</title>
+  </programme><programme channel="Yahoo-Finance-US" start="20260524183000 +0500" stop="20260524190000 +0500">
+    <title>Trader Talk</title>
     <sub-title />
-    <desc />
+    <desc>Wall Street wisdom without the BS. Kenny Polcari keeps it real for everyday investors.</desc>
+    <date>20260102</date>
+    <category>Movie</category>
     <language>en</language>
-  </programme><programme channel="Yahoo-Finance-US" start="20260517223000 +0500" stop="20260517233000 +0500">
-    <title>Yahoo Finance: Programme</title>
+    <icon src="https://provider-static.plex.tv/epg/images/thumbnails/yahoo-finance.jpg" />
+  </programme><programme channel="Yahoo-Finance-US" start="20260524190000 +0500" stop="20260524193000 +0500">
+    <title>Trader Talk</title>
     <sub-title />
-    <desc />
+    <desc>Wall Street wisdom without the BS. Kenny Polcari keeps it real for everyday investors.</desc>
+    <date>20260102</date>
+    <category>Movie</category>
     <language>en</language>
-  </programme><programme channel="Yahoo-Finance-US" start="20260517233000 +0500" stop="20260518003000 +0500">
-    <title>Yahoo Finance: Programme</title>
+    <icon src="https://provider-static.plex.tv/epg/images/thumbnails/yahoo-finance.jpg" />
+  </programme><programme channel="Yahoo-Finance-US" start="20260524193000 +0500" stop="20260524200000 +0500">
+    <title>Real Money with Ross Mac</title>
     <sub-title />
-    <desc />
+    <desc>Ross Mac tackles real-world scenarios, revealing what works and what doesn’t in modern financial planning.</desc>
+    <date>20260102</date>
+    <category>Movie</category>
     <language>en</language>
+    <icon src="https://provider-static.plex.tv/epg/images/thumbnails/yahoo-finance.jpg" />
+  </programme><programme channel="Yahoo-Finance-US" start="20260524200000 +0500" stop="20260524203000 +0500">
+    <title>Real Money with Ross Mac</title>
+    <sub-title />
+    <desc>Ross Mac tackles real-world scenarios, revealing what works and what doesn’t in modern financial planning.</desc>
+    <date>20260102</date>
+    <category>Movie</category>
+    <language>en</language>
+    <icon src="https://provider-static.plex.tv/epg/images/thumbnails/yahoo-finance.jpg" />
+  </programme><programme channel="Yahoo-Finance-US" start="20260524203000 +0500" stop="20260524210000 +0500">
+    <title>Power Players with Brian Sozzi</title>
+    <sub-title />
+    <desc>Power Players with Brian Sozzi goes beyond titles, revealing the human side of industry titans.</desc>
+    <date>20260102</date>
+    <category>Movie</category>
+    <language>en</language>
+    <icon src="https://provider-static.plex.tv/epg/images/thumbnails/yahoo-finance.jpg" />
+  </programme><programme channel="Yahoo-Finance-US" start="20260524210000 +0500" stop="20260524213000 +0500">
+    <title>Power Players with Brian Sozzi</title>
+    <sub-title />
+    <desc>Power Players with Brian Sozzi goes beyond titles, revealing the human side of industry titans.</desc>
+    <date>20260102</date>
+    <category>Movie</category>
+    <language>en</language>
+    <icon src="https://provider-static.plex.tv/epg/images/thumbnails/yahoo-finance.jpg" />
+  </programme><programme channel="Yahoo-Finance-US" start="20260524213000 +0500" stop="20260524220000 +0500">
+    <title>The Big Idea</title>
+    <sub-title />
+    <desc>Big ideas for small businesses. Elizabeth Gore shares tools, trends &amp; tactics to grow in any economy.</desc>
+    <date>20260102</date>
+    <category>Movie</category>
+    <language>en</language>
+    <icon src="https://provider-static.plex.tv/epg/images/thumbnails/yahoo-finance.jpg" />
+  </programme><programme channel="Yahoo-Finance-US" start="20260524220000 +0500" stop="20260524223000 +0500">
+    <title>The Big Idea</title>
+    <sub-title />
+    <desc>Big ideas for small businesses. Elizabeth Gore shares tools, trends &amp; tactics to grow in any economy.</desc>
+    <date>20260102</date>
+    <category>Movie</category>
+    <language>en</language>
+    <icon src="https://provider-static.plex.tv/epg/images/thumbnails/yahoo-finance.jpg" />
+  </programme><programme channel="Yahoo-Finance-US" start="20260524223000 +0500" stop="20260524230000 +0500">
+    <title>Power Players with Brian Sozzi</title>
+    <sub-title />
+    <desc>Power Players with Brian Sozzi goes beyond titles, revealing the human side of industry titans.</desc>
+    <date>20260102</date>
+    <category>Movie</category>
+    <language>en</language>
+    <icon src="https://provider-static.plex.tv/epg/images/thumbnails/yahoo-finance.jpg" />
+  </programme><programme channel="Yahoo-Finance-US" start="20260524230000 +0500" stop="20260525000000 +0500">
+    <title>Power Players with Brian Sozzi</title>
+    <sub-title />
+    <desc>Power Players with Brian Sozzi goes beyond titles, revealing the human side of industry titans.</desc>
+    <date>20260102</date>
+    <category>Movie</category>
+    <language>en</language>
+    <icon src="https://provider-static.plex.tv/epg/images/thumbnails/yahoo-finance.jpg" />
+  </programme><programme channel="Yahoo-Finance-US" start="20260525000000 +0500" stop="20260525010000 +0500">
+    <title>Mag 7 Earnings Recap</title>
+    <sub-title />
+    <desc>Earnings highlights from all seven members for the Magnificent 7</desc>
+    <date>20260102</date>
+    <category>Movie</category>
+    <language>en</language>
+    <icon src="https://provider-static.plex.tv/epg/images/thumbnails/yahoo-finance.jpg" />
+  </programme><programme channel="Yahoo-Finance-US" start="20260525010000 +0500" stop="20260525020000 +0500">
+    <title>Yahoo! Finance</title>
+    <sub-title />
+    <desc>Yahoo! Finance delivers live market coverage, financial news, economic analysis, and executive interviews tracking global stock markets and business trends.</desc>
+    <language>en</language>
+    <icon src="https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/Yahoo-Finance-US.png" />
+  </programme><programme channel="Yahoo-Finance-US" start="20260525020000 +0500" stop="20260525030000 +0500">
+    <title>Yahoo! Finance</title>
+    <sub-title />
+    <desc>Yahoo! Finance delivers live market coverage, financial news, economic analysis, and executive interviews tracking global stock markets and business trends.</desc>
+    <language>en</language>
+    <icon src="https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/Yahoo-Finance-US.png" />
+  </programme><programme channel="Yahoo-Finance-US" start="20260525030000 +0500" stop="20260525040000 +0500">
+    <title>Yahoo! Finance</title>
+    <sub-title />
+    <desc>Yahoo! Finance delivers live market coverage, financial news, economic analysis, and executive interviews tracking global stock markets and business trends.</desc>
+    <language>en</language>
+    <icon src="https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/Yahoo-Finance-US.png" />
+  </programme><programme channel="Yahoo-Finance-US" start="20260525040000 +0500" stop="20260525050000 +0500">
+    <title>Yahoo! Finance</title>
+    <sub-title />
+    <desc>Yahoo! Finance delivers live market coverage, financial news, economic analysis, and executive interviews tracking global stock markets and business trends.</desc>
+    <language>en</language>
+    <icon src="https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/Yahoo-Finance-US.png" />
+  </programme><programme channel="Yahoo-Finance-US" start="20260525050000 +0500" stop="20260525060000 +0500">
+    <title>Yahoo! Finance</title>
+    <sub-title />
+    <desc>Yahoo! Finance delivers live market coverage, financial news, economic analysis, and executive interviews tracking global stock markets and business trends.</desc>
+    <language>en</language>
+    <icon src="https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/Yahoo-Finance-US.png" />
+  </programme><programme channel="Yahoo-Finance-US" start="20260525060000 +0500" stop="20260525070000 +0500">
+    <title>Yahoo! Finance</title>
+    <sub-title />
+    <desc>Yahoo! Finance delivers live market coverage, financial news, economic analysis, and executive interviews tracking global stock markets and business trends.</desc>
+    <language>en</language>
+    <icon src="https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/Yahoo-Finance-US.png" />
+  </programme><programme channel="Yahoo-Finance-US" start="20260525070000 +0500" stop="20260525080000 +0500">
+    <title>Yahoo! Finance</title>
+    <sub-title />
+    <desc>Yahoo! Finance delivers live market coverage, financial news, economic analysis, and executive interviews tracking global stock markets and business trends.</desc>
+    <language>en</language>
+    <icon src="https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/Yahoo-Finance-US.png" />
+  </programme><programme channel="Yahoo-Finance-US" start="20260525080000 +0500" stop="20260525090000 +0500">
+    <title>Yahoo! Finance</title>
+    <sub-title />
+    <desc>Yahoo! Finance delivers live market coverage, financial news, economic analysis, and executive interviews tracking global stock markets and business trends.</desc>
+    <language>en</language>
+    <icon src="https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/Yahoo-Finance-US.png" />
+  </programme><programme channel="Yahoo-Finance-US" start="20260525090000 +0500" stop="20260525100000 +0500">
+    <title>Yahoo! Finance</title>
+    <sub-title />
+    <desc>Yahoo! Finance delivers live market coverage, financial news, economic analysis, and executive interviews tracking global stock markets and business trends.</desc>
+    <language>en</language>
+    <icon src="https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/Yahoo-Finance-US.png" />
+  </programme><programme channel="Yahoo-Finance-US" start="20260525100000 +0500" stop="20260525110000 +0500">
+    <title>Yahoo! Finance</title>
+    <sub-title />
+    <desc>Yahoo! Finance delivers live market coverage, financial news, economic analysis, and executive interviews tracking global stock markets and business trends.</desc>
+    <language>en</language>
+    <icon src="https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/Yahoo-Finance-US.png" />
+  </programme><programme channel="Yahoo-Finance-US" start="20260525110000 +0500" stop="20260525120000 +0500">
+    <title>Yahoo! Finance</title>
+    <sub-title />
+    <desc>Yahoo! Finance delivers live market coverage, financial news, economic analysis, and executive interviews tracking global stock markets and business trends.</desc>
+    <language>en</language>
+    <icon src="https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/Yahoo-Finance-US.png" />
+  </programme><programme channel="Yahoo-Finance-US" start="20260525120000 +0500" stop="20260525130000 +0500">
+    <title>Yahoo! Finance</title>
+    <sub-title />
+    <desc>Yahoo! Finance delivers live market coverage, financial news, economic analysis, and executive interviews tracking global stock markets and business trends.</desc>
+    <language>en</language>
+    <icon src="https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/Yahoo-Finance-US.png" />
+  </programme><programme channel="Yahoo-Finance-US" start="20260525130000 +0500" stop="20260525140000 +0500">
+    <title>Yahoo! Finance</title>
+    <sub-title />
+    <desc>Yahoo! Finance delivers live market coverage, financial news, economic analysis, and executive interviews tracking global stock markets and business trends.</desc>
+    <language>en</language>
+    <icon src="https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/Yahoo-Finance-US.png" />
+  </programme><programme channel="Yahoo-Finance-US" start="20260525140000 +0500" stop="20260525150000 +0500">
+    <title>Yahoo! Finance</title>
+    <sub-title />
+    <desc>Yahoo! Finance delivers live market coverage, financial news, economic analysis, and executive interviews tracking global stock markets and business trends.</desc>
+    <language>en</language>
+    <icon src="https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/Yahoo-Finance-US.png" />
+  </programme><programme channel="Yahoo-Finance-US" start="20260525150000 +0500" stop="20260525160000 +0500">
+    <title>Yahoo! Finance</title>
+    <sub-title />
+    <desc>Yahoo! Finance delivers live market coverage, financial news, economic analysis, and executive interviews tracking global stock markets and business trends.</desc>
+    <language>en</language>
+    <icon src="https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/Yahoo-Finance-US.png" />
+  </programme><programme channel="Yahoo-Finance-US" start="20260525160000 +0500" stop="20260525170000 +0500">
+    <title>Yahoo! Finance</title>
+    <sub-title />
+    <desc>Yahoo! Finance delivers live market coverage, financial news, economic analysis, and executive interviews tracking global stock markets and business trends.</desc>
+    <language>en</language>
+    <icon src="https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/Yahoo-Finance-US.png" />
+  </programme><programme channel="Yahoo-Finance-US" start="20260525170000 +0500" stop="20260525180000 +0500">
+    <title>Yahoo! Finance</title>
+    <sub-title />
+    <desc>Yahoo! Finance delivers live market coverage, financial news, economic analysis, and executive interviews tracking global stock markets and business trends.</desc>
+    <language>en</language>
+    <icon src="https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/Yahoo-Finance-US.png" />
+  </programme><programme channel="Yahoo-Finance-US" start="20260525180000 +0500" stop="20260525190000 +0500">
+    <title>Yahoo! Finance</title>
+    <sub-title />
+    <desc>Yahoo! Finance delivers live market coverage, financial news, economic analysis, and executive interviews tracking global stock markets and business trends.</desc>
+    <language>en</language>
+    <icon src="https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/Yahoo-Finance-US.png" />
+  </programme><programme channel="Yahoo-Finance-US" start="20260525190000 +0500" stop="20260525200000 +0500">
+    <title>Yahoo! Finance</title>
+    <sub-title />
+    <desc>Yahoo! Finance delivers live market coverage, financial news, economic analysis, and executive interviews tracking global stock markets and business trends.</desc>
+    <language>en</language>
+    <icon src="https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/Yahoo-Finance-US.png" />
+  </programme><programme channel="Yahoo-Finance-US" start="20260525200000 +0500" stop="20260525210000 +0500">
+    <title>Yahoo! Finance</title>
+    <sub-title />
+    <desc>Yahoo! Finance delivers live market coverage, financial news, economic analysis, and executive interviews tracking global stock markets and business trends.</desc>
+    <language>en</language>
+    <icon src="https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/Yahoo-Finance-US.png" />
+  </programme><programme channel="Yahoo-Finance-US" start="20260525210000 +0500" stop="20260525220000 +0500">
+    <title>Yahoo! Finance</title>
+    <sub-title />
+    <desc>Yahoo! Finance delivers live market coverage, financial news, economic analysis, and executive interviews tracking global stock markets and business trends.</desc>
+    <language>en</language>
+    <icon src="https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/Yahoo-Finance-US.png" />
+  </programme><programme channel="Yahoo-Finance-US" start="20260525220000 +0500" stop="20260525230000 +0500">
+    <title>Yahoo! Finance</title>
+    <sub-title />
+    <desc>Yahoo! Finance delivers live market coverage, financial news, economic analysis, and executive interviews tracking global stock markets and business trends.</desc>
+    <language>en</language>
+    <icon src="https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/Yahoo-Finance-US.png" />
+  </programme><programme channel="Yahoo-Finance-US" start="20260525230000 +0500" stop="20260526000000 +0500">
+    <title>Yahoo! Finance</title>
+    <sub-title />
+    <desc>Yahoo! Finance delivers live market coverage, financial news, economic analysis, and executive interviews tracking global stock markets and business trends.</desc>
+    <language>en</language>
+    <icon src="https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/Yahoo-Finance-US.png" />
   </programme>
 </tv>

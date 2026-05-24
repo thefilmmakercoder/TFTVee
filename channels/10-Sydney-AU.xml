@@ -1,87 +1,142 @@
 <?xml version='1.0' encoding='utf-8'?>
 <tv>
   <channel id="10-Sydney-AU">
-    <display-name>10 Sydney</display-name>
-    <icon src="https://thefilmtuition.com/tvlogo/10-Sydney-AU.png" />
-  </channel><programme channel="10-Sydney-AU" start="20260516070000 +0500" stop="20260516080000 +0500">
-    <title>The Dog House</title>
-    <desc>Beth &amp; Jemima are looking for an outgoing pup. Can Ollie the Spaniel stop playing to meet them? Trinity &amp; Paul's dog Max is in mourning, and they're hoping a fellow pooch might lighten his load.</desc>
-    <episode-num system="onscreen">S5 E8</episode-num>
-    <category lang="en">Special Interest</category>
+    <icon src="https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/10-Sydney-AU.png" />
+    <url>https://tv.thefilmtuition.com</url>
+    <display-name>Channel 10</display-name>
+  </channel><programme channel="10-Sydney-AU" start="20260522220000 +0500" stop="20260522223000 +0500">
+    <title>Home Shopping</title>
+    <desc>A show that offers a variety of product demonstrations and great deals for consumers looking to buy them.</desc>
+    <episode-num system="onscreen">E184</episode-num>
     <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/395208/image/334x188" />
-    <rating system="AU">
-      <value>PG</value>
-    </rating>
-  </programme><programme channel="10-Sydney-AU" start="20260516080000 +0500" stop="20260516083000 +0500">
-    <title>Buy To Build</title>
+  </programme><programme channel="10-Sydney-AU" start="20260522223000 +0500" stop="20260522230000 +0500">
+    <title>Home Shopping</title>
+    <desc>Synopsis.</desc>
+    <episode-num system="onscreen">E185</episode-num>
+    <language>en</language>
+  </programme><programme channel="10-Sydney-AU" start="20260522230000 +0500" stop="20260522233000 +0500">
+    <title>Home Shopping</title>
     <sub-title />
-    <desc>Walt helps a couple choose from not three displays homes, but from three brand new suburbs! In our Stockland special, we take a closer look at Perth's brand new housing developments.</desc>
-    <episode-num system="onscreen">S8 E4</episode-num>
+    <desc>A show that offers a variety of product demonstrations and great deals for consumers looking to buy them.</desc>
+    <episode-num system="onscreen">E186</episode-num>
     <category lang="en">Special Interest</category>
     <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/380965/image/334x188" />
-    <rating system="AU">
-      <value>G</value>
-    </rating>
-  </programme><programme channel="10-Sydney-AU" start="20260516083000 +0500" stop="20260516090000 +0500">
-    <title>Frugal Foodie</title>
-    <sub-title>Weekend Wows</sub-title>
-    <desc>Impress without the stress with show?stopping weekend dishes. Steph cooks Meltingly Tender Chimichurri Pork Shoulder, Banh Mi Style Pork Meatball, and a rich Basque Chocolate Cheesecake.</desc>
-    <episode-num system="onscreen">S2 E3</episode-num>
-    <category lang="en">Special Interest</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/11400566/image/334x188" />
-    <rating system="AU">
-      <value>G</value>
-    </rating>
-  </programme><programme channel="10-Sydney-AU" start="20260516090000 +0500" stop="20260516100000 +0500">
-    <title>MasterChef Australia</title>
-    <sub-title />
-    <desc>Viral sensation Victoria Minell sets a challenge to use one of her five viral ingredients in a 75-minute cook to save their place in the competition.</desc>
-    <episode-num system="onscreen">S18 E13</episode-num>
-    <category lang="en">Special Interest</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/1181477/image/334x188" />
-    <rating system="AU">
-      <value>PG</value>
-    </rating>
-  </programme><programme channel="10-Sydney-AU" start="20260516100000 +0500" stop="20260516110000 +0500">
-    <title>The Finish Line</title>
-    <sub-title />
-    <desc>Shaun, Julia, Anna, Ben and James race in moving podiums across the studio floor to try and win £5,000.</desc>
-    <episode-num system="onscreen">S2 E2</episode-num>
-    <category lang="en">Special Interest</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/428456/image/334x188" />
-    <rating system="AU">
-      <value>G</value>
-    </rating>
-  </programme><programme channel="10-Sydney-AU" start="20260516110000 +0500" stop="20260516120000 +0500">
-    <title>Lingo</title>
-    <sub-title />
-    <desc>A quiz in which three pairs of contestants go head-to-head, using their powers of deduction quickly to work out the words that appear in the Lingo grids and puzzle-words.</desc>
-    <episode-num system="onscreen">S5 E18</episode-num>
-    <category lang="en">Special Interest</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/413815/image/334x188" />
-    <rating system="AU">
-      <value>G</value>
-    </rating>
-  </programme><programme channel="10-Sydney-AU" start="20260516120000 +0500" stop="20260516133000 +0500">
-    <title>10 News</title>
-    <sub-title>Saturday 16 May 2026</sub-title>
-    <desc>Comprehensive coverage of local, national and international news. Plus, all the latest sport and weather.</desc>
-    <episode-num system="onscreen">E39</episode-num>
-    <category lang="en">Sports</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/437419/image/334x188" />
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/234200/image/334x188" />
     <rating system="AU">
       <value>NR</value>
     </rating>
-  </programme><programme channel="10-Sydney-AU" start="20260516133000 +0500" stop="20260516143000 +0500">
-    <title>The Dog House</title>
-    <sub-title>The Dog House UK</sub-title>
+  </programme><programme channel="10-Sydney-AU" start="20260522233000 +0500" stop="20260523000000 +0500">
+    <title>Home Shopping</title>
+    <sub-title />
+    <desc>A show that offers a variety of product demonstrations and great deals for consumers looking to buy them.</desc>
+    <episode-num system="onscreen">E187</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/234200/image/334x188" />
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme><programme channel="10-Sydney-AU" start="20260523000000 +0500" stop="20260523003000 +0500">
+    <title>Home Shopping</title>
+    <sub-title />
+    <desc>A show that offers a variety of product demonstrations and great deals for consumers looking to buy them.</desc>
+    <episode-num system="onscreen">E188</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/234200/image/334x188" />
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme><programme channel="10-Sydney-AU" start="20260523003000 +0500" stop="20260523010000 +0500">
+    <title>Home Shopping</title>
+    <sub-title />
+    <desc>Synopsis.</desc>
+    <episode-num system="onscreen">E189</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/234200/image/334x188" />
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme><programme channel="10-Sydney-AU" start="20260523010000 +0500" stop="20260523020000 +0500">
+    <title>Tough Tested</title>
+    <sub-title />
+    <desc>The Highclere Caravans take on the X-Series RV and Sunland Caravans in a series of challenges; the Vantec Caravan Graveyard tests each caranvan's endurance by focusing on their advanced suspension systems.</desc>
+    <episode-num system="onscreen">S3 E4</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/414470/image/334x188" />
+    <rating system="AU">
+      <value>G</value>
+    </rating>
+  </programme><programme channel="10-Sydney-AU" start="20260523020000 +0500" stop="20260523023000 +0500">
+    <title>Reel Action</title>
+    <sub-title />
+    <desc>Lake Awoonga is an amazing impoundment heavily stocked with one of Australia's sportfish the mighty Barramundi! Evan Speer from Lake Awoonga Barra Charters joins the team to try and land a fish.</desc>
+    <episode-num system="onscreen">S13 E3</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/298687/image/334x188" />
+    <rating system="AU">
+      <value>G</value>
+    </rating>
+  </programme><programme channel="10-Sydney-AU" start="20260523023000 +0500" stop="20260523030000 +0500">
+    <title>Escape Fishing With ET</title>
+    <sub-title />
+    <desc>Part 2 at Swains Reef. Non stop action, Spanish Mackerel, shark mackerel, monster GT's, long toms. Fishing's red hot and every cast hooks up. Absolute chaos out here!</desc>
+    <episode-num system="onscreen">S27 E6</episode-num>
+    <category lang="en">Sports</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/371167/image/334x188" />
+    <rating system="AU">
+      <value>G</value>
+    </rating>
+  </programme><programme channel="10-Sydney-AU" start="20260523030000 +0500" stop="20260523033000 +0500">
+    <title>IFISH</title>
+    <desc>Paul learns the art of beach worming from local Ulladulla guru Roger Osborne who helps Paul prove the point that when it comes to bait, fresh is always best.</desc>
+    <episode-num system="onscreen">S19 E13</episode-num>
+    <category lang="en">Sports</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/177414/image/334x188" />
+    <rating system="AU">
+      <value>G</value>
+    </rating>
+  </programme><programme channel="10-Sydney-AU" start="20260523033000 +0500" stop="20260523040000 +0500">
+    <title>On The Fly</title>
+    <sub-title />
+    <desc>Join Gavin as he teams up with Matt Stone from Trout Tales Tasmania on one of the state's premier trout lakes. Set in the iconic highland region, this early-season adventure demands readiness.</desc>
+    <episode-num system="onscreen">S4 E9</episode-num>
+    <category lang="en">Sports</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/275858/image/334x188" />
+    <rating system="AU">
+      <value>G</value>
+    </rating>
+  </programme><programme channel="10-Sydney-AU" start="20260523040000 +0500" stop="20260523050000 +0500">
+    <title>All 4 Adventure</title>
+    <sub-title />
+    <desc>All 4 Adventure: Arnhem Land follows Jase, Simon, and newcomer Mitch as they battle rough tracks, croc-filled rivers, and wild coastlines to uncover the raw beauty of this ancient land.</desc>
+    <episode-num system="onscreen">S17 E6</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/250303/image/334x188" />
+    <rating system="AU">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="10-Sydney-AU" start="20260523050000 +0500" stop="20260523060000 +0500">
+    <title>Dogs Behaving (Very) Badly Australia</title>
+    <sub-title />
+    <desc>Bugsy the beagle will devour anything and everything, labradoodle Hughie is driving his family mad chasing shadows, and Ollie is a devil dachshund who barks at everyone and everything.</desc>
+    <episode-num system="onscreen">S2 E10</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/423293/image/334x188" />
+    <rating system="AU">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="10-Sydney-AU" start="20260523060000 +0500" stop="20260523070000 +0500">
+    <title>The Dog House Australia</title>
+    <sub-title>The Dog House</sub-title>
     <desc>Bulldog Boris has lost his spark since long-term companion Maggie passed away. Will opposites attract when he meets Midge? And it's a meeting of souls in the pen when Leila &amp; Alison meet dog Eloise.</desc>
     <episode-num system="onscreen">S5 E9</episode-num>
     <category lang="en">Special Interest</category>
@@ -90,692 +145,627 @@
     <rating system="AU">
       <value>PG</value>
     </rating>
-  </programme><programme channel="10-Sydney-AU" start="20260516143000 +0500" stop="20260516153000 +0500">
-    <title>Love It Or List It Australia</title>
-    <sub-title>Sandgate QLD</sub-title>
-    <desc>Will Kristin and Di move to a new home with enough land for a big veggie garden and a brood of chooks or will Neale be able to reconfigure their current Queenslander home and make them stay put.</desc>
-    <episode-num system="onscreen">S5 E4</episode-num>
+  </programme><programme channel="10-Sydney-AU" start="20260523070000 +0500" stop="20260523073000 +0500">
+    <title>Good Chef Bad Chef</title>
+    <sub-title />
+    <desc>Tim and Jo celebrate nuts by sharing recipes for roasted red capsicum and walnut sauce, and mini pecan and maple pies.</desc>
+    <episode-num system="onscreen">S17 E8</episode-num>
     <category lang="en">Special Interest</category>
     <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/362601/image/334x188" />
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/197122/image/334x188" />
     <rating system="AU">
       <value>G</value>
     </rating>
-  </programme><programme channel="10-Sydney-AU" start="20260516153000 +0500" stop="20260516163000 +0500">
-    <title>Building The Dream</title>
-    <sub-title>Sam And Esme</sub-title>
-    <desc>Architectural designer Charlie Luxton proves dream homes can be affordable. He helps first-time builders design budget-friendly homes that suit their lifestyles.</desc>
-    <episode-num system="onscreen">S2 E5</episode-num>
-    <category lang="en">Special Interest</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/1526408/image/334x188" />
-    <rating system="AU">
-      <value>G</value>
-    </rating>
-  </programme><programme channel="10-Sydney-AU" start="20260516163000 +0500" stop="20260516173000 +0500">
-    <title>Ambulance Australia</title>
-    <sub-title />
-    <desc>A child makes an alarming call about a 5-year-old stuck in mud, but all is not as it seems. A suspected stroke is reported at an alleged workplace, only to find a severely intoxicated man at a party.</desc>
-    <episode-num system="onscreen">S5 E2</episode-num>
-    <category lang="en">Special Interest</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/377981/image/334x188" />
-    <rating system="AU">
-      <value>M</value>
-    </rating>
-  </programme><programme channel="10-Sydney-AU" start="20260516173000 +0500" stop="20260516183000 +0500">
-    <title>Ambulance Australia</title>
-    <sub-title />
-    <desc>Tonight, Ambulance NSW responds to an 88-year-old's severe head wound, a hair-raising motorbike accident, a life-saving CPR call, a serious burns incident, and a challenging 170kg patient extraction.</desc>
-    <episode-num system="onscreen">S5 E3</episode-num>
-    <category lang="en">Special Interest</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/377981/image/334x188" />
-    <rating system="AU">
-      <value>M</value>
-    </rating>
-  </programme><programme channel="10-Sydney-AU" start="20260516183000 +0500" stop="20260516193000 +0500">
-    <title>Elsbeth</title>
-    <sub-title>Murder, He Wrote</sub-title>
-    <desc>Elsbeth organizes a book club to investigate a celebrated novelist who may have written the perfect crime.</desc>
-    <episode-num system="onscreen">S3 E16</episode-num>
-    <category lang="en">Drama</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/429757/image/334x188" />
-    <rating system="AU">
-      <value>PG</value>
-    </rating>
-  </programme><programme channel="10-Sydney-AU" start="20260516193000 +0500" stop="20260516200000 +0500">
-    <title>Home Shopping</title>
-    <sub-title />
-    <desc>A show that offers a variety of product demonstrations and great deals for consumers looking to buy them.</desc>
-    <episode-num system="onscreen">E62</episode-num>
-    <category lang="en">Special Interest</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/234200/image/334x188" />
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme><programme channel="10-Sydney-AU" start="20260516200000 +0500" stop="20260516203000 +0500">
-    <title>Home Shopping</title>
-    <sub-title />
-    <desc>A show that offers a variety of product demonstrations and great deals for consumers looking to buy them.</desc>
-    <episode-num system="onscreen">E63</episode-num>
-    <category lang="en">Special Interest</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/234200/image/334x188" />
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme><programme channel="10-Sydney-AU" start="20260516203000 +0500" stop="20260516210000 +0500">
-    <title>Home Shopping</title>
-    <sub-title />
-    <desc>A show that offers a variety of product demonstrations and great deals for consumers looking to buy them.</desc>
-    <episode-num system="onscreen">E64</episode-num>
-    <category lang="en">Special Interest</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/234200/image/334x188" />
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme><programme channel="10-Sydney-AU" start="20260516210000 +0500" stop="20260516213000 +0500">
-    <title>Home Shopping</title>
-    <sub-title />
-    <desc>A show that offers a variety of product demonstrations and great deals for consumers looking to buy them.</desc>
-    <episode-num system="onscreen">E65</episode-num>
-    <category lang="en">Special Interest</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/234200/image/334x188" />
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme><programme channel="10-Sydney-AU" start="20260516213000 +0500" stop="20260516220000 +0500">
-    <title>Home Shopping</title>
-    <sub-title />
-    <desc>A show that offers a variety of product demonstrations and great deals for consumers looking to buy them.</desc>
-    <episode-num system="onscreen">E66</episode-num>
-    <category lang="en">Special Interest</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/234200/image/334x188" />
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme><programme channel="10-Sydney-AU" start="20260516220000 +0500" stop="20260516223000 +0500">
-    <title>Home Shopping</title>
-    <sub-title />
-    <desc>A show that offers a variety of product demonstrations and great deals for consumers looking to buy them.</desc>
-    <episode-num system="onscreen">E67</episode-num>
-    <category lang="en">Special Interest</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/234200/image/334x188" />
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme><programme channel="10-Sydney-AU" start="20260516223000 +0500" stop="20260516230000 +0500">
-    <title>Home Shopping</title>
-    <sub-title />
-    <desc>A show that offers a variety of product demonstrations and great deals for consumers looking to buy them.</desc>
-    <episode-num system="onscreen">E68</episode-num>
-    <category lang="en">Special Interest</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/234200/image/334x188" />
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme><programme channel="10-Sydney-AU" start="20260516230000 +0500" stop="20260516233000 +0500">
-    <title>Home Shopping</title>
-    <sub-title />
-    <desc>Paid programming.</desc>
-    <episode-num system="onscreen">E69</episode-num>
-    <category lang="en">Special Interest</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/234200/image/334x188" />
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme><programme channel="10-Sydney-AU" start="20260516233000 +0500" stop="20260517000000 +0500">
-    <title>Home Shopping</title>
-    <sub-title />
-    <desc>A show that offers a variety of product demonstrations and great deals for consumers looking to buy them.</desc>
-    <episode-num system="onscreen">E70</episode-num>
-    <category lang="en">Special Interest</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/234200/image/334x188" />
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme><programme channel="10-Sydney-AU" start="20260517000000 +0500" stop="20260517010000 +0500">
-    <title>Hour Of Power</title>
-    <sub-title />
-    <desc>Hour Of Power with Bobby Schuller equips you with the tools you need to become a flourishing apprentice of Jesus.</desc>
-    <episode-num system="onscreen">E86</episode-num>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/131302/image/334x188" />
-    <rating system="AU">
-      <value>G</value>
-    </rating>
-  </programme><programme channel="10-Sydney-AU" start="20260517010000 +0500" stop="20260517013000 +0500">
-    <title>Mass For You At Home</title>
-    <sub-title />
-    <desc>Mass for You at Home brings the Catholic Mass to those unable to be physically present.</desc>
-    <episode-num system="onscreen">E20</episode-num>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/131378/image/334x188" />
-    <rating system="AU">
-      <value>G</value>
-    </rating>
-  </programme><programme channel="10-Sydney-AU" start="20260517013000 +0500" stop="20260517020000 +0500">
-    <title>Key Of David</title>
-    <sub-title />
-    <desc>World events from a faith-based perspective.</desc>
-    <episode-num system="onscreen">E24</episode-num>
-    <category lang="en">Special Interest</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/133265/image/334x188" />
-    <rating system="AU">
-      <value>PG</value>
-    </rating>
-  </programme><programme channel="10-Sydney-AU" start="20260517020000 +0500" stop="20260517023000 +0500">
-    <title>Joseph Prince: New Creation Church</title>
-    <sub-title>622 What Makes No Weapon Prosper Against You</sub-title>
-    <desc>Pastor Joseph Prince is a leading voice in proclaiming the gospel of grace around the world. He is the senior pastor of New Creation Church, a vibrant and fast-growing church in Singapore.</desc>
-    <episode-num system="onscreen">E72</episode-num>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/307848/image/334x188" />
-    <rating system="AU">
-      <value>G</value>
-    </rating>
-  </programme><programme channel="10-Sydney-AU" start="20260517023000 +0500" stop="20260517030000 +0500">
+  </programme><programme channel="10-Sydney-AU" start="20260523073000 +0500" stop="20260523080000 +0500">
     <title>Buy To Build</title>
     <sub-title />
-    <desc>This week it is glamorous airline cabin manager, Linda, who is looking to build her big forever home of the plans in Melbourne southeast.</desc>
-    <episode-num system="onscreen">S7 E6</episode-num>
+    <desc>Walt Collins splits his time between the Gold Coast and Northern Rivers in the search for a super-sized home for Alison and James who are ready to build their forever home off the plans.</desc>
+    <episode-num system="onscreen">S8 E5</episode-num>
     <category lang="en">Special Interest</category>
     <language>en</language>
     <icon src="https://www.fetchtv.com.au/v2/epg/program/380965/image/334x188" />
     <rating system="AU">
       <value>G</value>
     </rating>
-  </programme><programme channel="10-Sydney-AU" start="20260517030000 +0500" stop="20260517033000 +0500">
-    <title>10 Minute Kitchen</title>
+  </programme><programme channel="10-Sydney-AU" start="20260523080000 +0500" stop="20260523083000 +0500">
+    <title>Good Food Everyday With Gary Mehigan</title>
     <sub-title />
-    <desc>Jerry makes chicken and veg Hoikken noodles; Dezi makes chicken spare ribs with Greek salad and mint yoghurt dipping sauce.</desc>
-    <episode-num system="onscreen">S3 E1</episode-num>
+    <desc>Award-winning chef Gary Mehigan brings healthy eating to life, focusing on flavour-packed, easy-to-prepare meals that support heart health and diabetes management and prevention.</desc>
+    <episode-num system="onscreen">S1 E1</episode-num>
     <category lang="en">Special Interest</category>
     <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/6026469/image/334x188" />
-    <rating system="AU">
-      <value>G</value>
-    </rating>
-  </programme><programme channel="10-Sydney-AU" start="20260517033000 +0500" stop="20260517040000 +0500">
-    <title>My Market Kitchen</title>
-    <sub-title />
-    <desc>Laura Sharrad makes tiramisu brownies and wonton noodle soup; chef Mod makes Thai corn fritters with spicy dipping sauce.</desc>
-    <episode-num system="onscreen">S9 E12</episode-num>
-    <category lang="en">Special Interest</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/348538/image/334x188" />
-    <rating system="AU">
-      <value>G</value>
-    </rating>
-  </programme><programme channel="10-Sydney-AU" start="20260517040000 +0500" stop="20260517043000 +0500">
-    <title>Freshly Picked With Simon Toohey</title>
-    <sub-title />
-    <desc>Join Simon Toohey in Freshly Picked, packed with bold flavours, creative plant-based dishes, and a celebration of sustainable cooking.</desc>
-    <episode-num system="onscreen">S4 E4</episode-num>
-    <category lang="en">Special Interest</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/400398/image/334x188" />
-    <rating system="AU">
-      <value>G</value>
-    </rating>
-  </programme><programme channel="10-Sydney-AU" start="20260517043000 +0500" stop="20260517050000 +0500">
-    <title>Travel Oz</title>
-    <sub-title>Japan By Sea</sub-title>
-    <desc>Sailing along the southern Japanese coast on the Heritage Adventurer. Tokyo, Osaka, Bhutan, and Hiroshima.</desc>
-    <episode-num system="onscreen">S8 E5</episode-num>
-    <category lang="en">Special Interest</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/223387/image/334x188" />
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme><programme channel="10-Sydney-AU" start="20260517050000 +0500" stop="20260517053000 +0500">
-    <title>The Chef's Garden</title>
-    <sub-title />
-    <desc>Chef Massimo Mele undertakes a unique Tasmanian journey, uncovering the local way of life, visiting the local farms and growers and meeting the proud and passionate producers and local artisans.</desc>
-    <episode-num system="onscreen">S2 E1</episode-num>
-    <category lang="en">Special Interest</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/6272529/image/334x188" />
-    <rating system="AU">
-      <value>G</value>
-    </rating>
-  </programme><programme channel="10-Sydney-AU" start="20260517053000 +0500" stop="20260517054000 +0500">
-    <title>Good Chef Bad Chef</title>
-    <sub-title />
-    <desc>Mike, Jacq, Tim and Jo create stunning dishes, balancing bold flavours and wholesome ingredients. Every meal is a delight. What will you try first?</desc>
-    <episode-num system="onscreen">S17 E65</episode-num>
-    <category lang="en">Special Interest</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/197122/image/334x188" />
-    <rating system="AU">
-      <value>G</value>
-    </rating>
-  </programme><programme channel="10-Sydney-AU" start="20260517054000 +0500" stop="20260517065000 +0500">
-    <title>MasterChef Australia</title>
-    <sub-title />
-    <desc>The chefs are diving straight into the Market Challenge, needing to whip up a cracker of a dish on the fly for judges John and Gregg. They have a market full of ingredients to raid, including bavette steak, plaice, and oysters.</desc>
-    <episode-num system="onscreen">S18 E14</episode-num>
-    <category lang="en">Special Interest</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/1181477/image/334x188" />
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/20084718/image/334x188" />
     <rating system="AU">
       <value>PG</value>
     </rating>
-  </programme><programme channel="10-Sydney-AU" start="20260517065000 +0500" stop="20260517080000 +0500">
-    <title>MasterChef Australia</title>
-    <sub-title />
-    <desc>MasterChef alum and social media star Khanh Ong sets an epic challenge to create a bold, out-there sandwich with a banging cross section, to win the first immunity pin of the season.</desc>
-    <episode-num system="onscreen">S18 E15</episode-num>
+  </programme><programme channel="10-Sydney-AU" start="20260523083000 +0500" stop="20260523090000 +0500">
+    <title>Frugal Foodie</title>
+    <sub-title>Snack Attack</sub-title>
+    <desc>Snacks become the main event, easy crowd-pleasers. Steph bakes Cheeseburger Muffins, pairs Hummus with crunchy Lebanese Bread Chips, and finishes with a quick Chocolate Mug Cake.</desc>
+    <episode-num system="onscreen">S2 E4</episode-num>
     <category lang="en">Special Interest</category>
     <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/1181477/image/334x188" />
-    <rating system="AU">
-      <value>PG</value>
-    </rating>
-  </programme><programme channel="10-Sydney-AU" start="20260517080000 +0500" stop="20260517090000 +0500">
-    <title>Dogs Behaving (Very) Badly</title>
-    <sub-title />
-    <desc>Kora is a German Shepherd who has imposed a ban on beer bottles in her house. The Dogfather deals 2 King Charles Cavaliers who have a meltdown every time their parents make a dash for the door.</desc>
-    <episode-num system="onscreen">S3 E2</episode-num>
-    <category lang="en">Special Interest</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/386506/image/334x188" />
-    <rating system="AU">
-      <value>PG</value>
-    </rating>
-  </programme><programme channel="10-Sydney-AU" start="20260517090000 +0500" stop="20260517093000 +0500">
-    <title>Deal or No Deal Australia</title>
-    <sub-title />
-    <desc>Elaine has come along to win enough money to take her family to Airlie Beach. The last time she went she won the trip and got stuck on a bus for 48hrs. Will she win enough to go in style this time?</desc>
-    <episode-num system="onscreen">S3 E3</episode-num>
-    <category lang="en">Special Interest</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/427295/image/334x188" />
-    <rating system="AU">
-      <value>PG</value>
-    </rating>
-  </programme><programme channel="10-Sydney-AU" start="20260517093000 +0500" stop="20260517100000 +0500">
-    <title>Millionaire Hot Seat</title>
-    <sub-title />
-    <desc>Among the six contestants in this episode are a restaurant manager chasing a 15-year mystery, a long-time football commentator, and someone who swears he once met Tom Cruise (he just can't prove it!).</desc>
-    <episode-num system="onscreen">S16 E184</episode-num>
-    <category lang="en">Special Interest</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/325091/image/334x188" />
-    <rating system="AU">
-      <value>PG</value>
-    </rating>
-  </programme><programme channel="10-Sydney-AU" start="20260517100000 +0500" stop="20260517110000 +0500">
-    <title>Wheel Of Fortune Australia</title>
-    <sub-title />
-    <desc>Graham Norton welcomes you to Wheel of Fortune Australia as three new players attempt to solve puzzles and spin the wheel to be in with the chance of winning $50,000!</desc>
-    <episode-num system="onscreen">S1 E4</episode-num>
-    <category lang="en">Special Interest</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/11295108/image/334x188" />
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/11400566/image/334x188" />
     <rating system="AU">
       <value>G</value>
     </rating>
-  </programme><programme channel="10-Sydney-AU" start="20260517110000 +0500" stop="20260517120000 +0500">
-    <title>Lingo</title>
-    <sub-title />
-    <desc>A quiz in which three pairs of contestants go head-to-head, using their powers of deduction quickly to work out the words that appear in the Lingo grids and puzzle-words.</desc>
-    <episode-num system="onscreen">S5 E19</episode-num>
-    <category lang="en">Special Interest</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/413815/image/334x188" />
-    <rating system="AU">
-      <value>G</value>
-    </rating>
-  </programme><programme channel="10-Sydney-AU" start="20260517120000 +0500" stop="20260517133000 +0500">
-    <title>10 News</title>
-    <sub-title>Sunday 17 May 2026</sub-title>
-    <desc>Comprehensive coverage of local, national and international news. Plus, all the latest sport and weather.</desc>
-    <episode-num system="onscreen">E40</episode-num>
-    <category lang="en">News</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/437419/image/334x188" />
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme><programme channel="10-Sydney-AU" start="20260517133000 +0500" stop="20260517140000 +0500">
-    <title>10 News+</title>
-    <sub-title>Sunday 17 May 2026</sub-title>
-    <desc>10 News+ delivers in-depth coverage of today's top stories, investigative reports, and stories you haven't heard. Putting the truth first.</desc>
-    <episode-num system="onscreen">E114</episode-num>
-    <category lang="en">News</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/437112/image/334x188" />
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme><programme channel="10-Sydney-AU" start="20260517140000 +0500" stop="20260517151500 +0500">
+  </programme><programme channel="10-Sydney-AU" start="20260523090000 +0500" stop="20260523100000 +0500">
     <title>MasterChef Australia</title>
     <sub-title>MasterChef Australia Encore</sub-title>
-    <desc>Australian competitive cooking show based on the original British format, which sees the aspiring chefs perform under tough conditions of time and skill.</desc>
-    <episode-num system="onscreen">S18 E16</episode-num>
+    <desc>In an Around the World elimination challenge, MasterChef contestants must create a dish inspired by a chosen cuisine, featuring a surprise hero ingredient revealed only after they commit.</desc>
+    <episode-num system="onscreen">S18 E17</episode-num>
     <category lang="en">Special Interest</category>
     <language>en</language>
     <icon src="https://www.fetchtv.com.au/v2/epg/program/1181477/image/334x188" />
     <rating system="AU">
       <value>PG</value>
     </rating>
-  </programme><programme channel="10-Sydney-AU" start="20260517151500 +0500" stop="20260517163000 +0500">
-    <title>Race Across The World</title>
-    <sub-title />
-    <desc>The teams must navigate the full length of Thailand to reach the next checkpoint - Koh Phi Phi - an archipelago of islands immortalised by the Hollywood blockbuster movie The Beach.</desc>
-    <episode-num system="onscreen">S4 E5</episode-num>
-    <category lang="en">Special Interest</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/1998232/image/334x188" />
-    <rating system="AU">
-      <value>M</value>
-    </rating>
-  </programme><programme channel="10-Sydney-AU" start="20260517163000 +0500" stop="20260517173000 +0500">
-    <title>Taskmaster Australia</title>
-    <sub-title />
-    <desc>This week's prize task has our comedians trying to conceal the best thing in their mouth. The comedians debut their teams, and who will bring an Olympic level of cringe to the be cringe task.</desc>
-    <episode-num system="onscreen">S5 E2</episode-num>
-    <category lang="en">Special Interest</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/419901/image/334x188" />
-    <rating system="AU">
-      <value>M</value>
-    </rating>
-  </programme><programme channel="10-Sydney-AU" start="20260517173000 +0500" stop="20260517183000 +0500">
-    <title>NCIS: Origins</title>
-    <sub-title>Darlin' Don't Refrain</sub-title>
-    <desc>After the shocking developments in the Sandman case, the team works with the FBI to investigate further. While Wheeler struggles to hold onto his job, his family reaches a crisis point.</desc>
-    <episode-num system="onscreen">S1 E17</episode-num>
-    <category lang="en">Drama</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/432215/image/334x188" />
-    <rating system="AU">
-      <value>M</value>
-    </rating>
-  </programme><programme channel="10-Sydney-AU" start="20260517183000 +0500" stop="20260517190000 +0500">
-    <title>10 News+</title>
-    <sub-title>Sunday 17 May 2026</sub-title>
-    <desc>10 News+ delivers in-depth coverage of today's top stories, investigative reports, and stories you haven't heard. Putting the truth first.</desc>
-    <episode-num system="onscreen">E114</episode-num>
-    <category lang="en">News</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/437112/image/334x188" />
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme><programme channel="10-Sydney-AU" start="20260517190000 +0500" stop="20260517193000 +0500">
-    <title>Home Shopping</title>
-    <sub-title />
-    <desc>A show that offers a variety of product demonstrations and great deals for consumers looking to buy them.</desc>
-    <episode-num system="onscreen">E229</episode-num>
-    <category lang="en">Special Interest</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/234200/image/334x188" />
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme><programme channel="10-Sydney-AU" start="20260517193000 +0500" stop="20260517200000 +0500">
-    <title>Home Shopping</title>
-    <sub-title />
-    <desc>A show that offers a variety of product demonstrations and great deals for consumers looking to buy them.</desc>
-    <episode-num system="onscreen">E230</episode-num>
-    <category lang="en">Special Interest</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/234200/image/334x188" />
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme><programme channel="10-Sydney-AU" start="20260517200000 +0500" stop="20260517203000 +0500">
-    <title>Home Shopping</title>
-    <sub-title />
-    <desc>A show that offers a variety of product demonstrations and great deals for consumers looking to buy them.</desc>
-    <episode-num system="onscreen">E231</episode-num>
-    <category lang="en">Special Interest</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/234200/image/334x188" />
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme><programme channel="10-Sydney-AU" start="20260517203000 +0500" stop="20260517210000 +0500">
-    <title>Home Shopping</title>
-    <sub-title />
-    <desc>A show that offers a variety of product demonstrations and great deals for consumers looking to buy them.</desc>
-    <episode-num system="onscreen">E232</episode-num>
-    <category lang="en">Special Interest</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/234200/image/334x188" />
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme><programme channel="10-Sydney-AU" start="20260517210000 +0500" stop="20260517213000 +0500">
-    <title>Home Shopping</title>
-    <sub-title />
-    <desc>A show that offers a variety of product demonstrations and great deals for consumers looking to buy them.</desc>
-    <episode-num system="onscreen">E233</episode-num>
-    <category lang="en">Special Interest</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/234200/image/334x188" />
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme><programme channel="10-Sydney-AU" start="20260517213000 +0500" stop="20260517220000 +0500">
-    <title>Home Shopping</title>
-    <sub-title />
-    <desc>A show that offers a variety of product demonstrations and great deals for consumers looking to buy them.</desc>
-    <episode-num system="onscreen">E234</episode-num>
-    <category lang="en">Special Interest</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/234200/image/334x188" />
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme><programme channel="10-Sydney-AU" start="20260517220000 +0500" stop="20260517223000 +0500">
-    <title>Home Shopping</title>
-    <sub-title />
-    <desc>A show that offers a variety of product demonstrations and great deals for consumers looking to buy them.</desc>
-    <episode-num system="onscreen">E235</episode-num>
-    <category lang="en">Special Interest</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/234200/image/334x188" />
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme><programme channel="10-Sydney-AU" start="20260517223000 +0500" stop="20260517230000 +0500">
-    <title>Home Shopping</title>
-    <sub-title />
-    <desc>A show that offers a variety of product demonstrations and great deals for consumers looking to buy them.</desc>
-    <episode-num system="onscreen">E236</episode-num>
-    <category lang="en">Special Interest</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/234200/image/334x188" />
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme><programme channel="10-Sydney-AU" start="20260517230000 +0500" stop="20260517233000 +0500">
-    <title>Home Shopping</title>
-    <sub-title />
-    <desc>A show that offers a variety of product demonstrations and great deals for consumers looking to buy them.</desc>
-    <episode-num system="onscreen">E237</episode-num>
-    <category lang="en">Special Interest</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/234200/image/334x188" />
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme><programme channel="10-Sydney-AU" start="20260517233000 +0500" stop="20260518000000 +0500">
-    <title>Home Shopping</title>
-    <sub-title />
-    <desc>A show that offers a variety of product demonstrations and great deals for consumers looking to buy them.</desc>
-    <episode-num system="onscreen">E238</episode-num>
-    <category lang="en">Special Interest</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/234200/image/334x188" />
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme><programme channel="10-Sydney-AU" start="20260518000000 +0500" stop="20260518003000 +0500">
-    <title>Home Shopping</title>
-    <sub-title />
-    <desc>A show that offers a variety of product demonstrations and great deals for consumers looking to buy them.</desc>
-    <episode-num system="onscreen">E239</episode-num>
-    <category lang="en">Special Interest</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/234200/image/334x188" />
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme><programme channel="10-Sydney-AU" start="20260518003000 +0500" stop="20260518010000 +0500">
-    <title>Home Shopping</title>
-    <sub-title />
-    <desc>A show that offers a variety of product demonstrations and great deals for consumers looking to buy them.</desc>
-    <episode-num system="onscreen">E240</episode-num>
-    <category lang="en">Special Interest</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/234200/image/334x188" />
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme><programme channel="10-Sydney-AU" start="20260518010000 +0500" stop="20260518013000 +0500">
-    <title>Entertainment Tonight</title>
-    <sub-title />
-    <desc>Still the gold standard in entertainment news, ET delivers daily exclusives, red carpet coverage, and celebrity interviews.</desc>
-    <episode-num system="onscreen">S45 E178</episode-num>
-    <category lang="en">Special Interest</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/132140/image/334x188" />
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme><programme channel="10-Sydney-AU" start="20260518013000 +0500" stop="20260518020000 +0500">
-    <title>The Bold &amp; The Beautiful</title>
-    <desc>The fashion industry is ruled by the Forrester family in Beverly Hills. But behind the glitz and glamor, the Forresters encounter many hardships, including divorces, alcoholism, and deaths.</desc>
-    <episode-num system="onscreen">E9772</episode-num>
-    <category lang="en">Drama</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/132625/image/334x188" />
-    <rating system="AU">
-      <value>PG</value>
-    </rating>
-  </programme><programme channel="10-Sydney-AU" start="20260518020000 +0500" stop="20260518023000 +0500">
-    <title>Deal or No Deal Australia</title>
-    <sub-title />
-    <desc>As a self professed Gold Digger, Sandra wants to win enough money to buy a metal detector for her gold prospecting! One of 11 siblings, does Sandra have the Midas touch?</desc>
-    <episode-num system="onscreen">S2 E13</episode-num>
-    <category lang="en">Special Interest</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/427295/image/334x188" />
-    <rating system="AU">
-      <value>G</value>
-    </rating>
-  </programme><programme channel="10-Sydney-AU" start="20260518023000 +0500" stop="20260518030000 +0500">
-    <title>Good Chef Bad Chef</title>
-    <sub-title />
-    <desc>Good Chef Bad Chef presents viewers with a range of both healthy and indulgent recipes and meal ideas and lets them decide what is right for them.</desc>
-    <episode-num system="onscreen">S18 E45</episode-num>
-    <category lang="en">Special Interest</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/197122/image/334x188" />
-    <rating system="AU">
-      <value>G</value>
-    </rating>
-  </programme><programme channel="10-Sydney-AU" start="20260518030000 +0500" stop="20260518040000 +0500">
-    <title>Lingo</title>
-    <sub-title />
-    <desc>Adil Ray returns with the quiz, with friends Charlotte and Lucy, auntie and niece Sarah and Alyson, and couple Uzo and Lola taking part.</desc>
-    <episode-num system="onscreen">S3 E1</episode-num>
-    <category lang="en">Special Interest</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/413815/image/334x188" />
-    <rating system="AU">
-      <value>G</value>
-    </rating>
-  </programme><programme channel="10-Sydney-AU" start="20260518040000 +0500" stop="20260518050000 +0500">
+  </programme><programme channel="10-Sydney-AU" start="20260523100000 +0500" stop="20260523110000 +0500">
     <title>The Finish Line</title>
     <sub-title />
-    <desc>Roman Kemp returns to host the quiz show with sidekick Sarah Greene - contestants race in moving podiums across the studio floor. Correct answers get the players moving, wrong answers will stop them.</desc>
-    <episode-num system="onscreen">S3 E19</episode-num>
+    <desc>Simon, Nicola, Josh, Ryz and Becca race in moving podiums across the studio floor to try and win £5,000.</desc>
+    <episode-num system="onscreen">S2 E3</episode-num>
     <category lang="en">Special Interest</category>
     <language>en</language>
     <icon src="https://www.fetchtv.com.au/v2/epg/program/428456/image/334x188" />
     <rating system="AU">
       <value>G</value>
     </rating>
-  </programme><programme channel="10-Sydney-AU" start="20260518050000 +0500" stop="20260518052000 +0500">
-    <title>Entertainment Tonight</title>
+  </programme><programme channel="10-Sydney-AU" start="20260523110000 +0500" stop="20260523120000 +0500">
+    <title>Lingo</title>
     <sub-title />
-    <desc>Still the gold standard in entertainment news, ET delivers daily exclusives, red carpet coverage, and celebrity interviews.</desc>
-    <episode-num system="onscreen">S45 E179</episode-num>
+    <desc>A quiz in which three pairs of contestants go head-to-head, using their powers of deduction quickly to work out the words that appear in the Lingo grids and puzzle-words.</desc>
+    <episode-num system="onscreen">S4 E4</episode-num>
     <category lang="en">Special Interest</category>
     <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/132140/image/334x188" />
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme><programme channel="10-Sydney-AU" start="20260518052000 +0500" stop="20260518063000 +0500">
-    <title>MasterChef Australia</title>
-    <sub-title>MasterChef Australia Encore</sub-title>
-    <desc>Australian competitive cooking show based on the original British format, which sees the aspiring chefs perform under tough conditions of time and skill.</desc>
-    <episode-num system="onscreen">S18 E16</episode-num>
-    <category lang="en">Special Interest</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/1181477/image/334x188" />
-    <rating system="AU">
-      <value>PG</value>
-    </rating>
-  </programme><programme channel="10-Sydney-AU" start="20260518063000 +0500" stop="20260518070000 +0500">
-    <title>Everyday Gourmet With Justine Schofield</title>
-    <sub-title />
-    <desc>Justine Schofield along with special guests present a variety of delicious recipes for the home cook.</desc>
-    <episode-num system="onscreen">S15 E10</episode-num>
-    <category lang="en">Special Interest</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/266808/image/334x188" />
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/4705745/image/334x188" />
     <rating system="AU">
       <value>G</value>
     </rating>
-  </programme><programme channel="10-Sydney-AU" start="20260518070000 +0500" stop="20260518073000 +0500">
+  </programme><programme channel="10-Sydney-AU" start="20260523120000 +0500" stop="20260523123000 +0500">
+    <title>10 News</title>
+    <sub-title>Saturday 23 May 2026</sub-title>
+    <desc>Comprehensive coverage of local, national and international news. Plus, all the latest sport and weather.</desc>
+    <episode-num system="onscreen">E41</episode-num>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/437419/image/334x188" />
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme><programme channel="10-Sydney-AU" start="20260523123000 +0500" stop="20260523160000 +0500">
+    <title>A-League Grand Final</title>
+    <sub-title>Grand Final: Auckland Fc V Sydney Fc</sub-title>
+    <desc>Auckland FC take on Sydney FC in the 2026 Isuzu UTE A-League Grand Final, with the championship on the line in the season decider. Live coverage from 5.30pm AEST, kick off at 6.15pm AEST.</desc>
+    <episode-num system="onscreen">E287</episode-num>
+    <category lang="en">Sports</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/20772970/image/334x188" />
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme><programme channel="10-Sydney-AU" start="20260523160000 +0500" stop="20260523170000 +0500">
+    <title>Ambulance Australia</title>
+    <sub-title />
+    <desc>The team deals with a diabetic coma. Meanwhile, a passenger needs to be rescued from a burning car, an anaphylactic child requires immediate attention and an explosion rocks Chinatown.</desc>
+    <episode-num system="onscreen">S5 E4</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/377981/image/334x188" />
+    <rating system="AU">
+      <value>M</value>
+    </rating>
+  </programme><programme channel="10-Sydney-AU" start="20260523170000 +0500" stop="20260523180000 +0500">
+    <title>Ambulance Australia</title>
+    <sub-title>Life and Death</sub-title>
+    <desc>In tonight's season premiere, we follow Shane and Shelly, who must help a patient in need of urgent care after an incident involving a car. It's classified as a code 1A - the most serious emergency.</desc>
+    <episode-num system="onscreen">S4 E1</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/377981/image/334x188" />
+    <rating system="AU">
+      <value>M</value>
+    </rating>
+  </programme><programme channel="10-Sydney-AU" start="20260523180000 +0500" stop="20260523190000 +0500">
+    <title>Elsbeth</title>
+    <sub-title>High Class Problems</sub-title>
+    <desc>After a billionaire's son dies in a motorcycle crash, Elsbeth investigates a wealth therapist whose knowledge of her patients' secrets led to murder,.</desc>
+    <episode-num system="onscreen">S3 E17</episode-num>
+    <category lang="en">Drama</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/429757/image/334x188" />
+    <rating system="AU">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="10-Sydney-AU" start="20260523190000 +0500" stop="20260523193000 +0500">
+    <title>Home Shopping</title>
+    <sub-title />
+    <desc>A show that offers a variety of product demonstrations and great deals for consumers looking to buy them.</desc>
+    <episode-num system="onscreen">E8</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/234200/image/334x188" />
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme><programme channel="10-Sydney-AU" start="20260523193000 +0500" stop="20260523200000 +0500">
+    <title>Home Shopping</title>
+    <sub-title />
+    <desc>A show that offers a variety of product demonstrations and great deals for consumers looking to buy them.</desc>
+    <episode-num system="onscreen">E9</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/234200/image/334x188" />
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme><programme channel="10-Sydney-AU" start="20260523200000 +0500" stop="20260523203000 +0500">
+    <title>Home Shopping</title>
+    <sub-title />
+    <desc>A show that offers a variety of product demonstrations and great deals for consumers looking to buy them.</desc>
+    <episode-num system="onscreen">E73</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/234200/image/334x188" />
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme><programme channel="10-Sydney-AU" start="20260523203000 +0500" stop="20260523210000 +0500">
+    <title>Home Shopping</title>
+    <sub-title />
+    <desc>A show that offers a variety of product demonstrations and great deals for consumers looking to buy them.</desc>
+    <episode-num system="onscreen">E74</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/234200/image/334x188" />
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme><programme channel="10-Sydney-AU" start="20260523210000 +0500" stop="20260523213000 +0500">
+    <title>Home Shopping</title>
+    <sub-title />
+    <desc>A show that offers a variety of product demonstrations and great deals for consumers looking to buy them.</desc>
+    <episode-num system="onscreen">E75</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/234200/image/334x188" />
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme><programme channel="10-Sydney-AU" start="20260523213000 +0500" stop="20260523220000 +0500">
+    <title>Home Shopping</title>
+    <sub-title />
+    <desc>A show that offers a variety of product demonstrations and great deals for consumers looking to buy them.</desc>
+    <episode-num system="onscreen">E76</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/234200/image/334x188" />
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme><programme channel="10-Sydney-AU" start="20260523220000 +0500" stop="20260523223000 +0500">
+    <title>Home Shopping</title>
+    <sub-title />
+    <desc>A show that offers a variety of product demonstrations and great deals for consumers looking to buy them.</desc>
+    <episode-num system="onscreen">E77</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/234200/image/334x188" />
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme><programme channel="10-Sydney-AU" start="20260523223000 +0500" stop="20260523230000 +0500">
+    <title>Home Shopping</title>
+    <sub-title />
+    <desc>Paid programming.</desc>
+    <episode-num system="onscreen">E78</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/234200/image/334x188" />
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme><programme channel="10-Sydney-AU" start="20260523230000 +0500" stop="20260523233000 +0500">
+    <title>Home Shopping</title>
+    <sub-title />
+    <desc>A show that offers a variety of product demonstrations and great deals for consumers looking to buy them.</desc>
+    <episode-num system="onscreen">E79</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/234200/image/334x188" />
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme><programme channel="10-Sydney-AU" start="20260523233000 +0500" stop="20260524000000 +0500">
+    <title>Home Shopping</title>
+    <sub-title />
+    <desc>A show that offers a variety of product demonstrations and great deals for consumers looking to buy them.</desc>
+    <episode-num system="onscreen">E80</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/234200/image/334x188" />
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme><programme channel="10-Sydney-AU" start="20260524000000 +0500" stop="20260524010000 +0500">
+    <title>Hour Of Power</title>
+    <sub-title />
+    <desc>Hour Of Power with Bobby Schuller equips you with the tools you need to become a flourishing apprentice of Jesus.</desc>
+    <episode-num system="onscreen">E87</episode-num>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/131302/image/334x188" />
+    <rating system="AU">
+      <value>G</value>
+    </rating>
+  </programme><programme channel="10-Sydney-AU" start="20260524010000 +0500" stop="20260524013000 +0500">
+    <title>Mass For You At Home</title>
+    <sub-title />
+    <desc>Mass for You at Home brings the Catholic Mass to those unable to be physically present.</desc>
+    <episode-num system="onscreen">E21</episode-num>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/131378/image/334x188" />
+    <rating system="AU">
+      <value>G</value>
+    </rating>
+  </programme><programme channel="10-Sydney-AU" start="20260524013000 +0500" stop="20260524020000 +0500">
+    <title>Key Of David</title>
+    <sub-title />
+    <desc>World events from a faith-based perspective.</desc>
+    <episode-num system="onscreen">E25</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/133265/image/334x188" />
+    <rating system="AU">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="10-Sydney-AU" start="20260524020000 +0500" stop="20260524023000 +0500">
+    <title>Joseph Prince: New Creation Church</title>
+    <sub-title>623 Live With A Heavenly Perspective</sub-title>
+    <desc>Pastor Joseph Prince is a leading voice in proclaiming the gospel of grace around the world. He is the senior pastor of New Creation Church, a vibrant and fast-growing church in Singapore.</desc>
+    <episode-num system="onscreen">E73</episode-num>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/307848/image/334x188" />
+    <rating system="AU">
+      <value>G</value>
+    </rating>
+  </programme><programme channel="10-Sydney-AU" start="20260524023000 +0500" stop="20260524030000 +0500">
+    <title>Buy To Build</title>
+    <sub-title />
+    <desc>Each episode, Walt Collins helps house hunters explore the country's latest display homes and land developments to find the perfect home to suit their needs.</desc>
+    <episode-num system="onscreen">S7 E7</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/380965/image/334x188" />
+    <rating system="AU">
+      <value>G</value>
+    </rating>
+  </programme><programme channel="10-Sydney-AU" start="20260524030000 +0500" stop="20260524033000 +0500">
+    <title>10 Minute Kitchen</title>
+    <sub-title />
+    <desc>The impossible is now possible with 10 Minute Kitchen - a celebration of creative, easy, budget and family-friendly meals that anyone can cook at home.</desc>
+    <episode-num system="onscreen">S3 E2</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/6026469/image/334x188" />
+    <rating system="AU">
+      <value>G</value>
+    </rating>
+  </programme><programme channel="10-Sydney-AU" start="20260524033000 +0500" stop="20260524040000 +0500">
+    <title>My Market Kitchen</title>
+    <sub-title />
+    <desc>Celebrity Cook and successful restauranteur Laura Sharrad is joined by a variety of chefs and food producers in the iconic Prahran Market, cooking a variety of delicious and easy to follow recipes.</desc>
+    <episode-num system="onscreen">S9 E13</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/348538/image/334x188" />
+    <rating system="AU">
+      <value>G</value>
+    </rating>
+  </programme><programme channel="10-Sydney-AU" start="20260524040000 +0500" stop="20260524043000 +0500">
+    <title>Freshly Picked With Simon Toohey</title>
+    <sub-title />
+    <desc>Join Simon Toohey in Freshly Picked, packed with bold flavours, creative plant-based dishes, and a celebration of sustainable cooking.</desc>
+    <episode-num system="onscreen">S4 E5</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/400398/image/334x188" />
+    <rating system="AU">
+      <value>G</value>
+    </rating>
+  </programme><programme channel="10-Sydney-AU" start="20260524043000 +0500" stop="20260524050000 +0500">
+    <title>Luca's Key Ingredient</title>
+    <sub-title />
+    <desc>Chef Luca Ciano delivers the ultimate in recipe inspiration with his fresh and original Italian style creations.</desc>
+    <episode-num system="onscreen">S5 E1</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/3185744/image/334x188" />
+    <rating system="AU">
+      <value>G</value>
+    </rating>
+  </programme><programme channel="10-Sydney-AU" start="20260524050000 +0500" stop="20260524053000 +0500">
+    <title>The Chef's Garden</title>
+    <sub-title />
+    <desc>Chef Massimo Mele undertakes a unique Tasmanian journey, uncovering the local way of life, visiting the local farms and growers and meeting the proud and passionate producers and local artisans.</desc>
+    <episode-num system="onscreen">S2 E2</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/6272529/image/334x188" />
+    <rating system="AU">
+      <value>G</value>
+    </rating>
+  </programme><programme channel="10-Sydney-AU" start="20260524053000 +0500" stop="20260524054000 +0500">
     <title>Good Chef Bad Chef</title>
     <sub-title />
-    <desc>Good Chef Bad Chef presents viewers with a range of both healthy and indulgent recipes and meal ideas and lets them decide what is right for them.</desc>
-    <episode-num system="onscreen">S18 E46</episode-num>
+    <desc>Mike, Jacq, Tim and Jo create stunning dishes, balancing bold flavours and wholesome ingredients. Every meal is a delight. What will you try first?</desc>
+    <episode-num system="onscreen">S17 E19</episode-num>
     <category lang="en">Special Interest</category>
     <language>en</language>
     <icon src="https://www.fetchtv.com.au/v2/epg/program/197122/image/334x188" />
     <rating system="AU">
       <value>G</value>
     </rating>
-  </programme><programme channel="10-Sydney-AU" start="20260518073000 +0500" stop="20260518080000 +0500">
-    <title>Family Feud</title>
-    <sub-title />
-    <desc>Steve Harvey hosts Family Feud, bringing hilarious moments and families together to compete for a chance to win up to $20,000 by guessing the most popular answers to questions.</desc>
-    <episode-num system="onscreen">S21 E151</episode-num>
+  </programme><programme channel="10-Sydney-AU" start="20260524054000 +0500" stop="20260524065000 +0500">
+    <title>MasterChef Australia</title>
+    <sub-title>MasterChef Australia Encore</sub-title>
+    <desc>It's a fusion invention test today with the contestants having to make dish featuring cuisines from two countries.</desc>
+    <episode-num system="onscreen">S18 E18</episode-num>
     <category lang="en">Special Interest</category>
     <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/20571/image/334x188" />
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/1181477/image/334x188" />
     <rating system="AU">
       <value>PG</value>
     </rating>
-  </programme><programme channel="10-Sydney-AU" start="20260518080000 +0500" stop="20260518090000 +0500">
-    <title>10 News: Lunchtime</title>
-    <sub-title>Monday 18 May 2026</sub-title>
+  </programme><programme channel="10-Sydney-AU" start="20260524065000 +0500" stop="20260524080000 +0500">
+    <title>MasterChef Australia</title>
+    <sub-title>MasterChef Australia Encore</sub-title>
+    <desc>Chef Rosheen Kaul sets the first full Pressure Test for the season, with an intense, three-hour challenge.</desc>
+    <episode-num system="onscreen">S18 E19</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/1181477/image/334x188" />
+    <rating system="AU">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="10-Sydney-AU" start="20260524080000 +0500" stop="20260524090000 +0500">
+    <title>Dogs Behaving (Very) Badly</title>
+    <sub-title />
+    <desc>A ravenous Lab is eating his family out of house and home. Graeme's heading to the outback to help a country music DJ who's risking life and limb every time she steps out with her Staffy.</desc>
+    <episode-num system="onscreen">S3 E3</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/386506/image/334x188" />
+    <rating system="AU">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="10-Sydney-AU" start="20260524090000 +0500" stop="20260524093000 +0500">
+    <title>Deal or No Deal Australia</title>
+    <sub-title />
+    <desc>Gary is here on The Deal wanting to take his fiance of 25 years on a honeymoon... They just need to get married first!</desc>
+    <episode-num system="onscreen">S3 E78</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/427295/image/334x188" />
+    <rating system="AU">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="10-Sydney-AU" start="20260524093000 +0500" stop="20260524100000 +0500">
+    <title>Millionaire Hot Seat</title>
+    <sub-title />
+    <desc>Vivacious disability support worker Jess competes against five other hopefuls. Among them, space enthusiast Warren and passionate potter Susan.</desc>
+    <episode-num system="onscreen">S16 E108</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/325091/image/334x188" />
+    <rating system="AU">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="10-Sydney-AU" start="20260524100000 +0500" stop="20260524110000 +0500">
+    <title>Wheel Of Fortune Australia</title>
+    <sub-title />
+    <desc>Contestants in three spots contend with a wheel of chance in an effort to win various amounts of cash and prizes, including luxury cars and vacation trips, for simply solving word puzzles by filling in missing letters.</desc>
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/11295108/image/334x188" />
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme><programme channel="10-Sydney-AU" start="20260524110000 +0500" stop="20260524120000 +0500">
+    <title>Lingo</title>
+    <sub-title />
+    <desc>A quiz in which three pairs of contestants go head-to-head, using their powers of deduction quickly to work out the words that appear in the Lingo grids and puzzle-words.</desc>
+    <episode-num system="onscreen">S4 E5</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/4705745/image/334x188" />
+    <rating system="AU">
+      <value>G</value>
+    </rating>
+  </programme><programme channel="10-Sydney-AU" start="20260524120000 +0500" stop="20260524133000 +0500">
+    <title>10 News</title>
+    <sub-title>Sunday 24 May 2026</sub-title>
     <desc>Comprehensive coverage of local, national and international news. Plus, all the latest sport and weather.</desc>
-    <episode-num system="onscreen">E91</episode-num>
+    <episode-num system="onscreen">E42</episode-num>
     <category lang="en">News</category>
     <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/437417/image/334x188" />
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/437419/image/334x188" />
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme><programme channel="10-Sydney-AU" start="20260524133000 +0500" stop="20260524140000 +0500">
+    <title>10 News</title>
+    <sub-title>Sunday 24 May 2026</sub-title>
+    <desc>10 News+ delivers in-depth coverage of today's top stories, investigative reports, and stories you haven't heard. Putting the truth first.</desc>
+    <episode-num system="onscreen">E120</episode-num>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/437419/image/334x188" />
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme><programme channel="10-Sydney-AU" start="20260524140000 +0500" stop="20260524151500 +0500">
+    <title>MasterChef Australia</title>
+    <sub-title />
+    <desc>Australian competitive cooking show based on the original British format, which sees the aspiring chefs perform under tough conditions of time and skill.</desc>
+    <episode-num system="onscreen">S18 E20</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/1181477/image/334x188" />
+    <rating system="AU">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="10-Sydney-AU" start="20260524151500 +0500" stop="20260524163000 +0500">
+    <title>Race Across The World</title>
+    <sub-title />
+    <desc>After leaving the islands of Koh Phi Phi, the teams face a giant leap into the unknown.</desc>
+    <episode-num system="onscreen">S4 E6</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/1998232/image/334x188" />
+    <rating system="AU">
+      <value>M</value>
+    </rating>
+  </programme><programme channel="10-Sydney-AU" start="20260524163000 +0500" stop="20260524173000 +0500">
+    <title>Taskmaster Australia</title>
+    <sub-title />
+    <desc>Tough-love Taskmaster Tom Gleeson, along with his loyal sidekick Tom Cashman, put a batch of comedians through their comedic paces.</desc>
+    <episode-num system="onscreen">E3</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/419901/image/334x188" />
+    <rating system="AU">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="10-Sydney-AU" start="20260524173000 +0500" stop="20260524183000 +0500">
+    <title>NCIS: Origins</title>
+    <sub-title>Cecilia</sub-title>
+    <desc>After Farmer Hoggett is injured and cannot work, Mrs. Hoggett takes Babe to an out-of-town fair for a paid appearance in order to save the farm from foreclosure, but they are forced to spend the night in a strange city, where they get separated.</desc>
+    <episode-num system="onscreen">S1 E18</episode-num>
+    <category lang="en">Drama</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/432215/image/334x188" />
+    <rating system="AU">
+      <value>M</value>
+    </rating>
+  </programme><programme channel="10-Sydney-AU" start="20260524183000 +0500" stop="20260524190000 +0500">
+    <title>10 News</title>
+    <sub-title>10 News+  Encore</sub-title>
+    <desc>10 News+ delivers in-depth coverage of today's top stories, investigative reports, and stories you haven't heard. Putting the truth first.</desc>
+    <episode-num system="onscreen">E120</episode-num>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/437419/image/334x188" />
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme><programme channel="10-Sydney-AU" start="20260524190000 +0500" stop="20260524193000 +0500">
+    <title>Home Shopping</title>
+    <sub-title />
+    <desc>A show that offers a variety of product demonstrations and great deals for consumers looking to buy them.</desc>
+    <episode-num system="onscreen">E241</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/234200/image/334x188" />
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme><programme channel="10-Sydney-AU" start="20260524193000 +0500" stop="20260524200000 +0500">
+    <title>Home Shopping</title>
+    <sub-title />
+    <desc>A show that offers a variety of product demonstrations and great deals for consumers looking to buy them.</desc>
+    <episode-num system="onscreen">E242</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/234200/image/334x188" />
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme><programme channel="10-Sydney-AU" start="20260524200000 +0500" stop="20260524203000 +0500">
+    <title>Home Shopping</title>
+    <sub-title />
+    <desc>A show that offers a variety of product demonstrations and great deals for consumers looking to buy them.</desc>
+    <episode-num system="onscreen">E243</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/234200/image/334x188" />
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme><programme channel="10-Sydney-AU" start="20260524203000 +0500" stop="20260524210000 +0500">
+    <title>Home Shopping</title>
+    <sub-title />
+    <desc>A show that offers a variety of product demonstrations and great deals for consumers looking to buy them.</desc>
+    <episode-num system="onscreen">E244</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/234200/image/334x188" />
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme><programme channel="10-Sydney-AU" start="20260524210000 +0500" stop="20260524213000 +0500">
+    <title>Home Shopping</title>
+    <sub-title />
+    <desc>A show that offers a variety of product demonstrations and great deals for consumers looking to buy them.</desc>
+    <episode-num system="onscreen">E245</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/234200/image/334x188" />
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme><programme channel="10-Sydney-AU" start="20260524213000 +0500" stop="20260524220000 +0500">
+    <title>Home Shopping</title>
+    <sub-title />
+    <desc>A show that offers a variety of product demonstrations and great deals for consumers looking to buy them.</desc>
+    <episode-num system="onscreen">E246</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/234200/image/334x188" />
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme><programme channel="10-Sydney-AU" start="20260524220000 +0500" stop="20260524223000 +0500">
+    <title>Home Shopping</title>
+    <sub-title />
+    <desc>A show that offers a variety of product demonstrations and great deals for consumers looking to buy them.</desc>
+    <episode-num system="onscreen">E247</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/234200/image/334x188" />
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme><programme channel="10-Sydney-AU" start="20260524223000 +0500" stop="20260524230000 +0500">
+    <title>Home Shopping</title>
+    <sub-title />
+    <desc>A show that offers a variety of product demonstrations and great deals for consumers looking to buy them.</desc>
+    <episode-num system="onscreen">E248</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/234200/image/334x188" />
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme><programme channel="10-Sydney-AU" start="20260524230000 +0500" stop="20260524233000 +0500">
+    <title>Home Shopping</title>
+    <sub-title />
+    <desc>A show that offers a variety of product demonstrations and great deals for consumers looking to buy them.</desc>
+    <episode-num system="onscreen">E249</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/234200/image/334x188" />
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme><programme channel="10-Sydney-AU" start="20260524233000 +0500" stop="20260525000000 +0500">
+    <title>Home Shopping</title>
+    <sub-title />
+    <desc>A show that offers a variety of product demonstrations and great deals for consumers looking to buy them.</desc>
+    <episode-num system="onscreen">E250</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/234200/image/334x188" />
     <rating system="AU">
       <value>NR</value>
     </rating>
