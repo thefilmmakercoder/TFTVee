@@ -4,59 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-24T03:00:00+05:00",
-      "stop": "2026-05-24T03:30:00+05:00",
-      "title": "Global News at 6",
-      "desc": "Greater Toronto's top local news stories and latest weather forecast.",
-      "date": "2012",
-      "language": "en",
-      "categories": [
-        "News",
-        "Weather"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p9123094_b_h10_ab.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-24T03:30:00+05:00",
-      "stop": "2026-05-24T04:00:00+05:00",
-      "title": "Global National",
-      "desc": "The top stories from around the world.",
-      "date": "2026",
-      "language": "en",
-      "rating": "TVG",
-      "categories": [
-        "Series",
-        "News"
-      ],
-      "episode": "E143",
-      "icon": "http://dtil.tmsimg.com/assets/p185876_b_h8_ae.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Dawna Friesen"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-24T04:00:00+05:00",
-      "stop": "2026-05-24T04:30:00+05:00",
-      "title": "Border Security: America's Front Line",
-      "desc": "Cameras follow U.S. border protection agencies as they man the front lines of national security.",
-      "date": "2020",
-      "language": "en",
-      "rating": "TV14",
-      "categories": [
-        "Series",
-        "Documentary",
-        "Crime"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p26319781_b_h10_ab.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Jeff Cole"
-        ]
-      }
-    },
-    {
       "start": "2026-05-24T04:30:00+05:00",
       "stop": "2026-05-24T05:00:00+05:00",
       "title": "Border Security: America's Front Line",
@@ -124,6 +71,70 @@
           "Luke Roberts",
           "Brandon Jay McLaren",
           "Nazneen Contractor"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-24T07:00:00+05:00",
+      "stop": "2026-05-24T08:00:00+05:00",
+      "title": "Salvage Kings",
+      "sub_title": "Taking Flight",
+      "desc": "Ted and the salvage team undertake the challenge of salvaging a decommissioned 727 airplane; while Ted scrambles for buyers, the pressure mounts as Ryan wants to see the airplane sold for scrap.",
+      "date": "2021",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Reality",
+        "Collectibles",
+        "Documentary"
+      ],
+      "episode": "S2 E5",
+      "icon": "http://dtil.tmsimg.com/assets/p17306565_b_h8_ah.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Jonathan Dueck"
+        ],
+        "actor": [
+          "Ted Finch",
+          "Justin Fortin",
+          "Ryan Priestly"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-24T08:00:00+05:00",
+      "stop": "2026-05-24T08:29:00+05:00",
+      "title": "Global News at 11",
+      "desc": "Greater Toronto's top local news stories and latest weather forecast.",
+      "date": "2012",
+      "language": "en",
+      "categories": [
+        "News",
+        "Weather"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p9123089_b_h10_ab.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-24T08:29:00+05:00",
+      "stop": "2026-05-24T10:02:00+05:00",
+      "title": "Saturday Night Live",
+      "sub_title": "Finn Wolfhard; A$AP Rocky",
+      "desc": "Host Finn Wolfhard; A$AP Rocky performs.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "Series",
+        "Comedy"
+      ],
+      "episode": "S51 E10",
+      "icon": "http://dtil.tmsimg.com/assets/p183890_b_h8_at.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Michael Che",
+          "Mikey Day",
+          "Chloe Fineman"
         ]
       }
     }

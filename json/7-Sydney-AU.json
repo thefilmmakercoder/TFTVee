@@ -4,20 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-24T01:00:00+05:00",
-      "stop": "2026-05-24T02:00:00+05:00",
-      "title": "NBC Today",
-      "sub_title": "Sunday 24 May 2026",
-      "desc": "International news and weather including interviews with newsmakers in the world of politics, business, media, entertainment and sport.",
-      "language": "en",
-      "rating": "NR",
-      "categories": [
-        "News"
-      ],
-      "episode": "S26 E143",
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/132440/image/334x188"
-    },
-    {
       "start": "2026-05-24T02:00:00+05:00",
       "stop": "2026-05-24T05:00:00+05:00",
       "title": "Weekend Sunrise",
@@ -83,6 +69,19 @@
       ],
       "episode": "S2 E17",
       "icon": "https://www.fetchtv.com.au/v2/epg/program/314872/image/334x188"
+    },
+    {
+      "start": "2026-05-24T11:00:00+05:00",
+      "stop": "2026-05-24T12:00:00+05:00",
+      "title": "Better Homes And Gardens",
+      "desc": "Dr Harry helps a French Bulldog to stop chasing the broom. Clarissa shows you how to make her classic Vietnamese spring rolls. Melissa visits Jurlique Farm, nestled in the Adelaide Hills.",
+      "language": "en",
+      "rating": "G",
+      "categories": [
+        "Special Interest"
+      ],
+      "episode": "S32 E15",
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/133227/image/334x188"
     }
   ]
 }

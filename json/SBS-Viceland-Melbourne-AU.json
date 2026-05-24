@@ -4,44 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-24T03:00:00+05:00",
-      "stop": "2026-05-24T03:10:00+05:00",
-      "title": "Euronews",
-      "sub_title": "Sunday 24 May 2026",
-      "desc": "Headlines, Breaking News & Analysis from the Euronews news centre in Brussels, Belgium, in English.",
-      "language": "en",
-      "rating": "NR",
-      "categories": [
-        "News"
-      ],
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/276/image/334x188"
-    },
-    {
-      "start": "2026-05-24T03:10:00+05:00",
-      "stop": "2026-05-24T03:40:00+05:00",
-      "title": "DW Global Us",
-      "sub_title": "Sunday 24 May 2026",
-      "desc": "Deutsche Welle's news magazine looks at the issues that are moving us today and shows how people are living with the opportunities and risks of globalisation.",
-      "language": "en",
-      "rating": "M",
-      "categories": [
-        "Special Interest"
-      ],
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/224193/image/334x188"
-    },
-    {
-      "start": "2026-05-24T03:40:00+05:00",
-      "stop": "2026-05-24T04:30:00+05:00",
-      "title": "Cbc The National",
-      "desc": "CBC's flagship nightly news with hosts Adrienne Arsenault and Andrew Chang from Toronto, Canada.",
-      "language": "en",
-      "rating": "NR",
-      "categories": [
-        "News"
-      ],
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/413666/image/334x188"
-    },
-    {
       "start": "2026-05-24T04:30:00+05:00",
       "stop": "2026-05-24T05:00:00+05:00",
       "title": "PBS News Horizons",
@@ -80,6 +42,47 @@
       ],
       "episode": "E14",
       "icon": "https://www.fetchtv.com.au/v2/epg/program/130483/image/334x188"
+    },
+    {
+      "start": "2026-05-24T06:05:00+05:00",
+      "stop": "2026-05-24T06:40:00+05:00",
+      "title": "The Movie Show",
+      "sub_title": "Cannes Film Festival",
+      "desc": "Film review show from Cannes with David Stratton and Margaret Pomeranz, featuring Pulp Fiction, Muriel's Wedding and more.",
+      "language": "en",
+      "rating": "NR",
+      "categories": [
+        "Special Interest"
+      ],
+      "episode": "E15",
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/130483/image/334x188"
+    },
+    {
+      "start": "2026-05-24T06:40:00+05:00",
+      "stop": "2026-05-24T07:15:00+05:00",
+      "title": "The Movie Show",
+      "desc": "Film review show with Margaret Pomeranz and David Stratton, featuring Fearless, The Last Seduction and more, plus interviews with Peter Weir and cast.",
+      "language": "en",
+      "rating": "NR",
+      "categories": [
+        "Special Interest"
+      ],
+      "episode": "E16",
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/130483/image/334x188"
+    },
+    {
+      "start": "2026-05-24T07:15:00+05:00",
+      "stop": "2026-05-24T08:15:00+05:00",
+      "title": "World Superbikes",
+      "sub_title": "Round 5, Czech Round",
+      "desc": "The Autodrom Most in Czechia plays host to round five of the 2026 World Superbike Championship, as the season fast approaches the halfway point.",
+      "language": "en",
+      "rating": "NR",
+      "categories": [
+        "Sports"
+      ],
+      "episode": "E6",
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/306320/image/334x188"
     }
   ]
 }

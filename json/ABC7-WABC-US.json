@@ -4,50 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-24T03:00:00+05:00",
-      "stop": "2026-05-24T03:30:00+05:00",
-      "title": "Eyewitness News at 6",
-      "desc": "Stay informed with the latest breaking news and headlines.",
-      "date": "2017",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p13769035_b_h8_ab.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-24T03:30:00+05:00",
-      "stop": "2026-05-24T04:00:00+05:00",
-      "title": "ABC World News Tonight With David Muir",
-      "desc": "Delivering the news that matters most.",
-      "date": "2026",
-      "language": "en",
-      "categories": [
-        "Series",
-        "News"
-      ],
-      "episode": "E143",
-      "icon": "http://dtil.tmsimg.com/assets/p10880351_b_h8_ah.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "David Muir"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-24T04:00:00+05:00",
-      "stop": "2026-05-24T04:30:00+05:00",
-      "title": "Kickoff to Long Island Summer",
-      "desc": "WABC-TV delivers premier local news and community programming for the New York tri-state area, specializing in breaking news coverage, investigative journalism, and high-profile live events.",
-      "date": "2026",
-      "language": "en",
-      "categories": [
-        "Special",
-        "Community"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p33128325_st_h10_aa.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-05-24T04:30:00+05:00",
       "stop": "2026-05-24T05:00:00+05:00",
       "title": "Wheel of Fortune",
@@ -98,6 +54,66 @@
           "Ernie Johnson",
           "Charles Barkley",
           "Kenny Smith"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-24T08:30:00+05:00",
+      "stop": "2026-05-24T09:00:00+05:00",
+      "title": "Eyewitness News at 11",
+      "desc": "Breaking news.",
+      "date": "2017",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p13769039_b_h8_ab.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-24T09:00:00+05:00",
+      "stop": "2026-05-24T10:00:00+05:00",
+      "title": "9-1-1",
+      "sub_title": "Future Tense",
+      "desc": "The team races to save a man under siege by his high-tech smart home; a yoga teacher loses her vision; Athena hunts down a bank robber disguised by COVID-19 protocols; members of the 118's crew prepare for an out-of-state mission.",
+      "date": "2021",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "Series",
+        "Drama",
+        "Action"
+      ],
+      "episode": "S4 E3",
+      "icon": "http://dtil.tmsimg.com/assets/p14154513_b_h8_bg.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Angela Bassett",
+          "Peter Krause",
+          "Oliver Stark"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-24T10:00:00+05:00",
+      "stop": "2026-05-24T11:00:00+05:00",
+      "title": "9-1-1",
+      "sub_title": "9-1-1, What's Your Grievance?",
+      "desc": "Athena investigates a mysterious murder during a neighborhood block party; the 118 rush to save lives endangered by a bomb threat; Chimney has a hard time keeping secrets when Maddie and Buck's parents come to town.",
+      "date": "2021",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "Series",
+        "Drama",
+        "Action"
+      ],
+      "episode": "S4 E4",
+      "icon": "http://dtil.tmsimg.com/assets/p14154513_b_h8_bg.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Angela Bassett",
+          "Peter Krause",
+          "Oliver Stark"
         ]
       }
     }

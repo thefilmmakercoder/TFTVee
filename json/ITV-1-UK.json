@@ -4,18 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-24T02:10:00+05:00",
-      "stop": "2026-05-24T02:30:00+05:00",
-      "title": "ITV News",
-      "desc": "National and international news with reports and analysis from ITV's Correspondents in the UK and around the world as well as the latest major sports results.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/2821beb1-fbf9-48c3-b09d-c95aaa153a8b/16-9"
-    },
-    {
       "start": "2026-05-24T02:30:00+05:00",
       "stop": "2026-05-24T04:50:00+05:00",
       "title": "Black Adam",
@@ -76,6 +64,18 @@
         "Drama"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/ba3704de-4dba-4fa1-8860-368b74b277e7/16-9"
+    },
+    {
+      "start": "2026-05-24T08:45:00+05:00",
+      "stop": "2026-05-24T10:00:00+05:00",
+      "title": "Unwind with ITV",
+      "desc": "Your daily escape designed to calm the mind and encourage relaxation and reflection.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Lifestyles"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/a94ce0e6-b9a7-4bdb-92d7-669715df7c39/16-9"
     }
   ]
 }
