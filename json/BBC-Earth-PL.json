@@ -4,31 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-25T00:00:00+05:00",
-      "stop": "2026-05-25T01:15:00+05:00",
-      "title": "Big Cats 24/7",
-      "date": "2024",
-      "language": "en",
-      "categories": [
-        "Documentary Series"
-      ],
-      "episode": "S2E2",
-      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/BBC-Earth-PL.png"
-    },
-    {
-      "start": "2026-05-25T01:15:00+05:00",
-      "stop": "2026-05-25T02:15:00+05:00",
-      "title": "Life Below Zero: Canada",
-      "desc": "The creators of the series present the everyday life of a group of daredevils struggling with wildlife in various regions of northern Canada during a frosty winter.Johnatan Granier will join the program in the second season.",
-      "date": "2022",
-      "language": "en",
-      "categories": [
-        "Documentary Series"
-      ],
-      "episode": "S2E5",
-      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/BBC-Earth-PL.png"
-    },
-    {
       "start": "2026-05-25T02:15:00+05:00",
       "stop": "2026-05-25T03:25:00+05:00",
       "title": "The Future of Nature",
@@ -91,6 +66,37 @@
       ],
       "episode": "S2E2",
       "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/BBC-Earth-PL.png"
+    },
+    {
+      "start": "2026-05-25T06:20:00+05:00",
+      "stop": "2026-05-25T07:05:00+05:00",
+      "title": "Life Below Zero: Canada",
+      "desc": "The creators of the series present the everyday life of a group of daredevils struggling with wildlife in various regions of northern Canada during a frosty winter.Johnatan Granier will join the program in the second season.",
+      "date": "2022",
+      "language": "en",
+      "categories": [
+        "Documentary Series"
+      ],
+      "episode": "S2E3",
+      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/BBC-Earth-PL.png"
+    },
+    {
+      "start": "2026-05-25T07:05:00+05:00",
+      "stop": "2026-05-25T08:00:00+05:00",
+      "title": "The Secret Genius of Modern Life",
+      "desc": "Everyday objects are prosaic companions of our everyday life and we rarely think about how they were created.However, they often hide fascinating stories.",
+      "date": "2025",
+      "language": "en",
+      "categories": [
+        "Documentary Series"
+      ],
+      "episode": "S3E4",
+      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/BBC-Earth-PL.png",
+      "credits": {
+        "director": [
+          "Fay Finlay"
+        ]
+      }
     }
   ]
 }
