@@ -4,44 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-24T03:30:00+05:00",
-      "stop": "2026-05-24T04:00:00+05:00",
-      "title": "Hockey Night in Canada: Hockey Central",
-      "desc": "Breaking news, analysis and debate from around the NHL.",
-      "date": "2021",
-      "language": "en",
-      "categories": [
-        "Hockey"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p19197934_b_h8_ab.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-24T04:00:00+05:00",
-      "stop": "2026-05-24T06:30:00+05:00",
-      "title": "Live: NHL Hockey",
-      "desc": "Eastern Conference Final, Game 2.",
-      "language": "en",
-      "categories": [
-        "Sports",
-        "Playoff sports",
-        "Hockey"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/GNLZZGG0034732C.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-24T06:30:00+05:00",
-      "stop": "2026-05-24T08:30:00+05:00",
-      "title": "Track and Field",
-      "desc": "From Xiamen, China.",
-      "language": "en",
-      "rating": "A",
-      "categories": [
-        "Sports",
-        "Track/field"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p516702_b_h10_af.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-05-24T08:30:00+05:00",
       "stop": "2026-05-24T09:00:00+05:00",
       "title": "Just for Laughs: Gags",
@@ -106,6 +68,64 @@
           "Mark Critch",
           "Elvira Kurt",
           "Derek Edwards"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-24T10:30:00+05:00",
+      "stop": "2026-05-24T11:00:00+05:00",
+      "title": "Halifax Comedy Festival",
+      "sub_title": "Featuring Faris Hytiaa",
+      "desc": "Features performances by Orny Adams, Paul Farahvar, Patrick Ledwell, Jenn Labelle, Ian Sirota, Ava Val, Andrew Packer, Dylan Mandolsohn and Elspeth Wright.",
+      "language": "en",
+      "categories": [
+        "Series",
+        "Comedy",
+        "Standup"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p242405_b_h8_ag.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Mark Critch",
+          "Elvira Kurt",
+          "Derek Edwards"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-24T11:00:00+05:00",
+      "stop": "2026-05-24T12:00:00+05:00",
+      "title": "Just for Laughs",
+      "sub_title": "Mae Martin: The Gala",
+      "desc": "The hilarious comedian Mae Martin hosts a stand-up special at the renowned Just For Laughs festival; featuring Carolyn Taylor, James Davis, Mark Forward, River Butcher, Sydnee Washington and others.",
+      "date": "2023",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "Series",
+        "Comedy"
+      ],
+      "episode": "E5",
+      "icon": "http://dtil.tmsimg.com/assets/p414466_b_h11_aa.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-24T12:00:00+05:00",
+      "stop": "2026-05-24T13:00:00+05:00",
+      "title": "Just for Laughs",
+      "sub_title": "Gala: Jack Whitehall",
+      "desc": "Jack Whitehall hosts a gala featuring Arthur Simeon, Foil Arms and Hog, Zabrina Douglas, Melanie Bracewell and Langston Kerman.",
+      "date": "2024",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "Series",
+        "Comedy"
+      ],
+      "episode": "E2",
+      "icon": "http://dtil.tmsimg.com/assets/p27074330_b_h11_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Jack Whitehall"
         ]
       }
     }

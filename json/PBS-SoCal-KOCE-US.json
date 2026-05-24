@@ -4,55 +4,84 @@
   ],
   "programs": [
     {
-      "start": "2026-05-24T02:30:00+05:00",
-      "stop": "2026-05-24T04:00:00+05:00",
-      "title": "All Creatures Great and Small: Cheers to the Years!",
-      "desc": "A look at the most memorable moments from the first five seasons of the series, as well as behind-the-scenes with cast and crew.",
-      "date": "2025",
+      "start": "2026-05-24T08:00:00+05:00",
+      "stop": "2026-05-24T09:35:00+05:00",
+      "title": "Midsomer Murders",
+      "sub_title": "Midsomer Rhapsody",
+      "desc": "Inspector Barnaby investigates a web of family feuds, when a retired music teacher is found battered to death.",
+      "date": "2005",
       "language": "en",
-      "categories": [
-        "Special",
-        "Documentary",
-        "Entertainment"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p31345591_st_h10_aa.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-24T04:00:00+05:00",
-      "stop": "2026-05-24T05:30:00+05:00",
-      "title": "All Creatures Great and Small: Seasons of the Dales",
-      "desc": "Revisiting picturesque scenes from the series in the Yorkshire countryside.",
-      "date": "2026",
-      "language": "en",
-      "categories": [
-        "Special",
-        "Documentary",
-        "Entertainment"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p32127313_b_h10_aa.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-24T05:30:00+05:00",
-      "stop": "2026-05-24T06:00:00+05:00",
-      "title": "Horizons From PBS News",
-      "desc": "Science, health, technology and environment experts and professionals address issues such as artificial intelligence, medicine and climate science.",
-      "date": "2026",
-      "language": "en",
+      "rating": "TVPG",
       "categories": [
         "Series",
-        "Public affairs"
+        "Crime drama",
+        "Mystery"
       ],
-      "episode": "S1 E19",
-      "icon": "http://dtil.tmsimg.com/assets/p31977011_b_h8_aa.jpg?w=960&h=540",
+      "episode": "S8 E8",
+      "icon": "http://dtil.tmsimg.com/assets/p196903_b_h8_bo.jpg?w=960&h=540",
       "credits": {
+        "director": [
+          "Richard Holthouse"
+        ],
         "actor": [
-          "William Brangham"
+          "John Nettles",
+          "John Hopkins",
+          "Nicholas Amer"
         ]
       }
     },
     {
-      "start": "2026-05-24T06:00:00+05:00",
-      "stop": "2026-05-24T07:00:00+05:00",
+      "start": "2026-05-24T09:35:00+05:00",
+      "stop": "2026-05-24T11:10:00+05:00",
+      "title": "The Brokenwood Mysteries",
+      "sub_title": "Tontine",
+      "desc": "A multiple beneficiary will appears to be related to the death of a cyclist.",
+      "date": "2018",
+      "language": "en",
+      "rating": "K12",
+      "categories": [
+        "Series",
+        "Crime drama",
+        "Mystery"
+      ],
+      "episode": "S5 E3",
+      "icon": "http://dtil.tmsimg.com/assets/p11169431_b_h8_cc.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Thomas Robins"
+        ],
+        "actor": [
+          "Neill Rea",
+          "Fern Sutherland",
+          "Nic Sampson"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-24T11:10:00+05:00",
+      "stop": "2026-05-24T12:30:00+05:00",
+      "title": "Austin City Limits",
+      "sub_title": "Chris Stapleton",
+      "desc": "Country performer Chris Stapleton delivers country-rock classics and tunes from \"Higher.\".",
+      "date": "2025",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Music",
+        "Concert"
+      ],
+      "episode": "S50 E12",
+      "icon": "http://dtil.tmsimg.com/assets/p27849909_b_h8_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Chris Stapleton"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-24T12:30:00+05:00",
+      "stop": "2026-05-24T13:30:00+05:00",
       "title": "Finding Your Roots With Henry Louis Gates, Jr.",
       "sub_title": "Stranger Than Fiction",
       "desc": "Traveling across China and the American South to reveal the ancestry of novelist Amy Tan and poet Rita Dove.",
@@ -79,8 +108,8 @@
       }
     },
     {
-      "start": "2026-05-24T07:00:00+05:00",
-      "stop": "2026-05-24T08:00:00+05:00",
+      "start": "2026-05-24T13:30:00+05:00",
+      "stop": "2026-05-24T14:30:00+05:00",
       "title": "Antiques Roadshow",
       "sub_title": "Junk in the Trunk 15",
       "desc": "Finds include a 1961 JFK Santa Claus Letter, a 1979 Ed Ruscha Stage Fright ink on paper and a John Juzek violin circa 1950.",
@@ -101,11 +130,11 @@
       }
     },
     {
-      "start": "2026-05-24T08:00:00+05:00",
-      "stop": "2026-05-24T09:35:00+05:00",
+      "start": "2026-05-24T14:30:00+05:00",
+      "stop": "2026-05-24T16:00:00+05:00",
       "title": "Midsomer Murders",
-      "sub_title": "Midsomer Rhapsody",
-      "desc": "Inspector Barnaby investigates a web of family feuds, when a retired music teacher is found battered to death.",
+      "sub_title": "Sauce for the Goose",
+      "desc": "Barnaby is called to investigate when a body is found in a relish factory.",
       "date": "2005",
       "language": "en",
       "rating": "TVPG",
@@ -114,16 +143,16 @@
         "Crime drama",
         "Mystery"
       ],
-      "episode": "S8 E8",
+      "episode": "S8 E7",
       "icon": "http://dtil.tmsimg.com/assets/p196903_b_h8_bo.jpg?w=960&h=540",
       "credits": {
         "director": [
-          "Richard Holthouse"
+          "Renny Rye"
         ],
         "actor": [
           "John Nettles",
           "John Hopkins",
-          "Nicholas Amer"
+          "Jane Wymark"
         ]
       }
     }

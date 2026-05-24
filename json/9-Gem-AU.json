@@ -4,62 +4,8 @@
   ],
   "programs": [
     {
-      "start": "2026-05-24T04:30:00+05:00",
-      "stop": "2026-05-24T05:00:00+05:00",
-      "title": "TV Shop - Home Shopping",
-      "desc": "Home shopping programme.",
-      "language": "en",
-      "rating": "G",
-      "categories": [
-        "Special Interest"
-      ],
-      "episode": "E8",
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/184500/image/334x188"
-    },
-    {
-      "start": "2026-05-24T05:00:00+05:00",
-      "stop": "2026-05-24T07:00:00+05:00",
-      "title": "Sunday Footy Show",
-      "desc": "Catch-up on all the news from the AFL, with expert game analysis and high-profile guests, hosted by Tony Jones and joined by Rory Sloane, Matthew Lloyd, Damian Barrett and Nathan Brown.",
-      "language": "en",
-      "rating": "PG",
-      "categories": [
-        "Sports"
-      ],
-      "episode": "E12",
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/166502/image/334x188"
-    },
-    {
-      "start": "2026-05-24T07:00:00+05:00",
-      "stop": "2026-05-24T07:30:00+05:00",
-      "title": "Getaway",
-      "sub_title": "Samoa, Mt Hotham, Tasmania",
-      "desc": "This week on Getaway we visit the quieter side of Samoa, take a foodie tour through Mexico's Cabo San Lucas, plus explore Victoria's High Country in winter.",
-      "language": "en",
-      "rating": "PG",
-      "categories": [
-        "Special Interest"
-      ],
-      "episode": "E15",
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/132183/image/334x188"
-    },
-    {
-      "start": "2026-05-24T07:30:00+05:00",
-      "stop": "2026-05-24T07:45:00+05:00",
-      "title": "Explore TV",
-      "sub_title": "Queenstown Amisfield Winery",
-      "desc": "Journey with Trevor and friends as they explore New Zealand's top experiences and food destinations.",
-      "language": "en",
-      "rating": "PG",
-      "categories": [
-        "Special Interest"
-      ],
-      "episode": "S2 E19",
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/168173/image/334x188"
-    },
-    {
-      "start": "2026-05-24T07:45:00+05:00",
-      "stop": "2026-05-24T08:15:00+05:00",
+      "start": "2026-05-24T07:42:00+05:00",
+      "stop": "2026-05-24T08:14:00+05:00",
       "title": "My Favourite Martian",
       "sub_title": "Miss Jekyll and Hyde",
       "desc": "Martin's identity is threatened when Mrs. Brown's niece Paula starts asking too many questions.",
@@ -72,8 +18,8 @@
       "icon": "https://www.fetchtv.com.au/v2/epg/program/376328/image/334x188"
     },
     {
-      "start": "2026-05-24T08:15:00+05:00",
-      "stop": "2026-05-24T10:00:00+05:00",
+      "start": "2026-05-24T08:14:00+05:00",
+      "stop": "2026-05-24T09:59:00+05:00",
       "title": "Time, Gentlemen Please",
       "desc": "A lovable old scamp-philosopher refuses to work, thereby preventing a village from claiming full, 100 percent employment.",
       "language": "en",
@@ -82,6 +28,59 @@
         "Comedy"
       ],
       "icon": "https://www.fetchtv.com.au/v2/epg/program/7117406/image/334x188"
+    },
+    {
+      "start": "2026-05-24T09:59:00+05:00",
+      "stop": "2026-05-24T11:59:00+05:00",
+      "title": "Baby And The Battleship",
+      "desc": "After a mix-up with his fiancee's family, Seaman Able finds himself left literally, holding the baby. Unable to return it before his ship sails, he enlists the help of his best mate to smuggle the child aboard. (John Mills).",
+      "language": "en",
+      "rating": "G",
+      "categories": [
+        "Comedy"
+      ],
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/6207926/image/334x188"
+    },
+    {
+      "start": "2026-05-24T11:59:00+05:00",
+      "stop": "2026-05-24T14:00:00+05:00",
+      "title": "Midsomer Murders",
+      "sub_title": "Garden Of Death",
+      "desc": "A family buys back their ancestral home and begins making plans to open a tea shop where the village's Memorial Garden is situated on their land and in the process enrage the townsfolk and when the family members begin to die, Barnaby investigates.",
+      "language": "en",
+      "rating": "PG",
+      "categories": [
+        "Drama"
+      ],
+      "episode": "S4 E1",
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/117750/image/334x188"
+    },
+    {
+      "start": "2026-05-24T14:00:00+05:00",
+      "stop": "2026-05-24T19:01:00+05:00",
+      "title": "Roland Garros 2026 - French Open Tennis",
+      "desc": "Wide World of Sports presents Roland Garros 2026 brought to you live from Paris. Join our all-star team including Todd Woodbridge and Jelena Dokic for all the action live and free. Live play from 7:00PM AEST.",
+      "language": "en",
+      "rating": "NR",
+      "categories": [
+        "Sports"
+      ],
+      "episode": "E1",
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/2336788/image/334x188"
+    },
+    {
+      "start": "2026-05-24T19:01:00+05:00",
+      "stop": "2026-05-24T19:56:00+05:00",
+      "title": "Major Crimes",
+      "sub_title": "Quid Pro Quo",
+      "desc": "A murder case goes sideways at trial when defense attorney Linda Rothman is able to destroy Det. Amy Sykes's credibility on the stand. Helping Rothman as a defense investigator is Amy's old nemesis, Mark Hickman.",
+      "language": "en",
+      "rating": "M",
+      "categories": [
+        "Drama"
+      ],
+      "episode": "S5 E16",
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/297933/image/334x188"
     }
   ]
 }

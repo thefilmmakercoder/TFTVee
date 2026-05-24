@@ -4,76 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-24T04:30:00+05:00",
-      "stop": "2026-05-24T05:00:00+05:00",
-      "title": "Inside Edition Weekend",
-      "desc": "A news magazine show covering entertainment news and celebrity reports; investigative reports dig into top stories and human interest headlines.",
-      "date": "2026",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Series",
-        "Talk"
-      ],
-      "episode": "S38 E37",
-      "icon": "http://dtil.tmsimg.com/assets/p186638_b_h10_ac.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Mary Calvi"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-24T05:00:00+05:00",
-      "stop": "2026-05-24T07:00:00+05:00",
-      "title": "Live: WNBA Basketball",
-      "desc": "The Las Vegas Aces host the Los Angeles Sparks for the second meeting of their WNBA series. Las Vegas leads the season matchup 1-0. Forward A'ja Wilson leads the Aces against forward Dearica Hamby and the visiting Western Conference rivals.",
-      "language": "en",
-      "categories": [
-        "Sports",
-        "Basketball"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/GNLZZGG003227HB.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-24T07:00:00+05:00",
-      "stop": "2026-05-24T08:00:00+05:00",
-      "title": "48 Hours",
-      "sub_title": "Kouri Richins: Behind the Fa\u00e7ade",
-      "desc": "Jurors who heard the evidence in the Kouri Richins case speak out about what led them to convict her, including what they believe motivated the crime and why they reached their verdict.",
-      "date": "2026",
-      "language": "en",
-      "rating": "TV14",
-      "categories": [
-        "Series",
-        "Newsmagazine",
-        "Crime",
-        "Law"
-      ],
-      "episode": "S39 E30",
-      "icon": "http://dtil.tmsimg.com/assets/p30698125_b_h8_af.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Erin Moriarty",
-          "Peter Van Sant",
-          "Natalie Morales"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-24T08:00:00+05:00",
-      "stop": "2026-05-24T08:35:00+05:00",
-      "title": "CBS News New York at 11P",
-      "desc": "Jessica Moore hosts.",
-      "date": "2009",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p3629598_b_h8_aa.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-05-24T08:35:00+05:00",
       "stop": "2026-05-24T09:05:00+05:00",
       "title": "InvestigateTV+ Weekend",
@@ -120,6 +50,84 @@
           "Kevin Alejandro"
         ]
       }
+    },
+    {
+      "start": "2026-05-24T10:05:00+05:00",
+      "stop": "2026-05-24T11:05:00+05:00",
+      "title": "Fire Country",
+      "sub_title": "Where There's Smoke..",
+      "desc": "When the crew responds to a call in a remote forest, they come under fire by an outlaw protecting illegal marijuana crops.",
+      "date": "2022",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "Series",
+        "Drama"
+      ],
+      "episode": "S1 E3",
+      "icon": "http://dtil.tmsimg.com/assets/p22213607_b_h8_al.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Eagle Egilsson"
+        ],
+        "actor": [
+          "Max Thieriot",
+          "Billy Burke",
+          "Kevin Alejandro"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-24T11:05:00+05:00",
+      "stop": "2026-05-24T12:05:00+05:00",
+      "title": "Entertainment Tonight",
+      "desc": "News and features about performers, productions and the milieu.",
+      "date": "2026",
+      "language": "en",
+      "rating": "M 15+",
+      "categories": [
+        "Series",
+        "Newsmagazine",
+        "Entertainment"
+      ],
+      "episode": "S45 E227",
+      "icon": "http://dtil.tmsimg.com/assets/p184256_b_h8_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Kevin Frazier",
+          "Nischelle Turner",
+          "Rachel Smith"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-24T12:05:00+05:00",
+      "stop": "2026-05-24T12:35:00+05:00",
+      "title": "In Touch With Dr. Charles Stanley",
+      "desc": "Charles Stanley, pastor of the First Baptist Church in Atlanta, shares his insights on Christian faith and enlightens viewers with spiritual motivation.",
+      "date": "1979",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Religious"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p32199893_b_h10_ab.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Charles Stanley"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-24T12:35:00+05:00",
+      "stop": "2026-05-24T13:00:00+05:00",
+      "title": "Healthy Joints for Life With Rich Diana",
+      "desc": "Healthy Joints for Life! Episode 1 of world-renowned orthopedist and longevity researcher Dr. Rich Diana's new series on healthy aging; learn about the real causes behind joint aging, and the promising new drug, supplement and therapy options.",
+      "language": "en",
+      "categories": [
+        "Consumer"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p32416497_st_h10_ab.jpg?w=960&h=540"
     }
   ]
 }

@@ -4,74 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-24T03:00:00+05:00",
-      "stop": "2026-05-24T05:00:00+05:00",
-      "title": "The Nature of Things",
-      "sub_title": "She Walks With Apes",
-      "desc": "Following the careers of pioneering primate researchers Jane Goodall, Dian Fossey and Birut\u00e9 Galdikas.",
-      "date": "2019",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Series",
-        "Documentary",
-        "Science",
-        "Nature",
-        "Animals"
-      ],
-      "episode": "S59 E1",
-      "icon": "http://dtil.tmsimg.com/assets/p185885_b_h8_aq.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Sandra Oh"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-24T05:00:00+05:00",
-      "stop": "2026-05-24T06:00:00+05:00",
-      "title": "The Nature of Things",
-      "sub_title": "Fluid: Life Beyond the Binary",
-      "desc": "Popular nonbinary Canadian comedian and TV sitcom creator Mae Martin explores the science of gender and sexual fluidity.",
-      "date": "2024",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Series",
-        "Documentary",
-        "Science",
-        "Nature",
-        "Animals"
-      ],
-      "episode": "S63 E12",
-      "icon": "http://dtil.tmsimg.com/assets/p185885_b_h8_aq.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Sarika Cullis-Suzuki",
-          "Anthony Morgan"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-24T06:00:00+05:00",
-      "stop": "2026-05-24T08:00:00+05:00",
-      "title": "The Road Between Us: The Ultimate Rescue",
-      "desc": "Retired Israeli general Noam Tibon rescues his family from Hamas terrorists who invaded their home during a massacre, sparking an ongoing conflict.",
-      "date": "2025",
-      "language": "en",
-      "rating": "PG",
-      "categories": [
-        "Movie",
-        "Documentary"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p31257832_v_h8_ab.jpg?w=960&h=540",
-      "credits": {
-        "director": [
-          "Barry Avrich"
-        ]
-      }
-    },
-    {
       "start": "2026-05-24T08:00:00+05:00",
       "stop": "2026-05-24T09:00:00+05:00",
       "title": "Evil by Design: Surviving Nygard",
@@ -123,6 +55,67 @@
       ],
       "episode": "S1 E3",
       "icon": "http://dtil.tmsimg.com/assets/p21716464_b_h8_ad.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-24T12:00:00+05:00",
+      "stop": "2026-05-24T14:00:00+05:00",
+      "title": "The Road Between Us: The Ultimate Rescue",
+      "desc": "Retired Israeli general Noam Tibon rescues his family from Hamas terrorists who invaded their home during a massacre, sparking an ongoing conflict.",
+      "date": "2025",
+      "language": "en",
+      "rating": "PG",
+      "categories": [
+        "Movie",
+        "Documentary"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p31257832_v_h8_ab.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Barry Avrich"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-24T14:00:00+05:00",
+      "stop": "2026-05-24T15:00:00+05:00",
+      "title": "Evil by Design: Surviving Nygard",
+      "sub_title": "End Game",
+      "desc": "When Peter Nygard is arrested, survivors band together with journalists, criminal lawyers and former employees to bring forward evidence.",
+      "date": "2022",
+      "language": "en",
+      "rating": "TVMA",
+      "categories": [
+        "Series",
+        "Documentary",
+        "Crime"
+      ],
+      "episode": "S1 E3",
+      "icon": "http://dtil.tmsimg.com/assets/p21716464_b_h8_ad.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-24T15:00:00+05:00",
+      "stop": "2026-05-24T16:00:00+05:00",
+      "title": "Legends of the Deep",
+      "sub_title": "Underwater Roswell: The Shag Harbor Mystery",
+      "desc": "C\u00e9line and Fabien dive deep in Shag Harbour, Nova Scotia, where they're investigating one of the best documented UFO sightings in history.",
+      "date": "2021",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Science",
+        "Nature"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p16926057_b_h10_ac.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Dan Hughes"
+        ],
+        "actor": [
+          "C\u00e9line Cousteau",
+          "Fabien Cousteau"
+        ]
+      }
     }
   ]
 }
