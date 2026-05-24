@@ -4,53 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-24T14:30:00+05:00",
-      "stop": "2026-05-24T15:00:00+05:00",
-      "title": "CityNews Tonight Toronto",
-      "desc": "Coverage of the day's top news stories.",
-      "date": "2019",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p16858130_b_h8_aa.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-24T15:00:00+05:00",
-      "stop": "2026-05-24T15:30:00+05:00",
-      "title": "CityNews Tonight Toronto",
-      "desc": "Coverage of the day's top news stories.",
-      "date": "2019",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p16858130_b_h8_aa.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-24T15:30:00+05:00",
-      "stop": "2026-05-24T16:00:00+05:00",
-      "title": "Fish TV",
-      "sub_title": "Agnew Lake Lodge",
-      "desc": "Leo & Jeff get a chance to fish and visit Agnew Lake Lodge again. Great Trip!",
-      "date": "2025",
-      "language": "en",
-      "rating": "TVG",
-      "categories": [
-        "Series",
-        "Fishing"
-      ],
-      "episode": "E11",
-      "icon": "http://dtil.tmsimg.com/assets/p687113_b_h8_ae.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Leo Stakos",
-          "Ron James",
-          "Jeff Chisholm"
-        ]
-      }
-    },
-    {
       "start": "2026-05-24T16:00:00+05:00",
       "stop": "2026-05-24T16:30:00+05:00",
       "title": "Impractical Jokers",
@@ -119,6 +72,67 @@
           "Paul Beasley",
           "Keith Beasley",
           "Kevin Beasley"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-24T17:30:00+05:00",
+      "stop": "2026-05-24T18:00:00+05:00",
+      "title": "Impractical Jokers",
+      "sub_title": "Meat Cute",
+      "desc": "Attention shoppers; the Jokers make mischief by taking unflattering pictures of grocery store patrons, then posing as horrible employees at the Yeti store; tonight's loser must meet his fate in a punishment.",
+      "date": "2025",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "Series",
+        "Reality",
+        "Comedy"
+      ],
+      "episode": "S12 E7",
+      "icon": "http://dtil.tmsimg.com/assets/p30353577_b_h8_ac.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Mike Damiani"
+        ],
+        "actor": [
+          "Brian \"Q\" Quinn",
+          "James \"Murr\" Murray",
+          "Sal Vulcano"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-24T18:00:00+05:00",
+      "stop": "2026-05-24T19:00:00+05:00",
+      "title": "CMCTV Em Destaque",
+      "desc": "Covering the Portuguese speaking communities showcasing events, interviews, music and news stories from both Canada and abroad.",
+      "date": "2018",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Community"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p16261047_b_h8_aa.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-24T19:00:00+05:00",
+      "stop": "2026-05-24T19:30:00+05:00",
+      "title": "Church of the Rock",
+      "sub_title": "In the Footsteps of Champions: In the Footsteps of Prayer",
+      "desc": "Helping people to know God, live free, and find purpose; with pastor Mark Hughes.",
+      "date": "2025",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Series",
+        "Religious"
+      ],
+      "episode": "E1",
+      "icon": "http://dtil.tmsimg.com/assets/p624233_b_h10_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Mark Hughes"
         ]
       }
     }

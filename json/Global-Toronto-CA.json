@@ -4,43 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-24T14:30:00+05:00",
-      "stop": "2026-05-24T15:00:00+05:00",
-      "title": "Paid Programming",
-      "desc": "Paid programming.",
-      "language": "en",
-      "rating": "TVG",
-      "categories": [
-        "Consumer",
-        "Shopping",
-        "Variety"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-24T15:00:00+05:00",
-      "stop": "2026-05-24T16:00:00+05:00",
-      "title": "Worst to First",
-      "sub_title": "Amanda & Darren",
-      "desc": "Amanda and Darren want to settle down in Blueridge, but the neighborhood is pricey.",
-      "date": "2017",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Series",
-        "Home improvement",
-        "Reality"
-      ],
-      "episode": "S1 E6",
-      "icon": "http://dtil.tmsimg.com/assets/p14454531_b_h8_aa.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Mickey Fabbiano",
-          "Sebastian Sevallo"
-        ]
-      }
-    },
-    {
       "start": "2026-05-24T16:00:00+05:00",
       "stop": "2026-05-24T16:30:00+05:00",
       "title": "Backyard Builds",
@@ -116,6 +79,47 @@
         "Law"
       ],
       "icon": "http://dtil.tmsimg.com/assets/p29320941_b_h8_aa.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-24T18:00:00+05:00",
+      "stop": "2026-05-24T18:30:00+05:00",
+      "title": "Employment Law Show",
+      "desc": "Host Lior Samfiru answers questions about employment rights and tackles the most important facets of employment law that are often overlooked by both employer and employee.",
+      "date": "2017",
+      "language": "en",
+      "categories": [
+        "Community",
+        "Educational",
+        "Law"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p14760069_b_h10_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Lior Samfiru"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-24T18:30:00+05:00",
+      "stop": "2026-05-24T19:00:00+05:00",
+      "title": "Big Food Bucket List",
+      "sub_title": "Taco Walk on the Wild Side",
+      "desc": "John gets a first-hand lesson in charcoal grilling and checks ultra-juicy, braised lamb barbacoa tacos off his bucket list; John gets a lesson in fresh noodle making and a taste of the best pork wontons; a mile-high, double-thick pork chop.",
+      "date": "2021",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Series",
+        "Travel",
+        "Cooking"
+      ],
+      "episode": "S2 E26",
+      "icon": "http://dtil.tmsimg.com/assets/p15598282_b_h8_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "John Catucci"
+        ]
+      }
     }
   ]
 }

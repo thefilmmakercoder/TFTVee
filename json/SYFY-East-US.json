@@ -4,60 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-24T14:30:00+05:00",
-      "stop": "2026-05-24T15:00:00+05:00",
-      "title": "The Twilight Zone",
-      "sub_title": "Showdown With Rance McGrew",
-      "desc": "An insufferable cowboy star comes face to face with the real Jesse James.",
-      "date": "1962",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Series",
-        "Anthology",
-        "Science fiction",
-        "Fantasy",
-        "Thriller"
-      ],
-      "episode": "S3 E20",
-      "icon": "http://dtil.tmsimg.com/assets/p7895479_b_h10_aa.jpg?w=960&h=540",
-      "credits": {
-        "director": [
-          "Christian Nyby"
-        ],
-        "actor": [
-          "Larry Blyden",
-          "Robert J. Stevenson",
-          "Arch Johnson"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-24T15:00:00+05:00",
-      "stop": "2026-05-24T15:30:00+05:00",
-      "title": "NEW! Shark PowerDetect with DuoClean Detect Technology",
-      "desc": "Meet the new Shark PowerDetect Upright Vacuum with features like DuoClean Detect Technology, self-cleaning brush roll and odor neutralizing, and you will be cleaning faster, smarter and better!",
-      "language": "en",
-      "categories": [
-        "Consumer"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p29966207_b_h10_aa.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-24T15:30:00+05:00",
-      "stop": "2026-05-24T16:00:00+05:00",
-      "title": "Paid Programming",
-      "desc": "Paid programming.",
-      "language": "en",
-      "rating": "TVG",
-      "categories": [
-        "Consumer",
-        "Shopping",
-        "Variety"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-05-24T16:00:00+05:00",
       "stop": "2026-05-24T16:30:00+05:00",
       "title": "Pain Relief Revealed",
@@ -111,6 +57,77 @@
           "John Hanek"
         ]
       }
+    },
+    {
+      "start": "2026-05-24T17:29:00+05:00",
+      "stop": "2026-05-24T17:59:00+05:00",
+      "title": "The Twilight Zone",
+      "sub_title": "The Shelter",
+      "desc": "A group of neighbors turns into a hostile mob when they try to invade one family's bomb shelter, believing a UFO attack is imminent.",
+      "date": "1961",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Anthology",
+        "Science fiction",
+        "Fantasy",
+        "Thriller",
+        "Drama"
+      ],
+      "episode": "S3 E3",
+      "icon": "http://dtil.tmsimg.com/assets/p7895479_b_h10_aa.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Lamont Johnson"
+        ],
+        "actor": [
+          "Larry Gates",
+          "Michael Burns",
+          "John McLiam"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-24T17:59:00+05:00",
+      "stop": "2026-05-24T19:59:00+05:00",
+      "title": "The Last Sharknado: It's About Time",
+      "desc": "Our hero Fin has battled sharks all over the globe, but in this last installment he will tackle the final shark-tier - time travel.",
+      "date": "2018",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "Movie",
+        "Action",
+        "Thriller",
+        "Science fiction",
+        "Adventure",
+        "Comedy",
+        "Horror"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p15643490_v_h8_ab.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Anthony C. Ferrante"
+        ],
+        "actor": [
+          "Ian Ziering",
+          "Tara Reid",
+          "Vivica A. Fox"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-24T19:59:00+05:00",
+      "stop": "2026-05-24T22:00:00+05:00",
+      "title": "Live: Premier League Soccer",
+      "desc": "Liverpool plays Brentford in a regular season Premier League matchup. Mohamed Salah leads Liverpool one final time before his departure, facing forward Igor Thiago as the powerhouse hosts chase a crucial top-four Champions League spot at Anfield.",
+      "language": "en",
+      "categories": [
+        "Sports",
+        "Soccer"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/GNLZZGG0031FNKM.jpg?w=960&h=540"
     }
   ]
 }

@@ -4,18 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-24T14:00:00+05:00",
-      "stop": "2026-05-24T14:05:00+05:00",
-      "title": "Music Bank K-Chart",
-      "desc": "Follow the latest trend in the Korean music scene through the K-chart, a summary of the week's hottest songs.",
-      "language": "en",
-      "categories": [
-        "Entertainment",
-        "Music/Musical"
-      ],
-      "icon": "https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch156_160_115"
-    },
-    {
       "start": "2026-05-24T14:05:00+05:00",
       "stop": "2026-05-24T15:45:00+05:00",
       "title": "Two Days And One Night 4",
@@ -76,6 +64,19 @@
         "Entertainment",
         "Music/Musical"
       ],
+      "icon": "https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch156_160_115"
+    },
+    {
+      "start": "2026-05-24T20:45:00+05:00",
+      "stop": "2026-05-24T22:15:00+05:00",
+      "title": "The Seasons",
+      "desc": "A talk show brings you music and stories that will 'get rid of all your worries and all your concerns.'.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Music/Musical/Talkshow"
+      ],
+      "episode": "E7",
       "icon": "https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch156_160_115"
     }
   ]

@@ -4,14 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-24T07:50:00+05:00",
-      "stop": "2026-05-24T09:30:00+05:00",
-      "title": "This is BBC Three",
-      "desc": "Programmes start at 7.00pm.",
-      "language": "en",
-      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/BBC-Three-UK.png"
-    },
-    {
       "start": "2026-05-24T09:30:00+05:00",
       "stop": "2026-05-24T15:30:00+05:00",
       "title": "..programmes start at 7.00pm",
@@ -54,6 +46,18 @@
         "Soap"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/da25496d-287e-40a1-b6e0-c5750553dc4a/16-9"
+    },
+    {
+      "start": "2026-05-24T23:30:00+05:00",
+      "stop": "2026-05-25T00:00:00+05:00",
+      "title": "EastEnders Omnibus",
+      "desc": "Vicki and Grant try to stage an intervention, Mark grows desperate, and Josh makes Oscar jealous.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Soap"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/8e0cc895-6613-4c48-a83e-22caea9be158/16-9"
     }
   ]
 }

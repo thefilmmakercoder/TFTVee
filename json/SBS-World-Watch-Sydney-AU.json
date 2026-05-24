@@ -4,33 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-24T14:30:00+05:00",
-      "stop": "2026-05-24T15:00:00+05:00",
-      "title": "Korean News",
-      "sub_title": "Sunday 24 May 2026",
-      "desc": "News via satellite from YTN Seoul Korea, in Korean, no subtitles.",
-      "language": "en",
-      "rating": "NR",
-      "categories": [
-        "News"
-      ],
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/179126/image/334x188"
-    },
-    {
-      "start": "2026-05-24T15:00:00+05:00",
-      "stop": "2026-05-24T16:00:00+05:00",
-      "title": "Insight",
-      "sub_title": "What's In A Name?",
-      "desc": "Would a rose by another name really smell as sweet?",
-      "language": "en",
-      "rating": "NR",
-      "categories": [
-        "News"
-      ],
-      "episode": "E7",
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/132378/image/334x188"
-    },
-    {
       "start": "2026-05-24T16:00:00+05:00",
       "stop": "2026-05-24T16:30:00+05:00",
       "title": "Dateline",
@@ -80,6 +53,32 @@
         "News"
       ],
       "icon": "https://www.fetchtv.com.au/v2/epg/program/221071/image/334x188"
+    },
+    {
+      "start": "2026-05-24T18:00:00+05:00",
+      "stop": "2026-05-24T18:35:00+05:00",
+      "title": "NHK Japanese News",
+      "sub_title": "Sunday 24 May 2026",
+      "desc": "News via satellite from NHK Tokyo in Japanese, no subtitles.",
+      "language": "en",
+      "rating": "NR",
+      "categories": [
+        "News"
+      ],
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/132257/image/334x188"
+    },
+    {
+      "start": "2026-05-24T18:35:00+05:00",
+      "stop": "2026-05-24T19:10:00+05:00",
+      "title": "Telugu News DD Yadagiri",
+      "sub_title": "Sunday 24 May 2026",
+      "desc": "News via satellite from DD Yadagiri, Hyderabad, Telangana, in Telugu, No subtitles. Broadcasting every night at 11:35pm on SBS WorldWatch Channel 35, also available daily on SBS OnDemand.",
+      "language": "en",
+      "rating": "NR",
+      "categories": [
+        "News"
+      ],
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/430763/image/334x188"
     }
   ]
 }
