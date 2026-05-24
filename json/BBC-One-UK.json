@@ -4,54 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-24T04:50:00+05:00",
-      "stop": "2026-05-24T04:55:00+05:00",
-      "title": "Weather for the Week Ahead",
-      "desc": "Detailed weather forecast.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/410de0df-4cb6-41f1-82ba-e7282341138f/16-9"
-    },
-    {
-      "start": "2026-05-24T04:55:00+05:00",
-      "stop": "2026-05-24T10:00:00+05:00",
-      "title": "BBC News",
-      "desc": "BBC One joins the BBC's rolling news channel for a night of news.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/fcf6742f-343e-4e28-b1ae-200e4d643d68/16-9"
-    },
-    {
-      "start": "2026-05-24T10:00:00+05:00",
-      "stop": "2026-05-24T13:00:00+05:00",
-      "title": "Breakfast",
-      "desc": "The latest news, sport, business and weather from the BBC's Breakfast team.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/a7c017c8-5009-48d9-b1f4-f9b067ccedea/16-9"
-    },
-    {
-      "start": "2026-05-24T13:00:00+05:00",
-      "stop": "2026-05-24T14:00:00+05:00",
-      "title": "Sunday with Laura Kuenssberg",
-      "desc": "The big names behind the big stories. Laura Kuenssberg talks to those making the news, inside and outside politics.",
-      "language": "en",
-      "categories": [
-        "Entertainment",
-        "Factual"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/ebe74ff2-dd5e-4abb-9445-98d824dfe6d4/16-9"
-    },
-    {
       "start": "2026-05-24T14:00:00+05:00",
       "stop": "2026-05-24T14:30:00+05:00",
       "title": "Politics London",
@@ -74,6 +26,54 @@
         "Religion"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/ae61391d-5944-45c1-82bd-391a9a8a3a3b/16-9"
+    },
+    {
+      "start": "2026-05-24T15:30:00+05:00",
+      "stop": "2026-05-24T16:00:00+05:00",
+      "title": "Homes Under the Hammer",
+      "desc": "A young couple buy their first home together in Haydock and transform the three-bedroom semi-detached house into a stunning place for them to live.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Factual"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/0dbcf6bd-1a00-37d6-8728-7fe6c439b228/16-9"
+    },
+    {
+      "start": "2026-05-24T16:00:00+05:00",
+      "stop": "2026-05-24T17:00:00+05:00",
+      "title": "Football Focus",
+      "desc": "Alex Scott presents the last Football Focus after 52 years on BBC One.",
+      "language": "en",
+      "categories": [
+        "Sports",
+        "Football"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/6d8b5967-5e4d-4387-9e9f-d265f08ad139/16-9"
+    },
+    {
+      "start": "2026-05-24T17:00:00+05:00",
+      "stop": "2026-05-24T17:10:00+05:00",
+      "title": "BBC News",
+      "desc": "The latest national and international news from the BBC.",
+      "language": "en",
+      "categories": [
+        "News & Documentary",
+        "News"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/e8446c76-24fe-4ff3-a631-73e0469a0325/16-9"
+    },
+    {
+      "start": "2026-05-24T17:10:00+05:00",
+      "stop": "2026-05-24T17:15:00+05:00",
+      "title": "Weather for the Week Ahead",
+      "desc": "Detailed weather forecast.",
+      "language": "en",
+      "categories": [
+        "News & Documentary",
+        "News"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/cdc1161b-d408-4874-8cde-2b81ebf300a8/16-9"
     }
   ]
 }

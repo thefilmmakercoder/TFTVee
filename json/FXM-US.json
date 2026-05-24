@@ -4,85 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-24T06:00:00+05:00",
-      "stop": "2026-05-24T08:40:00+05:00",
-      "title": "Dawn of the Planet of the Apes",
-      "desc": "Ten years after simian flu wiped out much of the world's Homo sapiens, genetically enhanced chimpanzee Caesar and his ever-growing band of followers has established a thriving colony just outside San Francisco in Muir Woods. Meanwhile, a small band of human survivors emerges, which forces Caesar -- as leader -- to grapple with the dual challenge of protecting his people and re-establishing a relationship with the remaining human population -- the latter being Caesar's secret wish.",
-      "date": "2014",
-      "language": "en",
-      "rating": "PG-13",
-      "categories": [
-        "Movie",
-        "Science fiction",
-        "Action",
-        "Adventure"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p10063629_v_h8_at.jpg?w=960&h=540",
-      "credits": {
-        "director": [
-          "Matt Reeves"
-        ],
-        "actor": [
-          "Andy Serkis",
-          "Jason Clarke",
-          "Gary Oldman"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-24T08:40:00+05:00",
-      "stop": "2026-05-24T10:35:00+05:00",
-      "title": "65",
-      "desc": "After a catastrophic crash on an unknown planet, pilot Mills quickly discovers he's actually stranded on Earth -- 65 million years ago. Now, with only one chance at a rescue, Mills and the only other survivor, Koa, must make their way across an unknown terrain riddled with dangerous prehistoric creatures.",
-      "date": "2023",
-      "language": "en",
-      "rating": "15",
-      "categories": [
-        "Movie",
-        "Science fiction",
-        "Adventure",
-        "Action",
-        "Thriller"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p21472315_v_h8_ac.jpg?w=960&h=540",
-      "credits": {
-        "director": [
-          "Scott Beck",
-          "Bryan Woods"
-        ],
-        "actor": [
-          "Adam Driver",
-          "Ariana Greenblatt",
-          "Chloe Coleman"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-24T10:35:00+05:00",
-      "stop": "2026-05-24T12:45:00+05:00",
-      "title": "Resident Evil: Welcome to Raccoon City",
-      "desc": "Welcome to Raccoon City, once the booming home of pharmaceutical giant Umbrella Corp. The company's exodus left the city a wasteland, a dying town with great evil brewing below the surface. When that evil is unleashed, a group of survivors must work together to uncover the truth behind Umbrella and make it through the night.",
-      "date": "2021",
-      "language": "en",
-      "rating": "R",
-      "categories": [
-        "Movie",
-        "Horror",
-        "Action"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p19603659_v_h8_ad.jpg?w=960&h=540",
-      "credits": {
-        "director": [
-          "Johannes Roberts"
-        ],
-        "actor": [
-          "Kaya Scodelario",
-          "Hannah John-Kamen",
-          "Robbie Amell"
-        ]
-      }
-    },
-    {
       "start": "2026-05-24T12:45:00+05:00",
       "stop": "2026-05-24T15:00:00+05:00",
       "title": "Can-Can",
@@ -152,6 +73,78 @@
           "William Holden",
           "Capucine",
           "Trevor Howard"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-24T18:25:00+05:00",
+      "stop": "2026-05-24T20:15:00+05:00",
+      "title": "Voyage to the Bottom of the Sea",
+      "desc": "Harriman Nelson (Walter Pidgeon) is the creator of a revolutionary nuclear submarine. After testing its capabilities in the Arctic Ocean, Nelson and the commanding officer (Robert Sterling) surface the vessel, only to discover the sky ablaze. Learning that the Van Allen radiation belt has caught fire, Nelson conceives a plan that could save the planet from destruction, but the U.N. shoots it down. Nelson is convinced it will work, but an onboard psychiatrist (Joan Fontaine) questions his sanity.",
+      "date": "1961",
+      "language": "en",
+      "rating": "PG",
+      "categories": [
+        "Movie",
+        "Science fiction"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p3557_v_h10_ae.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Irwin Allen"
+        ],
+        "actor": [
+          "Walter Pidgeon",
+          "Joan Fontaine",
+          "Barbara Eden"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-24T20:15:00+05:00",
+      "stop": "2026-05-24T22:00:00+05:00",
+      "title": "Fantastic Voyage",
+      "desc": "The brilliant scientist Jan Benes develops a way to shrink humans, and other objects, for brief periods of time. Benes, who is working in communist Russia, is transported by the CIA to America, but is attacked en route. In order to save the scientist, who has developed a blood clot in his brain, a team of Americans in a nuclear submarine is shrunk and injected into Benes' body. They have a finite period of time to fix the clot and get out before the miniaturization wears off.",
+      "date": "1966",
+      "language": "en",
+      "rating": "PG",
+      "categories": [
+        "Movie",
+        "Science fiction"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p3572_v_h10_aa.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Richard Fleischer"
+        ],
+        "actor": [
+          "Stephen Boyd",
+          "Raquel Welch",
+          "Edmond O'Brien"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-24T22:00:00+05:00",
+      "stop": "2026-05-25T00:00:00+05:00",
+      "title": "Cocoon",
+      "desc": "Oscar-winning fantasy in which the residents of a Florida rest home get a new lease of life when they stumble across an alien \"fountain of youth\" in a disused holiday home. Unbeknown to them, aliens have been using the swimming pool in the house to store their cocooned brethren, giving the waters a powerful, rejuvenating quality.",
+      "date": "1985",
+      "language": "en",
+      "rating": "PG-13",
+      "categories": [
+        "Movie",
+        "Fantasy"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p8491_v_h10_aa.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Ron Howard"
+        ],
+        "actor": [
+          "Don Ameche",
+          "Wilford Brimley",
+          "Brian Dennehy"
         ]
       }
     }
