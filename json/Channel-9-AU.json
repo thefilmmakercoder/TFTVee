@@ -4,46 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-24T22:30:00+05:00",
-      "stop": "2026-05-24T23:00:00+05:00",
-      "title": "TV Shop - Home Shopping",
-      "desc": "Home shopping programme.",
-      "language": "en",
-      "rating": "G",
-      "categories": [
-        "Special Interest"
-      ],
-      "episode": "E35",
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/184500/image/334x188"
-    },
-    {
-      "start": "2026-05-24T23:00:00+05:00",
-      "stop": "2026-05-24T23:30:00+05:00",
-      "title": "Skippy",
-      "sub_title": "Mr Duffy",
-      "desc": "The grand expanse of Waratah National Park knows no bounds when Skippy is around to keep an eye on things - from shady poachers, unwelcome campers, deadly creatures and dangerous conditions.",
-      "language": "en",
-      "rating": "G",
-      "categories": [
-        "Kids & Family"
-      ],
-      "episode": "S3 E7",
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/132554/image/334x188"
-    },
-    {
-      "start": "2026-05-24T23:30:00+05:00",
-      "stop": "2026-05-25T00:00:00+05:00",
-      "title": "The Garden Gurus",
-      "desc": "This week on The Garden Gurus, we introduce a new plant feature, while Bonnie shares tips on refreshing containers in your garden.",
-      "language": "en",
-      "rating": "G",
-      "categories": [
-        "Special Interest"
-      ],
-      "episode": "S40 E12",
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/189106/image/334x188"
-    },
-    {
       "start": "2026-05-25T00:00:00+05:00",
       "stop": "2026-05-25T00:30:00+05:00",
       "title": "Today Early News",
@@ -83,6 +43,45 @@
       ],
       "episode": "E82",
       "icon": "https://www.fetchtv.com.au/v2/epg/program/134254/image/334x188"
+    },
+    {
+      "start": "2026-05-25T06:30:00+05:00",
+      "stop": "2026-05-25T07:00:00+05:00",
+      "title": "9News Morning",
+      "sub_title": "Monday 25 May 2026",
+      "desc": "Join 9News for up to the minute news on local and international news including sport and weather.",
+      "language": "en",
+      "rating": "NR",
+      "categories": [
+        "News"
+      ],
+      "episode": "E103",
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/426816/image/334x188"
+    },
+    {
+      "start": "2026-05-25T07:00:00+05:00",
+      "stop": "2026-05-25T09:00:00+05:00",
+      "title": "My Birthday Romance",
+      "desc": "Callie Fitzgerald is tired of her family fixing her up and questioning her single status. She is determined to find a pretend boyfriend for her 35th birthday party just so her folks will leave her alone. What she didn't expect was to actually fall for him. Romantic comedy, starring Ali Cobrin, Jesse Hutch and Charles Cottier.",
+      "language": "en",
+      "rating": "PG",
+      "categories": [
+        "Drama"
+      ],
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/2255617/image/334x188"
+    },
+    {
+      "start": "2026-05-25T09:00:00+05:00",
+      "stop": "2026-05-25T10:00:00+05:00",
+      "title": "Pointless",
+      "desc": "Alexander Armstrong is joined by co-host Tom Allen for the quiz where contestants try to score as few points as possible by coming up with the answers no-one else could think of.",
+      "language": "en",
+      "rating": "PG",
+      "categories": [
+        "Special Interest"
+      ],
+      "episode": "S34 E45",
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/325129/image/334x188"
     }
   ]
 }

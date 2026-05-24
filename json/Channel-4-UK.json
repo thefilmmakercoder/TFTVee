@@ -4,18 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-24T22:30:00+05:00",
-      "stop": "2026-05-24T23:00:00+05:00",
-      "title": "Channel 4 News",
-      "desc": "Channel 4's flagship news programme. Including the weather.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/8539c4f4-1d80-46fc-9ff9-2252596640b2/16-9"
-    },
-    {
       "start": "2026-05-24T23:00:00+05:00",
       "stop": "2026-05-25T00:00:00+05:00",
       "title": "The Great Celebrity Bake Off for Stand Up To Cancer",
@@ -76,6 +64,18 @@
         "Drama"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/f88eb580-6c8e-46b1-a502-1b0ffb2cf976/16-9"
+    },
+    {
+      "start": "2026-05-25T05:20:00+05:00",
+      "stop": "2026-05-25T06:50:00+05:00",
+      "title": "F1 Canadian Grand Prix Highlights",
+      "desc": "Will Kimi Antonelli win his fourth Grand Prix in a row? Or can anyone dethrone the boy from Bologna at the unforgiving Circuit Gilles Villeneuve.",
+      "language": "en",
+      "categories": [
+        "Sports",
+        "Motor Sports"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/d32c0a45-4c9f-4db0-9488-ec8f2a49c8ba/16-9"
     }
   ]
 }
