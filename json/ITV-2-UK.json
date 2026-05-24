@@ -4,18 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-24T23:55:00+05:00",
-      "stop": "2026-05-25T00:00:00+05:00",
-      "title": "FYI Daily",
-      "desc": "Latest news from the world of entertainment.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "Showbiz"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/c3902ab3-b415-4cf0-82bb-5e89d8c363d6/16-9"
-    },
-    {
       "start": "2026-05-25T00:00:00+05:00",
       "stop": "2026-05-25T01:00:00+05:00",
       "title": "Godzilla vs Kong",
@@ -76,6 +64,19 @@
         "Comedy"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/b6f87243-2534-40d0-a72d-325d80e8d8e7/16-9"
+    },
+    {
+      "start": "2026-05-25T03:30:00+05:00",
+      "stop": "2026-05-25T04:05:00+05:00",
+      "title": "American Dad!",
+      "sub_title": "Lincoln Lover",
+      "desc": "Animated series about a CIA man. Stan accepts an endorsement from the local chapter of Gay Republicans after missing out on the Republican National Convention.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Comedy"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/9c405382-d788-472a-b488-4d8ce13c53d7/16-9"
     }
   ]
 }

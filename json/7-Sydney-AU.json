@@ -4,18 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-25T00:00:00+05:00",
-      "stop": "2026-05-25T00:30:00+05:00",
-      "title": "Sunrise Early News",
-      "desc": "Wake up to a better breakfast with Edwina Bartholomew for all the latest news, sport and weather.",
-      "language": "en",
-      "rating": "NR",
-      "categories": [
-        "News"
-      ],
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/434344/image/334x188"
-    },
-    {
       "start": "2026-05-25T00:30:00+05:00",
       "stop": "2026-05-25T01:00:00+05:00",
       "title": "Sunrise",
@@ -83,6 +71,19 @@
       ],
       "episode": "S26 E81",
       "icon": "https://www.fetchtv.com.au/v2/epg/program/438848/image/334x188"
+    },
+    {
+      "start": "2026-05-25T08:02:00+05:00",
+      "stop": "2026-05-25T09:00:00+05:00",
+      "title": "Time Is Money",
+      "desc": "Sara Davies hosts the quickest quiz where contestants are given their prize money from the start but must race to keep hold of it. Only one can make the final and a chance to win big.",
+      "language": "en",
+      "rating": "G",
+      "categories": [
+        "Special Interest"
+      ],
+      "episode": "S1 E10",
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/16782673/image/334x188"
     }
   ]
 }

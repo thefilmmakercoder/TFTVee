@@ -4,18 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-25T00:10:00+05:00",
-      "stop": "2026-05-25T00:15:00+05:00",
-      "title": "FYI Daily",
-      "desc": "Latest news from the world of entertainment.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "Showbiz"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/8eb57776-a91c-422d-b3c7-8215bb1833b3/16-9"
-    },
-    {
       "start": "2026-05-25T00:15:00+05:00",
       "stop": "2026-05-25T01:25:00+05:00",
       "title": "Tomorrow Never Dies",
@@ -74,6 +62,18 @@
         "Action"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/14e4f82a-0dcd-4c81-aab5-c1b730c4b16c/16-9"
+    },
+    {
+      "start": "2026-05-25T04:15:00+05:00",
+      "stop": "2026-05-25T05:10:00+05:00",
+      "title": "Snatch",
+      "desc": "After patching things up with Saul, the boys get a lead on liquidating the gold bars, thanks to Chloe. But the buyer, a wealthy sheik, proves finicky.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Drama"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/8e8bf475-683f-4d32-8b0a-21cdb7b15491/16-9"
     }
   ]
 }
