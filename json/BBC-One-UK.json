@@ -4,18 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-24T21:10:00+05:00",
-      "stop": "2026-05-24T21:15:00+05:00",
-      "title": "Weather",
-      "desc": "The latest weather forecast.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/86aad818-a4c2-4478-b766-6753320157d7/16-9"
-    },
-    {
       "start": "2026-05-24T21:15:00+05:00",
       "stop": "2026-05-24T22:15:00+05:00",
       "title": "Final Score",
@@ -74,6 +62,18 @@
         "Drama"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/13949214-1f09-4c24-ad14-0adcfa48af13/16-9"
+    },
+    {
+      "start": "2026-05-25T02:00:00+05:00",
+      "stop": "2026-05-25T02:25:00+05:00",
+      "title": "BBC News and Weather",
+      "desc": "The latest national and international news from the BBC.",
+      "language": "en",
+      "categories": [
+        "News & Documentary",
+        "News"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/d5cc764d-1245-4102-b589-ab7df0f77a6c/16-9"
     }
   ]
 }

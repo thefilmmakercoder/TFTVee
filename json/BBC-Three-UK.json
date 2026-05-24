@@ -4,22 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-24T15:30:00+05:00",
-      "stop": "2026-05-24T21:30:00+05:00",
-      "title": "..programmes start at 7.00pm",
-      "desc": "BBC Three delivers bold and provocative content for younger audiences, featuring groundbreaking documentaries, experimental comedy, and fresh drama.",
-      "language": "en",
-      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/BBC-Three-UK.png"
-    },
-    {
-      "start": "2026-05-24T21:30:00+05:00",
-      "stop": "2026-05-24T22:58:00+05:00",
-      "title": "..programmes start at 7.00pm",
-      "desc": "BBC Three delivers bold and provocative content for younger audiences, featuring groundbreaking documentaries, experimental comedy, and fresh drama.",
-      "language": "en",
-      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/BBC-Three-UK.png"
-    },
-    {
       "start": "2026-05-24T22:58:00+05:00",
       "stop": "2026-05-24T23:00:00+05:00",
       "title": "This is BBC Three",
@@ -62,6 +46,30 @@
         "Soap"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/eafdd707-672f-4609-893a-449b55c3f085/16-9"
+    },
+    {
+      "start": "2026-05-25T00:30:00+05:00",
+      "stop": "2026-05-25T01:00:00+05:00",
+      "title": "EastEnders Omnibus",
+      "desc": "Grant drowns his sorrows, Nigel leaves Julie a final gift, while Lauren puts her family first.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Soap"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/3e39847f-8e0b-4866-8083-f17c369b5c2d/16-9"
+    },
+    {
+      "start": "2026-05-25T01:00:00+05:00",
+      "stop": "2026-05-25T02:00:00+05:00",
+      "title": "Jesy Nelson: Odd One Out",
+      "desc": "Little Mix's Jesy Nelson opens up about the abuse she has suffered online from trolls. Contains some strong language and some upsetting scenes.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Factual"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/ce3cadec-903b-4eb6-94ca-ed204724901e/16-9"
     }
   ]
 }
