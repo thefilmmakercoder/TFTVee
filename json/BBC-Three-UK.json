@@ -4,14 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-25T07:55:00+05:00",
-      "stop": "2026-05-25T09:30:00+05:00",
-      "title": "This is BBC Three",
-      "desc": "Programmes start at 7.00pm.",
-      "language": "en",
-      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/BBC-Three-UK.png"
-    },
-    {
       "start": "2026-05-25T09:30:00+05:00",
       "stop": "2026-05-25T15:30:00+05:00",
       "title": "..programmes start at 7.00pm",
@@ -53,6 +45,17 @@
         "Movie"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/284daaa0-feaf-4788-a52b-2edcf660f1e4/16-9"
+    },
+    {
+      "start": "2026-05-26T00:20:00+05:00",
+      "stop": "2026-05-26T01:20:00+05:00",
+      "title": "Sort Your Life Out with Stacey Solomon",
+      "desc": "Stacey Solomon and her team help Cherelle and Tony transform their chaotic two-bed home through a radical space-saving reorganisation.",
+      "language": "en",
+      "categories": [
+        "Entertainment"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/ad36f9e5-68d7-4318-a89b-cadaf0351ab8/16-9"
     }
   ]
 }

@@ -4,30 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-25T13:30:00+05:00",
-      "stop": "2026-05-25T14:00:00+05:00",
-      "title": "PIX11 Morning News at 4:30am",
-      "desc": "Staying informed with the news and headlines.",
-      "date": "2018",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p16250980_b_h8_ab.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-25T14:00:00+05:00",
-      "stop": "2026-05-25T15:00:00+05:00",
-      "title": "PIX11 Morning News at 5am",
-      "desc": "Staying informed with the news and headlines.",
-      "date": "2016",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p12803754_b_h8_ab.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-05-25T15:00:00+05:00",
       "stop": "2026-05-25T16:00:00+05:00",
       "title": "PIX11 Morning News at 6am",
@@ -74,6 +50,42 @@
         "Newsmagazine"
       ],
       "icon": "http://dtil.tmsimg.com/assets/p21493460_st_h10_aa.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-25T20:00:00+05:00",
+      "stop": "2026-05-25T20:30:00+05:00",
+      "title": "Monica Makes It Happen",
+      "desc": "Highlighting the community champions across the Tri-State.",
+      "date": "2023",
+      "language": "en",
+      "categories": [
+        "Community"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p26137694_st_h10_ab.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-25T20:30:00+05:00",
+      "stop": "2026-05-25T21:00:00+05:00",
+      "title": "Tribunal Justice",
+      "sub_title": "Secret Sublet Battle",
+      "desc": "A man accuses his ex-roommate of illegal subletting and seeks the return of his security deposit; she retaliates with allegations of property damage through bleaching.",
+      "date": "2025",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "Series",
+        "Law",
+        "Reality"
+      ],
+      "episode": "S2 E30",
+      "icon": "http://dtil.tmsimg.com/assets/p24616934_b_h10_ad.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Petri Hawkins-Byrd",
+          "Patricia DiMango",
+          "Tanya Acker"
+        ]
+      }
     }
   ]
 }

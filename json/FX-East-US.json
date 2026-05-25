@@ -4,43 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-25T13:30:00+05:00",
-      "stop": "2026-05-25T14:00:00+05:00",
-      "title": "Accident Compensation: Get Help Now!",
-      "desc": "Helping injured individuals get the compensation they are owed.",
-      "language": "en",
-      "categories": [
-        "Consumer"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p28560963_st_h10_aa.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-25T14:00:00+05:00",
-      "stop": "2026-05-25T14:30:00+05:00",
-      "title": "Inogen Portable Oxygen - No More Tanks!",
-      "desc": "Regain independence and enjoy greater mobility with the compact design and long-lasting battery of portable oxygen.",
-      "language": "en",
-      "categories": [
-        "Health",
-        "Consumer",
-        "Science",
-        "Medical",
-        "Technology"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p17108681_b_h11_ab.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-25T14:30:00+05:00",
-      "stop": "2026-05-25T15:00:00+05:00",
-      "title": "Car accident? Free Legal Consultation",
-      "desc": "Legal professionals standing by to answer your questions.",
-      "language": "en",
-      "categories": [
-        "Consumer"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p23642783_st_h10_aa.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-05-25T15:00:00+05:00",
       "stop": "2026-05-25T15:30:00+05:00",
       "title": "POOF! Bye Bye Under Eye Bags!",
@@ -103,6 +66,87 @@
           "Ben Affleck",
           "Josh Hartnett",
           "Kate Beckinsale"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-25T22:00:00+05:00",
+      "stop": "2026-05-26T00:30:00+05:00",
+      "title": "Captain America: The First Avenger",
+      "desc": "It is 1941 and the world is in the throes of war. Steve Rogers (Chris Evans) wants to do his part and join America's armed forces, but the military rejects him because of his small stature. Finally, Steve gets his chance when he is accepted into an experimental program that turns him into a supersoldier called Captain America. Joining forces with Bucky Barnes (Sebastian Stan) and Peggy Carter (Hayley Atwell), Captain America leads the fight against the Nazi-backed HYDRA organization.",
+      "date": "2011",
+      "language": "en",
+      "rating": "PG-13",
+      "categories": [
+        "Movie",
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p8205710_v_h8_an.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Joe Johnston"
+        ],
+        "actor": [
+          "Chris Evans",
+          "Hayley Atwell",
+          "Sebastian Stan"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-26T00:30:00+05:00",
+      "stop": "2026-05-26T03:00:00+05:00",
+      "title": "Captain Marvel",
+      "desc": "Captain Marvel is an extraterrestrial Kree warrior who finds herself caught in the middle of an intergalactic battle between her people and the Skrulls. Living on Earth in 1995, she keeps having recurring memories of another life as U.S. Air Force pilot Carol Danvers. With help from Nick Fury, Captain Marvel tries to uncover the secrets of her past while harnessing her special superpowers to end the war with the evil Skrulls.",
+      "date": "2019",
+      "language": "en",
+      "rating": "PG-13",
+      "categories": [
+        "Movie",
+        "Action",
+        "Adventure",
+        "Science fiction",
+        "Fantasy"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p14060049_v_h10_ap.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Anna Boden",
+          "Ryan Fleck"
+        ],
+        "actor": [
+          "Brie Larson",
+          "Samuel L. Jackson",
+          "Ben Mendelsohn"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-26T03:00:00+05:00",
+      "stop": "2026-05-26T06:00:00+05:00",
+      "title": "Captain America: The Winter Soldier",
+      "desc": "After the cataclysmic events in New York with his fellow Avengers, Steve Rogers, aka Captain America (Chris Evans), lives in the nation's capital as he tries to adjust to modern times. An attack on an S.H.I.E.L.D. colleague throws Rogers into a web of intrigue that places the whole world at risk. Joining forces with the Black Widow (Scarlett Johansson) and a new ally, the Falcon, Rogers struggles to expose an ever-widening conspiracy, but he and his team soon come up against an unexpected enemy.",
+      "date": "2014",
+      "language": "en",
+      "rating": "12A",
+      "categories": [
+        "Movie",
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p9895254_v_h10_ac.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Anthony Russo",
+          "Joe Russo"
+        ],
+        "actor": [
+          "Chris Evans",
+          "Scarlett Johansson",
+          "Samuel L. Jackson"
         ]
       }
     }

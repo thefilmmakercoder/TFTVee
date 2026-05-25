@@ -4,79 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-25T13:30:00+05:00",
-      "stop": "2026-05-25T14:00:00+05:00",
-      "title": "Cash Cab",
-      "desc": "It's the trivia-based game show that happens in cab Grove's cab!",
-      "date": "2012",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Series",
-        "Game show"
-      ],
-      "episode": "S5 E13",
-      "icon": "http://dtil.tmsimg.com/assets/p217679_b_h8_aa.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Adam Growe"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-25T14:00:00+05:00",
-      "stop": "2026-05-25T14:30:00+05:00",
-      "title": "CTV News Toronto",
-      "desc": "CTV News covers stories that matter to Canadians, locally, nationally and internationally.",
-      "date": "2014",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p11226977_b_h8_ae.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-25T14:30:00+05:00",
-      "stop": "2026-05-25T15:00:00+05:00",
-      "title": "CTV National News With Heather Butts",
-      "desc": "CTV News covers stories that matter to Canadians - locally, nationally, & internationally.",
-      "date": "2026",
-      "language": "en",
-      "categories": [
-        "Series",
-        "News"
-      ],
-      "episode": "E63",
-      "icon": "http://dtil.tmsimg.com/assets/p26024787_b_h8_aa.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Heather Butts"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-25T15:00:00+05:00",
-      "stop": "2026-05-25T16:00:00+05:00",
-      "title": "Live: CTV Your Morning",
-      "desc": "Delivering original perspectives and unique insights into the headlines of the day to Canadians from coast to coast.",
-      "date": "2026",
-      "language": "en",
-      "categories": [
-        "Series",
-        "News",
-        "Talk"
-      ],
-      "episode": "E355",
-      "icon": "http://dtil.tmsimg.com/assets/p20962079_b_h8_ac.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Anne-Marie Mediwake",
-          "Lindsey Deluce",
-          "Kelsey McEwen"
-        ]
-      }
-    },
-    {
       "start": "2026-05-25T16:00:00+05:00",
       "stop": "2026-05-25T17:00:00+05:00",
       "title": "Live: CTV Your Morning",
@@ -119,6 +46,86 @@
           "Kelsey McEwen"
         ]
       }
+    },
+    {
+      "start": "2026-05-25T18:00:00+05:00",
+      "stop": "2026-05-25T19:00:00+05:00",
+      "title": "Live with Kelly and Mark",
+      "sub_title": "Get Ready for Summer Week",
+      "desc": "Jon Cryer swings by the studio; Kevin Jonas is here; tips on summer entertaining from Monica Mangin!",
+      "date": "2026",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Talk"
+      ],
+      "episode": "S4 E191",
+      "icon": "http://dtil.tmsimg.com/assets/p24324378_b_h8_ab.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Kelly Ripa",
+          "Mark Consuelos",
+          "Jon Cryer"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-25T19:00:00+05:00",
+      "stop": "2026-05-25T20:00:00+05:00",
+      "title": "Live: The Good Stuff With Mary Berg",
+      "desc": "Mary makes stuffed crust pizza; 90s snacks and desserts; updated 90s fashion; 90s d\u00e9cor.",
+      "date": "2026",
+      "language": "en",
+      "categories": [
+        "Series",
+        "Talk",
+        "Entertainment"
+      ],
+      "episode": "S3 E165",
+      "icon": "http://dtil.tmsimg.com/assets/p24996781_b_h8_ab.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Mary Berg"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-25T20:00:00+05:00",
+      "stop": "2026-05-25T21:00:00+05:00",
+      "title": "The View",
+      "desc": "Actors Kate Hudson and Justin Theroux; comic Nikki Glaser.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "Series",
+        "Talk"
+      ],
+      "episode": "S29 E146",
+      "icon": "http://dtil.tmsimg.com/assets/p31138947_b_h8_aa.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Sarah de la O"
+        ],
+        "actor": [
+          "Whoopi Goldberg",
+          "Joy Behar",
+          "Sunny Hostin"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-25T21:00:00+05:00",
+      "stop": "2026-05-25T22:00:00+05:00",
+      "title": "Live: CTV News Toronto",
+      "desc": "CTV News covers stories that matter to Canadians, locally, nationally and internationally.",
+      "date": "2014",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p11226977_b_h8_ae.jpg?w=960&h=540"
     }
   ]
 }
