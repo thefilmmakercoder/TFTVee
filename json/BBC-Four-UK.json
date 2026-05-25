@@ -4,14 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-25T09:30:00+05:00",
-      "stop": "2026-05-25T15:30:00+05:00",
-      "title": "..programmes start at 7.00pm",
-      "desc": "BBC Four provides an intelligent mix of arts, science, and history programming, offering deep-dive documentaries and world cinema for a curious audience.",
-      "language": "en",
-      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/BBC-Four-UK.png"
-    },
-    {
       "start": "2026-05-25T15:30:00+05:00",
       "stop": "2026-05-25T21:30:00+05:00",
       "title": "..programmes start at 7.00pm",
@@ -58,6 +50,18 @@
         "Game Show"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/bd742385-bab8-4445-a187-000e50133f92/16-9"
+    },
+    {
+      "start": "2026-05-26T00:00:00+05:00",
+      "stop": "2026-05-26T01:00:00+05:00",
+      "title": "India: Nature's Wonderland",
+      "desc": "Wildlife expert Liz Bonnin, actor Freida Pinto and mountaineer Jon Gupta reveal the hidden wonders of India's surprising natural world.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Factual"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/a172217e-423f-40ef-98ac-6236bbbaa216/16-9"
     }
   ]
 }

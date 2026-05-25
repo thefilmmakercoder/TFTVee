@@ -4,18 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-25T18:30:00+05:00",
-      "stop": "2026-05-25T20:25:00+05:00",
-      "title": "Country To Couture",
-      "desc": "A spectacular runway showcase bringing together the vibrant spirit of Aboriginal and Torres Strait Islander design.",
-      "language": "en",
-      "rating": "PG",
-      "categories": [
-        "Special Interest"
-      ],
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/15489387/image/334x188"
-    },
-    {
       "start": "2026-05-25T20:25:00+05:00",
       "stop": "2026-05-25T21:20:00+05:00",
       "title": "Dark Side Of The Ring",
@@ -80,6 +68,20 @@
         "News"
       ],
       "icon": "https://www.fetchtv.com.au/v2/epg/program/413687/image/334x188"
+    },
+    {
+      "start": "2026-05-26T02:20:00+05:00",
+      "stop": "2026-05-26T02:50:00+05:00",
+      "title": "FBC News Fiji",
+      "sub_title": "Fiji",
+      "desc": "Local, world, sport and entertainment news in English from FBC News, Suva Fiji.",
+      "language": "en",
+      "rating": "NR",
+      "categories": [
+        "News"
+      ],
+      "episode": "E4012026",
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/426449/image/334x188"
     }
   ]
 }
