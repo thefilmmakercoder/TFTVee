@@ -4,48 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-25T04:00:00+05:00",
-      "stop": "2026-05-25T05:00:00+05:00",
-      "title": "CNN Newsroom",
-      "desc": "Updates of news from around the world.",
-      "date": "2026",
-      "language": "en",
-      "categories": [
-        "Series",
-        "News"
-      ],
-      "episode": "E198",
-      "icon": "http://dtil.tmsimg.com/assets/p186552_b_h8_aa.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Victor Blackwell",
-          "Pamela Brown",
-          "Ana Cabrera"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-25T05:00:00+05:00",
-      "stop": "2026-05-25T07:00:00+05:00",
-      "title": "I'm Chevy Chase and You're Not",
-      "desc": "A bold and deeply human portrait of one of Hollywood's great enigmas, this film charts Chevy Chase's rise from breakout SNL star to box-office royalty; examining the complexities and challenges that have shaped his legacy.",
-      "date": "2025",
-      "language": "en",
-      "categories": [
-        "Movie",
-        "Documentary"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p32048425_v_h8_ab.jpg?w=960&h=540",
-      "credits": {
-        "director": [
-          "Marina Zenovich"
-        ],
-        "actor": [
-          "Chevy Chase"
-        ]
-      }
-    },
-    {
       "start": "2026-05-25T07:00:00+05:00",
       "stop": "2026-05-25T09:00:00+05:00",
       "title": "The Eighties",
@@ -117,6 +75,36 @@
       ],
       "episode": "E256",
       "icon": "http://dtil.tmsimg.com/assets/p11873759_b_h10_aa.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-25T13:00:00+05:00",
+      "stop": "2026-05-25T14:00:00+05:00",
+      "title": "CNN Newsroom Live",
+      "desc": "The latest news from around the world.",
+      "date": "2026",
+      "language": "en",
+      "categories": [
+        "Series",
+        "News",
+        "Interview",
+        "Politics"
+      ],
+      "episode": "E257",
+      "icon": "http://dtil.tmsimg.com/assets/p11873759_b_h10_aa.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-25T14:00:00+05:00",
+      "stop": "2026-05-25T15:00:00+05:00",
+      "title": "Live: CNN Headline Express",
+      "desc": "Brad Smith brings you the biggest headlines and most buzzworthy stories.",
+      "date": "2026",
+      "language": "en",
+      "categories": [
+        "Series",
+        "News"
+      ],
+      "episode": "E16",
+      "icon": "http://dtil.tmsimg.com/assets/p32988511_b_h8_aa.jpg?w=960&h=540"
     }
   ]
 }

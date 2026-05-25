@@ -4,72 +4,56 @@
   ],
   "programs": [
     {
-      "start": "2026-05-25T03:35:00+05:00",
-      "stop": "2026-05-25T04:20:00+05:00",
-      "title": "Omnibus: Nureyev",
-      "desc": "Theatre and film director Lindsay Anderson in conversation with ballet superstar Rudolf Nureyev. First broadcast in 1974.",
-      "language": "en",
-      "categories": [
-        "Entertainment",
-        "Arts"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/37f5af88-98da-4e5b-a4c7-2067ad83f934/16-9"
-    },
-    {
-      "start": "2026-05-25T04:20:00+05:00",
-      "stop": "2026-05-25T05:20:00+05:00",
-      "title": "Nature: The Classical Collection",
-      "desc": "The natural world has always been a powerful inspiration to composers, and this programme takes us on an evocative journey through some of the best-loved musical responses.",
-      "language": "en",
-      "categories": [
-        "Entertainment",
-        "Arts"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/f1b44288-de08-4543-a1c4-f0d22dba2243/16-9"
-    },
-    {
-      "start": "2026-05-25T05:20:00+05:00",
-      "stop": "2026-05-25T06:05:00+05:00",
-      "title": "Sex Symbols: Talking Pictures",
-      "desc": "Sylvia Syms looks at the handsome heroes, gorgeous heroines, pin-ups and bombshells who came to be known as cinema's greatest sex symbols, hearing from the stars themselves.",
-      "language": "en",
-      "categories": [
-        "Entertainment",
-        "Factual"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/71a87025-932b-4ab5-8b36-f21f74ca2e5c/16-9"
-    },
-    {
-      "start": "2026-05-25T06:05:00+05:00",
-      "stop": "2026-05-25T06:35:00+05:00",
-      "title": "Eve and Marilyn",
-      "desc": "Eve Arnold photographed Marilyn Monroe in the 1950s and 60s and became the star's trusted confidante. She talks about Monroe and how their friendship developed.",
-      "language": "en",
-      "categories": [
-        "Entertainment",
-        "Arts"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/b66efa9c-ae4d-4eaf-b6d5-27d3ce87165a/16-9"
-    },
-    {
-      "start": "2026-05-25T06:35:00+05:00",
-      "stop": "2026-05-25T07:20:00+05:00",
-      "title": "Jane Russell: Scene by Scene",
-      "desc": "Hollywood sex symbol Jane Russell talks about her difficult childhood as the eldest and only girl of six siblings, her film career and working with Marilyn Monroe.",
-      "language": "en",
-      "categories": [
-        "Entertainment",
-        "Arts"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/74b39c2d-8860-4bb2-98ce-84fbb83a8f24/16-9"
-    },
-    {
       "start": "2026-05-25T07:20:00+05:00",
       "stop": "2026-05-25T09:30:00+05:00",
       "title": "This is BBC Four",
       "desc": "Programmes start at 7.00pm.",
       "language": "en",
       "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/BBC-Four-UK.png"
+    },
+    {
+      "start": "2026-05-25T09:30:00+05:00",
+      "stop": "2026-05-25T15:30:00+05:00",
+      "title": "..programmes start at 7.00pm",
+      "desc": "BBC Four provides an intelligent mix of arts, science, and history programming, offering deep-dive documentaries and world cinema for a curious audience.",
+      "language": "en",
+      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/BBC-Four-UK.png"
+    },
+    {
+      "start": "2026-05-25T15:30:00+05:00",
+      "stop": "2026-05-25T21:30:00+05:00",
+      "title": "..programmes start at 7.00pm",
+      "desc": "BBC Four provides an intelligent mix of arts, science, and history programming, offering deep-dive documentaries and world cinema for a curious audience.",
+      "language": "en",
+      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/BBC-Four-UK.png"
+    },
+    {
+      "start": "2026-05-25T21:30:00+05:00",
+      "stop": "2026-05-25T22:58:00+05:00",
+      "title": "..programmes start at 7.00pm",
+      "desc": "BBC Four provides an intelligent mix of arts, science, and history programming, offering deep-dive documentaries and world cinema for a curious audience.",
+      "language": "en",
+      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/BBC-Four-UK.png"
+    },
+    {
+      "start": "2026-05-25T22:58:00+05:00",
+      "stop": "2026-05-25T23:00:00+05:00",
+      "title": "This is BBC Four",
+      "desc": "Programmes start at 7.00pm.",
+      "language": "en",
+      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/BBC-Four-UK.png"
+    },
+    {
+      "start": "2026-05-25T23:00:00+05:00",
+      "stop": "2026-05-25T23:30:00+05:00",
+      "title": "University Challenge",
+      "desc": "It's the penultimate match of the first round. Newnham College, Cambridge, face the Courtauld Institute of Art for a place in the second round. Jeremy Paxman asks the questions.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Game Show"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/210fe0dd-b301-41bc-bd93-619da0dac12b/16-9"
     }
   ]
 }

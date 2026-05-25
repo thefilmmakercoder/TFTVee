@@ -4,34 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-25T01:00:00+05:00",
-      "stop": "2026-05-25T03:20:00+05:00",
-      "title": "Angel Has Fallen",
-      "desc": "Action-thriller sequel. Secret agent Mike Banning (Gerard Butler) goes on the run when he's framed for an attack on the President. Can he clear his name.",
-      "date": "2019",
-      "language": "en",
-      "rating": "15",
-      "categories": [
-        "Movie",
-        "Action"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/338d6ad9-f3d1-4c06-8b6f-6d3186ac4c81/16-9"
-    },
-    {
-      "start": "2026-05-25T03:20:00+05:00",
-      "stop": "2026-05-25T05:40:00+05:00",
-      "title": "3:10 to Yuma",
-      "desc": "Western starring Christian Bale and Russell Crowe. An impoverished rancher tries to earn some money and his family's respect by escorting a dangerous outlaw on his way to jail.",
-      "date": "2007",
-      "language": "en",
-      "rating": "15",
-      "categories": [
-        "Movie",
-        "Western"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/5fa04212-1402-409a-805b-068425d538da/16-9"
-    },
-    {
       "start": "2026-05-25T05:40:00+05:00",
       "stop": "2026-05-25T07:55:00+05:00",
       "title": "Corpus Christi",
@@ -81,6 +53,32 @@
         "Home"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/5be2fb4e-dca4-4ca1-8831-f582c7d5047b/16-9"
+    },
+    {
+      "start": "2026-05-25T12:30:00+05:00",
+      "stop": "2026-05-25T15:00:00+05:00",
+      "title": "Teleshopping",
+      "desc": "Teleshopping.",
+      "language": "en",
+      "categories": [
+        "Specialist",
+        "Shopping"
+      ],
+      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/Film-4-UK.png"
+    },
+    {
+      "start": "2026-05-25T15:00:00+05:00",
+      "stop": "2026-05-25T16:50:00+05:00",
+      "title": "Guadalcanal Diary",
+      "desc": "Second World War action drama following two US marines as they make advances into the Solomon Islands to drive back the Japanese forces. Starring Preston Foster and Lloyd Nolan.",
+      "date": "1943",
+      "language": "en",
+      "rating": "PG",
+      "categories": [
+        "Movie",
+        "War"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/23e886c5-3d7c-43d8-863c-370c376c683b/16-9"
     }
   ]
 }
