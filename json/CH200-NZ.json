@@ -4,15 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-25T17:00:00+05:00",
-      "stop": "2026-05-25T18:00:00+05:00",
-      "title": "JUICE TV",
-      "desc": "Music videos",
-      "language": "en",
-      "rating": "PG",
-      "icon": "https://dummyimage.com/778x1200/000000/ffffff.png?text=JUICE+TV"
-    },
-    {
       "start": "2026-05-25T18:00:00+05:00",
       "stop": "2026-05-26T00:00:00+05:00",
       "title": "France 24 News",
@@ -59,6 +50,18 @@
       "language": "en",
       "rating": "PG",
       "icon": "https://dummyimage.com/778x1200/000000/ffffff.png?text=JUICE+TV"
+    },
+    {
+      "start": "2026-05-26T18:00:00+05:00",
+      "stop": "2026-05-27T00:00:00+05:00",
+      "title": "France 24 News",
+      "desc": "Live overnight coverage from the France 24 English News service",
+      "language": "en",
+      "rating": "PG",
+      "categories": [
+        "News"
+      ],
+      "icon": "https://dummyimage.com/778x1200/000000/ffffff.png?text=France+24+News"
     }
   ]
 }

@@ -4,30 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-25T21:00:00+05:00",
-      "stop": "2026-05-25T22:00:00+05:00",
-      "title": "Good Day LA at 9am",
-      "desc": "Morning news coverage.",
-      "date": "2012",
-      "language": "en",
-      "categories": [
-        "Talk"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p9542653_b_h8_ac.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-25T22:00:00+05:00",
-      "stop": "2026-05-25T23:00:00+05:00",
-      "title": "Good Day LA at 10am",
-      "desc": "Morning news coverage.",
-      "date": "2022",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p22751421_b_h8_ab.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-05-25T23:00:00+05:00",
       "stop": "2026-05-26T00:00:00+05:00",
       "title": "GDLA+",
@@ -105,6 +81,51 @@
           "Meredith Vieira",
           "Ross Mathews",
           "Dulc\u00e9 Sloan"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-26T03:00:00+05:00",
+      "stop": "2026-05-26T04:00:00+05:00",
+      "title": "Dateline",
+      "sub_title": "The End of the Affair",
+      "desc": "After police discover the burned body of a missing Miami man at the edge of the Florida Everglades, the wife of a local supermarket mogul comes forward to reveal a shocking secret and possible lead.",
+      "date": "2025",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Newsmagazine",
+        "Documentary"
+      ],
+      "episode": "S9 E7",
+      "icon": "http://dtil.tmsimg.com/assets/p31054010_b_h10_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Craig Melvin",
+          "Andrea Canning",
+          "Natalie Morales"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-26T04:00:00+05:00",
+      "stop": "2026-05-26T05:00:00+05:00",
+      "title": "TMZ Live",
+      "desc": "A candid look at how the gossip site operates, bringing viewers into the site's newsroom, where the daily chats take place; viewers present their opinions on the featured topics through social media, phone calls and video chat.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Newsmagazine",
+        "Entertainment"
+      ],
+      "episode": "S14 E191",
+      "icon": "http://dtil.tmsimg.com/assets/p9132568_b_h10_ab.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Harvey Levin"
         ]
       }
     }
