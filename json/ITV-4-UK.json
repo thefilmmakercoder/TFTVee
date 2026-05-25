@@ -4,18 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-25T03:10:00+05:00",
-      "stop": "2026-05-25T03:15:00+05:00",
-      "title": "FYI Daily",
-      "desc": "Latest news from the world of entertainment.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "Showbiz"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/50bfc291-525f-49a4-b918-b9c894d03b3f/16-9"
-    },
-    {
       "start": "2026-05-25T03:15:00+05:00",
       "stop": "2026-05-25T04:15:00+05:00",
       "title": "Under Siege",
@@ -75,6 +63,18 @@
         "Lifestyles"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/dd99c6bb-31a1-4fd4-a301-631d7a9f562d/16-9"
+    },
+    {
+      "start": "2026-05-25T07:00:00+05:00",
+      "stop": "2026-05-25T07:30:00+05:00",
+      "title": "Teleshopping",
+      "desc": "Shopping from home.",
+      "language": "en",
+      "categories": [
+        "Specialist",
+        "Shopping"
+      ],
+      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/ITV-4-UK.png"
     }
   ]
 }

@@ -4,30 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-25T02:30:00+05:00",
-      "stop": "2026-05-25T02:45:00+05:00",
-      "title": "ITV News",
-      "desc": "National and international news with reports and analysis from ITV's Correspondents in the UK and around the world as well as the latest major sports results.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/d18df607-8113-4568-8c24-02e8576196f3/16-9"
-    },
-    {
-      "start": "2026-05-25T02:45:00+05:00",
-      "stop": "2026-05-25T03:45:00+05:00",
-      "title": "Obituary",
-      "sub_title": "Death Becomes Her",
-      "desc": "Irish black comedy series following an obituarist who turns to murder to boost her career. Elvira's penny-pinching editor plans to pay her 200 Euros per obituary.",
-      "language": "en",
-      "categories": [
-        "Entertainment"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/e28999ad-ede1-34fe-82e9-d2d98b0cda61/16-9"
-    },
-    {
       "start": "2026-05-25T03:45:00+05:00",
       "stop": "2026-05-25T04:35:00+05:00",
       "title": "Nobody's Fool",
@@ -75,6 +51,30 @@
         "Lifestyles"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/72818518-8679-4077-967e-45c7e38ffb13/16-9"
+    },
+    {
+      "start": "2026-05-25T09:05:00+05:00",
+      "stop": "2026-05-25T10:00:00+05:00",
+      "title": "Motorsport UK",
+      "desc": "Richard John Neil presents MSUK from Donington with racing from the Wera Tools F4 British Championship and Porsche Carrera Cup Great Britain.",
+      "language": "en",
+      "categories": [
+        "Sports",
+        "Motor Sports"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/69c08ae1-3ee1-4e91-b15f-f30bdcc6aaad/16-9"
+    },
+    {
+      "start": "2026-05-25T10:00:00+05:00",
+      "stop": "2026-05-25T13:30:00+05:00",
+      "title": "Good Morning Britain",
+      "desc": "News, current affairs and lively debate.",
+      "language": "en",
+      "categories": [
+        "News & Documentary",
+        "News"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/f7a7fea3-0822-462e-bc1d-fe6026b34afe/16-9"
     }
   ]
 }

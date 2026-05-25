@@ -4,44 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-25T02:30:00+05:00",
-      "stop": "2026-05-25T03:00:00+05:00",
-      "title": "Seinfeld",
-      "sub_title": "The Stakeout",
-      "desc": "Jerry goes to great lengths to find and woo a woman he met at a party.",
-      "date": "1990",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Series",
-        "Sitcom"
-      ],
-      "episode": "S1 E2",
-      "icon": "http://dtil.tmsimg.com/assets/p183875_b_h10_ab.jpg?w=960&h=540",
-      "credits": {
-        "director": [
-          "Tom Cherones"
-        ],
-        "actor": [
-          "Jerry Seinfeld",
-          "Jason Alexander",
-          "Michael Richards"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-25T03:00:00+05:00",
-      "stop": "2026-05-25T04:00:00+05:00",
-      "title": "CTV News Toronto",
-      "desc": "CTV News covers stories that matter to Canadians, locally, nationally and internationally.",
-      "date": "2014",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p11226977_b_h8_ae.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-05-25T04:00:00+05:00",
       "stop": "2026-05-25T05:00:00+05:00",
       "title": "Battle of the Generations",
@@ -134,6 +96,52 @@
           "Brent Butt",
           "Eric Peterson",
           "Janet Wright"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-25T09:00:00+05:00",
+      "stop": "2026-05-25T12:00:00+05:00",
+      "title": "The Equalizer",
+      "desc": "Robert McCall (Denzel Washington), a man of mysterious origin who believes he has put the past behind him, dedicates himself to creating a quiet new life. However, when he meets Teri (Chlo\u00eb Grace Moretz), a teenager who has been manhandled by violent Russian mobsters, he simply cannot walk away. With his set of formidable skills, McCall comes out of self-imposed retirement and emerges as an avenging angel, ready to take down anyone who brutalizes the helpless.",
+      "date": "2014",
+      "language": "en",
+      "rating": "R",
+      "categories": [
+        "Movie",
+        "Action",
+        "Thriller"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p10549100_v_h10_ac.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Antoine Fuqua"
+        ],
+        "actor": [
+          "Denzel Washington",
+          "Marton Csokas",
+          "Chlo\u00eb Grace Moretz"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-25T12:00:00+05:00",
+      "stop": "2026-05-25T13:00:00+05:00",
+      "title": "TMZ",
+      "desc": "TMZ TV tracks down today's hottest stars with their cameras, whether they are hitting the clubs or the dry cleaners.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Newsmagazine",
+        "Entertainment"
+      ],
+      "episode": "S19 E228",
+      "icon": "http://dtil.tmsimg.com/assets/p30985766_b_h10_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Harvey Levin"
         ]
       }
     }

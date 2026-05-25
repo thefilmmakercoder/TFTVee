@@ -4,33 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-25T00:55:00+05:00",
-      "stop": "2026-05-25T03:00:00+05:00",
-      "title": "Live: Formula 1 Racing",
-      "desc": "The Formula 1 Canadian Grand Prix runs 70 laps at Circuit Gilles-Villeneuve. Defending race winner George Russell returns for the 189.6-mile race as the world's top drivers battle for world championship points in front of a packed crowd in Montreal.",
-      "language": "en",
-      "categories": [
-        "Sports",
-        "Auto racing"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p32386783_b_h8_aa.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-25T03:00:00+05:00",
-      "stop": "2026-05-25T04:00:00+05:00",
-      "title": "Live: F1 Chequered Flag",
-      "sub_title": "Canadian Grand Prix",
-      "desc": "Post-race analysis of F1 races.",
-      "date": "2026",
-      "language": "en",
-      "categories": [
-        "Series",
-        "Auto racing"
-      ],
-      "episode": "E108",
-      "icon": "http://dtil.tmsimg.com/assets/p19683571_b_h8_ac.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-05-25T04:00:00+05:00",
       "stop": "2026-05-25T05:00:00+05:00",
       "title": "Sullivan's Crossing",
@@ -126,6 +99,40 @@
           "Johnny Galecki",
           "Jim Parsons",
           "Kaley Cuoco"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-25T07:30:00+05:00",
+      "stop": "2026-05-25T08:00:00+05:00",
+      "title": "Game and Glory",
+      "sub_title": "Brazil",
+      "desc": "Diving into the passion, noise and unmatched energy of football fandom.",
+      "date": "2026",
+      "language": "en",
+      "categories": [
+        "Series",
+        "Soccer"
+      ],
+      "episode": "S1 E1",
+      "icon": "http://dtil.tmsimg.com/assets/p32808792_b_h8_aa.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-25T08:00:00+05:00",
+      "stop": "2026-05-25T08:30:00+05:00",
+      "title": "Live: CTV National News With Heather Butts",
+      "desc": "CTV News covers stories that matter to Canadians - locally, nationally, & internationally.",
+      "date": "2026",
+      "language": "en",
+      "categories": [
+        "Series",
+        "News"
+      ],
+      "episode": "E63",
+      "icon": "http://dtil.tmsimg.com/assets/p26024787_b_h8_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Heather Butts"
         ]
       }
     }

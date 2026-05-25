@@ -4,46 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-25T02:50:00+05:00",
-      "stop": "2026-05-25T03:10:00+05:00",
-      "title": "Euronews",
-      "sub_title": "Monday 18 May 2026",
-      "desc": "Headlines, Breaking News & Analysis from the Euronews news centre in Brussels, Belgium, in English.",
-      "language": "en",
-      "rating": "NR",
-      "categories": [
-        "News"
-      ],
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/276/image/334x188"
-    },
-    {
-      "start": "2026-05-25T03:10:00+05:00",
-      "stop": "2026-05-25T03:40:00+05:00",
-      "title": "DW English News",
-      "sub_title": "Morning",
-      "desc": "News and analysis of the top international and European news and current affairs from Berlin, in English.",
-      "language": "en",
-      "rating": "NR",
-      "categories": [
-        "News"
-      ],
-      "episode": "E4012026",
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/310648/image/334x188"
-    },
-    {
-      "start": "2026-05-25T03:40:00+05:00",
-      "stop": "2026-05-25T04:30:00+05:00",
-      "title": "DW Euromaxx",
-      "sub_title": "Monday 25 May 2026",
-      "desc": "Magazine programs Euromaxx, Sports Life and other features as broadcast by DW News in Berlin, Germany.",
-      "language": "en",
-      "rating": "NR",
-      "categories": [
-        "Special Interest"
-      ],
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/6821474/image/334x188"
-    },
-    {
       "start": "2026-05-25T04:30:00+05:00",
       "stop": "2026-05-25T05:00:00+05:00",
       "title": "PBS News Horizons",
@@ -83,6 +43,46 @@
       ],
       "episode": "E17",
       "icon": "https://www.fetchtv.com.au/v2/epg/program/130483/image/334x188"
+    },
+    {
+      "start": "2026-05-25T06:05:00+05:00",
+      "stop": "2026-05-25T06:40:00+05:00",
+      "title": "The Movie Show",
+      "sub_title": "Sydney Film Festival",
+      "desc": "Film review show with David Stratton and Margaret Pomeranz, featuring The Hudsucker Proxy, Speed and more, plus interviews and Sydney Film Festival coverage.",
+      "language": "en",
+      "rating": "NR",
+      "categories": [
+        "Special Interest"
+      ],
+      "episode": "E18",
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/130483/image/334x188"
+    },
+    {
+      "start": "2026-05-25T06:40:00+05:00",
+      "stop": "2026-05-25T07:15:00+05:00",
+      "title": "The Movie Show",
+      "desc": "Film review show with David Stratton and Margaret Pomeranz, featuring Frauds, The Crow and more, plus interviews with filmmakers and cast.",
+      "language": "en",
+      "rating": "NR",
+      "categories": [
+        "Special Interest"
+      ],
+      "episode": "E19",
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/130483/image/334x188"
+    },
+    {
+      "start": "2026-05-25T07:15:00+05:00",
+      "stop": "2026-05-25T07:45:00+05:00",
+      "title": "France 24 English News",
+      "sub_title": "Morning First Edition",
+      "desc": "International news and current affairs television from Paris, offering a French perspective on world events, in English.",
+      "language": "en",
+      "rating": "NR",
+      "categories": [
+        "News"
+      ],
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/310649/image/334x188"
     }
   ]
 }

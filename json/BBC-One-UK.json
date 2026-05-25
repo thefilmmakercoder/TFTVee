@@ -4,30 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-25T02:25:00+05:00",
-      "stop": "2026-05-25T02:30:00+05:00",
-      "title": "BBC London News",
-      "desc": "The latest news, sport and weather from London.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/c0d4a093-de4b-4f77-a14c-24410328a18d/16-9"
-    },
-    {
-      "start": "2026-05-25T02:30:00+05:00",
-      "stop": "2026-05-25T04:10:00+05:00",
-      "title": "Match of the Day",
-      "desc": "Kelly Cates presents highlights of the final day of the Premier League season's ten matches, including Arsenal's trip to Crystal Palace and Manchester City versus Aston Villa.",
-      "language": "en",
-      "categories": [
-        "Sports",
-        "Football"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/9a176603-0ad8-4db8-94e7-2cfaa147d91a/16-9"
-    },
-    {
       "start": "2026-05-25T04:10:00+05:00",
       "stop": "2026-05-25T04:35:00+05:00",
       "title": "Football Eras: Andy Robertson meets Kenny Dalglish",
@@ -74,6 +50,30 @@
         "News"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/7d81490a-2c13-4033-b426-57aed913b4e7/16-9"
+    },
+    {
+      "start": "2026-05-25T10:00:00+05:00",
+      "stop": "2026-05-25T13:30:00+05:00",
+      "title": "Breakfast",
+      "desc": "The latest news, sport, business and weather from the BBC's Breakfast team.",
+      "language": "en",
+      "categories": [
+        "News & Documentary",
+        "News"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/58825cf5-7c81-4033-a06f-ba999ec63325/16-9"
+    },
+    {
+      "start": "2026-05-25T13:30:00+05:00",
+      "stop": "2026-05-25T14:00:00+05:00",
+      "title": "The Scarecrows' Wedding",
+      "desc": "Betty O'Barley and Harry O'Hay are scarecrows planning a wedding to remember. A loving tale about learning that the important thing isn't a grand gesture - it's simply being together.",
+      "language": "en",
+      "categories": [
+        "Children",
+        "Drama"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/a6203da1-2d60-4c23-bdfd-ccf7b125f03a/16-9"
     }
   ]
 }
