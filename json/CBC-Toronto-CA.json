@@ -4,86 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-25T09:00:00+05:00",
-      "stop": "2026-05-25T10:00:00+05:00",
-      "title": "CBC Docs POV",
-      "sub_title": "Prison Farm",
-      "desc": "A group of inmates begins a new farming project within their prison and watch as their efforts with livestock and crops contribute to rehabilitation.",
-      "date": "2021",
-      "language": "en",
-      "categories": [
-        "Series",
-        "Documentary"
-      ],
-      "episode": "S6 E2",
-      "icon": "http://dtil.tmsimg.com/assets/p14647819_b_h11_aa.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-25T10:00:00+05:00",
-      "stop": "2026-05-25T11:00:00+05:00",
-      "title": "CBC Docs POV",
-      "sub_title": "World's Biggest Family",
-      "desc": "A man with 600 half-siblings takes a hard look at the hidden costs of sperm donor anonymity.",
-      "date": "2020",
-      "language": "en",
-      "categories": [
-        "Series",
-        "Documentary"
-      ],
-      "episode": "S5 E1",
-      "icon": "http://dtil.tmsimg.com/assets/p14647819_b_h11_aa.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-25T11:00:00+05:00",
-      "stop": "2026-05-25T12:00:00+05:00",
-      "title": "The Nature of Things",
-      "sub_title": "Rebellion",
-      "desc": "Millions of young people rise up to demand a livable planet.",
-      "date": "2020",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Series",
-        "Documentary",
-        "Science",
-        "Nature",
-        "Animals"
-      ],
-      "episode": "S60 E1",
-      "icon": "http://dtil.tmsimg.com/assets/p185885_b_h8_aq.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "David Suzuki"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-25T12:00:00+05:00",
-      "stop": "2026-05-25T13:00:00+05:00",
-      "title": "Heartland",
-      "sub_title": "The Road Home",
-      "desc": "Ty has some tough decisions to make when Jack leaves him at a crossroads.",
-      "date": "2011",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Series",
-        "Drama"
-      ],
-      "episode": "S4 E13",
-      "icon": "http://dtil.tmsimg.com/assets/p185880_b_h10_bf.jpg?w=960&h=540",
-      "credits": {
-        "director": [
-          "Eleanor Lindo"
-        ],
-        "actor": [
-          "Amber Marshall",
-          "Chris Potter",
-          "Michelle Morgan"
-        ]
-      }
-    },
-    {
       "start": "2026-05-25T13:00:00+05:00",
       "stop": "2026-05-25T14:00:00+05:00",
       "title": "Escape to the Country",
@@ -128,6 +48,78 @@
           "Nicki Chapman"
         ]
       }
+    },
+    {
+      "start": "2026-05-25T15:00:00+05:00",
+      "stop": "2026-05-25T15:10:00+05:00",
+      "title": "Live: World Report",
+      "desc": "What's going on in Canada and the world; a ten-minute dose of big news stories.",
+      "date": "2025",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p29417925_b_h8_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Marcia Young",
+          "John Northcott"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-25T15:10:00+05:00",
+      "stop": "2026-05-25T16:00:00+05:00",
+      "title": "Live: Metro Morning",
+      "desc": "News, current affairs, weather and traffic.",
+      "date": "2015",
+      "language": "en",
+      "categories": [
+        "Community",
+        "News",
+        "Public affairs"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p11567849_b_h8_ab.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Ismaila Alfa"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-25T16:00:00+05:00",
+      "stop": "2026-05-25T16:05:00+05:00",
+      "title": "Mini-Jon and Mini-Maple",
+      "sub_title": "The Package",
+      "desc": "Mini-Jon and Mini-Maple want to find out what's inside a package addressed to Jon Le Bon; they just need to be careful not to break it.",
+      "date": "2023",
+      "language": "en",
+      "categories": [
+        "Series",
+        "Animated",
+        "Adventure",
+        "Children"
+      ],
+      "episode": "S1",
+      "icon": "http://dtil.tmsimg.com/assets/p25180614_b_h8_ab.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-25T16:05:00+05:00",
+      "stop": "2026-05-25T16:13:00+05:00",
+      "title": "Super Agent Jon Le Bon!",
+      "sub_title": "Forgotten Temple",
+      "desc": "Jon is stuck inside an ancient Behepas temple; how will he manage without his friends?",
+      "date": "2021",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Series",
+        "Animated",
+        "Children",
+        "Adventure"
+      ],
+      "episode": "S3 E39",
+      "icon": "http://dtil.tmsimg.com/assets/p15621714_b_h8_ac.jpg?w=960&h=540"
     }
   ]
 }

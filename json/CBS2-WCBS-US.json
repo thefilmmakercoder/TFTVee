@@ -4,52 +4,109 @@
   ],
   "programs": [
     {
-      "start": "2026-05-25T09:00:00+05:00",
-      "stop": "2026-05-25T10:00:00+05:00",
-      "title": "WCBS CBS 2",
-      "desc": "WCBS delivers a premier local broadcast experience, specializing in award-winning investigative journalism, comprehensive news coverage for the New York tri-state area, and a flagship lineup of CBS network specials, primetime dramas, and live sports.",
-      "language": "en",
-      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/CBS2-WCBS-US.png"
-    },
-    {
-      "start": "2026-05-25T10:00:00+05:00",
-      "stop": "2026-05-25T11:00:00+05:00",
-      "title": "WCBS CBS 2",
-      "desc": "WCBS delivers a premier local broadcast experience, specializing in award-winning investigative journalism, comprehensive news coverage for the New York tri-state area, and a flagship lineup of CBS network specials, primetime dramas, and live sports.",
-      "language": "en",
-      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/CBS2-WCBS-US.png"
-    },
-    {
-      "start": "2026-05-25T11:00:00+05:00",
-      "stop": "2026-05-25T12:00:00+05:00",
-      "title": "WCBS CBS 2",
-      "desc": "WCBS delivers a premier local broadcast experience, specializing in award-winning investigative journalism, comprehensive news coverage for the New York tri-state area, and a flagship lineup of CBS network specials, primetime dramas, and live sports.",
-      "language": "en",
-      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/CBS2-WCBS-US.png"
-    },
-    {
-      "start": "2026-05-25T12:00:00+05:00",
-      "stop": "2026-05-25T13:00:00+05:00",
-      "title": "WCBS CBS 2",
-      "desc": "WCBS delivers a premier local broadcast experience, specializing in award-winning investigative journalism, comprehensive news coverage for the New York tri-state area, and a flagship lineup of CBS network specials, primetime dramas, and live sports.",
-      "language": "en",
-      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/CBS2-WCBS-US.png"
-    },
-    {
-      "start": "2026-05-25T13:00:00+05:00",
+      "start": "2026-05-25T13:30:00+05:00",
       "stop": "2026-05-25T14:00:00+05:00",
-      "title": "WCBS CBS 2",
-      "desc": "WCBS delivers a premier local broadcast experience, specializing in award-winning investigative journalism, comprehensive news coverage for the New York tri-state area, and a flagship lineup of CBS network specials, primetime dramas, and live sports.",
+      "title": "CBS News New York This Morning 4:30am",
+      "desc": "News coverage to start the day.",
+      "date": "2020",
       "language": "en",
-      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/CBS2-WCBS-US.png"
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p18809050_b_h8_ac.jpg?w=960&h=540"
     },
     {
       "start": "2026-05-25T14:00:00+05:00",
       "stop": "2026-05-25T15:00:00+05:00",
-      "title": "WCBS CBS 2",
-      "desc": "WCBS delivers a premier local broadcast experience, specializing in award-winning investigative journalism, comprehensive news coverage for the New York tri-state area, and a flagship lineup of CBS network specials, primetime dramas, and live sports.",
+      "title": "CBS News New York This Morning 5am",
+      "desc": "News coverage to start the day.",
+      "date": "2020",
       "language": "en",
-      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/CBS2-WCBS-US.png"
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p18809052_b_h8_ac.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-25T15:00:00+05:00",
+      "stop": "2026-05-25T16:00:00+05:00",
+      "title": "CBS News New York This Morning 6am",
+      "desc": "News coverage to start the day.",
+      "date": "2020",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p18809073_b_h8_ad.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-25T16:00:00+05:00",
+      "stop": "2026-05-25T18:00:00+05:00",
+      "title": "CBS Mornings",
+      "desc": "\"Beg Knows America.\".",
+      "date": "2026",
+      "language": "en",
+      "categories": [
+        "Series",
+        "Talk",
+        "News"
+      ],
+      "episode": "E103",
+      "icon": "http://dtil.tmsimg.com/assets/p20589677_b_h8_ai.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Gayle King",
+          "Tony Dokoupil",
+          "Nate Burleson"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-25T18:00:00+05:00",
+      "stop": "2026-05-25T18:30:00+05:00",
+      "title": "The Drew Barrymore Show",
+      "sub_title": "Neil Patrick Harris and David Burtka",
+      "desc": "Neil Patrick Harris and David Burtka share some mocktail and light bite recipes from their book \"Both Sides of the Glass.\".",
+      "date": "2025",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Series",
+        "Talk",
+        "Entertainment"
+      ],
+      "episode": "S6 E39",
+      "icon": "http://dtil.tmsimg.com/assets/p31124897_b_h8_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Drew Barrymore",
+          "Neil Patrick Harris",
+          "David Burtka"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-25T18:30:00+05:00",
+      "stop": "2026-05-25T19:00:00+05:00",
+      "title": "The Drew Barrymore Show",
+      "sub_title": "Grace Van Patten",
+      "desc": "Actress Grace Van Patten (\"The Twisted Tale of Amanda Knox\").",
+      "date": "2025",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Series",
+        "Talk",
+        "Entertainment"
+      ],
+      "episode": "S6 E40",
+      "icon": "http://dtil.tmsimg.com/assets/p31124897_b_h8_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Drew Barrymore",
+          "Grace Van Patten"
+        ]
+      }
     }
   ]
 }

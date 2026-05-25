@@ -4,52 +4,160 @@
   ],
   "programs": [
     {
-      "start": "2026-05-25T09:00:00+05:00",
-      "stop": "2026-05-25T10:00:00+05:00",
-      "title": "KOCE PBS SoCal",
-      "desc": "KOCE (PBS SoCal) serves as the flagship PBS station for Southern California, delivering trusted national educational content alongside regional news, cultural documentaries, and community-focused public media.",
-      "language": "en",
-      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/PBS-SoCal-KOCE-US.png"
-    },
-    {
-      "start": "2026-05-25T10:00:00+05:00",
-      "stop": "2026-05-25T11:00:00+05:00",
-      "title": "KOCE PBS SoCal",
-      "desc": "KOCE (PBS SoCal) serves as the flagship PBS station for Southern California, delivering trusted national educational content alongside regional news, cultural documentaries, and community-focused public media.",
-      "language": "en",
-      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/PBS-SoCal-KOCE-US.png"
-    },
-    {
-      "start": "2026-05-25T11:00:00+05:00",
-      "stop": "2026-05-25T12:00:00+05:00",
-      "title": "KOCE PBS SoCal",
-      "desc": "KOCE (PBS SoCal) serves as the flagship PBS station for Southern California, delivering trusted national educational content alongside regional news, cultural documentaries, and community-focused public media.",
-      "language": "en",
-      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/PBS-SoCal-KOCE-US.png"
-    },
-    {
-      "start": "2026-05-25T12:00:00+05:00",
-      "stop": "2026-05-25T13:00:00+05:00",
-      "title": "KOCE PBS SoCal",
-      "desc": "KOCE (PBS SoCal) serves as the flagship PBS station for Southern California, delivering trusted national educational content alongside regional news, cultural documentaries, and community-focused public media.",
-      "language": "en",
-      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/PBS-SoCal-KOCE-US.png"
-    },
-    {
-      "start": "2026-05-25T13:00:00+05:00",
+      "start": "2026-05-25T12:30:00+05:00",
       "stop": "2026-05-25T14:00:00+05:00",
-      "title": "KOCE PBS SoCal",
-      "desc": "KOCE (PBS SoCal) serves as the flagship PBS station for Southern California, delivering trusted national educational content alongside regional news, cultural documentaries, and community-focused public media.",
+      "title": "National Memorial Day Concert 2026",
+      "desc": "America's national night of remembrance features stories and musical performances, as well as tributes to American Revolutionary militiamen, the 85th anniversary of Pearl Harbor and the 25th anniversary of the 9/11 attacks.",
+      "date": "2026",
       "language": "en",
-      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/PBS-SoCal-KOCE-US.png"
+      "rating": "TVPG",
+      "categories": [
+        "Special",
+        "Event",
+        "Music"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p32755707_b_h8_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Gary Sinise",
+          "Mary McCormack",
+          "Noah Wyle"
+        ]
+      }
     },
     {
       "start": "2026-05-25T14:00:00+05:00",
-      "stop": "2026-05-25T15:00:00+05:00",
-      "title": "KOCE PBS SoCal",
-      "desc": "KOCE (PBS SoCal) serves as the flagship PBS station for Southern California, delivering trusted national educational content alongside regional news, cultural documentaries, and community-focused public media.",
+      "stop": "2026-05-25T15:30:00+05:00",
+      "title": "Downton Abbey on Masterpiece",
+      "desc": "Mary's three suitors include a Turkish diplomat; the former life of Carson, the butler, is revealed.",
+      "date": "2010",
       "language": "en",
-      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/PBS-SoCal-KOCE-US.png"
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Historical drama",
+        "Drama"
+      ],
+      "episode": "S1 E3",
+      "icon": "http://dtil.tmsimg.com/assets/p8312617_b_h8_ak.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Ben Bolt"
+        ],
+        "actor": [
+          "Maggie Smith",
+          "Hugh Bonneville",
+          "Elizabeth McGovern"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-25T15:30:00+05:00",
+      "stop": "2026-05-25T17:00:00+05:00",
+      "title": "Foyle's War",
+      "sub_title": "They Fought in the Fields",
+      "desc": "A German airplane crash sends Foyle to the countryside to investigate the death of a local farmer.",
+      "date": "2004",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "Series",
+        "Drama",
+        "Historical drama"
+      ],
+      "episode": "S3 E3",
+      "icon": "http://dtil.tmsimg.com/assets/p388858_b_h8_ah.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Jeremy Silberston"
+        ],
+        "actor": [
+          "Tom Frederic",
+          "Peter Stark",
+          "Paula Jennings"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-25T17:00:00+05:00",
+      "stop": "2026-05-25T17:30:00+05:00",
+      "title": "Nature Cat",
+      "sub_title": "Make Room for Daddy Longlegs; Outerspace Detectives",
+      "desc": "The Agents of the Great Outdoors must get to know a daddy longlegs to complete their mission; the crew must stop a monster from munching the moon.",
+      "date": "2022",
+      "language": "en",
+      "rating": "TVY",
+      "categories": [
+        "Series",
+        "Animated",
+        "Children",
+        "Entertainment",
+        "Educational"
+      ],
+      "episode": "S4 E8",
+      "icon": "http://dtil.tmsimg.com/assets/p12133555_b_h8_ak.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Taran Killam",
+          "Kate McKinnon",
+          "Bobby Moynihan"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-25T17:30:00+05:00",
+      "stop": "2026-05-25T18:00:00+05:00",
+      "title": "Lyla in the Loop",
+      "sub_title": "Happy New Year, Lyla!; Everett's Summer Sale",
+      "desc": "Lyla and Everett make pins for New Year's Eve; Lyla and Everett clash while making a fun unboxing video for Phan Hardware's Summer Sale.",
+      "date": "2024",
+      "language": "en",
+      "rating": "TVY",
+      "categories": [
+        "Series",
+        "Animated",
+        "Children",
+        "Entertainment",
+        "Educational"
+      ],
+      "episode": "S1 E22",
+      "icon": "http://dtil.tmsimg.com/assets/p26268938_b_h8_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Liyou Abere",
+          "Izzy Woodbury",
+          "Elijah Lindo"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-25T18:00:00+05:00",
+      "stop": "2026-05-25T18:30:00+05:00",
+      "title": "Arthur",
+      "sub_title": "When Duty Calls, Parts 1 & 2",
+      "desc": "Fern and the others try to make an upset Ladonna feel better after she finds out her family will have to move.",
+      "date": "2019",
+      "language": "en",
+      "rating": "TVY",
+      "categories": [
+        "Series",
+        "Animated",
+        "Children",
+        "Educational",
+        "Animals"
+      ],
+      "episode": "S23 E3",
+      "icon": "http://dtil.tmsimg.com/assets/p17235638_b_h10_aa.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Greg Bailey"
+        ],
+        "actor": [
+          "Jacob Ursomarzo",
+          "Christian Distefano",
+          "Bruce Dinsmore"
+        ]
+      }
     }
   ]
 }

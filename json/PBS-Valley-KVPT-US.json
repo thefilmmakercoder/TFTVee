@@ -4,52 +4,143 @@
   ],
   "programs": [
     {
-      "start": "2026-05-25T09:00:00+05:00",
-      "stop": "2026-05-25T10:00:00+05:00",
-      "title": "KVPT PBS Valley",
-      "desc": "KVPT (Valley PBS) serves as the primary public television station for California\u2019s Central Valley, broadcasting signature PBS educational content, children's programming, and local documentaries highlighting regional agricultural and community issues.",
-      "language": "en",
-      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/PBS-Valley-KVPT-US.png"
-    },
-    {
-      "start": "2026-05-25T10:00:00+05:00",
-      "stop": "2026-05-25T11:00:00+05:00",
-      "title": "KVPT PBS Valley",
-      "desc": "KVPT (Valley PBS) serves as the primary public television station for California\u2019s Central Valley, broadcasting signature PBS educational content, children's programming, and local documentaries highlighting regional agricultural and community issues.",
-      "language": "en",
-      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/PBS-Valley-KVPT-US.png"
-    },
-    {
-      "start": "2026-05-25T11:00:00+05:00",
-      "stop": "2026-05-25T12:00:00+05:00",
-      "title": "KVPT PBS Valley",
-      "desc": "KVPT (Valley PBS) serves as the primary public television station for California\u2019s Central Valley, broadcasting signature PBS educational content, children's programming, and local documentaries highlighting regional agricultural and community issues.",
-      "language": "en",
-      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/PBS-Valley-KVPT-US.png"
-    },
-    {
       "start": "2026-05-25T12:00:00+05:00",
       "stop": "2026-05-25T13:00:00+05:00",
-      "title": "KVPT PBS Valley",
-      "desc": "KVPT (Valley PBS) serves as the primary public television station for California\u2019s Central Valley, broadcasting signature PBS educational content, children's programming, and local documentaries highlighting regional agricultural and community issues.",
+      "title": "Lucy Worsley's Royal Palace Secrets",
+      "desc": "Touring three of London's palaces -- the Tower of London, Hampton Court and Kensington Palace; host Lucy Worsley.",
+      "date": "2020",
       "language": "en",
-      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/PBS-Valley-KVPT-US.png"
+      "rating": "TVPG",
+      "categories": [
+        "Special",
+        "Documentary"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p18532534_b_h10_ag.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Eleanor Scoones"
+        ],
+        "actor": [
+          "Lucy Worsley"
+        ]
+      }
     },
     {
       "start": "2026-05-25T13:00:00+05:00",
-      "stop": "2026-05-25T14:00:00+05:00",
-      "title": "KVPT PBS Valley",
-      "desc": "KVPT (Valley PBS) serves as the primary public television station for California\u2019s Central Valley, broadcasting signature PBS educational content, children's programming, and local documentaries highlighting regional agricultural and community issues.",
+      "stop": "2026-05-25T14:30:00+05:00",
+      "title": "Lucy Worsley's Holmes vs. Doyle",
+      "sub_title": "Doctor and Detective",
+      "desc": "The origins of Holmes in Arthur Conan Doyle's early life as a medical student in Edinburgh, and the author's growing disenchantment with his detective.",
+      "date": "2024",
       "language": "en",
-      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/PBS-Valley-KVPT-US.png"
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Documentary",
+        "History"
+      ],
+      "episode": "S1 E1",
+      "icon": "http://dtil.tmsimg.com/assets/p28527709_b_h8_ad.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Simon George"
+        ],
+        "actor": [
+          "Lucy Worsley"
+        ]
+      }
     },
     {
-      "start": "2026-05-25T14:00:00+05:00",
-      "stop": "2026-05-25T15:00:00+05:00",
-      "title": "KVPT PBS Valley",
-      "desc": "KVPT (Valley PBS) serves as the primary public television station for California\u2019s Central Valley, broadcasting signature PBS educational content, children's programming, and local documentaries highlighting regional agricultural and community issues.",
+      "start": "2026-05-25T14:30:00+05:00",
+      "stop": "2026-05-25T16:30:00+05:00",
+      "title": "Rick Steves' Heart of Italy",
+      "desc": "Rick Steves tours the Italian heartland, including Umbria, Assisi, Siena, and the Cinque Terre.",
+      "date": "2017",
       "language": "en",
-      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/PBS-Valley-KVPT-US.png"
+      "rating": "TVG",
+      "categories": [
+        "Special",
+        "Travel"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p13830822_b_h8_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Rick Steves"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-25T16:30:00+05:00",
+      "stop": "2026-05-25T17:00:00+05:00",
+      "title": "Rick Steves Mighty Alps",
+      "desc": "Rick Steves takes a European alpine adventure from Italy to Austria and Switzerland to France; locations include the Dolomites, Zugspitze, Matterhorn, Aiguille du Midi and the Tour du Mont Blanc hiking path.",
+      "date": "2023",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Special",
+        "Documentary",
+        "Travel"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p26122708_b_h8_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Rick Steves"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-25T17:00:00+05:00",
+      "stop": "2026-05-25T17:30:00+05:00",
+      "title": "Lyla in the Loop",
+      "sub_title": "3, 2, 1 Liftoff!; Sister Secrets",
+      "desc": "Lyla and a new friend build a spaceship; Lyla learns her sisters can predict what the other wants, so she tries to do the same with Luke.",
+      "date": "2025",
+      "language": "en",
+      "rating": "TVY",
+      "categories": [
+        "Series",
+        "Animated",
+        "Children",
+        "Entertainment",
+        "Educational"
+      ],
+      "episode": "S1 E33",
+      "icon": "http://dtil.tmsimg.com/assets/p26268938_b_h8_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Liyou Abere",
+          "Izzy Woodbury",
+          "Elijah Lindo"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-25T17:30:00+05:00",
+      "stop": "2026-05-25T18:00:00+05:00",
+      "title": "Wild Kratts",
+      "sub_title": "Prairie Who?",
+      "desc": "The gang gets separated during a twister on the prairie.",
+      "date": "2014",
+      "language": "en",
+      "rating": "TVY",
+      "categories": [
+        "Series",
+        "Children",
+        "Educational",
+        "Science",
+        "Nature",
+        "Animals",
+        "Animated"
+      ],
+      "episode": "S3 E8",
+      "icon": "http://dtil.tmsimg.com/assets/p8369911_b_h8_aj.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Martin Kratt",
+          "Chris Kratt"
+        ]
+      }
     }
   ]
 }

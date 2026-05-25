@@ -4,52 +4,91 @@
   ],
   "programs": [
     {
-      "start": "2026-05-25T09:00:00+05:00",
-      "stop": "2026-05-25T10:00:00+05:00",
-      "title": "KNBC NBC 4",
-      "desc": "KNBC delivers comprehensive local news coverage, breaking weather updates, and community-focused journalism tailored for the greater Los Angeles metropolitan area.",
-      "language": "en",
-      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/NBC4-KNBC-US.png"
-    },
-    {
-      "start": "2026-05-25T10:00:00+05:00",
-      "stop": "2026-05-25T11:00:00+05:00",
-      "title": "KNBC NBC 4",
-      "desc": "KNBC delivers comprehensive local news coverage, breaking weather updates, and community-focused journalism tailored for the greater Los Angeles metropolitan area.",
-      "language": "en",
-      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/NBC4-KNBC-US.png"
-    },
-    {
-      "start": "2026-05-25T11:00:00+05:00",
-      "stop": "2026-05-25T12:00:00+05:00",
-      "title": "KNBC NBC 4",
-      "desc": "KNBC delivers comprehensive local news coverage, breaking weather updates, and community-focused journalism tailored for the greater Los Angeles metropolitan area.",
-      "language": "en",
-      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/NBC4-KNBC-US.png"
-    },
-    {
-      "start": "2026-05-25T12:00:00+05:00",
-      "stop": "2026-05-25T13:00:00+05:00",
-      "title": "KNBC NBC 4",
-      "desc": "KNBC delivers comprehensive local news coverage, breaking weather updates, and community-focused journalism tailored for the greater Los Angeles metropolitan area.",
-      "language": "en",
-      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/NBC4-KNBC-US.png"
-    },
-    {
       "start": "2026-05-25T13:00:00+05:00",
       "stop": "2026-05-25T14:00:00+05:00",
-      "title": "KNBC NBC 4",
-      "desc": "KNBC delivers comprehensive local news coverage, breaking weather updates, and community-focused journalism tailored for the greater Los Angeles metropolitan area.",
+      "title": "Meet the Press",
+      "desc": "Rep. Thomas Massie (R-Ky.); Rep. Ro Khanna (D-Calif.); Girls Who Code founder Reshma Saujani; roundtable with Jeh Johnson, Andrea Mitchell, Marc Short and Amy Walter.",
+      "date": "2026",
       "language": "en",
-      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/NBC4-KNBC-US.png"
+      "categories": [
+        "Series",
+        "Talk",
+        "Interview",
+        "Politics",
+        "News",
+        "Public affairs"
+      ],
+      "episode": "S79 E18",
+      "icon": "http://dtil.tmsimg.com/assets/p184068_b_h8_ad.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Kristen Welker",
+          "Thomas Massie",
+          "Ro Khanna"
+        ]
+      }
     },
     {
       "start": "2026-05-25T14:00:00+05:00",
-      "stop": "2026-05-25T15:00:00+05:00",
-      "title": "KNBC NBC 4",
-      "desc": "KNBC delivers comprehensive local news coverage, breaking weather updates, and community-focused journalism tailored for the greater Los Angeles metropolitan area.",
+      "stop": "2026-05-25T14:30:00+05:00",
+      "title": "Ready for a safer shower? Enjoy a one-day bath remodel with Jacuzzi.",
+      "desc": "Trusted brand Jacuzzi Bath Remodel and interior designer Christina Hall share their secrets on how you can easily and affordably transform your bathroom into a gorgeous custom, safe, stylish space in 1 day! Call for a FREE quote & installation.",
       "language": "en",
-      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/NBC4-KNBC-US.png"
+      "categories": [
+        "Consumer"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p30074472_b_h8_aa.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-25T14:30:00+05:00",
+      "stop": "2026-05-25T15:00:00+05:00",
+      "title": "Early Today",
+      "desc": "This early-morning news covers overnight events, breaking domestic and international news as well as a preview of the day's anticipated events. The program also presents regular reports from the worlds of business, entertainment and sports.",
+      "date": "1999",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p185301_b_h8_ag.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-25T15:00:00+05:00",
+      "stop": "2026-05-25T15:30:00+05:00",
+      "title": "Early Today",
+      "desc": "This early-morning news covers overnight events, breaking domestic and international news as well as a preview of the day's anticipated events. The program also presents regular reports from the worlds of business, entertainment and sports.",
+      "date": "1999",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p185301_b_h8_ag.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-25T15:30:00+05:00",
+      "stop": "2026-05-25T16:00:00+05:00",
+      "title": "Early Today",
+      "desc": "This early-morning news covers overnight events, breaking domestic and international news as well as a preview of the day's anticipated events. The program also presents regular reports from the worlds of business, entertainment and sports.",
+      "date": "1999",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p185301_b_h8_ag.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-25T16:00:00+05:00",
+      "stop": "2026-05-25T16:30:00+05:00",
+      "title": "Today in LA @ 4AM",
+      "desc": "The latest local news, weather and investigative stories impacting the community.",
+      "date": "2020",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p18627049_b_h10_ab.jpg?w=960&h=540"
     }
   ]
 }

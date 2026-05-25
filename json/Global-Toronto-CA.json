@@ -4,92 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-25T09:30:00+05:00",
-      "stop": "2026-05-25T10:00:00+05:00",
-      "title": "Global National",
-      "desc": "The top stories from around the world.",
-      "date": "2026",
-      "language": "en",
-      "rating": "TVG",
-      "categories": [
-        "Series",
-        "News"
-      ],
-      "episode": "E144",
-      "icon": "http://dtil.tmsimg.com/assets/p185876_b_h8_ae.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Dawna Friesen"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-25T10:00:00+05:00",
-      "stop": "2026-05-25T12:00:00+05:00",
-      "title": "Sealed With a List",
-      "desc": "This holiday season, festive Carley sets out to conquer her list of abandoned resolutions from last year. Aided by co-worker Wyatt, she finds love and the confidence to chase her dreams.",
-      "date": "2023",
-      "language": "en",
-      "rating": "TVG",
-      "categories": [
-        "Movie",
-        "Holiday",
-        "Romantic comedy"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p25772502_v_h8_aa.jpg?w=960&h=540",
-      "credits": {
-        "director": [
-          "Lucie Guest"
-        ],
-        "actor": [
-          "Katie Findlay",
-          "Evan Roderick",
-          "Kelcey Mawema"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-25T12:00:00+05:00",
-      "stop": "2026-05-25T13:00:00+05:00",
-      "title": "Rust Valley Restorers",
-      "sub_title": "Bad Dreams",
-      "desc": "Fantasies turn to nightmares when Connor enlists Rust Bros on a personal build; Avery goes over budget on his dream truck; James tackles a project from his past.",
-      "date": "2021",
-      "language": "en",
-      "rating": "TV14",
-      "categories": [
-        "Series",
-        "Reality",
-        "Auto"
-      ],
-      "episode": "S3 E11",
-      "icon": "http://dtil.tmsimg.com/assets/p19430894_b_h8_ac.jpg?w=960&h=540",
-      "credits": {
-        "director": [
-          "Adam Naugler"
-        ],
-        "actor": [
-          "Avery Shoaf",
-          "Mike Hall",
-          "Connor Hall"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-25T13:00:00+05:00",
-      "stop": "2026-05-25T13:30:00+05:00",
-      "title": "Paid Programming",
-      "desc": "Paid programming.",
-      "language": "en",
-      "rating": "TVG",
-      "categories": [
-        "Consumer",
-        "Shopping",
-        "Variety"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-05-25T13:30:00+05:00",
       "stop": "2026-05-25T14:00:00+05:00",
       "title": "Paid Programming",
@@ -123,6 +37,75 @@
         "actor": [
           "James Robison",
           "Betty Robison"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-25T14:30:00+05:00",
+      "stop": "2026-05-25T15:00:00+05:00",
+      "title": "Paid Programming",
+      "desc": "Paid programming.",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Consumer",
+        "Shopping",
+        "Variety"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-25T15:00:00+05:00",
+      "stop": "2026-05-25T18:00:00+05:00",
+      "title": "Global News Morning",
+      "desc": "Greater Toronto's top local news stories and latest weather forecast to start your day.",
+      "date": "2019",
+      "language": "en",
+      "categories": [
+        "News",
+        "Weather"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p16568475_b_h10_ad.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-25T18:00:00+05:00",
+      "stop": "2026-05-25T19:00:00+05:00",
+      "title": "The Morning Show",
+      "desc": "Viewers from across the country are welcomed in for an hour of smart conversation, lifestyle segments, big-name guests and live performances.",
+      "date": "2011",
+      "language": "en",
+      "categories": [
+        "News",
+        "Interview"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p8861345_b_h8_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Carolyn Mackenzie",
+          "Jeff McArthur",
+          "Liem Vu"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-25T19:00:00+05:00",
+      "stop": "2026-05-25T20:00:00+05:00",
+      "title": "Tamron Hall",
+      "sub_title": "Spring Refresh: Body and Brain",
+      "desc": "The sitting-to-standing challenge; the center of gravity challenge; what these challenges actually prove and don't; Dr. Majid Fotuhi (\"The Invincible Brain\") tries two brain challenges and separates fact from fiction; a workout to help increase mobility.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Talk"
+      ],
+      "episode": "S7 E125",
+      "icon": "http://dtil.tmsimg.com/assets/p17197549_b_h8_af.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Tamron Hall",
+          "Ackeem Emmons"
         ]
       }
     }

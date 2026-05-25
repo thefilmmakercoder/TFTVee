@@ -4,30 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-25T05:15:00+05:00",
-      "stop": "2026-05-25T10:00:00+05:00",
-      "title": "BBC News",
-      "desc": "BBC One joins the BBC's rolling news channel for a night of news.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/7d81490a-2c13-4033-b426-57aed913b4e7/16-9"
-    },
-    {
-      "start": "2026-05-25T10:00:00+05:00",
-      "stop": "2026-05-25T13:30:00+05:00",
-      "title": "Breakfast",
-      "desc": "The latest news, sport, business and weather from the BBC's Breakfast team.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/58825cf5-7c81-4033-a06f-ba999ec63325/16-9"
-    },
-    {
       "start": "2026-05-25T13:30:00+05:00",
       "stop": "2026-05-25T14:00:00+05:00",
       "title": "The Scarecrows' Wedding",
@@ -73,6 +49,30 @@
         "Factual"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/c964248b-2749-4401-9c50-a7c2c04ae6fa/16-9"
+    },
+    {
+      "start": "2026-05-25T16:00:00+05:00",
+      "stop": "2026-05-25T17:00:00+05:00",
+      "title": "Bargain Hunt",
+      "desc": "Natasha learns about England's oldest biscuit, and the reds and blues shop for bargains in Nottinghamshire. Which team will have the recipe for success.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Game Show"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/62c4dd50-61cb-4578-bccf-4900b6c02810/16-9"
+    },
+    {
+      "start": "2026-05-25T17:00:00+05:00",
+      "stop": "2026-05-25T17:30:00+05:00",
+      "title": "BBC News at One including BBC London News",
+      "desc": "The latest national and international news from the BBC.",
+      "language": "en",
+      "categories": [
+        "News & Documentary",
+        "News"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/eb5bed64-afa2-41d3-84c1-0332510b5eba/16-9"
     }
   ]
 }

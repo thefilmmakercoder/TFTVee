@@ -4,52 +4,109 @@
   ],
   "programs": [
     {
-      "start": "2026-05-25T09:00:00+05:00",
-      "stop": "2026-05-25T10:00:00+05:00",
-      "title": "WNBC NBC 4",
-      "desc": "WNBC delivers breaking local news, in-depth investigative reporting, and live storm tracking dedicated to the New York tri-state region.",
-      "language": "en",
-      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/NBC4-WNBC-US.png"
-    },
-    {
-      "start": "2026-05-25T10:00:00+05:00",
-      "stop": "2026-05-25T11:00:00+05:00",
-      "title": "WNBC NBC 4",
-      "desc": "WNBC delivers breaking local news, in-depth investigative reporting, and live storm tracking dedicated to the New York tri-state region.",
-      "language": "en",
-      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/NBC4-WNBC-US.png"
-    },
-    {
-      "start": "2026-05-25T11:00:00+05:00",
-      "stop": "2026-05-25T12:00:00+05:00",
-      "title": "WNBC NBC 4",
-      "desc": "WNBC delivers breaking local news, in-depth investigative reporting, and live storm tracking dedicated to the New York tri-state region.",
-      "language": "en",
-      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/NBC4-WNBC-US.png"
-    },
-    {
-      "start": "2026-05-25T12:00:00+05:00",
-      "stop": "2026-05-25T13:00:00+05:00",
-      "title": "WNBC NBC 4",
-      "desc": "WNBC delivers breaking local news, in-depth investigative reporting, and live storm tracking dedicated to the New York tri-state region.",
-      "language": "en",
-      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/NBC4-WNBC-US.png"
-    },
-    {
-      "start": "2026-05-25T13:00:00+05:00",
+      "start": "2026-05-25T13:30:00+05:00",
       "stop": "2026-05-25T14:00:00+05:00",
-      "title": "WNBC NBC 4",
-      "desc": "WNBC delivers breaking local news, in-depth investigative reporting, and live storm tracking dedicated to the New York tri-state region.",
+      "title": "Today in New York",
+      "desc": "The local news, weather and investigative stories impacting your community.",
+      "date": "2000",
       "language": "en",
-      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/NBC4-WNBC-US.png"
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p960598_b_h10_ac.jpg?w=960&h=540"
     },
     {
       "start": "2026-05-25T14:00:00+05:00",
       "stop": "2026-05-25T15:00:00+05:00",
-      "title": "WNBC NBC 4",
-      "desc": "WNBC delivers breaking local news, in-depth investigative reporting, and live storm tracking dedicated to the New York tri-state region.",
+      "title": "Today in New York",
+      "desc": "The local news, weather and investigative stories impacting your community.",
+      "date": "2000",
       "language": "en",
-      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/NBC4-WNBC-US.png"
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p960598_b_h10_ac.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-25T15:00:00+05:00",
+      "stop": "2026-05-25T16:00:00+05:00",
+      "title": "Today in New York @ 6AM",
+      "desc": "The latest local news, weather and investigative stories impacting the community.",
+      "date": "2023",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p24315242_b_h10_aa.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-25T16:00:00+05:00",
+      "stop": "2026-05-25T18:00:00+05:00",
+      "title": "Today",
+      "desc": "The Pope and AI; America's 250th: The Guardians of Arlington; five things mosquito and tick experts do every summer to avoid getting bitten with Dr. John Torres; Shop Today: Memorial Day savings with Julie Ricevuto; how to plant outdoor herbs and plants with Dominique Charles.",
+      "date": "2026",
+      "language": "en",
+      "rating": "G",
+      "categories": [
+        "Series",
+        "Talk",
+        "News",
+        "Public affairs"
+      ],
+      "episode": "S74 E207",
+      "icon": "http://dtil.tmsimg.com/assets/p30939383_b_h8_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Savannah Guthrie",
+          "Craig Melvin",
+          "Al Roker"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-25T18:00:00+05:00",
+      "stop": "2026-05-25T19:00:00+05:00",
+      "title": "Today 3rd Hour",
+      "desc": "Al Roker goes on Susan Powter's final ride as Uber Eats driver; Finding Faith: Twins who beat addiction now help others to do the same; The Upside: author and illustrator Jeff Kinney; \"Rock Paper Scissors\" competition with Brian Cheung; She Made It: Chunks Hair Accessories with Jill Martin; Today Food: Memorial Day party made easy with Ryan Nordheimer.",
+      "date": "2026",
+      "language": "en",
+      "categories": [
+        "Series",
+        "Talk",
+        "News"
+      ],
+      "episode": "S8 E175",
+      "icon": "http://dtil.tmsimg.com/assets/p30939266_b_h8_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Craig Melvin",
+          "Al Roker",
+          "Dylan Dreyer"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-25T19:00:00+05:00",
+      "stop": "2026-05-25T20:00:00+05:00",
+      "title": "Today With Jenna & Sheinelle",
+      "desc": "Catching up with Jason Derulo; chef and artist honors service members; Today Food: Memorial Day cooking with David Rose; Jason Derulo performs.",
+      "date": "2026",
+      "language": "en",
+      "categories": [
+        "Series",
+        "Talk",
+        "Newsmagazine",
+        "Entertainment"
+      ],
+      "episode": "S1 E95",
+      "icon": "http://dtil.tmsimg.com/assets/p31933424_b_h8_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Jenna Bush-Hager",
+          "Sheinelle Jones",
+          "Jason Derulo"
+        ]
+      }
     }
   ]
 }
