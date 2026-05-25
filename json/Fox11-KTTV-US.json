@@ -4,39 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-25T16:30:00+05:00",
-      "stop": "2026-05-25T17:00:00+05:00",
-      "title": "TMZ",
-      "desc": "TMZ TV tracks down today's hottest stars with their cameras, whether they are hitting the clubs or the dry cleaners.",
-      "date": "2026",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Series",
-        "Newsmagazine",
-        "Entertainment"
-      ],
-      "episode": "S19 E227",
-      "icon": "http://dtil.tmsimg.com/assets/p30985766_b_h10_aa.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Harvey Levin"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-25T17:00:00+05:00",
-      "stop": "2026-05-25T18:00:00+05:00",
-      "title": "Good Day LA at 5am",
-      "desc": "Morning news coverage.",
-      "date": "2019",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p16719270_b_h8_ab.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-05-25T18:00:00+05:00",
       "stop": "2026-05-25T19:00:00+05:00",
       "title": "Good Day LA at 6am",
@@ -83,6 +50,42 @@
         "News"
       ],
       "icon": "http://dtil.tmsimg.com/assets/p22751421_b_h8_ab.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-25T23:00:00+05:00",
+      "stop": "2026-05-26T00:00:00+05:00",
+      "title": "GDLA+",
+      "desc": "KTTV delivers premier Los Angeles news and entertainment, specializing in high-impact local journalism, live professional sports, and the flagship Fox network lineup of primetime series and reality television.",
+      "date": "2024",
+      "language": "en",
+      "categories": [
+        "Newsmagazine"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p26513975_b_h8_ab.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-26T00:00:00+05:00",
+      "stop": "2026-05-26T01:00:00+05:00",
+      "title": "Sherri",
+      "sub_title": "Luenell",
+      "desc": "Sherri kicks off the show with laughs in The Stand-Up Spot; comic Luenell (Paramount+ show \"Crutch\"); Rosanna Scotto and family share some Thanksgiving recipes from their New York City restaurant Fresco by Scotto.",
+      "date": "2025",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Talk",
+        "Interview"
+      ],
+      "episode": "S4 E47",
+      "icon": "http://dtil.tmsimg.com/assets/p21805765_b_h8_ab.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Sherri Shepherd",
+          "Luenell",
+          "Rosanna Scotto"
+        ]
+      }
     }
   ]
 }
