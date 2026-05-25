@@ -4,42 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-26T01:00:00+05:00",
-      "stop": "2026-05-26T02:00:00+05:00",
-      "title": "Dear England",
-      "desc": "After a breakthrough World Cup reignites belief, can Southgate's team triumph at Wembley? Contains some strong language.",
-      "language": "en",
-      "categories": [
-        "Entertainment",
-        "Drama"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/9eb727e5-895f-49e1-ab51-55f145ff2afc/16-9"
-    },
-    {
-      "start": "2026-05-26T02:00:00+05:00",
-      "stop": "2026-05-26T02:20:00+05:00",
-      "title": "BBC News and Weather",
-      "desc": "The latest national and international news, with reports from BBC correspondents worldwide.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/033e21d5-52b3-4585-be7d-5c0d3a42a73f/16-9"
-    },
-    {
-      "start": "2026-05-26T02:20:00+05:00",
-      "stop": "2026-05-26T02:30:00+05:00",
-      "title": "BBC London News",
-      "desc": "The latest news, sport and weather from London.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/a4228470-c9da-4f91-8723-b00eb1bfeb71/16-9"
-    },
-    {
       "start": "2026-05-26T02:30:00+05:00",
       "stop": "2026-05-26T03:00:00+05:00",
       "title": "Have I Got News for You",
@@ -73,6 +37,41 @@
         "News"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/f829aa69-2a12-4723-bfb3-6ebc44a06f9f/16-9"
+    },
+    {
+      "start": "2026-05-26T04:45:00+05:00",
+      "stop": "2026-05-26T10:00:00+05:00",
+      "title": "BBC News",
+      "desc": "BBC One joins the BBC's rolling news channel for a night of news.",
+      "language": "en",
+      "categories": [
+        "News & Documentary",
+        "News"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/e7b46eb3-3768-42a5-a463-c0b20c0e4651/16-9"
+    },
+    {
+      "start": "2026-05-26T10:00:00+05:00",
+      "stop": "2026-05-26T13:30:00+05:00",
+      "title": "Breakfast",
+      "desc": "The latest news, sport, business and weather from the BBC's Breakfast team.",
+      "language": "en",
+      "categories": [
+        "News & Documentary",
+        "News"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/746263d5-9b5c-460a-bc63-98543462c828/16-9"
+    },
+    {
+      "start": "2026-05-26T13:30:00+05:00",
+      "stop": "2026-05-26T14:45:00+05:00",
+      "title": "Morning Live",
+      "desc": "Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier.",
+      "language": "en",
+      "categories": [
+        "Entertainment"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/04c405cf-3285-4b74-8597-970d6806670c/16-9"
     }
   ]
 }

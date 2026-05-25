@@ -4,31 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-26T01:00:00+05:00",
-      "stop": "2026-05-26T02:00:00+05:00",
-      "title": "FOX 5 News Block",
-      "desc": "Live news and weather from the FOX 5 team.",
-      "date": "2024",
-      "language": "en",
-      "rating": "TV14",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p28526349_b_h8_aa.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-26T02:00:00+05:00",
-      "stop": "2026-05-26T02:30:00+05:00",
-      "title": "The 5 O'Clock News",
-      "desc": "Local, national and international news.",
-      "date": "2021",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p19319061_b_h8_ab.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-05-26T02:30:00+05:00",
       "stop": "2026-05-26T03:00:00+05:00",
       "title": "Tower of Heroes",
@@ -96,6 +71,30 @@
           "Harvey Levin"
         ]
       }
+    },
+    {
+      "start": "2026-05-26T05:00:00+05:00",
+      "stop": "2026-05-26T07:00:00+05:00",
+      "title": "Live: WNBA Basketball",
+      "desc": "Portland Fire travel to the Barclays Center to face the New York Liberty. The series is tied after New York won the previous game 100-82 behind Breanna Stewart's 22 points, while French rookie Pauline Astier provided a huge lift off the bench.",
+      "language": "en",
+      "categories": [
+        "Sports",
+        "Basketball"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/GNLZZGG0032ZJK8.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-26T07:00:00+05:00",
+      "stop": "2026-05-26T07:30:00+05:00",
+      "title": "The 10 O'Clock News",
+      "desc": "Local, national and international news.",
+      "date": "2021",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p19319081_b_h8_ab.jpg?w=960&h=540"
     }
   ]
 }
