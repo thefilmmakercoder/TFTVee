@@ -4,42 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-25T23:00:00+05:00",
-      "stop": "2026-05-26T00:00:00+05:00",
-      "title": "GDLA+",
-      "desc": "KTTV delivers premier Los Angeles news and entertainment, specializing in high-impact local journalism, live professional sports, and the flagship Fox network lineup of primetime series and reality television.",
-      "date": "2024",
-      "language": "en",
-      "categories": [
-        "Newsmagazine"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p26513975_b_h8_ab.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-26T00:00:00+05:00",
-      "stop": "2026-05-26T01:00:00+05:00",
-      "title": "Sherri",
-      "sub_title": "Luenell",
-      "desc": "Sherri kicks off the show with laughs in The Stand-Up Spot; comic Luenell (Paramount+ show \"Crutch\"); Rosanna Scotto and family share some Thanksgiving recipes from their New York City restaurant Fresco by Scotto.",
-      "date": "2025",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Series",
-        "Talk",
-        "Interview"
-      ],
-      "episode": "S4 E47",
-      "icon": "http://dtil.tmsimg.com/assets/p21805765_b_h8_ab.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Sherri Shepherd",
-          "Luenell",
-          "Rosanna Scotto"
-        ]
-      }
-    },
-    {
       "start": "2026-05-26T01:00:00+05:00",
       "stop": "2026-05-26T02:00:00+05:00",
       "title": "The Jennifer Hudson Show",
@@ -128,6 +92,30 @@
           "Harvey Levin"
         ]
       }
+    },
+    {
+      "start": "2026-05-26T05:00:00+05:00",
+      "stop": "2026-05-26T06:00:00+05:00",
+      "title": "FOX 11 News at 5pm",
+      "desc": "Latest local and regional news.",
+      "date": "2016",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p12829248_b_h8_ae.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-26T06:00:00+05:00",
+      "stop": "2026-05-26T06:30:00+05:00",
+      "title": "FOX 11 News at 6pm",
+      "desc": "Local and regional news coverage.",
+      "date": "2020",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p18140393_b_h8_ad.jpg?w=960&h=540"
     }
   ]
 }
