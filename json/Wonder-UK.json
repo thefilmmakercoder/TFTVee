@@ -4,30 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-26T23:48:52+05:00",
-      "stop": "2026-05-27T00:49:32+05:00",
-      "title": "Destination: Pluto Beyond the Flyby",
-      "desc": "New Horizons explored Pluto and the Kuiper Belt, revealing their geology and solar system origins.",
-      "date": "20160101",
-      "language": "en",
-      "categories": [
-        "Movie"
-      ],
-      "icon": "https://provider-static.plex.tv/epg/images/thumbnails/wonder-poster.jpg"
-    },
-    {
-      "start": "2026-05-27T00:49:32+05:00",
-      "stop": "2026-05-27T02:30:35+05:00",
-      "title": "Solar System: The Secrets of the Universe",
-      "desc": "In 2057, the International Space Station will explore the solar system, focusing on eight planets and moons.",
-      "date": "20120101",
-      "language": "en",
-      "categories": [
-        "Movie"
-      ],
-      "icon": "https://provider-static.plex.tv/epg/images/thumbnails/wonder-poster.jpg"
-    },
-    {
       "start": "2026-05-27T02:30:35+05:00",
       "stop": "2026-05-27T03:31:26+05:00",
       "title": "Space Probes!",
@@ -138,6 +114,29 @@
         "Movie"
       ],
       "icon": "https://provider-static.plex.tv/epg/images/thumbnails/wonder-poster.jpg"
+    },
+    {
+      "start": "2026-05-27T12:53:47+05:00",
+      "stop": "2026-05-27T14:35:20+05:00",
+      "title": "Solar System: The Secrets of the Universe",
+      "desc": "In 2057, the International Space Station will explore the solar system, focusing on eight planets and moons.",
+      "date": "20120101",
+      "language": "en",
+      "categories": [
+        "Movie"
+      ],
+      "icon": "https://provider-static.plex.tv/epg/images/thumbnails/wonder-poster.jpg"
+    },
+    {
+      "start": "2026-05-27T14:35:20+05:00",
+      "stop": "2026-05-27T15:36:26+05:00",
+      "title": "Space Probes!",
+      "sub_title": "Voyager: The Grand Tour",
+      "desc": "Voyager 1 and 2 are two renowned space probes that have successfully explored all outer planets",
+      "date": "20160101",
+      "language": "en",
+      "episode": "S01E01",
+      "icon": "https://d11hei8e1dyf6i.cloudfront.net/WONDR/CS1SPRS001EP001.jpg"
     }
   ]
 }

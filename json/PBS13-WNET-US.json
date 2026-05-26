@@ -4,55 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-27T01:00:00+05:00",
-      "stop": "2026-05-27T02:00:00+05:00",
-      "title": "Amanpour and Company",
-      "desc": "Christiane Amanpour leads discussions about world issues and interviews with global leaders.",
-      "date": "2026",
-      "language": "en",
-      "categories": [
-        "Series",
-        "Public affairs"
-      ],
-      "episode": "S8 E169",
-      "icon": "http://dtil.tmsimg.com/assets/p15694932_b_h8_ac.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Christiane Amanpour"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-27T02:00:00+05:00",
-      "stop": "2026-05-27T02:30:00+05:00",
-      "title": "BBC News The Context",
-      "desc": "A regular panel of guests from across the political spectrum discuss the biggest international stories of the day.",
-      "date": "2022",
-      "language": "en",
-      "categories": [
-        "News",
-        "Talk"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p23647415_b_h8_ac.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Christian Fraser"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-27T02:30:00+05:00",
-      "stop": "2026-05-27T03:00:00+05:00",
-      "title": "NJ Spotlight News with Briana Vannozzi",
-      "desc": "Statewide reporting on the latest news and issues affecting communities across the Garden State.",
-      "date": "2020",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p18850294_b_h10_aa.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-05-27T03:00:00+05:00",
       "stop": "2026-05-27T03:30:00+05:00",
       "title": "DW News",
@@ -234,6 +185,66 @@
         "Music"
       ],
       "icon": "http://dtil.tmsimg.com/assets/p32286075_st_h10_aa.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-27T11:30:00+05:00",
+      "stop": "2026-05-27T13:00:00+05:00",
+      "title": "Roy Orbison Forever",
+      "desc": "Interviews and archive performances celebrate the life and career of five-time Grammy Award-winning Rock and Roll Hall of Famer Roy Orbison.",
+      "date": "2021",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Special",
+        "Musical"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p20746999_b_h10_aa.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-27T13:00:00+05:00",
+      "stop": "2026-05-27T15:00:00+05:00",
+      "title": "America's Home Cooking: Around the World in 80 Recipes",
+      "desc": "Chris Fennimore and special guests celebrate international cuisine; recipes include chicken Parmigiana, Asian dumplings, Turkish red lentil soup, Middle Eastern hummus, baba ghanoush and bobalki.",
+      "date": "2025",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Special",
+        "Cooking",
+        "How-to"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p30586149_st_h10_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Chris Fennimore"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-27T15:00:00+05:00",
+      "stop": "2026-05-27T15:30:00+05:00",
+      "title": "Arthur",
+      "sub_title": "Arthur's Family Vacation; Grandpa Dave's Old Country Farm",
+      "desc": "A rainy vacation proves to be fun after all; Arthur discovers that his Grandpa Dave's farm isn't the way he remembered it.",
+      "date": "1996",
+      "language": "en",
+      "rating": "TVY",
+      "categories": [
+        "Series",
+        "Animated",
+        "Children",
+        "Educational",
+        "Animals"
+      ],
+      "episode": "S1 E15",
+      "icon": "http://dtil.tmsimg.com/assets/p8640466_b_h10_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Cameron Ansell",
+          "Robert Naylor",
+          "Bruce Dinsmore"
+        ]
+      }
     }
   ]
 }

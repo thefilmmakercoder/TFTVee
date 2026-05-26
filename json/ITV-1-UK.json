@@ -4,29 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-27T01:00:00+05:00",
-      "stop": "2026-05-27T02:00:00+05:00",
-      "title": "Soccer Aid: More Than Just a Game",
-      "desc": "Brand-new documentary that looks back at the legacy of Soccer Aid for UNICEF as the match celebrates a milestone 20 years.",
-      "language": "en",
-      "categories": [
-        "Entertainment"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/5efc1634-c663-42ef-b5a9-2a2151cc83f5/16-9"
-    },
-    {
-      "start": "2026-05-27T02:00:00+05:00",
-      "stop": "2026-05-27T02:30:00+05:00",
-      "title": "ITV News at Ten",
-      "desc": "ITV News provides a fresh perspective on the major stories of the day with national and international news with reports and analysis from ITV's Correspondents.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/c33db40e-5e59-488a-8749-05197c49079e/16-9"
-    },
-    {
       "start": "2026-05-27T02:30:00+05:00",
       "stop": "2026-05-27T02:45:00+05:00",
       "title": "ITV News London",
@@ -146,6 +123,30 @@
         "Chat Show"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/d89c3beb-88f3-4f6b-8353-ac64f1d38383/16-9"
+    },
+    {
+      "start": "2026-05-27T17:30:00+05:00",
+      "stop": "2026-05-27T17:55:00+05:00",
+      "title": "ITV Lunchtime News",
+      "desc": "The latest headlines from around the world at lunchtime with reports and analysis from ITV's Correspondents, all of which are followed by a national weather forecast.",
+      "language": "en",
+      "categories": [
+        "News & Documentary",
+        "News"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/720ec6d3-cfcd-49af-b712-a28344ef3841/16-9"
+    },
+    {
+      "start": "2026-05-27T17:55:00+05:00",
+      "stop": "2026-05-27T18:00:00+05:00",
+      "title": "ITV News London",
+      "desc": "The latest news and weather from London and the South East.",
+      "language": "en",
+      "categories": [
+        "News & Documentary",
+        "News"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/2650bed5-838a-43a2-9315-472f5c925abf/16-9"
     }
   ]
 }

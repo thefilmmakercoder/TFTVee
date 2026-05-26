@@ -4,18 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-27T02:00:00+05:00",
-      "stop": "2026-05-27T02:05:00+05:00",
-      "title": "FYI Daily",
-      "desc": "Latest news from the world of entertainment.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "Showbiz"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/4ff0ff11-1cc7-4447-b671-0badd8aac788/16-9"
-    },
-    {
       "start": "2026-05-27T02:05:00+05:00",
       "stop": "2026-05-27T03:35:00+05:00",
       "title": "The World Is Not Enough",
@@ -149,6 +137,19 @@
         "Detective"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/8bde0222-ecfa-4b1f-ac2e-d38fe274b432/16-9"
+    },
+    {
+      "start": "2026-05-27T13:10:00+05:00",
+      "stop": "2026-05-27T14:25:00+05:00",
+      "title": "Boon",
+      "sub_title": "Credit Where It's Due",
+      "desc": "Classic drama starring Michael Elphick. Rocky suspects that Texas Rangers are delivering bombs for the IRA, but explosions are not the only things in the air.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Drama"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/7b7d556f-486b-3240-82cd-fc588a491120/16-9"
     }
   ]
 }

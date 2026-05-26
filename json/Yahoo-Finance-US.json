@@ -4,18 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-27T01:30:00+05:00",
-      "stop": "2026-05-27T02:00:00+05:00",
-      "title": "Asking for a Trend",
-      "desc": "Yahoo Finance covers trends driving tomorrow's market, offering insights to help you stay ahead of the curve.",
-      "date": "20250102",
-      "language": "en",
-      "categories": [
-        "Movie"
-      ],
-      "icon": "https://provider-static.plex.tv/epg/images/thumbnails/yahoo-finance.jpg"
-    },
-    {
       "start": "2026-05-27T02:00:00+05:00",
       "stop": "2026-05-27T03:00:00+05:00",
       "title": "Market Movers",
@@ -143,6 +131,17 @@
       "date": "20260102",
       "language": "en",
       "episode": "S08E03",
+      "icon": "https://s.yimg.com/cv/apiv2/default/APR26/EntrepreneurElevatorPitch_040826/EEP_16x9.png"
+    },
+    {
+      "start": "2026-05-27T08:30:00+05:00",
+      "stop": "2026-05-27T09:00:00+05:00",
+      "title": "Entrepreneur Elevator Pitch",
+      "sub_title": "A Surprise Move Lands a $100K Investment",
+      "desc": "From tears to dancing, this episode of Entrepreneur Elevator Pitch runs the full emotional range.",
+      "date": "20260102",
+      "language": "en",
+      "episode": "S08E07",
       "icon": "https://s.yimg.com/cv/apiv2/default/APR26/EntrepreneurElevatorPitch_040826/EEP_16x9.png"
     }
   ]
