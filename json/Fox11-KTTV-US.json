@@ -4,31 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-26T23:00:00+05:00",
-      "stop": "2026-05-27T00:00:00+05:00",
-      "title": "GDLA+",
-      "desc": "KTTV delivers premier Los Angeles news and entertainment, specializing in high-impact local journalism, live professional sports, and the flagship Fox network lineup of primetime series and reality television.",
-      "date": "2024",
-      "language": "en",
-      "categories": [
-        "Newsmagazine"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p26513975_b_h8_ab.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-27T00:00:00+05:00",
-      "stop": "2026-05-27T01:00:00+05:00",
-      "title": "Live: FIFA World Cup 2026: USA Roster Reveal Show",
-      "desc": "Find out which 26 players will represent the United States on the game's biggest stage, as manager Mauricio Pochettino reveals his squad for the 2026 FIFA World Cup.",
-      "date": "2026",
-      "language": "en",
-      "categories": [
-        "Special",
-        "Soccer"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p33019322_b_h8_aa.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-05-27T01:00:00+05:00",
       "stop": "2026-05-27T02:00:00+05:00",
       "title": "The Jennifer Hudson Show",
@@ -220,6 +195,44 @@
           "Brett Maverick"
         ]
       }
+    },
+    {
+      "start": "2026-05-27T09:00:00+05:00",
+      "stop": "2026-05-27T10:00:00+05:00",
+      "title": "Bear Grylls Is Running Wild",
+      "sub_title": "Bear With Elizabeth Banks",
+      "desc": "Bear Grylls and Elizabeth Banks take a once-in-a-lifetime journey deep into a frigid wilderness, crisscrossing the crevasses of a melting glacier and kayaking their way to a very cold extraction.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "Series",
+        "Reality",
+        "Adventure",
+        "Travel",
+        "Outdoors",
+        "Action sports"
+      ],
+      "episode": "S1 E6",
+      "icon": "http://dtil.tmsimg.com/assets/p32729104_b_h8_ab.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Bear Grylls",
+          "Elizabeth Banks"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-27T10:00:00+05:00",
+      "stop": "2026-05-27T10:30:00+05:00",
+      "title": "Good Nite LA",
+      "desc": "Stay informed with the breaking news and headlines.",
+      "date": "2024",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p26513988_b_h8_ae.jpg?w=960&h=540"
     }
   ]
 }

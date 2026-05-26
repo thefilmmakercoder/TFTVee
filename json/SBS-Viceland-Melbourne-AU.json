@@ -4,32 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-26T20:35:00+05:00",
-      "stop": "2026-05-27T00:00:00+05:00",
-      "title": "NHK World English News",
-      "sub_title": "Wednesday 27 May 2026",
-      "desc": "English news from Japan's Broadcasting Corporation, NHK, delivering the latest in business, technology, health, environmental and world news.",
-      "language": "en",
-      "rating": "NR",
-      "categories": [
-        "News"
-      ],
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/310652/image/334x188"
-    },
-    {
-      "start": "2026-05-27T00:00:00+05:00",
-      "stop": "2026-05-27T01:00:00+05:00",
-      "title": "Al Jazeera News Hour",
-      "sub_title": "Wednesday 27 May 2026",
-      "desc": "In-depth global news from Al Jazeera Satellite Network, Doha, Qatar, in English.",
-      "language": "en",
-      "rating": "NR",
-      "categories": [
-        "News"
-      ],
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/264846/image/334x188"
-    },
-    {
       "start": "2026-05-27T01:00:00+05:00",
       "stop": "2026-05-27T01:50:00+05:00",
       "title": "TRT World News",
@@ -159,6 +133,33 @@
       ],
       "episode": "E1",
       "icon": "https://www.fetchtv.com.au/v2/epg/program/16467301/image/334x188"
+    },
+    {
+      "start": "2026-05-27T06:40:00+05:00",
+      "stop": "2026-05-27T07:15:00+05:00",
+      "title": "Front Up",
+      "sub_title": "1996 Series 3",
+      "desc": "This is a meet the people program where Andrew Urban interviews the average person in the street about their lives, relationships, career, and future. In this episode he talks with Marc.",
+      "language": "en",
+      "rating": "PG",
+      "categories": [
+        "Special Interest"
+      ],
+      "episode": "S3 E2",
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/7461058/image/334x188"
+    },
+    {
+      "start": "2026-05-27T07:15:00+05:00",
+      "stop": "2026-05-27T07:45:00+05:00",
+      "title": "DW The Day",
+      "sub_title": "Wednesday 27 May 2026",
+      "desc": "DW The Day is a news show that helps you understand emerging stories from Europe, the US and across the globe, in English, no subtitles.",
+      "language": "en",
+      "rating": "NR",
+      "categories": [
+        "News"
+      ],
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/436904/image/334x188"
     }
   ]
 }
