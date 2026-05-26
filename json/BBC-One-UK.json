@@ -4,8 +4,8 @@
   ],
   "programs": [
     {
-      "start": "2026-05-24T04:50:00+05:00",
-      "stop": "2026-05-24T04:55:00+05:00",
+      "start": "2026-05-26T04:40:00+05:00",
+      "stop": "2026-05-26T04:45:00+05:00",
       "title": "Weather for the Week Ahead",
       "desc": "Detailed weather forecast.",
       "language": "en",
@@ -13,11 +13,11 @@
         "News & Documentary",
         "News"
       ],
-      "icon": "https://images.metadata.sky.com/pd-image/410de0df-4cb6-41f1-82ba-e7282341138f/16-9"
+      "icon": "https://images.metadata.sky.com/pd-image/f829aa69-2a12-4723-bfb3-6ebc44a06f9f/16-9"
     },
     {
-      "start": "2026-05-24T04:55:00+05:00",
-      "stop": "2026-05-24T10:00:00+05:00",
+      "start": "2026-05-26T04:45:00+05:00",
+      "stop": "2026-05-26T10:00:00+05:00",
       "title": "BBC News",
       "desc": "BBC One joins the BBC's rolling news channel for a night of news.",
       "language": "en",
@@ -25,11 +25,11 @@
         "News & Documentary",
         "News"
       ],
-      "icon": "https://images.metadata.sky.com/pd-image/fcf6742f-343e-4e28-b1ae-200e4d643d68/16-9"
+      "icon": "https://images.metadata.sky.com/pd-image/e7b46eb3-3768-42a5-a463-c0b20c0e4651/16-9"
     },
     {
-      "start": "2026-05-24T10:00:00+05:00",
-      "stop": "2026-05-24T13:00:00+05:00",
+      "start": "2026-05-26T10:00:00+05:00",
+      "stop": "2026-05-26T13:30:00+05:00",
       "title": "Breakfast",
       "desc": "The latest news, sport, business and weather from the BBC's Breakfast team.",
       "language": "en",
@@ -37,43 +37,42 @@
         "News & Documentary",
         "News"
       ],
-      "icon": "https://images.metadata.sky.com/pd-image/a7c017c8-5009-48d9-b1f4-f9b067ccedea/16-9"
+      "icon": "https://images.metadata.sky.com/pd-image/746263d5-9b5c-460a-bc63-98543462c828/16-9"
     },
     {
-      "start": "2026-05-24T13:00:00+05:00",
-      "stop": "2026-05-24T14:00:00+05:00",
-      "title": "Sunday with Laura Kuenssberg",
-      "desc": "The big names behind the big stories. Laura Kuenssberg talks to those making the news, inside and outside politics.",
+      "start": "2026-05-26T13:30:00+05:00",
+      "stop": "2026-05-26T14:45:00+05:00",
+      "title": "Morning Live",
+      "desc": "Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier.",
+      "language": "en",
+      "categories": [
+        "Entertainment"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/04c405cf-3285-4b74-8597-970d6806670c/16-9"
+    },
+    {
+      "start": "2026-05-26T14:45:00+05:00",
+      "stop": "2026-05-26T15:15:00+05:00",
+      "title": "Rip Off Britain: Scams",
+      "desc": "The team hear the incredible story of one Edinburgh woman left devastated when an online romance turned out to be a scam.",
       "language": "en",
       "categories": [
         "Entertainment",
         "Factual"
       ],
-      "icon": "https://images.metadata.sky.com/pd-image/ebe74ff2-dd5e-4abb-9445-98d824dfe6d4/16-9"
+      "icon": "https://images.metadata.sky.com/pd-image/3965dbae-9595-47da-85c4-7d65933d17bd/16-9"
     },
     {
-      "start": "2026-05-24T14:00:00+05:00",
-      "stop": "2026-05-24T14:30:00+05:00",
-      "title": "Politics London",
-      "desc": "The latest political news, interviews and debate.",
+      "start": "2026-05-26T15:15:00+05:00",
+      "stop": "2026-05-26T16:15:00+05:00",
+      "title": "Homes Under the Hammer",
+      "desc": "Two dog-loving developers tackle epic projects in Wales and Norfolk. Also, a seasoned developer is looking to move quickly and economically in Nottingham.",
       "language": "en",
       "categories": [
         "Entertainment",
         "Factual"
       ],
-      "icon": "https://images.metadata.sky.com/pd-image/a0b8f836-b93b-4b0b-9810-f0fabce104bf/16-9"
-    },
-    {
-      "start": "2026-05-24T14:30:00+05:00",
-      "stop": "2026-05-24T15:30:00+05:00",
-      "title": "A Celebration for Pentecost",
-      "desc": "Celebrating the power of the Holy Spirit to transform lives in a service featuring testimonies, songs, talks and prayers from Hope St Church in Wrexham.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "Religion"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/ae61391d-5944-45c1-82bd-391a9a8a3a3b/16-9"
+      "icon": "https://images.metadata.sky.com/pd-image/c51d2c5e-96bf-4626-ac42-fce9c6e68aab/16-9"
     }
   ]
 }

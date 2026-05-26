@@ -4,150 +4,127 @@
   ],
   "programs": [
     {
-      "start": "2026-05-24T04:00:00+05:00",
-      "stop": "2026-05-24T04:30:00+05:00",
-      "title": "Tradfest: The Fingal Sessions",
-      "desc": "Aoife O'Donovan, Ultan O'Brien and Ultan Conlon share songs and stories.",
+      "start": "2026-05-26T04:00:00+05:00",
+      "stop": "2026-05-26T05:00:00+05:00",
+      "title": "PBS News Hour",
+      "desc": "Co-anchors Amna Nawaz and Geoff Bennett and correspondents offer in-depth analysis of current events.",
+      "date": "2026",
+      "language": "en",
+      "categories": [
+        "Series",
+        "News"
+      ],
+      "episode": "S52 E235",
+      "icon": "http://dtil.tmsimg.com/assets/p27608822_b_h8_ac.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Amna Nawaz",
+          "Geoff Bennett"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-26T05:00:00+05:00",
+      "stop": "2026-05-26T06:00:00+05:00",
+      "title": "Antiques Roadshow",
+      "sub_title": "Celebrating Asian-Pacific Heritage",
+      "desc": "A Hawaiian kou bowl; a Gandhi presentation spinning wheel; an 1888 Joseph Nawahi painting.",
+      "date": "2016",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Series",
+        "Collectibles",
+        "Art"
+      ],
+      "episode": "S20 E27",
+      "icon": "http://dtil.tmsimg.com/assets/p185479_b_h8_ag.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Mark L. Walberg"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-26T06:00:00+05:00",
+      "stop": "2026-05-26T07:00:00+05:00",
+      "title": "Antiques Roadshow",
+      "sub_title": "Cheekwood Estate & Gardens, Hour 2",
+      "desc": "A Civil War Union soldier archive; Disneyland railroad hat badges circa 1957; an art deco diamond, sapphire and pearl necklace circa 1925.",
+      "date": "2023",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Series",
+        "Collectibles",
+        "Art"
+      ],
+      "episode": "S27 E8 P2/3",
+      "icon": "http://dtil.tmsimg.com/assets/p185479_b_h8_ag.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Coral Pena"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-26T07:00:00+05:00",
+      "stop": "2026-05-26T08:30:00+05:00",
+      "title": "Independent Lens",
+      "sub_title": "Third Act",
+      "desc": "Filmmaker Tadashi Nakamura and his father, filmmaker Robert A. Nakamura, confront art, activism and aging, from World War II incarceration to cultural awakening and a Parkinson's diagnosis.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Documentary",
+        "Entertainment"
+      ],
+      "episode": "S27 E12",
+      "icon": "http://dtil.tmsimg.com/assets/p185854_b_h8_ac.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-26T08:30:00+05:00",
+      "stop": "2026-05-26T09:30:00+05:00",
+      "title": "Amanpour and Company",
+      "desc": "Christiane Amanpour leads discussions about world issues and interviews with global leaders.",
+      "date": "2026",
+      "language": "en",
+      "categories": [
+        "Series",
+        "Public affairs"
+      ],
+      "episode": "S8 E169",
+      "icon": "http://dtil.tmsimg.com/assets/p15694932_b_h8_ac.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Christiane Amanpour"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-26T09:30:00+05:00",
+      "stop": "2026-05-26T11:30:00+05:00",
+      "title": "Great Performances",
+      "sub_title": "Yellow Face",
+      "desc": "Daniel Dae Kim portrays a playwright in \"Yellow Face,\" a farce that deals with the complexities of race.",
       "date": "2025",
       "language": "en",
       "rating": "TVG",
       "categories": [
         "Series",
+        "Anthology",
         "Music",
-        "World"
+        "Dance",
+        "Drama",
+        "Performing arts"
       ],
-      "episode": "S3 E6",
-      "icon": "http://dtil.tmsimg.com/assets/p26621970_b_h10_aa.jpg?w=960&h=540",
+      "episode": "S52 E14",
+      "icon": "http://dtil.tmsimg.com/assets/p28374179_b_h10_aa.jpg?w=960&h=540",
       "credits": {
         "actor": [
-          "Fiachna \u00d3 Braon\u00e1in"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-24T04:30:00+05:00",
-      "stop": "2026-05-24T06:00:00+05:00",
-      "title": "Inspector George Gently",
-      "sub_title": "Gently Upside Down",
-      "desc": "Gently and Bacchus are thrown into the new world of pop and media celebrity when the body of a missing schoolgirl is discovered in a shallow grave.",
-      "date": "2011",
-      "language": "en",
-      "rating": "TVG",
-      "categories": [
-        "Series",
-        "Crime drama",
-        "Mystery"
-      ],
-      "episode": "S4 E1",
-      "icon": "http://dtil.tmsimg.com/assets/p8161901_b_h8_al.jpg?w=960&h=540",
-      "credits": {
-        "director": [
-          "Ciaran Donnelly",
-          "Daniel O'Hara",
-          "Nicholas Renton"
-        ],
-        "actor": [
-          "Lee Ingleby",
-          "Martin Shaw",
-          "Simon Hubbard"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-24T06:00:00+05:00",
-      "stop": "2026-05-24T07:43:00+05:00",
-      "title": "On the Town",
-      "desc": "Fun-loving sailors Gabey (Gene Kelly), Chip (Frank Sinatra) and Ozzie (Jules Munshin) have 24 hours of shore leave in New York City, and they want to make every second count. While Chip hooks up with loudmouth cab driver Brunhilde (Betty Garrett) and Ozzie swoons for prim anthropologist Claire (Ann Miller), Gabey falls in love with an actress he sees in an advertisement, Ivy Smith (Vera-Ellen). Leonard Bernstein, with lyricists Betty Comden and Adolph Green, provides the music.",
-      "date": "1949",
-      "language": "en",
-      "rating": "U",
-      "categories": [
-        "Movie",
-        "Musical comedy"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p2977_v_h10_aa.jpg?w=960&h=540",
-      "credits": {
-        "director": [
-          "Stanley Donen",
-          "Gene Kelly"
-        ],
-        "actor": [
-          "Gene Kelly",
-          "Frank Sinatra",
-          "Ann Miller"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-24T07:43:00+05:00",
-      "stop": "2026-05-24T10:02:00+05:00",
-      "title": "Anchors Aweigh",
-      "desc": "Joe (Gene Kelly) and Clarence (Frank Sinatra) are two young Navy sailors on leave in glitzy Los Angeles. The two men at first plan to use their layover as an opportunity to relax, but they soon find themselves in a complicated web of comic secrets. When the two buddies find a runaway boy and return him to his fame-hungry Aunt Susan (Kathryn Grayson), both men find themselves falling for the wannabe singer, setting off a series of misadventures that unfold in comedy and song.",
-      "date": "1945",
-      "language": "en",
-      "rating": "U",
-      "categories": [
-        "Movie",
-        "Musical"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p1947_v_h10_aa.jpg?w=960&h=540",
-      "credits": {
-        "director": [
-          "George Sidney"
-        ],
-        "actor": [
-          "Frank Sinatra",
-          "Gene Kelly",
-          "Kathryn Grayson"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-24T10:02:00+05:00",
-      "stop": "2026-05-24T11:44:00+05:00",
-      "title": "On the Town",
-      "desc": "Fun-loving sailors Gabey (Gene Kelly), Chip (Frank Sinatra) and Ozzie (Jules Munshin) have 24 hours of shore leave in New York City, and they want to make every second count. While Chip hooks up with loudmouth cab driver Brunhilde (Betty Garrett) and Ozzie swoons for prim anthropologist Claire (Ann Miller), Gabey falls in love with an actress he sees in an advertisement, Ivy Smith (Vera-Ellen). Leonard Bernstein, with lyricists Betty Comden and Adolph Green, provides the music.",
-      "date": "1949",
-      "language": "en",
-      "rating": "U",
-      "categories": [
-        "Movie",
-        "Musical comedy"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p2977_v_h10_aa.jpg?w=960&h=540",
-      "credits": {
-        "director": [
-          "Stanley Donen",
-          "Gene Kelly"
-        ],
-        "actor": [
-          "Gene Kelly",
-          "Frank Sinatra",
-          "Ann Miller"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-24T11:44:00+05:00",
-      "stop": "2026-05-24T14:04:00+05:00",
-      "title": "Anchors Aweigh",
-      "desc": "Joe (Gene Kelly) and Clarence (Frank Sinatra) are two young Navy sailors on leave in glitzy Los Angeles. The two men at first plan to use their layover as an opportunity to relax, but they soon find themselves in a complicated web of comic secrets. When the two buddies find a runaway boy and return him to his fame-hungry Aunt Susan (Kathryn Grayson), both men find themselves falling for the wannabe singer, setting off a series of misadventures that unfold in comedy and song.",
-      "date": "1945",
-      "language": "en",
-      "rating": "U",
-      "categories": [
-        "Movie",
-        "Musical"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p1947_v_h10_aa.jpg?w=960&h=540",
-      "credits": {
-        "director": [
-          "George Sidney"
-        ],
-        "actor": [
-          "Frank Sinatra",
-          "Gene Kelly",
-          "Kathryn Grayson"
+          "Daniel Dae Kim"
         ]
       }
     }
