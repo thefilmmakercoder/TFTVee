@@ -4,8 +4,45 @@
   ],
   "programs": [
     {
-      "start": "2026-05-26T04:30:00+05:00",
-      "stop": "2026-05-26T05:00:00+05:00",
+      "start": "2026-05-26T09:00:00+05:00",
+      "stop": "2026-05-26T09:30:00+05:00",
+      "title": "News Live",
+      "desc": "Up-to-date news and analysis from around the world.",
+      "language": "en",
+      "categories": [
+        "News & Documentary",
+        "World Affairs"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/5bd46322-5310-4864-af68-4532c105d34d/16-9"
+    },
+    {
+      "start": "2026-05-26T09:30:00+05:00",
+      "stop": "2026-05-26T10:00:00+05:00",
+      "title": "UpFront",
+      "sub_title": "Ep",
+      "desc": "16 Episode 16: Redi Tlhabi hosts a debate about the future of Artificial Intelligence and whether it represents invaluable innovation or a threat to humanity.",
+      "language": "en",
+      "categories": [
+        "News & Documentary",
+        "Politics"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/72c938a3-5534-4ec9-8b14-4545227ec293/16-9"
+    },
+    {
+      "start": "2026-05-26T10:00:00+05:00",
+      "stop": "2026-05-26T10:30:00+05:00",
+      "title": "News Live",
+      "desc": "Up-to-date news and analysis from around the world.",
+      "language": "en",
+      "categories": [
+        "News & Documentary",
+        "World Affairs"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/5bd46322-5310-4864-af68-4532c105d34d/16-9"
+    },
+    {
+      "start": "2026-05-26T10:30:00+05:00",
+      "stop": "2026-05-26T11:00:00+05:00",
       "title": "Inside Story",
       "desc": "Ep.1328 Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds from around the globe.",
       "language": "en",
@@ -13,23 +50,11 @@
         "News & Documentary",
         "World Affairs"
       ],
-      "icon": "https://images.metadata.sky.com/pd-image/3da75ba3-3a69-410d-8561-46df48f9af52/16-9"
+      "icon": "https://images.metadata.sky.com/pd-image/a10fa777-5f06-4d43-ad65-5a453398dc68/16-9"
     },
     {
-      "start": "2026-05-26T05:00:00+05:00",
-      "stop": "2026-05-26T06:00:00+05:00",
-      "title": "Newshour",
-      "desc": "Latest news and in-depth analysis from around the world.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "World Affairs"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/1e6edd64-f6b8-44ba-9fab-5251873a31a1/16-9"
-    },
-    {
-      "start": "2026-05-26T06:00:00+05:00",
-      "stop": "2026-05-26T06:30:00+05:00",
+      "start": "2026-05-26T11:00:00+05:00",
+      "stop": "2026-05-26T11:30:00+05:00",
       "title": "News Live",
       "desc": "Up-to-date news and analysis from around the world.",
       "language": "en",
@@ -40,40 +65,16 @@
       "icon": "https://images.metadata.sky.com/pd-image/5bd46322-5310-4864-af68-4532c105d34d/16-9"
     },
     {
-      "start": "2026-05-26T06:30:00+05:00",
-      "stop": "2026-05-26T07:00:00+05:00",
-      "title": "Business of War",
-      "desc": "Ep.3 Killing By Remote Control: Hind Hassan looks at the military tech that is changing the face of modern warfare: drones and AI.",
+      "start": "2026-05-26T11:30:00+05:00",
+      "stop": "2026-05-26T12:00:00+05:00",
+      "title": "The Global Population Bust",
+      "desc": "Baby Boomers: As birthrates crash worldwide, the hidden forces reshaping family, fertility, and the future of humanity are explored.",
       "language": "en",
       "categories": [
         "News & Documentary",
-        "News"
+        "Politics"
       ],
-      "icon": "https://images.metadata.sky.com/pd-image/56b50aff-d326-4779-8fb3-7ad361e2541c/16-9"
-    },
-    {
-      "start": "2026-05-26T07:00:00+05:00",
-      "stop": "2026-05-26T08:00:00+05:00",
-      "title": "Newshour",
-      "desc": "Latest news and in-depth analysis from around the world.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "World Affairs"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/1e6edd64-f6b8-44ba-9fab-5251873a31a1/16-9"
-    },
-    {
-      "start": "2026-05-26T08:00:00+05:00",
-      "stop": "2026-05-26T08:30:00+05:00",
-      "title": "News Live",
-      "desc": "Up-to-date news and analysis from around the world.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "World Affairs"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/5bd46322-5310-4864-af68-4532c105d34d/16-9"
+      "icon": "https://images.metadata.sky.com/pd-image/b9244128-8296-48de-bbeb-8e2e8bed4f8d/16-9"
     }
   ]
 }

@@ -4,73 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-26T04:00:00+05:00",
-      "stop": "2026-05-26T05:00:00+05:00",
-      "title": "NBC4 News at 4pm",
-      "desc": "The latest local news, weather and investigative stories impacting the community.",
-      "date": "2012",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p9358491_b_h10_ae.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-26T05:00:00+05:00",
-      "stop": "2026-05-26T06:00:00+05:00",
-      "title": "NBC4 News at 5pm",
-      "desc": "The latest local news, weather and investigative stories impacting the community.",
-      "date": "2011",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p8781144_b_h10_ad.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-26T06:00:00+05:00",
-      "stop": "2026-05-26T06:30:00+05:00",
-      "title": "NBC 4 News at 6pm",
-      "desc": "Stay informed with the latest breaking news and headlines.",
-      "date": "2015",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p12394505_b_h10_aa.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-26T06:30:00+05:00",
-      "stop": "2026-05-26T07:00:00+05:00",
-      "title": "NBC Nightly News With Tom Llamas",
-      "desc": "Tom Llamas anchors the latest news, going beyond the headlines to see how lives are affected by the world around them.",
-      "date": "2026",
-      "language": "en",
-      "categories": [
-        "Series",
-        "News"
-      ],
-      "episode": "S2 E135",
-      "icon": "http://dtil.tmsimg.com/assets/p30141511_b_h8_aa.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Tom Llamas"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-26T07:00:00+05:00",
-      "stop": "2026-05-26T07:30:00+05:00",
-      "title": "NBC4 News at 7 PM",
-      "desc": "The latest in local breaking news, weather reports and feature stories covering the vast Southern California region.",
-      "date": "2020",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p18102973_b_h10_ab.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-05-26T07:30:00+05:00",
       "stop": "2026-05-26T08:00:00+05:00",
       "title": "Access Hollywood",
@@ -92,6 +25,116 @@
           "Mario Lopez",
           "Kit Hoover",
           "Scott Evans"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-26T08:00:00+05:00",
+      "stop": "2026-05-26T10:00:00+05:00",
+      "title": "American Ninja Warrior",
+      "sub_title": "Women's Special Episode",
+      "desc": "Sixteen elite female ninjas compete on the world's toughest obstacle course with head-to-head races deciding this year's women's champion.",
+      "date": "2025",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Action sports",
+        "Action",
+        "Adventure",
+        "Competition Reality"
+      ],
+      "episode": "S17 E14",
+      "icon": "http://dtil.tmsimg.com/assets/p7931557_b_h8_an.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Matt Iseman",
+          "Akbar Gbajabiamila",
+          "Zuri Hall"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-26T10:00:00+05:00",
+      "stop": "2026-05-26T11:00:00+05:00",
+      "title": "Password",
+      "sub_title": "Howie Mandel & Jimmy Fallon",
+      "desc": "Jimmy Fallon and celebrity guest Howie Mandel pair up with contestants and face off over two games; players from each team guess secret passwords using only one-word clues for a chance to win up to $25,000.",
+      "date": "2024",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Game show"
+      ],
+      "episode": "S2 E7",
+      "icon": "http://dtil.tmsimg.com/assets/p22032897_b_h8_ae.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Keke Palmer",
+          "Jimmy Fallon",
+          "Howie Mandel"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-26T11:00:00+05:00",
+      "stop": "2026-05-26T11:34:00+05:00",
+      "title": "NBC4 News at 11pm",
+      "desc": "The latest local news, weather and investigative stories impacting the community.",
+      "date": "2011",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p8781143_b_h10_ad.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-26T11:34:00+05:00",
+      "stop": "2026-05-26T12:37:00+05:00",
+      "title": "The Tonight Show Starring Jimmy Fallon",
+      "sub_title": "Mick Jagger; Brendan Fraser; Kate Mara; Trueno",
+      "desc": "Singer-songwriter Mick Jagger; actor Brendan Fraser; actress Kate Mara; Trueno performs.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "Series",
+        "Talk",
+        "Comedy"
+      ],
+      "episode": "S13 E101",
+      "icon": "http://dtil.tmsimg.com/assets/p9898935_b_h8_am.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Jimmy Fallon",
+          "Mick Jagger",
+          "Brendan Fraser"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-26T12:37:00+05:00",
+      "stop": "2026-05-26T13:37:00+05:00",
+      "title": "Late Night With Seth Meyers",
+      "sub_title": "Aubrey Plaza; Gaten Matarazzo; Dan Bucatinsky",
+      "desc": "Actress Aubrey Plaza; actor Gaten Matarazzo; actor Dan Bucatinsky.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "Series",
+        "Talk",
+        "Comedy",
+        "Political News Satire & Talk"
+      ],
+      "episode": "S13 E87",
+      "icon": "http://dtil.tmsimg.com/assets/p31240203_b_h8_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Seth Meyers",
+          "Aubrey Plaza",
+          "Gaten Matarazzo"
         ]
       }
     }

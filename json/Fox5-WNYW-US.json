@@ -4,77 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-26T04:30:00+05:00",
-      "stop": "2026-05-26T05:00:00+05:00",
-      "title": "TMZ",
-      "desc": "TMZ TV tracks down today's hottest stars with their cameras, whether they are hitting the clubs or the dry cleaners.",
-      "date": "2026",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Series",
-        "Newsmagazine",
-        "Entertainment"
-      ],
-      "episode": "S19 E229",
-      "icon": "http://dtil.tmsimg.com/assets/p30985766_b_h10_aa.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Harvey Levin"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-26T05:00:00+05:00",
-      "stop": "2026-05-26T07:00:00+05:00",
-      "title": "Live: WNBA Basketball",
-      "desc": "Portland Fire travel to the Barclays Center to face the New York Liberty. The series is tied after New York won the previous game 100-82 behind Breanna Stewart's 22 points, while French rookie Pauline Astier provided a huge lift off the bench.",
-      "language": "en",
-      "categories": [
-        "Sports",
-        "Basketball"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/GNLZZGG0032ZJK8.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-26T07:00:00+05:00",
-      "stop": "2026-05-26T07:30:00+05:00",
-      "title": "The 10 O'Clock News",
-      "desc": "Local, national and international news.",
-      "date": "2021",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p19319081_b_h8_ab.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-26T07:30:00+05:00",
-      "stop": "2026-05-26T08:00:00+05:00",
-      "title": "Tower of Heroes",
-      "desc": "Inspirational stories behind the annual Tunnel to Towers' Tower Climb.",
-      "date": "2024",
-      "language": "en",
-      "categories": [
-        "Special",
-        "Public affairs"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p27258105_st_h10_aa.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-26T08:00:00+05:00",
-      "stop": "2026-05-26T08:30:00+05:00",
-      "title": "Good Night New York",
-      "desc": "Christal Young and Ryan Kristafer's edgy perspective on entertainment and lifestyle news in NYC and beyond.",
-      "date": "2024",
-      "language": "en",
-      "rating": "TV14",
-      "categories": [
-        "Newsmagazine"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p27878460_b_h8_aa.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-05-26T08:30:00+05:00",
       "stop": "2026-05-26T09:32:00+05:00",
       "title": "The 1% Club",
@@ -95,6 +24,85 @@
           "Joel McHale"
         ]
       }
+    },
+    {
+      "start": "2026-05-26T09:32:00+05:00",
+      "stop": "2026-05-26T10:30:00+05:00",
+      "title": "The Quiz With Balls",
+      "sub_title": "First Responders Face-off",
+      "desc": "Firefighters and nurses compete.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "Series",
+        "Game show"
+      ],
+      "episode": "S3 E2",
+      "icon": "http://dtil.tmsimg.com/assets/p26784239_b_h8_ah.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Jay Pharoah"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-26T10:30:00+05:00",
+      "stop": "2026-05-26T11:00:00+05:00",
+      "title": "Family Feud Favorites",
+      "desc": "\"Family Feud\" has seen some crazy moments over the years, so buckle up as we revisit these fan favorites.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Comedy",
+        "Game show"
+      ],
+      "episode": "S1 E125",
+      "icon": "http://dtil.tmsimg.com/assets/p30947082_b_h10_aa.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-26T11:00:00+05:00",
+      "stop": "2026-05-26T11:30:00+05:00",
+      "title": "Paid Programming",
+      "desc": "Paid programming.",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Consumer",
+        "Shopping",
+        "Variety"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-26T11:30:00+05:00",
+      "stop": "2026-05-26T12:00:00+05:00",
+      "title": "Paid Programming",
+      "desc": "Paid programming.",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Consumer",
+        "Shopping",
+        "Variety"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-26T12:00:00+05:00",
+      "stop": "2026-05-26T12:30:00+05:00",
+      "title": "Paid Programming",
+      "desc": "Paid programming.",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Consumer",
+        "Shopping",
+        "Variety"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&h=540"
     }
   ]
 }
