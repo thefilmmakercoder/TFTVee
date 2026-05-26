@@ -4,95 +4,126 @@
   ],
   "programs": [
     {
-      "start": "2026-05-26T13:00:00+05:00",
-      "stop": "2026-05-26T13:30:00+05:00",
-      "title": "CBS News Mornings",
-      "desc": "CBS News Mornings broadcasts on weekdays and offers viewers up-to-date news, comprehensive weather forecasts, and highlights from the world of sports.",
-      "date": "2024",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p27236437_b_h8_ab.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-26T13:30:00+05:00",
-      "stop": "2026-05-26T14:00:00+05:00",
-      "title": "CBS News New York This Morning 4:30am",
-      "desc": "News coverage to start the day.",
-      "date": "2020",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p18809050_b_h8_ac.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-26T14:00:00+05:00",
-      "stop": "2026-05-26T15:00:00+05:00",
-      "title": "CBS News New York This Morning 5am",
-      "desc": "News coverage to start the day.",
-      "date": "2020",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p18809052_b_h8_ac.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-26T15:00:00+05:00",
-      "stop": "2026-05-26T16:00:00+05:00",
-      "title": "CBS News New York This Morning 6am",
-      "desc": "News coverage to start the day.",
-      "date": "2020",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p18809073_b_h8_ad.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-26T16:00:00+05:00",
-      "stop": "2026-05-26T18:00:00+05:00",
-      "title": "CBS Mornings",
-      "desc": "Comic Josh Johnson; Keri Glassman, founder and president of Nutritious Life.",
+      "start": "2026-05-26T20:00:00+05:00",
+      "stop": "2026-05-26T21:00:00+05:00",
+      "title": "The Price Is Right",
+      "desc": "Participants must guess the prices of different types of items, ranging from vehicles to electronic appliances, to win a prize.",
       "date": "2026",
-      "language": "en",
-      "categories": [
-        "Series",
-        "Talk",
-        "News"
-      ],
-      "episode": "E104",
-      "icon": "http://dtil.tmsimg.com/assets/p20589677_b_h8_ai.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Gayle King",
-          "Tony Dokoupil",
-          "Nate Burleson"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-26T18:00:00+05:00",
-      "stop": "2026-05-26T18:30:00+05:00",
-      "title": "The Drew Barrymore Show",
-      "sub_title": "Valerie Bertinelli",
-      "desc": "Drew and Valerie Bertinelli take a trip down memory lane to reflect on their most memorable dresses.",
-      "date": "2025",
       "language": "en",
       "rating": "TVG",
       "categories": [
         "Series",
-        "Talk",
-        "Entertainment"
+        "Game show"
       ],
-      "episode": "S6 E55",
-      "icon": "http://dtil.tmsimg.com/assets/p31124897_b_h8_aa.jpg?w=960&h=540",
+      "episode": "S54 E162",
+      "icon": "http://dtil.tmsimg.com/assets/p31082639_b_h8_aa.jpg?w=960&h=540",
       "credits": {
         "actor": [
-          "Drew Barrymore",
-          "Valerie Bertinelli"
+          "Drew Carey"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-26T21:00:00+05:00",
+      "stop": "2026-05-26T21:30:00+05:00",
+      "title": "CBS News New York 12pm",
+      "desc": "Midday news update.",
+      "date": "2011",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p8492448_b_h8_aa.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-26T21:30:00+05:00",
+      "stop": "2026-05-26T22:30:00+05:00",
+      "title": "The Young and the Restless",
+      "desc": "Victor gains leverage against Phyllis; Billy tells Adam about Sally's pregnancy; Patty makes a distress call about Jack.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "Series",
+        "Soap"
+      ],
+      "episode": "S53 E159",
+      "icon": "http://dtil.tmsimg.com/assets/p183904_b_h8_ai.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Peter Bergman",
+          "Eric Braeden",
+          "Christel Khalil"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-26T22:30:00+05:00",
+      "stop": "2026-05-26T23:00:00+05:00",
+      "title": "The Bold and the Beautiful",
+      "desc": "Brooke is excited about Hope's line returning to Forrester; R.J. is the victim of Will's low blow.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "Series",
+        "Soap",
+        "Drama",
+        "Romance"
+      ],
+      "episode": "S39 E176",
+      "icon": "http://dtil.tmsimg.com/assets/p31167565_b_h10_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Katherine Kelly Lang",
+          "Jacqueline MacInnes Wood",
+          "Thorsten Kaye"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-26T23:00:00+05:00",
+      "stop": "2026-05-27T00:00:00+05:00",
+      "title": "Beyond the Gates",
+      "desc": "Bill orders Tomas to stand down; Nicole confides her fantasies to Kial; Joey gives Donnell what he wants; Deanna's blast from the past has a mission for her to accomplish; Leslie is worried the plasma ring's reach could impact her.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "Series",
+        "Soap",
+        "Drama"
+      ],
+      "episode": "S2 E95",
+      "icon": "http://dtil.tmsimg.com/assets/p28339808_b_h8_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Clifton Davis",
+          "Tamara Tunie",
+          "Daphnee Duplaix"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-27T00:00:00+05:00",
+      "stop": "2026-05-27T00:30:00+05:00",
+      "title": "Judge Judy",
+      "sub_title": "Children Witness Parents' Bloody Brawl!; Three's a Spring Break Crowd!",
+      "desc": "Perceived disrespect by a Little League coach leads to a vicious fight on the playing field; a badly planned spring-break trip ends in a shoving match when a man comes between former girlfriends.",
+      "date": "2015",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Reality",
+        "Law"
+      ],
+      "episode": "S19 E134",
+      "icon": "http://dtil.tmsimg.com/assets/p184382_b_h8_af.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Judy Sheindlin"
         ]
       }
     }

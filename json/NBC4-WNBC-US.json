@@ -4,97 +4,125 @@
   ],
   "programs": [
     {
-      "start": "2026-05-26T13:00:00+05:00",
-      "stop": "2026-05-26T13:30:00+05:00",
-      "title": "Early Today",
-      "desc": "This early-morning news covers overnight events, breaking domestic and international news as well as a preview of the day's anticipated events. The program also presents regular reports from the worlds of business, entertainment and sports.",
-      "date": "1999",
-      "language": "en",
-      "rating": "TVG",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p185301_b_h8_ag.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-26T13:30:00+05:00",
-      "stop": "2026-05-26T14:00:00+05:00",
-      "title": "Today in New York",
-      "desc": "The local news, weather and investigative stories impacting your community.",
-      "date": "2000",
+      "start": "2026-05-26T20:30:00+05:00",
+      "stop": "2026-05-26T21:00:00+05:00",
+      "title": "New York Live",
+      "desc": "Celebrity interviews and discussing recipes, beauty, fashion and current events pertinent to the tri-state region.",
+      "date": "2011",
       "language": "en",
       "categories": [
-        "News"
+        "News",
+        "Newsmagazine"
       ],
-      "icon": "http://dtil.tmsimg.com/assets/p960598_b_h10_ac.jpg?w=960&h=540"
+      "icon": "http://dtil.tmsimg.com/assets/p8692580_b_h8_ac.jpg?w=960&h=540"
     },
     {
-      "start": "2026-05-26T14:00:00+05:00",
-      "stop": "2026-05-26T15:00:00+05:00",
-      "title": "Today in New York",
-      "desc": "The local news, weather and investigative stories impacting your community.",
-      "date": "2000",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p960598_b_h10_ac.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-26T15:00:00+05:00",
-      "stop": "2026-05-26T16:00:00+05:00",
-      "title": "Today in New York @ 6AM",
-      "desc": "The latest local news, weather and investigative stories impacting the community.",
-      "date": "2023",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p24315242_b_h10_aa.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-26T16:00:00+05:00",
-      "stop": "2026-05-26T18:00:00+05:00",
-      "title": "Today",
-      "desc": "Restaurant kitchens hiring people with autism; previewing the USMNT World Cup roster reveal with coach Mauricio Pochettino; actor Brendan Fraser; Target Shop This List: Summer Kickoff with Melissa Garcia; Today Food with Greg Baxtrom.",
+      "start": "2026-05-26T21:00:00+05:00",
+      "stop": "2026-05-26T22:00:00+05:00",
+      "title": "NBC News Daily",
+      "desc": "NBC News provides viewers with the latest national and international news; consumer, health and personal finance reporting; up-to-the-minute local news.",
       "date": "2026",
       "language": "en",
-      "rating": "G",
       "categories": [
         "Series",
-        "Talk",
-        "News",
-        "Public affairs"
+        "News"
       ],
-      "episode": "S74 E208",
-      "icon": "http://dtil.tmsimg.com/assets/p30939383_b_h8_aa.jpg?w=960&h=540",
+      "episode": "E93",
+      "icon": "http://dtil.tmsimg.com/assets/p22712535_b_h8_ad.jpg?w=960&h=540",
       "credits": {
         "actor": [
-          "Savannah Guthrie",
-          "Craig Melvin",
-          "Al Roker"
+          "Vicky Nguyen",
+          "Morgan Radford"
         ]
       }
     },
     {
-      "start": "2026-05-26T18:00:00+05:00",
-      "stop": "2026-05-26T19:00:00+05:00",
-      "title": "Today 3rd Hour",
-      "desc": "Today's Checklist: Nutrients for longevity with Dr. Natalie Azar and Joy Bauer; catching up with Andrew Scott; catching up with Stephanie Hsu; smartphone tips, tricks and hacks with Jenn Jolly; Today Food: Soulful summer dishes with Monti Carlo.",
-      "date": "2026",
+      "start": "2026-05-26T22:00:00+05:00",
+      "stop": "2026-05-26T23:00:00+05:00",
+      "title": "Dateline",
+      "sub_title": "The Room Downstairs",
+      "desc": "While responding to a house fire in New Jersey, firefighters discover the burned remains of the homeowner in the basement; new interviews and legal developments about the latest twists and turns in the case.",
+      "date": "2025",
       "language": "en",
+      "rating": "TVPG",
       "categories": [
         "Series",
-        "Talk",
-        "News"
+        "Newsmagazine",
+        "Documentary"
       ],
-      "episode": "S8 E176",
-      "icon": "http://dtil.tmsimg.com/assets/p30939266_b_h8_aa.jpg?w=960&h=540",
+      "episode": "S9 E8",
+      "icon": "http://dtil.tmsimg.com/assets/p31054010_b_h10_aa.jpg?w=960&h=540",
       "credits": {
         "actor": [
           "Craig Melvin",
-          "Al Roker",
-          "Dylan Dreyer"
+          "Andrea Canning",
+          "Natalie Morales"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-26T23:00:00+05:00",
+      "stop": "2026-05-27T00:00:00+05:00",
+      "title": "Access Daily With Mario & Kit",
+      "desc": "Actor Bryan Cranston discusses his Dos Hombres line; singer Tonio Armani; \"Daily\" feed; MorningSave shoppable finds!",
+      "date": "2026",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Newsmagazine",
+        "Entertainment"
+      ],
+      "episode": "S16 E151",
+      "icon": "http://dtil.tmsimg.com/assets/p22894952_b_h8_ab.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Mario Lopez",
+          "Kit Hoover",
+          "Scott Evans"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-27T00:00:00+05:00",
+      "stop": "2026-05-27T01:00:00+05:00",
+      "title": "The Kelly Clarkson Show",
+      "desc": "Cameoke: \"Bathroom Stall\"; John Travolta; Ella Bleu Travolta; Clark Shotwell and Kelly Eviston-Quinnett; \"SIX: The Musical\" performance of \"Ex Wives\"; buying back grandma's house.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Talk",
+        "Variety",
+        "Entertainment"
+      ],
+      "episode": "S7 E143",
+      "icon": "http://dtil.tmsimg.com/assets/p16993616_b_h8_af.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Kelly Clarkson",
+          "John Travolta",
+          "Ella Bleu Travolta"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-27T01:00:00+05:00",
+      "stop": "2026-05-27T01:30:00+05:00",
+      "title": "Live: News 4 NY at 4",
+      "desc": "The latest local news, weather and investigative stories impacting your community.",
+      "date": "2016",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p12736826_b_h10_ae.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Stefan Holt",
+          "Natalie Pasquarella",
+          "Dave Price"
         ]
       }
     }
