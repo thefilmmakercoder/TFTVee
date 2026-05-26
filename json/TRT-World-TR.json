@@ -4,8 +4,56 @@
   ],
   "programs": [
     {
-      "start": "2026-05-26T09:00:00+05:00",
-      "stop": "2026-05-26T09:30:00+05:00",
+      "start": "2026-05-26T12:30:00+05:00",
+      "stop": "2026-05-26T13:00:00+05:00",
+      "title": "The Newsmakers",
+      "desc": "With in-depth reports and strong, unfiltered debates: The Newsmakers examine the people and the stories that are shaping our lives.",
+      "language": "en",
+      "categories": [
+        "News & Documentary",
+        "News"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/1d665249-2aff-419e-a769-81c36b4540fc/16-9"
+    },
+    {
+      "start": "2026-05-26T13:00:00+05:00",
+      "stop": "2026-05-26T14:00:00+05:00",
+      "title": "Newshour",
+      "desc": "TRT World brings the latest news from around the globe, when it happens.",
+      "language": "en",
+      "categories": [
+        "News & Documentary",
+        "News"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/c98d336e-5f21-430d-9038-2b25f3f0727a/16-9"
+    },
+    {
+      "start": "2026-05-26T14:00:00+05:00",
+      "stop": "2026-05-26T14:30:00+05:00",
+      "title": "Africa Matters",
+      "desc": "Every week, Africa Matters will bring you the untold, under-reported stories from across the continent. We'll also unpack the issues that matter to Africans.",
+      "language": "en",
+      "categories": [
+        "News & Documentary",
+        "World Affairs"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/74d1d956-fbd2-411a-a2e6-7e67a9ea080d/16-9"
+    },
+    {
+      "start": "2026-05-26T14:30:00+05:00",
+      "stop": "2026-05-26T15:00:00+05:00",
+      "title": "Just 2 Degrees",
+      "desc": "A rise of just two degrees in average temperatures means catastrophe for planet Earth. TRT World looks at the cold, hard truths behind a warming planet.",
+      "language": "en",
+      "categories": [
+        "News & Documentary",
+        "World Affairs"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/983c40f4-b05b-401a-bf06-41cc7ac82721/16-9"
+    },
+    {
+      "start": "2026-05-26T15:00:00+05:00",
+      "stop": "2026-05-26T15:30:00+05:00",
       "title": "News",
       "desc": "TRT World brings the latest news from around the globe, when it happens.",
       "language": "en",
@@ -13,67 +61,19 @@
         "News & Documentary",
         "News"
       ],
-      "icon": "https://images.metadata.sky.com/pd-image/eaca5834-2d50-4309-a0a5-fa1b366275a5/16-9"
+      "icon": "https://images.metadata.sky.com/pd-image/9aca6386-4e08-4d0d-a43b-4c0c5ce54849/16-9"
     },
     {
-      "start": "2026-05-26T09:30:00+05:00",
-      "stop": "2026-05-26T10:00:00+05:00",
-      "title": "Where To Next",
-      "desc": "Where to Next takes audiences off the beaten path in T\u00fcrkiye to uncover hidden gems, culinary treasures, and rich cultural highlights.",
+      "start": "2026-05-26T15:30:00+05:00",
+      "stop": "2026-05-26T16:00:00+05:00",
+      "title": "Business News",
+      "desc": "As the world grapples with ever changing politics and crises, economy is always center stage. TRT World's Business News gives you the insight.",
       "language": "en",
       "categories": [
         "News & Documentary",
-        "World Culture"
+        "Business"
       ],
-      "icon": "https://images.metadata.sky.com/pd-image/40f60ea0-ef99-4988-b5c8-8b1241eb9c4e/16-9"
-    },
-    {
-      "start": "2026-05-26T10:00:00+05:00",
-      "stop": "2026-05-26T10:30:00+05:00",
-      "title": "News",
-      "desc": "TRT World brings the latest news from around the globe, when it happens.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/ff465cd4-2228-4440-a25e-054e4ef56d0f/16-9"
-    },
-    {
-      "start": "2026-05-26T10:30:00+05:00",
-      "stop": "2026-05-26T11:00:00+05:00",
-      "title": "Roundtable",
-      "desc": "Ideas are changing our world. See them discussed and dissected, every weekday.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/92896523-3bf5-47da-a47f-8d85a951c140/16-9"
-    },
-    {
-      "start": "2026-05-26T11:00:00+05:00",
-      "stop": "2026-05-26T11:30:00+05:00",
-      "title": "News",
-      "desc": "TRT World brings the latest news from around the globe, when it happens.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/f8098710-62b5-49d6-b182-cf5f117f5d28/16-9"
-    },
-    {
-      "start": "2026-05-26T11:30:00+05:00",
-      "stop": "2026-05-26T12:00:00+05:00",
-      "title": "Inside America",
-      "desc": "Weekly in-depth interviews with American opinion and policy-makers exploring the issues shaping US politics, with Ghida Fakhry.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/19922ef4-d794-4a8d-b0b8-13e590f4f8ef/16-9"
+      "icon": "https://images.metadata.sky.com/pd-image/feb27d4d-cf33-4adc-8b14-be2f5693e237/16-9"
     }
   ]
 }
