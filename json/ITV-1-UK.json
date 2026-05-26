@@ -4,30 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-26T22:00:00+05:00",
-      "stop": "2026-05-26T22:30:00+05:00",
-      "title": "ITV News London",
-      "desc": "The latest news and weather from London and the South East.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/e2ece070-4f7f-4f66-b8e0-01a65eed5b7f/16-9"
-    },
-    {
-      "start": "2026-05-26T22:30:00+05:00",
-      "stop": "2026-05-26T23:30:00+05:00",
-      "title": "ITV Evening News",
-      "desc": "National and international news with reports and analysis from ITV's Correspondents in the UK and around the world, plus a focus on the stories that matter to you.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/6be771e2-c88a-41e5-8b1f-c8fb8f6b4cf8/16-9"
-    },
-    {
       "start": "2026-05-26T23:30:00+05:00",
       "stop": "2026-05-27T00:00:00+05:00",
       "title": "Millionaire Hot Seat",
@@ -147,6 +123,30 @@
         "Lifestyles"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/87d702dc-fa6d-40b8-8163-1b5cc0e61cf7/16-9"
+    },
+    {
+      "start": "2026-05-27T09:05:00+05:00",
+      "stop": "2026-05-27T10:00:00+05:00",
+      "title": "Deal or No Deal: Soccer Aid Special",
+      "desc": "Stephen Mulhern hosts a Soccer Aid for UNICEF edition of the iconic game show as Lioness Jill Scott steps up to take on The Banker. But can she score the jackpot for charity.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Game Show"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/4c368473-83c4-4f8b-906a-241f0ff421c4/16-9"
+    },
+    {
+      "start": "2026-05-27T10:00:00+05:00",
+      "stop": "2026-05-27T13:30:00+05:00",
+      "title": "Good Morning Britain",
+      "desc": "News, current affairs and lively debate.",
+      "language": "en",
+      "categories": [
+        "News & Documentary",
+        "News"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/47520ee7-de26-41f4-8384-cda632488333/16-9"
     }
   ]
 }

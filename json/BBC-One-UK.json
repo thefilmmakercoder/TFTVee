@@ -4,29 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-26T22:30:00+05:00",
-      "stop": "2026-05-26T23:00:00+05:00",
-      "title": "BBC London News",
-      "desc": "The latest news, sport and weather from London.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/2ca27d1b-b65f-43af-b45e-5e2ceb6c62ea/16-9"
-    },
-    {
-      "start": "2026-05-26T23:00:00+05:00",
-      "stop": "2026-05-26T23:30:00+05:00",
-      "title": "The One Show",
-      "desc": "Alex Jones and Roman Kemp bring you the stories that matter from across the country.",
-      "language": "en",
-      "categories": [
-        "Entertainment"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/0ea09bfc-ec5a-42fd-a583-00d43fd1797e/16-9"
-    },
-    {
       "start": "2026-05-26T23:30:00+05:00",
       "stop": "2026-05-27T00:00:00+05:00",
       "title": "EastEnders",
@@ -143,6 +120,29 @@
         "News"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/6148b90d-3267-4ae8-ad20-087d3ea1916c/16-9"
+    },
+    {
+      "start": "2026-05-27T13:30:00+05:00",
+      "stop": "2026-05-27T14:45:00+05:00",
+      "title": "Morning Live",
+      "desc": "Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier.",
+      "language": "en",
+      "categories": [
+        "Entertainment"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/202ef7bd-6a5e-4398-99f4-2f0e4b64d679/16-9"
+    },
+    {
+      "start": "2026-05-27T14:45:00+05:00",
+      "stop": "2026-05-27T15:15:00+05:00",
+      "title": "Rip Off Britain: Scams",
+      "desc": "A viewer contacts the team after suspecting the online task work he's been completing could be a scam.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Factual"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/decaae88-43c3-49b5-8ad1-ee6118941c0b/16-9"
     }
   ]
 }

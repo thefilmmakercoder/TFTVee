@@ -4,30 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-26T23:00:00+05:00",
-      "stop": "2026-05-26T23:15:00+05:00",
-      "title": "News - London",
-      "desc": "TRT World brings the latest news from around the globe when it happens.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/2f798d74-460e-4a82-a99b-c0cc32e52504/16-9"
-    },
-    {
-      "start": "2026-05-26T23:15:00+05:00",
-      "stop": "2026-05-26T23:30:00+05:00",
-      "title": "Newsfeed",
-      "desc": "Newsfeed reflects the day's events and opinions, as reported or discussed on social media.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/892e8fa1-0102-4d3c-8692-1ab0bc8b52ab/16-9"
-    },
-    {
       "start": "2026-05-26T23:30:00+05:00",
       "stop": "2026-05-27T00:00:00+05:00",
       "title": "Strait Talk",
@@ -146,6 +122,30 @@
         "Feature"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/7382643a-c3f9-459e-a82f-9c0ebfda5dcd/16-9"
+    },
+    {
+      "start": "2026-05-27T05:00:00+05:00",
+      "stop": "2026-05-27T05:30:00+05:00",
+      "title": "News",
+      "desc": "TRT World brings the latest news from around the globe, when it happens.",
+      "language": "en",
+      "categories": [
+        "News & Documentary",
+        "News"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/94c088b2-19cc-42db-944f-8918781aaea3/16-9"
+    },
+    {
+      "start": "2026-05-27T05:30:00+05:00",
+      "stop": "2026-05-27T06:00:00+05:00",
+      "title": "Where To Next",
+      "desc": "Where to Next takes audiences off the beaten path in T\u00fcrkiye to uncover hidden gems, culinary treasures, and rich cultural highlights.",
+      "language": "en",
+      "categories": [
+        "News & Documentary",
+        "World Culture"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/ae9367af-96e7-47f3-bf36-8e5259f4783a/16-9"
     }
   ]
 }
