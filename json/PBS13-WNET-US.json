@@ -4,42 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-26T03:00:00+05:00",
-      "stop": "2026-05-26T03:30:00+05:00",
-      "title": "DW News",
-      "desc": "Presenting a round-up of the most recent news and developments from across the world.",
-      "date": "2002",
-      "language": "en",
-      "rating": "A",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p26245192_b_h10_aa.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Ben Fajzullin"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-26T03:30:00+05:00",
-      "stop": "2026-05-26T04:00:00+05:00",
-      "title": "BBC World News America",
-      "desc": "A detailed look into news stories from around the world from the BBC news desk in Washington, D.C.",
-      "date": "2026",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p32402912_b_h10_aa.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Sumi Somaskanda",
-          "Caitr\u00edona Perry"
-        ]
-      }
-    },
-    {
       "start": "2026-05-26T04:00:00+05:00",
       "stop": "2026-05-26T05:00:00+05:00",
       "title": "PBS News Hour",
@@ -119,6 +83,50 @@
       ],
       "episode": "S27 E12",
       "icon": "http://dtil.tmsimg.com/assets/p185854_b_h8_ac.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-26T08:30:00+05:00",
+      "stop": "2026-05-26T09:30:00+05:00",
+      "title": "Amanpour and Company",
+      "desc": "Christiane Amanpour leads discussions about world issues and interviews with global leaders.",
+      "date": "2026",
+      "language": "en",
+      "categories": [
+        "Series",
+        "Public affairs"
+      ],
+      "episode": "S8 E169",
+      "icon": "http://dtil.tmsimg.com/assets/p15694932_b_h8_ac.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Christiane Amanpour"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-26T09:30:00+05:00",
+      "stop": "2026-05-26T11:30:00+05:00",
+      "title": "Great Performances",
+      "sub_title": "Yellow Face",
+      "desc": "Daniel Dae Kim portrays a playwright in \"Yellow Face,\" a farce that deals with the complexities of race.",
+      "date": "2025",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Series",
+        "Anthology",
+        "Music",
+        "Dance",
+        "Drama",
+        "Performing arts"
+      ],
+      "episode": "S52 E14",
+      "icon": "http://dtil.tmsimg.com/assets/p28374179_b_h10_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Daniel Dae Kim"
+        ]
+      }
     }
   ]
 }

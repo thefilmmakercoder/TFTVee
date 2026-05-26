@@ -4,30 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-26T03:00:00+05:00",
-      "stop": "2026-05-26T03:30:00+05:00",
-      "title": "PIX11 News at 6",
-      "desc": "Staying informed with the news and headlines.",
-      "date": "2015",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p11641865_b_h8_ab.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-26T03:30:00+05:00",
-      "stop": "2026-05-26T04:00:00+05:00",
-      "title": "PIX11 Evening News",
-      "desc": "Staying informed with the news and headlines.",
-      "date": "2022",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p21846983_b_h8_aa.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-05-26T04:00:00+05:00",
       "stop": "2026-05-26T05:00:00+05:00",
       "title": "Destination USA: Route 66",
@@ -96,6 +72,44 @@
         "News"
       ],
       "icon": "http://dtil.tmsimg.com/assets/p10829690_b_h8_ab.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-26T08:00:00+05:00",
+      "stop": "2026-05-26T08:30:00+05:00",
+      "title": "New York Nightcap",
+      "desc": "WPIX provides essential New York news, live sports, and CW network hits, serving as a cornerstone of local broadcasting for the tri-state area.",
+      "date": "2025",
+      "language": "en",
+      "categories": [
+        "Community"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p31821949_st_h10_aa.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-26T08:30:00+05:00",
+      "stop": "2026-05-26T09:00:00+05:00",
+      "title": "Seinfeld",
+      "sub_title": "The Raincoats",
+      "desc": "Kramer has a scheme to sell vintage raincoats; Jerry and his girlfriend can't get any alone time; George sells his father's cabana clothes.",
+      "date": "1994",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Sitcom"
+      ],
+      "episode": "S5 E18 P1/2",
+      "icon": "http://dtil.tmsimg.com/assets/p183875_b_h10_ab.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Tom Cherones"
+        ],
+        "actor": [
+          "Jerry Seinfeld",
+          "Jason Alexander",
+          "Michael Richards"
+        ]
+      }
     }
   ]
 }

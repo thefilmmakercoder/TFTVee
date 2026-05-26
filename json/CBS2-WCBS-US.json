@@ -4,64 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-26T03:00:00+05:00",
-      "stop": "2026-05-26T03:30:00+05:00",
-      "title": "CBS News New York 6pm",
-      "desc": "Stay informed with the latest breaking news and headlines.",
-      "date": "2008",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p605164_b_h8_ab.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-26T03:30:00+05:00",
-      "stop": "2026-05-26T04:00:00+05:00",
-      "title": "CBS Evening News",
-      "desc": "Tony Dokoupil shares the day's most important stories, delivering context and depth to bring greater understanding to one's world.",
-      "date": "2026",
-      "language": "en",
-      "categories": [
-        "Series",
-        "News"
-      ],
-      "episode": "E145",
-      "icon": "http://dtil.tmsimg.com/assets/p28807922_b_h8_ae.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Tony Dokoupil",
-          "Maurice DuBois",
-          "Jericka Duncan"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-26T04:00:00+05:00",
-      "stop": "2026-05-26T04:30:00+05:00",
-      "title": "Inside Edition",
-      "sub_title": "The Secrets of Steak",
-      "desc": "How to make the perfect steak for a Memorial Day barbeque.",
-      "date": "2026",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Series",
-        "Newsmagazine",
-        "Public affairs",
-        "Interview"
-      ],
-      "episode": "S38 E186",
-      "icon": "http://dtil.tmsimg.com/assets/p184110_b_h10_aa.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Eva Pilgrim",
-          "Mary Calvi",
-          "Jim Moret"
-        ]
-      }
-    },
-    {
       "start": "2026-05-26T04:30:00+05:00",
       "stop": "2026-05-26T05:00:00+05:00",
       "title": "Entertainment Tonight",
@@ -118,6 +60,73 @@
         "News"
       ],
       "icon": "http://dtil.tmsimg.com/assets/p8492450_b_h8_ab.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-26T08:35:00+05:00",
+      "stop": "2026-05-26T09:05:00+05:00",
+      "title": "Comics Unleashed With Byron Allen",
+      "sub_title": "Kaycee Conlee; Skyler Higley; Greg Baldwin; Mattio Martinez",
+      "desc": "Kaycee Conlee; Skyler Higley; Greg Baldwin; Mattio Martinez.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Comedy"
+      ],
+      "episode": "S4 E107",
+      "icon": "http://dtil.tmsimg.com/assets/p186631_b_h8_ad.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Byron Allen",
+          "Skyler Higley",
+          "Greg Baldwin"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-26T09:05:00+05:00",
+      "stop": "2026-05-26T09:37:00+05:00",
+      "title": "Comics Unleashed With Byron Allen",
+      "sub_title": "BT Kingsley; Jared Goldstein; Murray Valeriano; Tiffany Haddish",
+      "desc": "BT Kingsley; Jared Goldstein; Murray Valeriano; Tiffany Haddish.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Comedy"
+      ],
+      "episode": "S4 E68",
+      "icon": "http://dtil.tmsimg.com/assets/p186631_b_h8_ad.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Byron Allen",
+          "BT Kingsley",
+          "Jared Goldstein"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-26T09:37:00+05:00",
+      "stop": "2026-05-26T10:07:00+05:00",
+      "title": "Funny You Should Ask",
+      "desc": "Jon Lovitz; Loni Love; Adam Carolla; Byron Allen; Whitney Cummings; Jeff Ross.",
+      "date": "2023",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Game show",
+        "Comedy"
+      ],
+      "episode": "S6 E55",
+      "icon": "http://dtil.tmsimg.com/assets/p13115825_b_h10_ac.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Jon Kelley"
+        ]
+      }
     }
   ]
 }

@@ -4,44 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-26T03:00:00+05:00",
-      "stop": "2026-05-26T03:10:00+05:00",
-      "title": "Euronews",
-      "sub_title": "Tuesday 26 May 2026",
-      "desc": "Headlines, Breaking News & Analysis from the Euronews news centre in Brussels, Belgium, in English.",
-      "language": "en",
-      "rating": "NR",
-      "categories": [
-        "News"
-      ],
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/276/image/334x188"
-    },
-    {
-      "start": "2026-05-26T03:10:00+05:00",
-      "stop": "2026-05-26T03:40:00+05:00",
-      "title": "NHK Newsline",
-      "sub_title": "Tuesday 26 May 2026",
-      "desc": "English news from Japan's Broadcasting Corporation, NHK, delivering the latest in business, technology, health, environmental and world news.",
-      "language": "en",
-      "rating": "NR",
-      "categories": [
-        "News"
-      ],
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/439062/image/334x188"
-    },
-    {
-      "start": "2026-05-26T03:40:00+05:00",
-      "stop": "2026-05-26T04:30:00+05:00",
-      "title": "Cbc The National",
-      "desc": "CBC's flagship nightly news with hosts Adrienne Arsenault and Andrew Chang from Toronto, Canada, via satellite in English.",
-      "language": "en",
-      "rating": "NR",
-      "categories": [
-        "News"
-      ],
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/413666/image/334x188"
-    },
-    {
       "start": "2026-05-26T04:30:00+05:00",
       "stop": "2026-05-26T05:00:00+05:00",
       "title": "BBC News At Six",
@@ -79,6 +41,46 @@
       ],
       "episode": "E20",
       "icon": "https://www.fetchtv.com.au/v2/epg/program/130483/image/334x188"
+    },
+    {
+      "start": "2026-05-26T06:05:00+05:00",
+      "stop": "2026-05-26T06:40:00+05:00",
+      "title": "The Movie Show",
+      "desc": "Film review show with David Stratton and Margaret Pomeranz, featuring Even Cowgirls Get the Blues, The Client and more, plus interviews with Gus Van Sant and Penny Marshall.",
+      "language": "en",
+      "rating": "NR",
+      "categories": [
+        "Special Interest"
+      ],
+      "episode": "E21",
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/130483/image/334x188"
+    },
+    {
+      "start": "2026-05-26T06:40:00+05:00",
+      "stop": "2026-05-26T07:15:00+05:00",
+      "title": "The Movie Show",
+      "sub_title": "Brisbane Film Festival",
+      "desc": "Film review show from Queensland's Brisbane Film Festival with David Stratton and Margaret Pomeranz, plus studio and festival coverage and interviews.",
+      "language": "en",
+      "rating": "NR",
+      "categories": [
+        "Special Interest"
+      ],
+      "episode": "E22",
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/130483/image/334x188"
+    },
+    {
+      "start": "2026-05-26T07:15:00+05:00",
+      "stop": "2026-05-26T07:45:00+05:00",
+      "title": "DW The Day",
+      "sub_title": "Tuesday 26 May 2026",
+      "desc": "DW The Day is a news show that helps you understand emerging stories from Europe, the US and across the globe, in English, no subtitles.",
+      "language": "en",
+      "rating": "NR",
+      "categories": [
+        "News"
+      ],
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/436904/image/334x188"
     }
   ]
 }
