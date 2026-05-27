@@ -4,52 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-27T15:30:00+05:00",
-      "stop": "2026-05-27T16:00:00+05:00",
-      "title": "CBS News Mornings",
-      "desc": "CBS News Mornings broadcasts on weekdays and offers viewers up-to-date news, comprehensive weather forecasts, and highlights from the world of sports.",
-      "date": "2024",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p27236437_b_h8_ab.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-27T16:00:00+05:00",
-      "stop": "2026-05-27T18:00:00+05:00",
-      "title": "CBS Mornings",
-      "desc": "Economist Roland Fryer; artist and activist Ai Weiwei; Roger Bennett, co-founder, Men in Blazers Media Network.",
-      "date": "2026",
-      "language": "en",
-      "categories": [
-        "Series",
-        "Talk",
-        "News"
-      ],
-      "episode": "E105",
-      "icon": "http://dtil.tmsimg.com/assets/p20589677_b_h8_ai.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Gayle King",
-          "Tony Dokoupil",
-          "Nate Burleson"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-27T18:00:00+05:00",
-      "stop": "2026-05-27T19:00:00+05:00",
-      "title": "CBS LA Mornings at 6am",
-      "desc": "Start your day with CBS LA Mornings, covering breaking stories from The Desk, and NEXT Weather and Traffic for Southern California.",
-      "date": "2025",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p31308548_b_h10_aa.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-05-27T19:00:00+05:00",
       "stop": "2026-05-27T21:00:00+05:00",
       "title": "CBS Mornings",
@@ -238,6 +192,62 @@
           "Sunny Anderson"
         ]
       }
+    },
+    {
+      "start": "2026-05-28T03:00:00+05:00",
+      "stop": "2026-05-28T03:30:00+05:00",
+      "title": "Judge Judy",
+      "sub_title": "Assault Charge Bailout!; Take My Dog Off the Kill List!; Traveling Basketball Team Blues",
+      "desc": "A man denies owing his lover any money after she bails him out of jail using her truck as collateral; the beloved dog a woman gave up for adoption is on the kill list at a local shelter; a travel agent wants payment for airline tickets.",
+      "date": "2015",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Reality",
+        "Law"
+      ],
+      "episode": "S19 E215",
+      "icon": "http://dtil.tmsimg.com/assets/p184382_b_h8_af.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Judy Sheindlin"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-28T03:30:00+05:00",
+      "stop": "2026-05-28T04:00:00+05:00",
+      "title": "Judge Judy",
+      "sub_title": "Drugs, Gambling and Sexual Harassment?",
+      "desc": "A man regrets giving $10,000 to a woman young enough to be his granddaughter and claims she introduced him to drugs.",
+      "date": "2015",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Reality",
+        "Law"
+      ],
+      "episode": "S19 E127",
+      "icon": "http://dtil.tmsimg.com/assets/p184382_b_h8_af.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Judy Sheindlin"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-28T04:00:00+05:00",
+      "stop": "2026-05-28T05:00:00+05:00",
+      "title": "CBS LA at 4pm",
+      "desc": "Join the CBS LA team for stories from communities around SoCal, breaking news from The Desk, and NEXT Weather from the Weathersphere.",
+      "date": "2025",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p31317859_b_h10_aa.jpg?w=960&h=540"
     }
   ]
 }
