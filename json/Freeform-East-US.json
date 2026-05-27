@@ -4,33 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-27T20:00:00+05:00",
-      "stop": "2026-05-27T22:25:00+05:00",
-      "title": "The Jungle Book",
-      "desc": "Raised by a family of wolves since birth, Mowgli (Neel Sethi) must leave the only home he's ever known when the fearsome tiger Shere Khan (Idris Elba) unleashes his mighty roar. Guided by a no-nonsense panther (Ben Kingsley) and a free-spirited bear (Bill Murray), the young boy meets an array of jungle animals, including a slithery python and a smooth-talking ape. Along the way, Mowgli learns valuable life lessons as his epic journey of self-discovery leads to fun and adventure.",
-      "date": "2016",
-      "language": "en",
-      "rating": "PG",
-      "categories": [
-        "Movie",
-        "Children",
-        "Adventure",
-        "Action",
-        "Fantasy"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p10975296_v_h10_ab.jpg?w=960&h=540",
-      "credits": {
-        "director": [
-          "Jon Favreau"
-        ],
-        "actor": [
-          "Neel Sethi",
-          "Bill Murray",
-          "Ben Kingsley"
-        ]
-      }
-    },
-    {
       "start": "2026-05-27T22:25:00+05:00",
       "stop": "2026-05-28T01:00:00+05:00",
       "title": "The Goonies",
@@ -283,6 +256,29 @@
         "Consumer"
       ],
       "icon": "http://dtil.tmsimg.com/assets/p28560963_st_h10_aa.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-28T12:00:00+05:00",
+      "stop": "2026-05-28T13:00:00+05:00",
+      "title": "The 700 Club",
+      "desc": "Inspiring stories of miracles and answered prayers from around the world.",
+      "date": "2026",
+      "language": "en",
+      "rating": "M 15+",
+      "categories": [
+        "Series",
+        "Talk",
+        "Religious",
+        "Newsmagazine"
+      ],
+      "episode": "E107",
+      "icon": "http://dtil.tmsimg.com/assets/p183995_b_h8_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Gordon Robertson",
+          "Terry Meeuwsen"
+        ]
+      }
     }
   ]
 }
