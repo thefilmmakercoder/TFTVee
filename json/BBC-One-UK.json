@@ -4,30 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-27T05:25:00+05:00",
-      "stop": "2026-05-27T05:30:00+05:00",
-      "title": "Weather for the Week Ahead",
-      "desc": "Detailed weather forecast.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/c7941e25-2627-4e61-b0f9-22b06ab8f844/16-9"
-    },
-    {
-      "start": "2026-05-27T05:30:00+05:00",
-      "stop": "2026-05-27T10:00:00+05:00",
-      "title": "BBC News",
-      "desc": "BBC One joins the BBC's rolling news channel for a night of news.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/aee65993-74d3-46c2-8c81-98af7a70e46b/16-9"
-    },
-    {
       "start": "2026-05-27T10:00:00+05:00",
       "stop": "2026-05-27T13:30:00+05:00",
       "title": "Breakfast",
@@ -145,6 +121,30 @@
         "Gradening"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/bf963a77-dd7c-41c6-82b8-a2165f5742c8/16-9"
+    },
+    {
+      "start": "2026-05-27T20:30:00+05:00",
+      "stop": "2026-05-27T21:15:00+05:00",
+      "title": "Bridge of Lies",
+      "desc": "Family of four Anna, Gemma, Zoe and Andreas take on the Bridge of Lies. One by one, they must cross the Bridge, stepping on the truths and avoiding the lies.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Game Show"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/5362e516-8c9b-439b-b2f0-a79b0747dc09/16-9"
+    },
+    {
+      "start": "2026-05-27T21:15:00+05:00",
+      "stop": "2026-05-27T22:00:00+05:00",
+      "title": "Pointless",
+      "desc": "The quiz returns for another series in which contestants try to score as few points as possible by coming up with the answers no-one else could think of.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Game Show"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/2bdd89b7-3341-3684-a4e0-240932f019cb/16-9"
     }
   ]
 }
