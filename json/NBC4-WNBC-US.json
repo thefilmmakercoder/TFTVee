@@ -4,39 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-27T20:30:00+05:00",
-      "stop": "2026-05-27T21:00:00+05:00",
-      "title": "New York Live",
-      "desc": "Celebrity interviews and discussing recipes, beauty, fashion and current events pertinent to the tri-state region.",
-      "date": "2011",
-      "language": "en",
-      "categories": [
-        "News",
-        "Newsmagazine"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p8692580_b_h8_ac.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-27T21:00:00+05:00",
-      "stop": "2026-05-27T22:00:00+05:00",
-      "title": "NBC News Daily",
-      "desc": "NBC News provides viewers with the latest national and international news; consumer, health and personal finance reporting; up-to-the-minute local news.",
-      "date": "2026",
-      "language": "en",
-      "categories": [
-        "Series",
-        "News"
-      ],
-      "episode": "E94",
-      "icon": "http://dtil.tmsimg.com/assets/p22712535_b_h8_ad.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Vicky Nguyen",
-          "Morgan Radford"
-        ]
-      }
-    },
-    {
       "start": "2026-05-27T22:00:00+05:00",
       "stop": "2026-05-27T23:00:00+05:00",
       "title": "Dateline",
@@ -204,6 +171,57 @@
         "News"
       ],
       "icon": "http://dtil.tmsimg.com/assets/p18101773_b_h10_ad.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-28T04:30:00+05:00",
+      "stop": "2026-05-28T05:00:00+05:00",
+      "title": "Access Hollywood",
+      "desc": "Interviews with international music sensation Laufey, actress Selma Blair, and Dr. Sandra Lee (\"Dr. Pimple Popper\").",
+      "date": "2026",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Newsmagazine",
+        "Entertainment",
+        "Interview"
+      ],
+      "episode": "S30 E181",
+      "icon": "http://dtil.tmsimg.com/assets/p30926755_b_h8_ab.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Mario Lopez",
+          "Kit Hoover",
+          "Scott Evans"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-28T05:00:00+05:00",
+      "stop": "2026-05-28T06:00:00+05:00",
+      "title": "Brilliant Minds",
+      "sub_title": "The Missing Person",
+      "desc": "A party girl on the run is rushed to the hospital where the doctors work to figure out exactly what she's running from; when Wolf doesn't show up for his shift, Carol -- already worried about his mental health -- goes on a mission to find him.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "Series",
+        "Drama",
+        "Medical"
+      ],
+      "episode": "S2 E15",
+      "icon": "http://dtil.tmsimg.com/assets/p30834652_b_h8_ad.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Michael Goi"
+        ],
+        "actor": [
+          "Zachary Quinto",
+          "Tamberla Perry",
+          "Ashleigh LaThrop"
+        ]
+      }
     }
   ]
 }
