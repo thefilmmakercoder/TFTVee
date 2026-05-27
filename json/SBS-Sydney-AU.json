@@ -4,32 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-27T03:00:00+05:00",
-      "stop": "2026-05-27T03:30:00+05:00",
-      "title": "BBC News At Six",
-      "sub_title": "Wednesday 27 May 2026",
-      "desc": "The latest national and international news stories from the BBC News team from London, UK, in English.",
-      "language": "en",
-      "rating": "NR",
-      "categories": [
-        "News"
-      ],
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/11514500/image/334x188"
-    },
-    {
-      "start": "2026-05-27T03:30:00+05:00",
-      "stop": "2026-05-27T04:00:00+05:00",
-      "title": "France 24 English News",
-      "sub_title": "Morning First Edition",
-      "desc": "International news and current affairs television from Paris, offering a French perspective on world events, in English.",
-      "language": "en",
-      "rating": "NR",
-      "categories": [
-        "News"
-      ],
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/310649/image/334x188"
-    },
-    {
       "start": "2026-05-27T04:00:00+05:00",
       "stop": "2026-05-27T04:55:00+05:00",
       "title": "DD India News Hour",
@@ -164,6 +138,32 @@
       ],
       "episode": "S9 E44",
       "icon": "https://www.fetchtv.com.au/v2/epg/program/403506/image/334x188"
+    },
+    {
+      "start": "2026-05-27T11:05:00+05:00",
+      "stop": "2026-05-27T11:30:00+05:00",
+      "title": "Jeopardy!",
+      "desc": "Ken Jennings hosts Jeopardy! Where the answers are revealed, and the contestants must guess the appropriate questions.",
+      "language": "en",
+      "rating": "G",
+      "categories": [
+        "Special Interest"
+      ],
+      "episode": "S42 E85",
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/20057633/image/334x188"
+    },
+    {
+      "start": "2026-05-27T11:30:00+05:00",
+      "stop": "2026-05-27T12:00:00+05:00",
+      "title": "Letters And Numbers",
+      "desc": "Two contestants pit their linguistic and numerical skills against each other and the clock in this entertaining quiz show.",
+      "language": "en",
+      "rating": "G",
+      "categories": [
+        "Special Interest"
+      ],
+      "episode": "S4 E79",
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/256173/image/334x188"
     }
   ]
 }

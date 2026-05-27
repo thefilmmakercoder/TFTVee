@@ -4,42 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-27T03:00:00+05:00",
-      "stop": "2026-05-27T03:30:00+05:00",
-      "title": "DW News",
-      "desc": "Presenting a round-up of the most recent news and developments from across the world.",
-      "date": "2002",
-      "language": "en",
-      "rating": "A",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p26245192_b_h10_aa.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Ben Fajzullin"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-27T03:30:00+05:00",
-      "stop": "2026-05-27T04:00:00+05:00",
-      "title": "BBC World News America",
-      "desc": "A detailed look into news stories from around the world from the BBC news desk in Washington, D.C.",
-      "date": "2026",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p32402912_b_h10_aa.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Sumi Somaskanda",
-          "Caitr\u00edona Perry"
-        ]
-      }
-    },
-    {
       "start": "2026-05-27T04:00:00+05:00",
       "stop": "2026-05-27T05:00:00+05:00",
       "title": "PBS News Hour",
@@ -243,6 +207,63 @@
           "Cameron Ansell",
           "Robert Naylor",
           "Bruce Dinsmore"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-27T15:30:00+05:00",
+      "stop": "2026-05-27T16:00:00+05:00",
+      "title": "Odd Squad",
+      "sub_title": "A Town Called Trifle; I Am Oddius",
+      "desc": "During the town of Trifle's 100-year anniversary party, Ozzie and Onom must stop Tracey Trifler from covering it in trifle; Osric and Omni try to stop a Roman gladiator from causing ancient oddness.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TVY",
+      "categories": [
+        "Series",
+        "Children",
+        "Educational",
+        "Entertainment"
+      ],
+      "episode": "S5 E5",
+      "icon": "http://dtil.tmsimg.com/assets/p32394170_b_h8_ad.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "J.J. Johnson",
+          "Stefan Scaini"
+        ],
+        "actor": [
+          "Filip Geljo",
+          "Dalila Bela",
+          "Sean Michael Kyer"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-27T16:00:00+05:00",
+      "stop": "2026-05-27T16:30:00+05:00",
+      "title": "Wild Kratts",
+      "sub_title": "Crocogator Contest",
+      "desc": "A Creature Quiz question about the differences between a crocodile and an alligator leads to a Crocogator contest.",
+      "date": "2014",
+      "language": "en",
+      "rating": "TVY",
+      "categories": [
+        "Series",
+        "Children",
+        "Educational",
+        "Science",
+        "Nature",
+        "Animals",
+        "Animated"
+      ],
+      "episode": "S3 E11",
+      "icon": "http://dtil.tmsimg.com/assets/p8369911_b_h8_aj.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Martin Kratt",
+          "Chris Kratt",
+          "Athena Karkanis"
         ]
       }
     }

@@ -4,20 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-27T00:00:00+05:00",
-      "stop": "2026-05-27T00:29:00+05:00",
-      "title": "Today Early News",
-      "sub_title": "Wednesday 27 May 2026",
-      "desc": "Today Early News with up to date news from Australia and around the world as well as the latest in sport and weather.",
-      "language": "en",
-      "rating": "NR",
-      "categories": [
-        "News"
-      ],
-      "episode": "E105",
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/428725/image/334x188"
-    },
-    {
       "start": "2026-05-27T00:29:00+05:00",
       "stop": "2026-05-27T04:00:00+05:00",
       "title": "Today",
@@ -164,6 +150,20 @@
       ],
       "episode": "E105",
       "icon": "https://www.fetchtv.com.au/v2/epg/program/21223678/image/334x188"
+    },
+    {
+      "start": "2026-05-27T14:00:00+05:00",
+      "stop": "2026-05-27T17:00:00+05:00",
+      "title": "Live: State Of Origin",
+      "sub_title": "Blues v Maroons",
+      "desc": "One of the nation's greatest sporting rivalries is back with the 2026 State of Origin series. Join the Wide World Of Sports team for game 1, live from Accor Stadium. Kick off at 8:05PM AEST.",
+      "language": "en",
+      "rating": "NR",
+      "categories": [
+        "Sports"
+      ],
+      "episode": "E1",
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/2400760/image/334x188"
     }
   ]
 }

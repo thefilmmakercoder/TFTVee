@@ -4,37 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-27T03:00:00+05:00",
-      "stop": "2026-05-27T03:30:00+05:00",
-      "title": "NBC4 News at 3pm",
-      "desc": "Stay informed with the latest breaking news and headlines.",
-      "date": "2018",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p15054848_b_h10_aa.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-27T03:30:00+05:00",
-      "stop": "2026-05-27T04:00:00+05:00",
-      "title": "NBC Nightly News With Tom Llamas",
-      "desc": "Tom Llamas anchors the latest news, going beyond the headlines to see how lives are affected by the world around them.",
-      "date": "2026",
-      "language": "en",
-      "categories": [
-        "Series",
-        "News"
-      ],
-      "episode": "S2 E136",
-      "icon": "http://dtil.tmsimg.com/assets/p30141511_b_h8_aa.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Tom Llamas"
-        ]
-      }
-    },
-    {
       "start": "2026-05-27T04:00:00+05:00",
       "stop": "2026-05-27T05:00:00+05:00",
       "title": "NBC4 News at 4pm",
@@ -199,6 +168,37 @@
           "Seth Meyers",
           "Colman Domingo",
           "Scott MacArthur"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-27T13:37:00+05:00",
+      "stop": "2026-05-27T14:07:00+05:00",
+      "title": "NBC4 News at 11pm",
+      "desc": "The latest local news, weather and investigative stories impacting the community.",
+      "date": "2011",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p8781143_b_h10_ad.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-27T14:07:00+05:00",
+      "stop": "2026-05-27T14:37:00+05:00",
+      "title": "NBC Nightly News With Tom Llamas",
+      "desc": "Tom Llamas anchors the latest news, going beyond the headlines to see how lives are affected by the world around them.",
+      "date": "2026",
+      "language": "en",
+      "categories": [
+        "Series",
+        "News"
+      ],
+      "episode": "S2 E136",
+      "icon": "http://dtil.tmsimg.com/assets/p30141511_b_h8_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Tom Llamas"
         ]
       }
     }

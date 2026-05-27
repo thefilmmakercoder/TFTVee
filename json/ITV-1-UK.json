@@ -4,18 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-27T02:30:00+05:00",
-      "stop": "2026-05-27T02:45:00+05:00",
-      "title": "ITV News London",
-      "desc": "The latest news and weather from London and the South East.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/dc72d5fb-ae08-496e-8575-aa643f380aa0/16-9"
-    },
-    {
       "start": "2026-05-27T02:45:00+05:00",
       "stop": "2026-05-27T04:45:00+05:00",
       "title": "Black Adam",
@@ -147,6 +135,19 @@
         "News"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/2650bed5-838a-43a2-9315-472f5c925abf/16-9"
+    },
+    {
+      "start": "2026-05-27T18:00:00+05:00",
+      "stop": "2026-05-27T19:00:00+05:00",
+      "title": "Dickinson's Real Deal",
+      "sub_title": "David and his dealers head to Middlesbrough, where there's gemstones for Jo Brayshaw; Moorcroft for Corrie Jeffrey and Karen Dalmeny feels she deserves a medal",
+      "desc": "ITV1 is the primary commercial channel in the UK, featuring a mix of major reality shows, high-budget dramas, live sporting events, and comprehensive news coverage.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Antiques"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/2a6f6398-8d06-43e3-aeb0-0022a999d97a/16-9"
     }
   ]
 }
