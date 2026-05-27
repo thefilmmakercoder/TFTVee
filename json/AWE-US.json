@@ -4,122 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-27T04:30:00+05:00",
-      "stop": "2026-05-27T05:00:00+05:00",
-      "title": "Private Islands",
-      "sub_title": "Soneva Jani",
-      "desc": "In the Maldives, Soneva Jani features crystal clear waters, coral reefs and over-water bungalows.",
-      "date": "2019",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Series",
-        "Travel"
-      ],
-      "episode": "S3 E52",
-      "icon": "http://dtil.tmsimg.com/assets/p865073_b_h10_ab.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-27T05:00:00+05:00",
-      "stop": "2026-05-27T05:30:00+05:00",
-      "title": "Behind the Gates",
-      "sub_title": "Hollywood",
-      "desc": "A new stylish dream house above the Sunset Strip; a penthouse away from prying eyes and perfect for celebrity after parties.",
-      "date": "2017",
-      "language": "en",
-      "rating": "TVG",
-      "categories": [
-        "Series",
-        "Travel",
-        "House/garden"
-      ],
-      "episode": "S3 E29",
-      "icon": "http://dtil.tmsimg.com/assets/p13227213_b_h10_ab.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-27T05:30:00+05:00",
-      "stop": "2026-05-27T06:00:00+05:00",
-      "title": "Travel Thru History",
-      "sub_title": "Buffalo; Niagara",
-      "desc": "The Frank Lloyd Wright Martin house; ride the Maid of the Mist at Niagara Falls; Fort Niagara.",
-      "language": "en",
-      "rating": "12",
-      "categories": [
-        "Series",
-        "Travel",
-        "History"
-      ],
-      "episode": "S3 E6",
-      "icon": "http://dtil.tmsimg.com/assets/p9459138_b_h10_ab.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-27T06:00:00+05:00",
-      "stop": "2026-05-27T07:00:00+05:00",
-      "title": "5 Star Getaways",
-      "sub_title": "Portugal",
-      "desc": "This series is a sun-filled invitation to travel and visit magnificent all-inclusive 5 star resorts throughout the world, their magnificent surroundings and the exciting excursions one can do at each destination.",
-      "date": "2021",
-      "language": "en",
-      "rating": "TVG",
-      "categories": [
-        "Series",
-        "Travel",
-        "Entertainment"
-      ],
-      "episode": "E5",
-      "icon": "http://dtil.tmsimg.com/assets/p18726350_b_h8_aa.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-27T07:00:00+05:00",
-      "stop": "2026-05-27T07:30:00+05:00",
-      "title": "Selling Mega Mansions",
-      "sub_title": "The Palm Beaches",
-      "desc": "Beatrice's plastic surgery centers are located in the Palm Beach area of Florida, but husband Mike's career is anchored 72 miles south in Miami; it will take a marvelous mega mansion to sway him to move north to accommodate his wife.",
-      "date": "2018",
-      "language": "en",
-      "rating": "TVG",
-      "categories": [
-        "Series",
-        "House/garden"
-      ],
-      "episode": "S3 E1",
-      "icon": "http://dtil.tmsimg.com/assets/p12720929_b_h10_ab.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-27T07:30:00+05:00",
-      "stop": "2026-05-27T08:00:00+05:00",
-      "title": "Find Me a Luxury Home",
-      "sub_title": "Rita",
-      "desc": "After inheriting a large sum of money, Rita wants to invest in a Beverly Hills home large enough for her family, including her 19 cousins.",
-      "date": "2018",
-      "language": "en",
-      "rating": "TVG",
-      "categories": [
-        "Series",
-        "Home improvement",
-        "House/garden"
-      ],
-      "episode": "S1 E28",
-      "icon": "http://dtil.tmsimg.com/assets/p14589458_b_h10_aa.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-27T08:00:00+05:00",
-      "stop": "2026-05-27T09:00:00+05:00",
-      "title": "Dream Cruises",
-      "sub_title": "Armonia",
-      "desc": "Sailing the Caribbean aboard the MSC Armonia, from Havana south to the waters and mysterious forests of Belize.",
-      "date": "2017",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Series",
-        "Travel",
-        "Documentary"
-      ],
-      "episode": "S5 E3",
-      "icon": "http://dtil.tmsimg.com/assets/p9789899_b_h10_ae.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-05-27T09:00:00+05:00",
       "stop": "2026-05-27T09:30:00+05:00",
       "title": "Life on the Road",
@@ -199,6 +83,135 @@
       ],
       "episode": "E7",
       "icon": "http://dtil.tmsimg.com/assets/p18726350_b_h8_aa.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-27T12:00:00+05:00",
+      "stop": "2026-05-27T12:30:00+05:00",
+      "title": "Facing Waves",
+      "sub_title": "West Sweden",
+      "desc": "Exploring the stunning lakes and rivers in West Sweden by sea kayak.",
+      "date": "2018",
+      "language": "en",
+      "rating": "L",
+      "categories": [
+        "Series",
+        "Kayaking",
+        "Outdoors"
+      ],
+      "episode": "S6 E6",
+      "icon": "http://dtil.tmsimg.com/assets/p9897159_b_h8_ae.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Alex Heaslip",
+          "Brendan Mark"
+        ],
+        "actor": [
+          "Ken Whiting",
+          "Luke Hopkins",
+          "Alex Kellar"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-27T12:30:00+05:00",
+      "stop": "2026-05-27T13:00:00+05:00",
+      "title": "Tasting America",
+      "sub_title": "Asian Cuisine in Orlando",
+      "desc": "Americans look new styles of eating such as plant-based diets and Asian cuisine; three restaurants with very diverse menus.",
+      "date": "2018",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Series",
+        "Travel"
+      ],
+      "episode": "S1 E11",
+      "icon": "http://dtil.tmsimg.com/assets/p14589435_b_h10_aa.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-27T13:00:00+05:00",
+      "stop": "2026-05-27T14:00:00+05:00",
+      "title": "Road Less Traveled",
+      "sub_title": "Hong Kong",
+      "desc": "Jonathan is in Asia's world city, Hong Kong. He uncovers a sect of Jains that practice their religion in a nondescript building, gets a taste of Jeet Kun Do from a Bruce Lee student, and visits the legendary world of Hong Kong's cinema's stuntmen.",
+      "date": "2015",
+      "language": "en",
+      "categories": [
+        "Series",
+        "Outdoors",
+        "Travel"
+      ],
+      "episode": "S4 E6",
+      "icon": "http://dtil.tmsimg.com/assets/p15580803_b_h10_ab.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Jonathan Legg"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-27T14:00:00+05:00",
+      "stop": "2026-05-27T15:00:00+05:00",
+      "title": "5 Star Getaways",
+      "sub_title": "Portugal",
+      "desc": "This series is a sun-filled invitation to travel and visit magnificent all-inclusive 5 star resorts throughout the world, their magnificent surroundings and the exciting excursions one can do at each destination.",
+      "date": "2021",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Series",
+        "Travel",
+        "Entertainment"
+      ],
+      "episode": "E5",
+      "icon": "http://dtil.tmsimg.com/assets/p18726350_b_h8_aa.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-27T15:00:00+05:00",
+      "stop": "2026-05-27T15:30:00+05:00",
+      "title": "Global Passport",
+      "sub_title": "St. Maarten",
+      "desc": "Christina Cindrich is in St Maarten, where European Culture blends effortlessly with Caribbean Flair.",
+      "date": "2022",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Series",
+        "Travel"
+      ],
+      "episode": "S2 E11",
+      "icon": "http://dtil.tmsimg.com/assets/p17047145_b_h10_aa.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-27T15:30:00+05:00",
+      "stop": "2026-05-27T16:00:00+05:00",
+      "title": "Top Travel",
+      "sub_title": "Tanzania and the Serengeti",
+      "desc": "Jeannie and Janez trip through the Serengeti National Park where they are lucky enough to catch the migration; Janez is treated to one of his bucket list experiences, a sunrise hot air balloon ride over the Ngorongoro Crater.",
+      "date": "2016",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Series",
+        "Travel"
+      ],
+      "episode": "S4 E2",
+      "icon": "http://dtil.tmsimg.com/assets/p8663956_b_h10_ab.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-27T16:00:00+05:00",
+      "stop": "2026-05-27T16:30:00+05:00",
+      "title": "Life on the Road",
+      "sub_title": "The Camping Episode",
+      "desc": "Inside the growing movement of people living in their vans and traveling the country. Host Alec Parent tours a luxury Mercedes Sprinter van conversion and shows how he built his own DIY camper van.",
+      "date": "2021",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Series",
+        "Travel"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p20174237_b_h10_aa.jpg?w=960&h=540"
     }
   ]
 }

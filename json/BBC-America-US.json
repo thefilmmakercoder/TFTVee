@@ -4,82 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-27T00:45:00+05:00",
-      "stop": "2026-05-27T03:00:00+05:00",
-      "title": "The Running Man",
-      "desc": "In the year 2019, America is a totalitarian state where the favorite television program is \"The Running Man\" -- a game show in which prisoners must run to freedom to avoid a brutal death. Having been made a scapegoat by the government, an imprisoned Ben Richards (Arnold Schwarzenegger) has the opportunity to make it back to the outside again by being a contestant on the deadly show, although the twisted host, Damon Killian (Richard Dawson), has no intention of letting him escape.",
-      "date": "1987",
-      "language": "en",
-      "rating": "R",
-      "categories": [
-        "Movie",
-        "Action",
-        "Adventure",
-        "Science fiction"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p10434_v_h8_ap.jpg?w=960&h=540",
-      "credits": {
-        "director": [
-          "Paul Michael Glaser"
-        ],
-        "actor": [
-          "Arnold Schwarzenegger",
-          "Maria Conchita Alonso",
-          "Richard Dawson"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-27T03:00:00+05:00",
-      "stop": "2026-05-27T05:30:00+05:00",
-      "title": "Total Recall",
-      "desc": "Douglas Quaid is a bored construction worker in the year 2084 who dreams of visiting colonized Mars. He visits \"Rekall,\" a company that plants false memories into people's brains, in order to experience the thrill of Mars without having to travel there. But something goes wrong during the procedure; Quaid discovers that his entire life is actually a false memory and that the people who implanted it in his head now want him dead.",
-      "date": "1990",
-      "language": "en",
-      "rating": "R",
-      "categories": [
-        "Movie",
-        "Science fiction",
-        "Action"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p12531_v_h8_ar.jpg?w=960&h=540",
-      "credits": {
-        "director": [
-          "Paul Verhoeven"
-        ],
-        "actor": [
-          "Arnold Schwarzenegger",
-          "Rachel Ticotin",
-          "Sharon Stone"
-        ]
-      }
-    },
-    {
-      "start": "2026-05-27T05:30:00+05:00",
-      "stop": "2026-05-27T08:00:00+05:00",
-      "title": "Demolition Man",
-      "desc": "With innocent victims caught in the crossfire in Los Angeles' intensifying war on crime, both cop John Spartan (Sylvester Stallone) and violent thug Simon Phoenix (Wesley Snipes) are sentenced to a state of frozen incarceration known as \"CryoPrison.\" When Spartan is finally thawed 36 years later, it's 2032, and Los Angeles is now a pacifist utopia called San Angeles. But with Phoenix again on the loose, Spartan must team up with future cop Lenina (Sandra Bullock) to apprehend the killer.",
-      "date": "1993",
-      "language": "en",
-      "rating": "R",
-      "categories": [
-        "Movie",
-        "Science fiction",
-        "Action"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p15098_v_h8_av.jpg?w=960&h=540",
-      "credits": {
-        "director": [
-          "Marco Brambilla"
-        ],
-        "actor": [
-          "Sylvester Stallone",
-          "Wesley Snipes",
-          "Sandra Bullock"
-        ]
-      }
-    },
-    {
       "start": "2026-05-27T08:00:00+05:00",
       "stop": "2026-05-27T09:00:00+05:00",
       "title": "Law & Order",
@@ -295,6 +219,87 @@
       "credits": {
         "director": [
           "Tony Mordente"
+        ],
+        "actor": [
+          "George Peppard",
+          "Mr. T",
+          "Dirk Benedict"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-27T16:30:00+05:00",
+      "stop": "2026-05-27T17:30:00+05:00",
+      "title": "The A-Team",
+      "sub_title": "Trial by Fire",
+      "desc": "The team faces court-martial in the murder of a colonel who was cooperating with the enemy; guest David Ackroyd.",
+      "date": "1986",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Drama",
+        "Action"
+      ],
+      "episode": "S5 E2 P2/3",
+      "icon": "http://dtil.tmsimg.com/assets/p7892305_b_h10_ac.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Les Sheldon"
+        ],
+        "actor": [
+          "George Peppard",
+          "Mr. T",
+          "Dirk Benedict"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-27T17:30:00+05:00",
+      "stop": "2026-05-27T18:30:00+05:00",
+      "title": "The A-Team",
+      "sub_title": "Firing Line",
+      "desc": "Murdock and Frankie Santana ask Gen. Stockwell to help them rescue B.A., Hannibal and Face from a military firing squad.",
+      "date": "1986",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Drama",
+        "Action"
+      ],
+      "episode": "S5 E3 P3/3",
+      "icon": "http://dtil.tmsimg.com/assets/p7892305_b_h10_ac.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Michael O'Herlihy"
+        ],
+        "actor": [
+          "George Peppard",
+          "Mr. T",
+          "Dirk Benedict"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-27T18:30:00+05:00",
+      "stop": "2026-05-27T19:30:00+05:00",
+      "title": "The A-Team",
+      "sub_title": "Quarterback Sneak",
+      "desc": "The team joins a touring pro football squad to free an East German scientist; guests Alan Autry, Jim Brown, John Matuszak, Joe Namath.",
+      "date": "1986",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Drama",
+        "Action"
+      ],
+      "episode": "S5 E4",
+      "icon": "http://dtil.tmsimg.com/assets/p7892305_b_h10_ac.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Craig R. Baxley"
         ],
         "actor": [
           "George Peppard",

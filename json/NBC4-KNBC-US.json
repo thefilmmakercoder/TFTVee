@@ -4,55 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-05-27T04:00:00+05:00",
-      "stop": "2026-05-27T05:00:00+05:00",
-      "title": "NBC4 News at 4pm",
-      "desc": "The latest local news, weather and investigative stories impacting the community.",
-      "date": "2012",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p9358491_b_h10_ae.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-27T05:00:00+05:00",
-      "stop": "2026-05-27T05:30:00+05:00",
-      "title": "Live: NBA Showtime",
-      "desc": "Coverage of the latest storylines and news from across the NBA featuring in-depth analysis and highlights.",
-      "date": "2025",
-      "language": "en",
-      "categories": [
-        "Basketball"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p30949176_b_h8_ab.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-27T05:30:00+05:00",
-      "stop": "2026-05-27T08:00:00+05:00",
-      "title": "Live: NBA Basketball",
-      "desc": "The San Antonio Spurs and the Oklahoma City Thunder meet for Game 5 of the West Conference Finals. The series is currently tied at 2-2 after San Antonio defeated Oklahoma City 103-82 in Game 4. The Spurs' Victor Wembanyama scored 33 points on May 24.",
-      "language": "en",
-      "categories": [
-        "Sports",
-        "Playoff sports",
-        "Basketball"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/GNLZZGG003474B6.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-05-27T08:00:00+05:00",
-      "stop": "2026-05-27T09:00:00+05:00",
-      "title": "NBC4 News",
-      "desc": "Breaking news, local stories, weather reports and events taking place in Southern California.",
-      "date": "2022",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p25191676_b_h10_aa.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-05-27T09:00:00+05:00",
       "stop": "2026-05-27T09:30:00+05:00",
       "title": "California Live",
@@ -201,6 +152,67 @@
           "Tom Llamas"
         ]
       }
+    },
+    {
+      "start": "2026-05-27T14:37:00+05:00",
+      "stop": "2026-05-27T15:30:00+05:00",
+      "title": "The Kelly Clarkson Show",
+      "desc": "Cameoke: \"Bathroom Stall\"; John Travolta; Ella Bleu Travolta; Clark Shotwell and Kelly Eviston-Quinnett; \"SIX: The Musical\" performance of \"Ex Wives\"; buying back grandma's house.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Talk",
+        "Variety",
+        "Entertainment"
+      ],
+      "episode": "S7 E143",
+      "icon": "http://dtil.tmsimg.com/assets/p16993616_b_h8_af.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Kelly Clarkson",
+          "John Travolta",
+          "Ella Bleu Travolta"
+        ]
+      }
+    },
+    {
+      "start": "2026-05-27T15:30:00+05:00",
+      "stop": "2026-05-27T16:00:00+05:00",
+      "title": "Early Today",
+      "desc": "This early-morning news covers overnight events, breaking domestic and international news as well as a preview of the day's anticipated events. The program also presents regular reports from the worlds of business, entertainment and sports.",
+      "date": "1999",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p185301_b_h8_ag.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-27T16:00:00+05:00",
+      "stop": "2026-05-27T16:30:00+05:00",
+      "title": "Today in LA @ 4AM",
+      "desc": "The latest local news, weather and investigative stories impacting the community.",
+      "date": "2020",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p18627049_b_h10_ab.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-05-27T16:30:00+05:00",
+      "stop": "2026-05-27T17:00:00+05:00",
+      "title": "Today in LA @ 4:30AM",
+      "desc": "The latest local news, weather and investigative stories impacting the community.",
+      "date": "2020",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p18627053_b_h10_ab.jpg?w=960&h=540"
     }
   ]
 }
