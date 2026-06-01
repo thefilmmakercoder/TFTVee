@@ -4,37 +4,284 @@
     <icon src="https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/BBC-One-UK.png" />
     <url>https://tv.thefilmtuition.com</url>
     <display-name>BBC One</display-name>
-  </channel><programme channel="BBC-One-UK" start="20260526220000 +0500" stop="20260526223000 +0500">
-    <title>BBC News</title>
-    <desc>The latest national and international news from the BBC.</desc>
-    <language>en</language>
-  </programme><programme channel="BBC-One-UK" start="20260526223000 +0500" stop="20260526230000 +0500">
-    <title>BBC London News</title>
-    <desc>The latest news, sport and weather from London.</desc>
-    <language>en</language>
-  </programme><programme channel="BBC-One-UK" start="20260526230000 +0500" stop="20260526233000 +0500">
+  </channel><programme channel="BBC-One-UK" start="20260528230000 +0500" stop="20260528233000 +0500">
     <title>The One Show</title>
+    <desc>Roman Kemp and Lauren Laverne bring you the stories that matter from across the country.</desc>
+    <language>en</language>
+  </programme><programme channel="BBC-One-UK" start="20260528233000 +0500" stop="20260531221000 +0500">
+    <title>EastEnders</title>
+    <desc>Chaos erupts at Vicki and Ross's wedding, and Denise receives some news.</desc>
+    <language>en</language>
+  </programme><programme channel="BBC-One-UK" start="20260531221000 +0500" stop="20260531221500 +0500">
+    <title>Weather</title>
     <sub-title />
-    <desc>Stars of Moss &amp; Freud, Sir Derek Jacobi and Ellie Bamber, McFly's Harry Judd and classical superstar André Rieu join Alex Jones and Roman Kemp on the sofa.</desc>
+    <desc>The latest weather forecast.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/00774821-77a3-44f5-bbf0-fe2155a39655/16-9" />
+  </programme><programme channel="BBC-One-UK" start="20260531221500 +0500" stop="20260531231500 +0500">
+    <title>Countryfile</title>
+    <sub-title />
+    <desc>Sean Fletcher and Adam Henson are in Lisburn, Northern Ireland, for the Balmoral Show, the region's largest agricultural and food event, welcoming more than 100,000 visitors each year.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Factual</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/7a000ad4-4ac3-4819-82aa-ce9f14579a75/16-9" />
+  </programme><programme channel="BBC-One-UK" start="20260531231500 +0500" stop="20260601001500 +0500">
+    <title>Antiques Roadshow: D-Day</title>
+    <sub-title />
+    <desc>A special episode commemorating the 80th anniversary of the D-Day landings in June 1944, filmed in Normandy and Portsmouth, and featuring testimony from those who were there.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Antiques</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/be429771-367a-4e76-98c7-dec96fa606eb/16-9" />
+  </programme><programme channel="BBC-One-UK" start="20260601001500 +0500" stop="20260601010000 +0500">
+    <title>Death Valley</title>
+    <sub-title />
+    <desc>When a runner overdoses in an actor's trailer, Janie and John are called to investigate. On the set of an epic Welsh TV drama, the team interview the crew to solve the crime.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Comedy</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/4f0f5849-a526-4824-8407-23d4c1cdd2c0/16-9" />
+  </programme><programme channel="BBC-One-UK" start="20260601010000 +0500" stop="20260601020000 +0500">
+    <title>Dear England</title>
+    <sub-title />
+    <desc>As a controversial World Cup in Qatar awaits, Gareth and the team must focus on winning. Contains very strong language.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Drama</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/88d3d17f-1051-46c4-9939-873b50a89bb1/16-9" />
+  </programme><programme channel="BBC-One-UK" start="20260601020000 +0500" stop="20260601022500 +0500">
+    <title>BBC News and Weather</title>
+    <sub-title />
+    <desc>The latest national and international news from the BBC.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/ba794374-6800-4a7e-9612-9579bae5f602/16-9" />
+  </programme><programme channel="BBC-One-UK" start="20260601022500 +0500" stop="20260601023000 +0500">
+    <title>BBC London News</title>
+    <sub-title />
+    <desc>The latest news, sport and weather from London.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/1e033971-5d2f-45e7-be19-40c67197454b/16-9" />
+  </programme><programme channel="BBC-One-UK" start="20260601023000 +0500" stop="20260601042000 +0500">
+    <title>The Nice Guys</title>
+    <sub-title />
+    <desc>Mismatched PIs investigate a missing girl and the mysterious death of a porn star. Contains very strong language, some sexual content and some violence.</desc>
+    <category lang="en">Movie</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/bcc30e0f-31d2-407c-b368-74e0d6e0d757/16-9" />
+  </programme><programme channel="BBC-One-UK" start="20260601042000 +0500" stop="20260601052000 +0500">
+    <title>Reported Missing</title>
+    <sub-title />
+    <desc>Police concerns grow about the mental state of two missing teens - 16-year-old Larissa has disappeared after an argument with her mum, and 18-year-old Bobby may be a suicide risk.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Factual</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/da34e545-3b04-4d76-9bdf-b30b6f2a09f9/16-9" />
+  </programme><programme channel="BBC-One-UK" start="20260601052000 +0500" stop="20260601052500 +0500">
+    <title>Weather for the Week Ahead</title>
+    <sub-title />
+    <desc>Detailed weather forecast.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/5fc4c141-ca8e-4bb0-91b4-ae42efb111c0/16-9" />
+  </programme><programme channel="BBC-One-UK" start="20260601052500 +0500" stop="20260601100000 +0500">
+    <title>BBC News</title>
+    <sub-title />
+    <desc>BBC One joins the BBC's rolling news channel for a night of news.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/c5415389-87bb-406d-8fdb-f8e15803ed27/16-9" />
+  </programme><programme channel="BBC-One-UK" start="20260601100000 +0500" stop="20260601133000 +0500">
+    <title>Breakfast</title>
+    <sub-title />
+    <desc>The latest news, sport, business and weather from the BBC's Breakfast team.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/9e0b586a-d049-4692-ac2a-c2104042259d/16-9" />
+  </programme><programme channel="BBC-One-UK" start="20260601133000 +0500" stop="20260601144500 +0500">
+    <title>Morning Live</title>
+    <sub-title />
+    <desc>Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier.</desc>
     <category lang="en">Entertainment</category>
     <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/0ea09bfc-ec5a-42fd-a583-00d43fd1797e/16-9" />
-  </programme><programme channel="BBC-One-UK" start="20260526233000 +0500" stop="20260527000000 +0500">
+    <icon src="https://images.metadata.sky.com/pd-image/d33deb50-c0a2-4d4e-9bdc-8733c4d97517/16-9" />
+  </programme><programme channel="BBC-One-UK" start="20260601144500 +0500" stop="20260601151500 +0500">
+    <title>Doorbell Detectives</title>
+    <sub-title />
+    <desc>Two masked men break into an elderly couple's house. Tami takes on wannabe bike thieves.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Factual</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/bb62b241-226d-4896-91f7-18c7fc4e04ba/16-9" />
+  </programme><programme channel="BBC-One-UK" start="20260601151500 +0500" stop="20260601161500 +0500">
+    <title>Homes Under the Hammer</title>
+    <sub-title />
+    <desc>Featuring properties in Worksop, Wakefield and Dewsbury.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Factual</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/9086906f-2966-3b2f-ad2a-45e0a4ac6bb2/16-9" />
+  </programme><programme channel="BBC-One-UK" start="20260601161500 +0500" stop="20260601170000 +0500">
+    <title>Bargain Hunt</title>
+    <sub-title />
+    <desc>Danny Sebastian is in the saddle at Wetherby Racecourse, where a team of twins take on a mum-and-daughter duo, with experts Charles Hanson and Philip Serrell by their sides.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Game Show</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/143fb76b-b9c0-49b1-bf3b-40a1b1eb4c57/16-9" />
+  </programme><programme channel="BBC-One-UK" start="20260601170000 +0500" stop="20260601180000 +0500">
+    <title>BBC News at One including BBC London News</title>
+    <sub-title />
+    <desc>The latest national and international news from the BBC.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/220b50ad-c7f6-4b60-a09e-4ef555eafa53/16-9" />
+  </programme><programme channel="BBC-One-UK" start="20260601180000 +0500" stop="20260601183000 +0500">
+    <title>Natalie Cassidy: Caring Together</title>
+    <sub-title />
+    <desc>Natalie discovers the power of caring volunteers, and how mind and body work together to help people recover and move forward.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Factual</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/e7b8bff8-4140-4704-ae53-c75c4dfab7a4/16-9" />
+  </programme><programme channel="BBC-One-UK" start="20260601183000 +0500" stop="20260601190000 +0500">
+    <title>Robson Green's Weekend Escapes</title>
+    <sub-title />
+    <desc>Robson is joined by his footballing hero, Alan Shearer. The pair go mackerel fishing off the Northumberland coast, spot dolphins in the wild and go flying in vintage aircraft.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Travel</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/06c2fcd0-681b-4ca7-ac9d-6306e13a36e2/16-9" />
+  </programme><programme channel="BBC-One-UK" start="20260601190000 +0500" stop="20260601194500 +0500">
+    <title>Escape to the Country</title>
+    <sub-title />
+    <desc>After 30 years in Stoke-on-Trent, a couple wanting to be close to their grandchild head to Wiltshire with Ginny Buckley, looking for a new home where separate bathrooms are a must.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Gradening</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/389a7603-ef1a-41ac-a190-0fc252550137/16-9" />
+  </programme><programme channel="BBC-One-UK" start="20260601194500 +0500" stop="20260601203000 +0500">
+    <title>Garden Rescue</title>
+    <sub-title />
+    <desc>Chris and Frances are in Leicester to help Hector and Claudia transform their blank new-build plot into a Cypriot cooking garden for a growing family.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Gradening</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/16b54aae-cb50-487d-a287-ce0348979f7c/16-9" />
+  </programme><programme channel="BBC-One-UK" start="20260601203000 +0500" stop="20260601211500 +0500">
+    <title>Bridge of Lies</title>
+    <sub-title />
+    <desc>Friends Kenny, Nicola, Lyndsey and Craig take on the Bridge of Lies. One by one, they must cross the Bridge, stepping on the truths and avoiding the lies.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Game Show</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/e52bb943-d173-420e-8e31-0d04ff1dc2de/16-9" />
+  </programme><programme channel="BBC-One-UK" start="20260601211500 +0500" stop="20260601220000 +0500">
+    <title>Pointless</title>
+    <sub-title />
+    <desc>The quiz returns for another series in which contestants try to score as few points as possible by coming up with the answers no-one else could think of.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Game Show</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/f622999a-4f68-374e-b211-3def25ce9fe3/16-9" />
+  </programme><programme channel="BBC-One-UK" start="20260601220000 +0500" stop="20260601223000 +0500">
+    <title>BBC News</title>
+    <sub-title />
+    <desc>The latest national and international news from the BBC.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/4b7969e8-7da6-4c9d-a985-90353d2b4b0e/16-9" />
+  </programme><programme channel="BBC-One-UK" start="20260601223000 +0500" stop="20260601230000 +0500">
+    <title>BBC London News</title>
+    <sub-title />
+    <desc>The latest news, sport and weather from London.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/77e8d146-a9f8-4cdb-9b99-4707a4dac897/16-9" />
+  </programme><programme channel="BBC-One-UK" start="20260601230000 +0500" stop="20260601233000 +0500">
+    <title>The One Show</title>
+    <sub-title />
+    <desc>Alex Jones and Roman Kemp bring you the stories that matter from across the country.</desc>
+    <category lang="en">Entertainment</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/4a8857a3-1ac0-4e69-9f62-83bd04db1dc6/16-9" />
+  </programme><programme channel="BBC-One-UK" start="20260601233000 +0500" stop="20260602000000 +0500">
     <title>EastEnders</title>
     <sub-title />
-    <desc>Grant steps up to protect his family, Zack purposely raises suspicions, and Eddie and Harry clash.</desc>
+    <desc>Yolande helps Denise as she processes life-changing news, and Ian is blissfully unaware that his happy life is about to change.</desc>
     <category lang="en">Entertainment</category>
     <category lang="en">Soap</category>
     <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/f2445020-f95d-4325-865f-2966059e688c/16-9" />
-  </programme><programme channel="BBC-One-UK" start="20260527000000 +0500" stop="20260527010000 +0500">
-    <title>Interior Design Masters with Alan Carr</title>
+    <icon src="https://images.metadata.sky.com/pd-image/6e0d77c4-c007-4432-888a-11a33ae40060/16-9" />
+  </programme><programme channel="BBC-One-UK" start="20260602000000 +0500" stop="20260602003000 +0500">
+    <title>Maternity Failures: The Fight for Justice - Panorama</title>
     <sub-title />
-    <desc>The designers transform a guitar shop and a gift shop in the literary town of Hay-on-Wye, improving layout, footfall and merchandising.</desc>
+    <desc>Panorama examines how giving birth in the UK is getting more dangerous. Contains some scenes which some viewers may find upsetting.</desc>
     <category lang="en">Entertainment</category>
+    <category lang="en">Factual</category>
     <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/2395b074-9737-4d71-b352-19637944c2cb/16-9" />
-  </programme><programme channel="BBC-One-UK" start="20260527010000 +0500" stop="20260527020000 +0500">
+    <icon src="https://images.metadata.sky.com/pd-image/a52fe4a4-1fc9-4936-8fcd-7bdaa0a0372a/16-9" />
+  </programme><programme channel="BBC-One-UK" start="20260602003000 +0500" stop="20260602010000 +0500">
+    <title>Scam Interceptors</title>
+    <sub-title />
+    <desc>The team try to stop a Preston student from handing over money to scammers who have told her that they are from the UK's National Crime Agency.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Factual</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/5c8218cd-4103-45c6-b399-1223c89794ba/16-9" />
+  </programme><programme channel="BBC-One-UK" start="20260602010000 +0500" stop="20260602020000 +0500">
+    <title>Dear England</title>
+    <sub-title />
+    <desc>As Euro 2024 begins, England arrive as favourites for Southgate's final tournament. Contains some strong language.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Drama</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/a748b90e-8c62-4c24-8619-065c316935eb/16-9" />
+  </programme><programme channel="BBC-One-UK" start="20260602020000 +0500" stop="20260602023000 +0500">
+    <title>BBC News and Weather</title>
+    <sub-title />
+    <desc>The latest national and international news, with reports from BBC correspondents worldwide.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/7650ec1a-eca2-451e-bcdd-a8e23dc950ec/16-9" />
+  </programme><programme channel="BBC-One-UK" start="20260602023000 +0500" stop="20260602024000 +0500">
+    <title>BBC London News</title>
+    <sub-title />
+    <desc>The latest news, sport and weather from London.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/4a0df04b-7131-4a9a-9795-743bfaad8867/16-9" />
+  </programme><programme channel="BBC-One-UK" start="20260602024000 +0500" stop="20260602031000 +0500">
+    <title>Have I Got News for You</title>
+    <sub-title />
+    <desc>Guest host Katherine Ryan, journalist Jo Coburn and comedian John Tothill join Ian and Paul as they delve into the news.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Comedy</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/5cad00a9-0d00-4682-aac2-6aef92438325/16-9" />
+  </programme><programme channel="BBC-One-UK" start="20260602031000 +0500" stop="20260602042000 +0500">
+    <title>Football's New Generation</title>
+    <sub-title />
+    <desc>How England's newest recruits rose from grassroots heroes to Europe's biggest stage, revealing the personal battles that culminated in them representing England at Euro 2024.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/3b021d07-0909-4888-81fc-0d723cba8e47/16-9" />
+  </programme><programme channel="BBC-One-UK" start="20260602042000 +0500" stop="20260602052000 +0500">
     <title>Who Do You Think You Are?</title>
     <sub-title />
     <desc>Zoe Ball follows in her ancestors' footsteps in a journey that takes her from Scotland to Cornwall as she uncovers stories of resilience and the importance of family over place.</desc>
@@ -42,384 +289,147 @@
     <category lang="en">Factual</category>
     <language>en</language>
     <icon src="https://images.metadata.sky.com/pd-image/243874b3-cb34-4505-b221-2a61b2983440/16-9" />
-  </programme><programme channel="BBC-One-UK" start="20260527020000 +0500" stop="20260527023000 +0500">
-    <title>BBC News and Weather</title>
-    <sub-title />
-    <desc>The latest national and international news, with reports from BBC correspondents worldwide.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">News</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/e2b77545-3887-4ca4-b1d5-e9429a66e80a/16-9" />
-  </programme><programme channel="BBC-One-UK" start="20260527023000 +0500" stop="20260527024000 +0500">
-    <title>BBC London News</title>
-    <sub-title />
-    <desc>The latest news, sport and weather from London.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">News</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/7f7f9d9c-85ac-44cb-bc80-fef913939bbb/16-9" />
-  </programme><programme channel="BBC-One-UK" start="20260527024000 +0500" stop="20260527034500 +0500">
-    <title>Half Man</title>
-    <sub-title />
-    <desc>2010. Niall's relationship faces major change as Ruben struggles with a personal setback. Contains very strong language, some sexual content and some violence.</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Drama</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/015b864d-7dd8-44d7-bfcf-94cbbd739bb8/16-9" />
-  </programme><programme channel="BBC-One-UK" start="20260527034500 +0500" stop="20260527052500 +0500">
-    <title>The Photograph</title>
-    <sub-title />
-    <desc>Romantic drama in which love stories set in the past and the present intertwine. Contains some strong language and some scenes of a sexual nature.</desc>
-    <category lang="en">Movie</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/d5b4ecbf-42f9-4000-b0b6-50223eda65b4/16-9" />
-  </programme><programme channel="BBC-One-UK" start="20260527052500 +0500" stop="20260527053000 +0500">
+  </programme><programme channel="BBC-One-UK" start="20260602052000 +0500" stop="20260602052500 +0500">
     <title>Weather for the Week Ahead</title>
     <sub-title />
     <desc>Detailed weather forecast.</desc>
     <category lang="en">News &amp; Documentary</category>
     <category lang="en">News</category>
     <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/c7941e25-2627-4e61-b0f9-22b06ab8f844/16-9" />
-  </programme><programme channel="BBC-One-UK" start="20260527053000 +0500" stop="20260527100000 +0500">
+    <icon src="https://images.metadata.sky.com/pd-image/b6fbee21-3b80-4d4f-b907-f51ed5b877f9/16-9" />
+  </programme><programme channel="BBC-One-UK" start="20260602052500 +0500" stop="20260602100000 +0500">
     <title>BBC News</title>
     <sub-title />
     <desc>BBC One joins the BBC's rolling news channel for a night of news.</desc>
     <category lang="en">News &amp; Documentary</category>
     <category lang="en">News</category>
     <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/aee65993-74d3-46c2-8c81-98af7a70e46b/16-9" />
-  </programme><programme channel="BBC-One-UK" start="20260527100000 +0500" stop="20260527133000 +0500">
+    <icon src="https://images.metadata.sky.com/pd-image/a760efb8-0e1d-4908-9e72-93973d3da6ee/16-9" />
+  </programme><programme channel="BBC-One-UK" start="20260602100000 +0500" stop="20260602133000 +0500">
     <title>Breakfast</title>
     <sub-title />
     <desc>The latest news, sport, business and weather from the BBC's Breakfast team.</desc>
     <category lang="en">News &amp; Documentary</category>
     <category lang="en">News</category>
     <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/6148b90d-3267-4ae8-ad20-087d3ea1916c/16-9" />
-  </programme><programme channel="BBC-One-UK" start="20260527133000 +0500" stop="20260527144500 +0500">
+    <icon src="https://images.metadata.sky.com/pd-image/d6303403-c34f-4521-98ea-153a30610b5e/16-9" />
+  </programme><programme channel="BBC-One-UK" start="20260602133000 +0500" stop="20260602144500 +0500">
     <title>Morning Live</title>
     <sub-title />
     <desc>Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier.</desc>
     <category lang="en">Entertainment</category>
     <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/202ef7bd-6a5e-4398-99f4-2f0e4b64d679/16-9" />
-  </programme><programme channel="BBC-One-UK" start="20260527144500 +0500" stop="20260527151500 +0500">
-    <title>Rip Off Britain: Scams</title>
+    <icon src="https://images.metadata.sky.com/pd-image/1b2eb366-6ffd-472d-a8cc-8dbab8d6251d/16-9" />
+  </programme><programme channel="BBC-One-UK" start="20260602144500 +0500" stop="20260602151500 +0500">
+    <title>Doorbell Detectives</title>
     <sub-title />
-    <desc>A viewer contacts the team after suspecting the online task work he's been completing could be a scam.</desc>
+    <desc>Shaz discovers a man intercepting deliveries on his doorstep, pretending to be him.</desc>
     <category lang="en">Entertainment</category>
     <category lang="en">Factual</category>
     <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/decaae88-43c3-49b5-8ad1-ee6118941c0b/16-9" />
-  </programme><programme channel="BBC-One-UK" start="20260527151500 +0500" stop="20260527161500 +0500">
+    <icon src="https://images.metadata.sky.com/pd-image/7316d144-7df5-4fa2-b067-3a29cc15a53a/16-9" />
+  </programme><programme channel="BBC-One-UK" start="20260602151500 +0500" stop="20260602161500 +0500">
     <title>Homes Under the Hammer</title>
     <sub-title />
-    <desc>Martin is overcome by the amount of beige on show in a Telford flat.</desc>
+    <desc>Martin meets someone in Devon who is trading his gym membership for manual labour.</desc>
     <category lang="en">Entertainment</category>
     <category lang="en">Factual</category>
     <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/435cd449-a54a-4009-8ac1-cd13b2b4c0e5/16-9" />
-  </programme><programme channel="BBC-One-UK" start="20260527161500 +0500" stop="20260527170000 +0500">
+    <icon src="https://images.metadata.sky.com/pd-image/d6ce21f2-e6cf-4052-8d9e-aeb089f7a0e7/16-9" />
+  </programme><programme channel="BBC-One-UK" start="20260602161500 +0500" stop="20260602170000 +0500">
     <title>Bargain Hunt</title>
     <sub-title />
-    <desc>Stepping up for expert duties are David Fergus and Caroline Hawley, who guide two teams of families around a massive antiques centre in the Norfolk port town of King's Lynn.</desc>
+    <desc>Roo Irvine and the teams go bargain-hunting in Northamptonshire with experts Gary Pe and Tim Weeks. Roo also goes behind the scenes at the Royal Crown Derby porcelain factory.</desc>
     <category lang="en">Entertainment</category>
     <category lang="en">Game Show</category>
     <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/f3a9c006-8f38-4d40-943b-4015b5d3778c/16-9" />
-  </programme><programme channel="BBC-One-UK" start="20260527170000 +0500" stop="20260527180000 +0500">
+    <icon src="https://images.metadata.sky.com/pd-image/a8fc361e-4731-4550-8b31-525c3d7fdfc7/16-9" />
+  </programme><programme channel="BBC-One-UK" start="20260602170000 +0500" stop="20260602180000 +0500">
     <title>BBC News at One including BBC London News</title>
     <sub-title />
     <desc>The latest national and international news from the BBC.</desc>
     <category lang="en">News &amp; Documentary</category>
     <category lang="en">News</category>
     <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/e27899ce-9bcd-41ee-b51c-dd0a7057d0ba/16-9" />
-  </programme><programme channel="BBC-One-UK" start="20260527180000 +0500" stop="20260527183000 +0500">
+    <icon src="https://images.metadata.sky.com/pd-image/2c136f24-06c7-41ce-9e5b-eac9a1a07e12/16-9" />
+  </programme><programme channel="BBC-One-UK" start="20260602180000 +0500" stop="20260602183000 +0500">
     <title>Natalie Cassidy: Caring Together</title>
     <sub-title />
-    <desc>Natalie's juggling college and family life, learning about teenage mental health, online pressures and autism - and how care reaches far beyond the classroom.</desc>
+    <desc>Natalie experiences being older. Will it help in her placement in a care home for older residents.</desc>
     <category lang="en">Entertainment</category>
     <category lang="en">Factual</category>
     <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/538740a9-f278-4712-886c-09f8a5a79b6d/16-9" />
-  </programme><programme channel="BBC-One-UK" start="20260527183000 +0500" stop="20260527190000 +0500">
+    <icon src="https://images.metadata.sky.com/pd-image/eeb10ebe-cc77-4b62-938f-b68e0981cfe7/16-9" />
+  </programme><programme channel="BBC-One-UK" start="20260602183000 +0500" stop="20260602190000 +0500">
     <title>Robson Green's Weekend Escapes</title>
     <sub-title />
-    <desc>The Rev Richard Coles joins Robson to explore the Northumberland coastline.</desc>
+    <desc>Robson joins singer KT Tunstall in her home territory of Fife as they explore the beaches of her childhood near St Andrews, followed by a sea shanty workshop and jewellery making.</desc>
     <category lang="en">Entertainment</category>
     <category lang="en">Travel</category>
     <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/475c1ce3-5dfd-42a6-9ebc-051aa3d81b9f/16-9" />
-  </programme><programme channel="BBC-One-UK" start="20260527190000 +0500" stop="20260527194500 +0500">
+    <icon src="https://images.metadata.sky.com/pd-image/408f7f0f-c311-43e2-b485-a3645ab0474e/16-9" />
+  </programme><programme channel="BBC-One-UK" start="20260602190000 +0500" stop="20260602194500 +0500">
     <title>Escape to the Country</title>
     <sub-title />
-    <desc>With Jules Hudson's help, Micky wants to relocate from a busy seaside town to the quiet of the Somerset countryside, where they tour houses with land, annexes and streams.</desc>
+    <desc>Nicki Chapman helps Peggy leave London for a rural Gloucestershire home with views for her, two dogs and a horse. And there's a taste of country life from former street food chefs.</desc>
     <category lang="en">Entertainment</category>
     <category lang="en">Gradening</category>
     <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/8f6f320c-e83a-4784-b9d7-0876dfed25dc/16-9" />
-  </programme><programme channel="BBC-One-UK" start="20260527194500 +0500" stop="20260527203000 +0500">
+    <icon src="https://images.metadata.sky.com/pd-image/5d0a0cad-7e63-4345-b3e2-734f35257cab/16-9" />
+  </programme><programme channel="BBC-One-UK" start="20260602194500 +0500" stop="20260602203000 +0500">
     <title>Garden Rescue</title>
     <sub-title />
-    <desc>Charlie and Flo head to Shrewsbury to help James and his sister Maria transform his plain, uninspired garden into a Doctor Who-inspired sci-fi dream.</desc>
+    <desc>The team transform a mother and daughter's patch into a boho-style garden.</desc>
     <category lang="en">Entertainment</category>
     <category lang="en">Gradening</category>
     <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/bf963a77-dd7c-41c6-82b8-a2165f5742c8/16-9" />
-  </programme><programme channel="BBC-One-UK" start="20260527203000 +0500" stop="20260527211500 +0500">
+    <icon src="https://images.metadata.sky.com/pd-image/368c59cd-5a37-454d-b4b0-2ca01fdbbce6/16-9" />
+  </programme><programme channel="BBC-One-UK" start="20260602203000 +0500" stop="20260602211500 +0500">
     <title>Bridge of Lies</title>
     <sub-title />
-    <desc>Family of four Anna, Gemma, Zoe and Andreas take on the Bridge of Lies. One by one, they must cross the Bridge, stepping on the truths and avoiding the lies.</desc>
+    <desc>Friends Mohsin, Gus, Amir and Ayoub take on the Bridge of Lies. One by one, they must cross the Bridge, stepping on the truths and avoiding the lies.</desc>
     <category lang="en">Entertainment</category>
     <category lang="en">Game Show</category>
     <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/5362e516-8c9b-439b-b2f0-a79b0747dc09/16-9" />
-  </programme><programme channel="BBC-One-UK" start="20260527211500 +0500" stop="20260527220000 +0500">
+    <icon src="https://images.metadata.sky.com/pd-image/c10d2a5b-48bc-4237-b297-d899195da62f/16-9" />
+  </programme><programme channel="BBC-One-UK" start="20260602211500 +0500" stop="20260602220000 +0500">
     <title>Pointless</title>
     <sub-title />
-    <desc>The quiz returns for another series in which contestants try to score as few points as possible by coming up with the answers no-one else could think of.</desc>
+    <desc>Alexander Armstrong is joined by co-host Ria Lina for the brainy quiz where contestants score points by coming up with the answers no-one else could think of.</desc>
     <category lang="en">Entertainment</category>
     <category lang="en">Game Show</category>
     <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/2bdd89b7-3341-3684-a4e0-240932f019cb/16-9" />
-  </programme><programme channel="BBC-One-UK" start="20260527220000 +0500" stop="20260527223000 +0500">
+    <icon src="https://images.metadata.sky.com/pd-image/d8eb197a-7f18-33c5-a5d6-952a6dae464d/16-9" />
+  </programme><programme channel="BBC-One-UK" start="20260602220000 +0500" stop="20260602223000 +0500">
     <title>BBC News</title>
     <sub-title />
     <desc>The latest national and international news from the BBC.</desc>
     <category lang="en">News &amp; Documentary</category>
     <category lang="en">News</category>
     <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/7d1b9797-d2a6-494e-88a2-b9f11aef2622/16-9" />
-  </programme><programme channel="BBC-One-UK" start="20260527223000 +0500" stop="20260527230000 +0500">
+    <icon src="https://images.metadata.sky.com/pd-image/02acecee-eed4-45fe-8696-773030408cdb/16-9" />
+  </programme><programme channel="BBC-One-UK" start="20260602223000 +0500" stop="20260602230000 +0500">
     <title>BBC London News</title>
     <sub-title />
     <desc>The latest news, sport and weather from London.</desc>
     <category lang="en">News &amp; Documentary</category>
     <category lang="en">News</category>
     <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/c2dd2fe0-5da6-4550-9b4b-34ca1f5f6b24/16-9" />
-  </programme><programme channel="BBC-One-UK" start="20260527230000 +0500" stop="20260527233000 +0500">
+    <icon src="https://images.metadata.sky.com/pd-image/9f4ea292-df4f-4b74-a5e0-420235fd355c/16-9" />
+  </programme><programme channel="BBC-One-UK" start="20260602230000 +0500" stop="20260602233000 +0500">
     <title>The One Show</title>
     <sub-title />
-    <desc>J B Gill and Angellica Bell bring you the stories that matter from across the country.</desc>
+    <desc>Alex Jones and Roman Kemp bring you the stories that matter from across the country.</desc>
     <category lang="en">Entertainment</category>
     <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/f21d0418-ce59-421d-8f47-ef6ea3071c8d/16-9" />
-  </programme><programme channel="BBC-One-UK" start="20260527233000 +0500" stop="20260528000000 +0500">
+    <icon src="https://images.metadata.sky.com/pd-image/94017d03-d7f5-430f-87c5-a3f235447f5d/16-9" />
+  </programme><programme channel="BBC-One-UK" start="20260602233000 +0500" stop="20260603000000 +0500">
     <title>EastEnders</title>
-    <sub-title />
-    <desc>It's the day of Vicki and Ross's wedding, but will it go ahead? Priya gets a shock.</desc>
+    <sub-title>Ian's world comes crashing down</sub-title>
+    <desc>Max shocks Cindy.</desc>
     <category lang="en">Entertainment</category>
     <category lang="en">Soap</category>
     <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/42fb9c6c-b9a3-4e83-a7bc-d8ff4fcf732e/16-9" />
-  </programme><programme channel="BBC-One-UK" start="20260528000000 +0500" stop="20260528010000 +0500">
-    <title>MasterChef</title>
-    <sub-title />
-    <desc>It's semi-finals time, and the eight remaining cooks are ready to battle it out for a chance at victory. Anna and Grace ramp things up with their biggest challenges yet.</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Game Show</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/b972cb69-b2ee-4a6f-a11d-12e49b064fac/16-9" />
-  </programme><programme channel="BBC-One-UK" start="20260528010000 +0500" stop="20260528013000 +0500">
-    <title>Amandaland</title>
-    <sub-title />
-    <desc>Amanda befriends an old lady who lives in a house she would like to own herself. Contains some strong language.</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Comedy</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/316bfe66-7c44-4895-b4a2-e815455b5260/16-9" />
-  </programme><programme channel="BBC-One-UK" start="20260528013000 +0500" stop="20260528020000 +0500">
-    <title>Only Child</title>
-    <sub-title />
-    <desc>Richard gives Ken a tutorial on QR code train tickets.</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Comedy</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/78d6338f-650c-4e13-90c1-8865294a2325/16-9" />
-  </programme><programme channel="BBC-One-UK" start="20260528020000 +0500" stop="20260528023000 +0500">
-    <title>BBC News and Weather</title>
-    <sub-title />
-    <desc>The latest national and international news, with reports from BBC correspondents worldwide.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">News</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/0ff02ab0-835d-4a5c-aa9e-1a17318bc989/16-9" />
-  </programme><programme channel="BBC-One-UK" start="20260528023000 +0500" stop="20260528024000 +0500">
-    <title>BBC London News</title>
-    <sub-title />
-    <desc>The latest news, sport and weather from London.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">News</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/d1f4994c-fa81-4257-9bcc-57cffaa80bf8/16-9" />
-  </programme><programme channel="BBC-One-UK" start="20260528024000 +0500" stop="20260528033000 +0500">
-    <title>A Good Girl's Guide to Murder</title>
-    <sub-title />
-    <desc>Pip tries to embrace normal life when a key witness in Max Hastings's trial disappears. Contains some strong language.</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Detective</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/2fb78bfc-0ea5-4efc-9998-2abae202dad1/16-9" />
-  </programme><programme channel="BBC-One-UK" start="20260528033000 +0500" stop="20260528041500 +0500">
-    <title>A Good Girl's Guide to Murder</title>
-    <sub-title />
-    <desc>Pip's first suspect proves a dead end as Jamie Reynolds's misdeeds are revealed. Contains some strong language and some upsetting scenes.</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Detective</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/5a7c4439-8c14-4e2d-b3e6-d9959391a484/16-9" />
-  </programme><programme channel="BBC-One-UK" start="20260528041500 +0500" stop="20260528044500 +0500">
-    <title>Would I Lie to You? The Best Bits</title>
-    <sub-title />
-    <desc>Rob Brydon, Lee Mack and David Mitchell return in an episode packed with some of the best bits from series 19.</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Comedy</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/8d8696a6-dc2f-4139-874b-d8be019e2618/16-9" />
-  </programme><programme channel="BBC-One-UK" start="20260528044500 +0500" stop="20260528045000 +0500">
-    <title>Weather for the Week Ahead</title>
-    <sub-title />
-    <desc>Detailed weather forecast.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">News</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/e7a976ab-99a2-4737-9106-33c67de05bb6/16-9" />
-  </programme><programme channel="BBC-One-UK" start="20260528045000 +0500" stop="20260528100000 +0500">
-    <title>BBC News</title>
-    <sub-title />
-    <desc>BBC One joins the BBC's rolling news channel for a night of news.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">News</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/17ccf345-ac87-4607-a009-27cf04fccc88/16-9" />
-  </programme><programme channel="BBC-One-UK" start="20260528100000 +0500" stop="20260528133000 +0500">
-    <title>Breakfast</title>
-    <sub-title />
-    <desc>The latest news, sport, business and weather from the BBC's Breakfast team.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">News</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/7d2344d7-4873-4411-88b1-dab5f7c43042/16-9" />
-  </programme><programme channel="BBC-One-UK" start="20260528133000 +0500" stop="20260528144500 +0500">
-    <title>Morning Live</title>
-    <sub-title />
-    <desc>Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier.</desc>
-    <category lang="en">Entertainment</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/4e6b4146-b20d-41b6-976a-26a51b36b9ac/16-9" />
-  </programme><programme channel="BBC-One-UK" start="20260528144500 +0500" stop="20260528151500 +0500">
-    <title>Rip Off Britain: Scams</title>
-    <sub-title />
-    <desc>A victim of a huge international investment scam network meets one of the investigative journalists who uncovered it.</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Factual</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/70771f2f-8fc4-4ad3-a653-a9edba6d6232/16-9" />
-  </programme><programme channel="BBC-One-UK" start="20260528151500 +0500" stop="20260528161500 +0500">
-    <title>Homes Under the Hammer</title>
-    <sub-title />
-    <desc>Dion's in Sheffield, where he feels there is scope to double the size of a property.</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Factual</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/b0e29e4e-1498-47f8-a08a-0208ab8a0066/16-9" />
-  </programme><programme channel="BBC-One-UK" start="20260528161500 +0500" stop="20260528170000 +0500">
-    <title>Bargain Hunt</title>
-    <sub-title />
-    <desc>Roo Irvine and the teams go shopping in Northamptonshire with experts Gary Pe and Tim Weeks. Roo quizzes the fairgoers about a curious mystery item.</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Game Show</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/094cb8e7-373f-3d46-aac8-5f8bab6aeb37/16-9" />
-  </programme><programme channel="BBC-One-UK" start="20260528170000 +0500" stop="20260528180000 +0500">
-    <title>BBC News at One including BBC London News</title>
-    <sub-title />
-    <desc>The latest national and international news from the BBC.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">News</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/5eb73f1c-2999-4b8d-a264-5afca0fc0fe1/16-9" />
-  </programme><programme channel="BBC-One-UK" start="20260528180000 +0500" stop="20260528183000 +0500">
-    <title>Natalie Cassidy: Caring Together</title>
-    <sub-title />
-    <desc>Natalie's halfway through her college course and growing in confidence. On placement, she meets home carer Gary, who looks after his partner, Lisa.</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Factual</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/8362fc20-484b-43e6-9244-1aa33317b12d/16-9" />
-  </programme><programme channel="BBC-One-UK" start="20260528183000 +0500" stop="20260528190000 +0500">
-    <title>Robson Green's Weekend Escapes</title>
-    <sub-title />
-    <desc>Robson is joined by Invictus Games gold medal winner JJ Chalmers in and around the Scottish town of Pitlochry. The pair zipwire across the River Garry and enjoy a husky ride.</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Travel</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/d81fa20b-334d-443c-a702-337557a7a014/16-9" />
-  </programme><programme channel="BBC-One-UK" start="20260528190000 +0500" stop="20260528194500 +0500">
-    <title>Escape to the Country</title>
-    <sub-title />
-    <desc>Briony May Williams helps a young couple trade in their London flat for a family home in rural Suffolk, with space for their two children to enjoy a new life in the country.</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Gradening</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/c2b32ee5-a001-4531-80a1-32477052f8ba/16-9" />
-  </programme><programme channel="BBC-One-UK" start="20260528194500 +0500" stop="20260528203000 +0500">
-    <title>Garden Rescue</title>
-    <sub-title />
-    <desc>Lee and Diarmuid are in Croydon to help sisters Lynette and Natalie rescue their vast, sun-baked plot, where weeds have taken over.</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Gradening</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/d31f27ba-3453-4030-9173-f93c8a43376d/16-9" />
-  </programme><programme channel="BBC-One-UK" start="20260528203000 +0500" stop="20260528211500 +0500">
-    <title>Bridge of Lies</title>
-    <sub-title />
-    <desc>Friends Louise, Emily, Laura and Beth take on the Bridge of Lies. One by one, they must cross the Bridge, stepping on the truths and avoiding the lies.</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Game Show</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/3487b48b-8499-42ca-b85c-5e3beff9b0ee/16-9" />
-  </programme><programme channel="BBC-One-UK" start="20260528211500 +0500" stop="20260528220000 +0500">
-    <title>Pointless</title>
-    <sub-title />
-    <desc>The quiz returns for another series in which contestants try to score as few points as possible by coming up with the answers no-one else could think of.</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Game Show</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/d5d14813-c4a5-338b-98fa-ef2813c2f3a7/16-9" />
-  </programme><programme channel="BBC-One-UK" start="20260528220000 +0500" stop="20260528223000 +0500">
-    <title>BBC News</title>
-    <sub-title />
-    <desc>The latest national and international news from the BBC.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">News</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/58ce2deb-f819-4ffa-a95f-85dcbf988d8a/16-9" />
-  </programme><programme channel="BBC-One-UK" start="20260528223000 +0500" stop="20260528230000 +0500">
-    <title>BBC London News</title>
-    <sub-title />
-    <desc>The latest news, sport and weather from London.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">News</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/04b7aaa4-87d2-4f59-b1b2-ca080f46c33e/16-9" />
-  </programme><programme channel="BBC-One-UK" start="20260528230000 +0500" stop="20260528233000 +0500">
-    <title>The One Show</title>
-    <sub-title />
-    <desc>Roman Kemp and Lauren Laverne bring you the stories that matter from across the country.</desc>
-    <category lang="en">Entertainment</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/837c5ab0-1a44-473e-a25b-0ca59e8fdb69/16-9" />
-  </programme><programme channel="BBC-One-UK" start="20260528233000 +0500" stop="20260529000000 +0500">
-    <title>EastEnders</title>
-    <sub-title />
-    <desc>Chaos erupts at Vicki and Ross's wedding, and Denise receives some news.</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Soap</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/c7605bdd-7f4c-47cb-8d7e-f879563f608a/16-9" />
+    <icon src="https://images.metadata.sky.com/pd-image/c31de0c4-a692-4922-a58d-9c13058d42be/16-9" />
   </programme>
 </tv>
