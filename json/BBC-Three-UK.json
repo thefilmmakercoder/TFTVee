@@ -4,14 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-01T08:00:00+05:00",
-      "stop": "2026-06-01T09:30:00+05:00",
-      "title": "This is BBC Three",
-      "desc": "Programmes start at 7.00pm.",
-      "language": "en",
-      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/BBC-Three-UK.png"
-    },
-    {
       "start": "2026-06-01T09:30:00+05:00",
       "stop": "2026-06-01T15:30:00+05:00",
       "title": "..programmes start at 7.00pm",
@@ -124,6 +116,18 @@
         "Factual"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/ff86daf9-91c4-32a1-8fd4-060429406a03/16-9"
+    },
+    {
+      "start": "2026-06-02T03:15:00+05:00",
+      "stop": "2026-06-02T04:00:00+05:00",
+      "title": "Ibiza: Secrets of the Party Island",
+      "desc": "Zara gets a closer look at how social media is changing Ibiza - and its crime. Contains some strong language.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Factual"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/42f5e128-b038-371e-8eeb-7e66439197e7/16-9"
     }
   ]
 }
