@@ -4,62 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-01T23:00:00+05:00",
-      "stop": "2026-06-02T00:00:00+05:00",
-      "title": "GDLA+",
-      "desc": "KTTV delivers premier Los Angeles news and entertainment, specializing in high-impact local journalism, live professional sports, and the flagship Fox network lineup of primetime series and reality television.",
-      "date": "2024",
-      "language": "en",
-      "categories": [
-        "Newsmagazine"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p26513975_b_h8_ab.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-06-02T00:00:00+05:00",
-      "stop": "2026-06-02T01:00:00+05:00",
-      "title": "Sherri",
-      "sub_title": "500th Episode",
-      "desc": "Sherri celebrates her 500th episode with an hour of fun, laughs and surprises; a reunion with Sherri's \"30 Rock\" husband, Tracy Morgan.",
-      "date": "2025",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Series",
-        "Talk",
-        "Interview"
-      ],
-      "episode": "S4 E45",
-      "icon": "http://dtil.tmsimg.com/assets/p21805765_b_h8_ab.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Sherri Shepherd",
-          "Tracy Morgan"
-        ]
-      }
-    },
-    {
-      "start": "2026-06-02T01:00:00+05:00",
-      "stop": "2026-06-02T02:00:00+05:00",
-      "title": "The Jennifer Hudson Show",
-      "desc": "Backstreet Boys member and singer AJ McLean stops by to talk about his solo album, the Backstreet Boys holiday album and the band's residency at Sphere; an episode filled with surprises.",
-      "date": "2025",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Series",
-        "Talk"
-      ],
-      "episode": "S4 E26",
-      "icon": "http://dtil.tmsimg.com/assets/p31041660_b_h8_aa.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Jennifer Hudson",
-          "A.J. McLean"
-        ]
-      }
-    },
-    {
       "start": "2026-06-02T02:00:00+05:00",
       "stop": "2026-06-02T03:00:00+05:00",
       "title": "Dateline",
@@ -229,6 +173,61 @@
           "Harvey Levin"
         ]
       }
+    },
+    {
+      "start": "2026-06-02T08:00:00+05:00",
+      "stop": "2026-06-02T09:02:00+05:00",
+      "title": "The 1% Club",
+      "sub_title": "Balling Out for $100k",
+      "desc": "A competitive family of four, stars of the WNBA's Atlanta Dream, a Savannah Bananas pitcher and a drag queen are among 100 contestants competing for the chance to win up to $100,000.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "Series",
+        "Game show",
+        "Reality"
+      ],
+      "episode": "S2 E6",
+      "icon": "http://dtil.tmsimg.com/assets/p30158593_b_h8_ab.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Joel McHale"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-02T09:02:00+05:00",
+      "stop": "2026-06-02T10:00:00+05:00",
+      "title": "The Quiz With Balls",
+      "sub_title": "Marines vs. Air Force",
+      "desc": "A patriotic rivalry of Marine men and women of the Air Force, who compete for the chance to win $100,000.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Game show"
+      ],
+      "episode": "S3 E6",
+      "icon": "http://dtil.tmsimg.com/assets/p26784239_b_h8_ah.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Jay Pharoah"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-02T10:00:00+05:00",
+      "stop": "2026-06-02T10:30:00+05:00",
+      "title": "Good Nite LA",
+      "desc": "Stay informed with the breaking news and headlines.",
+      "date": "2024",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p26513988_b_h8_ae.jpg?w=960&h=540"
     }
   ]
 }

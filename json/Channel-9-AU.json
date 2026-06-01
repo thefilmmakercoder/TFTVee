@@ -4,20 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-01T23:30:00+05:00",
-      "stop": "2026-06-02T00:00:00+05:00",
-      "title": "A Current Affair",
-      "sub_title": "Monday 1 June 2026",
-      "desc": "A Current Affair covers the realms of politics, crime, human rights, science, technology, celebrities and entertainment - all investigated by a dedicated team.",
-      "language": "en",
-      "rating": "NR",
-      "categories": [
-        "News"
-      ],
-      "episode": "E108",
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/131990/image/334x188"
-    },
-    {
       "start": "2026-06-02T00:00:00+05:00",
       "stop": "2026-06-02T00:30:00+05:00",
       "title": "Today Early News",
@@ -163,6 +149,20 @@
       ],
       "episode": "S3 E65",
       "icon": "https://www.fetchtv.com.au/v2/epg/program/426483/image/334x188"
+    },
+    {
+      "start": "2026-06-02T13:00:00+05:00",
+      "stop": "2026-06-02T14:00:00+05:00",
+      "title": "9News",
+      "sub_title": "Tuesday 2 June 2026",
+      "desc": "Join 9News for the latest in news and events that affect you in your local city, as well as news from across Australia and the world.",
+      "language": "en",
+      "rating": "NR",
+      "categories": [
+        "News"
+      ],
+      "episode": "E109",
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/21223678/image/334x188"
     }
   ]
 }
