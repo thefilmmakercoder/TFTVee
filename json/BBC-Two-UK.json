@@ -4,30 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-02T02:30:00+05:00",
-      "stop": "2026-06-02T03:00:00+05:00",
-      "title": "Newsnight, followed by Weather",
-      "desc": "Insights and global interviews on the news stories of the day. With Victoria Derbyshire. Followed by Weather.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/569e41ea-dcd8-41c2-862e-f15fbcb14421/16-9"
-    },
-    {
-      "start": "2026-06-02T03:00:00+05:00",
-      "stop": "2026-06-02T04:00:00+05:00",
-      "title": "The Mother of All Cons",
-      "desc": "Suspicions grow about a new celebrity-backed charity for sick children. Contains some strong language and some upsetting scenes.",
-      "language": "en",
-      "categories": [
-        "Entertainment",
-        "Factual"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/ecac4849-6e3f-4896-b3a7-46f7162b2f37/16-9"
-    },
-    {
       "start": "2026-06-02T04:00:00+05:00",
       "stop": "2026-06-02T04:30:00+05:00",
       "title": "Iolo's River Valleys",
@@ -142,6 +118,30 @@
         "News"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/4fe65890-e8d6-4fc9-b909-ec60a816a6f3/16-9"
+    },
+    {
+      "start": "2026-06-02T16:15:00+05:00",
+      "stop": "2026-06-02T17:00:00+05:00",
+      "title": "Politics Live",
+      "desc": "The big political issues of the day.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Factual"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/4e222637-f301-4913-87e0-30dffa2712f9/16-9"
+    },
+    {
+      "start": "2026-06-02T17:00:00+05:00",
+      "stop": "2026-06-02T17:45:00+05:00",
+      "title": "Impossible",
+      "desc": "The quiz show where players must avoid Impossible answers to stay in the competition. 20 people start today's show, but how many of them will survive to face the \u00a310,000 question.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Game Show"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/a12db317-63ab-4598-9e80-08d910e5fff1/16-9"
     }
   ]
 }

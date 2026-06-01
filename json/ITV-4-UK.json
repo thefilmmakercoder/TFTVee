@@ -4,18 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-02T03:00:00+05:00",
-      "stop": "2026-06-02T03:05:00+05:00",
-      "title": "FYI Daily",
-      "desc": "Latest news from the world of entertainment.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "Showbiz"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/5dcbfb95-5ab1-45fa-8264-1dc63e095439/16-9"
-    },
-    {
       "start": "2026-06-02T03:05:00+05:00",
       "stop": "2026-06-02T04:35:00+05:00",
       "title": "Die Another Day",
@@ -151,6 +139,19 @@
         "Motor Sports"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/033f8ed2-a1ce-3a3c-a3d4-c0a6518d4b40/16-9"
+    },
+    {
+      "start": "2026-06-02T16:00:00+05:00",
+      "stop": "2026-06-02T16:30:00+05:00",
+      "title": "The Protectors",
+      "sub_title": "The Numbers Game",
+      "desc": "Europe-based adventure series. A beautiful blonde who has run away from home earns her money by passing on mysterious messages full of seemingly random numbers.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Action"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/42688b79-adbc-4375-ab57-39ce53a45aa8/16-9"
     }
   ]
 }

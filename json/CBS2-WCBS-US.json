@@ -4,52 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-02T02:00:00+05:00",
-      "stop": "2026-06-02T03:00:00+05:00",
-      "title": "CBS News New York 5pm",
-      "desc": "Evening news coverage.",
-      "date": "2011",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p8492449_b_h8_ab.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-06-02T03:00:00+05:00",
-      "stop": "2026-06-02T03:30:00+05:00",
-      "title": "CBS News New York 6pm",
-      "desc": "Stay informed with the latest breaking news and headlines.",
-      "date": "2008",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p605164_b_h8_ab.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-06-02T03:30:00+05:00",
-      "stop": "2026-06-02T04:00:00+05:00",
-      "title": "CBS Evening News",
-      "desc": "Tony Dokoupil shares the day's most important stories, delivering context and depth to bring greater understanding to one's world.",
-      "date": "2026",
-      "language": "en",
-      "categories": [
-        "Series",
-        "News"
-      ],
-      "episode": "E152",
-      "icon": "http://dtil.tmsimg.com/assets/p28807922_b_h8_ae.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Tony Dokoupil",
-          "Maurice DuBois",
-          "Jericka Duncan"
-        ]
-      }
-    },
-    {
       "start": "2026-06-02T04:00:00+05:00",
       "stop": "2026-06-02T04:30:00+05:00",
       "title": "Inside Edition",
@@ -258,6 +212,69 @@
           "Byron Allen",
           "Rachel Feinstein",
           "Jackie Flynn"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-02T09:37:00+05:00",
+      "stop": "2026-06-02T10:07:00+05:00",
+      "title": "Funny You Should Ask",
+      "desc": "Jon Lovitz; Tiffany Haddish; Adam Carolla; Byron Allen; Caroline Rhea; Jeff Ross.",
+      "date": "2023",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Game show",
+        "Comedy"
+      ],
+      "episode": "S7 E5",
+      "icon": "http://dtil.tmsimg.com/assets/p13115825_b_h10_ac.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Jon Kelley"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-02T10:07:00+05:00",
+      "stop": "2026-06-02T10:37:00+05:00",
+      "title": "Funny You Should Ask",
+      "desc": "Jon Lovitz; Sheryl Underwood; Adam Carolla; Byron Allen; Whitney Cummings; Jamie Kennedy.",
+      "date": "2022",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Game show",
+        "Comedy"
+      ],
+      "episode": "S6 E2",
+      "icon": "http://dtil.tmsimg.com/assets/p13115825_b_h10_ac.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Jon Kelley"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-02T10:37:00+05:00",
+      "stop": "2026-06-02T11:07:00+05:00",
+      "title": "Funny You Should Ask",
+      "desc": "Jon Lovitz; Vivica Fox; Howie Mandel; Byron Allen; Caroline Rhea; Jeff Ross.",
+      "date": "2024",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Game show",
+        "Comedy"
+      ],
+      "episode": "S7 E49",
+      "icon": "http://dtil.tmsimg.com/assets/p13115825_b_h10_ac.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Jon Kelley"
         ]
       }
     }

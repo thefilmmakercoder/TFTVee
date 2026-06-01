@@ -4,18 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-02T02:30:00+05:00",
-      "stop": "2026-06-02T02:45:00+05:00",
-      "title": "ITV News London",
-      "desc": "The latest news and weather from London and the South East.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/76418d2d-6236-4f19-944c-f2ff04589db3/16-9"
-    },
-    {
       "start": "2026-06-02T02:45:00+05:00",
       "stop": "2026-06-02T04:00:00+05:00",
       "title": "Love Island",
@@ -149,6 +137,18 @@
         "News"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/2506c633-e062-4f50-bcf9-d5b5cfb73983/16-9"
+    },
+    {
+      "start": "2026-06-02T17:55:00+05:00",
+      "stop": "2026-06-02T18:00:00+05:00",
+      "title": "ITV News London",
+      "desc": "The latest news and weather from London and the South East.",
+      "language": "en",
+      "categories": [
+        "News & Documentary",
+        "News"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/e9c8fe2f-4f10-470f-a425-00825f72a3d3/16-9"
     }
   ]
 }

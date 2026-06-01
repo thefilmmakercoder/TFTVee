@@ -4,32 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-02T03:00:00+05:00",
-      "stop": "2026-06-02T03:10:00+05:00",
-      "title": "Euronews",
-      "sub_title": "Tuesday 2 June 2026",
-      "desc": "Headlines, Breaking News & Analysis from the Euronews news centre in Brussels, Belgium, in English.",
-      "language": "en",
-      "rating": "NR",
-      "categories": [
-        "News"
-      ],
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/276/image/334x188"
-    },
-    {
-      "start": "2026-06-02T03:10:00+05:00",
-      "stop": "2026-06-02T03:40:00+05:00",
-      "title": "NHK Newsline",
-      "sub_title": "Tuesday 2 June 2026",
-      "desc": "English news from Japan's Broadcasting Corporation, NHK, delivering the latest in business, technology, health, environmental and world news.",
-      "language": "en",
-      "rating": "NR",
-      "categories": [
-        "News"
-      ],
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/439062/image/334x188"
-    },
-    {
       "start": "2026-06-02T03:40:00+05:00",
       "stop": "2026-06-02T04:30:00+05:00",
       "title": "Cbc The National",
@@ -160,6 +134,33 @@
       ],
       "episode": "S1 E7",
       "icon": "https://www.fetchtv.com.au/v2/epg/program/15955315/image/334x188"
+    },
+    {
+      "start": "2026-06-02T10:00:00+05:00",
+      "stop": "2026-06-02T10:55:00+05:00",
+      "title": "Brady Vs Belichick: The Verdict",
+      "sub_title": "The Verdict",
+      "desc": "Celebrities and fans weigh-in on both sides of the argument and add additional points. Chris Russo, Devin McCourty, Carl Banks and Peter King sit down for a round table discussion.",
+      "language": "en",
+      "rating": "PG",
+      "categories": [
+        "Special Interest"
+      ],
+      "episode": "S1 E3",
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/12521606/image/334x188"
+    },
+    {
+      "start": "2026-06-02T10:55:00+05:00",
+      "stop": "2026-06-02T11:00:00+05:00",
+      "title": "NITV News Update",
+      "desc": "NITV News recaptures the highlights of Indigenous news around the country.",
+      "language": "en",
+      "rating": "NR",
+      "categories": [
+        "News"
+      ],
+      "episode": "E96",
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/5904078/image/334x188"
     }
   ]
 }

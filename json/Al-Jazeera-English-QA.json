@@ -4,30 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-02T02:00:00+05:00",
-      "stop": "2026-06-02T03:00:00+05:00",
-      "title": "Newshour",
-      "desc": "Latest news and in-depth analysis from around the world.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "World Affairs"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/9acff88f-7728-4c2f-b26c-70067b9a493a/16-9"
-    },
-    {
-      "start": "2026-06-02T03:00:00+05:00",
-      "stop": "2026-06-02T04:00:00+05:00",
-      "title": "Newshour",
-      "desc": "Latest news and in-depth analysis from around the world.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "World Affairs"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/9acff88f-7728-4c2f-b26c-70067b9a493a/16-9"
-    },
-    {
       "start": "2026-06-02T04:00:00+05:00",
       "stop": "2026-06-02T04:30:00+05:00",
       "title": "News Live",
@@ -147,6 +123,30 @@
         "War Documentary"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/aab8efe6-f572-459f-a6bd-a36b502cce20/16-9"
+    },
+    {
+      "start": "2026-06-02T10:00:00+05:00",
+      "stop": "2026-06-02T10:30:00+05:00",
+      "title": "News Live",
+      "desc": "Up-to-date news and analysis from around the world.",
+      "language": "en",
+      "categories": [
+        "News & Documentary",
+        "World Affairs"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/4d3b5d90-8de7-41ee-a715-c06841625d03/16-9"
+    },
+    {
+      "start": "2026-06-02T10:30:00+05:00",
+      "stop": "2026-06-02T11:00:00+05:00",
+      "title": "Inside Story",
+      "desc": "Ep.1335 Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds from around the globe.",
+      "language": "en",
+      "categories": [
+        "News & Documentary",
+        "World Affairs"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/e8850dfb-6078-432d-93bf-58dc6d84010f/16-9"
     }
   ]
 }

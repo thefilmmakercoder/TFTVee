@@ -4,49 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-02T02:30:00+05:00",
-      "stop": "2026-06-02T03:00:00+05:00",
-      "title": "News 4 NY at 5:30",
-      "desc": "NY news.",
-      "date": "2017",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p14883149_b_h10_ac.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-06-02T03:00:00+05:00",
-      "stop": "2026-06-02T03:30:00+05:00",
-      "title": "News 4 NY at 6",
-      "desc": "The latest local news, weather and investigative stories impacting your community.",
-      "date": "2011",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p8846208_b_h10_ae.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-06-02T03:30:00+05:00",
-      "stop": "2026-06-02T04:00:00+05:00",
-      "title": "NBC Nightly News With Tom Llamas",
-      "desc": "Tom Llamas anchors the latest news, going beyond the headlines to see how lives are affected by the world around them.",
-      "date": "2026",
-      "language": "en",
-      "categories": [
-        "Series",
-        "News"
-      ],
-      "episode": "S2 E142",
-      "icon": "http://dtil.tmsimg.com/assets/p30141511_b_h8_aa.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Tom Llamas"
-        ]
-      }
-    },
-    {
       "start": "2026-06-02T04:00:00+05:00",
       "stop": "2026-06-02T04:30:00+05:00",
       "title": "News 4 NY at 7",
@@ -221,6 +178,67 @@
           "Tom Llamas"
         ]
       }
+    },
+    {
+      "start": "2026-06-02T11:42:00+05:00",
+      "stop": "2026-06-02T12:12:00+05:00",
+      "title": "Access Hollywood",
+      "desc": "Inside the new \"Marilyn Monroe: Hollywood Icon\" exhibit.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Newsmagazine",
+        "Entertainment",
+        "Interview"
+      ],
+      "episode": "S30 E184",
+      "icon": "http://dtil.tmsimg.com/assets/p30926755_b_h8_ab.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Mario Lopez",
+          "Kit Hoover",
+          "Scott Evans"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-02T12:12:00+05:00",
+      "stop": "2026-06-02T13:00:00+05:00",
+      "title": "The Kelly Clarkson Show",
+      "desc": "Kellyoke Encore: \"Eat Me Alive\"; \"Property Brothers\" Jonathan and Drew Scott; \"Hot Property\"; Jessie Ware; The Car Sitter; Henry Lau performs.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Talk",
+        "Variety",
+        "Entertainment"
+      ],
+      "episode": "S7 E147",
+      "icon": "http://dtil.tmsimg.com/assets/p16993616_b_h8_af.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Kelly Clarkson",
+          "Jonathan Scott",
+          "Drew Scott"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-02T13:00:00+05:00",
+      "stop": "2026-06-02T13:30:00+05:00",
+      "title": "Early Today",
+      "desc": "This early-morning news covers overnight events, breaking domestic and international news as well as a preview of the day's anticipated events. The program also presents regular reports from the worlds of business, entertainment and sports.",
+      "date": "1999",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p185301_b_h8_ag.jpg?w=960&h=540"
     }
   ]
 }
