@@ -4,20 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-03T00:00:00+05:00",
-      "stop": "2026-06-03T00:30:00+05:00",
-      "title": "Today Early News",
-      "sub_title": "Wednesday 3 June 2026",
-      "desc": "Today Early News with up to date news from Australia and around the world as well as the latest in sport and weather.",
-      "language": "en",
-      "rating": "NR",
-      "categories": [
-        "News"
-      ],
-      "episode": "E110",
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/428725/image/334x188"
-    },
-    {
       "start": "2026-06-03T00:30:00+05:00",
       "stop": "2026-06-03T04:00:00+05:00",
       "title": "Today",
@@ -164,6 +150,20 @@
       ],
       "episode": "E110",
       "icon": "https://www.fetchtv.com.au/v2/epg/program/131990/image/334x188"
+    },
+    {
+      "start": "2026-06-03T14:30:00+05:00",
+      "stop": "2026-06-03T15:30:00+05:00",
+      "title": "Events That Changed Australia",
+      "sub_title": "The Fight For Marriage Equality",
+      "desc": "From the Mardi Gras riots to the 2017 marriage equality vote, Australia's journey to LGBTQ+ rights was a hard-fought battle. This episode explores the cultural shifts and key figures that tested our nation's \\.",
+      "language": "en",
+      "rating": "M",
+      "categories": [
+        "Special Interest"
+      ],
+      "episode": "E6",
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/16388693/image/334x188"
     }
   ]
 }

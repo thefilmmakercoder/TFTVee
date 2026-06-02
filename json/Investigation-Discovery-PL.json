@@ -4,33 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-03T00:00:00+05:00",
-      "stop": "2026-06-03T01:00:00+05:00",
-      "title": "Evil Lives Here: My Child The Killer",
-      "sub_title": "The sins of our son",
-      "desc": "Investigation Discovery provides true crime documentaries, real-life investigations, and mystery-focused programming.",
-      "date": "2026",
-      "language": "en",
-      "categories": [
-        "Documentary Series"
-      ],
-      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/Investigation-Discovery-PL.png"
-    },
-    {
-      "start": "2026-06-03T01:00:00+05:00",
-      "stop": "2026-06-03T03:00:00+05:00",
-      "title": "Hollywood Demons 2",
-      "sub_title": "The follies of little actors",
-      "desc": "Producers and former guests reveal the behind-the-scenes of one of the most popular talk shows in the USA.In honest accounts, they describe the atmosphere behind the cameras and situations that remained secret.",
-      "date": "2025",
-      "language": "en",
-      "categories": [
-        "Documentary Series"
-      ],
-      "episode": "S2",
-      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/Investigation-Discovery-PL.png"
-    },
-    {
       "start": "2026-06-03T03:00:00+05:00",
       "stop": "2026-06-03T04:00:00+05:00",
       "title": "Death By Fame",
@@ -178,6 +151,45 @@
         "Documentary Series"
       ],
       "episode": "S3",
+      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/Investigation-Discovery-PL.png"
+    },
+    {
+      "start": "2026-06-03T13:00:00+05:00",
+      "stop": "2026-06-03T14:00:00+05:00",
+      "title": "A Body in the Snow: The Trial of Karen Read",
+      "sub_title": "Judgment",
+      "desc": "One cold morning, the body of policeman John O'Keefe was found.The man was found on the lawn in front of his friend's house.",
+      "date": "2025",
+      "language": "en",
+      "categories": [
+        "Documentary Series"
+      ],
+      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/Investigation-Discovery-PL.png",
+      "credits": {
+        "actor": [
+          "Self - Defendant - Karen Read",
+          "Self - Karen's Attorney - Alan Jackson",
+          "Self - Investigative Reporter - Ted Daniel",
+          "Self - Karen's Attorney - David R. Yannetti",
+          "Self - Karen's Attorney - Elizabeth Little",
+          "Self - Friend of John O'Keefe - Brendan Kane",
+          "Self - Reporter - Kristina Rex",
+          "Self - Journalist - Flint McColgan",
+          "Self - Criminal Defense Attorney - Joseph Krowski",
+          "Self - Lead Prosecutor - Adam Lally"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-03T14:00:00+05:00",
+      "stop": "2026-06-03T15:00:00+05:00",
+      "title": "Adnan Syed: Overturned",
+      "desc": "The film shows how expert crime journalism can change the course of a case that many thought was closed.It concerns Adnan Syed, who as a high school student was sentenced to life in prison.",
+      "date": "2022",
+      "language": "en",
+      "categories": [
+        "Documentary Film"
+      ],
       "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/Investigation-Discovery-PL.png"
     }
   ]
