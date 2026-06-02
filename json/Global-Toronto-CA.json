@@ -4,114 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-02T14:30:00+05:00",
-      "stop": "2026-06-02T15:00:00+05:00",
-      "title": "Paid Programming",
-      "desc": "Paid programming.",
-      "language": "en",
-      "rating": "TVG",
-      "categories": [
-        "Consumer",
-        "Shopping",
-        "Variety"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-06-02T15:00:00+05:00",
-      "stop": "2026-06-02T18:00:00+05:00",
-      "title": "Global News Morning",
-      "desc": "Greater Toronto's top local news stories and latest weather forecast to start your day.",
-      "date": "2019",
-      "language": "en",
-      "categories": [
-        "News",
-        "Weather"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p16568475_b_h10_ad.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-06-02T18:00:00+05:00",
-      "stop": "2026-06-02T19:00:00+05:00",
-      "title": "The Morning Show",
-      "desc": "Viewers from across the country are welcomed in for an hour of smart conversation, lifestyle segments, big-name guests and live performances.",
-      "date": "2011",
-      "language": "en",
-      "categories": [
-        "News",
-        "Interview"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p8861345_b_h8_aa.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Carolyn Mackenzie",
-          "Jeff McArthur",
-          "Liem Vu"
-        ]
-      }
-    },
-    {
-      "start": "2026-06-02T19:00:00+05:00",
-      "stop": "2026-06-02T20:00:00+05:00",
-      "title": "Tamron Hall",
-      "sub_title": "What in the World?",
-      "desc": "Meeting the real people behind some of the most attention-grabbing stories being shared on social media.",
-      "date": "2025",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Series",
-        "Talk"
-      ],
-      "episode": "S7 E61",
-      "icon": "http://dtil.tmsimg.com/assets/p17197549_b_h8_af.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Tamron Hall"
-        ]
-      }
-    },
-    {
-      "start": "2026-06-02T20:00:00+05:00",
-      "stop": "2026-06-02T21:00:00+05:00",
-      "title": "Property Brothers: Forever Home",
-      "sub_title": "Meghan & Chris",
-      "desc": "Drew and Jonathan update the awkward floor plan of a single-story house with some 1970s quirks for two high school sweethearts who have moved 14 times in 15 years, and are ready to make their forever home dreams a reality.",
-      "date": "2021",
-      "language": "en",
-      "rating": "TVG",
-      "categories": [
-        "Series",
-        "Reality",
-        "House/garden",
-        "Home improvement"
-      ],
-      "episode": "S6 E8",
-      "icon": "http://dtil.tmsimg.com/assets/p16607789_b_h8_bg.jpg?w=960&h=540",
-      "credits": {
-        "director": [
-          "Jim MacPherson"
-        ],
-        "actor": [
-          "Jonathan Scott",
-          "Drew Scott"
-        ]
-      }
-    },
-    {
-      "start": "2026-06-02T21:00:00+05:00",
-      "stop": "2026-06-02T21:30:00+05:00",
-      "title": "Global News at Noon",
-      "desc": "Greater Toronto's top local news stories and latest weather forecast.",
-      "date": "2012",
-      "language": "en",
-      "categories": [
-        "News",
-        "Weather"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p9380798_b_h10_ab.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-06-02T21:30:00+05:00",
       "stop": "2026-06-02T22:00:00+05:00",
       "title": "Save My Reno",
@@ -254,6 +146,131 @@
           "Peter Bergman",
           "Eric Braeden",
           "Christel Khalil"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-03T02:00:00+05:00",
+      "stop": "2026-06-03T03:00:00+05:00",
+      "title": "Global News at 5",
+      "desc": "Greater Toronto's top local news stories and latest weather forecast.",
+      "date": "2024",
+      "language": "en",
+      "categories": [
+        "News",
+        "Weather"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p28243562_b_h10_aa.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-06-03T03:00:00+05:00",
+      "stop": "2026-06-03T03:30:00+05:00",
+      "title": "Global News at 6",
+      "desc": "Greater Toronto's top local news stories and latest weather forecast.",
+      "date": "2012",
+      "language": "en",
+      "categories": [
+        "News",
+        "Weather"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p9123094_b_h10_ab.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-06-03T03:30:00+05:00",
+      "stop": "2026-06-03T04:00:00+05:00",
+      "title": "Global National",
+      "desc": "The top stories from around the world.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Series",
+        "News"
+      ],
+      "episode": "E153",
+      "icon": "http://dtil.tmsimg.com/assets/p185876_b_h8_ae.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Dawna Friesen"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-03T04:00:00+05:00",
+      "stop": "2026-06-03T04:30:00+05:00",
+      "title": "The Goldbergs",
+      "sub_title": "Who's Afraid of Brea Bee?",
+      "desc": "Beverly involves herself in Erica and Barry's relationships; Adam and Brea are cast opposite of each other in the school play, but their excitement for one another's success grows dim when one starts to outshine the other onstage.",
+      "date": "2021",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Sitcom"
+      ],
+      "episode": "S8 E17",
+      "icon": "http://dtil.tmsimg.com/assets/p9977319_b_h8_by.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Lew Schneider"
+        ],
+        "actor": [
+          "Wendi McLendon-Covey",
+          "Patton Oswalt",
+          "Sean Giambrone"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-03T04:30:00+05:00",
+      "stop": "2026-06-03T05:00:00+05:00",
+      "title": "Entertainment Tonight",
+      "sub_title": "ET's Nashville Week; ET On-Set Exclusive",
+      "desc": "P!nk (79th Annual Tony Awards); Matt and Ross Duffer (\"Stranger Things\") receive the Visionary Tribute at the Gotham TV Awards; Jennifer Lopez and Brett Goldstein (\"Office Romance\"); the Pinnacle -- the Nashville Yards venue where Keith Urban hosts the CMA Touring Awards; the New York set of Mindy Kaling's Hulu comedy \"Not Suitable for Work.\".",
+      "date": "2026",
+      "language": "en",
+      "rating": "M 15+",
+      "categories": [
+        "Series",
+        "Newsmagazine",
+        "Entertainment"
+      ],
+      "episode": "S45 E235",
+      "icon": "http://dtil.tmsimg.com/assets/p184256_b_h8_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Kevin Frazier",
+          "Nischelle Turner",
+          "Rachel Smith"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-03T05:00:00+05:00",
+      "stop": "2026-06-03T06:00:00+05:00",
+      "title": "NCIS",
+      "sub_title": "Knick-Knack",
+      "desc": "A murder aboard a museum ship becomes a cryptic treasure hunt when a dying Navy captain leaves a final clue; to solve it, the team must decode what was worth killing -- and dying -- for.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "Series",
+        "Crime drama",
+        "Action",
+        "Adventure",
+        "Mystery"
+      ],
+      "episode": "S23 E15",
+      "icon": "http://dtil.tmsimg.com/assets/p30698219_b_h8_aa.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Kevin Berlandi"
+        ],
+        "actor": [
+          "Sean Murray",
+          "Wilmer Valderrama",
+          "Brian Dietzen"
         ]
       }
     }

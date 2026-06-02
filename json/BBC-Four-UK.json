@@ -4,14 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-02T09:30:00+05:00",
-      "stop": "2026-06-02T15:30:00+05:00",
-      "title": "..programmes start at 7.00pm",
-      "desc": "BBC Four provides an intelligent mix of arts, science, and history programming, offering deep-dive documentaries and world cinema for a curious audience.",
-      "language": "en",
-      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/BBC-Four-UK.png"
-    },
-    {
       "start": "2026-06-02T15:30:00+05:00",
       "stop": "2026-06-02T21:30:00+05:00",
       "title": "..programmes start at 7.00pm",
@@ -130,6 +122,18 @@
         "Factual"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/5f1627d2-2be0-4624-9e32-5964ced44414/16-9"
+    },
+    {
+      "start": "2026-06-03T04:30:00+05:00",
+      "stop": "2026-06-03T05:20:00+05:00",
+      "title": "Muhammad Ali",
+      "desc": "Muhammad Ali is banished from boxing for refusing induction into the army. Contains some strong language.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Factual"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/1b277f17-f68a-4413-aa6f-e3dafaab88b1/16-9"
     }
   ]
 }

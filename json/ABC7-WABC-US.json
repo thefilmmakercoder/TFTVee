@@ -4,102 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-02T15:00:00+05:00",
-      "stop": "2026-06-02T16:00:00+05:00",
-      "title": "Eyewitness News This Morning",
-      "desc": "News coverage to start the day.",
-      "date": "2007",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p677214_b_h8_ad.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-06-02T16:00:00+05:00",
-      "stop": "2026-06-02T18:00:00+05:00",
-      "title": "Good Morning America",
-      "desc": "Actors Marlon Wayans and Shawn Wayans; head coach Deion Sanders; the bakers behind \"dot cakes\"; Deals & Steals with Tory Johnson.",
-      "date": "2026",
-      "language": "en",
-      "categories": [
-        "Series",
-        "Talk",
-        "News",
-        "Variety",
-        "Public affairs"
-      ],
-      "episode": "E175",
-      "icon": "http://dtil.tmsimg.com/assets/p31385280_b_h10_aa.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "George Stephanopoulos",
-          "Robin Roberts",
-          "Michael Strahan"
-        ]
-      }
-    },
-    {
-      "start": "2026-06-02T18:00:00+05:00",
-      "stop": "2026-06-02T19:00:00+05:00",
-      "title": "Live with Kelly and Mark",
-      "sub_title": "Summer Survival Guide",
-      "desc": "Marlon Wayans drops by; the Scripps National Spelling Bee Champion is here; Live's \"Summer Survival Guide\" series continues with tips on surviving summer bites from Dr. Doris Day!",
-      "date": "2026",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Series",
-        "Talk"
-      ],
-      "episode": "S4 E197",
-      "icon": "http://dtil.tmsimg.com/assets/p24324378_b_h8_ab.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Kelly Ripa",
-          "Mark Consuelos",
-          "Marlon Wayans"
-        ]
-      }
-    },
-    {
-      "start": "2026-06-02T19:00:00+05:00",
-      "stop": "2026-06-02T20:00:00+05:00",
-      "title": "Eyewitness News Mornings at 10",
-      "desc": "Stay informed with the latest breaking news and headlines.",
-      "date": "2023",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p25568169_b_h8_aa.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-06-02T20:00:00+05:00",
-      "stop": "2026-06-02T21:00:00+05:00",
-      "title": "The View",
-      "desc": "Former first lady Jill Biden.",
-      "date": "2026",
-      "language": "en",
-      "rating": "TV14",
-      "categories": [
-        "Series",
-        "Talk"
-      ],
-      "episode": "S29 E172",
-      "icon": "http://dtil.tmsimg.com/assets/p31138947_b_h8_aa.jpg?w=960&h=540",
-      "credits": {
-        "director": [
-          "Sarah de la O"
-        ],
-        "actor": [
-          "Whoopi Goldberg",
-          "Joy Behar",
-          "Sunny Hostin"
-        ]
-      }
-    },
-    {
       "start": "2026-06-02T21:00:00+05:00",
       "stop": "2026-06-02T22:00:00+05:00",
       "title": "Eyewitness News at Noon",
@@ -215,6 +119,92 @@
         "News"
       ],
       "icon": "http://dtil.tmsimg.com/assets/p13769035_b_h8_ab.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-06-03T03:30:00+05:00",
+      "stop": "2026-06-03T04:00:00+05:00",
+      "title": "ABC World News Tonight With David Muir",
+      "desc": "Delivering the news that matters most.",
+      "date": "2026",
+      "language": "en",
+      "categories": [
+        "Series",
+        "News"
+      ],
+      "episode": "E153",
+      "icon": "http://dtil.tmsimg.com/assets/p10880351_b_h8_ah.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "David Muir"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-03T04:00:00+05:00",
+      "stop": "2026-06-03T04:30:00+05:00",
+      "title": "Jeopardy!",
+      "desc": "The Emmy-winning quiz show features a unique answer-and-question format.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Series",
+        "Game show"
+      ],
+      "episode": "S42 E192",
+      "icon": "http://dtil.tmsimg.com/assets/p184056_b_h10_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Ken Jennings"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-03T04:30:00+05:00",
+      "stop": "2026-06-03T05:00:00+05:00",
+      "title": "Wheel of Fortune",
+      "sub_title": "Drink in America Presented by Coca-Cola",
+      "desc": "In a classic game-show version of \"Hangman,\" contestants solve word puzzles for cash and prizes.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Series",
+        "Game show"
+      ],
+      "episode": "S43 E192",
+      "icon": "http://dtil.tmsimg.com/assets/p184057_b_h8_ai.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Ryan Seacrest",
+          "Vanna White"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-03T05:00:00+05:00",
+      "stop": "2026-06-03T08:00:00+05:00",
+      "title": "Live: 2026 Stanley Cup Final",
+      "desc": "The Hurricanes and Golden Knights clash in Game 1 of the best-of-seven Stanley Cup Final. Carolina brings a stellar 12-1 playoff record into the series, while Vegas responds with a 12-5 postseason mark after sweeping its prior round.",
+      "language": "en",
+      "categories": [
+        "Sports",
+        "Playoff sports",
+        "Hockey"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/GNLZZGG0034SJL5.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-06-03T08:00:00+05:00",
+      "stop": "2026-06-03T08:35:00+05:00",
+      "title": "Eyewitness News at 11",
+      "desc": "Breaking news.",
+      "date": "2017",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p13769039_b_h8_ab.jpg?w=960&h=540"
     }
   ]
 }

@@ -4,63 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-02T16:30:00+05:00",
-      "stop": "2026-06-02T17:00:00+05:00",
-      "title": "TMZ",
-      "desc": "TMZ TV tracks down today's hottest stars with their cameras, whether they are hitting the clubs or the dry cleaners.",
-      "date": "2026",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Series",
-        "Newsmagazine",
-        "Entertainment"
-      ],
-      "episode": "S19 E235",
-      "icon": "http://dtil.tmsimg.com/assets/p30985766_b_h10_aa.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Harvey Levin"
-        ]
-      }
-    },
-    {
-      "start": "2026-06-02T17:00:00+05:00",
-      "stop": "2026-06-02T18:00:00+05:00",
-      "title": "Good Day LA at 5am",
-      "desc": "Morning news coverage.",
-      "date": "2019",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p16719270_b_h8_ab.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-06-02T18:00:00+05:00",
-      "stop": "2026-06-02T19:00:00+05:00",
-      "title": "Good Day LA at 6am",
-      "desc": "Morning news coverage.",
-      "date": "2019",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p16719279_b_h8_ab.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-06-02T19:00:00+05:00",
-      "stop": "2026-06-02T21:00:00+05:00",
-      "title": "Good Day LA at 7am",
-      "desc": "Morning news coverage.",
-      "date": "2012",
-      "language": "en",
-      "categories": [
-        "Talk"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p9542652_b_h8_ac.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-06-02T21:00:00+05:00",
       "stop": "2026-06-02T22:00:00+05:00",
       "title": "Good Day LA at 9am",
@@ -211,6 +154,63 @@
           "Terri Seymour"
         ]
       }
+    },
+    {
+      "start": "2026-06-03T04:00:00+05:00",
+      "stop": "2026-06-03T05:00:00+05:00",
+      "title": "TMZ Live",
+      "desc": "A candid look at how the gossip site operates, bringing viewers into the site's newsroom, where the daily chats take place; viewers present their opinions on the featured topics through social media, phone calls and video chat.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Newsmagazine",
+        "Entertainment"
+      ],
+      "episode": "S14 E197",
+      "icon": "http://dtil.tmsimg.com/assets/p9132568_b_h10_ab.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Harvey Levin"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-03T05:00:00+05:00",
+      "stop": "2026-06-03T06:00:00+05:00",
+      "title": "FOX 11 News at 5pm",
+      "desc": "Latest local and regional news.",
+      "date": "2016",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p12829248_b_h8_ae.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-06-03T06:00:00+05:00",
+      "stop": "2026-06-03T06:30:00+05:00",
+      "title": "FOX 11 News at 6pm",
+      "desc": "Local and regional news coverage.",
+      "date": "2020",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p18140393_b_h8_ad.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-06-03T06:30:00+05:00",
+      "stop": "2026-06-03T07:00:00+05:00",
+      "title": "Live: West Coast News Wrap",
+      "desc": "Stay informed with the latest breaking news and headlines.",
+      "date": "2026",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p32049696_b_h10_aa.jpg?w=960&h=540"
     }
   ]
 }

@@ -4,64 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-02T16:30:00+05:00",
-      "stop": "2026-06-02T17:00:00+05:00",
-      "title": "CBS News Mornings",
-      "desc": "CBS News Mornings broadcasts on weekdays and offers viewers up-to-date news, comprehensive weather forecasts, and highlights from the world of sports.",
-      "date": "2024",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p27236437_b_h8_ab.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-06-02T17:00:00+05:00",
-      "stop": "2026-06-02T18:00:00+05:00",
-      "title": "CBS LA Mornings at 5am",
-      "desc": "Start your day with CBS LA Mornings, covering breaking stories from The Desk, and NEXT Weather and Traffic for Southern California.",
-      "date": "2025",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p31308781_b_h10_aa.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-06-02T18:00:00+05:00",
-      "stop": "2026-06-02T19:00:00+05:00",
-      "title": "CBS LA Mornings at 6am",
-      "desc": "Start your day with CBS LA Mornings, covering breaking stories from The Desk, and NEXT Weather and Traffic for Southern California.",
-      "date": "2025",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p31308548_b_h10_aa.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-06-02T19:00:00+05:00",
-      "stop": "2026-06-02T21:00:00+05:00",
-      "title": "CBS Mornings",
-      "desc": "Former Vice President Mike Pence; singer-songwriter P!nk; economist Roland Fryer.",
-      "date": "2026",
-      "language": "en",
-      "categories": [
-        "Series",
-        "Talk",
-        "News"
-      ],
-      "episode": "E109",
-      "icon": "http://dtil.tmsimg.com/assets/p20589677_b_h8_ai.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Gayle King",
-          "Tony Dokoupil",
-          "Nate Burleson"
-        ]
-      }
-    },
-    {
       "start": "2026-06-02T21:00:00+05:00",
       "stop": "2026-06-02T22:00:00+05:00",
       "title": "Let's Make a Deal",
@@ -228,6 +170,74 @@
           "Juliette Lewis"
         ]
       }
+    },
+    {
+      "start": "2026-06-03T03:00:00+05:00",
+      "stop": "2026-06-03T03:30:00+05:00",
+      "title": "Judge Judy",
+      "sub_title": "Breast Implant Payback!; Flooding With a Purpose?",
+      "desc": "A man sues his ex for repayment of a loan to have breast augmentation surgery; a landlord accuses a family of intentionally vandalizing a pipe and creating a flood.",
+      "date": "2015",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Reality",
+        "Law"
+      ],
+      "episode": "S19 E219",
+      "icon": "http://dtil.tmsimg.com/assets/p184382_b_h8_af.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Judy Sheindlin"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-03T03:30:00+05:00",
+      "stop": "2026-06-03T04:00:00+05:00",
+      "title": "Judge Judy",
+      "sub_title": "9 Grams of Marijuana; Where Did the Love Go?",
+      "desc": "A woman sues a friend who was busted for marijuana possession, causing her car to be impounded by police; a man says his ex-lover's generous gifts turned into loans when they broke up.",
+      "date": "2015",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Reality",
+        "Law"
+      ],
+      "episode": "S19 E117",
+      "icon": "http://dtil.tmsimg.com/assets/p184382_b_h8_af.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Judy Sheindlin"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-03T04:00:00+05:00",
+      "stop": "2026-06-03T05:00:00+05:00",
+      "title": "CBS LA at 4pm",
+      "desc": "Join the CBS LA team for stories from communities around SoCal, breaking news from The Desk, and NEXT Weather from the Weathersphere.",
+      "date": "2025",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p31317859_b_h10_aa.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-06-03T05:00:00+05:00",
+      "stop": "2026-06-03T06:00:00+05:00",
+      "title": "CBS LA at 5pm",
+      "desc": "Join the CBS LA team for stories from communities around SoCal, breaking news from The Desk, and NEXT Weather from the Weathersphere.",
+      "date": "2025",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p31308569_b_h10_aa.jpg?w=960&h=540"
     }
   ]
 }
