@@ -4,30 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-02T13:30:00+05:00",
-      "stop": "2026-06-02T14:00:00+05:00",
-      "title": "PIX11 Morning News at 4:30am",
-      "desc": "Staying informed with the news and headlines.",
-      "date": "2018",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p16250980_b_h8_ab.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-06-02T14:00:00+05:00",
-      "stop": "2026-06-02T15:00:00+05:00",
-      "title": "PIX11 Morning News at 5am",
-      "desc": "Staying informed with the news and headlines.",
-      "date": "2016",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p12803754_b_h8_ab.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-06-02T15:00:00+05:00",
       "stop": "2026-06-02T16:00:00+05:00",
       "title": "PIX11 Morning News at 6am",
@@ -220,6 +196,40 @@
           "Whitney Kumar"
         ]
       }
+    },
+    {
+      "start": "2026-06-03T00:00:00+05:00",
+      "stop": "2026-06-03T00:30:00+05:00",
+      "title": "Live PD Presents",
+      "desc": "WPIX provides essential New York news, live sports, and CW network hits, serving as a cornerstone of local broadcasting for the tri-state area.",
+      "date": "2025",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "Series",
+        "Reality",
+        "Law",
+        "Crime"
+      ],
+      "episode": "S1 E45",
+      "icon": "http://dtil.tmsimg.com/assets/p31045528_b_h8_aa.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-06-03T00:30:00+05:00",
+      "stop": "2026-06-03T01:00:00+05:00",
+      "title": "Live PD Presents",
+      "desc": "WPIX provides essential New York news, live sports, and CW network hits, serving as a cornerstone of local broadcasting for the tri-state area.",
+      "date": "2025",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "Series",
+        "Reality",
+        "Law",
+        "Crime"
+      ],
+      "episode": "S1 E46",
+      "icon": "http://dtil.tmsimg.com/assets/p31045528_b_h8_aa.jpg?w=960&h=540"
     }
   ]
 }

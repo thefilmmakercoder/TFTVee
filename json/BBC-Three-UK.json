@@ -4,14 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-02T08:00:00+05:00",
-      "stop": "2026-06-02T09:30:00+05:00",
-      "title": "This is BBC Three",
-      "desc": "Programmes start at 7.00pm.",
-      "language": "en",
-      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/BBC-Three-UK.png"
-    },
-    {
       "start": "2026-06-02T09:30:00+05:00",
       "stop": "2026-06-02T15:30:00+05:00",
       "title": "..programmes start at 7.00pm",
@@ -124,6 +116,18 @@
         "Factual"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/c1db63ed-d965-47a9-bf49-e4679fd2bc5b/16-9"
+    },
+    {
+      "start": "2026-06-03T07:00:00+05:00",
+      "stop": "2026-06-03T08:00:00+05:00",
+      "title": "Louis Theroux: Life on the Edge",
+      "desc": "3/4. Louis Theroux reflects on the documentaries he has made about the American criminal justice system. Contains very strong language and upsetting scenes.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Factual"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/75211317-31fb-47c4-b685-69544519ba11/16-9"
     }
   ]
 }

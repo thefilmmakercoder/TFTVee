@@ -4,14 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-02T07:45:00+05:00",
-      "stop": "2026-06-02T09:30:00+05:00",
-      "title": "This is BBC Four",
-      "desc": "Programmes start at 7.00pm.",
-      "language": "en",
-      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/BBC-Four-UK.png"
-    },
-    {
       "start": "2026-06-02T09:30:00+05:00",
       "stop": "2026-06-02T15:30:00+05:00",
       "title": "..programmes start at 7.00pm",
@@ -126,6 +118,18 @@
         "Factual"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/b4569ae7-6235-445c-ae51-16fadd7464b7/16-9"
+    },
+    {
+      "start": "2026-06-03T03:40:00+05:00",
+      "stop": "2026-06-03T04:30:00+05:00",
+      "title": "Muhammad Ali",
+      "desc": "Cassius Clay publicly joins the Nation of Islam and takes the name Muhammad Ali. In 1967, he becomes eligible for the Vietnam draft.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Factual"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/5f1627d2-2be0-4624-9e32-5964ced44414/16-9"
     }
   ]
 }

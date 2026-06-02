@@ -4,30 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-02T07:05:00+05:00",
-      "stop": "2026-06-02T11:00:00+05:00",
-      "title": "Teleshopping",
-      "desc": "Teleshopping.",
-      "language": "en",
-      "categories": [
-        "Specialist",
-        "Shopping"
-      ],
-      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/Film-4-UK.png"
-    },
-    {
-      "start": "2026-06-02T11:00:00+05:00",
-      "stop": "2026-06-02T15:00:00+05:00",
-      "title": "Teleshopping",
-      "desc": "Teleshopping.",
-      "language": "en",
-      "categories": [
-        "Specialist",
-        "Shopping"
-      ],
-      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/Film-4-UK.png"
-    },
-    {
       "start": "2026-06-02T15:00:00+05:00",
       "stop": "2026-06-02T16:55:00+05:00",
       "title": "The Rare Breed",
@@ -160,6 +136,34 @@
         "Shopping"
       ],
       "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/Film-4-UK.png"
+    },
+    {
+      "start": "2026-06-03T15:00:00+05:00",
+      "stop": "2026-06-03T16:35:00+05:00",
+      "title": "The Yellow Mountain",
+      "desc": "Western. Lex Barker and Howard Duff star as prospectors whose friendship is tested when a promising seam of the gold is discovered in a Nevada mountain. With Mala Powers.",
+      "date": "1954",
+      "language": "en",
+      "rating": "U",
+      "categories": [
+        "Movie",
+        "Western"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/72cb75fe-204a-42cd-ae13-1a0ef4e52128/16-9"
+    },
+    {
+      "start": "2026-06-03T16:35:00+05:00",
+      "stop": "2026-06-03T18:20:00+05:00",
+      "title": "Arizona Raiders",
+      "desc": "William Whitney's brutal western. Two former Confederate rebels are offered their freedom if they can track, catch or even kill their former gang mates. Starring Audie Murphy.",
+      "date": "1965",
+      "language": "en",
+      "rating": "PG",
+      "categories": [
+        "Movie",
+        "Western"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/8116a366-d132-4da9-ad1d-a7f48d77e62c/16-9"
     }
   ]
 }

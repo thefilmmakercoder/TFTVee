@@ -4,46 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-02T13:00:00+05:00",
-      "stop": "2026-06-02T14:00:00+05:00",
-      "title": "Seven News",
-      "sub_title": "Tuesday 2 June 2026",
-      "desc": "Seven News live coverage of local, national and international news, plus sport, finance and weather updates. Go to 7NEWS.com.au today for more live updates.",
-      "language": "en",
-      "rating": "NR",
-      "categories": [
-        "News"
-      ],
-      "episode": "S26 E153",
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/132538/image/334x188"
-    },
-    {
-      "start": "2026-06-02T14:00:00+05:00",
-      "stop": "2026-06-02T14:30:00+05:00",
-      "title": "Home and Away",
-      "desc": "Eden has second thoughts. Dana and Alf work together. Is Justin in danger?",
-      "language": "en",
-      "rating": "PG",
-      "categories": [
-        "Drama"
-      ],
-      "episode": "S38 E90",
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/132225/image/334x188"
-    },
-    {
-      "start": "2026-06-02T14:30:00+05:00",
-      "stop": "2026-06-02T16:15:00+05:00",
-      "title": "My Reno Rules",
-      "desc": "The dream becomes reality as the teams race to the finish line. After months of hard work, which team will take home the ultimate prize of one million dollars.",
-      "language": "en",
-      "rating": "PG",
-      "categories": [
-        "Special Interest"
-      ],
-      "episode": "S1 E8",
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/19114975/image/334x188"
-    },
-    {
       "start": "2026-06-02T16:15:00+05:00",
       "stop": "2026-06-02T17:15:00+05:00",
       "title": "House Of Wellness",
@@ -156,6 +116,48 @@
         "News"
       ],
       "icon": "https://www.fetchtv.com.au/v2/epg/program/3647443/image/334x188"
+    },
+    {
+      "start": "2026-06-02T23:00:00+05:00",
+      "stop": "2026-06-03T00:00:00+05:00",
+      "title": "NBC Today",
+      "sub_title": "Wednesday 3 June 2026",
+      "desc": "International news and weather including interviews with newsmakers in the world of politics, business, media, entertainment and sport.",
+      "language": "en",
+      "rating": "NR",
+      "categories": [
+        "News"
+      ],
+      "episode": "S26 E153",
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/132440/image/334x188"
+    },
+    {
+      "start": "2026-06-03T00:00:00+05:00",
+      "stop": "2026-06-03T00:30:00+05:00",
+      "title": "Sunrise Early News",
+      "sub_title": "Wednesday 3 June 2026",
+      "desc": "Wake up to a better breakfast with Edwina Bartholomew for all the latest news, sport and weather.",
+      "language": "en",
+      "rating": "NR",
+      "categories": [
+        "News"
+      ],
+      "episode": "S26 E110",
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/434344/image/334x188"
+    },
+    {
+      "start": "2026-06-03T00:30:00+05:00",
+      "stop": "2026-06-03T01:00:00+05:00",
+      "title": "Sunrise",
+      "sub_title": "Wednesday 3 June 2026",
+      "desc": "Wake up to a better breakfast with Natalie Barr and Matt Shirvington for all the latest news, sport and weather.",
+      "language": "en",
+      "rating": "NR",
+      "categories": [
+        "Special Interest"
+      ],
+      "episode": "S26 E110",
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/17537860/image/334x188"
     }
   ]
 }

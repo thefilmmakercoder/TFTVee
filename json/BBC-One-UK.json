@@ -4,53 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-02T10:00:00+05:00",
-      "stop": "2026-06-02T13:30:00+05:00",
-      "title": "Breakfast",
-      "desc": "The latest news, sport, business and weather from the BBC's Breakfast team.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/d6303403-c34f-4521-98ea-153a30610b5e/16-9"
-    },
-    {
-      "start": "2026-06-02T13:30:00+05:00",
-      "stop": "2026-06-02T14:45:00+05:00",
-      "title": "Morning Live",
-      "desc": "Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier.",
-      "language": "en",
-      "categories": [
-        "Entertainment"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/1b2eb366-6ffd-472d-a8cc-8dbab8d6251d/16-9"
-    },
-    {
-      "start": "2026-06-02T14:45:00+05:00",
-      "stop": "2026-06-02T15:15:00+05:00",
-      "title": "Doorbell Detectives",
-      "desc": "Shaz discovers a man intercepting deliveries on his doorstep, pretending to be him.",
-      "language": "en",
-      "categories": [
-        "Entertainment",
-        "Factual"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/7316d144-7df5-4fa2-b067-3a29cc15a53a/16-9"
-    },
-    {
-      "start": "2026-06-02T15:15:00+05:00",
-      "stop": "2026-06-02T16:15:00+05:00",
-      "title": "Homes Under the Hammer",
-      "desc": "Martin meets someone in Devon who is trading his gym membership for manual labour.",
-      "language": "en",
-      "categories": [
-        "Entertainment",
-        "Factual"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/d6ce21f2-e6cf-4052-8d9e-aeb089f7a0e7/16-9"
-    },
-    {
       "start": "2026-06-02T16:15:00+05:00",
       "stop": "2026-06-02T17:00:00+05:00",
       "title": "Bargain Hunt",
@@ -145,6 +98,54 @@
         "Game Show"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/d8eb197a-7f18-33c5-a5d6-952a6dae464d/16-9"
+    },
+    {
+      "start": "2026-06-02T22:00:00+05:00",
+      "stop": "2026-06-02T22:30:00+05:00",
+      "title": "BBC News",
+      "desc": "The latest national and international news from the BBC.",
+      "language": "en",
+      "categories": [
+        "News & Documentary",
+        "News"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/02acecee-eed4-45fe-8696-773030408cdb/16-9"
+    },
+    {
+      "start": "2026-06-02T22:30:00+05:00",
+      "stop": "2026-06-02T23:00:00+05:00",
+      "title": "BBC London News",
+      "desc": "The latest news, sport and weather from London.",
+      "language": "en",
+      "categories": [
+        "News & Documentary",
+        "News"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/9f4ea292-df4f-4b74-a5e0-420235fd355c/16-9"
+    },
+    {
+      "start": "2026-06-02T23:00:00+05:00",
+      "stop": "2026-06-02T23:30:00+05:00",
+      "title": "The One Show",
+      "desc": "Alex Jones and Roman Kemp bring you the stories that matter from across the country.",
+      "language": "en",
+      "categories": [
+        "Entertainment"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/94017d03-d7f5-430f-87c5-a3f235447f5d/16-9"
+    },
+    {
+      "start": "2026-06-02T23:30:00+05:00",
+      "stop": "2026-06-03T00:00:00+05:00",
+      "title": "EastEnders",
+      "sub_title": "Ian's world comes crashing down",
+      "desc": "Max shocks Cindy.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Soap"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/c31de0c4-a692-4922-a58d-9c13058d42be/16-9"
     }
   ]
 }

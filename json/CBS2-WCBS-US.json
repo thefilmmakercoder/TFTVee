@@ -4,30 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-02T13:30:00+05:00",
-      "stop": "2026-06-02T14:00:00+05:00",
-      "title": "CBS News New York This Morning 4:30am",
-      "desc": "News coverage to start the day.",
-      "date": "2020",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p18809050_b_h8_ac.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-06-02T14:00:00+05:00",
-      "stop": "2026-06-02T15:00:00+05:00",
-      "title": "CBS News New York This Morning 5am",
-      "desc": "News coverage to start the day.",
-      "date": "2020",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p18809052_b_h8_ac.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-06-02T15:00:00+05:00",
       "stop": "2026-06-02T16:00:00+05:00",
       "title": "CBS News New York This Morning 6am",
@@ -227,6 +203,50 @@
           "Clifton Davis",
           "Tamara Tunie",
           "Daphnee Duplaix"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-03T00:00:00+05:00",
+      "stop": "2026-06-03T00:30:00+05:00",
+      "title": "Judge Judy",
+      "sub_title": "Breast Implant Payback!; Flooding With a Purpose?",
+      "desc": "A man sues his ex for repayment of a loan to have breast augmentation surgery; a landlord accuses a family of intentionally vandalizing a pipe and creating a flood.",
+      "date": "2015",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Reality",
+        "Law"
+      ],
+      "episode": "S19 E219",
+      "icon": "http://dtil.tmsimg.com/assets/p184382_b_h8_af.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Judy Sheindlin"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-03T00:30:00+05:00",
+      "stop": "2026-06-03T01:00:00+05:00",
+      "title": "Judge Judy",
+      "sub_title": "9 Grams of Marijuana; Where Did the Love Go?",
+      "desc": "A woman sues a friend who was busted for marijuana possession, causing her car to be impounded by police; a man says his ex-lover's generous gifts turned into loans when they broke up.",
+      "date": "2015",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Reality",
+        "Law"
+      ],
+      "episode": "S19 E117",
+      "icon": "http://dtil.tmsimg.com/assets/p184382_b_h8_af.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Judy Sheindlin"
         ]
       }
     }
