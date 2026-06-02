@@ -4,30 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-02T05:20:00+05:00",
-      "stop": "2026-06-02T05:25:00+05:00",
-      "title": "Weather for the Week Ahead",
-      "desc": "Detailed weather forecast.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/b6fbee21-3b80-4d4f-b907-f51ed5b877f9/16-9"
-    },
-    {
-      "start": "2026-06-02T05:25:00+05:00",
-      "stop": "2026-06-02T10:00:00+05:00",
-      "title": "BBC News",
-      "desc": "BBC One joins the BBC's rolling news channel for a night of news.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/a760efb8-0e1d-4908-9e72-93973d3da6ee/16-9"
-    },
-    {
       "start": "2026-06-02T10:00:00+05:00",
       "stop": "2026-06-02T13:30:00+05:00",
       "title": "Breakfast",
@@ -145,6 +121,30 @@
         "Gradening"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/368c59cd-5a37-454d-b4b0-2ca01fdbbce6/16-9"
+    },
+    {
+      "start": "2026-06-02T20:30:00+05:00",
+      "stop": "2026-06-02T21:15:00+05:00",
+      "title": "Bridge of Lies",
+      "desc": "Friends Mohsin, Gus, Amir and Ayoub take on the Bridge of Lies. One by one, they must cross the Bridge, stepping on the truths and avoiding the lies.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Game Show"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/c10d2a5b-48bc-4237-b297-d899195da62f/16-9"
+    },
+    {
+      "start": "2026-06-02T21:15:00+05:00",
+      "stop": "2026-06-02T22:00:00+05:00",
+      "title": "Pointless",
+      "desc": "Alexander Armstrong is joined by co-host Ria Lina for the brainy quiz where contestants score points by coming up with the answers no-one else could think of.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Game Show"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/d8eb197a-7f18-33c5-a5d6-952a6dae464d/16-9"
     }
   ]
 }
