@@ -4,54 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-02T22:00:00+05:00",
-      "stop": "2026-06-02T22:30:00+05:00",
-      "title": "BBC News",
-      "desc": "The latest national and international news from the BBC.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/02acecee-eed4-45fe-8696-773030408cdb/16-9"
-    },
-    {
-      "start": "2026-06-02T22:30:00+05:00",
-      "stop": "2026-06-02T23:00:00+05:00",
-      "title": "BBC London News",
-      "desc": "The latest news, sport and weather from London.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/9f4ea292-df4f-4b74-a5e0-420235fd355c/16-9"
-    },
-    {
-      "start": "2026-06-02T23:00:00+05:00",
-      "stop": "2026-06-02T23:30:00+05:00",
-      "title": "The One Show",
-      "desc": "Alex Jones and Roman Kemp bring you the stories that matter from across the country.",
-      "language": "en",
-      "categories": [
-        "Entertainment"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/94017d03-d7f5-430f-87c5-a3f235447f5d/16-9"
-    },
-    {
-      "start": "2026-06-02T23:30:00+05:00",
-      "stop": "2026-06-03T00:00:00+05:00",
-      "title": "EastEnders",
-      "sub_title": "Ian's world comes crashing down",
-      "desc": "Max shocks Cindy.",
-      "language": "en",
-      "categories": [
-        "Entertainment",
-        "Soap"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/c31de0c4-a692-4922-a58d-9c13058d42be/16-9"
-    },
-    {
       "start": "2026-06-03T00:00:00+05:00",
       "stop": "2026-06-03T01:00:00+05:00",
       "title": "Interior Design Masters with Alan Carr",
@@ -144,6 +96,53 @@
         "News"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/3232a0c5-a8e2-44bb-acbb-e40fe34883f2/16-9"
+    },
+    {
+      "start": "2026-06-03T10:00:00+05:00",
+      "stop": "2026-06-03T13:30:00+05:00",
+      "title": "Breakfast",
+      "desc": "The latest news, sport, business and weather from the BBC's Breakfast team.",
+      "language": "en",
+      "categories": [
+        "News & Documentary",
+        "News"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/4dc5560d-0a56-45ee-99ed-ed076ddfead7/16-9"
+    },
+    {
+      "start": "2026-06-03T13:30:00+05:00",
+      "stop": "2026-06-03T14:45:00+05:00",
+      "title": "Morning Live",
+      "desc": "Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier.",
+      "language": "en",
+      "categories": [
+        "Entertainment"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/b8fde612-9acd-45d9-a837-d886bc4abcad/16-9"
+    },
+    {
+      "start": "2026-06-03T14:45:00+05:00",
+      "stop": "2026-06-03T15:15:00+05:00",
+      "title": "Doorbell Detectives",
+      "desc": "Cheryl turns doorbell detective when she discovers a dodgy duo taking her kid's bike from the garden. James confronts the fly-tippers captured by his cameras.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Factual"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/91d09d03-f48d-44e7-9549-6b04120fea27/16-9"
+    },
+    {
+      "start": "2026-06-03T15:15:00+05:00",
+      "stop": "2026-06-03T16:15:00+05:00",
+      "title": "Homes Under the Hammer",
+      "desc": "Dion's in Derbyshire to meet a couple determined to connect a characterful cottage with a beautiful garden to create their dream home.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Factual"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/8e6c84e9-a699-420f-87c4-fe6c76786f23/16-9"
     }
   ]
 }

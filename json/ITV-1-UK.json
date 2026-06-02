@@ -4,54 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-02T22:00:00+05:00",
-      "stop": "2026-06-02T22:30:00+05:00",
-      "title": "ITV News London",
-      "desc": "The latest news and weather from London and the South East.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/f1b23b23-59ff-4bb9-b9ee-7761abb77b35/16-9"
-    },
-    {
-      "start": "2026-06-02T22:30:00+05:00",
-      "stop": "2026-06-02T23:30:00+05:00",
-      "title": "ITV Evening News",
-      "desc": "National and international news with reports and analysis from ITV's Correspondents in the UK and around the world, plus a focus on the stories that matter to you.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/090c4c8a-8c60-460e-8f45-f5b2d115de70/16-9"
-    },
-    {
-      "start": "2026-06-02T23:30:00+05:00",
-      "stop": "2026-06-03T00:00:00+05:00",
-      "title": "Millionaire Hot Seat",
-      "desc": "Jeremy Clarkson hosts the quiz where six players race to answer timed questions and hope to win one million pounds, but it all comes down to who's in the Hot Seat at the end.",
-      "language": "en",
-      "categories": [
-        "Entertainment",
-        "Game Show"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/f3312036-f20b-456c-8e2a-67b1257fa639/16-9"
-    },
-    {
-      "start": "2026-06-03T00:00:00+05:00",
-      "stop": "2026-06-03T00:30:00+05:00",
-      "title": "Emmerdale",
-      "desc": "Ross is chuffed to contemplate another night with Laurel. Kim is suspicions about Sam's behaviour continue to grow. Chas and Charity hatch a plan to rob the Home Farm safe.",
-      "language": "en",
-      "categories": [
-        "Entertainment",
-        "Soap"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/99090d2e-92a8-49a8-93cb-fb25b9aaeb22/16-9"
-    },
-    {
       "start": "2026-06-03T00:30:00+05:00",
       "stop": "2026-06-03T01:00:00+05:00",
       "title": "Coronation Street",
@@ -149,6 +101,54 @@
         "Factual"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/730c34f6-4dcd-3cff-bc04-79c6542aede3/16-9"
+    },
+    {
+      "start": "2026-06-03T07:50:00+05:00",
+      "stop": "2026-06-03T09:05:00+05:00",
+      "title": "Unwind with ITV",
+      "desc": "Your daily escape designed to calm the mind and encourage relaxation and reflection.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Lifestyles"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/ed652cd0-2d1d-41da-b6b6-8e89d16d09ad/16-9"
+    },
+    {
+      "start": "2026-06-03T09:05:00+05:00",
+      "stop": "2026-06-03T10:00:00+05:00",
+      "title": "Celebrity Sabotage",
+      "desc": "The final episode of the series sees the celebs take on 'The Backstabber' - a haunting reality show hosted by Rylan Clark. Plus, Fay Ripley is the rebellious Guest Saboteur.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Game Show"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/79d61a51-9d4c-4ae4-921f-3fb700c9d3bf/16-9"
+    },
+    {
+      "start": "2026-06-03T10:00:00+05:00",
+      "stop": "2026-06-03T13:30:00+05:00",
+      "title": "Good Morning Britain",
+      "desc": "News, current affairs and lively debate.",
+      "language": "en",
+      "categories": [
+        "News & Documentary",
+        "News"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/4051a8ea-c2db-403e-b917-057f215b12a1/16-9"
+    },
+    {
+      "start": "2026-06-03T13:30:00+05:00",
+      "stop": "2026-06-03T14:00:00+05:00",
+      "title": "Lorraine",
+      "desc": "Lorraine Kelly presents a topical mix of entertainment, discussion and showbiz glamour as well as the latest fashion, food and celebrity gossip.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Magazine"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/de8964f7-723f-4392-b130-3a2f05b6a2df/16-9"
     }
   ]
 }
