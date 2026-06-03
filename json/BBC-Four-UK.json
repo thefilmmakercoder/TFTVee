@@ -4,14 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-03T06:50:00+05:00",
-      "stop": "2026-06-03T09:30:00+05:00",
-      "title": "This is BBC Four",
-      "desc": "Programmes start at 7.00pm.",
-      "language": "en",
-      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/BBC-Four-UK.png"
-    },
-    {
       "start": "2026-06-03T09:30:00+05:00",
       "stop": "2026-06-03T15:30:00+05:00",
       "title": "..programmes start at 7.00pm",
@@ -126,6 +118,18 @@
         "Comedy"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/28778eb6-ee6c-3f68-baa2-1552a698c09f/16-9"
+    },
+    {
+      "start": "2026-06-04T04:35:00+05:00",
+      "stop": "2026-06-04T05:30:00+05:00",
+      "title": "A Very Peculiar Practice",
+      "desc": "The axe is about to fall at Lowlands University as 25 per cent cutbacks are announced, turning Stephen's life upside down.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Comedy"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/3267b329-8fe7-3dd7-9e69-0549a90f433a/16-9"
     }
   ]
 }

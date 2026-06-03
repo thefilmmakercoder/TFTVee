@@ -4,30 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-03T07:00:00+05:00",
-      "stop": "2026-06-03T11:00:00+05:00",
-      "title": "Teleshopping",
-      "desc": "Teleshopping.",
-      "language": "en",
-      "categories": [
-        "Specialist",
-        "Shopping"
-      ],
-      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/Film-4-UK.png"
-    },
-    {
-      "start": "2026-06-03T11:00:00+05:00",
-      "stop": "2026-06-03T15:00:00+05:00",
-      "title": "Teleshopping",
-      "desc": "Teleshopping.",
-      "language": "en",
-      "categories": [
-        "Specialist",
-        "Shopping"
-      ],
-      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/Film-4-UK.png"
-    },
-    {
       "start": "2026-06-03T15:00:00+05:00",
       "stop": "2026-06-03T16:35:00+05:00",
       "title": "The Yellow Mountain",
@@ -162,6 +138,34 @@
         "Shopping"
       ],
       "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/Film-4-UK.png"
+    },
+    {
+      "start": "2026-06-04T15:00:00+05:00",
+      "stop": "2026-06-04T16:45:00+05:00",
+      "title": "The Nevadan",
+      "desc": "Western with Randolph Scott and Dorothy Malone. A cunning US Marshal pretends to be a doofus to get a bank robber to take him to the hidden loot.",
+      "date": "1950",
+      "language": "en",
+      "rating": "U",
+      "categories": [
+        "Movie",
+        "Western"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/eca5aa9c-7c6b-4bfc-bb13-ed313ce6d9bb/16-9"
+    },
+    {
+      "start": "2026-06-04T16:45:00+05:00",
+      "stop": "2026-06-04T19:15:00+05:00",
+      "title": "The Caine Mutiny",
+      "desc": "Oscar-nominated Humphrey Bogart, in one of his finest roles, stars in Edward Dmytryk's gripping drama as Captain Philip Queeg, in charge of a US Navy minesweeper during the war.",
+      "date": "1954",
+      "language": "en",
+      "rating": "U",
+      "categories": [
+        "Movie",
+        "Drama"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/4af189a9-1fd7-43df-b5ec-d2ef2683842a/16-9"
     }
   ]
 }
