@@ -4,66 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-03T16:30:00+05:00",
-      "stop": "2026-06-03T17:00:00+05:00",
-      "title": "Today in LA @ 4:30AM",
-      "desc": "The latest local news, weather and investigative stories impacting the community.",
-      "date": "2020",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p18627053_b_h10_ab.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-06-03T17:00:00+05:00",
-      "stop": "2026-06-03T18:00:00+05:00",
-      "title": "Today in LA @ 5AM",
-      "desc": "The latest local news, weather and investigative stories impacting the community.",
-      "date": "2020",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p18627056_b_h10_ab.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-06-03T18:00:00+05:00",
-      "stop": "2026-06-03T19:00:00+05:00",
-      "title": "Today in LA @ 6AM",
-      "desc": "The latest local news, weather and investigative stories impacting the community.",
-      "date": "2020",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p18627061_b_h10_ab.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-06-03T19:00:00+05:00",
-      "stop": "2026-06-03T21:00:00+05:00",
-      "title": "Today",
-      "desc": "Director Steven Spielberg and actors Emily Blunt, Josh O'Connor and Colman Domingo (\"Disclosure Day\"); actor Will Forte; Steals and Deals with Jill Martin; style expert Zanna Roberts Rassi.",
-      "date": "2026",
-      "language": "en",
-      "rating": "G",
-      "categories": [
-        "Series",
-        "Talk",
-        "News",
-        "Public affairs"
-      ],
-      "episode": "S74 E215",
-      "icon": "http://dtil.tmsimg.com/assets/p30939383_b_h8_aa.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Savannah Guthrie",
-          "Craig Melvin",
-          "Al Roker"
-        ]
-      }
-    },
-    {
       "start": "2026-06-03T21:00:00+05:00",
       "stop": "2026-06-03T22:00:00+05:00",
       "title": "Today 3rd Hour",
@@ -210,6 +150,61 @@
         "News"
       ],
       "icon": "http://dtil.tmsimg.com/assets/p15054848_b_h10_aa.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-06-04T03:30:00+05:00",
+      "stop": "2026-06-04T04:00:00+05:00",
+      "title": "NBC Nightly News With Tom Llamas",
+      "desc": "Tom Llamas anchors the latest news, going beyond the headlines to see how lives are affected by the world around them.",
+      "date": "2026",
+      "language": "en",
+      "categories": [
+        "Series",
+        "News"
+      ],
+      "episode": "S2 E144",
+      "icon": "http://dtil.tmsimg.com/assets/p30141511_b_h8_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Tom Llamas"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-04T04:00:00+05:00",
+      "stop": "2026-06-04T05:00:00+05:00",
+      "title": "NBC4 News at 4pm",
+      "desc": "The latest local news, weather and investigative stories impacting the community.",
+      "date": "2012",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p9358491_b_h10_ae.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-06-04T05:00:00+05:00",
+      "stop": "2026-06-04T06:00:00+05:00",
+      "title": "NBC4 News at 5pm",
+      "desc": "The latest local news, weather and investigative stories impacting the community.",
+      "date": "2011",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p8781144_b_h10_ad.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-06-04T06:00:00+05:00",
+      "stop": "2026-06-04T06:30:00+05:00",
+      "title": "NBC 4 News at 6pm",
+      "desc": "Stay informed with the latest breaking news and headlines.",
+      "date": "2015",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p12394505_b_h10_aa.jpg?w=960&h=540"
     }
   ]
 }
