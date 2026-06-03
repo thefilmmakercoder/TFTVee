@@ -4,84 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-03T21:00:00+05:00",
-      "stop": "2026-06-03T22:00:00+05:00",
-      "title": "CBC Newsroom",
-      "desc": "News program bringing Canadians breaking news and live coverage from across Canada and around the world.",
-      "date": "2017",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p14555206_b_h8_af.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-06-03T22:00:00+05:00",
-      "stop": "2026-06-03T23:00:00+05:00",
-      "title": "Escape to the Country",
-      "sub_title": "West Yorkshire",
-      "desc": "With their townhouse bursting at the seams, the featured couple, along with their five children and two dogs, need Ginny Buckley's help to find a large rural property; In West Yorkshire, they get the local lowdown from both Ginny and her mom Maggie.",
-      "date": "2022",
-      "language": "en",
-      "rating": "TVG",
-      "categories": [
-        "Series",
-        "House/garden",
-        "Home improvement",
-        "Bus./financial"
-      ],
-      "episode": "S22 E31",
-      "icon": "http://dtil.tmsimg.com/assets/p379352_b_h8_bq.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Ginny Buckley"
-        ]
-      }
-    },
-    {
-      "start": "2026-06-03T23:00:00+05:00",
-      "stop": "2026-06-03T23:30:00+05:00",
-      "title": "Coronation Street",
-      "desc": "Will keeps his family in the dark, and Hope refuses to accompany Sam on an outing.",
-      "date": "2026",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Series",
-        "Soap",
-        "Drama",
-        "Romance"
-      ],
-      "episode": "E92",
-      "icon": "http://dtil.tmsimg.com/assets/p31898227_b_h11_aa.jpg?w=960&h=540",
-      "credits": {
-        "director": [
-          "Richard Lynn"
-        ],
-        "actor": [
-          "Samuel Robertson",
-          "Elle Mulvaney",
-          "Aaron McCusker"
-        ]
-      }
-    },
-    {
-      "start": "2026-06-03T23:30:00+05:00",
-      "stop": "2026-06-04T00:00:00+05:00",
-      "title": "You Can't Ask That",
-      "sub_title": "Growing Up with a Disabled Parent",
-      "desc": "Have you ever felt embarrassed by your parent's disability? Did you ever take advantage of their disability? Canadians give us a candid view on what it's like to have a parent who is disabled.",
-      "date": "2025",
-      "language": "en",
-      "rating": "TV14",
-      "categories": [
-        "Series",
-        "Reality"
-      ],
-      "episode": "S3 E3",
-      "icon": "http://dtil.tmsimg.com/assets/p28446976_b_h8_aa.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-06-04T00:00:00+05:00",
       "stop": "2026-06-04T01:00:00+05:00",
       "title": "Murdoch Mysteries",
@@ -266,6 +188,86 @@
           "Supinder Wraich",
           "Enrico Colantoni",
           "Stephen Lobo"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-04T07:00:00+05:00",
+      "stop": "2026-06-04T08:00:00+05:00",
+      "title": "The National",
+      "desc": "CBC's flagship nightly news program, featuring the day's top stories with in-depth and original journalism; Adrienne Arsenault and Ian Hanomansing anchor.",
+      "date": "2026",
+      "language": "en",
+      "categories": [
+        "Series",
+        "News"
+      ],
+      "episode": "E133",
+      "icon": "http://dtil.tmsimg.com/assets/p191966_b_h8_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Ian Hanomansing",
+          "Adrienne Arsenault"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-04T08:00:00+05:00",
+      "stop": "2026-06-04T08:30:00+05:00",
+      "title": "CBC Toronto News at 11",
+      "desc": "The host presents information about the social, economic and political issues of the day and provides updates on current events in Toronto.",
+      "date": "2016",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p12567799_b_h10_ad.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-06-04T08:30:00+05:00",
+      "stop": "2026-06-04T09:00:00+05:00",
+      "title": "Land and Sea",
+      "sub_title": "Feral Horses",
+      "desc": "In corners of Nova Scotia, herds of feral horses live independently, with little human contact; meeting the people who support herds on the shores of the St. Croix River and in the Cape Breton Highlands.",
+      "date": "2025",
+      "language": "en",
+      "categories": [
+        "Series",
+        "Documentary",
+        "Nature"
+      ],
+      "episode": "S24 E12",
+      "icon": "http://dtil.tmsimg.com/assets/p255596_b_h10_ab.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Tom Murphy"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-04T09:00:00+05:00",
+      "stop": "2026-06-04T09:30:00+05:00",
+      "title": "Coronation Street",
+      "desc": "Will keeps his family in the dark, and Hope refuses to accompany Sam on an outing.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Soap",
+        "Drama",
+        "Romance"
+      ],
+      "episode": "E92",
+      "icon": "http://dtil.tmsimg.com/assets/p31898227_b_h11_aa.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Richard Lynn"
+        ],
+        "actor": [
+          "Samuel Robertson",
+          "Elle Mulvaney",
+          "Aaron McCusker"
         ]
       }
     }
