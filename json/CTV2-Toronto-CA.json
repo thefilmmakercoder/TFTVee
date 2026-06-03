@@ -4,67 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-03T02:59:00+05:00",
-      "stop": "2026-06-03T04:00:00+05:00",
-      "title": "Live: CTV News Barrie",
-      "desc": "CTV News covers stories that matter to Canadians - locally, nationally, & internationally.",
-      "date": "2014",
-      "language": "en",
-      "rating": "TV14",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p11226354_b_h8_ad.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-06-03T04:00:00+05:00",
-      "stop": "2026-06-03T04:30:00+05:00",
-      "title": "The Big Bang Theory",
-      "sub_title": "The Romance Resonance",
-      "desc": "Sheldon's latest scientific breakthrough leaves him feeling like a fraud; a romantic gesture between Howard and Bernadette causes Penny to up her game with Leonard.",
-      "date": "2013",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Series",
-        "Sitcom"
-      ],
-      "episode": "S7 E6",
-      "icon": "http://dtil.tmsimg.com/assets/p185554_b_h8_az.jpg?w=960&h=540",
-      "credits": {
-        "director": [
-          "Mark Cendrowski"
-        ],
-        "actor": [
-          "Johnny Galecki",
-          "Jim Parsons",
-          "Kaley Cuoco"
-        ]
-      }
-    },
-    {
-      "start": "2026-06-03T04:30:00+05:00",
-      "stop": "2026-06-03T05:00:00+05:00",
-      "title": "etalk",
-      "sub_title": "etalk All Access: \"The Devil Wears Prada 2\"",
-      "desc": "Interviews with the cast of \"The Devil Wears Prada 2.\".",
-      "date": "2026",
-      "language": "en",
-      "categories": [
-        "Series",
-        "Entertainment"
-      ],
-      "episode": "E84",
-      "icon": "http://dtil.tmsimg.com/assets/p191965_b_h8_ah.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Tyrone Edwards",
-          "Lainey Lui",
-          "Traci Melchor"
-        ]
-      }
-    },
-    {
       "start": "2026-06-03T05:00:00+05:00",
       "stop": "2026-06-03T07:00:00+05:00",
       "title": "Concrete Evidence: A Fixer Upper Mystery",
@@ -271,6 +210,64 @@
           "Harvey Levin"
         ]
       }
+    },
+    {
+      "start": "2026-06-03T13:35:00+05:00",
+      "stop": "2026-06-03T14:00:00+05:00",
+      "title": "Just for Laughs: Gags",
+      "desc": "There's no sound, but there sure are plenty of laughs; Quebec-based troupe uses the city as its stage, and its inhabitants, or victims, as characters.",
+      "date": "2003",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Comedy",
+        "Entertainment"
+      ],
+      "episode": "S3 E6",
+      "icon": "http://dtil.tmsimg.com/assets/p185761_b_h8_ad.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-06-03T14:00:00+05:00",
+      "stop": "2026-06-03T14:30:00+05:00",
+      "title": "The Littlest Hobo",
+      "sub_title": "Double Vision",
+      "desc": "Hobo's arrival in a small town coincides with that of an artist who looks like the town's crooked mayor.",
+      "date": "1983",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Series",
+        "Drama",
+        "Adventure",
+        "Animals"
+      ],
+      "episode": "S4 E14",
+      "icon": "http://dtil.tmsimg.com/assets/p507740_b_h10_ac.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Mario Azzopardi"
+        ],
+        "actor": [
+          "Chas Lawther",
+          "Gordon Masten",
+          "Leslie Yeo"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-03T14:30:00+05:00",
+      "stop": "2026-06-03T15:00:00+05:00",
+      "title": "Paid Programming",
+      "desc": "Paid programming.",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Consumer",
+        "Shopping",
+        "Variety"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&h=540"
     }
   ]
 }

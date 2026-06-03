@@ -4,44 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-03T03:00:00+05:00",
-      "stop": "2026-06-03T04:00:00+05:00",
-      "title": "Live: CBC Toronto News",
-      "desc": "Dwight Drummond and team take a comprehensive look at the top stories, with breaking news, reports and updates relevant to the city of Toronto.",
-      "date": "2016",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p12466091_b_h10_ac.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Dwight Drummond"
-        ]
-      }
-    },
-    {
-      "start": "2026-06-03T04:00:00+05:00",
-      "stop": "2026-06-03T04:30:00+05:00",
-      "title": "Just for Laughs: Gags",
-      "desc": "There's no sound, but there sure are plenty of laughs. This crazy Quebec-based troupe uses the city as its stage, and its inhabitants, or victims, as characters! People are caught in a twisted yet funny web of comedic deception. This updated \"Candid Camera\" is a tad more risque and a little kookier with its practical jokes. The little snippets last only a few minutes, and some look more painful than others.",
-      "date": "2001",
-      "language": "en",
-      "rating": "TV14",
-      "categories": [
-        "Comedy",
-        "Entertainment"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p29453350_b_h8_ae.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Denis Levasseur",
-          "Marie Pierre Bouchard",
-          "Marie-\u00c8ve Verdier"
-        ]
-      }
-    },
-    {
       "start": "2026-06-03T04:30:00+05:00",
       "stop": "2026-06-03T05:00:00+05:00",
       "title": "Family Feud Canada",
@@ -255,6 +217,45 @@
           "Dj Demers",
           "Geri Hall",
           "Dan Beirne"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-03T12:00:00+05:00",
+      "stop": "2026-06-03T12:30:00+05:00",
+      "title": "Halifax Comedy Festival",
+      "sub_title": "Featuring Trent McClellan",
+      "desc": "Performances by Trent McClellan, Adam Delorey, Bette MacDonald and Travis Lindsay and from the archives, Ryan Belleville, Nikki Payne, Pete Zedlacher, K. Trevor Wilson and Greg Proops.",
+      "date": "2022",
+      "language": "en",
+      "categories": [
+        "Series",
+        "Comedy",
+        "Standup"
+      ],
+      "episode": "E5",
+      "icon": "http://dtil.tmsimg.com/assets/p242405_b_h8_ag.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-06-03T12:30:00+05:00",
+      "stop": "2026-06-03T13:00:00+05:00",
+      "title": "This Hour Has 22 Minutes",
+      "sub_title": "The Hit List",
+      "desc": "A special edition of fan favorites and best viral sketches.",
+      "date": "2024",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "Series",
+        "Comedy"
+      ],
+      "episode": "S31 E18",
+      "icon": "http://dtil.tmsimg.com/assets/p185762_b_h10_ai.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Mark Critch",
+          "Trent McClellan",
+          "Aba Amuquandoh"
         ]
       }
     }

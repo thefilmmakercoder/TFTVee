@@ -4,33 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-03T00:30:00+05:00",
-      "stop": "2026-06-03T04:00:00+05:00",
-      "title": "Today",
-      "sub_title": "Wednesday 3 June 2026",
-      "desc": "Join Karl Stefanovic and Sarah Abo and the TODAY team as they bring you the latest in news, current affairs, sports, politics, entertainment, fashion, health and lifestyle.",
-      "language": "en",
-      "rating": "NR",
-      "categories": [
-        "News"
-      ],
-      "episode": "E110",
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/100687/image/334x188"
-    },
-    {
-      "start": "2026-06-03T04:00:00+05:00",
-      "stop": "2026-06-03T06:30:00+05:00",
-      "title": "Today Extra",
-      "desc": "Join the TODAY EXTRA team for an exciting mix of topical issues, the best celebrity interviews, cooking with Australia's top chefs, LIVE music performances, the latest in fashion and beauty trends.",
-      "language": "en",
-      "rating": "PG",
-      "categories": [
-        "Special Interest"
-      ],
-      "episode": "E89",
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/134254/image/334x188"
-    },
-    {
       "start": "2026-06-03T06:30:00+05:00",
       "stop": "2026-06-03T07:00:00+05:00",
       "title": "9News Morning",
@@ -164,6 +137,34 @@
       ],
       "episode": "E6",
       "icon": "https://www.fetchtv.com.au/v2/epg/program/16388693/image/334x188"
+    },
+    {
+      "start": "2026-06-03T15:30:00+05:00",
+      "stop": "2026-06-03T16:40:00+05:00",
+      "title": "NRL Origin Story",
+      "sub_title": "Chapter Two: Origin of Hate",
+      "desc": "Before 1980, NSW dominated. The \\.",
+      "language": "en",
+      "rating": "PG",
+      "categories": [
+        "Sports"
+      ],
+      "episode": "S1 E2",
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/20855971/image/334x188"
+    },
+    {
+      "start": "2026-06-03T16:40:00+05:00",
+      "stop": "2026-06-03T17:10:00+05:00",
+      "title": "9News Late",
+      "sub_title": "Wednesday 3 June 2026",
+      "desc": "Join the 9News Late team for all of today's top stories from Australia and around the world.",
+      "language": "en",
+      "rating": "NR",
+      "categories": [
+        "News"
+      ],
+      "episode": "E110",
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/427243/image/334x188"
     }
   ]
 }

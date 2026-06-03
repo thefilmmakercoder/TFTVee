@@ -4,24 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-03T03:05:00+05:00",
-      "stop": "2026-06-03T03:55:00+05:00",
-      "title": "Strictly Come Dancing",
-      "desc": "Tess Daly and Claudia Winkleman welcome celebrities to the dance floor ready to compete in a dance competition.The contestants are judged by: Craig Revel Horwood, Motsi Mabuse, Anton Du Beke and Shirley Ballas.",
-      "date": "2022",
-      "language": "en",
-      "categories": [
-        "Entertainment Program"
-      ],
-      "episode": "S20E6",
-      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/BBC-Lifestyle-PL.png",
-      "credits": {
-        "director": [
-          "Nikki Parsons"
-        ]
-      }
-    },
-    {
       "start": "2026-06-03T03:55:00+05:00",
       "stop": "2026-06-03T06:20:00+05:00",
       "title": "Strictly Come Dancing",
@@ -167,6 +149,19 @@
         "Entertainment Program"
       ],
       "episode": "S11E7",
+      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/BBC-Lifestyle-PL.png"
+    },
+    {
+      "start": "2026-06-03T16:40:00+05:00",
+      "stop": "2026-06-03T17:40:00+05:00",
+      "title": "Britain's Most Expensive Houses",
+      "desc": "Another installment of the program in which real estate agents accompanied by cameras show clients around the most expensive properties.Buyers have unlimited funds and are very demanding.",
+      "date": "2024",
+      "language": "en",
+      "categories": [
+        "Reality Show"
+      ],
+      "episode": "S3E4",
       "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/BBC-Lifestyle-PL.png"
     }
   ]

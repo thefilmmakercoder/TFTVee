@@ -4,57 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-03T03:10:00+05:00",
-      "stop": "2026-06-03T03:40:00+05:00",
-      "title": "NHK Newsline",
-      "sub_title": "Wednesday 3 June 2026",
-      "desc": "English news from Japan's Broadcasting Corporation, NHK, delivering the latest in business, technology, health, environmental and world news.",
-      "language": "en",
-      "rating": "NR",
-      "categories": [
-        "News"
-      ],
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/439062/image/334x188"
-    },
-    {
-      "start": "2026-06-03T03:40:00+05:00",
-      "stop": "2026-06-03T04:30:00+05:00",
-      "title": "Cbc The National",
-      "desc": "CBC's flagship nightly news with hosts Adrienne Arsenault and Andrew Chang from Toronto, Canada, via satellite in English.",
-      "language": "en",
-      "rating": "NR",
-      "categories": [
-        "News"
-      ],
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/413666/image/334x188"
-    },
-    {
-      "start": "2026-06-03T04:30:00+05:00",
-      "stop": "2026-06-03T05:00:00+05:00",
-      "title": "BBC News At Six",
-      "sub_title": "Wednesday 3 June 2026",
-      "desc": "The latest national and international news stories from the BBC News team from London, UK, in English.",
-      "language": "en",
-      "rating": "NR",
-      "categories": [
-        "News"
-      ],
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/11514500/image/334x188"
-    },
-    {
-      "start": "2026-06-03T05:00:00+05:00",
-      "stop": "2026-06-03T05:30:00+05:00",
-      "title": "France 24 English News",
-      "sub_title": "France 24 Eng. 1000 Viceland",
-      "desc": "International news and current affairs television from Paris, offering a French perspective on world events, in English.",
-      "language": "en",
-      "rating": "NR",
-      "categories": [
-        "News"
-      ],
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/310649/image/334x188"
-    },
-    {
       "start": "2026-06-03T05:30:00+05:00",
       "stop": "2026-06-03T06:55:00+05:00",
       "title": "Songrites",
@@ -163,6 +112,59 @@
       ],
       "episode": "E97",
       "icon": "https://www.fetchtv.com.au/v2/epg/program/5904078/image/334x188"
+    },
+    {
+      "start": "2026-06-03T10:50:00+05:00",
+      "stop": "2026-06-03T11:20:00+05:00",
+      "title": "BBC News At Ten",
+      "sub_title": "Wednesday 3 June 2026",
+      "desc": "The latest national and international news stories from the BBC News team from London, UK, in English.",
+      "language": "en",
+      "rating": "NR",
+      "categories": [
+        "News"
+      ],
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/415775/image/334x188"
+    },
+    {
+      "start": "2026-06-03T11:20:00+05:00",
+      "stop": "2026-06-03T11:50:00+05:00",
+      "title": "France 24 International News",
+      "sub_title": "Wednesday 3 June 2026",
+      "desc": "International news and current affairs television from Paris, offering a French perspective on world events, in English.",
+      "language": "en",
+      "rating": "NR",
+      "categories": [
+        "News"
+      ],
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/290253/image/334x188"
+    },
+    {
+      "start": "2026-06-03T11:50:00+05:00",
+      "stop": "2026-06-03T12:50:00+05:00",
+      "title": "PBS Newshour",
+      "sub_title": "Wednesday 3 June 2026",
+      "desc": "Reviews and analysis of the day's news, presented by Amna Nawaz and Geoff Bennett for the Public Broadcasting Service (PBS) in the United States.",
+      "language": "en",
+      "rating": "NR",
+      "categories": [
+        "News"
+      ],
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/249865/image/334x188"
+    },
+    {
+      "start": "2026-06-03T12:50:00+05:00",
+      "stop": "2026-06-03T13:40:00+05:00",
+      "title": "Alone Finland",
+      "sub_title": "Night Frosts",
+      "desc": "Frost descends on Lapland, destroying the forest's bounty. As conditions worsen, contestants' motivation and health are tested, and some face the journey home.",
+      "language": "en",
+      "rating": "M",
+      "categories": [
+        "Special Interest"
+      ],
+      "episode": "S1 E3",
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/20804710/image/334x188"
     }
   ]
 }
