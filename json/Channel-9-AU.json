@@ -4,20 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-04T00:00:00+05:00",
-      "stop": "2026-06-04T00:30:00+05:00",
-      "title": "Today Early News",
-      "sub_title": "Thursday 4 June 2026",
-      "desc": "Today Early News with up to date news from Australia and around the world as well as the latest in sport and weather.",
-      "language": "en",
-      "rating": "NR",
-      "categories": [
-        "News"
-      ],
-      "episode": "E111",
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/428725/image/334x188"
-    },
-    {
       "start": "2026-06-04T00:30:00+05:00",
       "stop": "2026-06-04T04:00:00+05:00",
       "title": "Today",
@@ -164,6 +150,20 @@
       ],
       "episode": "E14",
       "icon": "https://www.fetchtv.com.au/v2/epg/program/294233/image/334x188"
+    },
+    {
+      "start": "2026-06-04T16:55:00+05:00",
+      "stop": "2026-06-04T17:40:00+05:00",
+      "title": "NRL Thursday Night Footy Post",
+      "sub_title": "Sea Eagles v Rabbitohs",
+      "desc": "Join the Wide World of Sports team for all the post-match NRL news and analysis.",
+      "language": "en",
+      "rating": "NR",
+      "categories": [
+        "Sports"
+      ],
+      "episode": "E14",
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/441453/image/334x188"
     }
   ]
 }
