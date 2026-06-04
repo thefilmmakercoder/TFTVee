@@ -4,48 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-04T14:30:00+05:00",
-      "stop": "2026-06-04T15:40:00+05:00",
-      "title": "Rick Stein's Australia",
-      "sub_title": "The Saphire Coast",
-      "desc": "In the final episode of the series, Rick introduces us to his beloved Sapphire Coast, and its exquisite seafood: his home away from home in Australia.",
-      "language": "en",
-      "rating": "PG",
-      "categories": [
-        "Special Interest"
-      ],
-      "episode": "S1 E6",
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/16931489/image/334x188"
-    },
-    {
-      "start": "2026-06-04T15:40:00+05:00",
-      "stop": "2026-06-04T16:35:00+05:00",
-      "title": "Saving Yellowstone",
-      "sub_title": "The Keystone",
-      "desc": "Eradicated for nearly a century, wolves were reintroduced to Yellowstone in 1997. Follow the seasonal rhythms of these revered yet reviled predators shaping an entire ecosystem.",
-      "language": "en",
-      "rating": "PG",
-      "categories": [
-        "Special Interest"
-      ],
-      "episode": "S2 E1",
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/11633444/image/334x188"
-    },
-    {
-      "start": "2026-06-04T16:35:00+05:00",
-      "stop": "2026-06-04T17:30:00+05:00",
-      "title": "A Gentleman In Moscow",
-      "sub_title": "Good Times",
-      "desc": "The Count is forced to undertake a dangerous mission, one that will lead to a battle for his soul. Meanwhile, Anna's professional relationships are beset by political complications.",
-      "language": "en",
-      "rating": "M",
-      "categories": [
-        "Drama"
-      ],
-      "episode": "S1 E4",
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/8279983/image/334x188"
-    },
-    {
       "start": "2026-06-04T17:30:00+05:00",
       "stop": "2026-06-04T18:00:00+05:00",
       "title": "SBS World News Late",
@@ -169,6 +127,46 @@
       ],
       "episode": "S1 E4",
       "icon": "https://www.fetchtv.com.au/v2/epg/program/399579/image/334x188"
+    },
+    {
+      "start": "2026-06-05T00:00:00+05:00",
+      "stop": "2026-06-05T00:30:00+05:00",
+      "title": "NHK World English News Morning",
+      "sub_title": "Friday 5 June 2026",
+      "desc": "English news from Japan's Broadcasting Corporation, NHK, delivering the latest in business, technology, health, environmental and world news.",
+      "language": "en",
+      "rating": "NR",
+      "categories": [
+        "News"
+      ],
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/412606/image/334x188"
+    },
+    {
+      "start": "2026-06-05T00:30:00+05:00",
+      "stop": "2026-06-05T01:00:00+05:00",
+      "title": "ANC Philippines The World Tonight",
+      "sub_title": "Friday 5 June 2026",
+      "desc": "Multi-award winning newscast on ABS-CBN and ANC, The World Tonight delivers the top stories of the day, covering political, economic, and social sectors on both local and global fronts.",
+      "language": "en",
+      "rating": "NR",
+      "categories": [
+        "News"
+      ],
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/413573/image/334x188"
+    },
+    {
+      "start": "2026-06-05T01:00:00+05:00",
+      "stop": "2026-06-05T01:30:00+05:00",
+      "title": "DW English News",
+      "sub_title": "Morning",
+      "desc": "News and analysis of the top international and European news and current affairs from Berlin, in English.",
+      "language": "en",
+      "rating": "NR",
+      "categories": [
+        "News"
+      ],
+      "episode": "E4012026",
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/310648/image/334x188"
     }
   ]
 }

@@ -4,75 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-04T14:00:00+05:00",
-      "stop": "2026-06-04T15:00:00+05:00",
-      "title": "CBS News New York This Morning 5am",
-      "desc": "News coverage to start the day.",
-      "date": "2020",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p18809052_b_h8_ac.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-06-04T15:00:00+05:00",
-      "stop": "2026-06-04T16:00:00+05:00",
-      "title": "CBS News New York This Morning 6am",
-      "desc": "News coverage to start the day.",
-      "date": "2020",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p18809073_b_h8_ad.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-06-04T16:00:00+05:00",
-      "stop": "2026-06-04T18:00:00+05:00",
-      "title": "CBS Mornings",
-      "desc": "Actors Jennifer Lopez and Brett Goldstein (\"Office Romance\"); Paulie Dibner, executive editor of Oprah Daily; singer-songwriter Jesse Welles.",
-      "date": "2026",
-      "language": "en",
-      "categories": [
-        "Series",
-        "Talk",
-        "News"
-      ],
-      "episode": "E111",
-      "icon": "http://dtil.tmsimg.com/assets/p20589677_b_h8_ai.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Gayle King",
-          "Tony Dokoupil",
-          "Nate Burleson"
-        ]
-      }
-    },
-    {
-      "start": "2026-06-04T18:00:00+05:00",
-      "stop": "2026-06-04T18:30:00+05:00",
-      "title": "The Drew Barrymore Show",
-      "sub_title": "Sean Hayes",
-      "desc": "Actor Sean Hayes tells Drew about his movies \"The Running Man\" and \"Is This Thing On?\".",
-      "date": "2025",
-      "language": "en",
-      "rating": "TVG",
-      "categories": [
-        "Series",
-        "Talk",
-        "Entertainment"
-      ],
-      "episode": "S6 E119",
-      "icon": "http://dtil.tmsimg.com/assets/p31124897_b_h8_aa.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Drew Barrymore",
-          "Sean Hayes"
-        ]
-      }
-    },
-    {
       "start": "2026-06-04T18:30:00+05:00",
       "stop": "2026-06-04T19:00:00+05:00",
       "title": "The Drew Barrymore Show",
@@ -239,6 +170,89 @@
           "Judy Sheindlin"
         ]
       }
+    },
+    {
+      "start": "2026-06-05T00:30:00+05:00",
+      "stop": "2026-06-05T01:00:00+05:00",
+      "title": "Judge Judy",
+      "sub_title": "Girls Basketball Team Turmoil; $25,000 Bingo Winner Bash!",
+      "desc": "A woman regrets co-signing on an apartment lease for her teen daughter and friends; a former friend of 50 years sues a jackpot winner for assault and the cost to replace her personal belongings.",
+      "date": "2015",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Reality",
+        "Law"
+      ],
+      "episode": "S19 E118",
+      "icon": "http://dtil.tmsimg.com/assets/p184382_b_h8_af.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Judy Sheindlin"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-05T01:00:00+05:00",
+      "stop": "2026-06-05T01:30:00+05:00",
+      "title": "Hot Bench",
+      "sub_title": "Red Light, Green Light, Crash",
+      "desc": "A driver says a company's SUV rear-ended her in traffic and the owner promised to pay -- until he ghosted her over the repair quote; the business owner says the damage was minor and refused her mechanic's help.",
+      "date": "2025",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Reality",
+        "Law"
+      ],
+      "episode": "S12 E42",
+      "icon": "http://dtil.tmsimg.com/assets/p10911935_b_h8_ag.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Yodit Tewolde",
+          "Rachel Juarez",
+          "Daniel Mentzer"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-05T01:30:00+05:00",
+      "stop": "2026-06-05T02:00:00+05:00",
+      "title": "Hot Bench",
+      "sub_title": "Cabinet Chaos",
+      "desc": "A lawyer says his girlfriend called him in hysterics because the young man they hired to paint their kitchen cabinets was botching the job; they paid him $250 to stop and go away -- but now they're suing for their money back.",
+      "date": "2025",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Reality",
+        "Law"
+      ],
+      "episode": "S11 E70",
+      "icon": "http://dtil.tmsimg.com/assets/p28179624_b_h8_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Michael Corriero",
+          "Yodit Tewolde",
+          "Rachel Juarez"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-05T02:00:00+05:00",
+      "stop": "2026-06-05T03:00:00+05:00",
+      "title": "CBS News New York 5pm",
+      "desc": "Evening news coverage.",
+      "date": "2011",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p8492449_b_h8_ab.jpg?w=960&h=540"
     }
   ]
 }

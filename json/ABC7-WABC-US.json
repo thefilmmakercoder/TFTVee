@@ -4,54 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-04T13:30:00+05:00",
-      "stop": "2026-06-04T15:00:00+05:00",
-      "title": "Eyewitness News This Morning",
-      "desc": "News coverage to start the day.",
-      "date": "2007",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p677214_b_h8_ad.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-06-04T15:00:00+05:00",
-      "stop": "2026-06-04T16:00:00+05:00",
-      "title": "Eyewitness News This Morning",
-      "desc": "News coverage to start the day.",
-      "date": "2007",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p677214_b_h8_ad.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-06-04T16:00:00+05:00",
-      "stop": "2026-06-04T18:00:00+05:00",
-      "title": "Good Morning America",
-      "desc": "Actor Nick Jonas; actress Sherry Cola; television host Antoni Porowski; Deals & Steals with Tory Johnson.",
-      "date": "2026",
-      "language": "en",
-      "categories": [
-        "Series",
-        "Talk",
-        "News",
-        "Variety",
-        "Public affairs"
-      ],
-      "episode": "E177",
-      "icon": "http://dtil.tmsimg.com/assets/p31385280_b_h10_aa.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "George Stephanopoulos",
-          "Robin Roberts",
-          "Michael Strahan"
-        ]
-      }
-    },
-    {
       "start": "2026-06-04T18:00:00+05:00",
       "stop": "2026-06-04T19:00:00+05:00",
       "title": "Live with Kelly and Mark",
@@ -217,6 +169,57 @@
         "News"
       ],
       "icon": "http://dtil.tmsimg.com/assets/p13769033_b_h8_ab.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-06-05T03:00:00+05:00",
+      "stop": "2026-06-05T03:30:00+05:00",
+      "title": "Eyewitness News at 6",
+      "desc": "Stay informed with the latest breaking news and headlines.",
+      "date": "2017",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p13769035_b_h8_ab.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-06-05T03:30:00+05:00",
+      "stop": "2026-06-05T04:00:00+05:00",
+      "title": "ABC World News Tonight With David Muir",
+      "desc": "Delivering the news that matters most.",
+      "date": "2026",
+      "language": "en",
+      "categories": [
+        "Series",
+        "News"
+      ],
+      "episode": "E155",
+      "icon": "http://dtil.tmsimg.com/assets/p10880351_b_h8_ah.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "David Muir"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-05T04:00:00+05:00",
+      "stop": "2026-06-05T04:30:00+05:00",
+      "title": "Jeopardy!",
+      "desc": "The Emmy-winning quiz show features a unique answer-and-question format.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Series",
+        "Game show"
+      ],
+      "episode": "S42 E194",
+      "icon": "http://dtil.tmsimg.com/assets/p184056_b_h10_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Ken Jennings"
+        ]
+      }
     }
   ]
 }
