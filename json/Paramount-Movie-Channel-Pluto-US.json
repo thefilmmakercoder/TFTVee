@@ -4,32 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-04T16:45:00+05:00",
-      "stop": "2026-06-04T18:30:00+05:00",
-      "title": "The Naked Gun: From the Files of Police Squad!",
-      "desc": "Leslie Nielsen stars as Police Squad's own granite-jawed, rockbrained cop Frank Drebin, who bumbles across a mind control scheme to assassinate Queen Elizabeth.",
-      "date": "19880101",
-      "language": "en",
-      "categories": [
-        "Movie",
-        "Comedy"
-      ],
-      "icon": "https://images.pluto.tv/episodes/5e9771e3dfd9d6001ad8b426/poster_1776380043198.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694"
-    },
-    {
-      "start": "2026-06-04T18:30:00+05:00",
-      "stop": "2026-06-04T20:30:00+05:00",
-      "title": "Soapdish",
-      "desc": "Sally Field leads an all-star cast in this side-splittingly funny look at a scandal-ridden TV soap opera.",
-      "date": "19910101",
-      "language": "en",
-      "categories": [
-        "Movie",
-        "Comedy"
-      ],
-      "icon": "https://images.pluto.tv/episodes/5ca3a398e55c19b8c55b1fc1/poster_1778018762039.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694"
-    },
-    {
       "start": "2026-06-04T20:30:00+05:00",
       "stop": "2026-06-04T22:30:00+05:00",
       "title": "In & Out",
@@ -51,9 +25,9 @@
       "date": "19830101",
       "language": "en",
       "categories": [
-        "Romance",
         "Drama",
-        "Movie"
+        "Movie",
+        "Romance"
       ],
       "icon": "https://images.pluto.tv/episodes/5cd3394c34421b678dd228da/poster_1778009844534.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694"
     },
@@ -86,47 +60,78 @@
     },
     {
       "start": "2026-06-05T05:00:00+05:00",
-      "stop": "2026-06-05T06:00:00+05:00",
+      "stop": "2026-06-05T07:15:00+05:00",
+      "title": "Evolution",
+      "desc": "A firefighting cadet, two college professors, and a geeky-but-sexy government scientist work against an alien organism that has been rapidly evolving ever since its arrival on Earth inside a meteor.",
+      "date": "20010608",
+      "language": "en",
+      "categories": [
+        "Movie",
+        "Science fiction"
+      ],
+      "icon": "https://images.pluto.tv/episodes/5c64788e91482f7c81e5f67b/poster_1770057363618.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694"
+    },
+    {
+      "start": "2026-06-05T07:15:00+05:00",
+      "stop": "2026-06-05T09:15:00+05:00",
+      "title": "Good Burger",
+      "desc": "Kel are serving up laughs! They're the good guys in Good Burger, a zany comedy inspired by the popular Kel routine from Nickelodeon's hit series All That.",
+      "date": "19970725",
+      "language": "en",
+      "categories": [
+        "Movie",
+        "Comedy"
+      ],
+      "icon": "https://images.pluto.tv/episodes/5d9b9ab602119c67cb64e9fe/poster_1769454005152.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694"
+    },
+    {
+      "start": "2026-06-05T09:15:00+05:00",
+      "stop": "2026-06-05T11:30:00+05:00",
+      "title": "The Addams Family",
+      "desc": "Come join The Addams Family for the most hilarious scarefest of this season or any other! When long-lost Uncle Fester reappears after twenty-five years in the Bermuda Triangle, Gomez and Morticia plan a celebration to wake the dead.",
+      "date": "19911122",
+      "language": "en",
+      "categories": [
+        "Movie",
+        "Comedy"
+      ],
+      "icon": "https://images.pluto.tv/episodes/5c48dc581390b6759598ca20/poster_1770677641202.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694"
+    },
+    {
+      "start": "2026-06-05T11:30:00+05:00",
+      "stop": "2026-06-05T12:30:00+05:00",
       "title": "Paramount Movie Channel",
       "desc": "Paramount Movie Channel delivers a 24/7 curated selection of celebrated cinematic hits, blockbusters, and legacy films from Hollywood's longest-operating movie studio library.",
       "language": "en",
       "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/Paramount-Movie-Channel-Pluto-US.png"
     },
     {
-      "start": "2026-06-05T06:00:00+05:00",
-      "stop": "2026-06-05T07:00:00+05:00",
+      "start": "2026-06-05T12:30:00+05:00",
+      "stop": "2026-06-05T13:30:00+05:00",
       "title": "Paramount Movie Channel",
       "desc": "Paramount Movie Channel delivers a 24/7 curated selection of celebrated cinematic hits, blockbusters, and legacy films from Hollywood's longest-operating movie studio library.",
       "language": "en",
       "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/Paramount-Movie-Channel-Pluto-US.png"
     },
     {
-      "start": "2026-06-05T07:00:00+05:00",
-      "stop": "2026-06-05T08:00:00+05:00",
+      "start": "2026-06-05T13:30:00+05:00",
+      "stop": "2026-06-05T14:30:00+05:00",
       "title": "Paramount Movie Channel",
       "desc": "Paramount Movie Channel delivers a 24/7 curated selection of celebrated cinematic hits, blockbusters, and legacy films from Hollywood's longest-operating movie studio library.",
       "language": "en",
       "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/Paramount-Movie-Channel-Pluto-US.png"
     },
     {
-      "start": "2026-06-05T08:00:00+05:00",
-      "stop": "2026-06-05T09:00:00+05:00",
+      "start": "2026-06-05T14:30:00+05:00",
+      "stop": "2026-06-05T15:30:00+05:00",
       "title": "Paramount Movie Channel",
       "desc": "Paramount Movie Channel delivers a 24/7 curated selection of celebrated cinematic hits, blockbusters, and legacy films from Hollywood's longest-operating movie studio library.",
       "language": "en",
       "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/Paramount-Movie-Channel-Pluto-US.png"
     },
     {
-      "start": "2026-06-05T09:00:00+05:00",
-      "stop": "2026-06-05T10:00:00+05:00",
-      "title": "Paramount Movie Channel",
-      "desc": "Paramount Movie Channel delivers a 24/7 curated selection of celebrated cinematic hits, blockbusters, and legacy films from Hollywood's longest-operating movie studio library.",
-      "language": "en",
-      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/Paramount-Movie-Channel-Pluto-US.png"
-    },
-    {
-      "start": "2026-06-05T10:00:00+05:00",
-      "stop": "2026-06-05T11:00:00+05:00",
+      "start": "2026-06-05T15:30:00+05:00",
+      "stop": "2026-06-05T16:30:00+05:00",
       "title": "Paramount Movie Channel",
       "desc": "Paramount Movie Channel delivers a 24/7 curated selection of celebrated cinematic hits, blockbusters, and legacy films from Hollywood's longest-operating movie studio library.",
       "language": "en",

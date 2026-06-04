@@ -4,30 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-04T18:00:00+05:00",
-      "stop": "2026-06-04T19:00:00+05:00",
-      "title": "Good Day LA at 6am",
-      "desc": "Morning news coverage.",
-      "date": "2019",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p16719279_b_h8_ab.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-06-04T19:00:00+05:00",
-      "stop": "2026-06-04T21:00:00+05:00",
-      "title": "Good Day LA at 7am",
-      "desc": "Morning news coverage.",
-      "date": "2012",
-      "language": "en",
-      "categories": [
-        "Talk"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p9542652_b_h8_ac.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-06-04T21:00:00+05:00",
       "stop": "2026-06-04T22:00:00+05:00",
       "title": "Good Day LA at 9am",
@@ -210,6 +186,30 @@
         "News"
       ],
       "icon": "http://dtil.tmsimg.com/assets/p12829248_b_h8_ae.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-06-05T06:00:00+05:00",
+      "stop": "2026-06-05T06:30:00+05:00",
+      "title": "FOX 11 News at 6pm",
+      "desc": "Local and regional news coverage.",
+      "date": "2020",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p18140393_b_h8_ad.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-06-05T06:30:00+05:00",
+      "stop": "2026-06-05T07:00:00+05:00",
+      "title": "Live: West Coast News Wrap",
+      "desc": "Stay informed with the latest breaking news and headlines.",
+      "date": "2026",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p32049696_b_h10_aa.jpg?w=960&h=540"
     }
   ]
 }

@@ -4,75 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-04T18:00:00+05:00",
-      "stop": "2026-06-04T19:00:00+05:00",
-      "title": "Good Day New York",
-      "desc": "Morning news.",
-      "date": "2007",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p706448_b_h8_ab.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-06-04T19:00:00+05:00",
-      "stop": "2026-06-04T20:00:00+05:00",
-      "title": "Sherri",
-      "sub_title": "Sterling K. Brown & Ryan Michelle Bathe; Atsuko Okatsuka",
-      "desc": "Sterling K. Brown and his wife, Ryan Michelle Bathe, tell Sherri about the highly anticipated new season of \"Paradise\" now streaming on Hulu and Disney+; comic Atsuko Okatsuka tells Sherri about her \"Big Bowl Tour\" and latest comedy special, \"Father,\" now streaming on Hulu and Disney+; baker Brian Hart Hoffman shares some dessert recipes from his new cookbook, \"Bake From Scratch.\".",
-      "date": "2026",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Series",
-        "Talk",
-        "Interview"
-      ],
-      "episode": "S4 E112",
-      "icon": "http://dtil.tmsimg.com/assets/p21805765_b_h8_ab.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Sherri Shepherd",
-          "Sterling K. Brown",
-          "Ryan Michelle Bathe"
-        ]
-      }
-    },
-    {
-      "start": "2026-06-04T20:00:00+05:00",
-      "stop": "2026-06-04T21:00:00+05:00",
-      "title": "The Jennifer Hudson Show",
-      "desc": "Singer and actress Halle Bailey; cosmetic chemist Kristen Wells-Collins, founder of Black to the Lab, a program that introduces young Black girls to STEM.",
-      "date": "2025",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Series",
-        "Talk"
-      ],
-      "episode": "S4 E28",
-      "icon": "http://dtil.tmsimg.com/assets/p21805903_b_h8_ad.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Jennifer Hudson",
-          "Halle Bailey"
-        ]
-      }
-    },
-    {
-      "start": "2026-06-04T21:00:00+05:00",
-      "stop": "2026-06-04T22:00:00+05:00",
-      "title": "The Noon",
-      "desc": "Midday news update.",
-      "date": "2019",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p17326137_b_h8_ab.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-06-04T22:00:00+05:00",
       "stop": "2026-06-04T22:30:00+05:00",
       "title": "25 Words or Less",
@@ -217,6 +148,77 @@
           "Terri Seymour"
         ]
       }
+    },
+    {
+      "start": "2026-06-05T04:30:00+05:00",
+      "stop": "2026-06-05T05:00:00+05:00",
+      "title": "TMZ",
+      "desc": "TMZ TV tracks down today's hottest stars with their cameras, whether they are hitting the clubs or the dry cleaners.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Newsmagazine",
+        "Entertainment"
+      ],
+      "episode": "S19 E238",
+      "icon": "http://dtil.tmsimg.com/assets/p30985766_b_h10_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Harvey Levin"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-05T05:00:00+05:00",
+      "stop": "2026-06-05T07:00:00+05:00",
+      "title": "The Kiss List",
+      "desc": "WNYW delivers premier New York City news and entertainment, specializing in high-impact local journalism, live professional sports, and the flagship Fox network lineup of primetime series and reality television.",
+      "date": "2023",
+      "language": "en",
+      "rating": "A12",
+      "categories": [
+        "Movie",
+        "Comedy",
+        "Romance"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p26320849_v_h10_ac.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Sonia Sebasti\u00e1n"
+        ],
+        "actor": [
+          "Lachlan Watson",
+          "Madison Pullins",
+          "Emjay Anthony"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-05T07:00:00+05:00",
+      "stop": "2026-06-05T08:00:00+05:00",
+      "title": "The 10 O'Clock News",
+      "desc": "Local, national and international news.",
+      "date": "2021",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p19319081_b_h8_ab.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-06-05T08:00:00+05:00",
+      "stop": "2026-06-05T08:30:00+05:00",
+      "title": "Good Night New York",
+      "desc": "Christal Young and Ryan Kristafer's edgy perspective on entertainment and lifestyle news in NYC and beyond.",
+      "date": "2024",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "Newsmagazine"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p27878460_b_h8_aa.jpg?w=960&h=540"
     }
   ]
 }
