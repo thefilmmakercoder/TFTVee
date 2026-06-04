@@ -4,61 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-04T01:00:00+05:00",
-      "stop": "2026-06-04T04:00:00+05:00",
-      "title": "ABC News Breakfast",
-      "sub_title": "Thursday 4 June 2026",
-      "desc": "James Glenday and Emma Rebellato bring you the latest news, overnight developments, interviews and new details on the top stories this morning, joined by Catherine Murphy with sport and Nate Byrne with your weather outlook.",
-      "language": "en",
-      "rating": "NR",
-      "categories": [
-        "News"
-      ],
-      "episode": "E111",
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/231375/image/334x188"
-    },
-    {
-      "start": "2026-06-04T04:00:00+05:00",
-      "stop": "2026-06-04T05:00:00+05:00",
-      "title": "ABC News Mornings",
-      "sub_title": "Thursday 4 June 2026",
-      "desc": "Stay in the know with what's going on this morning. ABC News brings you up-to-the-minute news to fuel your daily conversations so you can stay connected and follow the discussion across the day. Presented by Kathryn Robinson.",
-      "language": "en",
-      "rating": "NR",
-      "categories": [
-        "News"
-      ],
-      "episode": "E111",
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/311312/image/334x188"
-    },
-    {
-      "start": "2026-06-04T05:00:00+05:00",
-      "stop": "2026-06-04T05:35:00+05:00",
-      "title": "Gruen",
-      "desc": "Join Wil Anderson, Todd Sampson, Russel Howcroft and the expert Gruen panel as they sift through the week's ads that have caught your attention (and the ones that probably shouldn't have).",
-      "language": "en",
-      "rating": "PG",
-      "categories": [
-        "Special Interest"
-      ],
-      "episode": "S18 E6",
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/335128/image/334x188"
-    },
-    {
-      "start": "2026-06-04T05:35:00+05:00",
-      "stop": "2026-06-04T06:25:00+05:00",
-      "title": "Guy Montgomery's Guy Mont-Spelling Bee",
-      "sub_title": "There's Always Time for Clock Man",
-      "desc": "The carry-over champ joins Charlie Pickering, Demi Adejuyigbe, and Ben Kochan try to make sense of the chaos as the Clockman takes over, warping reality and racing the clock. It's dance or spell under pressure.",
-      "language": "en",
-      "rating": "PG",
-      "categories": [
-        "Special Interest"
-      ],
-      "episode": "S3 E6",
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/17457823/image/334x188"
-    },
-    {
       "start": "2026-06-04T06:25:00+05:00",
       "stop": "2026-06-04T07:00:00+05:00",
       "title": "Urzila",
@@ -166,6 +111,61 @@
       ],
       "episode": "S34 E8",
       "icon": "https://www.fetchtv.com.au/v2/epg/program/130628/image/334x188"
+    },
+    {
+      "start": "2026-06-04T13:30:00+05:00",
+      "stop": "2026-06-04T14:00:00+05:00",
+      "title": "Hard Quiz",
+      "sub_title": "Diego Maradona, George W. Bush, Bricks & Harry Potter",
+      "desc": "Tom Gleeson is hanging on to the Big Brass Mug until one expert can prove they deserve it with their knowledge of soccer legend Diego Maradona, US President George W. Bush, the Harry Potter movies, or bricks!",
+      "language": "en",
+      "rating": "PG",
+      "categories": [
+        "Special Interest"
+      ],
+      "episode": "S7 E9",
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/351164/image/334x188"
+    },
+    {
+      "start": "2026-06-04T14:00:00+05:00",
+      "stop": "2026-06-04T14:30:00+05:00",
+      "title": "ABC News",
+      "sub_title": "Thursday 4 June 2026",
+      "desc": "News from where we live. ABC News NSW brings you the day's top stories, exclusive investigations and original reporting on the issues that matter to you. Presented by Jeremy Fernandez (Sun-Thu), Nakari Thorpe and Lydia Feng.",
+      "language": "en",
+      "rating": "NR",
+      "categories": [
+        "News"
+      ],
+      "episode": "E155",
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/7324185/image/334x188"
+    },
+    {
+      "start": "2026-06-04T14:30:00+05:00",
+      "stop": "2026-06-04T15:00:00+05:00",
+      "title": "7.30",
+      "desc": "Sarah Ferguson presents Australia's premier daily current affairs program, delivering agenda-setting public affairs journalism and interviews that hold the powerful to account. Plus political analysis from Jacob Greber.",
+      "language": "en",
+      "rating": "NR",
+      "categories": [
+        "News"
+      ],
+      "episode": "E88",
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/264720/image/334x188"
+    },
+    {
+      "start": "2026-06-04T15:00:00+05:00",
+      "stop": "2026-06-04T16:00:00+05:00",
+      "title": "Restoration Australia",
+      "sub_title": "Boorowa Convent",
+      "desc": "Host Anthony Burke meets an urban fashion professional who went looking for an idyllic country farmlet and ends up with a cavernous rural convent and a huge restoration task.",
+      "language": "en",
+      "rating": "G",
+      "categories": [
+        "Special Interest"
+      ],
+      "episode": "S8 E3",
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/333755/image/334x188"
     }
   ]
 }

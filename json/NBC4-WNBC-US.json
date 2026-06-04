@@ -4,88 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-04T03:30:00+05:00",
-      "stop": "2026-06-04T04:00:00+05:00",
-      "title": "NBC Nightly News With Tom Llamas",
-      "desc": "Tom Llamas anchors the latest news, going beyond the headlines to see how lives are affected by the world around them.",
-      "date": "2026",
-      "language": "en",
-      "categories": [
-        "Series",
-        "News"
-      ],
-      "episode": "S2 E144",
-      "icon": "http://dtil.tmsimg.com/assets/p30141511_b_h8_aa.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Tom Llamas"
-        ]
-      }
-    },
-    {
-      "start": "2026-06-04T04:00:00+05:00",
-      "stop": "2026-06-04T04:30:00+05:00",
-      "title": "News 4 NY at 7",
-      "desc": "Stay informed with the breaking news and headlines.",
-      "date": "2020",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p18101773_b_h10_ad.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-06-04T04:30:00+05:00",
-      "stop": "2026-06-04T05:00:00+05:00",
-      "title": "Access Hollywood",
-      "desc": "\"Cape Fear\" red-carpet premiere cast interviews.",
-      "date": "2026",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Series",
-        "Newsmagazine",
-        "Entertainment",
-        "Interview"
-      ],
-      "episode": "S30 E186",
-      "icon": "http://dtil.tmsimg.com/assets/p30926755_b_h8_ab.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Mario Lopez",
-          "Kit Hoover",
-          "Scott Evans"
-        ]
-      }
-    },
-    {
-      "start": "2026-06-04T05:00:00+05:00",
-      "stop": "2026-06-04T06:00:00+05:00",
-      "title": "Brilliant Minds",
-      "sub_title": "Senses",
-      "desc": "Wolf grapples with being a psych patient at Hudson Oaks and has a startling revelation; a renowned chef comes into Bronx General after a harrowing accident at his restaurant.",
-      "date": "2026",
-      "language": "en",
-      "rating": "TV14",
-      "categories": [
-        "Series",
-        "Drama",
-        "Medical"
-      ],
-      "episode": "S2 E16",
-      "icon": "http://dtil.tmsimg.com/assets/p30834652_b_h8_ad.jpg?w=960&h=540",
-      "credits": {
-        "director": [
-          "Zachary Quinto"
-        ],
-        "actor": [
-          "Zachary Quinto",
-          "Tamberla Perry",
-          "Ashleigh LaThrop"
-        ]
-      }
-    },
-    {
       "start": "2026-06-04T06:00:00+05:00",
       "stop": "2026-06-04T07:00:00+05:00",
       "title": "Chicago Fire",
@@ -255,6 +173,67 @@
           "Scott Evans"
         ]
       }
+    },
+    {
+      "start": "2026-06-04T12:07:00+05:00",
+      "stop": "2026-06-04T13:00:00+05:00",
+      "title": "The Kelly Clarkson Show",
+      "desc": "Kellyoke Encore: \"All Night Parking Interlude\"; Jo Dee Messina; Giuliana and Bill Rancic; \"Atomic Echoes\"; Megan Hilty; Jason Derulo chats and performs.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Talk",
+        "Variety",
+        "Entertainment"
+      ],
+      "episode": "S7 E149",
+      "icon": "http://dtil.tmsimg.com/assets/p16993616_b_h8_af.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Kelly Clarkson",
+          "Jo Dee Messina",
+          "Giuliana Rancic"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-04T13:00:00+05:00",
+      "stop": "2026-06-04T13:30:00+05:00",
+      "title": "Early Today",
+      "desc": "This early-morning news covers overnight events, breaking domestic and international news as well as a preview of the day's anticipated events. The program also presents regular reports from the worlds of business, entertainment and sports.",
+      "date": "1999",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p185301_b_h8_ag.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-06-04T13:30:00+05:00",
+      "stop": "2026-06-04T14:00:00+05:00",
+      "title": "Today in New York",
+      "desc": "The local news, weather and investigative stories impacting your community.",
+      "date": "2000",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p960598_b_h10_ac.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-06-04T14:00:00+05:00",
+      "stop": "2026-06-04T15:00:00+05:00",
+      "title": "Today in New York",
+      "desc": "The local news, weather and investigative stories impacting your community.",
+      "date": "2000",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p960598_b_h10_ac.jpg?w=960&h=540"
     }
   ]
 }

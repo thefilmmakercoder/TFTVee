@@ -4,70 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-04T03:10:00+05:00",
-      "stop": "2026-06-04T03:40:00+05:00",
-      "title": "NHK Newsline",
-      "sub_title": "Thursday 4 June 2026",
-      "desc": "English news from Japan's Broadcasting Corporation, NHK, delivering the latest in business, technology, health, environmental and world news.",
-      "language": "en",
-      "rating": "NR",
-      "categories": [
-        "News"
-      ],
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/439062/image/334x188"
-    },
-    {
-      "start": "2026-06-04T03:40:00+05:00",
-      "stop": "2026-06-04T04:30:00+05:00",
-      "title": "Cbc The National",
-      "desc": "CBC's flagship nightly news with hosts Adrienne Arsenault and Andrew Chang from Toronto, Canada, via satellite in English.",
-      "language": "en",
-      "rating": "NR",
-      "categories": [
-        "News"
-      ],
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/413666/image/334x188"
-    },
-    {
-      "start": "2026-06-04T04:30:00+05:00",
-      "stop": "2026-06-04T05:00:00+05:00",
-      "title": "BBC News At Six",
-      "sub_title": "Thursday 4 June 2026",
-      "desc": "The latest national and international news stories from the BBC News team from London, UK, in English.",
-      "language": "en",
-      "rating": "NR",
-      "categories": [
-        "News"
-      ],
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/11514500/image/334x188"
-    },
-    {
-      "start": "2026-06-04T05:00:00+05:00",
-      "stop": "2026-06-04T05:30:00+05:00",
-      "title": "France 24 English News",
-      "sub_title": "France 24 Eng. 1000 Viceland",
-      "desc": "International news and current affairs television from Paris, offering a French perspective on world events, in English.",
-      "language": "en",
-      "rating": "NR",
-      "categories": [
-        "News"
-      ],
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/310649/image/334x188"
-    },
-    {
-      "start": "2026-06-04T05:30:00+05:00",
-      "stop": "2026-06-04T06:00:00+05:00",
-      "title": "Euronews The Ring",
-      "sub_title": "Thursday 4 June 2026",
-      "desc": "Two political representatives from across the EU propose a diversity of opinions and conversations around the most important issues of EU affairs and the wider European political life.",
-      "language": "en",
-      "rating": "NR",
-      "categories": [
-        "News"
-      ],
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/440736/image/334x188"
-    },
-    {
       "start": "2026-06-04T06:00:00+05:00",
       "stop": "2026-06-04T06:35:00+05:00",
       "title": "The Movie Show",
@@ -157,6 +93,72 @@
       "rating": "NR",
       "episode": "E8",
       "icon": "https://www.fetchtv.com.au/v2/epg/program/19479925/image/334x188"
+    },
+    {
+      "start": "2026-06-04T10:50:00+05:00",
+      "stop": "2026-06-04T10:55:00+05:00",
+      "title": "NITV News Update",
+      "desc": "NITV News recaptures the highlights of Indigenous news around the country.",
+      "language": "en",
+      "rating": "NR",
+      "categories": [
+        "News"
+      ],
+      "episode": "E98",
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/5904078/image/334x188"
+    },
+    {
+      "start": "2026-06-04T10:55:00+05:00",
+      "stop": "2026-06-04T11:20:00+05:00",
+      "title": "BBC News At Ten",
+      "sub_title": "Thursday 4 June 2026",
+      "desc": "The latest national and international news stories from the BBC News team from London, UK, in English.",
+      "language": "en",
+      "rating": "NR",
+      "categories": [
+        "News"
+      ],
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/415775/image/334x188"
+    },
+    {
+      "start": "2026-06-04T11:20:00+05:00",
+      "stop": "2026-06-04T11:50:00+05:00",
+      "title": "France 24 International News",
+      "sub_title": "Thursday 4 June 2026",
+      "desc": "International news and current affairs television from Paris, offering a French perspective on world events, in English.",
+      "language": "en",
+      "rating": "NR",
+      "categories": [
+        "News"
+      ],
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/290253/image/334x188"
+    },
+    {
+      "start": "2026-06-04T11:50:00+05:00",
+      "stop": "2026-06-04T12:50:00+05:00",
+      "title": "PBS Newshour",
+      "sub_title": "Thursday 4 June 2026",
+      "desc": "Reviews and analysis of the day's news, presented by Amna Nawaz and Geoff Bennett for the Public Broadcasting Service (PBS) in the United States.",
+      "language": "en",
+      "rating": "NR",
+      "categories": [
+        "News"
+      ],
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/249865/image/334x188"
+    },
+    {
+      "start": "2026-06-04T12:50:00+05:00",
+      "stop": "2026-06-04T13:40:00+05:00",
+      "title": "Alone Finland",
+      "sub_title": "Small Joys And Great Gloom",
+      "desc": "In the solitude of the forest, the days are not all the same. Without modern comforts, even a small mistake can prove dangerous.",
+      "language": "en",
+      "rating": "M",
+      "categories": [
+        "Special Interest"
+      ],
+      "episode": "S1 E4",
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/14901861/image/334x188"
     }
   ]
 }

@@ -4,55 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-03T23:30:00+05:00",
-      "stop": "2026-06-04T02:00:00+05:00",
-      "title": "The Exorcist",
-      "desc": "One of the most profitable horror movies ever made, this tale of an exorcism is based loosely on actual events. When young Regan (Linda Blair) starts acting odd -- levitating, speaking in tongues -- her worried mother (Ellen Burstyn) seeks medical help, only to hit a dead end. A local priest (Jason Miller), however, thinks the girl may be seized by the devil. The priest makes a request to perform an exorcism, and the church sends in an expert (Max von Sydow) to help with the difficult job.",
-      "date": "1973",
-      "language": "en",
-      "rating": "R",
-      "categories": [
-        "Movie",
-        "Horror"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p6107_v_h8_aa.jpg?w=960&h=540",
-      "credits": {
-        "director": [
-          "William Friedkin"
-        ],
-        "actor": [
-          "Ellen Burstyn",
-          "Linda Blair",
-          "Max von Sydow"
-        ]
-      }
-    },
-    {
-      "start": "2026-06-04T02:00:00+05:00",
-      "stop": "2026-06-04T04:30:00+05:00",
-      "title": "Five Nights at Freddy's",
-      "desc": "A troubled security guard begins working at Freddy Fazbear's Pizzeria. While spending his first night on the job, he realizes the late shift at Freddy's won't be so easy to make it through.",
-      "date": "2023",
-      "language": "en",
-      "rating": "PG-13",
-      "categories": [
-        "Movie",
-        "Horror",
-        "Thriller"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p23964441_v_h8_ae.jpg?w=960&h=540",
-      "credits": {
-        "director": [
-          "Emma Tammi"
-        ],
-        "actor": [
-          "Josh Hutcherson",
-          "Elizabeth Lail",
-          "Kat Conner Sterling"
-        ]
-      }
-    },
-    {
       "start": "2026-06-04T04:30:00+05:00",
       "stop": "2026-06-04T07:00:00+05:00",
       "title": "Insidious",
@@ -332,6 +283,65 @@
           "Lee Kinsolving",
           "Michael Forest",
           "Tom Gilleran"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-04T15:00:00+05:00",
+      "stop": "2026-06-04T15:30:00+05:00",
+      "title": "The Twilight Zone",
+      "sub_title": "Mirror Image",
+      "desc": "A young woman grows panicky when she is haunted by a strange double who keeps appearing in a bus depot.",
+      "date": "2013",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Anthology",
+        "Science fiction",
+        "Fantasy",
+        "Thriller",
+        "Drama"
+      ],
+      "episode": "S1 E21",
+      "icon": "http://dtil.tmsimg.com/assets/p7895478_b_h10_aa.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "John Brahm"
+        ],
+        "actor": [
+          "Vera Miles",
+          "Joe Hamilton",
+          "Martin Milner"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-04T15:30:00+05:00",
+      "stop": "2026-06-04T17:30:00+05:00",
+      "title": "Sharknado",
+      "desc": "A monstrous storm devastates Los Angeles, leaving the streets flooded and infested with sharks.",
+      "date": "2013",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "Movie",
+        "Action",
+        "Thriller",
+        "Science fiction",
+        "Adventure",
+        "Comedy",
+        "Horror"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p9996687_v_h10_ab.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Anthony C. Ferrante"
+        ],
+        "actor": [
+          "Tara Reid",
+          "Ian Ziering",
+          "John Heard"
         ]
       }
     }

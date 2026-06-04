@@ -4,86 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-04T03:00:00+05:00",
-      "stop": "2026-06-04T04:00:00+05:00",
-      "title": "The 6 O'Clock News",
-      "desc": "Local, national and international news.",
-      "date": "2021",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p19319065_b_h8_ab.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-06-04T04:00:00+05:00",
-      "stop": "2026-06-04T04:30:00+05:00",
-      "title": "Extra",
-      "desc": "Inside the entertainment newsgathering process, as reporters coast-to-coast break headlines, advance the stories of the day and sit down with celebrities.",
-      "date": "2026",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Series",
-        "Newsmagazine",
-        "Entertainment"
-      ],
-      "episode": "S32 E237",
-      "icon": "http://dtil.tmsimg.com/assets/p30948222_b_h8_aa.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Derek Hough",
-          "Mona Kosar Abdi",
-          "Terri Seymour"
-        ]
-      }
-    },
-    {
-      "start": "2026-06-04T04:30:00+05:00",
-      "stop": "2026-06-04T05:00:00+05:00",
-      "title": "TMZ",
-      "desc": "TMZ TV tracks down today's hottest stars with their cameras, whether they are hitting the clubs or the dry cleaners.",
-      "date": "2026",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Series",
-        "Newsmagazine",
-        "Entertainment"
-      ],
-      "episode": "S19 E237",
-      "icon": "http://dtil.tmsimg.com/assets/p30985766_b_h10_aa.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Harvey Levin"
-        ]
-      }
-    },
-    {
-      "start": "2026-06-04T05:00:00+05:00",
-      "stop": "2026-06-04T06:00:00+05:00",
-      "title": "MasterChef",
-      "sub_title": "World Cup Cookoff",
-      "desc": "The kitchen is transformed into a backyard barbecue, where the cooks must step up and prove that they can take their country's game time cravings to the next level.",
-      "date": "2026",
-      "language": "en",
-      "rating": "TV14",
-      "categories": [
-        "Series",
-        "Cooking",
-        "Competition Reality"
-      ],
-      "episode": "S25 E8",
-      "icon": "http://dtil.tmsimg.com/assets/p32461106_b_h8_ac.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Gordon Ramsay",
-          "Joe Bastianich",
-          "Tiffany Derry"
-        ]
-      }
-    },
-    {
       "start": "2026-06-04T06:00:00+05:00",
       "stop": "2026-06-04T07:00:00+05:00",
       "title": "The Floor",
@@ -229,6 +149,59 @@
           "Harvey Levin"
         ]
       }
+    },
+    {
+      "start": "2026-06-04T11:00:00+05:00",
+      "stop": "2026-06-04T11:30:00+05:00",
+      "title": "Paid Programming",
+      "desc": "Paid programming.",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Consumer",
+        "Shopping",
+        "Variety"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-06-04T11:30:00+05:00",
+      "stop": "2026-06-04T12:00:00+05:00",
+      "title": "Victim of Nursing Home Abuse?",
+      "desc": "Have you or a family member been a victim of nursing home abuse?",
+      "language": "en",
+      "categories": [
+        "Consumer"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p32656820_st_h10_aa.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-06-04T12:00:00+05:00",
+      "stop": "2026-06-04T12:30:00+05:00",
+      "title": "Paid Programming",
+      "desc": "Paid programming.",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Consumer",
+        "Shopping",
+        "Variety"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-06-04T12:30:00+05:00",
+      "stop": "2026-06-04T13:00:00+05:00",
+      "title": "Paid Programming",
+      "desc": "Paid programming.",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Consumer",
+        "Shopping",
+        "Variety"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&h=540"
     }
   ]
 }

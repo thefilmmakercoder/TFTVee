@@ -4,57 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-04T02:59:00+05:00",
-      "stop": "2026-06-04T04:00:00+05:00",
-      "title": "Live: CTV News Barrie",
-      "desc": "CTV News covers stories that matter to Canadians - locally, nationally, & internationally.",
-      "date": "2014",
-      "language": "en",
-      "rating": "TV14",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p11226354_b_h8_ad.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-06-04T04:00:00+05:00",
-      "stop": "2026-06-04T04:30:00+05:00",
-      "title": "The Big Bang Theory",
-      "sub_title": "The Proton Displacement",
-      "desc": "When Professor Proton asks Leonard for help with an experiment, Sheldon retaliates by befriending Proton's rival, Bill Nye.",
-      "date": "2013",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Series",
-        "Sitcom"
-      ],
-      "episode": "S7 E7",
-      "icon": "http://dtil.tmsimg.com/assets/p185554_b_h8_az.jpg?w=960&h=540",
-      "credits": {
-        "director": [
-          "Mark Cendrowski"
-        ],
-        "actor": [
-          "Johnny Galecki",
-          "Jim Parsons",
-          "Kaley Cuoco"
-        ]
-      }
-    },
-    {
-      "start": "2026-06-04T04:30:00+05:00",
-      "stop": "2026-06-04T06:30:00+05:00",
-      "title": "Live: WNBA Basketball",
-      "desc": "The New York Liberty host the Toronto Tempo for a WNBA Commissioner's Cup game at Barclays Center. New York's Breanna Stewart leads the team with 18.8 points and 8.6 rebounds, while Brittney Sykes leads Toronto with 20.5 points and 4.4 assists.",
-      "language": "en",
-      "categories": [
-        "Sports",
-        "Basketball"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/GNLZZGG0034B3VG.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-06-04T06:30:00+05:00",
       "stop": "2026-06-04T07:00:00+05:00",
       "title": "etalk",
@@ -258,6 +207,64 @@
           "Harvey Levin"
         ]
       }
+    },
+    {
+      "start": "2026-06-04T13:35:00+05:00",
+      "stop": "2026-06-04T14:00:00+05:00",
+      "title": "Just for Laughs: Gags",
+      "desc": "There's no sound, but there sure are plenty of laughs; Quebec-based troupe uses the city as its stage, and its inhabitants, or victims, as characters.",
+      "date": "2003",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Comedy",
+        "Entertainment"
+      ],
+      "episode": "S3 E7",
+      "icon": "http://dtil.tmsimg.com/assets/p185761_b_h8_ad.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-06-04T14:00:00+05:00",
+      "stop": "2026-06-04T14:30:00+05:00",
+      "title": "The Littlest Hobo",
+      "sub_title": "Winner Take All",
+      "desc": "Hobo is reunited with an old friend who has just become the owner of a winning lottery ticket.",
+      "date": "1983",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Series",
+        "Drama",
+        "Adventure",
+        "Animals"
+      ],
+      "episode": "S4 E15",
+      "icon": "http://dtil.tmsimg.com/assets/p507740_b_h10_ac.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Allan Eastman"
+        ],
+        "actor": [
+          "Matt Craven",
+          "Jan Filips",
+          "Mimi Kuzyk"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-04T14:30:00+05:00",
+      "stop": "2026-06-04T15:00:00+05:00",
+      "title": "Paid Programming",
+      "desc": "Paid programming.",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Consumer",
+        "Shopping",
+        "Variety"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&h=540"
     }
   ]
 }
