@@ -4,62 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-04T22:00:00+05:00",
-      "stop": "2026-06-04T22:30:00+05:00",
-      "title": "TV Shop - Home Shopping",
-      "sub_title": "TIVA Heater",
-      "desc": "Home shopping programme.",
-      "language": "en",
-      "rating": "G",
-      "categories": [
-        "Special Interest"
-      ],
-      "episode": "E299",
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/184500/image/334x188"
-    },
-    {
-      "start": "2026-06-04T22:30:00+05:00",
-      "stop": "2026-06-04T23:00:00+05:00",
-      "title": "TV Shop - Home Shopping",
-      "sub_title": "Thin Lizzy Xcellerate35",
-      "desc": "Home shopping programme.",
-      "language": "en",
-      "rating": "G",
-      "categories": [
-        "Special Interest"
-      ],
-      "episode": "E294",
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/184500/image/334x188"
-    },
-    {
-      "start": "2026-06-04T23:00:00+05:00",
-      "stop": "2026-06-04T23:30:00+05:00",
-      "title": "Skippy",
-      "sub_title": "Sports Car Rally",
-      "desc": "A sports car club receive permission to run a rally through the Waratah National Park, to Matt's disgust.",
-      "language": "en",
-      "rating": "G",
-      "categories": [
-        "Kids & Family"
-      ],
-      "episode": "S1 E4",
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/132554/image/334x188"
-    },
-    {
-      "start": "2026-06-04T23:30:00+05:00",
-      "stop": "2026-06-05T00:00:00+05:00",
-      "title": "A Current Affair",
-      "sub_title": "Thursday 4 June 2026",
-      "desc": "A Current Affair covers the realms of politics, crime, human rights, science, technology, celebrities and entertainment - all investigated by a dedicated team.",
-      "language": "en",
-      "rating": "NR",
-      "categories": [
-        "News"
-      ],
-      "episode": "E111",
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/131990/image/334x188"
-    },
-    {
       "start": "2026-06-05T00:00:00+05:00",
       "stop": "2026-06-05T00:30:00+05:00",
       "title": "Today Early News",
@@ -165,6 +109,61 @@
       ],
       "episode": "E112",
       "icon": "https://www.fetchtv.com.au/v2/epg/program/22961443/image/334x188"
+    },
+    {
+      "start": "2026-06-05T12:00:00+05:00",
+      "stop": "2026-06-05T13:00:00+05:00",
+      "title": "Tipping Point Australia",
+      "desc": "Tipping Point Australia will push contestants' luck to the very edge. Three contestants will go head to head against the mesmerising machine with one lucky contestant playing for the Jackpot. Hosted by Todd Woodbridge.",
+      "language": "en",
+      "rating": "PG",
+      "categories": [
+        "Special Interest"
+      ],
+      "episode": "S3 E12",
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/426483/image/334x188"
+    },
+    {
+      "start": "2026-06-05T13:00:00+05:00",
+      "stop": "2026-06-05T14:00:00+05:00",
+      "title": "9News",
+      "sub_title": "Friday 5 June 2026",
+      "desc": "Join 9News for the latest in news and events that affect you in your local city, as well as news from across Australia and the world.",
+      "language": "en",
+      "rating": "NR",
+      "categories": [
+        "News"
+      ],
+      "episode": "E112",
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/21223678/image/334x188"
+    },
+    {
+      "start": "2026-06-05T14:00:00+05:00",
+      "stop": "2026-06-05T14:30:00+05:00",
+      "title": "A Current Affair",
+      "sub_title": "Friday 5 June 2026",
+      "desc": "A Current Affair covers the realms of politics, crime, human rights, science, technology, celebrities and entertainment - all investigated by a dedicated team.",
+      "language": "en",
+      "rating": "NR",
+      "categories": [
+        "News"
+      ],
+      "episode": "E112",
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/131990/image/334x188"
+    },
+    {
+      "start": "2026-06-05T14:30:00+05:00",
+      "stop": "2026-06-05T16:55:00+05:00",
+      "title": "NRL Friday Night Footy",
+      "sub_title": "Raiders v Roosters",
+      "desc": "Wide World of Sports presents Friday Night with Raiders v Roosters, live from GIO Stadium. Join our expert commentary team for all the action, analysis and post match interviews. Kick off at 8:00PM AEST.",
+      "language": "en",
+      "rating": "NR",
+      "categories": [
+        "Sports"
+      ],
+      "episode": "E14",
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/202390/image/334x188"
     }
   ]
 }

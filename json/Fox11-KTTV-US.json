@@ -4,42 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-04T21:00:00+05:00",
-      "stop": "2026-06-04T22:00:00+05:00",
-      "title": "Good Day LA at 9am",
-      "desc": "Morning news coverage.",
-      "date": "2012",
-      "language": "en",
-      "categories": [
-        "Talk"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p9542653_b_h8_ac.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-06-04T22:00:00+05:00",
-      "stop": "2026-06-04T23:00:00+05:00",
-      "title": "Good Day LA at 10am",
-      "desc": "Morning news coverage.",
-      "date": "2022",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p22751421_b_h8_ab.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-06-04T23:00:00+05:00",
-      "stop": "2026-06-05T00:00:00+05:00",
-      "title": "GDLA+",
-      "desc": "KTTV delivers premier Los Angeles news and entertainment, specializing in high-impact local journalism, live professional sports, and the flagship Fox network lineup of primetime series and reality television.",
-      "date": "2024",
-      "language": "en",
-      "categories": [
-        "Newsmagazine"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p26513975_b_h8_ab.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-06-05T00:00:00+05:00",
       "stop": "2026-06-05T01:00:00+05:00",
       "title": "Sherri",
@@ -210,6 +174,75 @@
         "News"
       ],
       "icon": "http://dtil.tmsimg.com/assets/p32049696_b_h10_aa.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-06-05T07:00:00+05:00",
+      "stop": "2026-06-05T07:30:00+05:00",
+      "title": "Extra",
+      "desc": "Inside the entertainment newsgathering process, as reporters coast-to-coast break headlines, advance the stories of the day and sit down with celebrities.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Newsmagazine",
+        "Entertainment"
+      ],
+      "episode": "S32 E238",
+      "icon": "http://dtil.tmsimg.com/assets/p30948222_b_h8_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Derek Hough",
+          "Mona Kosar Abdi",
+          "Terri Seymour"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-05T07:30:00+05:00",
+      "stop": "2026-06-05T08:00:00+05:00",
+      "title": "TMZ",
+      "desc": "TMZ TV tracks down today's hottest stars with their cameras, whether they are hitting the clubs or the dry cleaners.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Newsmagazine",
+        "Entertainment"
+      ],
+      "episode": "S19 E238",
+      "icon": "http://dtil.tmsimg.com/assets/p30985766_b_h10_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Harvey Levin"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-05T08:00:00+05:00",
+      "stop": "2026-06-05T10:00:00+05:00",
+      "title": "The Kiss List",
+      "desc": "KTTV delivers premier Los Angeles news and entertainment, specializing in high-impact local journalism, live professional sports, and the flagship Fox network lineup of primetime series and reality television.",
+      "date": "2023",
+      "language": "en",
+      "rating": "A12",
+      "categories": [
+        "Movie",
+        "Comedy",
+        "Romance"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p26320849_v_h10_ac.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Sonia Sebasti\u00e1n"
+        ],
+        "actor": [
+          "Lachlan Watson",
+          "Madison Pullins",
+          "Emjay Anthony"
+        ]
+      }
     }
   ]
 }

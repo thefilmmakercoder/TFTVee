@@ -4,53 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-04T22:00:00+05:00",
-      "stop": "2026-06-04T22:30:00+05:00",
-      "title": "BBC News",
-      "desc": "The latest national and international news from the BBC.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/a99b3c02-59b8-48d0-8014-7c3af4ae116a/16-9"
-    },
-    {
-      "start": "2026-06-04T22:30:00+05:00",
-      "stop": "2026-06-04T23:00:00+05:00",
-      "title": "BBC London News",
-      "desc": "The latest news, sport and weather from London.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/02dd9cdc-3f9f-4b86-b6a5-6db91191df00/16-9"
-    },
-    {
-      "start": "2026-06-04T23:00:00+05:00",
-      "stop": "2026-06-04T23:30:00+05:00",
-      "title": "The One Show",
-      "desc": "Alex Jones and Roman Kemp bring you the stories that matter from across the country.",
-      "language": "en",
-      "categories": [
-        "Entertainment"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/56a110c8-51d4-403d-b4dd-38ef28f33b0a/16-9"
-    },
-    {
-      "start": "2026-06-04T23:30:00+05:00",
-      "stop": "2026-06-05T00:00:00+05:00",
-      "title": "EastEnders",
-      "desc": "George makes a decision for the sake of his family.",
-      "language": "en",
-      "categories": [
-        "Entertainment",
-        "Soap"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/28dcae3d-04ac-4615-a7b5-c8ab2ba05fe6/16-9"
-    },
-    {
       "start": "2026-06-05T00:00:00+05:00",
       "stop": "2026-06-05T01:00:00+05:00",
       "title": "MasterChef",
@@ -145,6 +98,53 @@
         "News"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/3810600a-76db-4531-81e0-3aece45e1898/16-9"
+    },
+    {
+      "start": "2026-06-05T04:50:00+05:00",
+      "stop": "2026-06-05T10:00:00+05:00",
+      "title": "BBC News",
+      "desc": "BBC One joins the BBC's rolling news channel for a night of news.",
+      "language": "en",
+      "categories": [
+        "News & Documentary",
+        "News"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/beb102e1-3b4d-4158-b6ca-7ff0be0d463d/16-9"
+    },
+    {
+      "start": "2026-06-05T10:00:00+05:00",
+      "stop": "2026-06-05T13:30:00+05:00",
+      "title": "Breakfast",
+      "desc": "The latest news, sport, business and weather from the BBC's Breakfast team.",
+      "language": "en",
+      "categories": [
+        "News & Documentary",
+        "News"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/94303fa3-abfe-4445-b3e1-22131c042da8/16-9"
+    },
+    {
+      "start": "2026-06-05T13:30:00+05:00",
+      "stop": "2026-06-05T14:45:00+05:00",
+      "title": "Morning Live",
+      "desc": "Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier.",
+      "language": "en",
+      "categories": [
+        "Entertainment"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/eded4a9e-4355-4b07-a708-8aa97bbb730f/16-9"
+    },
+    {
+      "start": "2026-06-05T14:45:00+05:00",
+      "stop": "2026-06-05T15:15:00+05:00",
+      "title": "Doorbell Detectives",
+      "desc": "Matt Allwright speaks to the owners of a family-run business which was the target of a smash-and-grab. He also hears from two friends whose food truck was stolen.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Factual"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/816675d9-95f2-4e99-aa7d-b11421e99709/16-9"
     }
   ]
 }

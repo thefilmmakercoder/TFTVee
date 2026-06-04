@@ -4,73 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-04T21:00:00+05:00",
-      "stop": "2026-06-04T22:00:00+05:00",
-      "title": "NBC News Daily",
-      "desc": "NBC News provides viewers with the latest national and international news; consumer, health and personal finance reporting; up-to-the-minute local news.",
-      "date": "2026",
-      "language": "en",
-      "categories": [
-        "Series",
-        "News"
-      ],
-      "episode": "E100",
-      "icon": "http://dtil.tmsimg.com/assets/p22712535_b_h8_ad.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Vicky Nguyen",
-          "Morgan Radford"
-        ]
-      }
-    },
-    {
-      "start": "2026-06-04T22:00:00+05:00",
-      "stop": "2026-06-04T23:00:00+05:00",
-      "title": "Dateline",
-      "sub_title": "A Murder in Aspen",
-      "desc": "The residents of a glamorous resort town are shocked when a well-known woman from a prominent family is found dead in her home.",
-      "date": "2025",
-      "language": "en",
-      "categories": [
-        "Series",
-        "Newsmagazine",
-        "Mystery",
-        "Crime"
-      ],
-      "episode": "S9 E15",
-      "icon": "http://dtil.tmsimg.com/assets/p31054010_b_h10_aa.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Craig Melvin",
-          "Andrea Canning",
-          "Natalie Morales"
-        ]
-      }
-    },
-    {
-      "start": "2026-06-04T23:00:00+05:00",
-      "stop": "2026-06-05T00:00:00+05:00",
-      "title": "Access Daily With Mario & Kit",
-      "desc": "Sports analyst Cobi Jones; comic Joel Kim Booster talks about his \"Bad Dates\" podcast; singer Nezza talks about her latest single, \"Sweat\"; TV personalities Hercy Miller, Jemma Durrant and Alexie Olivo (Netflix's \"Calabasas Confidential\"); #HotPicks; majestic beasts!",
-      "date": "2026",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Series",
-        "Newsmagazine",
-        "Entertainment"
-      ],
-      "episode": "S16 E157",
-      "icon": "http://dtil.tmsimg.com/assets/p22894952_b_h8_ab.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Mario Lopez",
-          "Kit Hoover",
-          "Scott Evans"
-        ]
-      }
-    },
-    {
       "start": "2026-06-05T00:00:00+05:00",
       "stop": "2026-06-05T01:00:00+05:00",
       "title": "The Kelly Clarkson Show",
@@ -203,6 +136,82 @@
         "News"
       ],
       "icon": "http://dtil.tmsimg.com/assets/p26421534_b_h8_ab.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-06-05T05:00:00+05:00",
+      "stop": "2026-06-05T06:00:00+05:00",
+      "title": "The Americas",
+      "sub_title": "Mexico Fun Fact Edition",
+      "desc": "Mexico, where deserts meet tropics; see fledgling pygmy owls, orca hunting, species in flooded caves and orchid bees filmed in incredible detail with Tom Hanks -- plus new pop-up fun facts revealing more about the hidden lives of unique wildlife.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Documentary",
+        "Nature",
+        "Animals"
+      ],
+      "episode": "S1 E11",
+      "icon": "http://dtil.tmsimg.com/assets/p27691415_b_h8_ab.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Tom Hanks"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-05T06:00:00+05:00",
+      "stop": "2026-06-05T07:00:00+05:00",
+      "title": "The Americas",
+      "sub_title": "The Frozen North Fun Fact Edition",
+      "desc": "The Frozen North, where wolves and polar bears vie for food, hares outsmart lynx and walrus sing on rocky shores; as summer arrives, grouse perform mating dances, caribou migrate vast distances and salmon race upstream -- plus new pop-up fun facts.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Documentary",
+        "Nature",
+        "Animals"
+      ],
+      "episode": "S1 E12",
+      "icon": "http://dtil.tmsimg.com/assets/p27691415_b_h8_ab.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Tom Hanks"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-05T07:00:00+05:00",
+      "stop": "2026-06-05T08:00:00+05:00",
+      "title": "Law & Order: Special Victims Unit",
+      "sub_title": "False Idols",
+      "desc": "The SVU must determine fact from fantasy when a famous author twists the details of a serious crime; Fin has a challenging day at work.",
+      "date": "2025",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "Series",
+        "Crime drama",
+        "Drama",
+        "Action",
+        "Thriller",
+        "Mystery"
+      ],
+      "episode": "S27 E7",
+      "icon": "http://dtil.tmsimg.com/assets/p30834692_b_h8_af.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Steve Boyum"
+        ],
+        "actor": [
+          "Mariska Hargitay",
+          "Ice-T",
+          "Kelli Giddish"
+        ]
+      }
     }
   ]
 }
