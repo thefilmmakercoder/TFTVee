@@ -4,45 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-05T02:50:00+05:00",
-      "stop": "2026-06-05T03:00:00+05:00",
-      "title": "France 24 Feature",
-      "sub_title": "First Edition",
-      "desc": "News feature in English from France 24, Paris.",
-      "language": "en",
-      "rating": "NR",
-      "categories": [
-        "News"
-      ],
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/337182/image/334x188"
-    },
-    {
-      "start": "2026-06-05T03:00:00+05:00",
-      "stop": "2026-06-05T03:10:00+05:00",
-      "title": "Euronews",
-      "sub_title": "Friday 5 June 2026",
-      "desc": "Headlines, Breaking News & Analysis from the Euronews news centre in Brussels, Belgium, in English.",
-      "language": "en",
-      "rating": "NR",
-      "categories": [
-        "News"
-      ],
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/276/image/334x188"
-    },
-    {
-      "start": "2026-06-05T03:10:00+05:00",
-      "stop": "2026-06-05T03:40:00+05:00",
-      "title": "NHK Newsline",
-      "sub_title": "Friday 5 June 2026",
-      "desc": "English news from Japan's Broadcasting Corporation, NHK, delivering the latest in business, technology, health, environmental and world news.",
-      "language": "en",
-      "rating": "NR",
-      "categories": [
-        "News"
-      ],
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/439062/image/334x188"
-    },
-    {
       "start": "2026-06-05T03:40:00+05:00",
       "stop": "2026-06-05T04:30:00+05:00",
       "title": "Cbc The National",
@@ -162,6 +123,46 @@
       ],
       "episode": "S1 E1",
       "icon": "https://www.fetchtv.com.au/v2/epg/program/9557781/image/334x188"
+    },
+    {
+      "start": "2026-06-05T09:55:00+05:00",
+      "stop": "2026-06-05T10:30:00+05:00",
+      "title": "Bamay",
+      "sub_title": "Noongar Country - The Pinnacles WA Part 1",
+      "desc": "Slow TV is back on NITV with more beautiful Bamay, celebrating stunning landscapes of Countries across Australia. Sit back and relax with the healing powers of Country.",
+      "language": "en",
+      "rating": "G",
+      "categories": [
+        "Special Interest"
+      ],
+      "episode": "S4 E11",
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/391682/image/334x188"
+    },
+    {
+      "start": "2026-06-05T10:30:00+05:00",
+      "stop": "2026-06-05T10:35:00+05:00",
+      "title": "NITV News Update",
+      "desc": "NITV News recaptures the highlights of Indigenous news around the country.",
+      "language": "en",
+      "rating": "NR",
+      "categories": [
+        "News"
+      ],
+      "episode": "E99",
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/5904078/image/334x188"
+    },
+    {
+      "start": "2026-06-05T10:35:00+05:00",
+      "stop": "2026-06-05T11:05:00+05:00",
+      "title": "BBC News At Ten",
+      "sub_title": "Friday 5 June 2026",
+      "desc": "The latest national and international news stories from the BBC News team from London, UK, in English.",
+      "language": "en",
+      "rating": "NR",
+      "categories": [
+        "News"
+      ],
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/415775/image/334x188"
     }
   ]
 }

@@ -4,49 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-05T02:30:00+05:00",
-      "stop": "2026-06-05T03:00:00+05:00",
-      "title": "Live: News 4 NY at 5:30",
-      "desc": "NY news.",
-      "date": "2017",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p14883149_b_h10_ac.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-06-05T03:00:00+05:00",
-      "stop": "2026-06-05T03:30:00+05:00",
-      "title": "Live: News 4 NY at 6",
-      "desc": "The latest local news, weather and investigative stories impacting your community.",
-      "date": "2011",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p8846208_b_h10_ae.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-06-05T03:30:00+05:00",
-      "stop": "2026-06-05T04:00:00+05:00",
-      "title": "NBC Nightly News With Tom Llamas",
-      "desc": "Tom Llamas anchors the latest news, going beyond the headlines to see how lives are affected by the world around them.",
-      "date": "2026",
-      "language": "en",
-      "categories": [
-        "Series",
-        "News"
-      ],
-      "episode": "S2 E145",
-      "icon": "http://dtil.tmsimg.com/assets/p30141511_b_h8_aa.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Tom Llamas"
-        ]
-      }
-    },
-    {
       "start": "2026-06-05T04:00:00+05:00",
       "stop": "2026-06-05T04:30:00+05:00",
       "title": "News 4 NY at 7",
@@ -218,6 +175,73 @@
         "News"
       ],
       "icon": "http://dtil.tmsimg.com/assets/p10513206_b_h10_ae.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-06-05T11:07:00+05:00",
+      "stop": "2026-06-05T11:37:00+05:00",
+      "title": "NBC Nightly News With Tom Llamas",
+      "desc": "Tom Llamas anchors the latest news, going beyond the headlines to see how lives are affected by the world around them.",
+      "date": "2026",
+      "language": "en",
+      "categories": [
+        "Series",
+        "News"
+      ],
+      "episode": "S2 E145",
+      "icon": "http://dtil.tmsimg.com/assets/p30141511_b_h8_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Tom Llamas"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-05T11:37:00+05:00",
+      "stop": "2026-06-05T12:07:00+05:00",
+      "title": "Access Hollywood",
+      "desc": "\"Scary Movie 6\" premiere; \"The Young and the Restless\" set visit with Shemar Moore and Vivica A. Fox; \"Office Romance\" stars Jennifer Lopez and Brett Goldstein.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Newsmagazine",
+        "Entertainment",
+        "Interview"
+      ],
+      "episode": "S30 E187",
+      "icon": "http://dtil.tmsimg.com/assets/p30926755_b_h8_ab.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Mario Lopez",
+          "Kit Hoover",
+          "Scott Evans"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-05T12:07:00+05:00",
+      "stop": "2026-06-05T13:00:00+05:00",
+      "title": "The Kelly Clarkson Show",
+      "desc": "Cameoke by Girl Named Tom; Nicholas Galitzine and Camila Mendes; Dr. Jill Biden.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Talk",
+        "Variety",
+        "Entertainment"
+      ],
+      "episode": "S7 E150",
+      "icon": "http://dtil.tmsimg.com/assets/p16993616_b_h8_af.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Kelly Clarkson",
+          "Nicholas Galitzine",
+          "Camila Mendes"
+        ]
+      }
     }
   ]
 }

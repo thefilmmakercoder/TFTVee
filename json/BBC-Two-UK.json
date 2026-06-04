@@ -4,18 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-05T02:30:00+05:00",
-      "stop": "2026-06-05T03:00:00+05:00",
-      "title": "Newsnight, followed by Weather",
-      "desc": "Insights and global interviews on the crucial news stories of the day. With Faisal Islam. Followed by Weather.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/1360f214-f1c7-48b1-86b7-9e3385c331ca/16-9"
-    },
-    {
       "start": "2026-06-05T03:00:00+05:00",
       "stop": "2026-06-05T04:00:00+05:00",
       "title": "Surgeons: At the Edge of Life",
@@ -141,6 +129,18 @@
         "Factual"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/57395b44-2a2a-4520-a6c0-ce315e584d5a/16-9"
+    },
+    {
+      "start": "2026-06-05T17:00:00+05:00",
+      "stop": "2026-06-05T17:45:00+05:00",
+      "title": "Impossible",
+      "desc": "The quiz show where players must avoid Impossible answers to stay in the competition. 17 people start today's show, but how many of them will survive to face the \u00a310,000 question.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Game Show"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/c3b9f73a-2820-4b07-a409-0285e406a26e/16-9"
     }
   ]
 }

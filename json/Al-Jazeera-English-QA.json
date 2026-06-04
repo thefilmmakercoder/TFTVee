@@ -4,30 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-05T02:00:00+05:00",
-      "stop": "2026-06-05T03:00:00+05:00",
-      "title": "Newshour",
-      "desc": "Latest news and in-depth analysis from around the world.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "World Affairs"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/d3ab8e46-f785-41e9-8ca7-d20f806b21c3/16-9"
-    },
-    {
-      "start": "2026-06-05T03:00:00+05:00",
-      "stop": "2026-06-05T04:00:00+05:00",
-      "title": "Newshour",
-      "desc": "Latest news and in-depth analysis from around the world.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "World Affairs"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/d3ab8e46-f785-41e9-8ca7-d20f806b21c3/16-9"
-    },
-    {
       "start": "2026-06-05T04:00:00+05:00",
       "stop": "2026-06-05T04:30:00+05:00",
       "title": "News Live",
@@ -148,6 +124,30 @@
         "Politics"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/f8330164-810d-437d-8cea-4cee5c379e2e/16-9"
+    },
+    {
+      "start": "2026-06-05T10:00:00+05:00",
+      "stop": "2026-06-05T10:30:00+05:00",
+      "title": "News Live",
+      "desc": "Up-to-date news and analysis from around the world.",
+      "language": "en",
+      "categories": [
+        "News & Documentary",
+        "World Affairs"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/96ceecfe-bd8e-4582-8dcb-468432c274b0/16-9"
+    },
+    {
+      "start": "2026-06-05T10:30:00+05:00",
+      "stop": "2026-06-05T11:00:00+05:00",
+      "title": "Inside Story",
+      "desc": "Ep.1338 Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds from around the globe.",
+      "language": "en",
+      "categories": [
+        "News & Documentary",
+        "World Affairs"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/ca4e357d-1d07-4649-9a5f-dd29e98c7822/16-9"
     }
   ]
 }

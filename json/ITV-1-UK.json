@@ -4,18 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-05T02:30:00+05:00",
-      "stop": "2026-06-05T02:45:00+05:00",
-      "title": "ITV News London",
-      "desc": "The latest news and weather from London and the South East.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/7b626dda-43d6-4534-aa4f-fe51ec952a07/16-9"
-    },
-    {
       "start": "2026-06-05T02:45:00+05:00",
       "stop": "2026-06-05T03:15:00+05:00",
       "title": "The Late Debate",
@@ -147,6 +135,18 @@
         "News"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/1285f47a-729e-48af-947f-89a244992581/16-9"
+    },
+    {
+      "start": "2026-06-05T16:50:00+05:00",
+      "stop": "2026-06-05T17:00:00+05:00",
+      "title": "ITV News London",
+      "desc": "The latest news and weather from London and the South East.",
+      "language": "en",
+      "categories": [
+        "News & Documentary",
+        "News"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/342feffa-9411-4be6-bcd3-7d1157137a2f/16-9"
     }
   ]
 }

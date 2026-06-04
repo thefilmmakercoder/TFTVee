@@ -4,14 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-04T19:20:00+05:00",
-      "stop": "2026-06-04T23:00:00+05:00",
-      "title": "Duke - Back In The Future",
-      "desc": "We'll catch you later on DUKE.",
-      "language": "en",
-      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/Duke-NZ.png"
-    },
-    {
       "start": "2026-06-04T23:00:00+05:00",
       "stop": "2026-06-05T04:35:00+05:00",
       "title": "On Duke Today...",
@@ -122,6 +114,17 @@
       "language": "en",
       "rating": "PG",
       "episode": "S5 E13",
+      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/Duke-NZ.png"
+    },
+    {
+      "start": "2026-06-05T12:00:00+05:00",
+      "stop": "2026-06-05T13:00:00+05:00",
+      "title": "The Simpsons",
+      "sub_title": "Faith Off",
+      "desc": "Bart is convinced he's a faith healer after he helps a revivalist extract Homer's head from a bucket.",
+      "language": "en",
+      "rating": "PG",
+      "episode": "S11 E11",
       "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/Duke-NZ.png"
     }
   ]

@@ -4,36 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-05T02:30:00+05:00",
-      "stop": "2026-06-05T03:00:00+05:00",
-      "title": "NJ Spotlight News with Briana Vannozzi",
-      "desc": "Statewide reporting on the latest news and issues affecting communities across the Garden State.",
-      "date": "2020",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p18850294_b_h10_aa.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-06-05T03:00:00+05:00",
-      "stop": "2026-06-05T03:30:00+05:00",
-      "title": "DW News",
-      "desc": "Presenting a round-up of the most recent news and developments from across the world.",
-      "date": "2002",
-      "language": "en",
-      "rating": "A",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p26245192_b_h10_aa.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Ben Fajzullin"
-        ]
-      }
-    },
-    {
       "start": "2026-06-05T03:30:00+05:00",
       "stop": "2026-06-05T04:00:00+05:00",
       "title": "BBC World News America",
@@ -217,6 +187,50 @@
       "credits": {
         "actor": [
           "Danielle Brooks"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-05T14:30:00+05:00",
+      "stop": "2026-06-05T15:00:00+05:00",
+      "title": "Rick Steves' Europe",
+      "desc": "Rick Steves' guidebooks, public-radio program and numerous television series have made him an essential resource for travelers wishing to explore Europe. This program finds the knowledgeable host offering globetrotters a fresh perspective on lodgings, transportation and places to visit on their journeys. One thing that hasn't changed, however, is Steves' belief that travelers should become \"temporary locals,\" exploring not only major cities and the usual sites, but out-of-the-way locales that often produce the most authentic, and enjoyable, experiences of a trip.",
+      "date": "2000",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Travel"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p25482162_b_h8_ab.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Rick Steves"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-05T15:00:00+05:00",
+      "stop": "2026-06-05T15:30:00+05:00",
+      "title": "Wowsabout",
+      "desc": "Ronald, a meticulous, rule-following pig, and Roxy, a free-spirited musical hedgehog, explore the \"wows\" of one of America's most extraordinary places -- Sequoia National Park.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TVY",
+      "categories": [
+        "Special",
+        "Entertainment",
+        "Educational",
+        "Animated"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p32635772_b_h8_aa.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "John Tartaglia"
+        ],
+        "actor": [
+          "Dorien Davies",
+          "John Tartaglia",
+          "Alice Dinnean"
         ]
       }
     }
