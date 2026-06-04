@@ -4,14 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-04T08:00:00+05:00",
-      "stop": "2026-06-04T09:30:00+05:00",
-      "title": "This is BBC Three",
-      "desc": "Programmes start at 7.00pm.",
-      "language": "en",
-      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/BBC-Three-UK.png"
-    },
-    {
       "start": "2026-06-04T09:30:00+05:00",
       "stop": "2026-06-04T15:30:00+05:00",
       "title": "..programmes start at 7.00pm",
@@ -126,6 +118,18 @@
         "Comedy"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/ca025229-8e6b-47d9-8a93-5ce460a673e3/16-9"
+    },
+    {
+      "start": "2026-06-05T04:25:00+05:00",
+      "stop": "2026-06-05T04:50:00+05:00",
+      "title": "Ladhood",
+      "desc": "After a bad day at work, Liam is forced to confront his mental health problems. Contains strong language.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Comedy"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/6307a3e7-bc1c-4d8a-9165-ae72c284584b/16-9"
     }
   ]
 }

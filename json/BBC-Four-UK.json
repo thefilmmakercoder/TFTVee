@@ -4,14 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-04T07:30:00+05:00",
-      "stop": "2026-06-04T09:30:00+05:00",
-      "title": "This is BBC Four",
-      "desc": "Programmes start at 7.00pm.",
-      "language": "en",
-      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/BBC-Four-UK.png"
-    },
-    {
       "start": "2026-06-04T09:30:00+05:00",
       "stop": "2026-06-04T15:30:00+05:00",
       "title": "..programmes start at 7.00pm",
@@ -124,6 +116,18 @@
         "Game Show"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/ebad9b74-e3c5-423e-bc88-5b6ba3402ccf/16-9"
+    },
+    {
+      "start": "2026-06-05T06:20:00+05:00",
+      "stop": "2026-06-05T07:20:00+05:00",
+      "title": "Art of America",
+      "desc": "Andrew Graham-Dixon begins his history of American art with portraits of Puritan settlers and the dark truth behind Benjamin West's most famous painting.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Arts"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/f01e24d9-8882-48cb-bcfb-83aff8793520/16-9"
     }
   ]
 }

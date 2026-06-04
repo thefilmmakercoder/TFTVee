@@ -4,98 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-04T11:00:00+05:00",
-      "stop": "2026-06-04T11:34:00+05:00",
-      "title": "NBC4 News at 11pm",
-      "desc": "The latest local news, weather and investigative stories impacting the community.",
-      "date": "2011",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p8781143_b_h10_ad.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-06-04T11:34:00+05:00",
-      "stop": "2026-06-04T12:37:00+05:00",
-      "title": "The Tonight Show Starring Jimmy Fallon",
-      "sub_title": "Nick Jonas; Amy Sedaris; Violet Grohl",
-      "desc": "Singer Nick Jonas; actress Amy Sedaris; Violet Grohl performs.",
-      "date": "2026",
-      "language": "en",
-      "rating": "TV14",
-      "categories": [
-        "Series",
-        "Talk",
-        "Comedy"
-      ],
-      "episode": "S13 E112",
-      "icon": "http://dtil.tmsimg.com/assets/p9898935_b_h8_am.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Jimmy Fallon",
-          "Nick Jonas",
-          "Amy Sedaris"
-        ]
-      }
-    },
-    {
-      "start": "2026-06-04T12:37:00+05:00",
-      "stop": "2026-06-04T13:37:00+05:00",
-      "title": "Late Night With Seth Meyers",
-      "sub_title": "Will Forte; Alison Brie",
-      "desc": "Actor Will Forte; actress Alison Brie.",
-      "date": "2026",
-      "language": "en",
-      "rating": "TV14",
-      "categories": [
-        "Series",
-        "Talk",
-        "Comedy",
-        "Political News Satire & Talk"
-      ],
-      "episode": "S13 E103",
-      "icon": "http://dtil.tmsimg.com/assets/p31240203_b_h8_aa.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Seth Meyers",
-          "Will Forte",
-          "Alison Brie"
-        ]
-      }
-    },
-    {
-      "start": "2026-06-04T13:37:00+05:00",
-      "stop": "2026-06-04T14:07:00+05:00",
-      "title": "NBC4 News at 11pm",
-      "desc": "The latest local news, weather and investigative stories impacting the community.",
-      "date": "2011",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p8781143_b_h10_ad.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-06-04T14:07:00+05:00",
-      "stop": "2026-06-04T14:37:00+05:00",
-      "title": "NBC Nightly News With Tom Llamas",
-      "desc": "Tom Llamas anchors the latest news, going beyond the headlines to see how lives are affected by the world around them.",
-      "date": "2026",
-      "language": "en",
-      "categories": [
-        "Series",
-        "News"
-      ],
-      "episode": "S2 E144",
-      "icon": "http://dtil.tmsimg.com/assets/p30141511_b_h8_aa.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Tom Llamas"
-        ]
-      }
-    },
-    {
       "start": "2026-06-04T14:37:00+05:00",
       "stop": "2026-06-04T15:30:00+05:00",
       "title": "The Kelly Clarkson Show",
@@ -201,6 +109,95 @@
           "Savannah Guthrie",
           "Craig Melvin",
           "Al Roker"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-04T21:00:00+05:00",
+      "stop": "2026-06-04T22:00:00+05:00",
+      "title": "Today 3rd Hour",
+      "desc": "Gut health guidelines with Dr. Trisha Pasricha; actress Alison Brie; actress Kyra Sedgwick; summer wine with Vanessa Price; what to read with Tim Ehrenberg.",
+      "date": "2026",
+      "language": "en",
+      "categories": [
+        "Series",
+        "Talk",
+        "News"
+      ],
+      "episode": "S8 E183",
+      "icon": "http://dtil.tmsimg.com/assets/p30939266_b_h8_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Craig Melvin",
+          "Al Roker",
+          "Dylan Dreyer"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-04T22:00:00+05:00",
+      "stop": "2026-06-04T23:00:00+05:00",
+      "title": "Today With Jenna & Sheinelle",
+      "desc": "The Scoop with Nessa Diab; comic Hannah Berner; fashion and decor trends with Nathan Turner and Melissa Garcia; Today Food with Samah Dada; Inayah performs.",
+      "date": "2026",
+      "language": "en",
+      "categories": [
+        "Series",
+        "Talk",
+        "Newsmagazine",
+        "Entertainment"
+      ],
+      "episode": "S1 E103",
+      "icon": "http://dtil.tmsimg.com/assets/p31933424_b_h8_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Jenna Bush-Hager",
+          "Sheinelle Jones",
+          "Nessa Diab"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-04T23:00:00+05:00",
+      "stop": "2026-06-04T23:30:00+05:00",
+      "title": "NBC4 News at 11am",
+      "desc": "The latest local news, weather and investigative stories impacting the community.",
+      "date": "2016",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p12892190_b_h10_ad.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-06-04T23:30:00+05:00",
+      "stop": "2026-06-05T00:00:00+05:00",
+      "title": "California Live",
+      "desc": "A daily lifestyle show that takes a ride through all of California, discovering many of the hidden treasures the state and its people have to offer including beauty, glamour, fitness, food, health, and tech.",
+      "date": "2019",
+      "language": "en",
+      "categories": [
+        "Community"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p16325568_b_h10_ac.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-06-05T00:00:00+05:00",
+      "stop": "2026-06-05T01:00:00+05:00",
+      "title": "NBC News Daily",
+      "desc": "NBC News provides viewers with the latest national and international news; consumer, health and personal finance reporting; up-to-the-minute local news.",
+      "date": "2026",
+      "language": "en",
+      "categories": [
+        "Series",
+        "News"
+      ],
+      "episode": "E100",
+      "icon": "http://dtil.tmsimg.com/assets/p22712535_b_h8_ad.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Vicky Nguyen",
+          "Morgan Radford"
         ]
       }
     }

@@ -4,18 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-04T07:45:00+05:00",
-      "stop": "2026-06-04T11:00:00+05:00",
-      "title": "Teleshopping",
-      "desc": "Teleshopping.",
-      "language": "en",
-      "categories": [
-        "Specialist",
-        "Shopping"
-      ],
-      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/Film-4-UK.png"
-    },
-    {
       "start": "2026-06-04T11:00:00+05:00",
       "stop": "2026-06-04T15:00:00+05:00",
       "title": "Teleshopping",
@@ -162,6 +150,20 @@
         "Shopping"
       ],
       "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/Film-4-UK.png"
+    },
+    {
+      "start": "2026-06-05T15:00:00+05:00",
+      "stop": "2026-06-05T17:30:00+05:00",
+      "title": "Reap the Wild Wind",
+      "desc": "Period melodrama. John Wayne, Ray Milland and Paulette Goddard star in this tale of fierce rivalries engendered by love and seemingly deliberate shipwrecking in 19th-century Florida.",
+      "date": "1942",
+      "language": "en",
+      "rating": "PG",
+      "categories": [
+        "Movie",
+        "Adventure"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/adbee291-e207-4259-806b-d5b7b8be6f25/16-9"
     }
   ]
 }
