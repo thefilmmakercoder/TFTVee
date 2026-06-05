@@ -4,42 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-05T19:35:00+05:00",
-      "stop": "2026-06-05T20:05:00+05:00",
-      "title": "Classic Emmerdale",
-      "desc": "Jamie and Louise rush to intervene when Brenda reveals Bob's plan to break into prison to see Viv. Victoria is furious to overhear Diane reveal Andy planned to kill himself.",
-      "language": "en",
-      "categories": [
-        "Entertainment",
-        "Soap"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/2c2e4c34-6f97-44a9-a6ab-463fa7641203/16-9"
-    },
-    {
-      "start": "2026-06-05T20:05:00+05:00",
-      "stop": "2026-06-05T20:40:00+05:00",
-      "title": "Classic Emmerdale",
-      "desc": "Viv is astonished when Bob turns up at the prison to take her drama class, but he doesn't receive the welcome he hoped for. A gift of a computer from Shadrach inspires Ashley.",
-      "language": "en",
-      "categories": [
-        "Entertainment",
-        "Soap"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/1592b030-5a5a-46cc-95e0-eba6daff8e17/16-9"
-    },
-    {
-      "start": "2026-06-05T20:40:00+05:00",
-      "stop": "2026-06-05T21:15:00+05:00",
-      "title": "Classic Coronation Street",
-      "desc": "As Jerry reels from Teresa's revelation, an oblivious Mel joins Abi for a night out - which has disastrous consequences - and Sean decides to move on with his love life.",
-      "language": "en",
-      "categories": [
-        "Entertainment",
-        "Soap"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/fdfaf178-2e61-441e-bc50-685315288e86/16-9"
-    },
-    {
       "start": "2026-06-05T21:15:00+05:00",
       "stop": "2026-06-05T21:50:00+05:00",
       "title": "Classic Coronation Street",
@@ -152,6 +116,43 @@
         "Comedy"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/b30a0c9e-87ad-4a3f-84b0-566f8c43287b/16-9"
+    },
+    {
+      "start": "2026-06-06T06:15:00+05:00",
+      "stop": "2026-06-06T06:30:00+05:00",
+      "title": "Unwind with ITV",
+      "desc": "Your daily escape designed to calm the mind and encourage relaxation and reflection.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Lifestyles"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/75409068-ce37-3fe7-9550-c137930302de/16-9"
+    },
+    {
+      "start": "2026-06-06T06:30:00+05:00",
+      "stop": "2026-06-06T10:00:00+05:00",
+      "title": "Teleshopping",
+      "desc": "Shopping from home.",
+      "language": "en",
+      "categories": [
+        "Specialist",
+        "Shopping"
+      ],
+      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/ITV-3-UK.png"
+    },
+    {
+      "start": "2026-06-06T10:00:00+05:00",
+      "stop": "2026-06-06T12:10:00+05:00",
+      "title": "Inspector Morse",
+      "sub_title": "Greeks Bearing Gifts",
+      "desc": "Morse and Lewis face a language barrier when they investigate a murder in Oxford's Greek community.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Detective"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/203a9fbe-2d97-43e8-9ec0-98820d2455db/16-9"
     }
   ]
 }

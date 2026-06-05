@@ -4,30 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-05T18:00:00+05:00",
-      "stop": "2026-06-05T19:00:00+05:00",
-      "title": "Good Day LA at 6am",
-      "desc": "Morning news coverage.",
-      "date": "2019",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p16719279_b_h8_ab.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-06-05T19:00:00+05:00",
-      "stop": "2026-06-05T21:00:00+05:00",
-      "title": "Good Day LA at 7am",
-      "desc": "Morning news coverage.",
-      "date": "2012",
-      "language": "en",
-      "categories": [
-        "Talk"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p9542652_b_h8_ac.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-06-05T21:00:00+05:00",
       "stop": "2026-06-05T22:00:00+05:00",
       "title": "Good Day LA at 9am",
@@ -198,6 +174,27 @@
         "News"
       ],
       "icon": "http://dtil.tmsimg.com/assets/p12829248_b_h8_ae.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-06-06T06:00:00+05:00",
+      "stop": "2026-06-06T06:30:00+05:00",
+      "title": "FOX 11 News at 6pm",
+      "desc": "Local and regional news coverage.",
+      "date": "2020",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p18140393_b_h8_ad.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-06-06T06:30:00+05:00",
+      "stop": "2026-06-06T07:00:00+05:00",
+      "title": "Live: Angels Pregame",
+      "desc": "KTTV delivers premier Los Angeles news and entertainment, specializing in high-impact local journalism, live professional sports, and the flagship Fox network lineup of primetime series and reality television.",
+      "date": "2014",
+      "language": "en",
+      "icon": "http://dtil.tmsimg.com/assets/p10709163_st_h10_aa.jpg?w=960&h=540"
     }
   ]
 }

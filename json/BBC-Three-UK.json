@@ -4,14 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-05T09:30:00+05:00",
-      "stop": "2026-06-05T15:30:00+05:00",
-      "title": "..programmes start at 7.00pm",
-      "desc": "BBC Three delivers bold and provocative content for younger audiences, featuring groundbreaking documentaries, experimental comedy, and fresh drama.",
-      "language": "en",
-      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/BBC-Three-UK.png"
-    },
-    {
       "start": "2026-06-05T15:30:00+05:00",
       "stop": "2026-06-05T21:30:00+05:00",
       "title": "..programmes start at 7.00pm",
@@ -129,6 +121,17 @@
         "Factual"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/89a27971-cb24-4741-8b73-80f2f14e3527/16-9"
+    },
+    {
+      "start": "2026-06-06T05:00:00+05:00",
+      "stop": "2026-06-06T05:45:00+05:00",
+      "title": "Love in the Flesh",
+      "desc": "Five couples who have only ever chatted online are about to have a first proper date. Contains some strong language.",
+      "language": "en",
+      "categories": [
+        "Entertainment"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/c5f2686f-acbb-4013-acb6-177134a55c05/16-9"
     }
   ]
 }

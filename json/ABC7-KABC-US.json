@@ -4,42 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-05T18:00:00+05:00",
-      "stop": "2026-06-05T19:00:00+05:00",
-      "title": "Eyewitness News 6AM",
-      "desc": "News coverage to start the day.",
-      "date": "2004",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p677002_b_h8_af.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-06-05T19:00:00+05:00",
-      "stop": "2026-06-05T21:00:00+05:00",
-      "title": "Good Morning America",
-      "desc": "Television host Heidi Klum; dancers Derek Hough and Hayley Erbert Hough; musicians Sting and Shaggy perform; 50 States in 50 Weeks: America the Beautiful stops in Oklahoma; The Right Stuff series with Lori Bergamotto.",
-      "date": "2026",
-      "language": "en",
-      "categories": [
-        "Series",
-        "Talk",
-        "News",
-        "Variety",
-        "Public affairs"
-      ],
-      "episode": "E178",
-      "icon": "http://dtil.tmsimg.com/assets/p31385280_b_h10_aa.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "George Stephanopoulos",
-          "Robin Roberts",
-          "Michael Strahan"
-        ]
-      }
-    },
-    {
       "start": "2026-06-05T21:00:00+05:00",
       "stop": "2026-06-05T22:00:00+05:00",
       "title": "Live with Kelly and Mark",
@@ -232,6 +196,32 @@
           "Shaquille O'Neal"
         ]
       }
+    },
+    {
+      "start": "2026-06-06T05:30:00+05:00",
+      "stop": "2026-06-06T08:00:00+05:00",
+      "title": "Live: 2026 NBA Finals",
+      "desc": "The Knicks battle the Spurs at Frost Bank Center in Game 2 of the NBA Finals. New York leads 1-0 after a 105-95 comeback win in Game 1 behind Jalen Brunson, who scored 30 points, and Karl-Anthony Towns, who had a crucial double-double.",
+      "language": "en",
+      "categories": [
+        "Sports",
+        "Playoff sports",
+        "Basketball"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/GNLZZGG0034L9HS.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-06-06T08:00:00+05:00",
+      "stop": "2026-06-06T09:00:00+05:00",
+      "title": "Slam Dunk: The Finals",
+      "desc": "All basketball all the time with the best moments of the NBA Finals.",
+      "date": "2017",
+      "language": "en",
+      "categories": [
+        "Sports talk",
+        "Basketball"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p14137032_b_h10_aa.jpg?w=960&h=540"
     }
   ]
 }

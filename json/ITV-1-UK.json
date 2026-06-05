@@ -4,30 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-05T16:50:00+05:00",
-      "stop": "2026-06-05T17:00:00+05:00",
-      "title": "ITV News London",
-      "desc": "The latest news and weather from London and the South East.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/342feffa-9411-4be6-bcd3-7d1157137a2f/16-9"
-    },
-    {
-      "start": "2026-06-05T17:00:00+05:00",
-      "stop": "2026-06-05T21:00:00+05:00",
-      "title": "ITV Racing: The Oaks",
-      "desc": "Coverage of horse racing from all over the UK that includes major events.",
-      "language": "en",
-      "categories": [
-        "Sports",
-        "Racing"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/7a71e624-209b-4ce3-bb7b-9c22b6078e40/16-9"
-    },
-    {
       "start": "2026-06-05T21:00:00+05:00",
       "stop": "2026-06-05T22:00:00+05:00",
       "title": "The Chase",
@@ -149,6 +125,31 @@
         "Factual"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/919658d9-fdfb-3612-a80e-4c01f270e011/16-9"
+    },
+    {
+      "start": "2026-06-06T07:55:00+05:00",
+      "stop": "2026-06-06T09:05:00+05:00",
+      "title": "Unwind with ITV",
+      "desc": "Your daily escape designed to calm the mind and encourage relaxation and reflection.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Lifestyles"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/5103de59-b6d5-4167-9422-c8f69e4358c3/16-9"
+    },
+    {
+      "start": "2026-06-06T09:05:00+05:00",
+      "stop": "2026-06-06T10:00:00+05:00",
+      "title": "Jason Atherton's Dubai Dishes",
+      "sub_title": "Street Food",
+      "desc": "Jason celebrates quick bites and food on the go Dubai-style, showcasing oysters with a spicy Asian-inspired dressing and a super easy and delicious grilled corn dish.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Cooking"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/ebc4ffa6-3f36-39c1-9589-9c349a7e3186/16-9"
     }
   ]
 }
