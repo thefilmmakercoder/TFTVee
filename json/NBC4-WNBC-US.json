@@ -4,50 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-05T21:00:00+05:00",
-      "stop": "2026-06-05T22:00:00+05:00",
-      "title": "NBC News Daily",
-      "desc": "NBC News provides viewers with the latest national and international news; consumer, health and personal finance reporting; up-to-the-minute local news.",
-      "date": "2026",
-      "language": "en",
-      "categories": [
-        "Series",
-        "News"
-      ],
-      "episode": "E101",
-      "icon": "http://dtil.tmsimg.com/assets/p22712535_b_h8_ad.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Vicky Nguyen",
-          "Morgan Radford"
-        ]
-      }
-    },
-    {
-      "start": "2026-06-05T22:00:00+05:00",
-      "stop": "2026-06-05T23:00:00+05:00",
-      "title": "Dateline",
-      "sub_title": "A Brother's Secret",
-      "desc": "A man and his son are shot to death.",
-      "date": "2025",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Series",
-        "Newsmagazine",
-        "Documentary"
-      ],
-      "episode": "S9 E16",
-      "icon": "http://dtil.tmsimg.com/assets/p31054010_b_h10_aa.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Craig Melvin",
-          "Andrea Canning",
-          "Natalie Morales"
-        ]
-      }
-    },
-    {
       "start": "2026-06-05T23:00:00+05:00",
       "stop": "2026-06-06T00:00:00+05:00",
       "title": "Access Daily With Mario & Kit",
@@ -204,6 +160,41 @@
         "Newsmagazine"
       ],
       "icon": "http://dtil.tmsimg.com/assets/p8692580_b_h8_ac.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-06-06T04:30:00+05:00",
+      "stop": "2026-06-06T05:00:00+05:00",
+      "title": "New York Knicks Road to the Championship",
+      "desc": "WNBC delivers breaking local news, in-depth investigative reporting, and live storm tracking dedicated to the New York tri-state region.",
+      "date": "2026",
+      "language": "en",
+      "icon": "http://dtil.tmsimg.com/tvbanners/generic/generic_tvbanners_h12.png"
+    },
+    {
+      "start": "2026-06-06T05:00:00+05:00",
+      "stop": "2026-06-06T07:00:00+05:00",
+      "title": "America's Got Talent",
+      "sub_title": "Auditions 1",
+      "desc": "Season 21 lives up to its lucky number with more Golden Buzzers in one night than ever before; it's an evening full of surprises, with a lineup ranging from not one but two dance crews that are not human, to a crossbow stunt duo taking the stage.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Variety",
+        "Music",
+        "Dance",
+        "Competition Reality"
+      ],
+      "episode": "S21 E1",
+      "icon": "http://dtil.tmsimg.com/assets/p32655317_b_h8_ab.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Terry Crews",
+          "Simon Cowell",
+          "Howie Mandel"
+        ]
+      }
     }
   ]
 }

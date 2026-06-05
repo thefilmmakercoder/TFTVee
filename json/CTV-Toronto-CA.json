@@ -4,68 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-05T21:00:00+05:00",
-      "stop": "2026-06-05T22:00:00+05:00",
-      "title": "Live: CTV News Toronto",
-      "desc": "CTV News covers stories that matter to Canadians, locally, nationally and internationally.",
-      "date": "2014",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p11226977_b_h8_ae.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-06-05T22:00:00+05:00",
-      "stop": "2026-06-05T22:30:00+05:00",
-      "title": "Young Sheldon",
-      "sub_title": "A Frankenstein's Monster and a Crazy Church Guy",
-      "desc": "Sheldon helps his roommate try to beat the stock market; Missy and Billy Sparks throw a party; Mary finds a new church.",
-      "date": "2024",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Series",
-        "Sitcom"
-      ],
-      "episode": "S7 E5",
-      "icon": "http://dtil.tmsimg.com/assets/p26083876_b_h8_aa.jpg?w=960&h=540",
-      "credits": {
-        "director": [
-          "Alex Reid"
-        ],
-        "actor": [
-          "Iain Armitage",
-          "Zoe Perry",
-          "Lance Barber"
-        ]
-      }
-    },
-    {
-      "start": "2026-06-05T22:30:00+05:00",
-      "stop": "2026-06-05T23:00:00+05:00",
-      "title": "The Bold and the Beautiful",
-      "desc": "Battle lines are drawn between Brooke and Katie; Wyatt contemplates joining Logan; Steffy grows suspicious about Hope's leave of absence.",
-      "date": "2026",
-      "language": "en",
-      "rating": "TV14",
-      "categories": [
-        "Series",
-        "Soap",
-        "Drama",
-        "Romance"
-      ],
-      "episode": "S39 E184",
-      "icon": "http://dtil.tmsimg.com/assets/p31167565_b_h10_aa.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Katherine Kelly Lang",
-          "Jacqueline MacInnes Wood",
-          "Thorsten Kaye"
-        ]
-      }
-    },
-    {
       "start": "2026-06-05T23:00:00+05:00",
       "stop": "2026-06-06T00:00:00+05:00",
       "title": "The Social",
@@ -248,6 +186,76 @@
           "Traci Melchor"
         ]
       }
+    },
+    {
+      "start": "2026-06-06T04:30:00+05:00",
+      "stop": "2026-06-06T05:00:00+05:00",
+      "title": "The Big Bang Theory",
+      "sub_title": "The Staircase Implementation",
+      "desc": "Leonard tells Penny about how he met Sheldon and what happened to the elevator.",
+      "date": "2010",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Sitcom"
+      ],
+      "episode": "S3 E22",
+      "icon": "http://dtil.tmsimg.com/assets/p7895968_b_h10_aa.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Mark Cendrowski"
+        ],
+        "actor": [
+          "Johnny Galecki",
+          "Jim Parsons",
+          "Kaley Cuoco"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-06T05:00:00+05:00",
+      "stop": "2026-06-06T06:00:00+05:00",
+      "title": "Spring Break Murders",
+      "sub_title": "Brittanee Drexel",
+      "desc": "Seventeen-year-old Brittanee Drexel sneaks off to Myrtle Beach, S.C., to join her friends for spring break; but she goes missing two days later.",
+      "date": "2025",
+      "language": "en",
+      "rating": "12",
+      "categories": [
+        "Series",
+        "Documentary",
+        "Crime"
+      ],
+      "episode": "S1 E1",
+      "icon": "http://dtil.tmsimg.com/assets/p29924355_b_h8_af.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Scott Leary"
+        ],
+        "actor": [
+          "Tom Jacobs",
+          "Stefan Naas",
+          "Heiko Oberm\u00f6ller"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-06T06:00:00+05:00",
+      "stop": "2026-06-06T07:00:00+05:00",
+      "title": "Crime Scene Investigators",
+      "sub_title": "The Jaguar Juggler",
+      "desc": "In an affluent DC suburb, a successful luxury car salesman is gunned down execution-style in his bed; the arrayed evidence eventually leads investigators to Mississippi and back as they close in on an unlikely assassin with a chilling motive.",
+      "date": "2025",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "Series",
+        "Documentary",
+        "Crime"
+      ],
+      "episode": "S1 E1",
+      "icon": "http://dtil.tmsimg.com/assets/p30042311_b_h8_aa.jpg?w=960&h=540"
     }
   ]
 }

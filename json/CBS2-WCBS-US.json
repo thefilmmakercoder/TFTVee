@@ -4,65 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-05T21:00:00+05:00",
-      "stop": "2026-06-05T21:30:00+05:00",
-      "title": "CBS News New York 12pm",
-      "desc": "Midday news update.",
-      "date": "2011",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p8492448_b_h8_aa.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-06-05T21:30:00+05:00",
-      "stop": "2026-06-05T22:30:00+05:00",
-      "title": "The Young and the Restless",
-      "desc": "Victor makes good on a promise to Lily; Holden and Audra are forced to face their past; Sharon gives Phyllis the benefit of the doubt.",
-      "date": "2026",
-      "language": "en",
-      "rating": "TV14",
-      "categories": [
-        "Series",
-        "Soap"
-      ],
-      "episode": "S53 E167",
-      "icon": "http://dtil.tmsimg.com/assets/p183904_b_h8_ai.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Peter Bergman",
-          "Eric Braeden",
-          "Christel Khalil"
-        ]
-      }
-    },
-    {
-      "start": "2026-06-05T22:30:00+05:00",
-      "stop": "2026-06-05T23:00:00+05:00",
-      "title": "The Bold and the Beautiful",
-      "desc": "Battle lines are drawn between Brooke and Katie; Wyatt contemplates joining Logan; Steffy grows suspicious about Hope's leave of absence.",
-      "date": "2026",
-      "language": "en",
-      "rating": "TV14",
-      "categories": [
-        "Series",
-        "Soap",
-        "Drama",
-        "Romance"
-      ],
-      "episode": "S39 E184",
-      "icon": "http://dtil.tmsimg.com/assets/p31167565_b_h10_aa.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Katherine Kelly Lang",
-          "Jacqueline MacInnes Wood",
-          "Thorsten Kaye"
-        ]
-      }
-    },
-    {
       "start": "2026-06-05T23:00:00+05:00",
       "stop": "2026-06-06T00:00:00+05:00",
       "title": "Beyond the Gates",
@@ -244,6 +185,82 @@
           "Eva Pilgrim",
           "Mary Calvi",
           "Jim Moret"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-06T04:30:00+05:00",
+      "stop": "2026-06-06T05:00:00+05:00",
+      "title": "Entertainment Tonight",
+      "sub_title": "ET's Nashville Week; ET On-Set Exclusive",
+      "desc": "The Tribeca Film Festival red carpet for \"The Accompanist\"; Carly Pearce (album \"Hummingbird\"); Jonathan Knight (HGTV's \"Crashers\" reboot); Blake Shelton's Ole Red, home to Spotify House during CMA Fest week; Tony Awards nominees play a game of ET'd Up.",
+      "date": "2026",
+      "language": "en",
+      "rating": "M 15+",
+      "categories": [
+        "Series",
+        "Newsmagazine",
+        "Entertainment"
+      ],
+      "episode": "S45 E238",
+      "icon": "http://dtil.tmsimg.com/assets/p184256_b_h8_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Kevin Frazier",
+          "Nischelle Turner",
+          "Rachel Smith"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-06T05:00:00+05:00",
+      "stop": "2026-06-06T06:00:00+05:00",
+      "title": "Sheriff Country",
+      "sub_title": "The Finest",
+      "desc": "After a mysterious school bus explosion leaves nine students missing, Sheriff Mickey Fox and Cal Fire Division Chief Sharon Leone must set aside their personal conflicts and unite their departments to try and crack the case.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "Series",
+        "Drama"
+      ],
+      "episode": "S1 E13",
+      "icon": "http://dtil.tmsimg.com/assets/p27323255_b_h8_aa.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Ed Ornelas"
+        ],
+        "actor": [
+          "Morena Baccarin",
+          "W. Earl Brown",
+          "Matt Lauria"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-06T06:00:00+05:00",
+      "stop": "2026-06-06T07:00:00+05:00",
+      "title": "Fire Country",
+      "sub_title": "The Bravest",
+      "desc": "With the clock ticking and the fate of nine missing students on the line, firefighter Bode Leone and Deputy Nathan Boone must risk it all in order to save innocent lives.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "Series",
+        "Drama"
+      ],
+      "episode": "S4 E13",
+      "icon": "http://dtil.tmsimg.com/assets/p22213607_b_h8_al.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Bill Purple"
+        ],
+        "actor": [
+          "Max Thieriot",
+          "Billy Burke",
+          "Kevin Alejandro"
         ]
       }
     }

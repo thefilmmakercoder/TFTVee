@@ -4,30 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-05T21:00:00+05:00",
-      "stop": "2026-06-05T22:00:00+05:00",
-      "title": "Good Day LA at 9am",
-      "desc": "Morning news coverage.",
-      "date": "2012",
-      "language": "en",
-      "categories": [
-        "Talk"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p9542653_b_h8_ac.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-06-05T22:00:00+05:00",
-      "stop": "2026-06-05T23:00:00+05:00",
-      "title": "Good Day LA at 10am",
-      "desc": "Morning news coverage.",
-      "date": "2022",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p22751421_b_h8_ab.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-06-05T23:00:00+05:00",
       "stop": "2026-06-06T00:00:00+05:00",
       "title": "GDLA+",
@@ -195,6 +171,27 @@
       "date": "2014",
       "language": "en",
       "icon": "http://dtil.tmsimg.com/assets/p10709163_st_h10_aa.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-06-06T07:00:00+05:00",
+      "stop": "2026-06-06T10:00:00+05:00",
+      "title": "Live: MLB Baseball",
+      "desc": "From Uniqlo Field at Dodger Stadium in Los Angeles.",
+      "language": "en",
+      "categories": [
+        "Sports",
+        "Baseball"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/GNLZZGG0033NRWD.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-06-06T10:00:00+05:00",
+      "stop": "2026-06-06T10:30:00+05:00",
+      "title": "Live: Angels Postgame",
+      "desc": "KTTV delivers premier Los Angeles news and entertainment, specializing in high-impact local journalism, live professional sports, and the flagship Fox network lineup of primetime series and reality television.",
+      "date": "2014",
+      "language": "en",
+      "icon": "http://dtil.tmsimg.com/assets/p10709178_st_h10_aa.jpg?w=960&h=540"
     }
   ]
 }
