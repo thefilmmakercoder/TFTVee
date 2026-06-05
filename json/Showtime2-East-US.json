@@ -4,57 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-05T06:05:00+05:00",
-      "stop": "2026-06-05T08:40:00+05:00",
-      "title": "The Last Duel",
-      "desc": "Jean de Carrouges is a respected knight known for his bravery and skill on the battlefield. Jacques Le Gris is a squire whose intelligence and eloquence makes him one of the most admired nobles in court. When Le Gris viciously assaults Carrouges' wife, she steps forward to accuse her attacker, an act of bravery and defiance that puts her life in jeopardy. The ensuing trial by combat, a grueling duel to the death, places the fate of all three in God's hands.",
-      "date": "2021",
-      "language": "en",
-      "rating": "R",
-      "categories": [
-        "Movie",
-        "Historical drama"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p18458845_v_h8_af.jpg?w=960&h=540",
-      "credits": {
-        "director": [
-          "Ridley Scott"
-        ],
-        "actor": [
-          "Matt Damon",
-          "Adam Driver",
-          "Jodie Comer"
-        ]
-      }
-    },
-    {
-      "start": "2026-06-05T08:40:00+05:00",
-      "stop": "2026-06-05T10:45:00+05:00",
-      "title": "Frida",
-      "desc": "This is the true story of Frida Kahlo (Salma Hayek) and her husband Diego Rivera (Alfred Molina), the larger-than-life painters who became the most acclaimed artists in Mexican history, and whose tempestuous love affair, landmark journeys to America, and outrageous personalities made them legendary.",
-      "date": "2002",
-      "language": "en",
-      "rating": "R",
-      "categories": [
-        "Movie",
-        "Biography",
-        "Drama",
-        "Romance",
-        "Historical drama"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p22714_v_h8_ab.jpg?w=960&h=540",
-      "credits": {
-        "director": [
-          "Julie Taymor"
-        ],
-        "actor": [
-          "Salma Hayek",
-          "Alfred Molina",
-          "Geoffrey Rush"
-        ]
-      }
-    },
-    {
       "start": "2026-06-05T10:45:00+05:00",
       "stop": "2026-06-05T12:05:00+05:00",
       "title": "Sexterior Motives",
@@ -246,6 +195,107 @@
           "Casey Affleck",
           "Elisabeth Moss",
           "Anna Pniowsky"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-06T01:00:00+05:00",
+      "stop": "2026-06-06T03:30:00+05:00",
+      "title": "Face/Off",
+      "desc": "Obsessed with bringing terrorist Castor Troy (Nicolas Cage) to justice, FBI agent Sean Archer (John Travolta) tracks down Troy, who has boarded a plane in Los Angeles. After the plane crashes and Troy is severely injured, possibly dead, Archer undergoes surgery to remove his face and replace it with Troy's. As Archer tries to use his disguise to elicit information about a bomb from Troy's brother, Troy awakes from a coma and forces the doctor who performed the surgery to give him Archer's face.",
+      "date": "1997",
+      "language": "en",
+      "rating": "R",
+      "categories": [
+        "Movie",
+        "Action",
+        "Crime drama"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p19525_v_h8_aq.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "John Woo"
+        ],
+        "actor": [
+          "John Travolta",
+          "Nicolas Cage",
+          "Joan Allen"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-06T03:30:00+05:00",
+      "stop": "2026-06-06T05:05:00+05:00",
+      "title": "Taken",
+      "desc": "A former government operative comes out of retirement and uses all his extensive training to rescue his estranged daughter from a slave trade operation.",
+      "date": "2008",
+      "language": "en",
+      "rating": "PG-13",
+      "categories": [
+        "Movie",
+        "Action",
+        "Thriller"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p177089_v_h8_ag.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Pierre Morel"
+        ],
+        "actor": [
+          "Liam Neeson",
+          "Maggie Grace",
+          "Famke Janssen"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-06T05:05:00+05:00",
+      "stop": "2026-06-06T07:15:00+05:00",
+      "title": "Top Gun: Maverick",
+      "desc": "After more than 30 years of service as one of the Navy's top aviators, Pete \"Maverick\" Mitchell is where he belongs, pushing the envelope as a courageous test pilot and dodging the advancement in rank that would ground him. Training a detachment of graduates for a special assignment, Maverick must confront the ghosts of his past and his deepest fears, culminating in a mission that demands the ultimate sacrifice from those who choose to fly it.",
+      "date": "2022",
+      "language": "en",
+      "rating": "PG-13",
+      "categories": [
+        "Movie",
+        "Action",
+        "Adventure"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p14325539_v_h8_al.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Joseph Kosinski"
+        ],
+        "actor": [
+          "Tom Cruise",
+          "Miles Teller",
+          "Jennifer Connelly"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-06T07:15:00+05:00",
+      "stop": "2026-06-06T09:05:00+05:00",
+      "title": "Quantum of Solace",
+      "desc": "Following the death of Vesper Lynd, James Bond (Daniel Craig) makes his next mission personal. The hunt for those who blackmailed his lover leads him to ruthless businessman Dominic Greene (Mathieu Amalric), a key player in the organization which coerced Vesper. Bond learns that Greene is plotting to gain total control of a vital natural resource, and he must navigate a minefield of danger and treachery to foil the plan.",
+      "date": "2008",
+      "language": "en",
+      "rating": "PG-13",
+      "categories": [
+        "Movie",
+        "Action",
+        "Adventure",
+        "Thriller"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p170973_v_h10_au.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Marc Forster"
+        ],
+        "actor": [
+          "Daniel Craig",
+          "Olga Kurylenko",
+          "Mathieu Amalric"
         ]
       }
     }
