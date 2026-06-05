@@ -4,18 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-05T23:00:00+05:00",
-      "stop": "2026-06-06T00:00:00+05:00",
-      "title": "Police Interceptors",
-      "desc": "Following an accident on the A43, cops tend to a wounded party on the side of the carriageway, but a lorry takes a calamitous wrong turn onto the other - towards oncoming traffic.",
-      "language": "en",
-      "categories": [
-        "Entertainment",
-        "Factual"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/e753def4-5e94-4d82-9682-9758ca02161e/16-9"
-    },
-    {
       "start": "2026-06-06T00:00:00+05:00",
       "stop": "2026-06-06T01:00:00+05:00",
       "title": "Traffic Cops",
@@ -146,6 +134,18 @@
         "Feature"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/d3e4d990-b4db-40ae-8fcd-b8b84c005c2b/16-9"
+    },
+    {
+      "start": "2026-06-06T09:25:00+05:00",
+      "stop": "2026-06-06T09:35:00+05:00",
+      "title": "Entertainment News on 5",
+      "desc": "A daily round-up of showbiz news and gossip from around the world, focusing on celebrities, movies, music and entertainment.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Factual"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/54751672-0bf4-4124-80c8-68b1ab25a6bd/16-9"
     }
   ]
 }

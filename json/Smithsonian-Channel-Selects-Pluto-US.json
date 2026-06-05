@@ -4,34 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-05T22:45:00+05:00",
-      "stop": "2026-06-05T23:45:00+05:00",
-      "title": "Carriers At War",
-      "sub_title": "USS Ford",
-      "desc": "A behind-the-scenes look at how the U.S. Navy's radically redesigned class of aircraft carrier, the Ford, was built.",
-      "date": "20180611",
-      "language": "en",
-      "categories": [
-        "Series",
-        "Documentary"
-      ],
-      "episode": "S01E04",
-      "icon": "https://images.pluto.tv/series/65b02ba2d22ce50014ae6a08/tile.jpg?fill=blur&fit=fill&fm=jpg&h=900&q=75&w=900"
-    },
-    {
-      "start": "2026-06-05T23:45:00+05:00",
-      "stop": "2026-06-06T00:45:00+05:00",
-      "title": "Memphis Belle In Color",
-      "desc": "The story of the B-17s of WWII, the airmen who flew them, and the most famous bomber of all, the Memphis Belle.",
-      "date": "20191110",
-      "language": "en",
-      "categories": [
-        "Documentary",
-        "Movie"
-      ],
-      "icon": "https://images.pluto.tv/episodes/6570f5edb8262d00133c067a/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694"
-    },
-    {
       "start": "2026-06-06T00:45:00+05:00",
       "stop": "2026-06-06T01:45:00+05:00",
       "title": "Planes, Cranes and Rockets",
@@ -39,8 +11,8 @@
       "date": "20140413",
       "language": "en",
       "categories": [
-        "Documentary",
-        "Movie"
+        "Movie",
+        "Documentary"
       ],
       "icon": "https://images.pluto.tv/episodes/5fa343ade906e1001a03dcd6/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694"
     },
@@ -101,8 +73,8 @@
       "date": "20191209",
       "language": "en",
       "categories": [
-        "Series",
-        "Documentary"
+        "Documentary",
+        "Series"
       ],
       "episode": "S03E04",
       "icon": "https://images.pluto.tv/series/61243518d343140013d451c0/tile.jpg?fill=blur&fit=fill&fm=jpg&h=900&q=75&w=900"
@@ -116,8 +88,8 @@
       "date": "20191202",
       "language": "en",
       "categories": [
-        "Series",
-        "Documentary"
+        "Documentary",
+        "Series"
       ],
       "episode": "S03E03",
       "icon": "https://images.pluto.tv/series/61243518d343140013d451c0/tile.jpg?fill=blur&fit=fill&fm=jpg&h=900&q=75&w=900"
@@ -131,8 +103,8 @@
       "date": "20191125",
       "language": "en",
       "categories": [
-        "Series",
-        "Documentary"
+        "Documentary",
+        "Series"
       ],
       "episode": "S03E02",
       "icon": "https://images.pluto.tv/series/61243518d343140013d451c0/tile.jpg?fill=blur&fit=fill&fm=jpg&h=900&q=75&w=900"
@@ -172,10 +144,49 @@
     {
       "start": "2026-06-06T09:45:00+05:00",
       "stop": "2026-06-06T10:45:00+05:00",
-      "title": "Smithsonian Channel Selects",
-      "desc": "Smithsonian Channel Selects streams a free, curated selection of documentaries and historical specials from the Smithsonian library.",
+      "title": "America in Color",
+      "sub_title": "The 1920s",
+      "desc": "Watch the Model T roll out, the Jazz Age erupt, and the market crash, as it has never been seen before: in color.",
+      "date": "20170702",
       "language": "en",
-      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/Smithsonian-Channel-Selects-Pluto-US.png"
+      "categories": [
+        "Series",
+        "History",
+        "Educational"
+      ],
+      "episode": "S01E01",
+      "icon": "https://images.pluto.tv/series/61243518d343140013d451c0/tile.jpg?fill=blur&fit=fill&fm=jpg&h=900&q=75&w=900"
+    },
+    {
+      "start": "2026-06-06T10:45:00+05:00",
+      "stop": "2026-06-06T11:45:00+05:00",
+      "title": "America in Color",
+      "sub_title": "Hollywood's Golden Age",
+      "desc": "Grab a front row seat to a fully colorized look at Hollywood's Golden Age.",
+      "date": "20181224",
+      "language": "en",
+      "categories": [
+        "Series",
+        "History",
+        "Educational"
+      ],
+      "episode": "S02E06",
+      "icon": "https://images.pluto.tv/series/61243518d343140013d451c0/tile.jpg?fill=blur&fit=fill&fm=jpg&h=900&q=75&w=900"
+    },
+    {
+      "start": "2026-06-06T11:45:00+05:00",
+      "stop": "2026-06-06T12:45:00+05:00",
+      "title": "Ice Airport Alaska",
+      "sub_title": "Arctic Survival",
+      "desc": "A national snowstorm brings US aviation to a standstill, but Anchorage fights through. USAF aircrews endure the toughest survival training on Alaska's North Slope, and a veteran aircraft flies life-saving cargo to an isolated community.",
+      "date": "20231015",
+      "language": "en",
+      "categories": [
+        "Documentary",
+        "Series"
+      ],
+      "episode": "S04E02",
+      "icon": "https://images.pluto.tv/series/650b5d5f3b20050013b5547c/tile.jpg?fill=blur&fit=fill&fm=jpg&h=900&q=75&w=900"
     }
   ]
 }

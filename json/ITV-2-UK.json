@@ -4,31 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-05T23:00:00+05:00",
-      "stop": "2026-06-06T00:00:00+05:00",
-      "title": "The Floor",
-      "desc": "Rob Brydon hosts the grand finale of the game show as the final nine players battle it out for the 50,000-pound jackpot.",
-      "language": "en",
-      "categories": [
-        "Entertainment",
-        "Game Show"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/2f9d908c-f4c1-4f3e-b1b6-4015c5dac9a8/16-9"
-    },
-    {
-      "start": "2026-06-06T00:00:00+05:00",
-      "stop": "2026-06-06T01:00:00+05:00",
-      "title": "Million Dollar Listing: LA",
-      "sub_title": "Storm the Castle",
-      "desc": "Reality series. James and David race to find a dream home for a very expectant client, and Tracy tries to balance a new portfolio with a demanding developer.",
-      "language": "en",
-      "categories": [
-        "Entertainment",
-        "Lifestyles"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/9dcd06ce-8035-41d7-94b6-b75916d18ef7/16-9"
-    },
-    {
       "start": "2026-06-06T01:00:00+05:00",
       "stop": "2026-06-06T02:05:00+05:00",
       "title": "Love Island",
@@ -153,6 +128,30 @@
         "Lifestyles"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/14cce118-9b8a-4eb0-a298-7dcd10e7504e/16-9"
+    },
+    {
+      "start": "2026-06-06T07:00:00+05:00",
+      "stop": "2026-06-06T10:00:00+05:00",
+      "title": "Teleshopping",
+      "desc": "Shopping from home.",
+      "language": "en",
+      "categories": [
+        "Specialist",
+        "Shopping"
+      ],
+      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/ITV-2-UK.png"
+    },
+    {
+      "start": "2026-06-06T10:00:00+05:00",
+      "stop": "2026-06-06T11:00:00+05:00",
+      "title": "Deal or No Deal",
+      "desc": "Join host Stephen Mulhern for one of the most exciting gameshows of all time as one of his contestants takes on the infamous Banker for a life-changing cash prize.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Game Show"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/2e2c95ad-b6d4-3291-b33a-dfff67e850f7/16-9"
     }
   ]
 }

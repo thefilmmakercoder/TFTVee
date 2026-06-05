@@ -4,42 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-05T23:25:00+05:00",
-      "stop": "2026-06-05T23:50:00+05:00",
-      "title": "TOTP: 1999",
-      "desc": "Jamie Theakston presents the pop chart programme, first broadcast on 10 December 1999 and featuring Whitney Houston, Mario Piu, Jamiroquai, Celine Dion, Atomic Kitten and Cliff Richard.",
-      "language": "en",
-      "categories": [
-        "Music & Radio",
-        "Rock&Pop"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/a761a661-c271-49f6-8c1c-ba901697e32f/16-9"
-    },
-    {
-      "start": "2026-06-05T23:50:00+05:00",
-      "stop": "2026-06-06T00:30:00+05:00",
-      "title": "TOTP: 1979",
-      "desc": "Paul Burnett presents the pop chart programme, first broadcast on 31 May 1979 and featuring Quantum Jump, Chas & Dave, Sparks, Peaches & Herb, Voyager, Blondie and Hot Chocolate.",
-      "language": "en",
-      "categories": [
-        "Music & Radio",
-        "Rock&Pop"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/07f6d2a9-7105-4ff8-ab8b-5eaee35f640e/16-9"
-    },
-    {
-      "start": "2026-06-06T00:30:00+05:00",
-      "stop": "2026-06-06T01:00:00+05:00",
-      "title": "TOTP: 1989",
-      "desc": "Anthea Turner and Gary Davies present the pop chart programme, first broadcast on 1 June 1989 and featuring Sinitta, Fuzzbox and Neneh Cherry.",
-      "language": "en",
-      "categories": [
-        "Music & Radio",
-        "Rock&Pop"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/8a983370-22e6-4ab8-9a1a-65019e6198c0/16-9"
-    },
-    {
       "start": "2026-06-06T01:00:00+05:00",
       "stop": "2026-06-06T01:40:00+05:00",
       "title": "Aretha Franklin at the BBC",
@@ -145,6 +109,30 @@
         "Soul/R&B"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/1dd656c8-747c-3a51-900e-ee578a9907b5/16-9"
+    },
+    {
+      "start": "2026-06-06T07:35:00+05:00",
+      "stop": "2026-06-06T09:30:00+05:00",
+      "title": "This is BBC Four",
+      "desc": "Programmes start at 7.00pm.",
+      "language": "en",
+      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/BBC-Four-UK.png"
+    },
+    {
+      "start": "2026-06-06T09:30:00+05:00",
+      "stop": "2026-06-06T15:30:00+05:00",
+      "title": "..programmes start at 7.00pm",
+      "desc": "BBC Four provides an intelligent mix of arts, science, and history programming, offering deep-dive documentaries and world cinema for a curious audience.",
+      "language": "en",
+      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/BBC-Four-UK.png"
+    },
+    {
+      "start": "2026-06-06T15:30:00+05:00",
+      "stop": "2026-06-06T21:30:00+05:00",
+      "title": "..programmes start at 7.00pm",
+      "desc": "BBC Four provides an intelligent mix of arts, science, and history programming, offering deep-dive documentaries and world cinema for a curious audience.",
+      "language": "en",
+      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/BBC-Four-UK.png"
     }
   ]
 }

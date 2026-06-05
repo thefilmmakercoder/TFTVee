@@ -4,32 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-05T22:45:00+05:00",
-      "stop": "2026-06-06T00:00:00+05:00",
-      "title": "The Great British Bake Off",
-      "desc": "BBC Lifestyle provides an inspiring mix of home, food, and fashion programming, featuring world-class experts and vibrant stories to enhance your daily life.",
-      "date": "2021",
-      "language": "en",
-      "categories": [
-        "Entertainment Program"
-      ],
-      "episode": "S11E10",
-      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/BBC-Lifestyle-PL.png"
-    },
-    {
-      "start": "2026-06-06T00:00:00+05:00",
-      "stop": "2026-06-06T01:00:00+05:00",
-      "title": "Deep Deception",
-      "desc": "Alison, Lisa and Helen have been building relationships for years with partners they met as young activists.Over time, their husbands begin to exhibit increasingly disturbing behavior.",
-      "date": "2025",
-      "language": "en",
-      "categories": [
-        "Documentary Film"
-      ],
-      "episode": "E3",
-      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/BBC-Lifestyle-PL.png"
-    },
-    {
       "start": "2026-06-06T01:00:00+05:00",
       "stop": "2026-06-06T01:55:00+05:00",
       "title": "Sex Actually With Alice Levine",
@@ -168,6 +142,60 @@
       ],
       "episode": "S2E6",
       "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/BBC-Lifestyle-PL.png"
+    },
+    {
+      "start": "2026-06-06T11:45:00+05:00",
+      "stop": "2026-06-06T12:40:00+05:00",
+      "title": "Billy \\u0026 Dom Eat the World",
+      "desc": "BBC Lifestyle provides an inspiring mix of home, food, and fashion programming, featuring world-class experts and vibrant stories to enhance your daily life.",
+      "date": "2025",
+      "language": "en",
+      "categories": [
+        "Entertainment Program"
+      ],
+      "episode": "S1E4",
+      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/BBC-Lifestyle-PL.png",
+      "credits": {
+        "actor": [
+          "Self - Presenter - Billy Boyd",
+          "Self - Presenter - Dominic Monaghan",
+          "Self - Ian McKellen",
+          "Self - The Hebridean Baker - Coinneach MacLeod",
+          "Self - CEO Eat Just Inc - Josh Tetrick",
+          "Self - Pizzaiolo at Crust - Kris MacBain",
+          "Self - Chef - Jeremy Pang",
+          "Self - Alamo Chef - Brad Sorenson",
+          "Self - Chef de Cuisine at La Dame de Pic - Evens L\u00f3pez",
+          "Self - General Manager La Dame de Pic - Jessa Jastrzemski"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-06T12:40:00+05:00",
+      "stop": "2026-06-06T13:45:00+05:00",
+      "title": "Billy \\u0026 Dom Eat the World",
+      "desc": "BBC Lifestyle provides an inspiring mix of home, food, and fashion programming, featuring world-class experts and vibrant stories to enhance your daily life.",
+      "date": "2025",
+      "language": "en",
+      "categories": [
+        "Entertainment Program"
+      ],
+      "episode": "S1E5",
+      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/BBC-Lifestyle-PL.png",
+      "credits": {
+        "actor": [
+          "Self - Presenter - Billy Boyd",
+          "Self - Presenter - Dominic Monaghan",
+          "Self - Ian McKellen",
+          "Self - The Hebridean Baker - Coinneach MacLeod",
+          "Self - CEO Eat Just Inc - Josh Tetrick",
+          "Self - Pizzaiolo at Crust - Kris MacBain",
+          "Self - Chef - Jeremy Pang",
+          "Self - Alamo Chef - Brad Sorenson",
+          "Self - Chef de Cuisine at La Dame de Pic - Evens L\u00f3pez",
+          "Self - General Manager La Dame de Pic - Jessa Jastrzemski"
+        ]
+      }
     }
   ]
 }

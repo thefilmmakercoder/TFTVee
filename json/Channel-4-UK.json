@@ -4,30 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-05T23:00:00+05:00",
-      "stop": "2026-06-06T00:00:00+05:00",
-      "title": "Channel 4 News",
-      "desc": "Channel 4's flagship news programme. Including the weather.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/5b023956-f370-4bf2-9750-2bac6f965f34/16-9"
-    },
-    {
-      "start": "2026-06-06T00:00:00+05:00",
-      "stop": "2026-06-06T01:00:00+05:00",
-      "title": "Will My Summer Holiday Be",
-      "desc": "Cancelled?: Dispatches: With the Iran War making jet fuel prices rocket, are foreign holidays out of the question this year? Or are there bargains out there if you know where to look.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "Feature"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/b2aed272-4b02-48d7-abf4-695f6dfd6a25/16-9"
-    },
-    {
       "start": "2026-06-06T01:00:00+05:00",
       "stop": "2026-06-06T02:00:00+05:00",
       "title": "Celebrity Gogglebox",
@@ -149,6 +125,31 @@
         "Factual"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/bdb54e96-e054-414c-b0ef-14c045cc7b00/16-9"
+    },
+    {
+      "start": "2026-06-06T09:30:00+05:00",
+      "stop": "2026-06-06T10:00:00+05:00",
+      "title": "Four in a Bed",
+      "desc": "It's the final day of the competition and the B&Bers meet for one last time to find out how much they've been paid and settle some scores, before the winner is announced.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Factual"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/2fc37cd2-2445-4f27-981b-4c1ba3dd5607/16-9"
+    },
+    {
+      "start": "2026-06-06T10:00:00+05:00",
+      "stop": "2026-06-06T10:25:00+05:00",
+      "title": "The King of Queens",
+      "sub_title": "Entertainment Weakly",
+      "desc": "Doug's position as the office clown is threatened by a new colleague's impersonations.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Comedy"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/faf6a114-341c-438f-abad-52a6cad61b28/16-9"
     }
   ]
 }
