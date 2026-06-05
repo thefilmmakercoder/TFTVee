@@ -4,18 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-05T08:00:00+05:00",
-      "stop": "2026-06-05T11:00:00+05:00",
-      "title": "Teleshopping",
-      "desc": "Teleshopping.",
-      "language": "en",
-      "categories": [
-        "Specialist",
-        "Shopping"
-      ],
-      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/Film-4-UK.png"
-    },
-    {
       "start": "2026-06-05T11:00:00+05:00",
       "stop": "2026-06-05T15:00:00+05:00",
       "title": "Teleshopping",
@@ -162,6 +150,20 @@
         "Shopping"
       ],
       "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/Film-4-UK.png"
+    },
+    {
+      "start": "2026-06-06T15:00:00+05:00",
+      "stop": "2026-06-06T17:10:00+05:00",
+      "title": "D-Day the Sixth of June",
+      "desc": "Wartime romance set against the background of the D-Day landings, starring Robert Taylor and Dana Wynter. A married American officer embarks on an affair with English nurse.",
+      "date": "1956",
+      "language": "en",
+      "rating": "PG",
+      "categories": [
+        "Movie",
+        "Romance"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/daffa90f-83c0-4ab1-b045-33ee4fecd423/16-9"
     }
   ]
 }
