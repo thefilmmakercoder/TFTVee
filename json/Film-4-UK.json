@@ -4,32 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-05T11:00:00+05:00",
-      "stop": "2026-06-05T15:00:00+05:00",
-      "title": "Teleshopping",
-      "desc": "Teleshopping.",
-      "language": "en",
-      "categories": [
-        "Specialist",
-        "Shopping"
-      ],
-      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/Film-4-UK.png"
-    },
-    {
-      "start": "2026-06-05T15:00:00+05:00",
-      "stop": "2026-06-05T17:30:00+05:00",
-      "title": "Reap the Wild Wind",
-      "desc": "Period melodrama. John Wayne, Ray Milland and Paulette Goddard star in this tale of fierce rivalries engendered by love and seemingly deliberate shipwrecking in 19th-century Florida.",
-      "date": "1942",
-      "language": "en",
-      "rating": "PG",
-      "categories": [
-        "Movie",
-        "Adventure"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/adbee291-e207-4259-806b-d5b7b8be6f25/16-9"
-    },
-    {
       "start": "2026-06-05T17:30:00+05:00",
       "stop": "2026-06-05T19:35:00+05:00",
       "title": "Send Me No Flowers",
@@ -164,6 +138,34 @@
         "Romance"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/daffa90f-83c0-4ab1-b045-33ee4fecd423/16-9"
+    },
+    {
+      "start": "2026-06-06T17:10:00+05:00",
+      "stop": "2026-06-06T20:45:00+05:00",
+      "title": "The Longest Day",
+      "desc": "War drama. Darryl F Zanuck's classic Oscar-winning recreation of the Allied landings in Normandy on 6 June 1944, with an all-star British, American, German and French cast.",
+      "date": "1962",
+      "language": "en",
+      "rating": "PG",
+      "categories": [
+        "Movie",
+        "War"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/28442b97-8402-4c9e-836a-adaa0d205f8a/16-9"
+    },
+    {
+      "start": "2026-06-06T20:45:00+05:00",
+      "stop": "2026-06-06T22:50:00+05:00",
+      "title": "Spies in Disguise",
+      "desc": "Animated spy comedy caper with the voice of Will Smith. The 'world's most awesome spy' gets framed and has to go undercover as a pigeon to prove his innocence.",
+      "date": "2019",
+      "language": "en",
+      "rating": "PG",
+      "categories": [
+        "Movie",
+        "Animation"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/15580c52-35b1-4c89-ad90-5856a40e2d10/16-9"
     }
   ]
 }

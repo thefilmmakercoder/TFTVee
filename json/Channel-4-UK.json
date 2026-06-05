@@ -4,54 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-05T16:05:00+05:00",
-      "stop": "2026-06-05T16:10:00+05:00",
-      "title": "Channel 4 News Summary",
-      "desc": "Channel 4's midday news summary.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/5bdd154a-6693-4b3c-9ab1-ceb7b3c0c3ae/16-9"
-    },
-    {
-      "start": "2026-06-05T16:10:00+05:00",
-      "stop": "2026-06-05T17:10:00+05:00",
-      "title": "Find It, Fix It, Flog It",
-      "desc": "In Dumfries and Galloway, Henry Cole gives four bar stools a fluorescent makeover, while Simon O'Brien transforms two old sheep shearer seats into an extraordinary bench.",
-      "language": "en",
-      "categories": [
-        "Entertainment",
-        "Lifestyles"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/84a78376-d87b-48a3-962f-686cfee30dce/16-9"
-    },
-    {
-      "start": "2026-06-05T17:10:00+05:00",
-      "stop": "2026-06-05T18:10:00+05:00",
-      "title": "Help! We Bought a Village",
-      "desc": "A derelict building in a French village gets a new lease of life. Meanwhile, in Portugal, a couple dip their toes into their first season as holiday hosts.",
-      "language": "en",
-      "categories": [
-        "Entertainment",
-        "Lifestyles"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/cf35af3b-0215-364f-935e-436d74b88df8/16-9"
-    },
-    {
-      "start": "2026-06-05T18:10:00+05:00",
-      "stop": "2026-06-05T19:00:00+05:00",
-      "title": "Countdown",
-      "desc": "Colin Murray, Rachel Riley and Susie Dent host, with John Thomson in Dictionary Corner, as contestants race against the clock to pit their wits against vowels, consonants and numbers.",
-      "language": "en",
-      "categories": [
-        "Entertainment",
-        "Game Show"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/7f64a30c-971e-49d7-b26d-7f8b71d4abfa/16-9"
-    },
-    {
       "start": "2026-06-05T19:00:00+05:00",
       "stop": "2026-06-05T20:00:00+05:00",
       "title": "A Place in the Sun",
@@ -148,6 +100,57 @@
         "Factual"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/077e85f6-f7b2-4eae-a949-4ade27ed693e/16-9"
+    },
+    {
+      "start": "2026-06-06T03:05:00+05:00",
+      "stop": "2026-06-06T04:10:00+05:00",
+      "title": "TFI Friday Unplugged",
+      "desc": "Chris Evans' iconic show, but this time unplugged! Enjoy unfiltered conversations with the biggest stars and bands performing intimate sets from Chris's new home at Virgin Radio UK.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Magazine"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/6e1a3232-7031-44d8-9720-7bc8339d5ced/16-9"
+    },
+    {
+      "start": "2026-06-06T04:10:00+05:00",
+      "stop": "2026-06-06T05:05:00+05:00",
+      "title": "Taskmaster",
+      "desc": "The end is nigh, and four contestants are still in the race to become champion... while Joel Dommett's just having a good time! Alex Horne slaps Armando Iannucci with a flip-flop.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Game Show"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/1750f0f7-2b81-4f0c-bcc6-1d3153c980f9/16-9"
+    },
+    {
+      "start": "2026-06-06T05:05:00+05:00",
+      "stop": "2026-06-06T06:55:00+05:00",
+      "title": "The Lighthouse",
+      "desc": "Atmospheric Oscar-nominated psychological horror starring Willem Dafoe and Robert Pattinson. Two lighthouse keepers dangerously descend into insanity on a remote island.",
+      "date": "2019",
+      "language": "en",
+      "rating": "15",
+      "categories": [
+        "Movie",
+        "Horror"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/eeb3f1c8-5afa-46c5-8611-0f76b16d56e8/16-9"
+    },
+    {
+      "start": "2026-06-06T06:55:00+05:00",
+      "stop": "2026-06-06T07:45:00+05:00",
+      "title": "Ramsay's Kitchen Nightmares USA",
+      "sub_title": "Amy's Baking Company",
+      "desc": "At Amy's Baking Company in Scottsdale, Arizona, Gordon Ramsay meets a husband and wife team with a shocking contempt for customer feedback.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Cooking"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/b7f07695-1de5-4f3d-825f-6972d4a5dd21/16-9"
     }
   ]
 }

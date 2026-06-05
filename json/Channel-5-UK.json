@@ -4,54 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-05T15:30:00+05:00",
-      "stop": "2026-06-05T16:45:00+05:00",
-      "title": "Storm & Alexis",
-      "desc": "Two of 5's much-loved faces team up to focus on the issues that matter most to viewers - with your opinions front and centre.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/f1c8cc74-5707-4000-82c4-76d9c37101ae/16-9"
-    },
-    {
-      "start": "2026-06-05T16:45:00+05:00",
-      "stop": "2026-06-05T16:50:00+05:00",
-      "title": "5 News at Lunchtime",
-      "desc": "National and international news.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/4c29180b-67c0-454e-8ddb-6622c8e91540/16-9"
-    },
-    {
-      "start": "2026-06-05T16:50:00+05:00",
-      "stop": "2026-06-05T18:00:00+05:00",
-      "title": "Matt Allwright",
-      "desc": "Matt looks at the big news stories developing during the day and offers help and advice to save you money and make your lives a little easier.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/2071b766-33e4-4bd6-99a9-34e39c504aff/16-9"
-    },
-    {
-      "start": "2026-06-05T18:00:00+05:00",
-      "stop": "2026-06-05T19:00:00+05:00",
-      "title": "Vanessa",
-      "desc": "Raw, unfiltered, authentic and personal, Vanessa Feltz wants you to tell her what's on your mind. Fiery discussions, a good giggle and plenty of afternoon gossip.",
-      "language": "en",
-      "categories": [
-        "Entertainment",
-        "Chat Show"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/c122923d-46e8-40a0-a57c-e1c1dc277336/16-9"
-    },
-    {
       "start": "2026-06-05T19:00:00+05:00",
       "stop": "2026-06-05T19:55:00+05:00",
       "title": "Castle",
@@ -146,6 +98,54 @@
         "Historical"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/46f284e5-a396-3544-93c6-92a4da0ed25b/16-9"
+    },
+    {
+      "start": "2026-06-06T02:50:00+05:00",
+      "stop": "2026-06-06T04:45:00+05:00",
+      "title": "Piers Morgan Uncensored: The Murder That Shocked Britain",
+      "desc": "Henry Nowak's murder has torn the country apart, sparking shocking violence. Piers cuts through the chaos to get to the truth.",
+      "language": "en",
+      "categories": [
+        "News & Documentary",
+        "Feature"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/5ad27ab4-d802-4058-ac28-a00b94e2dd54/16-9"
+    },
+    {
+      "start": "2026-06-06T04:45:00+05:00",
+      "stop": "2026-06-06T05:00:00+05:00",
+      "title": "Entertainment News on 5",
+      "desc": "A daily round-up of showbiz news and gossip from around the world, focusing on celebrities, movies, music and entertainment.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Factual"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/733d9717-1ef3-4889-92fa-0afa23c49cab/16-9"
+    },
+    {
+      "start": "2026-06-06T05:00:00+05:00",
+      "stop": "2026-06-06T06:00:00+05:00",
+      "title": "Cruise TV with LoveitBookit",
+      "desc": "Your one-stop-shop for all things cruise; bringing you the hottest destinations, ground-breaking ships and the latest deals to ensure your next cruise holiday is your greatest one.",
+      "language": "en",
+      "categories": [
+        "Specialist",
+        "Shopping"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/6abe9e89-013d-49f3-bbcc-9a4db09379c4/16-9"
+    },
+    {
+      "start": "2026-06-06T06:00:00+05:00",
+      "stop": "2026-06-06T06:30:00+05:00",
+      "title": "Teleshopping",
+      "desc": "Shop by phone from the comfort of your home.",
+      "language": "en",
+      "categories": [
+        "Specialist",
+        "Shopping"
+      ],
+      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/Channel-5-UK.png"
     }
   ]
 }

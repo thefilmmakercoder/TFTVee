@@ -4,30 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-05T14:00:00+05:00",
-      "stop": "2026-06-05T16:30:00+05:00",
-      "title": "This Morning",
-      "desc": "Magazine show with news and topical items, celebrity guests, expert advice, real-life stories, competitions and a mix of cookery, health, beauty, lifestyle and more.",
-      "language": "en",
-      "categories": [
-        "Entertainment",
-        "Magazine"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/1b3b93f7-ec4a-4a0f-8908-8af98210e36d/16-9"
-    },
-    {
-      "start": "2026-06-05T16:30:00+05:00",
-      "stop": "2026-06-05T16:50:00+05:00",
-      "title": "ITV Lunchtime News",
-      "desc": "The latest headlines from around the world at lunchtime with reports and analysis from ITV's Correspondents, all of which are followed by a national weather forecast.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/1285f47a-729e-48af-947f-89a244992581/16-9"
-    },
-    {
       "start": "2026-06-05T16:50:00+05:00",
       "stop": "2026-06-05T17:00:00+05:00",
       "title": "ITV News London",
@@ -148,6 +124,31 @@
         "Lifestyles"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/36ec3847-8932-4b90-8c13-4b984d21d930/16-9"
+    },
+    {
+      "start": "2026-06-06T05:05:00+05:00",
+      "stop": "2026-06-06T07:05:00+05:00",
+      "title": "Shop on TV",
+      "desc": "Teleshopping.",
+      "language": "en",
+      "categories": [
+        "Specialist",
+        "Shopping"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/723325cf-f9b7-48df-9943-1ff39582ccf3/16-9"
+    },
+    {
+      "start": "2026-06-06T07:05:00+05:00",
+      "stop": "2026-06-06T07:55:00+05:00",
+      "title": "Emergency Nurses: A+E Stories",
+      "sub_title": "Documentary series",
+      "desc": "Nurse Jo identifies with a young asthma patient, the team tend to an elderly couple involved in a joint accident, and Charlie celebrates her engagement.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Factual"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/919658d9-fdfb-3612-a80e-4c01f270e011/16-9"
     }
   ]
 }
