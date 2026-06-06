@@ -4,30 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-06T22:05:00+05:00",
-      "stop": "2026-06-06T22:15:00+05:00",
-      "title": "ITV News London",
-      "desc": "The latest news and weather from London and the South East.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/9e016a61-3499-4382-bc15-262f59a8a67e/16-9"
-    },
-    {
-      "start": "2026-06-06T22:15:00+05:00",
-      "stop": "2026-06-06T23:15:00+05:00",
-      "title": "Celebrity Catchphrase",
-      "desc": "Natalie Cassidy, Sam Aston, and Lou Sanders join Stephen Mulhern as they try to 'say what they see' and guess well-known phrases for their chance to win 50,000 pounds for charity.",
-      "language": "en",
-      "categories": [
-        "Entertainment",
-        "Game Show"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/9e7cc928-2156-4494-b890-689364150cbf/16-9"
-    },
-    {
       "start": "2026-06-06T23:15:00+05:00",
       "stop": "2026-06-07T00:15:00+05:00",
       "title": "The Chase Celebrity Special",
@@ -149,6 +125,31 @@
         "Cooking"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/b594e430-d563-46ee-927b-b9b2567cf992/16-9"
+    },
+    {
+      "start": "2026-06-07T12:25:00+05:00",
+      "stop": "2026-06-07T13:25:00+05:00",
+      "title": "Ainsley's Fantastic Flavours",
+      "sub_title": "A World of Spice",
+      "desc": "Ainsley turns up the heat and explores the world of hot honey, and John Gregory-Smith brings some Middle Eastern magic with tantalising beef kofta.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Cooking"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/1dc7da36-79ad-4adc-964b-4b3092d67166/16-9"
+    },
+    {
+      "start": "2026-06-07T13:25:00+05:00",
+      "stop": "2026-06-07T13:30:00+05:00",
+      "title": "ITV News",
+      "desc": "National and international news with reports and analysis from ITV's Correspondents in the UK and around the world as well as the latest major sports results.",
+      "language": "en",
+      "categories": [
+        "News & Documentary",
+        "News"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/5d5e67e6-ac65-4b1f-89f9-322110e0c36d/16-9"
     }
   ]
 }

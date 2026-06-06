@@ -4,43 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-06T22:30:00+05:00",
-      "stop": "2026-06-06T23:00:00+05:00",
-      "title": "Victim of Nursing Home Abuse?",
-      "desc": "Have you or a family member been a victim of nursing home abuse?",
-      "language": "en",
-      "categories": [
-        "Consumer"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p32656820_st_h10_aa.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-06-06T23:00:00+05:00",
-      "stop": "2026-06-06T23:30:00+05:00",
-      "title": "New York Live",
-      "desc": "Celebrity interviews and discussing recipes, beauty, fashion and current events pertinent to the tri-state region.",
-      "date": "2011",
-      "language": "en",
-      "categories": [
-        "News",
-        "Newsmagazine"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p8692580_b_h8_ac.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-06-06T23:30:00+05:00",
-      "stop": "2026-06-07T00:00:00+05:00",
-      "title": "New York Live",
-      "desc": "Celebrity interviews and discussing recipes, beauty, fashion and current events pertinent to the tri-state region.",
-      "date": "2011",
-      "language": "en",
-      "categories": [
-        "News",
-        "Newsmagazine"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p8692580_b_h8_ac.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-06-07T00:00:00+05:00",
       "stop": "2026-06-07T00:30:00+05:00",
       "title": "George to the Rescue",
@@ -189,6 +152,61 @@
           "Michael Che",
           "Mikey Day",
           "Chloe Fineman"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-07T10:03:00+05:00",
+      "stop": "2026-06-07T10:33:00+05:00",
+      "title": "1st Look",
+      "desc": "Lifestyle trends in food, nightlife, art, travel and entertainment.",
+      "date": "2008",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Talk",
+        "Newsmagazine",
+        "Travel",
+        "Fashion"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p419169_b_h8_az.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-06-07T10:33:00+05:00",
+      "stop": "2026-06-07T11:03:00+05:00",
+      "title": "George to the Rescue",
+      "desc": "George Oliphant comes to the rescue of families in need of renovating their homes.",
+      "date": "2010",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "House/garden"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p29553512_b_h10_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "George Oliphant"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-07T11:03:00+05:00",
+      "stop": "2026-06-07T11:32:00+05:00",
+      "title": "1st Look",
+      "sub_title": "Destination Atlantic City",
+      "desc": "A look at why Atlantic City is more than a destination -- it's an experience.",
+      "date": "2025",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Travel"
+      ],
+      "episode": "S17 E2",
+      "icon": "http://dtil.tmsimg.com/assets/p8953716_b_h8_ak.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Johnny \"Bananas\" Devenanzio"
         ]
       }
     }

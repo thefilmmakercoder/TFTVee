@@ -4,31 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-06T22:30:00+05:00",
-      "stop": "2026-06-06T23:00:00+05:00",
-      "title": "TBA",
-      "desc": "TBA.",
-      "language": "en",
-      "rating": "NR",
-      "categories": [
-        "News"
-      ],
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/3647443/image/334x188"
-    },
-    {
-      "start": "2026-06-06T23:00:00+05:00",
-      "stop": "2026-06-06T23:30:00+05:00",
-      "title": "It's Academic",
-      "desc": "Simon Reeve hosts all new episodes of the educational and entertaining show where schools compete to win cash and prizes.",
-      "language": "en",
-      "rating": "G",
-      "categories": [
-        "Special Interest"
-      ],
-      "episode": "S20 E16",
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/141113/image/334x188"
-    },
-    {
       "start": "2026-06-06T23:30:00+05:00",
       "stop": "2026-06-07T00:00:00+05:00",
       "title": "It's Academic",
@@ -160,6 +135,33 @@
       ],
       "episode": "S26 E46",
       "icon": "https://www.fetchtv.com.au/v2/epg/program/17254901/image/334x188"
+    },
+    {
+      "start": "2026-06-07T12:30:00+05:00",
+      "stop": "2026-06-07T13:00:00+05:00",
+      "title": "Sydney Weekender",
+      "desc": "We're jumping in at BOUNCE Homebush, Mel explores Darling Harbour by kayak, Sally enjoys her ideal weekender in Mudgee, and Sophie Indulges in a day on the Hawkesbury River at the Berowra Waters Inn.",
+      "language": "en",
+      "rating": "G",
+      "categories": [
+        "Special Interest"
+      ],
+      "episode": "S33 E18",
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/131582/image/334x188"
+    },
+    {
+      "start": "2026-06-07T13:00:00+05:00",
+      "stop": "2026-06-07T14:00:00+05:00",
+      "title": "Seven News",
+      "sub_title": "Sunday 7 June 2026",
+      "desc": "Seven News live coverage of local, national and international news, plus sport, finance and weather updates. Go to 7NEWS.com.au today for more live updates.",
+      "language": "en",
+      "rating": "NR",
+      "categories": [
+        "News"
+      ],
+      "episode": "S26 E158",
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/132538/image/334x188"
     }
   ]
 }

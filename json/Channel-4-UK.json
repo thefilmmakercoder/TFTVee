@@ -4,18 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-06T20:15:00+05:00",
-      "stop": "2026-06-06T20:45:00+05:00",
-      "title": "Channel 4 News",
-      "desc": "Channel 4's flagship news programme. Including the weather.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/01ca7c08-7f67-45c2-a66c-730f95d2c03a/16-9"
-    },
-    {
       "start": "2026-06-06T20:45:00+05:00",
       "stop": "2026-06-06T23:30:00+05:00",
       "title": "1966 FIFA World Cup Final in Colour",
@@ -156,6 +144,18 @@
         "Lifestyles"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/2865a34e-6fb5-4d0f-897d-03c1f73bef57/16-9"
+    },
+    {
+      "start": "2026-06-07T09:40:00+05:00",
+      "stop": "2026-06-07T09:55:00+05:00",
+      "title": "Find It, Fix It, Flog It",
+      "desc": "In Dumfries, Henry Cole and Simon O'Brien get to work on Maggie's farm, which boasts an extraordinary collection of memorabilia.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Factual"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/60e31f4b-cd03-4dfc-82da-4b522ab6b849/16-9"
     }
   ]
 }

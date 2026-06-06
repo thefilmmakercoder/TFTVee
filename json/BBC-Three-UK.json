@@ -4,26 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-06T22:58:00+05:00",
-      "stop": "2026-06-06T23:00:00+05:00",
-      "title": "This is BBC Three",
-      "desc": "Programmes start at 7.00pm.",
-      "language": "en",
-      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/BBC-Three-UK.png"
-    },
-    {
-      "start": "2026-06-06T23:00:00+05:00",
-      "stop": "2026-06-06T23:45:00+05:00",
-      "title": "Doctor Who",
-      "desc": "Sci-fi drama. With people to save and the Doctor trapped, Clara goes against an enemy that exists beyond human perception.",
-      "language": "en",
-      "categories": [
-        "Entertainment",
-        "Sci-Fi"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/054406a3-afa8-4299-8380-def69bc219a8/16-9"
-    },
-    {
       "start": "2026-06-06T23:45:00+05:00",
       "stop": "2026-06-07T00:30:00+05:00",
       "title": "Doctor Who",
@@ -140,6 +120,26 @@
         "Sci-Fi"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/054406a3-afa8-4299-8380-def69bc219a8/16-9"
+    },
+    {
+      "start": "2026-06-07T07:15:00+05:00",
+      "stop": "2026-06-07T08:00:00+05:00",
+      "title": "Doctor Who",
+      "desc": "Sci-fi drama. The human race wakes up to face the most surprising invasion yet, and the Doctor discovers that the final days of humanity have arrived.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Sci-Fi"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/c659a6f0-34fd-461b-9f2d-39a2cb64a4b3/16-9"
+    },
+    {
+      "start": "2026-06-07T08:00:00+05:00",
+      "stop": "2026-06-07T09:30:00+05:00",
+      "title": "This is BBC Three",
+      "desc": "Programmes start at 7.00pm.",
+      "language": "en",
+      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/BBC-Three-UK.png"
     }
   ]
 }
