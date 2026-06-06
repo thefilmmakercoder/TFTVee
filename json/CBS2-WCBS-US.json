@@ -4,67 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-06T19:00:00+05:00",
-      "stop": "2026-06-06T20:00:00+05:00",
-      "title": "CBS News New York Saturday 10am",
-      "desc": "Weekend news coverage.",
-      "date": "2022",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p21040169_b_h8_ab.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-06-06T20:00:00+05:00",
-      "stop": "2026-06-06T20:30:00+05:00",
-      "title": "Lucky Dog: Reunions",
-      "sub_title": "Geo Reunion",
-      "desc": "A previously abused and neglected terrier mix is prepared for life with a ride-share driver who wants a canine co-pilot to join her on the road.",
-      "date": "2026",
-      "language": "en",
-      "rating": "TVG",
-      "categories": [
-        "Series",
-        "Reality",
-        "Animals",
-        "Pets",
-        "Docudrama",
-        "Adventure"
-      ],
-      "episode": "S3 E16",
-      "icon": "http://dtil.tmsimg.com/assets/p28310521_b_h8_ab.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Brandon McMillan",
-          "Michael Berger"
-        ]
-      }
-    },
-    {
-      "start": "2026-06-06T20:30:00+05:00",
-      "stop": "2026-06-06T21:00:00+05:00",
-      "title": "Lucky Dog: Down Under",
-      "sub_title": "Emotional Support Dogs",
-      "desc": "Three families arrive at the Animal Welfare League in search of a dog who can provide emotional support.",
-      "date": "2026",
-      "language": "en",
-      "rating": "TVG",
-      "categories": [
-        "Series",
-        "Animals",
-        "Pets",
-        "Reality"
-      ],
-      "episode": "S1 E14",
-      "icon": "http://dtil.tmsimg.com/assets/p31052061_b_h8_ac.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Brandon McMillan"
-        ]
-      }
-    },
-    {
       "start": "2026-06-06T21:00:00+05:00",
       "stop": "2026-06-06T21:30:00+05:00",
       "title": "Mission Unstoppable",
@@ -204,6 +143,58 @@
         "Entertainment"
       ],
       "icon": "http://dtil.tmsimg.com/assets/p32889441_st_h10_aa.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-06-07T04:30:00+05:00",
+      "stop": "2026-06-07T05:00:00+05:00",
+      "title": "Live: WNBA Tip-Off Show",
+      "desc": "Pregame coverage of WNBA action.",
+      "date": "2025",
+      "language": "en",
+      "categories": [
+        "Basketball"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p30219819_b_h10_aa.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-06-07T05:00:00+05:00",
+      "stop": "2026-06-07T07:00:00+05:00",
+      "title": "Live: WNBA Basketball",
+      "desc": "The New York Liberty and the Indiana Fever battle in the WNBA Commissioner's Cup. Guard Kelsey Mitchell anchors Eastern Conference Indiana, while forward Breanna Stewart counters for New York as they clash for the first time this season.",
+      "language": "en",
+      "categories": [
+        "Sports",
+        "Basketball"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/GNLZZGG0032ZJL2.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-06-07T07:00:00+05:00",
+      "stop": "2026-06-07T08:00:00+05:00",
+      "title": "48 Hours",
+      "sub_title": "The Plot to Eliminate Alyssa Burkett",
+      "desc": "In a small Texas town, a mother's worst nightmare becomes a tragic reality.",
+      "date": "2024",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "Series",
+        "Newsmagazine",
+        "Crime",
+        "Law"
+      ],
+      "episode": "S38 E9",
+      "icon": "http://dtil.tmsimg.com/assets/p200944_b_h8_bb.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Matthew DeVoe"
+        ],
+        "actor": [
+          "Erin Moriarty",
+          "Peter Van Sant",
+          "Natalie Morales"
+        ]
+      }
     }
   ]
 }

@@ -4,14 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-06T09:30:00+05:00",
-      "stop": "2026-06-06T15:30:00+05:00",
-      "title": "..programmes start at 7.00pm",
-      "desc": "BBC Three delivers bold and provocative content for younger audiences, featuring groundbreaking documentaries, experimental comedy, and fresh drama.",
-      "language": "en",
-      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/BBC-Three-UK.png"
-    },
-    {
       "start": "2026-06-06T15:30:00+05:00",
       "stop": "2026-06-06T21:30:00+05:00",
       "title": "..programmes start at 7.00pm",
@@ -128,6 +120,18 @@
         "Movie"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/f6ef80d3-e954-4c56-9bd6-949dbfd53e0a/16-9"
+    },
+    {
+      "start": "2026-06-07T05:50:00+05:00",
+      "stop": "2026-06-07T06:20:00+05:00",
+      "title": "Two Pints of Lager and a Packet of Crisps",
+      "desc": "Donna and Janet are furious with Gaz and demand he decide who he wants by three o'clock. He decides to audition them both. Contains some strong language and adult humour.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Comedy"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/85ae0c6e-2a83-4e8e-a04b-12520ceac62c/16-9"
     }
   ]
 }

@@ -4,64 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-06T19:00:00+05:00",
-      "stop": "2026-06-06T20:00:00+05:00",
-      "title": "Today in LA Weekend",
-      "desc": "The latest local news, weather and investigative stories impacting the community.",
-      "date": "2006",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p960593_b_h10_af.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-06-06T20:00:00+05:00",
-      "stop": "2026-06-06T20:30:00+05:00",
-      "title": "Mutual of Omaha's Wild Kingdom Protecting the Wild",
-      "sub_title": "Macropod Mania!",
-      "desc": "Dr. Rae and Peter adventure with a team of rescuers who care for orphaned joeys; later, they venture to the Atherton Tablelands to explore a private macropod sanctuary, where they witness the delicate rehabilitation of rare tree kangaroos.",
-      "date": "2026",
-      "language": "en",
-      "rating": "TVG",
-      "categories": [
-        "Series",
-        "Documentary",
-        "Animals",
-        "Nature",
-        "Science"
-      ],
-      "episode": "S3 E14",
-      "icon": "http://dtil.tmsimg.com/assets/p31221399_b_h10_aa.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Peter Gros",
-          "Rae Wynn-Grant"
-        ]
-      }
-    },
-    {
-      "start": "2026-06-06T20:30:00+05:00",
-      "stop": "2026-06-06T21:00:00+05:00",
-      "title": "Earth Odyssey With Dylan Dreyer",
-      "sub_title": "Marvels of the Caspian Sea",
-      "desc": "Dylan Dreyer voyages to the world's largest inland sea, home to fabled creatures like the secretive lynx and the intrepid gray wolf.",
-      "date": "2026",
-      "language": "en",
-      "rating": "TVG",
-      "categories": [
-        "Series",
-        "Educational"
-      ],
-      "episode": "S8 E11",
-      "icon": "http://dtil.tmsimg.com/assets/p16357440_b_h8_ae.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Dylan Dreyer"
-        ]
-      }
-    },
-    {
       "start": "2026-06-06T21:00:00+05:00",
       "stop": "2026-06-06T21:30:00+05:00",
       "title": "Wild Child",
@@ -216,6 +158,60 @@
         "Track/field"
       ],
       "icon": "http://dtil.tmsimg.com/assets/p516702_b_h10_af.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-06-07T03:00:00+05:00",
+      "stop": "2026-06-07T03:30:00+05:00",
+      "title": "Open House",
+      "desc": "Real estate trends and opportunities; home design.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "How-to",
+        "House/garden",
+        "Home improvement"
+      ],
+      "episode": "S18 E18",
+      "icon": "http://dtil.tmsimg.com/assets/p3575385_b_h10_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "George Oliphant",
+          "Sara Gore"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-07T03:30:00+05:00",
+      "stop": "2026-06-07T04:00:00+05:00",
+      "title": "NBC Nightly News With Tom Llamas",
+      "desc": "Tom Llamas anchors the latest news, going beyond the headlines to see how lives are affected by the world around them.",
+      "date": "2026",
+      "language": "en",
+      "categories": [
+        "Series",
+        "News"
+      ],
+      "episode": "S2 E147",
+      "icon": "http://dtil.tmsimg.com/assets/p30141511_b_h8_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Tom Llamas"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-07T04:00:00+05:00",
+      "stop": "2026-06-07T07:00:00+05:00",
+      "title": "Live: 2026 U.S. Women's Open Golf Championship",
+      "desc": "From Riviera Country Club in Pacific Palisades, Calif.",
+      "language": "en",
+      "categories": [
+        "Sports",
+        "Golf"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p32655999_b_h8_aa.jpg?w=960&h=540"
     }
   ]
 }

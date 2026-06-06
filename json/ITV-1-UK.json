@@ -4,18 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-06T16:45:00+05:00",
-      "stop": "2026-06-06T17:00:00+05:00",
-      "title": "ITV News",
-      "desc": "National and international news with reports and analysis from ITV's Correspondents in the UK and around the world as well as the latest major sports results.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/cf09ca7d-f289-4cf3-96b9-0a42f450b8f5/16-9"
-    },
-    {
       "start": "2026-06-06T17:00:00+05:00",
       "stop": "2026-06-06T21:00:00+05:00",
       "title": "ITV Racing: The Derby",
@@ -147,6 +135,18 @@
         "Home"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/f61df4e9-4133-4a7e-908c-f44a4a7adb3a/16-9"
+    },
+    {
+      "start": "2026-06-07T07:50:00+05:00",
+      "stop": "2026-06-07T09:05:00+05:00",
+      "title": "Unwind with ITV",
+      "desc": "Your daily escape designed to calm the mind and encourage relaxation and reflection.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Lifestyles"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/b7b7ab4d-74b9-4afc-9ffe-87aacd447115/16-9"
     }
   ]
 }

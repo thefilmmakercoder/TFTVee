@@ -4,42 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-06T19:30:00+05:00",
-      "stop": "2026-06-06T20:00:00+05:00",
-      "title": "Paid Programming",
-      "desc": "Paid programming.",
-      "language": "en",
-      "rating": "TVG",
-      "categories": [
-        "Consumer",
-        "Shopping",
-        "Variety"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-06-06T20:00:00+05:00",
-      "stop": "2026-06-06T20:30:00+05:00",
-      "title": "Mercy Ships",
-      "desc": "Mercy Ship's crew of world-class medical volunteers sail across the globe providing lifesaving surgeries to those with nowhere else to turn.",
-      "language": "en",
-      "categories": [
-        "Consumer"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p18304769_st_h10_aa.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-06-06T20:30:00+05:00",
-      "stop": "2026-06-06T21:00:00+05:00",
-      "title": "The Aging Brain",
-      "desc": "Learn what's behind mental decline with age, and how to improve memory, focus and concentration with NeuroQ's Darrin Peterson and Dale Bredesen MD.",
-      "language": "en",
-      "categories": [
-        "Consumer"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p30127108_st_h10_aa.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-06-06T21:00:00+05:00",
       "stop": "2026-06-06T21:30:00+05:00",
       "title": "Paid Programming",
@@ -151,6 +115,51 @@
         "Horse racing"
       ],
       "icon": "http://dtil.tmsimg.com/assets/p33040733_b_h10_aa.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-06-07T04:30:00+05:00",
+      "stop": "2026-06-07T07:30:00+05:00",
+      "title": "Live: MLB Baseball",
+      "desc": "From Yankee Stadium in the Bronx, N.Y.",
+      "language": "en",
+      "categories": [
+        "Sports",
+        "Baseball"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/GNLZZGG0034DJV4.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-06-07T07:30:00+05:00",
+      "stop": "2026-06-07T08:00:00+05:00",
+      "title": "The 10 O'Clock News",
+      "desc": "Live and breaking news for New York City and the surrounding area.",
+      "date": "2023",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p26337524_b_h10_ab.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-06-07T08:00:00+05:00",
+      "stop": "2026-06-07T09:00:00+05:00",
+      "title": "Fear Factor: House of Fear",
+      "sub_title": "The Deep",
+      "desc": "A terrifying water challenge threatens to drown competitors in their own fears.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "Series",
+        "Competition Reality"
+      ],
+      "episode": "S1 E5",
+      "icon": "http://dtil.tmsimg.com/assets/p31694821_b_h8_ab.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Johnny Knoxville"
+        ]
+      }
     }
   ]
 }

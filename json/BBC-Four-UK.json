@@ -4,14 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-06T09:30:00+05:00",
-      "stop": "2026-06-06T15:30:00+05:00",
-      "title": "..programmes start at 7.00pm",
-      "desc": "BBC Four provides an intelligent mix of arts, science, and history programming, offering deep-dive documentaries and world cinema for a curious audience.",
-      "language": "en",
-      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/BBC-Four-UK.png"
-    },
-    {
       "start": "2026-06-06T15:30:00+05:00",
       "stop": "2026-06-06T21:30:00+05:00",
       "title": "..programmes start at 7.00pm",
@@ -129,6 +121,18 @@
         "Detective"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/026fbeb2-963a-4fe1-8fd4-b503ae2a9a6a/16-9"
+    },
+    {
+      "start": "2026-06-07T05:50:00+05:00",
+      "stop": "2026-06-07T06:35:00+05:00",
+      "title": "Expedition Rhino: The Search for the Last Northern White",
+      "desc": "An expedition team is in war-torn South Sudan to find living proof of an extinct rhino. Contains some scenes which some viewers may find upsetting.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Factual"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/fb3a58b1-1dab-45d6-a8a7-3e1ba5c7e40e/16-9"
     }
   ]
 }
