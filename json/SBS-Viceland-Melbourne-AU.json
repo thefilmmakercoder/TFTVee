@@ -4,31 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-06T03:10:00+05:00",
-      "stop": "2026-06-06T03:40:00+05:00",
-      "title": "NHK Newsline",
-      "sub_title": "Saturday 6 June 2026",
-      "desc": "English news from Japan's Broadcasting Corporation, NHK, delivering the latest in business, technology, health, environmental and world news.",
-      "language": "en",
-      "rating": "NR",
-      "categories": [
-        "News"
-      ],
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/439062/image/334x188"
-    },
-    {
-      "start": "2026-06-06T03:40:00+05:00",
-      "stop": "2026-06-06T04:30:00+05:00",
-      "title": "Cbc The National",
-      "desc": "CBC's flagship nightly news with hosts Adrienne Arsenault and Andrew Chang from Toronto, Canada, via satellite in English.",
-      "language": "en",
-      "rating": "NR",
-      "categories": [
-        "News"
-      ],
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/413666/image/334x188"
-    },
-    {
       "start": "2026-06-06T04:30:00+05:00",
       "stop": "2026-06-06T05:00:00+05:00",
       "title": "BBC News At Six",
@@ -164,6 +139,32 @@
       ],
       "episode": "E100",
       "icon": "https://www.fetchtv.com.au/v2/epg/program/5904078/image/334x188"
+    },
+    {
+      "start": "2026-06-06T10:45:00+05:00",
+      "stop": "2026-06-06T11:15:00+05:00",
+      "title": "BBC News At Ten",
+      "sub_title": "Saturday 6 June 2026",
+      "desc": "The latest national and international news stories from the BBC News team from London, UK, in English.",
+      "language": "en",
+      "rating": "NR",
+      "categories": [
+        "News"
+      ],
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/415775/image/334x188"
+    },
+    {
+      "start": "2026-06-06T11:15:00+05:00",
+      "stop": "2026-06-06T11:45:00+05:00",
+      "title": "France 24 International News",
+      "sub_title": "Saturday 6 June 2026",
+      "desc": "International news and current affairs television from Paris, offering a French perspective on world events, in English.",
+      "language": "en",
+      "rating": "NR",
+      "categories": [
+        "News"
+      ],
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/290253/image/334x188"
     }
   ]
 }

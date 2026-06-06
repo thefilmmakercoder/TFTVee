@@ -4,56 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-06T03:00:00+05:00",
-      "stop": "2026-06-06T03:30:00+05:00",
-      "title": "PIX11 News at 6",
-      "desc": "Staying informed with the news and headlines.",
-      "date": "2015",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p11641865_b_h8_ab.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-06-06T03:30:00+05:00",
-      "stop": "2026-06-06T04:00:00+05:00",
-      "title": "PIX on Politics",
-      "desc": "WPIX provides essential New York news, live sports, and CW network hits, serving as a cornerstone of local broadcasting for the tri-state area.",
-      "date": "2021",
-      "language": "en",
-      "categories": [
-        "Politics"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p20129687_b_h8_aa.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-06-06T04:00:00+05:00",
-      "stop": "2026-06-06T04:30:00+05:00",
-      "title": "Seinfeld",
-      "sub_title": "The Gum",
-      "desc": "Lloyd Braun (Matt McCoy) gets Jerry packs of a special brand of Chinese gum; George runs into a former neighbor.",
-      "date": "1995",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Series",
-        "Sitcom"
-      ],
-      "episode": "S7 E10",
-      "icon": "http://dtil.tmsimg.com/assets/p183875_b_h10_ab.jpg?w=960&h=540",
-      "credits": {
-        "director": [
-          "Andy Ackerman"
-        ],
-        "actor": [
-          "Jerry Seinfeld",
-          "Julia Louis-Dreyfus",
-          "Jason Alexander"
-        ]
-      }
-    },
-    {
       "start": "2026-06-06T04:30:00+05:00",
       "stop": "2026-06-06T05:00:00+05:00",
       "title": "The Big Bang Theory",
@@ -233,6 +183,84 @@
         "Variety"
       ],
       "icon": "http://dtil.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-06-06T11:30:00+05:00",
+      "stop": "2026-06-06T12:00:00+05:00",
+      "title": "Two and a Half Men",
+      "sub_title": "That Pistol-Packin' Hermaphrodite",
+      "desc": "Charlie and Mia plan their wedding despite complications on both sides of the family.",
+      "date": "2006",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "Series",
+        "Sitcom"
+      ],
+      "episode": "S3 E24",
+      "icon": "http://dtil.tmsimg.com/assets/p7895742_b_h10_af.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Jamie Widdoes"
+        ],
+        "actor": [
+          "Charlie Sheen",
+          "Jon Cryer",
+          "Angus T. Jones"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-06T12:00:00+05:00",
+      "stop": "2026-06-06T12:30:00+05:00",
+      "title": "Bob Hearts Abishola",
+      "sub_title": "Whacking the Mole",
+      "desc": "After Abishola has a romantic dream about Bob, she tries to suppress her feelings for him and pays the price.",
+      "date": "2019",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Sitcom"
+      ],
+      "episode": "S1 E5",
+      "icon": "http://dtil.tmsimg.com/assets/p16945108_b_h8_aa.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Beth McCarthy-Miller"
+        ],
+        "actor": [
+          "Billy Gardell",
+          "Folake Olowofoyeku",
+          "Christine Ebersole"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-06T12:30:00+05:00",
+      "stop": "2026-06-06T13:00:00+05:00",
+      "title": "The Goldbergs",
+      "sub_title": "Globetrotters",
+      "desc": "When Adam creates a basketball video that makes it look like he and his friends beat Barry at a game, Barry demands a rematch at the school gym; Beverly throws a surprise party for Murray's 50th birthday, despite his protests.",
+      "date": "2016",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Sitcom"
+      ],
+      "episode": "S4 E9",
+      "icon": "http://dtil.tmsimg.com/assets/p9977319_b_h8_by.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Richie Keen"
+        ],
+        "actor": [
+          "Wendi McLendon-Covey",
+          "Patton Oswalt",
+          "Sean Giambrone"
+        ]
+      }
     }
   ]
 }

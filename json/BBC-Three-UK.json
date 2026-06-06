@@ -4,30 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-06T02:45:00+05:00",
-      "stop": "2026-06-06T03:30:00+05:00",
-      "title": "A Good Girl's Guide to Murder",
-      "desc": "Fresh evidence forces Pip back to her first line of inquiry with renewed urgency, while Max Hastings's testimony causes shock waves through the court. Contains strong language.",
-      "language": "en",
-      "categories": [
-        "Entertainment",
-        "Detective"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/c0d0d457-807a-494a-91fa-6c6115c32178/16-9"
-    },
-    {
-      "start": "2026-06-06T03:30:00+05:00",
-      "stop": "2026-06-06T04:15:00+05:00",
-      "title": "Planet Sex with Cara Delevingne",
-      "desc": "Cara Delevingne sets out to find why men are having more fulfilling sex than women. Contains some strong language and scenes of a sexual nature.",
-      "language": "en",
-      "categories": [
-        "Entertainment",
-        "Factual"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/f79df3ee-634c-3cca-81ff-0773283997b7/16-9"
-    },
-    {
       "start": "2026-06-06T04:15:00+05:00",
       "stop": "2026-06-06T05:00:00+05:00",
       "title": "Planet Sex with Cara Delevingne",
@@ -128,6 +104,26 @@
       "desc": "BBC Three delivers bold and provocative content for younger audiences, featuring groundbreaking documentaries, experimental comedy, and fresh drama.",
       "language": "en",
       "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/BBC-Three-UK.png"
+    },
+    {
+      "start": "2026-06-06T22:58:00+05:00",
+      "stop": "2026-06-06T23:00:00+05:00",
+      "title": "This is BBC Three",
+      "desc": "Programmes start at 7.00pm.",
+      "language": "en",
+      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/BBC-Three-UK.png"
+    },
+    {
+      "start": "2026-06-06T23:00:00+05:00",
+      "stop": "2026-06-06T23:45:00+05:00",
+      "title": "Doctor Who",
+      "desc": "Sci-fi drama. With people to save and the Doctor trapped, Clara goes against an enemy that exists beyond human perception.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Sci-Fi"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/054406a3-afa8-4299-8380-def69bc219a8/16-9"
     }
   ]
 }

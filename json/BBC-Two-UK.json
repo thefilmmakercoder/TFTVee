@@ -4,18 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-06T02:30:00+05:00",
-      "stop": "2026-06-06T03:00:00+05:00",
-      "title": "Newsnight, followed by Weather",
-      "desc": "Insights and global interviews on the crucial news stories of the day. With Matt Chorley. Followed by Weather.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/4cecb2ec-2cb5-4aa2-ae09-5d536ccb5745/16-9"
-    },
-    {
       "start": "2026-06-06T03:00:00+05:00",
       "stop": "2026-06-06T04:45:00+05:00",
       "title": "Bring Them Down",
@@ -140,6 +128,18 @@
         "Children"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/593f736a-e087-4be7-8510-b1424d7e2fb4/16-9"
+    },
+    {
+      "start": "2026-06-06T12:10:00+05:00",
+      "stop": "2026-06-06T12:25:00+05:00",
+      "title": "Bro's in Control",
+      "sub_title": "Treats and Tricks",
+      "desc": "Can the bros survive Britain's most haunted castle and four terrifying Gladiators.",
+      "language": "en",
+      "categories": [
+        "Children"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/3c6ca76e-8788-4822-894a-ca4570fb7016/16-9"
     }
   ]
 }

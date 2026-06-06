@@ -4,42 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-06T03:00:00+05:00",
-      "stop": "2026-06-06T03:30:00+05:00",
-      "title": "DW News",
-      "desc": "Presenting a round-up of the most recent news and developments from across the world.",
-      "date": "2002",
-      "language": "en",
-      "rating": "A",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p26245192_b_h10_aa.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Ben Fajzullin"
-        ]
-      }
-    },
-    {
-      "start": "2026-06-06T03:30:00+05:00",
-      "stop": "2026-06-06T04:00:00+05:00",
-      "title": "BBC World News America",
-      "desc": "A detailed look into news stories from around the world from the BBC news desk in Washington, D.C.",
-      "date": "2026",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p32402912_b_h10_aa.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Sumi Somaskanda",
-          "Caitr\u00edona Perry"
-        ]
-      }
-    },
-    {
       "start": "2026-06-06T04:00:00+05:00",
       "stop": "2026-06-06T05:00:00+05:00",
       "title": "PBS News Hour",
@@ -226,6 +190,45 @@
         "Health"
       ],
       "icon": "http://dtil.tmsimg.com/assets/p26439704_b_h8_aa.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-06-06T14:30:00+05:00",
+      "stop": "2026-06-06T15:00:00+05:00",
+      "title": "Rick Steves' Europe",
+      "desc": "Rick Steves' guidebooks, public-radio program and numerous television series have made him an essential resource for travelers wishing to explore Europe. This program finds the knowledgeable host offering globetrotters a fresh perspective on lodgings, transportation and places to visit on their journeys. One thing that hasn't changed, however, is Steves' belief that travelers should become \"temporary locals,\" exploring not only major cities and the usual sites, but out-of-the-way locales that often produce the most authentic, and enjoyable, experiences of a trip.",
+      "date": "2000",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Travel"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p25482162_b_h8_ab.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Rick Steves"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-06T15:00:00+05:00",
+      "stop": "2026-06-06T15:30:00+05:00",
+      "title": "Start Up",
+      "desc": "Real-life experiences from modern American entrepreneurs.",
+      "date": "2013",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Bus./financial"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p17202246_b_h10_aa.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Raisa Churina"
+        ],
+        "actor": [
+          "Gary Bredow"
+        ]
+      }
     }
   ]
 }

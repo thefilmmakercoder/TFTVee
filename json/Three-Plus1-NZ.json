@@ -4,18 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-06T01:30:00+05:00",
-      "stop": "2026-06-06T03:30:00+05:00",
-      "title": "Infomercials",
-      "desc": "Infomercials.",
-      "language": "en",
-      "categories": [
-        "Show",
-        "Series"
-      ],
-      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/Three-Plus1-NZ.png"
-    },
-    {
       "start": "2026-06-06T03:30:00+05:00",
       "stop": "2026-06-06T04:30:00+05:00",
       "title": "Supermarket Stakeout",
@@ -154,6 +142,18 @@
       "categories": [
         "Show",
         "Series"
+      ],
+      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/Three-Plus1-NZ.png"
+    },
+    {
+      "start": "2026-06-06T13:00:00+05:00",
+      "stop": "2026-06-06T15:05:00+05:00",
+      "title": "Movie: Dolphin Tale 2",
+      "desc": "The team who saved Winter's life reassemble In the wake of her mother's passing In order to find her a companion so she can stay at the Clearwater Marine Aquarium. Stars Morgan Freeman.",
+      "language": "en",
+      "rating": "G",
+      "categories": [
+        "Movie"
       ],
       "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/Three-Plus1-NZ.png"
     }

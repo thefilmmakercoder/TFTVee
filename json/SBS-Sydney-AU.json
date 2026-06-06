@@ -4,31 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-06T03:00:00+05:00",
-      "stop": "2026-06-06T03:30:00+05:00",
-      "title": "BBC News At Six",
-      "desc": "The latest national and international news stories from the BBC News team from London, UK, in English.",
-      "language": "en",
-      "rating": "NR",
-      "categories": [
-        "News"
-      ],
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/11514500/image/334x188"
-    },
-    {
-      "start": "2026-06-06T03:30:00+05:00",
-      "stop": "2026-06-06T04:00:00+05:00",
-      "title": "France 24 English News",
-      "sub_title": "Morning First Edition",
-      "desc": "International news and current affairs television from Paris, offering a French perspective on world events, in English.",
-      "language": "en",
-      "rating": "NR",
-      "categories": [
-        "News"
-      ],
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/310649/image/334x188"
-    },
-    {
       "start": "2026-06-06T04:00:00+05:00",
       "stop": "2026-06-06T05:00:00+05:00",
       "title": "DD India News Hour",
@@ -159,6 +134,34 @@
         "Special Interest"
       ],
       "icon": "https://www.fetchtv.com.au/v2/epg/program/5135453/image/334x188"
+    },
+    {
+      "start": "2026-06-06T11:30:00+05:00",
+      "stop": "2026-06-06T12:30:00+05:00",
+      "title": "Giro d'Italia Women Highlights",
+      "sub_title": "Stage 7",
+      "desc": "Highlights from Stage 7 of the 2026 Giro d'Italia Women, as the peloton takes on a 165 km route starting in Sorbolo Mezzani and finishing in Salice Terme.",
+      "language": "en",
+      "rating": "NR",
+      "categories": [
+        "Sports"
+      ],
+      "episode": "E5",
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/20969195/image/334x188"
+    },
+    {
+      "start": "2026-06-06T12:30:00+05:00",
+      "stop": "2026-06-06T12:35:00+05:00",
+      "title": "Plat Du Tour",
+      "sub_title": "Stegt Flaesk",
+      "desc": "Today's race starts in Denmark, so Guillaume is inspired to cook their national dish - the stegt flaesk. This grilled pork belly and potato dish is a feast for the eyes.",
+      "language": "en",
+      "rating": "G",
+      "categories": [
+        "Special Interest"
+      ],
+      "episode": "S3 E1",
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/398318/image/334x188"
     }
   ]
 }

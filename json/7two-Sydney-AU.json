@@ -4,18 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-06T03:00:00+05:00",
-      "stop": "2026-06-06T03:30:00+05:00",
-      "title": "TBA",
-      "desc": "TBA.",
-      "language": "en",
-      "rating": "NR",
-      "categories": [
-        "News"
-      ],
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/3647443/image/334x188"
-    },
-    {
       "start": "2026-06-06T03:30:00+05:00",
       "stop": "2026-06-06T04:30:00+05:00",
       "title": "Better Homes And Gardens",
@@ -160,6 +148,19 @@
       ],
       "episode": "S12 E9",
       "icon": "https://www.fetchtv.com.au/v2/epg/program/271222/image/334x188"
+    },
+    {
+      "start": "2026-06-06T12:30:00+05:00",
+      "stop": "2026-06-06T13:30:00+05:00",
+      "title": "Bondi Vet",
+      "desc": "Audrey tries to find the cause of cat Harry's massively swollen stomach. Scott treats a young bulldog with a deformity. Kate acts quickly to save Pear's infected wound. Rob races to save pregnant dog Luna.",
+      "language": "en",
+      "rating": "PG",
+      "categories": [
+        "Special Interest"
+      ],
+      "episode": "S12 E1",
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/234840/image/334x188"
     }
   ]
 }
