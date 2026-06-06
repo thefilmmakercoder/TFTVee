@@ -4,17 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-06T14:20:00+05:00",
-      "stop": "2026-06-06T16:15:00+05:00",
-      "title": "Great Expectations",
-      "desc": "Vivid adaptation of the Dickens classic about a poor young orphan who becomes a gentleman of means thanks to a mysterious benefactor.",
-      "language": "en",
-      "categories": [
-        "Movie"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/2386d4ae-1e1d-486a-ad18-4380a8a39a53/16-9"
-    },
-    {
       "start": "2026-06-06T16:15:00+05:00",
       "stop": "2026-06-06T17:55:00+05:00",
       "title": "The Wooden Horse",
@@ -138,6 +127,18 @@
       "desc": "Highlights of programmes on BBC Two.",
       "language": "en",
       "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/BBC-Two-UK.png"
+    },
+    {
+      "start": "2026-06-07T10:15:00+05:00",
+      "stop": "2026-06-07T11:00:00+05:00",
+      "title": "The A to Z of TV Gardening",
+      "desc": "A look at some of the BBC's most popular gardening programmes and personalities, presented by Carol Kirkwood. Carol explores subjects that all begin with the letter F.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Gradening"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/6afa3595-340d-3f7e-a889-c4c17d7ae512/16-9"
     }
   ]
 }

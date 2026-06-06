@@ -4,30 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-06T16:00:00+05:00",
-      "stop": "2026-06-06T16:30:00+05:00",
-      "title": "News Live",
-      "desc": "Up-to-date news and analysis from around the world.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "World Affairs"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/79be1a79-e1ba-4426-9d11-75b2b8e2297e/16-9"
-    },
-    {
-      "start": "2026-06-06T16:30:00+05:00",
-      "stop": "2026-06-06T17:00:00+05:00",
-      "title": "Inside Story",
-      "desc": "Ep.1339 Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds from around the globe.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "World Affairs"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/133b6690-d8f8-4b53-8e90-6e50358f000f/16-9"
-    },
-    {
       "start": "2026-06-06T17:00:00+05:00",
       "stop": "2026-06-06T18:00:00+05:00",
       "title": "Newshour",
@@ -148,6 +124,31 @@
         "World Affairs"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/2a6fd281-c2b9-406e-8161-185fa557c656/16-9"
+    },
+    {
+      "start": "2026-06-07T00:00:00+05:00",
+      "stop": "2026-06-07T00:30:00+05:00",
+      "title": "News Live",
+      "desc": "Up-to-date news and analysis from around the world.",
+      "language": "en",
+      "categories": [
+        "News & Documentary",
+        "World Affairs"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/79be1a79-e1ba-4426-9d11-75b2b8e2297e/16-9"
+    },
+    {
+      "start": "2026-06-07T00:30:00+05:00",
+      "stop": "2026-06-07T01:00:00+05:00",
+      "title": "The Listening Post",
+      "sub_title": "Ep",
+      "desc": "23 Why Lebanon remains central to Israel's multi-front wars. Plus, AfrofeminasGPT, a chatbot designed to promote more ethical AI.",
+      "language": "en",
+      "categories": [
+        "News & Documentary",
+        "World Affairs"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/370704a7-c0b8-438c-b5bc-7937371c54f8/16-9"
     }
   ]
 }

@@ -4,36 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-06T14:30:00+05:00",
-      "stop": "2026-06-06T15:00:00+05:00",
-      "title": "Sports Stars of Tomorrow",
-      "desc": "Profiles of the top rookie, college and high-school talent in sports; current athletes share their experiences, advice and personal impressions of the road to stardom.",
-      "date": "2005",
-      "language": "en",
-      "rating": "TVG",
-      "categories": [
-        "Anthology"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p492867_b_h8_aa.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Charles Davis"
-        ]
-      }
-    },
-    {
-      "start": "2026-06-06T15:00:00+05:00",
-      "stop": "2026-06-06T17:00:00+05:00",
-      "title": "Eyewitness News This Morning",
-      "desc": "News coverage to start the day.",
-      "date": "2007",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p677214_b_h8_ad.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-06-06T17:00:00+05:00",
       "stop": "2026-06-06T18:00:00+05:00",
       "title": "Good Morning America",
@@ -209,6 +179,37 @@
         "News"
       ],
       "icon": "http://dtil.tmsimg.com/assets/p15222521_st_h10_aa.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-06-07T03:00:00+05:00",
+      "stop": "2026-06-07T03:30:00+05:00",
+      "title": "Eyewitness News at 6",
+      "desc": "Stay informed with the latest breaking news and headlines.",
+      "date": "2017",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p13769035_b_h8_ab.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-06-07T03:30:00+05:00",
+      "stop": "2026-06-07T04:00:00+05:00",
+      "title": "ABC World News Tonight With David Muir",
+      "desc": "Delivering the news that matters most.",
+      "date": "2026",
+      "language": "en",
+      "categories": [
+        "Series",
+        "News"
+      ],
+      "episode": "E157",
+      "icon": "http://dtil.tmsimg.com/assets/p10880351_b_h8_ah.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "David Muir"
+        ]
+      }
     }
   ]
 }

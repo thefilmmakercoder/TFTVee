@@ -4,59 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-06T15:00:00+05:00",
-      "stop": "2026-06-06T16:00:00+05:00",
-      "title": "Planet Earth",
-      "sub_title": "Seasonal Forests",
-      "desc": "The trees of the Taiga forest; giant sequoia, the largest living thing on the planet.",
-      "date": "2006",
-      "language": "en",
-      "rating": "TVG",
-      "categories": [
-        "Series",
-        "Science",
-        "Educational",
-        "Documentary",
-        "Nature",
-        "History"
-      ],
-      "episode": "S1 E10",
-      "icon": "http://dtil.tmsimg.com/assets/p8431669_b_h8_ad.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "David Attenborough"
-        ]
-      }
-    },
-    {
-      "start": "2026-06-06T16:00:00+05:00",
-      "stop": "2026-06-06T17:10:00+05:00",
-      "title": "Planet Earth",
-      "sub_title": "Mountains",
-      "desc": "Touring the mightiest mountain ranges.",
-      "date": "2006",
-      "language": "en",
-      "rating": "TVG",
-      "categories": [
-        "Series",
-        "Science",
-        "Educational",
-        "Documentary",
-        "Nature",
-        "History"
-      ],
-      "episode": "S1 E2",
-      "icon": "http://dtil.tmsimg.com/assets/p8431669_b_h8_ad.jpg?w=960&h=540",
-      "credits": {
-        "director": [
-          "Alastair Fothergill"
-        ],
-        "actor": [
-          "David Attenborough"
-        ]
-      }
-    },
-    {
       "start": "2026-06-06T17:10:00+05:00",
       "stop": "2026-06-06T18:10:00+05:00",
       "title": "Planet Earth: Mammals",
@@ -275,6 +222,45 @@
           "David Attenborough"
         ]
       }
+    },
+    {
+      "start": "2026-06-07T03:50:00+05:00",
+      "stop": "2026-06-07T05:00:00+05:00",
+      "title": "Planet Earth: Africa",
+      "sub_title": "Kalahari",
+      "desc": "Deserts sit side-by-side in the southwest corner of Africa, and in spite of the lack of water, they are teeming with life.",
+      "date": "2013",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Documentary",
+        "Nature"
+      ],
+      "episode": "S1 E1",
+      "icon": "http://dtil.tmsimg.com/assets/p9646900_b_h10_ad.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "David Attenborough"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-07T05:00:00+05:00",
+      "stop": "2026-06-07T06:11:00+05:00",
+      "title": "Wild Spring",
+      "sub_title": "New Life",
+      "desc": "Springtime bears new beginnings, where pairs come together to form a family and much of the animal kingdom introduces its young to the world.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Series",
+        "Documentary",
+        "Nature"
+      ],
+      "episode": "S1 E1",
+      "icon": "http://dtil.tmsimg.com/assets/p32628919_b_h8_aa.jpg?w=960&h=540"
     }
   ]
 }

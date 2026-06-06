@@ -4,32 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-06T16:00:00+05:00",
-      "stop": "2026-06-06T16:30:00+05:00",
-      "title": "According to Jim",
-      "sub_title": "The Grill II",
-      "desc": "Andy's attempt to sell a grill that Jim gave him a few years ago results in a wildly destructive tug-of-war between the two.",
-      "date": "2007",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Series",
-        "Sitcom"
-      ],
-      "episode": "S6 E15",
-      "icon": "http://dtil.tmsimg.com/assets/p7895282_b_h8_aa.jpg?w=960&h=540",
-      "credits": {
-        "director": [
-          "Dennis Capps"
-        ],
-        "actor": [
-          "Jim Belushi",
-          "Courtney Thorne-Smith",
-          "Kimberly Williams-Paisley"
-        ]
-      }
-    },
-    {
       "start": "2026-06-06T16:30:00+05:00",
       "stop": "2026-06-06T18:30:00+05:00",
       "title": "Gnomeo & Juliet",
@@ -302,6 +276,20 @@
         "Consumer"
       ],
       "icon": "http://dtil.tmsimg.com/assets/p15918995_b_h10_aa.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-06-07T12:00:00+05:00",
+      "stop": "2026-06-07T12:30:00+05:00",
+      "title": "Paid Programming",
+      "desc": "Paid programming.",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Consumer",
+        "Shopping",
+        "Variety"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&h=540"
     }
   ]
 }

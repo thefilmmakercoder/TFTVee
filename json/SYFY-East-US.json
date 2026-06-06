@@ -4,31 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-06T16:00:00+05:00",
-      "stop": "2026-06-06T16:30:00+05:00",
-      "title": "Paid Programming",
-      "desc": "Paid programming.",
-      "language": "en",
-      "rating": "TVG",
-      "categories": [
-        "Consumer",
-        "Shopping",
-        "Variety"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-06-06T16:30:00+05:00",
-      "stop": "2026-06-06T17:00:00+05:00",
-      "title": "NEW! Shark PowerDetect with DuoClean Detect Technology",
-      "desc": "Meet the new Shark PowerDetect Upright Vacuum with features like DuoClean Detect Technology, self-cleaning brush roll and odor neutralizing, and you will be cleaning faster, smarter and better!",
-      "language": "en",
-      "categories": [
-        "Consumer"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p29966207_b_h10_aa.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-06-06T17:00:00+05:00",
       "stop": "2026-06-06T18:00:00+05:00",
       "title": "NCIS: Los Angeles",
@@ -292,6 +267,49 @@
           "Garrett Hedlund"
         ]
       }
+    },
+    {
+      "start": "2026-06-07T13:00:00+05:00",
+      "stop": "2026-06-07T15:00:00+05:00",
+      "title": "Sharknado 3: Oh Hell No!",
+      "desc": "When a mass of sharknadoes threatens Florida, chainsaw-wielding hero Fin must again risk his life to save his children on spring break. But as he fights his way south, the sharknadoes merge and grow bigger than ever before. Fin must find a way to end them once and for all before they destroy the entire Eastern Seaboard.",
+      "date": "2015",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "Movie",
+        "Action",
+        "Thriller",
+        "Science fiction",
+        "Adventure",
+        "Comedy",
+        "Horror"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p11560110_v_h8_an.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Anthony C. Ferrante"
+        ],
+        "actor": [
+          "Ian Ziering",
+          "Tara Reid",
+          "Cassie Scerbo"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-07T15:00:00+05:00",
+      "stop": "2026-06-07T15:30:00+05:00",
+      "title": "Paid Programming",
+      "desc": "Paid programming.",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Consumer",
+        "Shopping",
+        "Variety"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&h=540"
     }
   ]
 }
