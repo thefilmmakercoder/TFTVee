@@ -4,56 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-06T07:00:00+05:00",
-      "stop": "2026-06-06T09:30:00+05:00",
-      "title": "Barbie",
-      "desc": "Barbie and Ken are having the time of their lives in the colorful and seemingly perfect world of Barbie Land. However, when they get a chance to go to the real world, they soon discover the joys and perils of living among humans.",
-      "date": "2023",
-      "language": "en",
-      "rating": "PG-13",
-      "categories": [
-        "Movie",
-        "Comedy"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p13472534_v_h8_am.jpg?w=960&h=540",
-      "credits": {
-        "director": [
-          "Greta Gerwig"
-        ],
-        "actor": [
-          "Margot Robbie",
-          "Ryan Gosling",
-          "America Ferrera"
-        ]
-      }
-    },
-    {
-      "start": "2026-06-06T09:30:00+05:00",
-      "stop": "2026-06-06T12:30:00+05:00",
-      "title": "The Flash",
-      "desc": "Worlds collide when the Flash uses his superpowers to travel back in time to change the events of the past. However, when his attempt to save his family inadvertently alters the future, he becomes trapped in a reality in which General Zod has returned, threatening annihilation. With no other superheroes to turn to, the Flash looks to coax a very different Batman out of retirement and rescue an imprisoned Kryptonian -- albeit not the one he's looking for.",
-      "date": "2023",
-      "language": "en",
-      "rating": "PG-13",
-      "categories": [
-        "Movie",
-        "Action",
-        "Adventure",
-        "Fantasy"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p12742479_v_h8_ad.jpg?w=960&h=540",
-      "credits": {
-        "director": [
-          "Andy Muschietti"
-        ],
-        "actor": [
-          "Ezra Miller",
-          "Sasha Calle",
-          "Michael Shannon"
-        ]
-      }
-    },
-    {
       "start": "2026-06-06T12:30:00+05:00",
       "stop": "2026-06-06T15:00:00+05:00",
       "title": "Wonka",
@@ -299,6 +249,52 @@
         "Sitcom"
       ],
       "episode": "S8 E19",
+      "icon": "http://dtil.tmsimg.com/assets/p7892602_b_h11_aq.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Jennifer Aniston",
+          "Courteney Cox Arquette",
+          "Lisa Kudrow"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-06T19:30:00+05:00",
+      "stop": "2026-06-06T20:00:00+05:00",
+      "title": "Friends",
+      "sub_title": "The One With the Baby Shower",
+      "desc": "During her baby shower, Rachel realizes she is unprepared to be a mother and accepts her mother's (Marlo Thomas) offer to move in to help with the child.",
+      "date": "2002",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "Series",
+        "Sitcom"
+      ],
+      "episode": "S8 E20",
+      "icon": "http://dtil.tmsimg.com/assets/p7892602_b_h11_aq.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Jennifer Aniston",
+          "Courteney Cox Arquette",
+          "Lisa Kudrow"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-06T20:00:00+05:00",
+      "stop": "2026-06-06T20:30:00+05:00",
+      "title": "Friends",
+      "sub_title": "The One With the Cooking Class",
+      "desc": "A food critic blasts Monica's cooking in a newspaper review; a cute saleswoman riles Rachel when she flirts with Ross; Phoebe coaches Chandler for a job interview.",
+      "date": "2002",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "Series",
+        "Sitcom"
+      ],
+      "episode": "S8 E21",
       "icon": "http://dtil.tmsimg.com/assets/p7892602_b_h11_aq.jpg?w=960&h=540",
       "credits": {
         "actor": [

@@ -4,30 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-06T04:50:00+05:00",
-      "stop": "2026-06-06T04:55:00+05:00",
-      "title": "Weather for the Week Ahead",
-      "desc": "Detailed weather forecast.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/1c2711ce-2d8b-4d72-a560-6be6a5cffd25/16-9"
-    },
-    {
-      "start": "2026-06-06T04:55:00+05:00",
-      "stop": "2026-06-06T10:00:00+05:00",
-      "title": "BBC News",
-      "desc": "BBC One joins the BBC's rolling news channel for a night of news.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/1d7d2a7e-7749-4085-b088-30bf19bb66a3/16-9"
-    },
-    {
       "start": "2026-06-06T10:00:00+05:00",
       "stop": "2026-06-06T14:00:00+05:00",
       "title": "Breakfast",
@@ -146,6 +122,30 @@
         "Gradening"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/f6b5c5ad-14e0-4b1d-bcf3-e892d1c0dff7/16-9"
+    },
+    {
+      "start": "2026-06-06T20:30:00+05:00",
+      "stop": "2026-06-06T21:15:00+05:00",
+      "title": "The Bidding Room",
+      "desc": "Nigel Havers presides as five sellers aim to get the best price for their items, including weighing scales, miniature lifebelts, lightning rods, vases and African birthing chairs.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Antiques"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/d71ada8e-cb25-4bb2-af72-d05ca2c37421/16-9"
+    },
+    {
+      "start": "2026-06-06T21:15:00+05:00",
+      "stop": "2026-06-06T21:25:00+05:00",
+      "title": "BBC News",
+      "desc": "The latest national and international news from the BBC.",
+      "language": "en",
+      "categories": [
+        "News & Documentary",
+        "News"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/b8293dfe-b8a6-4f63-a40a-27bbacf6f427/16-9"
     }
   ]
 }
