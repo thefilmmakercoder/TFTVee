@@ -4,89 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-06T04:30:00+05:00",
-      "stop": "2026-06-06T05:00:00+05:00",
-      "title": "Family Feud",
-      "desc": "Family Feud is an American television game show where two families compete to name the responses to survey questions in order to win cash and prizes.",
-      "date": "2025",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Series",
-        "Game show"
-      ],
-      "episode": "S26 E110",
-      "icon": "http://dtil.tmsimg.com/assets/p8314079_b_h8_ah.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Steve Harvey"
-        ]
-      }
-    },
-    {
-      "start": "2026-06-06T05:00:00+05:00",
-      "stop": "2026-06-06T07:00:00+05:00",
-      "title": "America's Got Talent",
-      "sub_title": "Auditions 1",
-      "desc": "Season 21 lives up to its lucky number with more Golden Buzzers in one night than ever before; it's an evening full of surprises, with a lineup ranging from not one but two dance crews that are not human, to a crossbow stunt duo taking the stage.",
-      "date": "2026",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Series",
-        "Variety",
-        "Music",
-        "Dance",
-        "Competition Reality"
-      ],
-      "episode": "S21 E1",
-      "icon": "http://dtil.tmsimg.com/assets/p32655317_b_h8_ab.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Terry Crews",
-          "Simon Cowell",
-          "Howie Mandel"
-        ]
-      }
-    },
-    {
-      "start": "2026-06-06T07:00:00+05:00",
-      "stop": "2026-06-06T08:00:00+05:00",
-      "title": "Dateline NBC",
-      "sub_title": "A Killing in Midtown",
-      "desc": "Compelling mysteries, powerful documentaries, in-depth investigations.",
-      "date": "2026",
-      "language": "en",
-      "rating": "MA 15+",
-      "categories": [
-        "Series",
-        "Newsmagazine",
-        "Mystery",
-        "Crime"
-      ],
-      "episode": "S34 E27",
-      "icon": "http://dtil.tmsimg.com/assets/p184061_b_h8_ab.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Lester Holt",
-          "Andrea Canning",
-          "Josh Mankiewicz"
-        ]
-      }
-    },
-    {
-      "start": "2026-06-06T08:00:00+05:00",
-      "stop": "2026-06-06T08:35:00+05:00",
-      "title": "CityNews Tonight Toronto",
-      "desc": "Coverage of the day's top news stories.",
-      "date": "2019",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p16858130_b_h8_aa.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-06-06T08:35:00+05:00",
       "stop": "2026-06-06T09:37:00+05:00",
       "title": "Jimmy Kimmel Live!",
@@ -100,7 +17,7 @@
         "Talk",
         "Comedy"
       ],
-      "episode": "S24 E126",
+      "episode": "S24 E125",
       "icon": "http://dtil.tmsimg.com/assets/p31166959_b_h8_ac.jpg?w=960&h=540",
       "credits": {
         "actor": [
@@ -257,6 +174,61 @@
           "Kevin Hanchard"
         ]
       }
+    },
+    {
+      "start": "2026-06-06T15:30:00+05:00",
+      "stop": "2026-06-06T16:00:00+05:00",
+      "title": "CityNews Tonight Toronto",
+      "desc": "Coverage of the day's top news stories.",
+      "date": "2019",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p16858130_b_h8_aa.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-06-06T16:00:00+05:00",
+      "stop": "2026-06-06T16:30:00+05:00",
+      "title": "Angler and Hunter",
+      "sub_title": "Angler Hunter Apprentice 4",
+      "desc": "Mike is joined by the newest apprentice contest winner Nico Risorto on a pheasant hunt.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Outdoors",
+        "Hunting",
+        "Fishing"
+      ],
+      "episode": "E11",
+      "icon": "http://dtil.tmsimg.com/assets/p24551376_st_h10_aa.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-06-06T16:30:00+05:00",
+      "stop": "2026-06-06T18:00:00+05:00",
+      "title": "Camoes TV",
+      "desc": "The latest in local and international Portuguese news and entertainment.",
+      "date": "2018",
+      "language": "en",
+      "categories": [
+        "Community"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p15108234_st_h10_aa.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-06-06T18:00:00+05:00",
+      "stop": "2026-06-06T19:00:00+05:00",
+      "title": "Polish Studio",
+      "desc": "The St. Stanislaus-St. Casimir's Polish parish's own hour long broadcast in Polish associated with CHIN and broadcast on Citytv on Saturday morning.",
+      "date": "2000",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Community"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p858786_b_h8_aa.jpg?w=960&h=540"
     }
   ]
 }

@@ -4,63 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-06T04:00:00+05:00",
-      "stop": "2026-06-06T05:00:00+05:00",
-      "title": "Eyewitness News 4PM",
-      "desc": "Early evening news.",
-      "date": "2004",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p676966_b_h8_af.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-06-06T05:00:00+05:00",
-      "stop": "2026-06-06T05:30:00+05:00",
-      "title": "Live: NBA Tip-Off",
-      "desc": "Host Ernie Johnson and analysts Shaquille O'Neal, Charles Barkley and Kenny Smith ready viewers for NBA action before ESPN's Wednesday night doubleheaders (and other select telecasts). Guest analysts also are featured from time to time.",
-      "date": "1998",
-      "language": "en",
-      "categories": [
-        "Basketball"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p267533_b_h8_aa.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Ernie Johnson",
-          "Charles Barkley",
-          "Shaquille O'Neal"
-        ]
-      }
-    },
-    {
-      "start": "2026-06-06T05:30:00+05:00",
-      "stop": "2026-06-06T08:00:00+05:00",
-      "title": "Live: 2026 NBA Finals",
-      "desc": "The Knicks battle the Spurs at Frost Bank Center in Game 2 of the NBA Finals. New York leads 1-0 after a 105-95 comeback win in Game 1 behind Jalen Brunson, who scored 30 points, and Karl-Anthony Towns, who had a crucial double-double.",
-      "language": "en",
-      "categories": [
-        "Sports",
-        "Playoff sports",
-        "Basketball"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/GNLZZGG0034L9HS.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-06-06T08:00:00+05:00",
-      "stop": "2026-06-06T09:00:00+05:00",
-      "title": "Slam Dunk: The Finals",
-      "desc": "All basketball all the time with the best moments of the NBA Finals.",
-      "date": "2017",
-      "language": "en",
-      "categories": [
-        "Sports talk",
-        "Basketball"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p14137032_b_h10_aa.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-06-06T09:00:00+05:00",
       "stop": "2026-06-06T09:30:00+05:00",
       "title": "Jeopardy!",
@@ -213,6 +156,79 @@
           "Nick Jonas"
         ]
       }
+    },
+    {
+      "start": "2026-06-06T14:36:00+05:00",
+      "stop": "2026-06-06T15:30:00+05:00",
+      "title": "Tamron Hall",
+      "sub_title": "It's Broadway Baby!",
+      "desc": "R&B legend Tank talks about taking center stage in the Tony Award-winning \"Hell's Kitchen\" and shares an update on his partial hearing loss; \"Wicked\" leading man Jordan Litz tells how he managed to run the New York City Marathon and perform in back-to-back Broadway shows; Tank and Amanda Reid perform; Isabella Esler (\"Beetlejuice\") performs.",
+      "date": "2025",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Talk"
+      ],
+      "episode": "S7 E49",
+      "icon": "http://dtil.tmsimg.com/assets/p17197549_b_h8_af.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Tamron Hall",
+          "Jordan Litz",
+          "Tank"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-06T15:30:00+05:00",
+      "stop": "2026-06-06T16:00:00+05:00",
+      "title": "Paid Programming",
+      "desc": "Paid programming.",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Consumer",
+        "Shopping",
+        "Variety"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-06-06T16:00:00+05:00",
+      "stop": "2026-06-06T17:00:00+05:00",
+      "title": "Good Morning America",
+      "desc": "Early morning news and entertainment program that covers important issues with key figures from around the world and a wide spectrum of topics, including medicine, finance, consumer issues, computer technology, education and gardening.",
+      "date": "2026",
+      "language": "en",
+      "categories": [
+        "Series",
+        "Talk",
+        "News",
+        "Variety",
+        "Public affairs"
+      ],
+      "episode": "E179",
+      "icon": "http://dtil.tmsimg.com/assets/p31385280_b_h10_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Whit Johnson",
+          "Janai Norman",
+          "Gio Benitez"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-06T17:00:00+05:00",
+      "stop": "2026-06-06T18:00:00+05:00",
+      "title": "Eyewitness News 5AM",
+      "desc": "News coverage to start the day.",
+      "date": "2004",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p676994_b_h8_af.jpg?w=960&h=540"
     }
   ]
 }

@@ -4,85 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-06T04:00:00+05:00",
-      "stop": "2026-06-06T05:00:00+05:00",
-      "title": "Nightwatch",
-      "sub_title": "A Tale of Two Cities",
-      "desc": "The legendary French Quarter takes center stage for a busy night of EMT action, as the technicians treat multiple unconscious patients, a young woman assaulted at a party, and a car accident featuring a victim with a tragic backstory.",
-      "date": "2023",
-      "language": "en",
-      "rating": "TV14",
-      "categories": [
-        "Series",
-        "Reality",
-        "Documentary",
-        "Medical"
-      ],
-      "episode": "S7 E3",
-      "icon": "http://dtil.tmsimg.com/assets/p25511265_b_h8_aa.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-06-06T05:00:00+05:00",
-      "stop": "2026-06-06T06:00:00+05:00",
-      "title": "Nightwatch",
-      "sub_title": "Dreams and Nightmares",
-      "desc": "Police officer Justin joins the SWAT team in a raid; the first responders treat an accident victim with amnesia and a woman who fell off a roof; Arkady bonds with a man who attempted suicide.",
-      "date": "2016",
-      "language": "en",
-      "rating": "TV14",
-      "categories": [
-        "Series",
-        "Reality",
-        "Documentary",
-        "Medical"
-      ],
-      "episode": "S2 E9",
-      "icon": "http://dtil.tmsimg.com/assets/p11336236_b_h8_aa.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-06-06T06:00:00+05:00",
-      "stop": "2026-06-06T07:00:00+05:00",
-      "title": "Nightwatch",
-      "sub_title": "Mardi Gras",
-      "desc": "Mardi Gras proves hectic for the responders; a man impales his hand on a fence, while another is stabbed in the face; the search for armed robbers leads to a high-speed chase.",
-      "date": "2015",
-      "language": "en",
-      "rating": "TV14",
-      "categories": [
-        "Series",
-        "Reality",
-        "Documentary",
-        "Medical"
-      ],
-      "episode": "S2 E1",
-      "icon": "http://dtil.tmsimg.com/assets/p11336236_b_h8_aa.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-06-06T07:00:00+05:00",
-      "stop": "2026-06-06T08:00:00+05:00",
-      "title": "Nightwatch",
-      "sub_title": "The Great Unknown",
-      "desc": "The unexpected reigns in the city of New Orleans as EMS responders answer calls about a child shooting, a multiple-vehicle car accident, a reported suicide attempt, and a veteran struggling with a drug overdose.",
-      "date": "2021",
-      "language": "en",
-      "rating": "TV14",
-      "categories": [
-        "Series",
-        "Reality",
-        "Documentary",
-        "Medical"
-      ],
-      "episode": "S5 E3",
-      "icon": "http://dtil.tmsimg.com/assets/p11336236_b_h8_aa.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Gavin Istre",
-          "Dan Flynn",
-          "Nick Manning"
-        ]
-      }
-    },
-    {
       "start": "2026-06-06T08:00:00+05:00",
       "stop": "2026-06-06T09:00:00+05:00",
       "title": "Nightwatch",
@@ -246,6 +167,65 @@
         "Consumer"
       ],
       "icon": "http://dtil.tmsimg.com/assets/p30127108_st_h10_aa.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-06-06T15:30:00+05:00",
+      "stop": "2026-06-06T16:00:00+05:00",
+      "title": "Paid Programming",
+      "desc": "Paid programming.",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Consumer",
+        "Shopping",
+        "Variety"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-06-06T16:00:00+05:00",
+      "stop": "2026-06-06T16:30:00+05:00",
+      "title": "Tired of Pain? Go Drug-Free",
+      "desc": "See how a drug-free patch is helping people find relief-without medication.",
+      "language": "en",
+      "categories": [
+        "Consumer"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p32384250_st_h10_aa.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-06-06T16:30:00+05:00",
+      "stop": "2026-06-06T17:00:00+05:00",
+      "title": "Natural Blood Pressure Management",
+      "desc": "Cardiologist Dr. Ernst von Schwarz, M.D. shows how to manage your blood pressure naturally and help protect your heart for life with My Best Heart.",
+      "language": "en",
+      "categories": [
+        "Consumer"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p29188954_st_h10_aa.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-06-06T17:00:00+05:00",
+      "stop": "2026-06-06T18:00:00+05:00",
+      "title": "Monster in My Family",
+      "sub_title": "DC Sniper: John Allen Muhammad",
+      "desc": "Mildred Muhammad, ex-wife of the infamous DC Sniper, reveals how the man she loved disintegrated into a monster; Melissa Moore interviews Lee Boyd Malvo in prison.",
+      "date": "2015",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "Series",
+        "Reality",
+        "Documentary",
+        "Crime"
+      ],
+      "episode": "S1 E4",
+      "icon": "http://dtil.tmsimg.com/assets/p11846849_b_h8_sd.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Melissa G. Moore"
+        ]
+      }
     }
   ]
 }

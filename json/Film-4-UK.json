@@ -4,34 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-06T01:00:00+05:00",
-      "stop": "2026-06-06T03:35:00+05:00",
-      "title": "Nope",
-      "desc": "Western-infused sci-fi chiller with Daniel Kaluuya and Keke Palmer as cash-strapped horse trainers who try to supplement their income by filming alien goings-on at their ranch.",
-      "date": "2022",
-      "language": "en",
-      "rating": "15",
-      "categories": [
-        "Movie",
-        "Sci-Fi"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/d54478ef-1749-4237-b723-be79da9588ee/16-9"
-    },
-    {
-      "start": "2026-06-06T03:35:00+05:00",
-      "stop": "2026-06-06T05:30:00+05:00",
-      "title": "Monolith",
-      "desc": "Sci-fi horror with Lily Sullivan as a disgraced journalist investigating mysterious manifestations of vision-inducing - possibly supernatural - black bricks. Matt Vesley directs.",
-      "date": "2022",
-      "language": "en",
-      "rating": "15",
-      "categories": [
-        "Movie",
-        "Sci-Fi"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/5a7abd87-42a7-3d11-a351-d9eec8f63b2e/16-9"
-    },
-    {
       "start": "2026-06-06T05:30:00+05:00",
       "stop": "2026-06-06T07:10:00+05:00",
       "title": "Significant Other",
@@ -104,7 +76,7 @@
       "desc": "Animated spy comedy caper with the voice of Will Smith. The 'world's most awesome spy' gets framed and has to go undercover as a pigeon to prove his innocence.",
       "date": "2019",
       "language": "en",
-      "rating": "PG",
+      "rating": "U",
       "categories": [
         "Movie",
         "Animation"
@@ -118,12 +90,76 @@
       "desc": "Comedy starring Whoopi Goldberg. A casino singer who witnesses a Mob murder goes into hiding at a convent, where she soon has the choir rocking. With Maggie Smith.",
       "date": "1992",
       "language": "en",
-      "rating": "PG",
+      "rating": "U",
       "categories": [
         "Movie",
         "Comedy"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/a0dc3837-6ec1-4ccd-9c21-ccc3e0f989d5/16-9"
+    },
+    {
+      "start": "2026-06-07T00:55:00+05:00",
+      "stop": "2026-06-07T01:00:00+05:00",
+      "title": "Django Unchained Interview Special",
+      "desc": "Director Quentin Tarantino and stars Samuel L Jackson, Christoph Waltz, Jamie Foxx and Kerry Washington talk about making the western adventure set against a backdrop of slavery.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Review"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/1d892f0e-0379-3395-bbde-1243c72b843c/16-9"
+    },
+    {
+      "start": "2026-06-07T01:00:00+05:00",
+      "stop": "2026-06-07T04:20:00+05:00",
+      "title": "Django Unchained",
+      "desc": "Quentin Tarantino's darkly comic, award-laden western with Jamie Foxx, Christopher Waltz, Leonardo DiCaprio and Samuel L Jackson. A freed slave searches for his wife... and revenge.",
+      "date": "2012",
+      "language": "en",
+      "rating": "18",
+      "categories": [
+        "Movie",
+        "Western"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/6bef4cd9-62bf-4ccd-afb6-4d2541be283b/16-9"
+    },
+    {
+      "start": "2026-06-07T04:20:00+05:00",
+      "stop": "2026-06-07T06:55:00+05:00",
+      "title": "The Entity",
+      "desc": "Sidney J Furie's seminal horror stars Barbara Hershey as a divorced mother of three who becomes the victim of a poltergeist that submits her to multiple violent and sexual assaults.",
+      "date": "1982",
+      "language": "en",
+      "rating": "18",
+      "categories": [
+        "Movie",
+        "Horror"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/bc526909-6827-4acf-a500-a597a41a02d8/16-9"
+    },
+    {
+      "start": "2026-06-07T06:55:00+05:00",
+      "stop": "2026-06-07T11:00:00+05:00",
+      "title": "Teleshopping",
+      "desc": "Teleshopping.",
+      "language": "en",
+      "categories": [
+        "Specialist",
+        "Shopping"
+      ],
+      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/Film-4-UK.png"
+    },
+    {
+      "start": "2026-06-07T11:00:00+05:00",
+      "stop": "2026-06-07T15:00:00+05:00",
+      "title": "Teleshopping",
+      "desc": "Teleshopping.",
+      "language": "en",
+      "categories": [
+        "Specialist",
+        "Shopping"
+      ],
+      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/Film-4-UK.png"
     }
   ]
 }

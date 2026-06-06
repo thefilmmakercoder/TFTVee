@@ -4,83 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-06T04:30:00+05:00",
-      "stop": "2026-06-06T05:00:00+05:00",
-      "title": "The Big Bang Theory",
-      "sub_title": "The Staircase Implementation",
-      "desc": "Leonard tells Penny about how he met Sheldon and what happened to the elevator.",
-      "date": "2010",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Series",
-        "Sitcom"
-      ],
-      "episode": "S3 E22",
-      "icon": "http://dtil.tmsimg.com/assets/p7895968_b_h10_aa.jpg?w=960&h=540",
-      "credits": {
-        "director": [
-          "Mark Cendrowski"
-        ],
-        "actor": [
-          "Johnny Galecki",
-          "Jim Parsons",
-          "Kaley Cuoco"
-        ]
-      }
-    },
-    {
-      "start": "2026-06-06T05:00:00+05:00",
-      "stop": "2026-06-06T05:30:00+05:00",
-      "title": "Seinfeld",
-      "sub_title": "The Pick",
-      "desc": "Elaine accidentally reveals too much cleavage on her Christmas card; Kramer is asked to pose for a risqu\u00e9 underwear ad.",
-      "date": "1992",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Series",
-        "Sitcom"
-      ],
-      "episode": "S4 E13",
-      "icon": "http://dtil.tmsimg.com/assets/p183875_b_h10_ab.jpg?w=960&h=540",
-      "credits": {
-        "director": [
-          "Tom Cherones"
-        ],
-        "actor": [
-          "Jerry Seinfeld",
-          "Jason Alexander",
-          "Michael Richards"
-        ]
-      }
-    },
-    {
-      "start": "2026-06-06T05:30:00+05:00",
-      "stop": "2026-06-06T06:00:00+05:00",
-      "title": "Live: New York Nightcap",
-      "desc": "WPIX provides essential New York news, live sports, and CW network hits, serving as a cornerstone of local broadcasting for the tri-state area.",
-      "date": "2025",
-      "language": "en",
-      "categories": [
-        "Community"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p31821949_st_h10_aa.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-06-06T06:00:00+05:00",
-      "stop": "2026-06-06T06:30:00+05:00",
-      "title": "Live: Mets Pregame",
-      "desc": "Analyst Gary Apple along with special guests preview the upcoming New York Mets game and series, as well as recapping past performances.",
-      "date": "2006",
-      "language": "en",
-      "rating": "TVG",
-      "categories": [
-        "Baseball"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p263667_b_h8_ad.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-06-06T06:30:00+05:00",
       "stop": "2026-06-06T09:30:00+05:00",
       "title": "Live: MLB Baseball",
@@ -259,6 +182,82 @@
           "Wendi McLendon-Covey",
           "Patton Oswalt",
           "Sean Giambrone"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-06T13:00:00+05:00",
+      "stop": "2026-06-06T13:30:00+05:00",
+      "title": "Paid Programming",
+      "desc": "Paid programming.",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Consumer",
+        "Shopping",
+        "Variety"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-06-06T13:30:00+05:00",
+      "stop": "2026-06-06T14:00:00+05:00",
+      "title": "Paid Programming",
+      "desc": "Paid programming.",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Consumer",
+        "Shopping",
+        "Variety"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-06-06T14:00:00+05:00",
+      "stop": "2026-06-06T14:30:00+05:00",
+      "title": "The Broadway Show With Tamsen Fadal",
+      "desc": "Tamsen Fadal interviews celebrities, rising stars and special guests from Broadway to off-Broadway.",
+      "date": "2026",
+      "language": "en",
+      "categories": [
+        "Series",
+        "Entertainment",
+        "Theater",
+        "Interview",
+        "Performing arts",
+        "Biography",
+        "Newsmagazine"
+      ],
+      "episode": "E23",
+      "icon": "http://dtil.tmsimg.com/assets/p16563214_b_h10_ad.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Tamsen Fadal",
+          "Paul Wontorek",
+          "Charlie Cooper"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-06T14:30:00+05:00",
+      "stop": "2026-06-06T15:00:00+05:00",
+      "title": "To the Rescue",
+      "sub_title": "In the Nick of Time",
+      "desc": "Relieving an overrun animal shelter; a family nurses a foster dog back to health; twenty fighting dogs are discovered hidden in a barn and need immediate help to escape; a blind dog is taught how to navigate the world.",
+      "date": "2020",
+      "language": "en",
+      "categories": [
+        "Series",
+        "Animals",
+        "Pets",
+        "Community"
+      ],
+      "episode": "S1 E7",
+      "icon": "http://dtil.tmsimg.com/assets/p18824030_b_h8_ab.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Tommy Habeeb"
         ]
       }
     }

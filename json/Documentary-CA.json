@@ -4,44 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-06T04:00:00+05:00",
-      "stop": "2026-06-06T05:00:00+05:00",
-      "title": "The Passionate Eye",
-      "sub_title": "Nike's Big Bet: Alberto Salazar and the Fine Line of Sport",
-      "desc": "Alberto Salazar, coach and head of Nike's Oregon Project, is banned from all coaching activities.",
-      "date": "2021",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Series",
-        "Documentary"
-      ],
-      "episode": "E2",
-      "icon": "http://dtil.tmsimg.com/assets/p301911_b_h10_ad.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-06-06T05:00:00+05:00",
-      "stop": "2026-06-06T06:00:00+05:00",
-      "title": "Warrior Spirit",
-      "desc": "Will George was asked by his elders to protect his Nation's land and waters, then he found himself in court.",
-      "date": "2024",
-      "language": "en",
-      "rating": "TV14",
-      "categories": [
-        "Special"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p26545087_b_h8_ab.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-06-06T06:00:00+05:00",
-      "stop": "2026-06-06T08:00:00+05:00",
-      "title": "Ni-Naadamaadiz: Red Power Rising",
-      "desc": "The little-known story of how in 1974, Anishinaabe youth staged one of the first land-back occupations in Canadian history in Kenora, Ontario.",
-      "date": "2026",
-      "language": "en",
-      "icon": "http://dtil.tmsimg.com/assets/p32856651_b_h8_aa.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-06-06T08:00:00+05:00",
       "stop": "2026-06-06T09:00:00+05:00",
       "title": "Disruptor Conductor",
@@ -49,9 +11,16 @@
       "date": "2023",
       "language": "en",
       "categories": [
-        "Special"
+        "Special",
+        "Music",
+        "Concert"
       ],
-      "icon": "http://dtil.tmsimg.com/assets/p26720490_b_h8_ab.jpg?w=960&h=540"
+      "icon": "http://dtil.tmsimg.com/assets/p26720490_b_h8_ab.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Daniel Bartholomew-Poyser"
+        ]
+      }
     },
     {
       "start": "2026-06-06T09:00:00+05:00",
@@ -70,9 +39,16 @@
       "date": "2023",
       "language": "en",
       "categories": [
-        "Special"
+        "Special",
+        "Music",
+        "Concert"
       ],
-      "icon": "http://dtil.tmsimg.com/assets/p26720490_b_h8_ab.jpg?w=960&h=540"
+      "icon": "http://dtil.tmsimg.com/assets/p26720490_b_h8_ab.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Daniel Bartholomew-Poyser"
+        ]
+      }
     },
     {
       "start": "2026-06-06T12:00:00+05:00",
@@ -91,9 +67,16 @@
       "date": "2023",
       "language": "en",
       "categories": [
-        "Special"
+        "Special",
+        "Music",
+        "Concert"
       ],
-      "icon": "http://dtil.tmsimg.com/assets/p26720490_b_h8_ab.jpg?w=960&h=540"
+      "icon": "http://dtil.tmsimg.com/assets/p26720490_b_h8_ab.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Daniel Bartholomew-Poyser"
+        ]
+      }
     },
     {
       "start": "2026-06-06T15:00:00+05:00",
@@ -184,6 +167,73 @@
         "actor": [
           "Sarika Cullis-Suzuki",
           "Anthony Morgan"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-06T20:00:00+05:00",
+      "stop": "2026-06-06T21:00:00+05:00",
+      "title": "On Thin Ice: Putin v Greenpeace",
+      "desc": "Authorities meet a Greenpeace peaceful action on a Russian oil rig in the Arctic with brutal force.",
+      "date": "2024",
+      "language": "en",
+      "rating": "16",
+      "categories": [
+        "Series",
+        "Documentary",
+        "Environment",
+        "Politics"
+      ],
+      "episode": "S1 E1",
+      "icon": "http://dtil.tmsimg.com/assets/p27504849_b_h10_ab.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Chloe Campbell",
+          "Alice McMahon-Major"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-06T21:00:00+05:00",
+      "stop": "2026-06-06T22:00:00+05:00",
+      "title": "On Thin Ice: Putin v Greenpeace",
+      "desc": "The FSB take the activists to Murmansk, where they face charges of up to 15 years in prison for \"piracy.\".",
+      "date": "2024",
+      "language": "en",
+      "rating": "16",
+      "categories": [
+        "Series",
+        "Documentary",
+        "Environment",
+        "Politics"
+      ],
+      "episode": "S1 E2",
+      "icon": "http://dtil.tmsimg.com/assets/p27504849_b_h10_ab.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Chloe Campbell",
+          "Alice McMahon-Major"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-06T22:00:00+05:00",
+      "stop": "2026-06-07T00:00:00+05:00",
+      "title": "How It Feels to Be Free",
+      "desc": "African-American female performers changed American culture through their films; fashion; music; politics.",
+      "date": "2021",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "Special",
+        "Documentary"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p19499134_b_h8_ad.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Lena Horne",
+          "Diahann Carroll",
+          "Nina Simone"
         ]
       }
     }
