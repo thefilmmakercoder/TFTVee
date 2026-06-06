@@ -4,30 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-06T13:30:00+05:00",
-      "stop": "2026-06-06T14:30:00+05:00",
-      "title": "The Opening Show: Derby Day Special",
-      "desc": "Oli Bell and the team are at Epsom ahead of Derby Day, one of the biggest days in the racing calendar.",
-      "language": "en",
-      "categories": [
-        "Sports",
-        "Racing"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/6b140d55-48b5-4cba-aafc-a68ebe1678e0/16-9"
-    },
-    {
-      "start": "2026-06-06T14:30:00+05:00",
-      "stop": "2026-06-06T15:30:00+05:00",
-      "title": "The Big Match Revisited",
-      "desc": "Brian Moore introduces football highlights from February 1972 as Tottenham Hotspur entertained Stoke City and table-toppers Manchester City faced Huddersfield Town.",
-      "language": "en",
-      "categories": [
-        "Sports",
-        "Football"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/f2268711-df75-40cf-b09c-d403191b77e1/16-9"
-    },
-    {
       "start": "2026-06-06T15:30:00+05:00",
       "stop": "2026-06-06T16:30:00+05:00",
       "title": "Isle of Man TT Highlights",
@@ -150,6 +126,30 @@
         "Lifestyles"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/2360c6a0-6d98-46c5-a6fd-a7cb67a736f5/16-9"
+    },
+    {
+      "start": "2026-06-07T07:00:00+05:00",
+      "stop": "2026-06-07T10:00:00+05:00",
+      "title": "Teleshopping",
+      "desc": "Shopping from home.",
+      "language": "en",
+      "categories": [
+        "Specialist",
+        "Shopping"
+      ],
+      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/ITV-4-UK.png"
+    },
+    {
+      "start": "2026-06-07T10:00:00+05:00",
+      "stop": "2026-06-07T10:10:00+05:00",
+      "title": "World of Sport",
+      "sub_title": "Kings of the Canvas",
+      "desc": "Richard Henwood takes a look back at the glory days of British wrestling with some classic action from the archives.",
+      "language": "en",
+      "categories": [
+        "Sports"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/8a77ceb3-803c-4826-8d22-0ecd70987f1e/16-9"
     }
   ]
 }

@@ -4,18 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-06T13:15:00+05:00",
-      "stop": "2026-06-06T14:20:00+05:00",
-      "title": "Gardeners' World",
-      "desc": "Roses are stealing the spotlight at Longmeadow, and Monty is celebrating all the full, head-turning bloom. From richly scented classics to vibrant modern varieties, this is peak rose season.",
-      "language": "en",
-      "categories": [
-        "Entertainment",
-        "Gradening"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/23ee0ca0-ef6a-47f7-aa03-5492608e8f19/16-9"
-    },
-    {
       "start": "2026-06-06T14:20:00+05:00",
       "stop": "2026-06-06T16:15:00+05:00",
       "title": "Great Expectations",
@@ -142,6 +130,14 @@
         "Drama"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/88d3d17f-1051-46c4-9939-873b50a89bb1/16-9"
+    },
+    {
+      "start": "2026-06-07T09:05:00+05:00",
+      "stop": "2026-06-07T10:15:00+05:00",
+      "title": "This is BBC Two",
+      "desc": "Highlights of programmes on BBC Two.",
+      "language": "en",
+      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/BBC-Two-UK.png"
     }
   ]
 }

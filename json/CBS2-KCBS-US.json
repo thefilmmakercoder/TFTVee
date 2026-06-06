@@ -4,41 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-06T14:35:00+05:00",
-      "stop": "2026-06-06T15:05:00+05:00",
-      "title": "Bathroom Makeover",
-      "desc": "Transform your bath affordably in just one day!",
-      "language": "en",
-      "categories": [
-        "Consumer",
-        "Health",
-        "House/garden",
-        "Self improvement"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p30220270_b_h8_aa.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-06-06T15:05:00+05:00",
-      "stop": "2026-06-06T15:35:00+05:00",
-      "title": "CBS Evening News",
-      "desc": "Tony Dokoupil shares the day's most important stories, delivering context and depth to bring greater understanding to one's world.",
-      "date": "2026",
-      "language": "en",
-      "categories": [
-        "Series",
-        "News"
-      ],
-      "episode": "E156",
-      "icon": "http://dtil.tmsimg.com/assets/p28807922_b_h8_ae.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Tony Dokoupil",
-          "Maurice DuBois",
-          "Jericka Duncan"
-        ]
-      }
-    },
-    {
       "start": "2026-06-06T15:35:00+05:00",
       "stop": "2026-06-06T16:00:00+05:00",
       "title": "Made in Hollywood",
@@ -226,6 +191,30 @@
         "Consumer"
       ],
       "icon": "http://dtil.tmsimg.com/assets/p32753687_st_h10_aa.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-06-06T23:00:00+05:00",
+      "stop": "2026-06-06T23:30:00+05:00",
+      "title": "Wine Oh TV",
+      "desc": "Wine Oh TV with Monique Soltani is a fun, fresh and informative wine, travel and lifestyle show.",
+      "date": "2017",
+      "language": "en",
+      "categories": [
+        "Travel"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p13784253_b_h10_aa.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-06-06T23:30:00+05:00",
+      "stop": "2026-06-07T03:00:00+05:00",
+      "title": "Live: PGA Tour Golf",
+      "desc": "Elite golfers face a critical Moving Day charge in the third round of the Memorial Tournament. Players try to vault up the standings at Muirfield Village Golf Club, utilizing aggressive approach shots to secure a spot in Sunday's final pairings.",
+      "language": "en",
+      "categories": [
+        "Sports",
+        "Golf"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p32945681_b_h8_ab.jpg?w=960&h=540"
     }
   ]
 }

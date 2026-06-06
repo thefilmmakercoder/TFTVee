@@ -4,30 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-06T10:00:00+05:00",
-      "stop": "2026-06-06T14:00:00+05:00",
-      "title": "Breakfast",
-      "desc": "The latest news, sport, business and weather from the BBC's Breakfast team.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/5dc7a86a-a620-4cca-a1cf-634008d8e271/16-9"
-    },
-    {
-      "start": "2026-06-06T14:00:00+05:00",
-      "stop": "2026-06-06T15:30:00+05:00",
-      "title": "Saturday Kitchen Live",
-      "desc": "Matt Tebutt celebrates Saturday Kitchen's 20th anniversary with a host of guests.",
-      "language": "en",
-      "categories": [
-        "Entertainment",
-        "Cooking"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/f31a9288-b1c0-4984-bfda-fb01a995c60a/16-9"
-    },
-    {
       "start": "2026-06-06T15:30:00+05:00",
       "stop": "2026-06-06T16:00:00+05:00",
       "title": "Anna Haugh's Big Irish Food Tour",
@@ -146,6 +122,30 @@
         "News"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/b8293dfe-b8a6-4f63-a40a-27bbacf6f427/16-9"
+    },
+    {
+      "start": "2026-06-06T21:25:00+05:00",
+      "stop": "2026-06-06T21:30:00+05:00",
+      "title": "BBC London News",
+      "desc": "The latest news, sport and weather from London.",
+      "language": "en",
+      "categories": [
+        "News & Documentary",
+        "News"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/0ee93e71-32e3-46ae-b7f1-b6bfb9e4a9c7/16-9"
+    },
+    {
+      "start": "2026-06-06T21:30:00+05:00",
+      "stop": "2026-06-06T21:35:00+05:00",
+      "title": "Weather",
+      "desc": "The latest weather forecast.",
+      "language": "en",
+      "categories": [
+        "News & Documentary",
+        "News"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/51d12a81-7e18-43d0-b3a7-b8c9ee1fafaa/16-9"
     }
   ]
 }
