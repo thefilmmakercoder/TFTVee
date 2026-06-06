@@ -4,18 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-06T23:45:00+05:00",
-      "stop": "2026-06-07T00:30:00+05:00",
-      "title": "The Good Old Days",
-      "desc": "Leonard Sachs presents an edition of the music hall programme first broadcast on 4 March 1976. With Ken Dodd, Sheila Steafal, Valerie Masterson and Johnny Hart.",
-      "language": "en",
-      "categories": [
-        "Entertainment",
-        "Game Show"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/7af7b71f-f463-4504-ac68-c85b567fa29d/16-9"
-    },
-    {
       "start": "2026-06-07T00:30:00+05:00",
       "stop": "2026-06-07T01:20:00+05:00",
       "title": "Hetty Wainthropp Investigates",
@@ -127,6 +115,14 @@
       "stop": "2026-06-07T22:58:00+05:00",
       "title": "..programmes start at 7.00pm",
       "desc": "BBC Four provides an intelligent mix of arts, science, and history programming, offering deep-dive documentaries and world cinema for a curious audience.",
+      "language": "en",
+      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/BBC-Four-UK.png"
+    },
+    {
+      "start": "2026-06-07T22:58:00+05:00",
+      "stop": "2026-06-07T23:00:00+05:00",
+      "title": "This is BBC Four",
+      "desc": "Programmes start at 7.00pm.",
       "language": "en",
       "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/BBC-Four-UK.png"
     }

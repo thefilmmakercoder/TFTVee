@@ -4,20 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-07T00:00:00+05:00",
-      "stop": "2026-06-07T00:30:00+05:00",
-      "title": "Paid Programming",
-      "desc": "Paid programming.",
-      "language": "en",
-      "rating": "TVG",
-      "categories": [
-        "Consumer",
-        "Shopping",
-        "Variety"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-06-07T00:30:00+05:00",
       "stop": "2026-06-07T01:00:00+05:00",
       "title": "Paid Programming",
@@ -192,6 +178,29 @@
         "News"
       ],
       "icon": "http://dtil.tmsimg.com/assets/p8781143_b_h10_ad.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-06-07T11:29:00+05:00",
+      "stop": "2026-06-07T13:03:00+05:00",
+      "title": "Saturday Night Live",
+      "sub_title": "Josh O'Connor; Lily Allen",
+      "desc": "Host Josh O'Connor; Lily Allen performs.",
+      "date": "2025",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "Series",
+        "Comedy"
+      ],
+      "episode": "S51 E8",
+      "icon": "http://dtil.tmsimg.com/assets/p183890_b_h8_at.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Michael Che",
+          "Mikey Day",
+          "Chloe Fineman"
+        ]
+      }
     }
   ]
 }

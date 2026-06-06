@@ -4,18 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-06T22:00:00+05:00",
-      "stop": "2026-06-07T00:00:00+05:00",
-      "title": "Live: WNBA Basketball",
-      "desc": "The Seattle Storm travel to Target Center in Minneapolis to face the Minnesota Lynx in a Commissioner's Cup matchup. Natisha Hiedeman leads Seattle with points and assists, while Courtney Williams leads Minnesota in points per game.",
-      "language": "en",
-      "categories": [
-        "Sports",
-        "Basketball"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/GNLZZGG003287DF.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-06-07T00:00:00+05:00",
       "stop": "2026-06-07T02:00:00+05:00",
       "title": "Live: WNBA Basketball",
@@ -169,6 +157,26 @@
         "actor": [
           "Bonnie Bernstein",
           "Ginger Zee"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-07T09:30:00+05:00",
+      "stop": "2026-06-07T10:00:00+05:00",
+      "title": "Jeopardy!",
+      "desc": "The Emmy-winning quiz show features a unique answer-and-question format.",
+      "date": "2024",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Series",
+        "Game show"
+      ],
+      "episode": "S41 E80",
+      "icon": "http://dtil.tmsimg.com/assets/p28134937_b_h10_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Ken Jennings"
         ]
       }
     }
