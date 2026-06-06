@@ -4,22 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-06T15:30:00+05:00",
-      "stop": "2026-06-06T21:30:00+05:00",
-      "title": "..programmes start at 7.00pm",
-      "desc": "BBC Three delivers bold and provocative content for younger audiences, featuring groundbreaking documentaries, experimental comedy, and fresh drama.",
-      "language": "en",
-      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/BBC-Three-UK.png"
-    },
-    {
-      "start": "2026-06-06T21:30:00+05:00",
-      "stop": "2026-06-06T22:58:00+05:00",
-      "title": "..programmes start at 7.00pm",
-      "desc": "BBC Three delivers bold and provocative content for younger audiences, featuring groundbreaking documentaries, experimental comedy, and fresh drama.",
-      "language": "en",
-      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/BBC-Three-UK.png"
-    },
-    {
       "start": "2026-06-06T22:58:00+05:00",
       "stop": "2026-06-06T23:00:00+05:00",
       "title": "This is BBC Three",
@@ -132,6 +116,30 @@
         "Comedy"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/85ae0c6e-2a83-4e8e-a04b-12520ceac62c/16-9"
+    },
+    {
+      "start": "2026-06-07T06:20:00+05:00",
+      "stop": "2026-06-07T06:30:00+05:00",
+      "title": "Cable Tied",
+      "desc": "Two inept burglars stumble upon a dark moral dilemma during a break-in. Contains strong language and adult humour.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Comedy"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/d1902f0b-4c17-3ece-bf6f-152a493cf405/16-9"
+    },
+    {
+      "start": "2026-06-07T06:30:00+05:00",
+      "stop": "2026-06-07T07:15:00+05:00",
+      "title": "Doctor Who",
+      "desc": "Sci-fi drama. With people to save and the Doctor trapped, Clara goes against an enemy that exists beyond human perception.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Sci-Fi"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/054406a3-afa8-4299-8380-def69bc219a8/16-9"
     }
   ]
 }

@@ -4,44 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-06T20:00:00+05:00",
-      "stop": "2026-06-06T21:00:00+05:00",
-      "title": "CBS LA Mornings at 8am",
-      "desc": "Start your day with CBS LA Mornings, covering breaking stories from The Desk, and NEXT Weather and Traffic for Southern California.",
-      "date": "2025",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p31317833_b_h10_aa.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-06-06T21:00:00+05:00",
-      "stop": "2026-06-06T22:00:00+05:00",
-      "title": "CBS LA Mornings at 9am",
-      "desc": "Start your day with CBS LA Mornings, covering breaking stories from The Desk, and NEXT Weather and Traffic for Southern California.",
-      "date": "2025",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p31317842_b_h10_aa.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-06-06T22:00:00+05:00",
-      "stop": "2026-06-06T22:30:00+05:00",
-      "title": "Staycation International",
-      "sub_title": "Dubai",
-      "desc": "Experience the extraordinary in this dazzling episode as we journey through the glamorous world of luxury vacation rentals in Dubai.",
-      "language": "en",
-      "categories": [
-        "Series",
-        "Consumer"
-      ],
-      "episode": "S1 E1",
-      "icon": "http://dtil.tmsimg.com/assets/p33178484_st_h10_aa.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-06-06T22:30:00+05:00",
       "stop": "2026-06-06T23:00:00+05:00",
       "title": "2026 Proof Silver Eagle: America's 250th Anniversary Release",
@@ -168,6 +130,58 @@
         "News"
       ],
       "icon": "http://dtil.tmsimg.com/assets/p31317881_b_h10_aa.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-06-07T09:00:00+05:00",
+      "stop": "2026-06-07T10:00:00+05:00",
+      "title": "CBS LA at 9pm",
+      "desc": "Join the CBS LA team for stories from communities around SoCal, breaking news from The Desk, and NEXT Weather from the Weathersphere.",
+      "date": "2025",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p31317888_b_h10_aa.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-06-07T10:00:00+05:00",
+      "stop": "2026-06-07T11:00:00+05:00",
+      "title": "48 Hours",
+      "sub_title": "The Plot to Eliminate Alyssa Burkett",
+      "desc": "In a small Texas town, a mother's worst nightmare becomes a tragic reality.",
+      "date": "2024",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "Series",
+        "Newsmagazine",
+        "Crime",
+        "Law"
+      ],
+      "episode": "S38 E9",
+      "icon": "http://dtil.tmsimg.com/assets/p200944_b_h8_bb.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Matthew DeVoe"
+        ],
+        "actor": [
+          "Erin Moriarty",
+          "Peter Van Sant",
+          "Natalie Morales"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-07T11:00:00+05:00",
+      "stop": "2026-06-07T11:35:00+05:00",
+      "title": "CBS LA at 11pm",
+      "desc": "Join the CBS LA team for stories from communities around SoCal, breaking news from The Desk, and NEXT Weather from the Weathersphere.",
+      "date": "2025",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p31308578_b_h10_aa.jpg?w=960&h=540"
     }
   ]
 }

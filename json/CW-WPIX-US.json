@@ -4,42 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-06T21:00:00+05:00",
-      "stop": "2026-06-06T21:30:00+05:00",
-      "title": "Paid Programming",
-      "desc": "Paid programming.",
-      "language": "en",
-      "rating": "TVG",
-      "categories": [
-        "Consumer",
-        "Shopping",
-        "Variety"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-06-06T21:30:00+05:00",
-      "stop": "2026-06-06T22:00:00+05:00",
-      "title": "The Aging Brain",
-      "desc": "Learn what's behind mental decline with age, and how to improve memory, focus and concentration with NeuroQ's Darrin Peterson and Dale Bredesen MD.",
-      "language": "en",
-      "categories": [
-        "Consumer"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p30127108_st_h10_aa.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-06-06T22:00:00+05:00",
-      "stop": "2026-06-06T22:30:00+05:00",
-      "title": "Car Repair Secrets!",
-      "desc": "Save thousands on car repairs.",
-      "language": "en",
-      "categories": [
-        "Consumer"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p17463183_b_h10_aa.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-06-06T22:30:00+05:00",
       "stop": "2026-06-06T23:00:00+05:00",
       "title": "Bathroom Makeover",
@@ -184,6 +148,61 @@
         "Baseball"
       ],
       "icon": "http://dtil.tmsimg.com/assets/GNLZZGG00346DP5.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-06-07T07:30:00+05:00",
+      "stop": "2026-06-07T08:30:00+05:00",
+      "title": "PIX11 News at Ten",
+      "desc": "Staying informed with the news and headlines.",
+      "date": "2014",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p10829690_b_h8_ab.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-06-07T08:30:00+05:00",
+      "stop": "2026-06-07T09:00:00+05:00",
+      "title": "Seinfeld",
+      "sub_title": "The Caddy",
+      "desc": "A caddie (Armin Shimerman) helps Kramer improve his golf game; George is considered for a promotion at work.",
+      "date": "1996",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Sitcom"
+      ],
+      "episode": "S7 E12",
+      "icon": "http://dtil.tmsimg.com/assets/p183875_b_h10_ab.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Jerry Seinfeld",
+          "Julia Louis-Dreyfus",
+          "Jason Alexander"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-07T09:00:00+05:00",
+      "stop": "2026-06-07T09:30:00+05:00",
+      "title": "The Honeymooners",
+      "desc": "Ralph Kramden is a perpetually flustered but eternally optimistic New York City bus driver living with his wife, Alice, in a small Brooklyn apartment. Ralph's best friend is sanitation worker Ed Norton, who lives in the same building with wife Trixie.",
+      "date": "1955",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Sitcom"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p9174865_b_h10_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Jackie Gleason",
+          "Audrey Meadows",
+          "Art Carney"
+        ]
+      }
     }
   ]
 }

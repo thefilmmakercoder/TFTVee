@@ -4,30 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-06T21:30:00+05:00",
-      "stop": "2026-06-06T21:35:00+05:00",
-      "title": "Weather",
-      "desc": "The latest weather forecast.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/51d12a81-7e18-43d0-b3a7-b8c9ee1fafaa/16-9"
-    },
-    {
-      "start": "2026-06-06T21:35:00+05:00",
-      "stop": "2026-06-06T22:20:00+05:00",
-      "title": "Celebrity Bridge of Lies",
-      "desc": "Greg Rutherford, Sanjeev Kohli, Janet Ellis and Louisa Lytton face the Bridge of Lies.",
-      "language": "en",
-      "categories": [
-        "Entertainment",
-        "Game Show"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/9d10d442-e7ea-409c-8137-0250cd7b8d45/16-9"
-    },
-    {
       "start": "2026-06-06T22:20:00+05:00",
       "stop": "2026-06-06T22:55:00+05:00",
       "title": "Blankety Blank",
@@ -145,6 +121,30 @@
         "News"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/50f63698-add0-419e-846c-611dec1b90c3/16-9"
+    },
+    {
+      "start": "2026-06-07T10:00:00+05:00",
+      "stop": "2026-06-07T13:00:00+05:00",
+      "title": "Breakfast",
+      "desc": "The latest news, sport, business and weather from the BBC's Breakfast team.",
+      "language": "en",
+      "categories": [
+        "News & Documentary",
+        "News"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/53f496af-095c-48a5-a170-1fbda093a8a4/16-9"
+    },
+    {
+      "start": "2026-06-07T13:00:00+05:00",
+      "stop": "2026-06-07T14:00:00+05:00",
+      "title": "Sunday with Laura Kuenssberg",
+      "desc": "The big names behind the big stories. Laura Kuenssberg talks to those making the news, inside and outside politics.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Factual"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/5bab3683-620d-4b7b-a212-f021958ba440/16-9"
     }
   ]
 }
