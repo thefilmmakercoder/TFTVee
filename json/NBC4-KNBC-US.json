@@ -4,33 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-07T00:30:00+05:00",
-      "stop": "2026-06-07T01:00:00+05:00",
-      "title": "Paid Programming",
-      "desc": "Paid programming.",
-      "language": "en",
-      "rating": "TVG",
-      "categories": [
-        "Consumer",
-        "Shopping",
-        "Variety"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-06-07T01:00:00+05:00",
-      "stop": "2026-06-07T03:00:00+05:00",
-      "title": "Live: Track and Field",
-      "desc": "From College Station, Texas.",
-      "language": "en",
-      "rating": "A",
-      "categories": [
-        "Sports",
-        "Track/field"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p516702_b_h10_af.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-06-07T03:00:00+05:00",
       "stop": "2026-06-07T03:30:00+05:00",
       "title": "Open House",
@@ -199,6 +172,50 @@
           "Michael Che",
           "Mikey Day",
           "Chloe Fineman"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-07T13:03:00+05:00",
+      "stop": "2026-06-07T13:32:00+05:00",
+      "title": "1st Look",
+      "sub_title": "Destination Atlantic City",
+      "desc": "A look at why Atlantic City is more than a destination -- it's an experience.",
+      "date": "2025",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Travel"
+      ],
+      "episode": "S17 E2",
+      "icon": "http://dtil.tmsimg.com/assets/p8953716_b_h8_ak.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Johnny \"Bananas\" Devenanzio"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-07T13:32:00+05:00",
+      "stop": "2026-06-07T14:32:00+05:00",
+      "title": "Access Hollywood",
+      "sub_title": "Hollywood Headlines, Celebrity Interviews, Behind-the-Scenes Access and the Hottest Fashions",
+      "desc": "Hosts Mario Lopez, Kit Hoover, Scott Evans and Zuri Hall take viewers behind the velvet ropes and onto the red carpet to deliver celebrity interviews and entertainment news stories in Hollywood.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Newsmagazine",
+        "Entertainment",
+        "Interview"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p30926755_b_h8_ab.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Scott Evans",
+          "Zuri Hall"
         ]
       }
     }

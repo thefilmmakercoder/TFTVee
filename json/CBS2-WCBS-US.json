@@ -4,31 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-06T23:00:00+05:00",
-      "stop": "2026-06-06T23:30:00+05:00",
-      "title": "Broadway and Beyond at the Tonys",
-      "desc": "An intimate look at this year's nominated shows.",
-      "date": "2026",
-      "language": "en",
-      "categories": [
-        "Special",
-        "Entertainment"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p32889441_st_h10_aa.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-06-06T23:30:00+05:00",
-      "stop": "2026-06-07T03:00:00+05:00",
-      "title": "Live: PGA Tour Golf",
-      "desc": "Elite golfers face a critical Moving Day charge in the third round of the Memorial Tournament. Players try to vault up the standings at Muirfield Village Golf Club, utilizing aggressive approach shots to secure a spot in Sunday's final pairings.",
-      "language": "en",
-      "categories": [
-        "Sports",
-        "Golf"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p32945681_b_h8_ab.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-06-07T03:00:00+05:00",
       "stop": "2026-06-07T03:30:00+05:00",
       "title": "CBS News New York",
@@ -211,6 +186,46 @@
           "Max Thieriot",
           "Billy Burke",
           "Kevin Alejandro"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-07T11:35:00+05:00",
+      "stop": "2026-06-07T12:05:00+05:00",
+      "title": "InvestigateTV+ Weekend",
+      "desc": "An in-depth look at topics from politics to personal finance, featuring watchdog reports about government corruption and failures, consumer alerts and health care issues.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Newsmagazine",
+        "Public affairs"
+      ],
+      "episode": "S5 E18",
+      "icon": "http://dtil.tmsimg.com/assets/p28166441_b_h10_ab.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Lee Zurik",
+          "Tisha Powell"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-07T12:05:00+05:00",
+      "stop": "2026-06-07T12:35:00+05:00",
+      "title": "In Touch With Dr. Charles Stanley",
+      "desc": "Charles Stanley, pastor of the First Baptist Church in Atlanta, shares his insights on Christian faith and enlightens viewers with spiritual motivation.",
+      "date": "1979",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Religious"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p32199893_b_h10_ab.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Charles Stanley"
         ]
       }
     }

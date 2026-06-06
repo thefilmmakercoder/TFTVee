@@ -4,18 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-07T00:30:00+05:00",
-      "stop": "2026-06-07T01:20:00+05:00",
-      "title": "Hetty Wainthropp Investigates",
-      "desc": "Hetty's plans for a nostalgic railway trip are abruptly changed when a clockmaker needs her sensitive expertise.",
-      "language": "en",
-      "categories": [
-        "Entertainment",
-        "Detective"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/026fbeb2-963a-4fe1-8fd4-b503ae2a9a6a/16-9"
-    },
-    {
       "start": "2026-06-07T01:20:00+05:00",
       "stop": "2026-06-07T03:10:00+05:00",
       "title": "Vermiglio",
@@ -125,6 +113,18 @@
       "desc": "Programmes start at 7.00pm.",
       "language": "en",
       "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/BBC-Four-UK.png"
+    },
+    {
+      "start": "2026-06-07T23:00:00+05:00",
+      "stop": "2026-06-07T23:15:00+05:00",
+      "title": "Reel History of Britain",
+      "desc": "Melvyn Bragg reveals archive footage telling the history of modern Britain. At Osterley Park, Melvyn visits the site of the first Home Guard training school.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Factual"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/16c3abfd-36ff-4173-80a2-345d3f94381c/16-9"
     }
   ]
 }

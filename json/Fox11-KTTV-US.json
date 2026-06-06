@@ -4,18 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-07T00:00:00+05:00",
-      "stop": "2026-06-07T01:00:00+05:00",
-      "title": "Live: Horse Racing",
-      "desc": "Coverage of high-profile stakes races.",
-      "language": "en",
-      "categories": [
-        "Sports",
-        "Horse racing"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p33068261_b_h8_ab.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-06-07T01:00:00+05:00",
       "stop": "2026-06-07T03:30:00+05:00",
       "title": "Live: Horse Racing",
@@ -191,6 +179,28 @@
         "Soccer"
       ],
       "icon": "http://dtil.tmsimg.com/assets/p31774634_b_h8_ab.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-06-07T12:30:00+05:00",
+      "stop": "2026-06-07T13:00:00+05:00",
+      "title": "In Depth With Graham Bensinger",
+      "sub_title": "Howie Mandel",
+      "desc": "Graham sits down with comic, actor, and host Howie Mandel; discussing Mandel's rise to fame, his battle with OCD and depression, and coping with his grandson's cancer diagnosis; Graham goes backstage at NBC's \"America's Got Talent.\".",
+      "date": "2025",
+      "language": "en",
+      "categories": [
+        "Series",
+        "Sports talk",
+        "Interview"
+      ],
+      "episode": "S16 E3",
+      "icon": "http://dtil.tmsimg.com/assets/p8178298_b_h8_ad.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Graham Bensinger",
+          "Howie Mandel"
+        ]
+      }
     }
   ]
 }
