@@ -4,36 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-06T17:30:00+05:00",
-      "stop": "2026-06-06T18:00:00+05:00",
-      "title": "Paid Programming",
-      "desc": "Paid programming.",
-      "language": "en",
-      "rating": "TVG",
-      "categories": [
-        "Consumer",
-        "Shopping",
-        "Variety"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-06-06T18:00:00+05:00",
-      "stop": "2026-06-06T19:00:00+05:00",
-      "title": "To Catch A Smuggler: Tropical Takedown",
-      "sub_title": "Murders and Drug Dealers",
-      "desc": "HSI arrests 37 gang members; AMO seizes $5.4 million worth of cocaine.",
-      "date": "2024",
-      "language": "en",
-      "rating": "TV14",
-      "categories": [
-        "Series",
-        "Crime"
-      ],
-      "episode": "S1 E3",
-      "icon": "http://dtil.tmsimg.com/assets/p28308387_b_h10_ab.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-06-06T19:00:00+05:00",
       "stop": "2026-06-06T20:00:00+05:00",
       "title": "To Catch A Smuggler: Tropical Takedown",
@@ -208,6 +178,60 @@
           "Cornelius Clarke",
           "Gear\u00f3id Kavanagh",
           "Darren Killeen"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-07T05:00:00+05:00",
+      "stop": "2026-06-07T06:00:00+05:00",
+      "title": "Dublin Narcos",
+      "sub_title": "The E-Ntrepreneurs",
+      "desc": "Ecstasy fuels a new scene - and darker consequences - in late-1980s Dublin.",
+      "date": "2023",
+      "language": "en",
+      "rating": "15",
+      "categories": [
+        "Series",
+        "Documentary",
+        "Crime"
+      ],
+      "episode": "S1 E2",
+      "icon": "http://dtil.tmsimg.com/assets/p24111955_b_h10_aa.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Benedict Sanderson"
+        ],
+        "actor": [
+          "Ceara Carney",
+          "Stephen Delahunty",
+          "Luke McQuillan"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-07T06:00:00+05:00",
+      "stop": "2026-06-07T07:00:00+05:00",
+      "title": "Dublin Narcos",
+      "sub_title": "The Untouchables",
+      "desc": "1990s Dublin is booming, bringing cocaine, violence and a new type of dealer.",
+      "date": "2023",
+      "language": "en",
+      "rating": "15",
+      "categories": [
+        "Series",
+        "Documentary",
+        "Crime"
+      ],
+      "episode": "S1 E3 P3/3",
+      "icon": "http://dtil.tmsimg.com/assets/p24111955_b_h10_aa.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Benedict Sanderson"
+        ],
+        "actor": [
+          "Paul Boyle",
+          "Zeb Moore",
+          "Paraic Bermingham"
         ]
       }
     }

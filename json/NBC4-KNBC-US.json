@@ -4,52 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-06T17:00:00+05:00",
-      "stop": "2026-06-06T18:30:00+05:00",
-      "title": "Today",
-      "desc": "News headlines, interviews, and stories intended to inform, entertain, inspire and set the agenda each morning for Americans and help viewers with their finances, health and well-being.",
-      "date": "2026",
-      "language": "en",
-      "rating": "G",
-      "categories": [
-        "Series",
-        "Talk",
-        "News",
-        "Public affairs"
-      ],
-      "episode": "S74 E218",
-      "icon": "http://dtil.tmsimg.com/assets/p30939383_b_h8_aa.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Savannah Guthrie",
-          "Craig Melvin",
-          "Al Roker"
-        ]
-      }
-    },
-    {
-      "start": "2026-06-06T18:30:00+05:00",
-      "stop": "2026-06-06T19:00:00+05:00",
-      "title": "Saturday Today Extra",
-      "desc": "Top headlines of the morning and weather, in addition to news-adjacent feature tape pieces, and live production segments on a variety of lifestyle topics.",
-      "date": "2026",
-      "language": "en",
-      "categories": [
-        "Series",
-        "News",
-        "Weather"
-      ],
-      "episode": "E11",
-      "icon": "http://dtil.tmsimg.com/assets/p30568776_b_h8_ac.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Peter Alexander",
-          "Laura Jarrett",
-          "Joe Fryer"
-        ]
-      }
-    },
-    {
       "start": "2026-06-06T19:00:00+05:00",
       "stop": "2026-06-06T20:00:00+05:00",
       "title": "Today in LA Weekend",
@@ -235,6 +189,33 @@
         "Variety"
       ],
       "icon": "http://dtil.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-06-07T00:30:00+05:00",
+      "stop": "2026-06-07T01:00:00+05:00",
+      "title": "Paid Programming",
+      "desc": "Paid programming.",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Consumer",
+        "Shopping",
+        "Variety"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-06-07T01:00:00+05:00",
+      "stop": "2026-06-07T03:00:00+05:00",
+      "title": "Live: Track and Field",
+      "desc": "From College Station, Texas.",
+      "language": "en",
+      "rating": "A",
+      "categories": [
+        "Sports",
+        "Track/field"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p516702_b_h10_af.jpg?w=960&h=540"
     }
   ]
 }

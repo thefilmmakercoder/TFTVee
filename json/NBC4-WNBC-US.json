@@ -4,65 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-06T17:30:00+05:00",
-      "stop": "2026-06-06T18:00:00+05:00",
-      "title": "Saturday Today Extra",
-      "desc": "Top headlines of the morning and weather, in addition to news-adjacent feature tape pieces, and live production segments on a variety of lifestyle topics.",
-      "date": "2026",
-      "language": "en",
-      "categories": [
-        "Series",
-        "News",
-        "Weather"
-      ],
-      "episode": "E11",
-      "icon": "http://dtil.tmsimg.com/assets/p30568776_b_h8_ac.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Peter Alexander",
-          "Laura Jarrett",
-          "Joe Fryer"
-        ]
-      }
-    },
-    {
-      "start": "2026-06-06T18:00:00+05:00",
-      "stop": "2026-06-06T19:00:00+05:00",
-      "title": "Saturday Today in New York",
-      "desc": "The local news, weather and investigative stories impacting your community.",
-      "date": "2007",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p893330_b_h10_ac.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-06-06T19:00:00+05:00",
-      "stop": "2026-06-06T19:30:00+05:00",
-      "title": "Mutual of Omaha's Wild Kingdom Protecting the Wild",
-      "sub_title": "Macropod Mania!",
-      "desc": "Dr. Rae and Peter adventure with a team of rescuers who care for orphaned joeys; later, they venture to the Atherton Tablelands to explore a private macropod sanctuary, where they witness the delicate rehabilitation of rare tree kangaroos.",
-      "date": "2026",
-      "language": "en",
-      "rating": "TVG",
-      "categories": [
-        "Series",
-        "Documentary",
-        "Animals",
-        "Nature",
-        "Science"
-      ],
-      "episode": "S3 E14",
-      "icon": "http://dtil.tmsimg.com/assets/p31221399_b_h10_aa.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Peter Gros",
-          "Rae Wynn-Grant"
-        ]
-      }
-    },
-    {
       "start": "2026-06-06T19:30:00+05:00",
       "stop": "2026-06-06T20:00:00+05:00",
       "title": "Earth Odyssey With Dylan Dreyer",
@@ -201,6 +142,56 @@
         "Newsmagazine"
       ],
       "icon": "http://dtil.tmsimg.com/assets/p8692580_b_h8_ac.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-06-07T00:00:00+05:00",
+      "stop": "2026-06-07T00:30:00+05:00",
+      "title": "George to the Rescue",
+      "desc": "George Oliphant comes to the rescue of families in need of renovating their homes.",
+      "date": "2010",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "House/garden"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p29553512_b_h10_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "George Oliphant"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-07T00:30:00+05:00",
+      "stop": "2026-06-07T01:00:00+05:00",
+      "title": "Open House NYC",
+      "desc": "Host Sara Gore presents a guide to upscale real estate in and around the Big Apple. In addition to a look at the hottest homes on the market, the show also provides interior design tips from specialists and a wealth of information on renovation and stylish living.",
+      "date": "2007",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "House/garden",
+        "Home improvement"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p841103_b_h8_ac.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Sara Gore"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-07T01:00:00+05:00",
+      "stop": "2026-06-07T03:00:00+05:00",
+      "title": "Live: Track and Field",
+      "desc": "From College Station, Texas.",
+      "language": "en",
+      "rating": "A",
+      "categories": [
+        "Sports",
+        "Track/field"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p516702_b_h10_af.jpg?w=960&h=540"
     }
   ]
 }
