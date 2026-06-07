@@ -4,29 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-07T02:15:00+05:00",
-      "stop": "2026-06-07T02:20:00+05:00",
-      "title": "Weather",
-      "desc": "The latest weather forecast.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/4a1b7d19-e0fa-4942-bda8-43b243003793/16-9"
-    },
-    {
-      "start": "2026-06-07T02:20:00+05:00",
-      "stop": "2026-06-07T04:50:00+05:00",
-      "title": "Blade Runner 2049",
-      "desc": "After making a disturbing discovery, replicant hunter K goes after the one person he suspects can help. Contains some strong language and some violent scenes.",
-      "language": "en",
-      "categories": [
-        "Movie"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/dbc8dfd4-1a95-4fc2-b64a-1128e4918a9a/16-9"
-    },
-    {
       "start": "2026-06-07T04:50:00+05:00",
       "stop": "2026-06-07T04:55:00+05:00",
       "title": "Weather for the Week Ahead",
@@ -144,6 +121,29 @@
         "News"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/9b4d67be-f45a-4fad-a312-eabb1af039c7/16-9"
+    },
+    {
+      "start": "2026-06-07T17:25:00+05:00",
+      "stop": "2026-06-07T17:30:00+05:00",
+      "title": "Weather for the Week Ahead",
+      "desc": "Detailed weather forecast.",
+      "language": "en",
+      "categories": [
+        "News & Documentary",
+        "News"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/46c05263-02c4-4338-947e-6c50739e5ae5/16-9"
+    },
+    {
+      "start": "2026-06-07T17:30:00+05:00",
+      "stop": "2026-06-07T18:05:00+05:00",
+      "title": "Songs of Praise: Simon Thomas's Faith Journey",
+      "desc": "Sean Fletcher visits Cromer on the Norfolk coast to meet presenter Simon Thomas as he reflects on how love, loss and faith have shaped his life.",
+      "language": "en",
+      "categories": [
+        "Music & Radio"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/fc5e331f-223f-4338-acd8-e74309806850/16-9"
     }
   ]
 }

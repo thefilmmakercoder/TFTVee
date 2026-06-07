@@ -4,18 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-07T03:00:00+05:00",
-      "stop": "2026-06-07T03:30:00+05:00",
-      "title": "News 4 New York at 6 Weekend",
-      "desc": "Stay informed with the latest breaking news and headlines.",
-      "date": "2014",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p10760861_b_h10_aa.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-06-07T03:30:00+05:00",
       "stop": "2026-06-07T04:00:00+05:00",
       "title": "NBC Nightly News With Tom Llamas",
@@ -225,6 +213,17 @@
           "Zuri Hall"
         ]
       }
+    },
+    {
+      "start": "2026-06-07T13:30:00+05:00",
+      "stop": "2026-06-07T14:00:00+05:00",
+      "title": "Hope for Pain Sufferers",
+      "desc": "In this compelling investigation, John Walsh delves into OmegaXL and its natural origins; discover how this innovative supplement can provide relief from joint pain and improve your quality of life, all grounded in extensive research.",
+      "language": "en",
+      "categories": [
+        "Consumer"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p28853660_st_h10_aa.jpg?w=960&h=540"
     }
   ]
 }

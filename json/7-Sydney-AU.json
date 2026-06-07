@@ -4,20 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-07T01:00:00+05:00",
-      "stop": "2026-06-07T02:00:00+05:00",
-      "title": "NBC Today",
-      "sub_title": "Sunday 7 June 2026",
-      "desc": "International news and weather including interviews with newsmakers in the world of politics, business, media, entertainment and sport.",
-      "language": "en",
-      "rating": "NR",
-      "categories": [
-        "News"
-      ],
-      "episode": "S26 E157",
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/132440/image/334x188"
-    },
-    {
       "start": "2026-06-07T02:00:00+05:00",
       "stop": "2026-06-07T05:00:00+05:00",
       "title": "Weekend Sunrise",
@@ -163,6 +149,18 @@
       ],
       "episode": "S26 E8",
       "icon": "https://www.fetchtv.com.au/v2/epg/program/5795073/image/334x188"
+    },
+    {
+      "start": "2026-06-07T16:10:00+05:00",
+      "stop": "2026-06-07T17:45:00+05:00",
+      "title": "The Philpotts: A Very British Horror Story",
+      "desc": "Examines the difficult police investigation after a fire broke out in the home of Mick and Mairead Philpott, claiming the lives of six of their children.",
+      "language": "en",
+      "rating": "M",
+      "categories": [
+        "Special Interest"
+      ],
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/10099165/image/334x188"
     }
   ]
 }

@@ -4,59 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-07T03:00:00+05:00",
-      "stop": "2026-06-07T03:30:00+05:00",
-      "title": "Global News at 6",
-      "desc": "Greater Toronto's top local news stories and latest weather forecast.",
-      "date": "2012",
-      "language": "en",
-      "categories": [
-        "News",
-        "Weather"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p9123094_b_h10_ab.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-06-07T03:30:00+05:00",
-      "stop": "2026-06-07T04:00:00+05:00",
-      "title": "Global National",
-      "desc": "The top stories from around the world.",
-      "date": "2026",
-      "language": "en",
-      "rating": "TVG",
-      "categories": [
-        "Series",
-        "News"
-      ],
-      "episode": "E157",
-      "icon": "http://dtil.tmsimg.com/assets/p185876_b_h8_ae.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Dawna Friesen"
-        ]
-      }
-    },
-    {
-      "start": "2026-06-07T04:00:00+05:00",
-      "stop": "2026-06-07T04:30:00+05:00",
-      "title": "Border Security: America's Front Line",
-      "desc": "Cameras follow U.S. border protection agencies as they man the front lines of national security.",
-      "date": "2020",
-      "language": "en",
-      "rating": "TV14",
-      "categories": [
-        "Series",
-        "Documentary",
-        "Crime"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p26319781_b_h10_ab.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Jeff Cole"
-        ]
-      }
-    },
-    {
       "start": "2026-06-07T04:30:00+05:00",
       "stop": "2026-06-07T05:00:00+05:00",
       "title": "Border Security: America's Front Line",
@@ -257,6 +204,47 @@
           "Rachel Smith"
         ]
       }
+    },
+    {
+      "start": "2026-06-07T12:32:00+05:00",
+      "stop": "2026-06-07T13:02:00+05:00",
+      "title": "Paid Programming",
+      "desc": "Paid programming.",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Consumer",
+        "Shopping",
+        "Variety"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-06-07T13:02:00+05:00",
+      "stop": "2026-06-07T13:32:00+05:00",
+      "title": "Paid Programming",
+      "desc": "Paid programming.",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Consumer",
+        "Shopping",
+        "Variety"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-06-07T13:32:00+05:00",
+      "stop": "2026-06-07T14:00:00+05:00",
+      "title": "SIGN OFF",
+      "desc": "Sign off.",
+      "date": "2005",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Special"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p480440_b_h8_bw.jpg?w=960&h=540"
     }
   ]
 }

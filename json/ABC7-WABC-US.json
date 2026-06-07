@@ -4,57 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-07T03:00:00+05:00",
-      "stop": "2026-06-07T03:30:00+05:00",
-      "title": "Eyewitness News at 6",
-      "desc": "Stay informed with the latest breaking news and headlines.",
-      "date": "2017",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p13769035_b_h8_ab.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-06-07T03:30:00+05:00",
-      "stop": "2026-06-07T04:00:00+05:00",
-      "title": "ABC World News Tonight With David Muir",
-      "desc": "Delivering the news that matters most.",
-      "date": "2026",
-      "language": "en",
-      "categories": [
-        "Series",
-        "News"
-      ],
-      "episode": "E157",
-      "icon": "http://dtil.tmsimg.com/assets/p10880351_b_h8_ah.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "David Muir"
-        ]
-      }
-    },
-    {
-      "start": "2026-06-07T04:00:00+05:00",
-      "stop": "2026-06-07T04:30:00+05:00",
-      "title": "Jeopardy!",
-      "desc": "The Emmy-winning quiz show features a unique answer-and-question format.",
-      "date": "2024",
-      "language": "en",
-      "rating": "TVG",
-      "categories": [
-        "Series",
-        "Game show"
-      ],
-      "episode": "S41 E80",
-      "icon": "http://dtil.tmsimg.com/assets/p28134937_b_h10_aa.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Ken Jennings"
-        ]
-      }
-    },
-    {
       "start": "2026-06-07T04:30:00+05:00",
       "stop": "2026-06-07T05:00:00+05:00",
       "title": "Live: The Point",
@@ -220,6 +169,71 @@
         "Community"
       ],
       "icon": "http://dtil.tmsimg.com/assets/p19667088_b_h8_ab.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-06-07T13:30:00+05:00",
+      "stop": "2026-06-07T14:00:00+05:00",
+      "title": "Jeopardy!",
+      "desc": "The Emmy-winning quiz show features a unique answer-and-question format.",
+      "date": "2024",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Series",
+        "Game show"
+      ],
+      "episode": "S41 E80",
+      "icon": "http://dtil.tmsimg.com/assets/p28134937_b_h10_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Ken Jennings"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-07T14:00:00+05:00",
+      "stop": "2026-06-07T14:30:00+05:00",
+      "title": "Wheel of Fortune",
+      "sub_title": "Girlfriend Getaways",
+      "desc": "In a classic game-show version of \"Hangman,\" contestants solve word puzzles for cash and prizes.",
+      "date": "2024",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Series",
+        "Game show"
+      ],
+      "episode": "S42 E25",
+      "icon": "http://dtil.tmsimg.com/assets/p184057_b_h8_ai.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Ryan Seacrest",
+          "Vanna White"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-07T14:30:00+05:00",
+      "stop": "2026-06-07T15:00:00+05:00",
+      "title": "Small Town Big Deal",
+      "sub_title": "Pioneer Lessons and Churchill's Legacy",
+      "desc": "Rodney gets a crash course in old-fashioned ways at a county fair; exploring a little-known Winston Churchill museum in the American heartland.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Series",
+        "Documentary",
+        "Travel"
+      ],
+      "episode": "E1",
+      "icon": "http://dtil.tmsimg.com/assets/p9432369_b_h10_ac.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Rodney Miller",
+          "Jann Carl"
+        ]
+      }
     }
   ]
 }
