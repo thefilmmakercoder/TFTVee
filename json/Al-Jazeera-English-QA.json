@@ -4,42 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-07T15:00:00+05:00",
-      "stop": "2026-06-07T16:00:00+05:00",
-      "title": "Newshour",
-      "desc": "Latest news and in-depth analysis from around the world.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "World Affairs"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/437a4a4a-4ecf-43f8-b73c-ab0d41361afb/16-9"
-    },
-    {
-      "start": "2026-06-07T16:00:00+05:00",
-      "stop": "2026-06-07T16:30:00+05:00",
-      "title": "News Live",
-      "desc": "Up-to-date news and analysis from around the world.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "World Affairs"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/0bd3dd04-d3be-4a9a-b9c6-64a1c21a56e4/16-9"
-    },
-    {
-      "start": "2026-06-07T16:30:00+05:00",
-      "stop": "2026-06-07T17:00:00+05:00",
-      "title": "Inside Story",
-      "desc": "Ep.1340 Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds from around the globe.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "World Affairs"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/b4077290-0b54-4e28-8889-9399cbf321fb/16-9"
-    },
-    {
       "start": "2026-06-07T17:00:00+05:00",
       "stop": "2026-06-07T18:00:00+05:00",
       "title": "Newshour",
@@ -148,6 +112,42 @@
         "World Affairs"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/b4077290-0b54-4e28-8889-9399cbf321fb/16-9"
+    },
+    {
+      "start": "2026-06-07T23:00:00+05:00",
+      "stop": "2026-06-08T00:00:00+05:00",
+      "title": "Newshour",
+      "desc": "Latest news and in-depth analysis from around the world.",
+      "language": "en",
+      "categories": [
+        "News & Documentary",
+        "World Affairs"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/437a4a4a-4ecf-43f8-b73c-ab0d41361afb/16-9"
+    },
+    {
+      "start": "2026-06-08T00:00:00+05:00",
+      "stop": "2026-06-08T00:30:00+05:00",
+      "title": "News Live",
+      "desc": "Up-to-date news and analysis from around the world.",
+      "language": "en",
+      "categories": [
+        "News & Documentary",
+        "World Affairs"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/0bd3dd04-d3be-4a9a-b9c6-64a1c21a56e4/16-9"
+    },
+    {
+      "start": "2026-06-08T00:30:00+05:00",
+      "stop": "2026-06-08T01:00:00+05:00",
+      "title": "Talk to Al Jazeera",
+      "desc": "Ep.475 01062026: One-on-one conversations with global leaders, icons, influencers and alternative voices shaping our times.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Chat Show"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/70d279c7-5ff4-442e-8a17-3af7d891966d/16-9"
     }
   ]
 }

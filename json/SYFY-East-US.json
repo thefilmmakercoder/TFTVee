@@ -4,42 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-07T15:30:00+05:00",
-      "stop": "2026-06-07T16:00:00+05:00",
-      "title": "Paid Programming",
-      "desc": "Paid programming.",
-      "language": "en",
-      "rating": "TVG",
-      "categories": [
-        "Consumer",
-        "Shopping",
-        "Variety"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-06-07T16:00:00+05:00",
-      "stop": "2026-06-07T16:30:00+05:00",
-      "title": "Freedom to Leave the House! Inogen Portable Oxygen",
-      "desc": "Regain independence and enjoy greater mobility with the compact design and long-lasting battery of portable oxygen.",
-      "language": "en",
-      "categories": [
-        "Consumer"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p29463212_st_h10_aa.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-06-07T16:30:00+05:00",
-      "stop": "2026-06-07T17:00:00+05:00",
-      "title": "NEW! Shark PowerDetect with DuoClean Detect Technology",
-      "desc": "Meet the new Shark PowerDetect Upright Vacuum with features like DuoClean Detect Technology, self-cleaning brush roll and odor neutralizing, and you will be cleaning faster, smarter and better!",
-      "language": "en",
-      "categories": [
-        "Consumer"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p29966207_b_h10_aa.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-06-07T17:00:00+05:00",
       "stop": "2026-06-07T17:30:00+05:00",
       "title": "Everything on the Menu With Braun Strowman",
@@ -273,6 +237,86 @@
           "Milla Jovovich",
           "Oded Fehr",
           "Ali Larter"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-08T11:00:00+05:00",
+      "stop": "2026-06-08T13:00:00+05:00",
+      "title": "Renfield",
+      "desc": "Renfield, the tortured aide to his narcissistic boss, Dracula, is forced to procure his master's prey and do his every bidding. However, after centuries of servitude, he's ready to see if there's a life outside the shadow of the Prince of Darkness.",
+      "date": "2023",
+      "language": "en",
+      "rating": "R",
+      "categories": [
+        "Movie",
+        "Horror",
+        "Action",
+        "Comedy"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p23068375_v_h8_ag.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Chris McKay"
+        ],
+        "actor": [
+          "Nicholas Hoult",
+          "Nicolas Cage",
+          "Awkwafina"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-08T13:00:00+05:00",
+      "stop": "2026-06-08T15:00:00+05:00",
+      "title": "Cocaine Bear",
+      "desc": "An oddball group of cops, criminals, tourists and teens converges in a Georgia forest after a 500-pound black bear ingests a large amount of cocaine and goes on a drug-fueled rampage.",
+      "date": "2023",
+      "language": "en",
+      "rating": "R",
+      "categories": [
+        "Movie",
+        "Horror",
+        "Comedy"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p22180370_v_h8_ac.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Elizabeth Banks"
+        ],
+        "actor": [
+          "Keri Russell",
+          "Margo Martindale",
+          "Ray Liotta"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-08T15:00:00+05:00",
+      "stop": "2026-06-08T16:00:00+05:00",
+      "title": "NCIS: Los Angeles",
+      "sub_title": "Overdue",
+      "desc": "The NCIS team's murder investigation of a man who sold military information leads to the abduction of a doctor whose cutting-edge neurotechnology could be developed into advanced weaponry; Callen tries to have an important talk with Arkady.",
+      "date": "2021",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "Series",
+        "Crime drama",
+        "Action",
+        "Adventure",
+        "Mystery"
+      ],
+      "episode": "S12 E7",
+      "icon": "http://dtil.tmsimg.com/assets/p3561420_b_h8_bn.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Terrence O'Hara"
+        ],
+        "actor": [
+          "Chris O'Donnell",
+          "LL Cool J",
+          "Linda Hunt"
         ]
       }
     }

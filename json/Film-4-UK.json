@@ -4,32 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-07T11:00:00+05:00",
-      "stop": "2026-06-07T15:00:00+05:00",
-      "title": "Teleshopping",
-      "desc": "Teleshopping.",
-      "language": "en",
-      "categories": [
-        "Specialist",
-        "Shopping"
-      ],
-      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/Film-4-UK.png"
-    },
-    {
-      "start": "2026-06-07T15:00:00+05:00",
-      "stop": "2026-06-07T16:55:00+05:00",
-      "title": "The Mark of Zorro",
-      "desc": "Swashbuckling action-adventure starring Tyrone Power. An aristocrat dons his mask and cape to fight for the rights of the poor in 19th-century California. With Basil Rathbone.",
-      "date": "1940",
-      "language": "en",
-      "rating": "U",
-      "categories": [
-        "Movie",
-        "Adventure"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/2d03b6b3-24d5-45fa-aa4b-a1a2a14201f5/16-9"
-    },
-    {
       "start": "2026-06-07T16:55:00+05:00",
       "stop": "2026-06-07T17:05:00+05:00",
       "title": "Bridge of Spies Interview Special",
@@ -160,6 +134,32 @@
         "Home"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/07151f13-ad91-40f7-b684-fd38b641a530/16-9"
+    },
+    {
+      "start": "2026-06-08T12:30:00+05:00",
+      "stop": "2026-06-08T15:00:00+05:00",
+      "title": "Teleshopping",
+      "desc": "Teleshopping.",
+      "language": "en",
+      "categories": [
+        "Specialist",
+        "Shopping"
+      ],
+      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/Film-4-UK.png"
+    },
+    {
+      "start": "2026-06-08T15:00:00+05:00",
+      "stop": "2026-06-08T16:45:00+05:00",
+      "title": "Siege at Red River",
+      "desc": "Western. Van Johnson stars as a Confederate agent who steals a Gatling gun prototype from the Yankees and attempts to smuggle it south through enemy lines to his own side.",
+      "date": "1954",
+      "language": "en",
+      "rating": "PG",
+      "categories": [
+        "Movie",
+        "Western"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/dbee5299-126c-4c4a-b68d-f7b7d4f4ab59/16-9"
     }
   ]
 }

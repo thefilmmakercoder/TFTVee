@@ -4,32 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-07T11:15:00+05:00",
-      "stop": "2026-06-07T14:45:00+05:00",
-      "title": "The Patriot",
-      "desc": "Mel Gibson portrays Benjamin Martin, an unassuming man who is forced to join the American Revolution when the British threaten to take his farm away from him. Together with his patriotic son, Gabriel, the pair faces the vicious Redcoats with a heroism that reflects the stubborn pride of a young country's most dedicated supporters.",
-      "date": "2000",
-      "language": "en",
-      "rating": "R",
-      "categories": [
-        "Movie",
-        "War",
-        "Historical drama",
-        "Action"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p25745_v_h8_ah.jpg?w=960&h=540",
-      "credits": {
-        "director": [
-          "Roland Emmerich"
-        ],
-        "actor": [
-          "Mel Gibson",
-          "Heath Ledger",
-          "Joely Richardson"
-        ]
-      }
-    },
-    {
       "start": "2026-06-07T14:45:00+05:00",
       "stop": "2026-06-07T17:45:00+05:00",
       "title": "Black Hawk Down",
@@ -307,6 +281,20 @@
           "Curly Howard"
         ]
       }
+    },
+    {
+      "start": "2026-06-08T15:00:00+05:00",
+      "stop": "2026-06-08T15:30:00+05:00",
+      "title": "Paid Programming",
+      "desc": "Paid programming.",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Consumer",
+        "Shopping",
+        "Variety"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&h=540"
     }
   ]
 }

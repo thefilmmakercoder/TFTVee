@@ -4,41 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-07T14:30:00+05:00",
-      "stop": "2026-06-07T15:00:00+05:00",
-      "title": "Small Town Big Deal",
-      "sub_title": "Pioneer Lessons and Churchill's Legacy",
-      "desc": "Rodney gets a crash course in old-fashioned ways at a county fair; exploring a little-known Winston Churchill museum in the American heartland.",
-      "date": "2026",
-      "language": "en",
-      "rating": "TVG",
-      "categories": [
-        "Series",
-        "Documentary",
-        "Travel"
-      ],
-      "episode": "E1",
-      "icon": "http://dtil.tmsimg.com/assets/p9432369_b_h10_ac.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Rodney Miller",
-          "Jann Carl"
-        ]
-      }
-    },
-    {
-      "start": "2026-06-07T15:00:00+05:00",
-      "stop": "2026-06-07T17:00:00+05:00",
-      "title": "Eyewitness News Sunday Morning",
-      "desc": "News coverage to start the day.",
-      "date": "2017",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p13769020_b_h8_ab.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-06-07T17:00:00+05:00",
       "stop": "2026-06-07T18:00:00+05:00",
       "title": "Good Morning America",
@@ -220,6 +185,37 @@
         "Football"
       ],
       "icon": "http://dtil.tmsimg.com/assets/GNLZZGG0034WRGR.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-06-08T03:00:00+05:00",
+      "stop": "2026-06-08T03:30:00+05:00",
+      "title": "Eyewitness News at 6",
+      "desc": "Stay informed with the latest breaking news and headlines.",
+      "date": "2017",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p13769035_b_h8_ab.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-06-08T03:30:00+05:00",
+      "stop": "2026-06-08T04:00:00+05:00",
+      "title": "ABC World News Tonight With David Muir",
+      "desc": "Delivering the news that matters most.",
+      "date": "2026",
+      "language": "en",
+      "categories": [
+        "Series",
+        "News"
+      ],
+      "episode": "E158",
+      "icon": "http://dtil.tmsimg.com/assets/p10880351_b_h8_ah.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "David Muir"
+        ]
+      }
     }
   ]
 }
