@@ -4,44 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-07T04:30:00+05:00",
-      "stop": "2026-06-07T05:00:00+05:00",
-      "title": "Live: Hockey Night in Canada: Hockey Central",
-      "desc": "Breaking news, analysis and debate from around the NHL.",
-      "date": "2021",
-      "language": "en",
-      "categories": [
-        "Hockey"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p19197934_b_h8_ab.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-06-07T05:00:00+05:00",
-      "stop": "2026-06-07T07:30:00+05:00",
-      "title": "Live: 2026 Stanley Cup Final",
-      "desc": "The Hurricanes visit T-Mobile Arena to play the Golden Knights in Game 3 of the Stanley Cup Final.",
-      "language": "en",
-      "categories": [
-        "Sports",
-        "Playoff sports",
-        "Hockey"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/GNLZZGG0034X16M.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-06-07T07:30:00+05:00",
-      "stop": "2026-06-07T09:30:00+05:00",
-      "title": "FIVB Volleyball Women's Nations League",
-      "desc": "From Centre Videotron in Quebec City.",
-      "language": "en",
-      "rating": "AL",
-      "categories": [
-        "Sports",
-        "Volleyball"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/GNLZZGG0034BQP5.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-06-07T09:30:00+05:00",
       "stop": "2026-06-07T10:00:00+05:00",
       "title": "Halifax Comedy Festival",
@@ -217,6 +179,78 @@
       ],
       "episode": "S3 E7",
       "icon": "http://dtil.tmsimg.com/assets/p24750271_b_h10_aa.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-06-07T15:12:00+05:00",
+      "stop": "2026-06-07T15:17:00+05:00",
+      "title": "Go Togo",
+      "sub_title": "One Rowdy Ride",
+      "desc": "Wheeler picks up a rowdy group of little riders and drives in the wrong tunnel.",
+      "date": "2024",
+      "language": "en",
+      "categories": [
+        "Series",
+        "Animated",
+        "Entertainment"
+      ],
+      "episode": "S1 E4",
+      "icon": "http://dtil.tmsimg.com/assets/p28003667_b_h8_ac.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-06-07T15:17:00+05:00",
+      "stop": "2026-06-07T15:24:00+05:00",
+      "title": "Lu & the Bally Bunch",
+      "sub_title": "Scary Tara",
+      "desc": "Lu gets scared when she meets a huge Tara at the library.",
+      "date": "2023",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Series",
+        "Animated",
+        "Children",
+        "Comedy drama"
+      ],
+      "episode": "S1 E58",
+      "icon": "http://dtil.tmsimg.com/assets/p24332376_b_h8_ab.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Nicky Phelan"
+        ],
+        "actor": [
+          "Amy De Bhr\u00fan",
+          "Ross Breen",
+          "Jonathan Delaney Tynan"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-07T15:24:00+05:00",
+      "stop": "2026-06-07T15:32:00+05:00",
+      "title": "Lu & the Bally Bunch",
+      "sub_title": "Home School Day",
+      "desc": "Lu wants Dad to play with her while he's working from home.",
+      "date": "2023",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Series",
+        "Animated",
+        "Children",
+        "Comedy drama"
+      ],
+      "episode": "S1 E59",
+      "icon": "http://dtil.tmsimg.com/assets/p24332376_b_h8_ab.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Nicky Phelan"
+        ],
+        "actor": [
+          "Amy De Bhr\u00fan",
+          "Ross Breen",
+          "Jonathan Delaney Tynan"
+        ]
+      }
     }
   ]
 }

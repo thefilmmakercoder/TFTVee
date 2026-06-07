@@ -4,54 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-07T04:30:00+05:00",
-      "stop": "2026-06-07T05:00:00+05:00",
-      "title": "Live: WNBA Tip-Off Show",
-      "desc": "Pregame coverage of WNBA action.",
-      "date": "2025",
-      "language": "en",
-      "categories": [
-        "Basketball"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p30219819_b_h10_aa.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-06-07T05:00:00+05:00",
-      "stop": "2026-06-07T07:00:00+05:00",
-      "title": "Live: WNBA Basketball",
-      "desc": "The New York Liberty and the Indiana Fever battle in the WNBA Commissioner's Cup. Guard Kelsey Mitchell anchors Eastern Conference Indiana, while forward Breanna Stewart counters for New York as they clash for the first time this season.",
-      "language": "en",
-      "categories": [
-        "Sports",
-        "Basketball"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/GNLZZGG0032ZJL2.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-06-07T07:00:00+05:00",
-      "stop": "2026-06-07T08:00:00+05:00",
-      "title": "Sports Central",
-      "desc": "KCBS delivers a comprehensive news and entertainment experience, specializing in award-winning local journalism, live breaking news coverage for the Los Angeles metropolitan area, and a premier lineup of CBS network dramas, comedies, and sporting events.",
-      "date": "2023",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p26402663_b_h10_ac.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-06-07T08:00:00+05:00",
-      "stop": "2026-06-07T09:00:00+05:00",
-      "title": "CBS LA at 8pm",
-      "desc": "Join the CBS LA team for stories from communities around SoCal, breaking news from The Desk, and NEXT Weather from the Weathersphere.",
-      "date": "2025",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p31317881_b_h10_aa.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-06-07T09:00:00+05:00",
       "stop": "2026-06-07T10:00:00+05:00",
       "title": "CBS LA at 9pm",
@@ -199,6 +151,66 @@
           "Kevin Alejandro"
         ]
       }
+    },
+    {
+      "start": "2026-06-07T15:00:00+05:00",
+      "stop": "2026-06-07T15:30:00+05:00",
+      "title": "Protect Your Family From Identity Theft",
+      "desc": "Every 5 seconds there's a victim of identity theft; LifeLock helps alert you, restore your identity, and reimburse lost funds\u2014leading the way in protecting families every day.",
+      "language": "en",
+      "categories": [
+        "Consumer"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p33079900_st_h10_aa.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-06-07T15:30:00+05:00",
+      "stop": "2026-06-07T16:00:00+05:00",
+      "title": "Paid Programming",
+      "desc": "Paid programming.",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Consumer",
+        "Shopping",
+        "Variety"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-06-07T16:00:00+05:00",
+      "stop": "2026-06-07T17:00:00+05:00",
+      "title": "Entertainment Tonight",
+      "desc": "News and features about performers, productions and the milieu.",
+      "date": "2026",
+      "language": "en",
+      "rating": "M 15+",
+      "categories": [
+        "Series",
+        "Newsmagazine",
+        "Entertainment"
+      ],
+      "episode": "S45 E239",
+      "icon": "http://dtil.tmsimg.com/assets/p184256_b_h8_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Kevin Frazier",
+          "Nischelle Turner",
+          "Rachel Smith"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-07T17:00:00+05:00",
+      "stop": "2026-06-07T18:00:00+05:00",
+      "title": "CBS LA Mornings at 5am",
+      "desc": "Start your day with CBS LA Mornings, covering breaking stories from The Desk, and NEXT Weather and Traffic for Southern California.",
+      "date": "2025",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p31308781_b_h10_aa.jpg?w=960&h=540"
     }
   ]
 }

@@ -4,57 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-07T02:50:00+05:00",
-      "stop": "2026-06-07T05:00:00+05:00",
-      "title": "The Bride!",
-      "desc": "A scientist revives a murdered woman as a companion for a legendary creature. The aftermath defies all expectations.",
-      "date": "2026",
-      "language": "en",
-      "rating": "R",
-      "categories": [
-        "Movie",
-        "Horror",
-        "Romance"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p30469145_v_h8_ac.jpg?w=960&h=540",
-      "credits": {
-        "director": [
-          "Maggie Gyllenhaal"
-        ],
-        "actor": [
-          "Jessie Buckley",
-          "Christian Bale",
-          "Peter Sarsgaard"
-        ]
-      }
-    },
-    {
-      "start": "2026-06-07T05:00:00+05:00",
-      "stop": "2026-06-07T06:50:00+05:00",
-      "title": "Pillion",
-      "desc": "A timid man is swept off his feet when an enigmatic, impossibly handsome biker takes him on as his submissive.",
-      "date": "2025",
-      "language": "en",
-      "rating": "18",
-      "categories": [
-        "Movie",
-        "Romance",
-        "Drama",
-        "LGBTQ"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p30175409_v_h10_ad.jpg?w=960&h=540",
-      "credits": {
-        "director": [
-          "Harry Lighton"
-        ],
-        "actor": [
-          "Alexander Skarsg\u00e5rd",
-          "Harry Melling",
-          "Douglas Hodge"
-        ]
-      }
-    },
-    {
       "start": "2026-06-07T06:50:00+05:00",
       "stop": "2026-06-07T08:25:00+05:00",
       "title": "Euphoria",
@@ -240,7 +189,7 @@
       "start": "2026-06-07T22:06:00+05:00",
       "stop": "2026-06-07T23:05:00+05:00",
       "title": "Bring Me the Beauties",
-      "desc": "Documentary about Hoyt Richards, a 16-year-old that meets an enigmatic Manhattan socialite on a Nantucket beach and is pulled into his spiritual group, Eternal Values.",
+      "desc": "After meeting Frederick von Mierers, a guru who preaches New Age spirituality, the young Hoyt Richards adopts and spreads his teachings.",
       "date": "2026",
       "language": "en",
       "rating": "TV14",
@@ -272,10 +221,91 @@
         "Comedy"
       ],
       "episode": "S24 E17",
-      "icon": "http://dtil.tmsimg.com/assets/p185450_b_h10_ac.jpg?w=960&h=540",
+      "icon": "http://dtil.tmsimg.com/assets/p185450_b_h10_ac.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-06-08T00:05:00+05:00",
+      "stop": "2026-06-08T01:45:00+05:00",
+      "title": "The Yogurt Shop Murders",
+      "sub_title": "The End Of Wondering",
+      "desc": "APD cold case detective Dan Jackson reveals the behind-the-scenes details of the painstaking work that he and other investigators used in tracking down the killer of four teenage girls in Austin, Texas in 1991.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TVMA",
+      "categories": [
+        "Series",
+        "Documentary",
+        "Crime",
+        "Miniseries"
+      ],
+      "episode": "S1 E5",
+      "icon": "http://dtil.tmsimg.com/assets/p29594066_b_h10_ac.jpg?w=960&h=540",
       "credits": {
+        "director": [
+          "Margaret Brown"
+        ],
         "actor": [
-          "Bill Maher"
+          "Beverly Lowry",
+          "Claire Huie",
+          "John Jones"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-08T01:45:00+05:00",
+      "stop": "2026-06-08T03:35:00+05:00",
+      "title": "Pillion",
+      "desc": "A timid man is swept off his feet when an enigmatic, impossibly handsome biker takes him on as his submissive.",
+      "date": "2025",
+      "language": "en",
+      "rating": "18",
+      "categories": [
+        "Movie",
+        "Romance",
+        "Drama",
+        "LGBTQ"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p30175409_v_h10_ad.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Harry Lighton"
+        ],
+        "actor": [
+          "Alexander Skarsg\u00e5rd",
+          "Harry Melling",
+          "Douglas Hodge"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-08T03:35:00+05:00",
+      "stop": "2026-06-08T06:00:00+05:00",
+      "title": "A Complete Unknown",
+      "desc": "In the early 1960s, 19-year-old Bob Dylan arrives in New York with his guitar and revolutionary talent, destined to change the course of American music. Forming his most intimate relationships during his rise to fame, he grows restless with the folk movement, making a controversial choice that reverberates worldwide.",
+      "date": "2024",
+      "language": "en",
+      "rating": "R",
+      "categories": [
+        "Movie",
+        "Biography",
+        "Drama",
+        "Music",
+        "Folk",
+        "Blues",
+        "Rock",
+        "Gospel",
+        "Country",
+        "Jazz"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p28019397_v_h8_ag.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "James Mangold"
+        ],
+        "actor": [
+          "Timoth\u00e9e Chalamet",
+          "Edward Norton",
+          "Elle Fanning"
         ]
       }
     }

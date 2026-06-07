@@ -4,110 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-07T03:00:00+05:00",
-      "stop": "2026-06-07T04:00:00+05:00",
-      "title": "Live: CTV News Toronto",
-      "desc": "CTV News covers stories that matter to Canadians, locally, nationally and internationally.",
-      "date": "2014",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p11226977_b_h8_ae.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-06-07T04:00:00+05:00",
-      "stop": "2026-06-07T06:00:00+05:00",
-      "title": "Haunted Harmony Mysteries: Buried at C",
-      "desc": "Our favorite music teacher Gethsemane is back again along with her trusted ghost friend Eamon to solve the unexplained death of a sea captain.",
-      "date": "2025",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Movie",
-        "Mystery"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p31319767_v_h8_aa.jpg?w=960&h=540",
-      "credits": {
-        "director": [
-          "Linda-Lisa Hayter"
-        ],
-        "actor": [
-          "Marco Grazzini",
-          "Tamera Mowry-Housley",
-          "Risteard Cooper"
-        ]
-      }
-    },
-    {
-      "start": "2026-06-07T06:00:00+05:00",
-      "stop": "2026-06-07T07:00:00+05:00",
-      "title": "East Harbour Heroes",
-      "sub_title": "Just For The Halibut",
-      "desc": "Newfoundland's biggest dry dock handles critical jobs and a rookie skipper takes his shot at a tough fishery.",
-      "date": "2024",
-      "language": "en",
-      "categories": [
-        "Series",
-        "Reality",
-        "Documentary"
-      ],
-      "episode": "S2 E1",
-      "icon": "http://dtil.tmsimg.com/assets/p24796311_b_h8_aj.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Ron Curtis"
-        ]
-      }
-    },
-    {
-      "start": "2026-06-07T07:00:00+05:00",
-      "stop": "2026-06-07T08:00:00+05:00",
-      "title": "East Harbour Heroes",
-      "sub_title": "All Hands on Deck",
-      "desc": "While a rookie skipper has a humbling start, a stranded fishing vessel needs a multi-team recovery.",
-      "date": "2024",
-      "language": "en",
-      "categories": [
-        "Series",
-        "Reality",
-        "Documentary"
-      ],
-      "episode": "S2 E2",
-      "icon": "http://dtil.tmsimg.com/assets/p24796311_b_h8_aj.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-06-07T08:00:00+05:00",
-      "stop": "2026-06-07T08:30:00+05:00",
-      "title": "Live: CTV National News With Heather Butts",
-      "desc": "CTV News covers stories that matter to Canadians - locally, nationally, & internationally.",
-      "date": "2026",
-      "language": "en",
-      "categories": [
-        "Series",
-        "News"
-      ],
-      "episode": "E68",
-      "icon": "http://dtil.tmsimg.com/assets/p26024787_b_h8_aa.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Heather Butts"
-        ]
-      }
-    },
-    {
-      "start": "2026-06-07T08:30:00+05:00",
-      "stop": "2026-06-07T09:00:00+05:00",
-      "title": "Live: CTV News Toronto",
-      "desc": "CTV News covers stories that matter to Canadians, locally, nationally and internationally.",
-      "date": "2014",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p11226977_b_h8_ae.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-06-07T09:00:00+05:00",
       "stop": "2026-06-07T09:30:00+05:00",
       "title": "The Big Bang Theory",
@@ -257,6 +153,128 @@
           "Jack Jessop",
           "Karen Kain",
           "Fiona McGillivray"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-07T14:30:00+05:00",
+      "stop": "2026-06-07T15:00:00+05:00",
+      "title": "Paid Programming",
+      "desc": "Paid programming.",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Consumer",
+        "Shopping",
+        "Variety"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-06-07T15:00:00+05:00",
+      "stop": "2026-06-07T15:30:00+05:00",
+      "title": "CTV News Toronto",
+      "desc": "CTV News covers stories that matter to Canadians, locally, nationally and internationally.",
+      "date": "2014",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p11226977_b_h8_ae.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-06-07T15:30:00+05:00",
+      "stop": "2026-06-07T16:00:00+05:00",
+      "title": "CTV National News With Heather Butts",
+      "desc": "CTV News covers stories that matter to Canadians - locally, nationally, & internationally.",
+      "date": "2026",
+      "language": "en",
+      "categories": [
+        "Series",
+        "News"
+      ],
+      "episode": "E68",
+      "icon": "http://dtil.tmsimg.com/assets/p26024787_b_h8_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Heather Butts"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-07T16:00:00+05:00",
+      "stop": "2026-06-07T17:00:00+05:00",
+      "title": "CTV Your Morning Weekend",
+      "desc": "Delivering original perspectives and unique insights into the headlines of the day to Canadians from coast-to-coast-to-coast.",
+      "date": "2026",
+      "language": "en",
+      "categories": [
+        "Series",
+        "News",
+        "Talk"
+      ],
+      "episode": "E29",
+      "icon": "http://dtil.tmsimg.com/assets/p20961604_b_h8_ac.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Anne-Marie Mediwake",
+          "Lindsey Deluce"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-07T17:00:00+05:00",
+      "stop": "2026-06-07T17:30:00+05:00",
+      "title": "The Littlest Hobo",
+      "sub_title": "Scavenger Hunt",
+      "desc": "Fraternity brothers make Hobo a much sought-after item in their scavenger hunt.",
+      "date": "1983",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Series",
+        "Drama",
+        "Adventure",
+        "Animals"
+      ],
+      "episode": "S5 E2 P1/2",
+      "icon": "http://dtil.tmsimg.com/assets/p507740_b_h10_ac.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Mario Azzopardi"
+        ],
+        "actor": [
+          "Roger Dunn",
+          "Jesse Collins",
+          "Harvey Atkin"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-07T17:30:00+05:00",
+      "stop": "2026-06-07T18:00:00+05:00",
+      "title": "The Littlest Hobo",
+      "sub_title": "Scavenger Hunt",
+      "desc": "Hobo is sought in a fraternity scavenger hunt.",
+      "date": "1983",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Series",
+        "Drama",
+        "Adventure",
+        "Animals"
+      ],
+      "episode": "S5 E3 P2/2",
+      "icon": "http://dtil.tmsimg.com/assets/p507740_b_h10_ac.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Mario Azzopardi"
+        ],
+        "actor": [
+          "Harvey Atkin",
+          "Jesse Collins",
+          "Roger Dunn"
         ]
       }
     }

@@ -4,18 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-07T04:50:00+05:00",
-      "stop": "2026-06-07T04:55:00+05:00",
-      "title": "Weather for the Week Ahead",
-      "desc": "Detailed weather forecast.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/f8e41b86-f886-4ae3-b379-e575c53d7977/16-9"
-    },
-    {
       "start": "2026-06-07T04:55:00+05:00",
       "stop": "2026-06-07T10:00:00+05:00",
       "title": "BBC News",
@@ -43,7 +31,8 @@
       "start": "2026-06-07T13:00:00+05:00",
       "stop": "2026-06-07T14:00:00+05:00",
       "title": "Sunday with Laura Kuenssberg",
-      "desc": "The big names behind the big stories. Laura Kuenssberg talks to those making the news, inside and outside politics.",
+      "sub_title": "Laura Kuenssberg is joined by David Lammy MP, deputy prime minister; Claire Coutinho MP, shadow equalities minister; and Zia Yusuf, Reform home affairs spokesperson",
+      "desc": "BBC One is the flagship destination for high-quality news, major sporting events, and iconic British dramas that bring the nation together.",
       "language": "en",
       "categories": [
         "Entertainment",
@@ -144,6 +133,18 @@
         "Music & Radio"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/fc5e331f-223f-4338-acd8-e74309806850/16-9"
+    },
+    {
+      "start": "2026-06-07T18:05:00+05:00",
+      "stop": "2026-06-07T18:20:00+05:00",
+      "title": "Points of View",
+      "desc": "Viewers have their say on the BBC's television programmes. Email your thoughts to pov@bbc.co.uk, tweet @bbcPoV or search Facebook for BBC Points of View.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Factual"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/ad9e1fff-e0f7-4012-9665-dbb2914ee436/16-9"
     }
   ]
 }

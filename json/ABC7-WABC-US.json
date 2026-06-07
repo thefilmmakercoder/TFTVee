@@ -4,48 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-07T04:30:00+05:00",
-      "stop": "2026-06-07T05:00:00+05:00",
-      "title": "Live: The Point",
-      "desc": "Featuring highlights, news, analysis, speed, skill and access to the stars, stories and personalities of the game; hosted by John Buccigross.",
-      "date": "2021",
-      "language": "en",
-      "categories": [
-        "Hockey"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p20632879_b_h10_ac.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "John Buccigross"
-        ]
-      }
-    },
-    {
-      "start": "2026-06-07T05:00:00+05:00",
-      "stop": "2026-06-07T08:00:00+05:00",
-      "title": "Live: 2026 Stanley Cup Final",
-      "desc": "The Hurricanes visit T-Mobile Arena to play the Golden Knights in Game 3 of the Stanley Cup Final.",
-      "language": "en",
-      "categories": [
-        "Sports",
-        "Playoff sports",
-        "Hockey"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/GNLZZGG0034X16M.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-06-07T08:00:00+05:00",
-      "stop": "2026-06-07T09:00:00+05:00",
-      "title": "Eyewitness News at 11",
-      "desc": "Breaking news.",
-      "date": "2017",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p13769039_b_h8_ab.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-06-07T09:00:00+05:00",
       "stop": "2026-06-07T10:00:00+05:00",
       "title": "9-1-1",
@@ -234,6 +192,54 @@
           "Jann Carl"
         ]
       }
+    },
+    {
+      "start": "2026-06-07T15:00:00+05:00",
+      "stop": "2026-06-07T17:00:00+05:00",
+      "title": "Eyewitness News Sunday Morning",
+      "desc": "News coverage to start the day.",
+      "date": "2017",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p13769020_b_h8_ab.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-06-07T17:00:00+05:00",
+      "stop": "2026-06-07T18:00:00+05:00",
+      "title": "Good Morning America",
+      "desc": "Early morning news and entertainment program that covers important issues with key figures from around the world and a wide spectrum of topics, including medicine, finance, consumer issues, computer technology, education and gardening.",
+      "date": "2026",
+      "language": "en",
+      "categories": [
+        "Series",
+        "Talk",
+        "News",
+        "Variety",
+        "Public affairs"
+      ],
+      "episode": "E181",
+      "icon": "http://dtil.tmsimg.com/assets/p31385280_b_h10_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Whit Johnson",
+          "Janai Norman",
+          "Gio Benitez"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-07T18:00:00+05:00",
+      "stop": "2026-06-07T19:00:00+05:00",
+      "title": "Eyewitness News Sunday Morning",
+      "desc": "News coverage to start the day.",
+      "date": "2017",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p13769020_b_h8_ab.jpg?w=960&h=540"
     }
   ]
 }
