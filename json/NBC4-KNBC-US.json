@@ -4,43 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-07T21:00:00+05:00",
-      "stop": "2026-06-07T21:30:00+05:00",
-      "title": "NBC4 News Conference",
-      "desc": "Stay informed with the latest breaking news and headlines.",
-      "date": "2023",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p26464088_b_h10_aa.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-06-07T21:30:00+05:00",
-      "stop": "2026-06-07T22:00:00+05:00",
-      "title": "The Aging Brain",
-      "desc": "Learn what's behind mental decline with age, and how to improve memory, focus and concentration with NeuroQ's Darrin Peterson and Dale Bredesen MD.",
-      "language": "en",
-      "categories": [
-        "Consumer"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p30127108_st_h10_aa.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-06-07T22:00:00+05:00",
-      "stop": "2026-06-07T22:30:00+05:00",
-      "title": "Bathroom Makeover",
-      "desc": "Transform your bath affordably in just one day!",
-      "language": "en",
-      "categories": [
-        "Consumer",
-        "Health",
-        "House/garden",
-        "Self improvement"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p30220270_b_h8_aa.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-06-07T22:30:00+05:00",
       "stop": "2026-06-07T23:00:00+05:00",
       "title": "Open House",
@@ -164,6 +127,52 @@
         "News"
       ],
       "icon": "http://dtil.tmsimg.com/assets/p25191676_b_h10_aa.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-06-08T09:30:00+05:00",
+      "stop": "2026-06-08T10:00:00+05:00",
+      "title": "California Live",
+      "desc": "Previously recorded; lifestyle show featuring the latest in travel, food and fashion.",
+      "date": "2022",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p22187816_b_h10_ab.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-06-08T10:00:00+05:00",
+      "stop": "2026-06-08T11:00:00+05:00",
+      "title": "Dateline NBC",
+      "desc": "Anchored by Lester Holt, \"Dateline\" is NBC's signature newsmagazine, bringing viewers storytelling at its best by putting the pieces together to present the full picture of real-life events. NBC News correspondents cover compelling stories and issues of the day, ranging from mystery and crime to in-depth investigations and breaking-news events.",
+      "date": "1992",
+      "language": "en",
+      "rating": "MA 15+",
+      "categories": [
+        "Newsmagazine",
+        "Mystery",
+        "Crime"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p27896067_b_h8_ab.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Lester Holt",
+          "Andrea Canning",
+          "Josh Mankiewicz"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-08T11:00:00+05:00",
+      "stop": "2026-06-08T11:35:00+05:00",
+      "title": "NBC4 News at 11pm",
+      "desc": "The latest local news, weather and investigative stories impacting the community.",
+      "date": "2011",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p8781143_b_h10_ad.jpg?w=960&h=540"
     }
   ]
 }

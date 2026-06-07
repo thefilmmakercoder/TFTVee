@@ -4,42 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-07T21:00:00+05:00",
-      "stop": "2026-06-07T21:30:00+05:00",
-      "title": "Victim of Nursing Home Abuse?",
-      "desc": "Have you or a family member been a victim of nursing home abuse?",
-      "language": "en",
-      "categories": [
-        "Consumer"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p32656820_st_h10_aa.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-06-07T21:30:00+05:00",
-      "stop": "2026-06-07T22:00:00+05:00",
-      "title": "Paid Programming",
-      "desc": "Paid programming.",
-      "language": "en",
-      "rating": "TVG",
-      "categories": [
-        "Consumer",
-        "Shopping",
-        "Variety"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-06-07T22:00:00+05:00",
-      "stop": "2026-06-07T22:30:00+05:00",
-      "title": "The Aging Brain",
-      "desc": "Learn what's behind mental decline with age, and how to improve memory, focus and concentration with NeuroQ's Darrin Peterson and Dale Bredesen MD.",
-      "language": "en",
-      "categories": [
-        "Consumer"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p30127108_st_h10_aa.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-06-07T22:30:00+05:00",
       "stop": "2026-06-07T23:00:00+05:00",
       "title": "Natural Blood Pressure Management",
@@ -151,6 +115,62 @@
         "News"
       ],
       "icon": "http://dtil.tmsimg.com/assets/p26347592_b_h10_aa.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-06-08T09:00:00+05:00",
+      "stop": "2026-06-08T09:30:00+05:00",
+      "title": "Sports Final",
+      "desc": "News, scores, highlights.",
+      "date": "2013",
+      "language": "en",
+      "categories": [
+        "Sports talk"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p10311057_b_h10_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Bruce Beck"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-08T09:30:00+05:00",
+      "stop": "2026-06-08T10:00:00+05:00",
+      "title": "1st Look",
+      "desc": "Lifestyle trends in food, nightlife, art, travel and entertainment.",
+      "date": "2008",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Talk",
+        "Newsmagazine",
+        "Travel",
+        "Fashion"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p419169_b_h8_az.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-06-08T10:00:00+05:00",
+      "stop": "2026-06-08T10:30:00+05:00",
+      "title": "Access Hollywood",
+      "sub_title": "Hollywood Headlines, Celebrity Interviews, Behind-the-Scenes Access and the Hottest Fashions",
+      "desc": "Hosts Mario Lopez, Kit Hoover, Scott Evans and Zuri Hall take viewers behind the velvet ropes and onto the red carpet to deliver celebrity interviews and entertainment news stories in Hollywood.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Newsmagazine",
+        "Entertainment",
+        "Interview"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p30926755_b_h8_ab.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Scott Evans",
+          "Zuri Hall"
+        ]
+      }
     }
   ]
 }

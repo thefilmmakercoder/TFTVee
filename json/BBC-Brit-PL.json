@@ -4,32 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-07T20:35:00+05:00",
-      "stop": "2026-06-07T21:05:00+05:00",
-      "title": "The Car Years",
-      "desc": "Vicki Butler-Henderson and Alex Riley choose the best sports cars from each year.",
-      "date": "2020",
-      "language": "en",
-      "categories": [
-        "Documentary Series"
-      ],
-      "episode": "S2E6",
-      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/BBC-Brit-PL.png"
-    },
-    {
-      "start": "2026-06-07T21:05:00+05:00",
-      "stop": "2026-06-07T22:05:00+05:00",
-      "title": "How to Build a Motorcar",
-      "desc": "BBC Brit delivers a premium blend of British wit and factual entertainment, featuring world-class automotive shows and award-winning comedy specials.",
-      "date": "2022",
-      "language": "en",
-      "categories": [
-        "Documentary Series"
-      ],
-      "episode": "S2E5",
-      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/BBC-Brit-PL.png"
-    },
-    {
       "start": "2026-06-07T22:05:00+05:00",
       "stop": "2026-06-07T23:00:00+05:00",
       "title": "How to Build a Motorcar",
@@ -158,6 +132,49 @@
       ],
       "episode": "S2E8",
       "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/BBC-Brit-PL.png"
+    },
+    {
+      "start": "2026-06-08T07:35:00+05:00",
+      "stop": "2026-06-08T08:25:00+05:00",
+      "title": "Top Gear",
+      "desc": "A program for automotive enthusiasts.The presenters test new car models.They are very critical and subject the cars they check to various tests.",
+      "date": "2002",
+      "language": "en",
+      "categories": [
+        "Automotive Magazine"
+      ],
+      "episode": "S2E9",
+      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/BBC-Brit-PL.png"
+    },
+    {
+      "start": "2026-06-08T08:25:00+05:00",
+      "stop": "2026-06-08T09:00:00+05:00",
+      "title": "'Allo 'Allo!",
+      "desc": "France, World War II.The owner of the caf\u00e9, Ren\u00e9 Artois, experiences further funny adventures among his friends and those tracking the Nazi resistance.",
+      "date": "1992",
+      "language": "en",
+      "categories": [
+        "Comedy Series"
+      ],
+      "episode": "S9E5",
+      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/BBC-Brit-PL.png",
+      "credits": {
+        "director": [
+          "John B. Hobbs"
+        ],
+        "actor": [
+          "Ren\u00e9 Artois - Gorden Kaye",
+          "Edith Artois - Carmen Silvera",
+          "Yvette Carte-Blanche - Vicki Michelle",
+          "Mimi Labonq - Sue Hodge",
+          "Madame Fanny - Rose Hill",
+          "Michelle Dubois - Kirsten Cooke",
+          "Colonel Kurt von Strohm - Richard Marner",
+          "Private Helga Geerhart - Kim Hartman",
+          "Lieutenant Hubert Gruber - Guy Siner",
+          "Herr Otto Flick - Richard Gibson"
+        ]
+      }
     }
   ]
 }

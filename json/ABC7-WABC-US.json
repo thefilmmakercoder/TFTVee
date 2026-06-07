@@ -4,60 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-07T20:30:00+05:00",
-      "stop": "2026-06-07T21:00:00+05:00",
-      "title": "Tiempo",
-      "desc": "Hosted by Joe Torres.",
-      "date": "2000",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Public affairs"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p958784_b_h10_aa.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-06-07T21:00:00+05:00",
-      "stop": "2026-06-07T22:00:00+05:00",
-      "title": "Here and Now",
-      "desc": "Features stories that impact the black community; leaders and experts voice their opinions on a variety of topics including politics, the economy, education and health issues.",
-      "date": "2011",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Community"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p8890329_b_h10_aa.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Sandra Bookman"
-        ]
-      }
-    },
-    {
-      "start": "2026-06-07T22:00:00+05:00",
-      "stop": "2026-06-07T22:30:00+05:00",
-      "title": "Hearts of Heroes",
-      "sub_title": "Peril and Preservation",
-      "desc": "First responders race to rescue a skydiver left dangling in high voltage power lines; when a fast-moving fire tears through a historic building, crews scramble to protect priceless, irreplaceable documents before they go up in smoke.",
-      "date": "2026",
-      "language": "en",
-      "rating": "TVG",
-      "categories": [
-        "Series",
-        "Reality",
-        "Nature",
-        "Science"
-      ],
-      "episode": "S7 E22",
-      "icon": "http://dtil.tmsimg.com/assets/p16722748_b_h10_ac.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Ginger Zee"
-        ]
-      }
-    },
-    {
       "start": "2026-06-07T22:30:00+05:00",
       "stop": "2026-06-07T23:00:00+05:00",
       "title": "Home for Good",
@@ -220,6 +166,87 @@
         "News"
       ],
       "icon": "http://dtil.tmsimg.com/assets/p13769039_b_h8_ab.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-06-08T09:00:00+05:00",
+      "stop": "2026-06-08T10:00:00+05:00",
+      "title": "The Rookie",
+      "sub_title": "Triple Duty",
+      "desc": "Officers Nolan and Bradford hope they can de-escalate a drug war before any innocent lives are lost; Officer Harper hopes she can get Officer Chen ready to go undercover.",
+      "date": "2021",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "Series",
+        "Crime drama",
+        "Action"
+      ],
+      "episode": "S3 E13",
+      "icon": "http://dtil.tmsimg.com/assets/p15523389_b_h8_bc.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Bill Johnson"
+        ],
+        "actor": [
+          "Nathan Fillion",
+          "Mekia Cox",
+          "Alyssa Diaz"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-08T10:00:00+05:00",
+      "stop": "2026-06-08T11:00:00+05:00",
+      "title": "The Rookie",
+      "sub_title": "Threshold",
+      "desc": "Officer Nolan mildly injures himself while chasing down a shoplifter and the local district attorney wants to charge the suspect with assault, despite Nolan's wishes; Lucy goes undercover; Lopez's wedding venue is seized by the FBI.",
+      "date": "2021",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "Series",
+        "Crime drama",
+        "Action"
+      ],
+      "episode": "S3 E14",
+      "icon": "http://dtil.tmsimg.com/assets/p15523389_b_h8_bc.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Lisa Demaine"
+        ],
+        "actor": [
+          "Nathan Fillion",
+          "Mekia Cox",
+          "Alyssa Diaz"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-08T11:00:00+05:00",
+      "stop": "2026-06-08T12:00:00+05:00",
+      "title": "Murdoch Mysteries",
+      "sub_title": "A Most Surprising Bond",
+      "desc": "When a mysterious illness appears at her newly opened women's hospital, Ogden is forced to enlist a quarantine.",
+      "date": "2024",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Drama",
+        "Mystery"
+      ],
+      "episode": "S17 E19",
+      "icon": "http://dtil.tmsimg.com/assets/p811777_b_h8_at.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Jennifer Liao"
+        ],
+        "actor": [
+          "Yannick Bisson",
+          "Helene Joy",
+          "Thomas Craig"
+        ]
+      }
     }
   ]
 }
