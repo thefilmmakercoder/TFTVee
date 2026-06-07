@@ -4,54 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-07T11:45:00+05:00",
-      "stop": "2026-06-07T12:45:00+05:00",
-      "title": "America\u2019s Secret Space Heroes",
-      "sub_title": "Saturn V",
-      "desc": "Witness the incredible story of the engineers who built the mighty rocket that put man on the moon: the Saturn V.",
-      "date": "20170514",
-      "language": "en",
-      "categories": [
-        "Series",
-        "Educational",
-        "History"
-      ],
-      "episode": "S01E01",
-      "icon": "https://images.pluto.tv/series/61b13bc4303dc2001469a897/tile.jpg?fill=blur&fit=fill&fm=jpg&h=900&q=75&w=900"
-    },
-    {
-      "start": "2026-06-07T12:45:00+05:00",
-      "stop": "2026-06-07T13:45:00+05:00",
-      "title": "America\u2019s Secret Space Heroes",
-      "sub_title": "Space Shuttle",
-      "desc": "See how NASA engineers met the challenge to build a spacecraft that can launch like a rocket and land like an airplane.",
-      "date": "20170528",
-      "language": "en",
-      "categories": [
-        "Series",
-        "Educational",
-        "History"
-      ],
-      "episode": "S01E03",
-      "icon": "https://images.pluto.tv/series/61b13bc4303dc2001469a897/tile.jpg?fill=blur&fit=fill&fm=jpg&h=900&q=75&w=900"
-    },
-    {
-      "start": "2026-06-07T13:45:00+05:00",
-      "stop": "2026-06-07T14:45:00+05:00",
-      "title": "America\u2019s Secret Space Heroes",
-      "sub_title": "Hubble Telescope",
-      "desc": "The history of the Hubble Telescope, as told by the brilliant minds and mavericks who built and repaired it.",
-      "date": "20170611",
-      "language": "en",
-      "categories": [
-        "Series",
-        "Educational",
-        "History"
-      ],
-      "episode": "S01E05",
-      "icon": "https://images.pluto.tv/series/61b13bc4303dc2001469a897/tile.jpg?fill=blur&fit=fill&fm=jpg&h=900&q=75&w=900"
-    },
-    {
       "start": "2026-06-07T14:45:00+05:00",
       "stop": "2026-06-07T15:45:00+05:00",
       "title": "America\u2019s Secret Space Heroes",
@@ -60,9 +12,9 @@
       "date": "20170521",
       "language": "en",
       "categories": [
+        "History",
         "Series",
-        "Educational",
-        "History"
+        "Educational"
       ],
       "episode": "S01E02",
       "icon": "https://images.pluto.tv/series/61b13bc4303dc2001469a897/tile.jpg?fill=blur&fit=fill&fm=jpg&h=900&q=75&w=900"
@@ -76,9 +28,9 @@
       "date": "20170604",
       "language": "en",
       "categories": [
+        "History",
         "Series",
-        "Educational",
-        "History"
+        "Educational"
       ],
       "episode": "S01E04",
       "icon": "https://images.pluto.tv/series/61b13bc4303dc2001469a897/tile.jpg?fill=blur&fit=fill&fm=jpg&h=900&q=75&w=900"
@@ -92,8 +44,8 @@
       "date": "20160327",
       "language": "en",
       "categories": [
-        "Reality",
-        "Series"
+        "Series",
+        "Reality"
       ],
       "episode": "S01E03",
       "icon": "https://images.pluto.tv/series/612433b0256bf20015ada072/tile.jpg?fill=blur&fit=fill&fm=jpg&h=900&q=75&w=900"
@@ -107,8 +59,8 @@
       "date": "20160313",
       "language": "en",
       "categories": [
-        "Reality",
-        "Series"
+        "Series",
+        "Reality"
       ],
       "episode": "S01E01",
       "icon": "https://images.pluto.tv/series/612433b0256bf20015ada072/tile.jpg?fill=blur&fit=fill&fm=jpg&h=900&q=75&w=900"
@@ -122,8 +74,8 @@
       "date": "20160417",
       "language": "en",
       "categories": [
-        "Reality",
-        "Series"
+        "Series",
+        "Reality"
       ],
       "episode": "S01E06",
       "icon": "https://images.pluto.tv/series/612433b0256bf20015ada072/tile.jpg?fill=blur&fit=fill&fm=jpg&h=900&q=75&w=900"
@@ -176,10 +128,62 @@
     {
       "start": "2026-06-07T22:45:00+05:00",
       "stop": "2026-06-07T23:45:00+05:00",
-      "title": "Smithsonian Channel Selects",
-      "desc": "Smithsonian Channel Selects streams a free, curated selection of documentaries and historical specials from the Smithsonian library.",
+      "title": "Combat Ships",
+      "sub_title": "The Battle of Trafalgar",
+      "desc": "A comprehensive look at the Battle of Trafalgar, from the huge ships involved to its key players, Admiral Horatio Nelson and Napoleon Bonaparte.",
+      "date": "20220306",
       "language": "en",
-      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/Smithsonian-Channel-Selects-Pluto-US.png"
+      "categories": [
+        "Series",
+        "Documentary"
+      ],
+      "episode": "S03E02",
+      "icon": "https://images.pluto.tv/series/651b4b70d193e8001bebef36/tile_1760883484335.jpg?fill=blur&fit=fill&fm=jpg&h=900&q=75&w=900"
+    },
+    {
+      "start": "2026-06-07T23:45:00+05:00",
+      "stop": "2026-06-08T00:45:00+05:00",
+      "title": "Shuttle Discovery's Last Mission",
+      "desc": "Celebrate the Space Shuttle Discovery's remarkable past and her final flight to the Smithsonian National Air and Space Museum.",
+      "date": "20130708",
+      "language": "en",
+      "categories": [
+        "Documentary",
+        "Movie"
+      ],
+      "icon": "https://images.pluto.tv/episodes/5fa343a8e906e1001a03dc3a/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694"
+    },
+    {
+      "start": "2026-06-08T00:45:00+05:00",
+      "stop": "2026-06-08T01:45:00+05:00",
+      "title": "Space Voyages",
+      "sub_title": "Surviving the Void",
+      "desc": "Discover how a mission to the Red Planet is no longer the stuff of science fiction, but is quickly becoming a reality.",
+      "date": "20140113",
+      "language": "en",
+      "categories": [
+        "Science",
+        "Series",
+        "Educational"
+      ],
+      "episode": "S01E04",
+      "icon": "https://images.pluto.tv/series/6094ae1d41fc48001326b567/tile.jpg?fill=blur&fit=fill&fm=jpg&h=900&q=75&w=900"
+    },
+    {
+      "start": "2026-06-08T01:45:00+05:00",
+      "stop": "2026-06-08T02:45:00+05:00",
+      "title": "Space Voyages",
+      "sub_title": "Open for Business",
+      "desc": "Discover how little companies with astronomical dreams are stepping into the void left by the Space Shuttle's demise.",
+      "date": "20140106",
+      "language": "en",
+      "categories": [
+        "Science",
+        "Series",
+        "Educational"
+      ],
+      "episode": "S01E03",
+      "icon": "https://images.pluto.tv/series/6094ae1d41fc48001326b567/tile.jpg?fill=blur&fit=fill&fm=jpg&h=900&q=75&w=900"
     }
   ]
 }

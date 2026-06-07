@@ -4,14 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-07T08:00:00+05:00",
-      "stop": "2026-06-07T09:30:00+05:00",
-      "title": "This is BBC Three",
-      "desc": "Programmes start at 7.00pm.",
-      "language": "en",
-      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/BBC-Three-UK.png"
-    },
-    {
       "start": "2026-06-07T09:30:00+05:00",
       "stop": "2026-06-07T15:30:00+05:00",
       "title": "..programmes start at 7.00pm",
@@ -126,6 +118,18 @@
         "Movie"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/25c2d207-4841-42de-8208-73b7db1337b2/16-9"
+    },
+    {
+      "start": "2026-06-08T04:20:00+05:00",
+      "stop": "2026-06-08T05:20:00+05:00",
+      "title": "Daisy Maskell: Insomnia and Me",
+      "desc": "Daisy Maskell tackles her insomnia, meeting experts and young sufferers who can't sleep. Contains some scenes which some viewers may find upsetting.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Factual"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/7811b57c-d8a4-4a6a-8cc7-9257d9b3d6c2/16-9"
     }
   ]
 }

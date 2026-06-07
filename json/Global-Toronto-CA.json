@@ -4,61 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-07T13:02:00+05:00",
-      "stop": "2026-06-07T13:32:00+05:00",
-      "title": "Paid Programming",
-      "desc": "Paid programming.",
-      "language": "en",
-      "rating": "TVG",
-      "categories": [
-        "Consumer",
-        "Shopping",
-        "Variety"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-06-07T13:32:00+05:00",
-      "stop": "2026-06-07T14:00:00+05:00",
-      "title": "SIGN OFF",
-      "desc": "Sign off.",
-      "date": "2005",
-      "language": "en",
-      "rating": "TVG",
-      "categories": [
-        "Special"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p480440_b_h8_bw.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-06-07T14:00:00+05:00",
-      "stop": "2026-06-07T14:30:00+05:00",
-      "title": "Paid Programming",
-      "desc": "Paid programming.",
-      "language": "en",
-      "rating": "TVG",
-      "categories": [
-        "Consumer",
-        "Shopping",
-        "Variety"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-06-07T14:30:00+05:00",
-      "stop": "2026-06-07T15:00:00+05:00",
-      "title": "Paid Programming",
-      "desc": "Paid programming.",
-      "language": "en",
-      "rating": "TVG",
-      "categories": [
-        "Consumer",
-        "Shopping",
-        "Variety"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-06-07T15:00:00+05:00",
       "stop": "2026-06-07T16:00:00+05:00",
       "title": "Worst to First",
@@ -213,6 +158,91 @@
         "Variety"
       ],
       "icon": "http://dtil.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-06-07T20:00:00+05:00",
+      "stop": "2026-06-07T20:30:00+05:00",
+      "title": "The West Block",
+      "desc": "Concerns of Canadians are brought to the politicians.",
+      "date": "2026",
+      "language": "en",
+      "categories": [
+        "Series",
+        "Politics"
+      ],
+      "episode": "E23",
+      "icon": "http://dtil.tmsimg.com/assets/p8843295_b_h10_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Mercedes Stephenson"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-07T20:30:00+05:00",
+      "stop": "2026-06-07T21:00:00+05:00",
+      "title": "Focus Ontario",
+      "desc": "Political debates regarding Queen's Park.",
+      "date": "2004",
+      "language": "en",
+      "categories": [
+        "Politics",
+        "Public affairs"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p689284_b_h8_ab.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Alan Carter"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-07T21:00:00+05:00",
+      "stop": "2026-06-07T22:00:00+05:00",
+      "title": "Property Brothers: Forever Home",
+      "sub_title": "Nicole & Graeme",
+      "desc": "A woman is thrilled to raise her kids in the home she grew up in, but a house that used to work for three no longer functions for their family of five; Drew and Jonathan rework the spaces to create a modern home that blends the old with the new.",
+      "date": "2020",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Series",
+        "Reality",
+        "House/garden",
+        "Home improvement"
+      ],
+      "episode": "S3 E14",
+      "icon": "http://dtil.tmsimg.com/assets/p16607789_b_h8_bg.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Jonathan Scott",
+          "Drew Scott"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-07T22:00:00+05:00",
+      "stop": "2026-06-07T23:00:00+05:00",
+      "title": "Masters of Flip",
+      "sub_title": "Go Blonde",
+      "desc": "Kortney and Dave take on a flip with a big addition and multiple living spaces.",
+      "date": "2017",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Reality",
+        "House/garden",
+        "Home improvement"
+      ],
+      "episode": "S2 E13",
+      "icon": "http://dtil.tmsimg.com/assets/p11680488_b_h10_at.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Kortney Wilson",
+          "Dave Wilson"
+        ]
+      }
     }
   ]
 }

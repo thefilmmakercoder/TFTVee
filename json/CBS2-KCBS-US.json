@@ -4,89 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-07T12:30:00+05:00",
-      "stop": "2026-06-07T13:00:00+05:00",
-      "title": "Inside Edition Weekend",
-      "desc": "A news magazine show covering entertainment news and celebrity reports; investigative reports dig into top stories and human interest headlines.",
-      "date": "2026",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Series",
-        "Talk"
-      ],
-      "episode": "S38 E39",
-      "icon": "http://dtil.tmsimg.com/assets/p186638_b_h10_ac.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Mary Calvi"
-        ]
-      }
-    },
-    {
-      "start": "2026-06-07T13:00:00+05:00",
-      "stop": "2026-06-07T14:00:00+05:00",
-      "title": "Fire Country",
-      "sub_title": "I Do",
-      "desc": "Gabriela prepares to walk down the aisle on her wedding day; Bode receives some surprising news.",
-      "date": "2024",
-      "language": "en",
-      "rating": "TV14",
-      "categories": [
-        "Series",
-        "Drama"
-      ],
-      "episode": "S2 E10",
-      "icon": "http://dtil.tmsimg.com/assets/p22213607_b_h8_al.jpg?w=960&h=540",
-      "credits": {
-        "director": [
-          "Bill Purple"
-        ],
-        "actor": [
-          "Max Thieriot",
-          "Billy Burke",
-          "Kevin Alejandro"
-        ]
-      }
-    },
-    {
-      "start": "2026-06-07T14:00:00+05:00",
-      "stop": "2026-06-07T15:00:00+05:00",
-      "title": "Fire Country",
-      "sub_title": "Backfire",
-      "desc": "The station 42 and Three Rock crews are called to a backfire started by a private firefighting company to protect a high-end winery.",
-      "date": "2023",
-      "language": "en",
-      "rating": "TV14",
-      "categories": [
-        "Series",
-        "Drama"
-      ],
-      "episode": "S1 E21",
-      "icon": "http://dtil.tmsimg.com/assets/p22213607_b_h8_al.jpg?w=960&h=540",
-      "credits": {
-        "director": [
-          "Max Thieriot"
-        ],
-        "actor": [
-          "Max Thieriot",
-          "Billy Burke",
-          "Kevin Alejandro"
-        ]
-      }
-    },
-    {
-      "start": "2026-06-07T15:00:00+05:00",
-      "stop": "2026-06-07T15:30:00+05:00",
-      "title": "Protect Your Family From Identity Theft",
-      "desc": "Every 5 seconds there's a victim of identity theft; LifeLock helps alert you, restore your identity, and reimburse lost funds\u2014leading the way in protecting families every day.",
-      "language": "en",
-      "categories": [
-        "Consumer"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p33079900_st_h10_aa.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-06-07T15:30:00+05:00",
       "stop": "2026-06-07T16:00:00+05:00",
       "title": "Paid Programming",
@@ -220,6 +137,64 @@
       ],
       "episode": "E35",
       "icon": "http://dtil.tmsimg.com/assets/p20221797_b_h8_ag.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-06-07T22:30:00+05:00",
+      "stop": "2026-06-07T23:30:00+05:00",
+      "title": "PGA Tour Studios: Credentialed - the Memorial Tournament",
+      "desc": "An all-access look into the tournament week through 54 holes. In addition to what has happened both inside and outside the ropes at Muirfield, this special edition of Credentialed will also celebrate the 50-year history of the Memorial Tournament.",
+      "date": "2026",
+      "language": "en",
+      "categories": [
+        "Special",
+        "Golf"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p33195050_b_h8_aa.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-06-07T23:30:00+05:00",
+      "stop": "2026-06-08T03:00:00+05:00",
+      "title": "Live: PGA Tour Golf",
+      "desc": "Elite golfers battle for the championship in the final round of the Memorial Tournament. Competitors navigate the demanding course at Muirfield Village Golf Club, relying on precise iron play and poise under pressure to secure a prestigious victory.",
+      "language": "en",
+      "categories": [
+        "Sports",
+        "Golf"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p32945685_b_h8_ab.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-06-08T03:00:00+05:00",
+      "stop": "2026-06-08T04:00:00+05:00",
+      "title": "Sports Central",
+      "desc": "KCBS delivers a comprehensive news and entertainment experience, specializing in award-winning local journalism, live breaking news coverage for the Los Angeles metropolitan area, and a premier lineup of CBS network dramas, comedies, and sporting events.",
+      "date": "2023",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p26402663_b_h10_ac.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-06-08T04:00:00+05:00",
+      "stop": "2026-06-08T05:00:00+05:00",
+      "title": "60 Minutes",
+      "desc": "Newsmagazine with features focusing on people, and events in the news and behind the headlines.",
+      "date": "2026",
+      "language": "en",
+      "categories": [
+        "Series",
+        "Newsmagazine"
+      ],
+      "episode": "S58 E36",
+      "icon": "http://dtil.tmsimg.com/assets/p31308310_b_h10_ae.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Lesley Stahl",
+          "Scott Pelley",
+          "Anderson Cooper"
+        ]
+      }
     }
   ]
 }

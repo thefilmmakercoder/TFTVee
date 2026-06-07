@@ -4,18 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-07T06:55:00+05:00",
-      "stop": "2026-06-07T11:00:00+05:00",
-      "title": "Teleshopping",
-      "desc": "Teleshopping.",
-      "language": "en",
-      "categories": [
-        "Specialist",
-        "Shopping"
-      ],
-      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/Film-4-UK.png"
-    },
-    {
       "start": "2026-06-07T11:00:00+05:00",
       "stop": "2026-06-07T15:00:00+05:00",
       "title": "Teleshopping",
@@ -160,6 +148,18 @@
         "Shopping"
       ],
       "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/Film-4-UK.png"
+    },
+    {
+      "start": "2026-06-08T12:00:00+05:00",
+      "stop": "2026-06-08T12:30:00+05:00",
+      "title": "LumoTV: DeSign",
+      "desc": "Chris helps Connell, a single dad raising two boys after losing his wife, redesign his home for safer family living.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Home"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/07151f13-ad91-40f7-b684-fd38b641a530/16-9"
     }
   ]
 }
