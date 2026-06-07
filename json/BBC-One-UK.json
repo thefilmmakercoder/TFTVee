@@ -4,18 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-07T04:55:00+05:00",
-      "stop": "2026-06-07T10:00:00+05:00",
-      "title": "BBC News",
-      "desc": "BBC One joins the BBC's rolling news channel for a night of news.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/50f63698-add0-419e-846c-611dec1b90c3/16-9"
-    },
-    {
       "start": "2026-06-07T10:00:00+05:00",
       "stop": "2026-06-07T13:00:00+05:00",
       "title": "Breakfast",
@@ -145,6 +133,18 @@
         "Factual"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/ad9e1fff-e0f7-4012-9665-dbb2914ee436/16-9"
+    },
+    {
+      "start": "2026-06-07T18:20:00+05:00",
+      "stop": "2026-06-07T19:00:00+05:00",
+      "title": "Escape to the Country",
+      "desc": "Ginny Buckley helps a couple who have been living in Canada since the 1980s find a new home in Dorset.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Gradening"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/b598efc5-807d-4849-bf1f-48606ad9f146/16-9"
     }
   ]
 }

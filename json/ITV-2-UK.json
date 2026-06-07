@@ -4,55 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-07T07:00:00+05:00",
-      "stop": "2026-06-07T10:00:00+05:00",
-      "title": "Teleshopping",
-      "desc": "Shopping from home.",
-      "language": "en",
-      "categories": [
-        "Specialist",
-        "Shopping"
-      ],
-      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/ITV-2-UK.png"
-    },
-    {
-      "start": "2026-06-07T10:00:00+05:00",
-      "stop": "2026-06-07T11:00:00+05:00",
-      "title": "Deal or No Deal",
-      "desc": "Stephen Mulhern hosts as one of the brave contestants takes on the infamous Banker and opens those iconic 22 red boxes with the chance of winning a life-changing cash prize.",
-      "language": "en",
-      "categories": [
-        "Entertainment",
-        "Game Show"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/8cacb81d-8763-3675-89ca-7d7aa3f40c6a/16-9"
-    },
-    {
-      "start": "2026-06-07T11:00:00+05:00",
-      "stop": "2026-06-07T11:30:00+05:00",
-      "title": "Backyard Builds",
-      "sub_title": "Sandra and David",
-      "desc": "Life-Sized Sister Playhouse: Home improvement programme. Brian and Sarah build a colourful playland getaway that also has a decked-out BBQ zone and dining area.",
-      "language": "en",
-      "categories": [
-        "Entertainment",
-        "Home"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/9c903205-3fb6-432f-a56a-931fbd5c11b6/16-9"
-    },
-    {
-      "start": "2026-06-07T11:30:00+05:00",
-      "stop": "2026-06-07T12:30:00+05:00",
-      "title": "Dress to Impress",
-      "desc": "Fashion entrepreneur Caz hopes to be impressed by the style choices of three single ladies. Will any of them shine.",
-      "language": "en",
-      "categories": [
-        "Entertainment",
-        "Game Show"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/ca7d5c18-c77a-44e1-848d-514e07107966/16-9"
-    },
-    {
       "start": "2026-06-07T12:30:00+05:00",
       "stop": "2026-06-07T13:25:00+05:00",
       "title": "Million Dollar Listing: LA",
@@ -149,6 +100,54 @@
         "Family"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/3af32ce4-212d-4296-9fba-b4b07d106833/16-9"
+    },
+    {
+      "start": "2026-06-07T20:30:00+05:00",
+      "stop": "2026-06-07T20:35:00+05:00",
+      "title": "FYI Daily",
+      "desc": "Latest news from the world of entertainment.",
+      "language": "en",
+      "categories": [
+        "News & Documentary",
+        "Showbiz"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/fb312f28-3070-47d8-a635-941d44940903/16-9"
+    },
+    {
+      "start": "2026-06-07T20:35:00+05:00",
+      "stop": "2026-06-07T21:20:00+05:00",
+      "title": "Charlotte's Web",
+      "desc": "Family adventure film starring Dakota Fanning and featuring the voice of Julia Roberts, 2006. A spider hatches a plan to save her pig best friend from being taken to an abattoir.",
+      "language": "en",
+      "categories": [
+        "Movie",
+        "Family"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/3af32ce4-212d-4296-9fba-b4b07d106833/16-9"
+    },
+    {
+      "start": "2026-06-07T21:20:00+05:00",
+      "stop": "2026-06-07T22:20:00+05:00",
+      "title": "Ice Age",
+      "desc": "Animated family comedy film featuring the voices of Ray Romano and John Leguizamo, 2002. A mammoth, sloth, and sabretooth tiger try to return a human baby to its migrating tribe.",
+      "language": "en",
+      "categories": [
+        "Movie",
+        "Animation"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/91855ddd-0d1e-4c0d-8124-cc1a55246d6c/16-9"
+    },
+    {
+      "start": "2026-06-07T22:20:00+05:00",
+      "stop": "2026-06-07T22:25:00+05:00",
+      "title": "FYI Daily",
+      "desc": "Latest news from the world of entertainment.",
+      "language": "en",
+      "categories": [
+        "News & Documentary",
+        "Showbiz"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/635bb79e-cc22-442c-bbe1-38685983ee02/16-9"
     }
   ]
 }

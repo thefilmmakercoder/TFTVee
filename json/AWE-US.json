@@ -4,97 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-07T09:30:00+05:00",
-      "stop": "2026-06-07T10:00:00+05:00",
-      "title": "The Jet Set",
-      "sub_title": "The Loire vs. Anuradhapura (Sri Lanka)",
-      "desc": "In Amboise, Gill explores royal history, wine and Leonardo da Vinci's resting place; Richard tours Sri Lanka's ancient temples and ruins on his own historical journey.",
-      "date": "2024",
-      "language": "en",
-      "categories": [
-        "Series",
-        "Community",
-        "Talk",
-        "Travel",
-        "Adventure"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p22579202_b_h10_aa.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-06-07T10:00:00+05:00",
-      "stop": "2026-06-07T10:30:00+05:00",
-      "title": "Behind the Gates",
-      "sub_title": "Hills of Hollywood",
-      "desc": "A tour of a hilltop residence; inside a home which takes its cues from Aspen; a historical mansion in Santa Barbara.",
-      "date": "2017",
-      "language": "en",
-      "rating": "TVG",
-      "categories": [
-        "Series",
-        "Travel",
-        "House/garden"
-      ],
-      "episode": "S3 E40",
-      "icon": "http://dtil.tmsimg.com/assets/p13227213_b_h10_ab.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-06-07T10:30:00+05:00",
-      "stop": "2026-06-07T11:00:00+05:00",
-      "title": "A Taste of Travel",
-      "desc": "Explorers journey to idyllic places to try local cuisine, find out what destinations have to offer and share travel trips along the way.",
-      "date": "2012",
-      "language": "en",
-      "rating": "TVG",
-      "categories": [
-        "Travel"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p16445770_b_h10_aa.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-06-07T11:00:00+05:00",
-      "stop": "2026-06-07T12:00:00+05:00",
-      "title": "Dream Cruises",
-      "sub_title": "MSC Fantasia",
-      "desc": "The Western Mediterranean Sea.",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Series",
-        "Travel",
-        "Documentary"
-      ],
-      "episode": "S1 E2",
-      "icon": "http://dtil.tmsimg.com/assets/p9789899_b_h10_ae.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-06-07T12:00:00+05:00",
-      "stop": "2026-06-07T12:30:00+05:00",
-      "title": "Facing Waves",
-      "sub_title": "Paddling Bon Echo Provincial Park and the Thousand Islands",
-      "desc": "Ken Whiting sets out by sea kayak to explore Bon Echo Park along with the Thousand Islands.",
-      "date": "2021",
-      "language": "en",
-      "rating": "TVG",
-      "categories": [
-        "Series",
-        "Kayaking",
-        "Outdoors"
-      ],
-      "episode": "S8 E5",
-      "icon": "http://dtil.tmsimg.com/assets/p9897159_b_h8_ae.jpg?w=960&h=540",
-      "credits": {
-        "director": [
-          "Alex Heaslip",
-          "Brendan Mark"
-        ],
-        "actor": [
-          "Ken Whiting",
-          "Luke Hopkins",
-          "Alex Kellar"
-        ]
-      }
-    },
-    {
       "start": "2026-06-07T12:30:00+05:00",
       "stop": "2026-06-07T13:00:00+05:00",
       "title": "Tasting America",
@@ -223,6 +132,83 @@
           "Art Cohen"
         ]
       }
+    },
+    {
+      "start": "2026-06-07T17:00:00+05:00",
+      "stop": "2026-06-07T17:30:00+05:00",
+      "title": "Jet Set",
+      "sub_title": "Florence & Northern Ireland",
+      "desc": "Richard explores \"Game of Thrones\" filming locations in Northern Ireland, including a possibly haunted hotel; Gill visits Florence, Italy, and historic sites.",
+      "language": "en",
+      "categories": [
+        "Series",
+        "Travel"
+      ],
+      "episode": "S1 E7",
+      "icon": "http://dtil.tmsimg.com/assets/p14688355_b_h10_aa.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-06-07T17:30:00+05:00",
+      "stop": "2026-06-07T18:00:00+05:00",
+      "title": "Behind the Gates",
+      "sub_title": "Modern Luxury",
+      "desc": "A tour of a Bel Air modern luxury pad; inside a Beverley Hills mansion which resembles a luxury hotel; a massive luxury mansion in Malibu.",
+      "date": "2017",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Series",
+        "Travel",
+        "House/garden"
+      ],
+      "episode": "S3 E41",
+      "icon": "http://dtil.tmsimg.com/assets/p13227213_b_h10_ab.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-06-07T18:00:00+05:00",
+      "stop": "2026-06-07T18:30:00+05:00",
+      "title": "A Taste of Travel",
+      "desc": "Explorers journey to idyllic places to try local cuisine, find out what destinations have to offer and share travel trips along the way.",
+      "date": "2012",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Travel"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p16445770_b_h10_aa.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-06-07T18:30:00+05:00",
+      "stop": "2026-06-07T19:30:00+05:00",
+      "title": "Dream Cruises",
+      "sub_title": "Enchanting Castles",
+      "desc": "A look at what are considered to be some of the best cruises in the world.",
+      "date": "2020",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Series",
+        "Travel",
+        "Documentary"
+      ],
+      "episode": "S6 E4",
+      "icon": "http://dtil.tmsimg.com/assets/p9789899_b_h10_ae.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-06-07T19:30:00+05:00",
+      "stop": "2026-06-07T20:00:00+05:00",
+      "title": "Selling Mega Mansions",
+      "sub_title": "Seaside Shangri-La",
+      "desc": "Retiree Scott wants to move into a turnkey mansion, but Donna wants to hold Scott to his promise they will build their dream house on raw land.",
+      "date": "2018",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Series",
+        "House/garden"
+      ],
+      "episode": "S3 E10",
+      "icon": "http://dtil.tmsimg.com/assets/p12720929_b_h10_ab.jpg?w=960&h=540"
     }
   ]
 }
