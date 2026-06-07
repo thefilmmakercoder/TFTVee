@@ -4,44 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-07T17:30:00+05:00",
-      "stop": "2026-06-07T18:00:00+05:00",
-      "title": "Paid Programming",
-      "desc": "Paid programming.",
-      "language": "en",
-      "rating": "TVG",
-      "categories": [
-        "Consumer",
-        "Shopping",
-        "Variety"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-06-07T18:00:00+05:00",
-      "stop": "2026-06-07T19:00:00+05:00",
-      "title": "Gordon Ramsay: Uncharted",
-      "sub_title": "Alaska's Panhandle",
-      "desc": "Gordon Ramsay journeys to the Alaskan Panhandle to discover Alaskan cuisine; he learns how to cook seal with a native Tlingit elder, climbs a rock face in a snowstorm and goes grouse hunting before preparing a feast with local chef Lionel Uddipa.",
-      "date": "2019",
-      "language": "en",
-      "rating": "TV14",
-      "categories": [
-        "Series",
-        "Reality",
-        "Cooking",
-        "Travel",
-        "Adventure"
-      ],
-      "episode": "S1 E6",
-      "icon": "http://dtil.tmsimg.com/assets/p16990773_b_h8_bk.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Gordon Ramsay"
-        ]
-      }
-    },
-    {
       "start": "2026-06-07T19:00:00+05:00",
       "stop": "2026-06-07T20:00:00+05:00",
       "title": "Gordon Ramsay: Uncharted",
@@ -281,6 +243,46 @@
           "Stanley Tucci"
         ]
       }
+    },
+    {
+      "start": "2026-06-08T05:00:00+05:00",
+      "stop": "2026-06-08T06:00:00+05:00",
+      "title": "Tucci in Italy",
+      "sub_title": "Naples & Campania",
+      "desc": "Stanley discovers how adversity has shaped this famed region and its capital.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Documentary"
+      ],
+      "episode": "S2 E1",
+      "icon": "http://dtil.tmsimg.com/assets/p32877676_b_h8_ac.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Simon Raikes"
+        ],
+        "actor": [
+          "Stanley Tucci"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-08T06:00:00+05:00",
+      "stop": "2026-06-08T07:04:00+05:00",
+      "title": "Best of the World With Antoni Porowski",
+      "sub_title": "Mexico City",
+      "desc": "Antoni explores Mexico City's incredible food, architecture and vibrant culture.",
+      "date": "2026",
+      "language": "en",
+      "rating": "12",
+      "categories": [
+        "Series",
+        "Travel"
+      ],
+      "episode": "S1 E1",
+      "icon": "http://dtil.tmsimg.com/assets/p33072357_b_h8_ab.jpg?w=960&h=540"
     }
   ]
 }

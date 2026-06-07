@@ -4,42 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-07T17:00:00+05:00",
-      "stop": "2026-06-07T18:00:00+05:00",
-      "title": "Eyewitness News 5AM",
-      "desc": "News coverage to start the day.",
-      "date": "2004",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p676994_b_h8_af.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-06-07T18:00:00+05:00",
-      "stop": "2026-06-07T19:00:00+05:00",
-      "title": "Good Morning America",
-      "desc": "Early morning news and entertainment program that covers important issues with key figures from around the world and a wide spectrum of topics, including medicine, finance, consumer issues, computer technology, education and gardening.",
-      "date": "2026",
-      "language": "en",
-      "categories": [
-        "Series",
-        "Talk",
-        "News",
-        "Variety",
-        "Public affairs"
-      ],
-      "episode": "E181",
-      "icon": "http://dtil.tmsimg.com/assets/p31385280_b_h10_aa.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Whit Johnson",
-          "Janai Norman",
-          "Gio Benitez"
-        ]
-      }
-    },
-    {
       "start": "2026-06-07T19:00:00+05:00",
       "stop": "2026-06-07T20:00:00+05:00",
       "title": "Eyewitness News 7AM",
@@ -206,6 +170,41 @@
           "Art Edmonds"
         ]
       }
+    },
+    {
+      "start": "2026-06-08T04:30:00+05:00",
+      "stop": "2026-06-08T05:00:00+05:00",
+      "title": "Hearts of Heroes",
+      "sub_title": "Peril and Preservation",
+      "desc": "First responders race to rescue a skydiver left dangling in high voltage power lines; when a fast-moving fire tears through a historic building, crews scramble to protect priceless, irreplaceable documents before they go up in smoke.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Series",
+        "Reality",
+        "Nature",
+        "Science"
+      ],
+      "episode": "S7 E22",
+      "icon": "http://dtil.tmsimg.com/assets/p16722748_b_h10_ac.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Ginger Zee"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-08T05:00:00+05:00",
+      "stop": "2026-06-08T05:30:00+05:00",
+      "title": "Eyewitness News 5PM",
+      "desc": "Early evening news.",
+      "date": "2016",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p12821107_b_h8_aa.jpg?w=960&h=540"
     }
   ]
 }

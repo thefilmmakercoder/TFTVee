@@ -4,18 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-07T17:00:00+05:00",
-      "stop": "2026-06-07T18:00:00+05:00",
-      "title": "CBS LA Mornings at 5am",
-      "desc": "Start your day with CBS LA Mornings, covering breaking stories from The Desk, and NEXT Weather and Traffic for Southern California.",
-      "date": "2025",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p31308781_b_h10_aa.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-06-07T18:00:00+05:00",
       "stop": "2026-06-07T19:30:00+05:00",
       "title": "CBS News Sunday Morning",
@@ -204,6 +192,18 @@
           "Andrew Rannells"
         ]
       }
+    },
+    {
+      "start": "2026-06-08T11:00:00+05:00",
+      "stop": "2026-06-08T11:35:00+05:00",
+      "title": "CBS LA at 11pm",
+      "desc": "Join the CBS LA team for stories from communities around SoCal, breaking news from The Desk, and NEXT Weather from the Weathersphere.",
+      "date": "2025",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p31308578_b_h10_aa.jpg?w=960&h=540"
     }
   ]
 }

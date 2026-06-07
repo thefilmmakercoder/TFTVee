@@ -4,18 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-07T17:00:00+05:00",
-      "stop": "2026-06-07T17:15:00+05:00",
-      "title": "ITV News",
-      "desc": "National and international news with reports and analysis from ITV's Correspondents in the UK and around the world as well as the latest major sports results.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/a175f223-2ee7-4923-a60d-a981fc3d162d/16-9"
-    },
-    {
       "start": "2026-06-07T17:15:00+05:00",
       "stop": "2026-06-07T19:25:00+05:00",
       "title": "Dr No",
@@ -146,6 +134,18 @@
         "Chat Show"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/56231b49-7bcb-486a-8717-d1b8f25da938/16-9"
+    },
+    {
+      "start": "2026-06-08T02:25:00+05:00",
+      "stop": "2026-06-08T02:45:00+05:00",
+      "title": "ITV News",
+      "desc": "National and international news with reports and analysis from ITV's Correspondents in the UK and around the world as well as the latest major sports results.",
+      "language": "en",
+      "categories": [
+        "News & Documentary",
+        "News"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/188a017e-a3c6-4682-ac27-0c7d92f90bb2/16-9"
     }
   ]
 }
