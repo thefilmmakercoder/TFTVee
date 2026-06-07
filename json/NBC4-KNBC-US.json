@@ -4,42 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-07T19:00:00+05:00",
-      "stop": "2026-06-07T20:00:00+05:00",
-      "title": "Today in LA Weekend",
-      "desc": "The latest local news, weather and investigative stories impacting the community.",
-      "date": "2006",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p960593_b_h10_af.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-06-07T20:00:00+05:00",
-      "stop": "2026-06-07T21:00:00+05:00",
-      "title": "Meet the Press",
-      "desc": "President Donald Trump.",
-      "date": "2026",
-      "language": "en",
-      "categories": [
-        "Series",
-        "Talk",
-        "Interview",
-        "Politics",
-        "News",
-        "Public affairs"
-      ],
-      "episode": "S79 E20",
-      "icon": "http://dtil.tmsimg.com/assets/p184068_b_h8_ad.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Kristen Welker",
-          "Donald Trump"
-        ]
-      }
-    },
-    {
       "start": "2026-06-07T21:00:00+05:00",
       "stop": "2026-06-07T21:30:00+05:00",
       "title": "NBC4 News Conference",
@@ -176,6 +140,30 @@
         "Baseball"
       ],
       "icon": "http://dtil.tmsimg.com/assets/GNLZZGG0034DJF9.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-06-08T08:00:00+05:00",
+      "stop": "2026-06-08T08:30:00+05:00",
+      "title": "NBC4 Postgame Live",
+      "desc": "Stay informed with the latest breaking news and headlines.",
+      "date": "2026",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p32304000_b_h10_aa.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-06-08T08:30:00+05:00",
+      "stop": "2026-06-08T09:30:00+05:00",
+      "title": "NBC4 News",
+      "desc": "Breaking news, local stories, weather reports and events taking place in Southern California.",
+      "date": "2022",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p25191676_b_h10_aa.jpg?w=960&h=540"
     }
   ]
 }

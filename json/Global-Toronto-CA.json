@@ -4,39 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-07T19:30:00+05:00",
-      "stop": "2026-06-07T20:00:00+05:00",
-      "title": "Paid Programming",
-      "desc": "Paid programming.",
-      "language": "en",
-      "rating": "TVG",
-      "categories": [
-        "Consumer",
-        "Shopping",
-        "Variety"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-06-07T20:00:00+05:00",
-      "stop": "2026-06-07T20:30:00+05:00",
-      "title": "The West Block",
-      "desc": "Concerns of Canadians are brought to the politicians.",
-      "date": "2026",
-      "language": "en",
-      "categories": [
-        "Series",
-        "Politics"
-      ],
-      "episode": "E23",
-      "icon": "http://dtil.tmsimg.com/assets/p8843295_b_h10_aa.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Mercedes Stephenson"
-        ]
-      }
-    },
-    {
       "start": "2026-06-07T20:30:00+05:00",
       "stop": "2026-06-07T21:00:00+05:00",
       "title": "Focus Ontario",
@@ -243,6 +210,47 @@
           "Lesley Stahl",
           "Scott Pelley",
           "Anderson Cooper"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-08T05:00:00+05:00",
+      "stop": "2026-06-08T06:00:00+05:00",
+      "title": "Crime Beat",
+      "sub_title": "Not Without Her Daughter",
+      "desc": "Looking into some of Canada's most infamous criminal cases with extensive archives and intimate family interviews and exploring the lasting impacts on the community and justice system.",
+      "date": "2025",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "Series",
+        "Crime"
+      ],
+      "episode": "S7 E3",
+      "icon": "http://dtil.tmsimg.com/assets/p17916553_b_h8_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Antony Robart"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-08T06:00:00+05:00",
+      "stop": "2026-06-08T06:30:00+05:00",
+      "title": "Border Security: America's Front Line",
+      "desc": "A traveler is suspected of smuggling cocaine; an officer questions a traveler with low funds and a lengthy travel plan; a family from Canada traveling with a puppy is barking up the wrong tree.",
+      "date": "2020",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "Series",
+        "Documentary",
+        "Crime"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p26319781_b_h10_ab.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Jeff Cole"
         ]
       }
     }

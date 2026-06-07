@@ -4,14 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-07T09:30:00+05:00",
-      "stop": "2026-06-07T15:30:00+05:00",
-      "title": "..programmes start at 7.00pm",
-      "desc": "BBC Three delivers bold and provocative content for younger audiences, featuring groundbreaking documentaries, experimental comedy, and fresh drama.",
-      "language": "en",
-      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/BBC-Three-UK.png"
-    },
-    {
       "start": "2026-06-07T15:30:00+05:00",
       "stop": "2026-06-07T21:30:00+05:00",
       "title": "..programmes start at 7.00pm",
@@ -130,6 +122,18 @@
         "Factual"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/7811b57c-d8a4-4a6a-8cc7-9257d9b3d6c2/16-9"
+    },
+    {
+      "start": "2026-06-08T05:20:00+05:00",
+      "stop": "2026-06-08T05:55:00+05:00",
+      "title": "Just Act Normal",
+      "desc": "The siblings navigate life with Feelgood, while Ms Jenkins grows concerned about Tanika. Contains some strong language and adult humour.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Comedy"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/ba08f64e-4ab8-4a12-914f-fb80f8aaabe6/16-9"
     }
   ]
 }

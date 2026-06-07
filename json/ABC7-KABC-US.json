@@ -4,18 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-07T19:00:00+05:00",
-      "stop": "2026-06-07T20:00:00+05:00",
-      "title": "Eyewitness News 7AM",
-      "desc": "News coverage to start the day.",
-      "date": "2004",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p677007_b_h8_ae.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-06-07T20:00:00+05:00",
       "stop": "2026-06-07T21:00:00+05:00",
       "title": "This Week With George Stephanopoulos",
@@ -205,6 +193,25 @@
         "News"
       ],
       "icon": "http://dtil.tmsimg.com/assets/p12821107_b_h8_aa.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-06-08T05:30:00+05:00",
+      "stop": "2026-06-08T06:00:00+05:00",
+      "title": "ABC World News Tonight With David Muir",
+      "desc": "Delivering the news that matters most.",
+      "date": "2026",
+      "language": "en",
+      "categories": [
+        "Series",
+        "News"
+      ],
+      "episode": "E158",
+      "icon": "http://dtil.tmsimg.com/assets/p10880351_b_h8_ah.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "David Muir"
+        ]
+      }
     }
   ]
 }

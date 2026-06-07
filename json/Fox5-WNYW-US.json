@@ -4,58 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-07T19:00:00+05:00",
-      "stop": "2026-06-07T20:00:00+05:00",
-      "title": "FOX News Sunday",
-      "desc": "Sen. James Lankford ( R-Okla.); Sen. Mark Warner (D-Va.); panel with Horace Cooper, Mollie Hemingway, Marie Harf and Josh Kraushaar.",
-      "date": "2026",
-      "language": "en",
-      "categories": [
-        "Series",
-        "Talk",
-        "News",
-        "Public affairs",
-        "Politics"
-      ],
-      "episode": "E23",
-      "icon": "http://dtil.tmsimg.com/assets/p21244589_b_h8_ae.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Shannon Bream",
-          "James Lankford",
-          "Mark Warner"
-        ]
-      }
-    },
-    {
-      "start": "2026-06-07T20:00:00+05:00",
-      "stop": "2026-06-07T20:30:00+05:00",
-      "title": "Paid Programming",
-      "desc": "Paid programming.",
-      "language": "en",
-      "rating": "TVG",
-      "categories": [
-        "Consumer",
-        "Shopping",
-        "Variety"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-06-07T20:30:00+05:00",
-      "stop": "2026-06-07T21:00:00+05:00",
-      "title": "Paid Programming",
-      "desc": "Paid programming.",
-      "language": "en",
-      "rating": "TVG",
-      "categories": [
-        "Consumer",
-        "Shopping",
-        "Variety"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-06-07T21:00:00+05:00",
       "stop": "2026-06-07T21:30:00+05:00",
       "title": "Victim of Nursing Home Abuse?",
@@ -176,6 +124,52 @@
         "News"
       ],
       "icon": "http://dtil.tmsimg.com/assets/p19319081_b_h8_ab.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-06-08T09:00:00+05:00",
+      "stop": "2026-06-08T09:30:00+05:00",
+      "title": "Fox 5 Sports Extra",
+      "desc": "Regional sports coverage.",
+      "date": "2008",
+      "language": "en",
+      "categories": [
+        "Sports talk"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p692435_b_h8_aa.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-06-08T09:30:00+05:00",
+      "stop": "2026-06-08T10:00:00+05:00",
+      "title": "FOX Local Futbol HQ",
+      "desc": "A look at the stories, rivalries and dreams driving nations towards soccer's ultimate prize, the FIFA World Cup trophy.",
+      "date": "2025",
+      "language": "en",
+      "categories": [
+        "Soccer"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p31774634_b_h8_ab.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-06-08T10:00:00+05:00",
+      "stop": "2026-06-08T11:00:00+05:00",
+      "title": "Extra",
+      "desc": "Inside the entertainment newsgathering process, as reporters coast-to-coast break headlines, advance the stories of the day and sit down with celebrities.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Newsmagazine",
+        "Entertainment"
+      ],
+      "episode": "S32 E240",
+      "icon": "http://dtil.tmsimg.com/assets/p30948222_b_h8_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Mona Kosar Abdi",
+          "Terri Seymour"
+        ]
+      }
     }
   ]
 }
