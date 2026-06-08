@@ -4,20 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-08T00:00:00+05:00",
-      "stop": "2026-06-08T00:30:00+05:00",
-      "title": "Sunrise Early News",
-      "sub_title": "Monday 8 June 2026",
-      "desc": "Wake up to a better breakfast with Edwina Bartholomew for all the latest news, sport and weather.",
-      "language": "en",
-      "rating": "NR",
-      "categories": [
-        "News"
-      ],
-      "episode": "S26 E113",
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/434344/image/334x188"
-    },
-    {
       "start": "2026-06-08T00:30:00+05:00",
       "stop": "2026-06-08T05:00:00+05:00",
       "title": "Sunrise",
@@ -163,6 +149,20 @@
       ],
       "episode": "S16 E1",
       "icon": "https://www.fetchtv.com.au/v2/epg/program/180168/image/334x188"
+    },
+    {
+      "start": "2026-06-08T16:00:00+05:00",
+      "stop": "2026-06-08T17:00:00+05:00",
+      "title": "The Rookie",
+      "sub_title": "Czech Mate",
+      "desc": "The LAPD, FBI and Interpol work with Monica Stevens in Prague to target high-value terrorists operating within and outside the United States.",
+      "language": "en",
+      "rating": "M",
+      "categories": [
+        "Drama"
+      ],
+      "episode": "S8 E1",
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/1403985/image/334x188"
     }
   ]
 }

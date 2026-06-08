@@ -4,37 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-08T03:00:00+05:00",
-      "stop": "2026-06-08T03:30:00+05:00",
-      "title": "Eyewitness News at 6",
-      "desc": "Stay informed with the latest breaking news and headlines.",
-      "date": "2017",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p13769035_b_h8_ab.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-06-08T03:30:00+05:00",
-      "stop": "2026-06-08T04:00:00+05:00",
-      "title": "ABC World News Tonight With David Muir",
-      "desc": "Delivering the news that matters most.",
-      "date": "2026",
-      "language": "en",
-      "categories": [
-        "Series",
-        "News"
-      ],
-      "episode": "E158",
-      "icon": "http://dtil.tmsimg.com/assets/p10880351_b_h8_ah.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "David Muir"
-        ]
-      }
-    },
-    {
       "start": "2026-06-08T04:00:00+05:00",
       "stop": "2026-06-08T05:00:00+05:00",
       "title": "America's Funniest Home Videos",
@@ -252,6 +221,42 @@
         "News"
       ],
       "icon": "http://dtil.tmsimg.com/assets/p677214_b_h8_ad.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-06-08T15:00:00+05:00",
+      "stop": "2026-06-08T16:00:00+05:00",
+      "title": "Eyewitness News This Morning",
+      "desc": "News coverage to start the day.",
+      "date": "2007",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p677214_b_h8_ad.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-06-08T16:00:00+05:00",
+      "stop": "2026-06-08T18:00:00+05:00",
+      "title": "Good Morning America",
+      "desc": "Singer Ann Wilson; author Jared Freid; cookbook authors Matthew Scialabba and Melissa Pellegrino; Deals & Steals with Tory Johnson.",
+      "date": "2026",
+      "language": "en",
+      "categories": [
+        "Series",
+        "Talk",
+        "News",
+        "Variety",
+        "Public affairs"
+      ],
+      "episode": "E182",
+      "icon": "http://dtil.tmsimg.com/assets/p31385280_b_h10_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "George Stephanopoulos",
+          "Robin Roberts",
+          "Michael Strahan"
+        ]
+      }
     }
   ]
 }

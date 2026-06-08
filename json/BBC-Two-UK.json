@@ -4,17 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-08T02:00:00+05:00",
-      "stop": "2026-06-08T02:45:00+05:00",
-      "title": "Later... with Jools Holland",
-      "desc": "With music from Ellie Goulding, Mitski, Pigeon, Wesley Joseph and Westside Cowboy. Contains some strong language.",
-      "language": "en",
-      "categories": [
-        "Music & Radio"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/0383fdda-d811-4b5e-8602-9a89ee06aeb4/16-9"
-    },
-    {
       "start": "2026-06-08T02:45:00+05:00",
       "stop": "2026-06-08T04:50:00+05:00",
       "title": "Unforgiven",
@@ -140,6 +129,18 @@
         "News"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/45f2f94d-ce8d-4c05-b3a7-0fb10d53f101/16-9"
+    },
+    {
+      "start": "2026-06-08T16:15:00+05:00",
+      "stop": "2026-06-08T17:00:00+05:00",
+      "title": "Politics Live",
+      "desc": "The big political issues of the day.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Factual"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/62edbd92-dc91-48ff-bfd8-fda45b220c2e/16-9"
     }
   ]
 }

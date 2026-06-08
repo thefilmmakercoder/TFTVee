@@ -4,30 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-07T23:30:00+05:00",
-      "stop": "2026-06-08T03:00:00+05:00",
-      "title": "Live: PGA Tour Golf",
-      "desc": "Elite golfers battle for the championship in the final round of the Memorial Tournament. Competitors navigate the demanding course at Muirfield Village Golf Club, relying on precise iron play and poise under pressure to secure a prestigious victory.",
-      "language": "en",
-      "categories": [
-        "Sports",
-        "Golf"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p32945685_b_h8_ab.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-06-08T03:00:00+05:00",
-      "stop": "2026-06-08T04:00:00+05:00",
-      "title": "Sports Central",
-      "desc": "KCBS delivers a comprehensive news and entertainment experience, specializing in award-winning local journalism, live breaking news coverage for the Los Angeles metropolitan area, and a premier lineup of CBS network dramas, comedies, and sporting events.",
-      "date": "2023",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p26402663_b_h10_ac.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-06-08T04:00:00+05:00",
       "stop": "2026-06-08T05:00:00+05:00",
       "title": "60 Minutes",
@@ -231,6 +207,30 @@
           "Don Bacon"
         ]
       }
+    },
+    {
+      "start": "2026-06-08T15:30:00+05:00",
+      "stop": "2026-06-08T16:00:00+05:00",
+      "title": "CBS News Roundup",
+      "desc": "The headlines one needs to know overnight... plus, a roundup of MoneyWatch, health, consumer and up-to-the-minute technology news, the latest weather, and inspiring stories of kindness and hope.",
+      "date": "2024",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p27490843_b_h8_ab.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-06-08T16:00:00+05:00",
+      "stop": "2026-06-08T16:30:00+05:00",
+      "title": "CBS News Mornings",
+      "desc": "CBS News Mornings broadcasts on weekdays and offers viewers up-to-date news, comprehensive weather forecasts, and highlights from the world of sports.",
+      "date": "2024",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p27236437_b_h8_ab.jpg?w=960&h=540"
     }
   ]
 }

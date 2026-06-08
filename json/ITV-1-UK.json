@@ -4,18 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-08T02:25:00+05:00",
-      "stop": "2026-06-08T02:45:00+05:00",
-      "title": "ITV News",
-      "desc": "National and international news with reports and analysis from ITV's Correspondents in the UK and around the world as well as the latest major sports results.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/188a017e-a3c6-4682-ac27-0c7d92f90bb2/16-9"
-    },
-    {
       "start": "2026-06-08T02:45:00+05:00",
       "stop": "2026-06-08T04:45:00+05:00",
       "title": "The Gentlemen",
@@ -148,6 +136,18 @@
         "News"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/f49659bc-10df-4740-9546-c9c10c8edea8/16-9"
+    },
+    {
+      "start": "2026-06-08T17:55:00+05:00",
+      "stop": "2026-06-08T18:00:00+05:00",
+      "title": "ITV News London",
+      "desc": "The latest news and weather from London and the South East.",
+      "language": "en",
+      "categories": [
+        "News & Documentary",
+        "News"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/91f14451-618e-4270-9ddd-10e89e66bb20/16-9"
     }
   ]
 }
