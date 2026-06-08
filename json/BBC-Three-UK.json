@@ -4,26 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-08T22:58:00+05:00",
-      "stop": "2026-06-08T23:00:00+05:00",
-      "title": "This is BBC Three",
-      "desc": "Programmes start at 7.00pm.",
-      "language": "en",
-      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/BBC-Three-UK.png"
-    },
-    {
-      "start": "2026-06-08T23:00:00+05:00",
-      "stop": "2026-06-08T23:05:00+05:00",
-      "title": "The Catch Up",
-      "desc": "A round-up of the day's news.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/80800f05-42dc-4aa0-bbbf-927c46d5bade/16-9"
-    },
-    {
       "start": "2026-06-08T23:05:00+05:00",
       "stop": "2026-06-08T23:30:00+05:00",
       "title": "Deadly 60",
@@ -141,6 +121,27 @@
         "Factual"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/de212fb2-087e-4378-90e4-ac91c17cc758/16-9"
+    },
+    {
+      "start": "2026-06-09T07:35:00+05:00",
+      "stop": "2026-06-09T07:50:00+05:00",
+      "title": "Dave's Games",
+      "sub_title": "Animation",
+      "desc": "It's 1995, and Dave's is the only games shop in town until a rival store opens. Contains language which some may find offensive.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Comedy"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/8986c3a3-9ecc-33a8-a8ab-4785e0c504bc/16-9"
+    },
+    {
+      "start": "2026-06-09T07:50:00+05:00",
+      "stop": "2026-06-09T09:30:00+05:00",
+      "title": "This is BBC Three",
+      "desc": "Programmes start at 7.00pm.",
+      "language": "en",
+      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/BBC-Three-UK.png"
     }
   ]
 }

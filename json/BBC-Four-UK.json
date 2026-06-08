@@ -4,38 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-08T22:58:00+05:00",
-      "stop": "2026-06-08T23:00:00+05:00",
-      "title": "This is BBC Four",
-      "desc": "Programmes start at 7.00pm.",
-      "language": "en",
-      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/BBC-Four-UK.png"
-    },
-    {
-      "start": "2026-06-08T23:00:00+05:00",
-      "stop": "2026-06-08T23:30:00+05:00",
-      "title": "University Challenge",
-      "desc": "With half the quarter-final places filled, two more teams of students return for a second-round match. Jeremy Paxman asks the questions.",
-      "language": "en",
-      "categories": [
-        "Entertainment",
-        "Game Show"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/f1a0800a-4362-455c-896e-af82413dea3d/16-9"
-    },
-    {
-      "start": "2026-06-08T23:30:00+05:00",
-      "stop": "2026-06-09T00:00:00+05:00",
-      "title": "Only Connect",
-      "desc": "Quiz in which connections must be made between seemingly random elements. How does Carmilla link to Neo via Lord Voldemort and Sir Leigh Teabing.",
-      "language": "en",
-      "categories": [
-        "Entertainment",
-        "Game Show"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/5cb061ae-39d7-419d-a8bb-6d922a0d5a42/16-9"
-    },
-    {
       "start": "2026-06-09T00:00:00+05:00",
       "stop": "2026-06-09T01:00:00+05:00",
       "title": "Art on the BBC: Constable: The Rural Rebel",
@@ -136,6 +104,30 @@
       "stop": "2026-06-09T09:30:00+05:00",
       "title": "This is BBC Four",
       "desc": "Programmes start at 7.00pm.",
+      "language": "en",
+      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/BBC-Four-UK.png"
+    },
+    {
+      "start": "2026-06-09T09:30:00+05:00",
+      "stop": "2026-06-09T15:30:00+05:00",
+      "title": "..programmes start at 7.00pm",
+      "desc": "BBC Four provides an intelligent mix of arts, science, and history programming, offering deep-dive documentaries and world cinema for a curious audience.",
+      "language": "en",
+      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/BBC-Four-UK.png"
+    },
+    {
+      "start": "2026-06-09T15:30:00+05:00",
+      "stop": "2026-06-09T21:30:00+05:00",
+      "title": "..programmes start at 7.00pm",
+      "desc": "BBC Four provides an intelligent mix of arts, science, and history programming, offering deep-dive documentaries and world cinema for a curious audience.",
+      "language": "en",
+      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/BBC-Four-UK.png"
+    },
+    {
+      "start": "2026-06-09T21:30:00+05:00",
+      "stop": "2026-06-09T22:58:00+05:00",
+      "title": "..programmes start at 7.00pm",
+      "desc": "BBC Four provides an intelligent mix of arts, science, and history programming, offering deep-dive documentaries and world cinema for a curious audience.",
       "language": "en",
       "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/BBC-Four-UK.png"
     }

@@ -4,53 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-08T22:30:00+05:00",
-      "stop": "2026-06-08T23:00:00+05:00",
-      "title": "BBC London News",
-      "desc": "The latest news, sport and weather from London.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/f16d4647-18de-42bd-a336-f7b3427df0fc/16-9"
-    },
-    {
-      "start": "2026-06-08T23:00:00+05:00",
-      "stop": "2026-06-08T23:30:00+05:00",
-      "title": "The One Show",
-      "desc": "Alex Jones and Roman Kemp bring you the stories that matter from across the country.",
-      "language": "en",
-      "categories": [
-        "Entertainment"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/9d6cba4d-5a59-41a7-ad34-a9564ddae3d2/16-9"
-    },
-    {
-      "start": "2026-06-08T23:30:00+05:00",
-      "stop": "2026-06-09T00:00:00+05:00",
-      "title": "EastEnders",
-      "desc": "George spars in the boxing gym, but things take a turn. Ian struggles with recent events. And Denise is urged to start treatment.",
-      "language": "en",
-      "categories": [
-        "Entertainment",
-        "Soap"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/de512f90-9921-4128-b85a-d1cc0448c4e5/16-9"
-    },
-    {
-      "start": "2026-06-09T00:00:00+05:00",
-      "stop": "2026-06-09T00:30:00+05:00",
-      "title": "Panorama",
-      "desc": "Investigative documentary.",
-      "language": "en",
-      "categories": [
-        "Entertainment",
-        "Factual"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/67744ecd-c674-4fed-888e-6c86d4e06769/16-9"
-    },
-    {
       "start": "2026-06-09T00:30:00+05:00",
       "stop": "2026-06-09T01:00:00+05:00",
       "title": "Scam Interceptors",
@@ -145,6 +98,53 @@
         "News"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/cb44b733-f960-418b-8aa2-49dd90199cd4/16-9"
+    },
+    {
+      "start": "2026-06-09T05:15:00+05:00",
+      "stop": "2026-06-09T10:00:00+05:00",
+      "title": "BBC News",
+      "desc": "BBC One joins the BBC's rolling news channel for a night of news.",
+      "language": "en",
+      "categories": [
+        "News & Documentary",
+        "News"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/7d5aaf6a-cc2d-4586-b5cf-7f5cbb93d33a/16-9"
+    },
+    {
+      "start": "2026-06-09T10:00:00+05:00",
+      "stop": "2026-06-09T13:30:00+05:00",
+      "title": "Breakfast",
+      "desc": "The latest news, sport, business and weather from the BBC's Breakfast team.",
+      "language": "en",
+      "categories": [
+        "News & Documentary",
+        "News"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/28e0c9bb-6674-4b9e-ba6a-d0e4e555b6c0/16-9"
+    },
+    {
+      "start": "2026-06-09T13:30:00+05:00",
+      "stop": "2026-06-09T14:45:00+05:00",
+      "title": "Morning Live",
+      "desc": "Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier.",
+      "language": "en",
+      "categories": [
+        "Entertainment"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/4308b67c-bf21-476c-9618-e6d01f0c169c/16-9"
+    },
+    {
+      "start": "2026-06-09T14:45:00+05:00",
+      "stop": "2026-06-09T15:15:00+05:00",
+      "title": "Doorbell Detectives",
+      "desc": "Matt Allwright hears from a doorbell detective who was robbed in the night by two men while she was asleep upstairs.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Factual"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/30d3b43e-0d66-4104-b6d9-60ddfcf68a16/16-9"
     }
   ]
 }
