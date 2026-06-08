@@ -4,18 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-08T05:00:00+05:00",
-      "stop": "2026-06-08T05:05:00+05:00",
-      "title": "Weather for the Week Ahead",
-      "desc": "Detailed weather forecast.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/17dfc772-533a-4452-904a-cd598d3c3e58/16-9"
-    },
-    {
       "start": "2026-06-08T05:05:00+05:00",
       "stop": "2026-06-08T10:00:00+05:00",
       "title": "BBC News",
@@ -145,6 +133,18 @@
         "Gradening"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/d54b2aed-f8d5-40dd-9bdf-aae6ba6f5c3d/16-9"
+    },
+    {
+      "start": "2026-06-08T20:30:00+05:00",
+      "stop": "2026-06-08T21:15:00+05:00",
+      "title": "Bridge of Lies",
+      "desc": "Family of four Angela, Lianne, Rachel and Nichola take on the Bridge of Lies. One by one, they must cross the Bridge, stepping on the truths and avoiding the lies.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Game Show"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/947dcd67-02d8-4c68-aa94-3b895d42245a/16-9"
     }
   ]
 }
