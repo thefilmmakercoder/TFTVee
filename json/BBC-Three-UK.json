@@ -4,30 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-08T09:30:00+05:00",
-      "stop": "2026-06-08T15:30:00+05:00",
-      "title": "..programmes start at 7.00pm",
-      "desc": "BBC Three delivers bold and provocative content for younger audiences, featuring groundbreaking documentaries, experimental comedy, and fresh drama.",
-      "language": "en",
-      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/BBC-Three-UK.png"
-    },
-    {
-      "start": "2026-06-08T15:30:00+05:00",
-      "stop": "2026-06-08T21:30:00+05:00",
-      "title": "..programmes start at 7.00pm",
-      "desc": "BBC Three delivers bold and provocative content for younger audiences, featuring groundbreaking documentaries, experimental comedy, and fresh drama.",
-      "language": "en",
-      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/BBC-Three-UK.png"
-    },
-    {
-      "start": "2026-06-08T21:30:00+05:00",
-      "stop": "2026-06-08T22:58:00+05:00",
-      "title": "..programmes start at 7.00pm",
-      "desc": "BBC Three delivers bold and provocative content for younger audiences, featuring groundbreaking documentaries, experimental comedy, and fresh drama.",
-      "language": "en",
-      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/BBC-Three-UK.png"
-    },
-    {
       "start": "2026-06-08T22:58:00+05:00",
       "stop": "2026-06-08T23:00:00+05:00",
       "title": "This is BBC Three",
@@ -129,6 +105,42 @@
         "Factual"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/bb93405d-7d86-4e5d-8e30-e52bfdc823cd/16-9"
+    },
+    {
+      "start": "2026-06-09T05:50:00+05:00",
+      "stop": "2026-06-09T06:35:00+05:00",
+      "title": "High: Confessions of an Ibiza Drug Mule",
+      "desc": "Michaella reveals how she got out of prison and what being there taught her. Contains some strong language, some sexual content and some upsetting..",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Factual"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/248619f9-ffb9-475d-8484-76ce1226f24e/16-9"
+    },
+    {
+      "start": "2026-06-09T06:35:00+05:00",
+      "stop": "2026-06-09T07:05:00+05:00",
+      "title": "Brickies",
+      "desc": "The brickies go large for England v Germany. Nervous driver Molly tests out Chay's van. Contains strong language.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Factual"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/bd92d65f-1a67-4fbf-98d8-bdf7b1e54f3b/16-9"
+    },
+    {
+      "start": "2026-06-09T07:05:00+05:00",
+      "stop": "2026-06-09T07:35:00+05:00",
+      "title": "Brickies",
+      "desc": "Supply shortages put work on the site at risk. Lauren challenges Lucas to a boxing bout. Contains strong language.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Factual"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/de212fb2-087e-4378-90e4-ac91c17cc758/16-9"
     }
   ]
 }

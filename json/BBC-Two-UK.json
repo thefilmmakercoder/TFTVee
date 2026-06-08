@@ -4,42 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-08T16:15:00+05:00",
-      "stop": "2026-06-08T17:00:00+05:00",
-      "title": "Politics Live",
-      "desc": "The big political issues of the day.",
-      "language": "en",
-      "categories": [
-        "Entertainment",
-        "Factual"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/62edbd92-dc91-48ff-bfd8-fda45b220c2e/16-9"
-    },
-    {
-      "start": "2026-06-08T17:00:00+05:00",
-      "stop": "2026-06-08T22:00:00+05:00",
-      "title": "Tennis: Queen's",
-      "desc": "Live coverage from day 1 of the 2026 Queen's tennis tournament.",
-      "language": "en",
-      "categories": [
-        "Sports",
-        "Tennis"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/f288bb86-7506-49cb-a9de-cce6cd38e177/16-9"
-    },
-    {
-      "start": "2026-06-08T22:00:00+05:00",
-      "stop": "2026-06-08T22:30:00+05:00",
-      "title": "Richard Osman's House of Games",
-      "desc": "Simon Armitage, Josie Gibson, Ardal O'Hanlon and Adele Roberts test their general knowledge skills on this week's House of Games.",
-      "language": "en",
-      "categories": [
-        "Entertainment",
-        "Game Show"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/629831af-7683-4579-9c5e-9a817c921a04/16-9"
-    },
-    {
       "start": "2026-06-08T22:30:00+05:00",
       "stop": "2026-06-08T23:00:00+05:00",
       "title": "Great Continental Railway Journeys",
@@ -145,6 +109,37 @@
         "Factual"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/7a000ad4-4ac3-4819-82aa-ce9f14579a75/16-9"
+    },
+    {
+      "start": "2026-06-09T06:50:00+05:00",
+      "stop": "2026-06-09T07:50:00+05:00",
+      "title": "Springwatch",
+      "desc": "Chris, Michaela and the team are live from Crom as nature writes its own stories.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Factual"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/db402fdf-16f3-4232-97d1-15c9a96a658f/16-9"
+    },
+    {
+      "start": "2026-06-09T07:50:00+05:00",
+      "stop": "2026-06-09T08:50:00+05:00",
+      "title": "Cher Meets Rylan",
+      "desc": "The goddess of pop sits down for a fun and in-depth chat with Rylan Clark about her new record, biggest hits, and incredible life and career.",
+      "language": "en",
+      "categories": [
+        "Music & Radio"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/d951614e-9e7a-3b93-8c39-d4d3c2dea779/16-9"
+    },
+    {
+      "start": "2026-06-09T08:50:00+05:00",
+      "stop": "2026-06-09T10:30:00+05:00",
+      "title": "This is BBC Two",
+      "desc": "Highlights of programmes on BBC Two.",
+      "language": "en",
+      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/BBC-Two-UK.png"
     }
   ]
 }

@@ -4,30 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-08T09:30:00+05:00",
-      "stop": "2026-06-08T15:30:00+05:00",
-      "title": "..programmes start at 7.00pm",
-      "desc": "BBC Four provides an intelligent mix of arts, science, and history programming, offering deep-dive documentaries and world cinema for a curious audience.",
-      "language": "en",
-      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/BBC-Four-UK.png"
-    },
-    {
-      "start": "2026-06-08T15:30:00+05:00",
-      "stop": "2026-06-08T21:30:00+05:00",
-      "title": "..programmes start at 7.00pm",
-      "desc": "BBC Four provides an intelligent mix of arts, science, and history programming, offering deep-dive documentaries and world cinema for a curious audience.",
-      "language": "en",
-      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/BBC-Four-UK.png"
-    },
-    {
-      "start": "2026-06-08T21:30:00+05:00",
-      "stop": "2026-06-08T22:58:00+05:00",
-      "title": "..programmes start at 7.00pm",
-      "desc": "BBC Four provides an intelligent mix of arts, science, and history programming, offering deep-dive documentaries and world cinema for a curious audience.",
-      "language": "en",
-      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/BBC-Four-UK.png"
-    },
-    {
       "start": "2026-06-08T22:58:00+05:00",
       "stop": "2026-06-08T23:00:00+05:00",
       "title": "This is BBC Four",
@@ -130,6 +106,38 @@
         "Arts"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/de196081-3e16-4e9b-8078-38534fa03c9b/16-9"
+    },
+    {
+      "start": "2026-06-09T05:30:00+05:00",
+      "stop": "2026-06-09T06:00:00+05:00",
+      "title": "Only Connect",
+      "desc": "Quiz in which connections must be made between seemingly random elements. How does Carmilla link to Neo via Lord Voldemort and Sir Leigh Teabing.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Game Show"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/5cb061ae-39d7-419d-a8bb-6d922a0d5a42/16-9"
+    },
+    {
+      "start": "2026-06-09T06:00:00+05:00",
+      "stop": "2026-06-09T07:00:00+05:00",
+      "title": "Art of America",
+      "desc": "Andrew Graham-Dixon discovers how the ambitions of visionary artists and architects helped America remove itself from the shadow of Europe in the 20th century.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Arts"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/81744d3c-3971-41c8-aebf-a2a56a2ceb58/16-9"
+    },
+    {
+      "start": "2026-06-09T07:00:00+05:00",
+      "stop": "2026-06-09T09:30:00+05:00",
+      "title": "This is BBC Four",
+      "desc": "Programmes start at 7.00pm.",
+      "language": "en",
+      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/BBC-Four-UK.png"
     }
   ]
 }
