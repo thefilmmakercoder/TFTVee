@@ -4,74 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-09T00:00:00+05:00",
-      "stop": "2026-06-09T01:00:00+05:00",
-      "title": "The Social",
-      "desc": "A talk show that brings a fresh, daily perspective on the news, pop culture and lifestyle topics that matter most to Canadians.",
-      "date": "2026",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Series",
-        "Talk"
-      ],
-      "episode": "S13 E177",
-      "icon": "http://dtil.tmsimg.com/assets/p10115884_b_h8_ah.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Melissa Grelo",
-          "Cynthia Loyst",
-          "Andrea Bain"
-        ]
-      }
-    },
-    {
-      "start": "2026-06-09T01:00:00+05:00",
-      "stop": "2026-06-09T02:00:00+05:00",
-      "title": "The Good Stuff With Mary Berg",
-      "desc": "Mary Berg explores lifestyle trends, do-it-yourself projects, home renovations, recipes and more; featuring celebrity guests, influencers and everyday heroes.",
-      "date": "2026",
-      "language": "en",
-      "categories": [
-        "Series",
-        "Talk",
-        "Entertainment"
-      ],
-      "episode": "S3 E170",
-      "icon": "http://dtil.tmsimg.com/assets/p24996781_b_h8_ab.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Mary Berg"
-        ]
-      }
-    },
-    {
-      "start": "2026-06-09T02:00:00+05:00",
-      "stop": "2026-06-09T02:30:00+05:00",
-      "title": "Seinfeld",
-      "sub_title": "The Junk Mail",
-      "desc": "Jerry, promised a vehicle as payment for a performance, winds up getting a van instead of a car; Elaine meets a new man; Kramer has no need for mail.",
-      "date": "1997",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Series",
-        "Sitcom"
-      ],
-      "episode": "S9 E5",
-      "icon": "http://dtil.tmsimg.com/assets/p7892827_b_h10_aa.jpg?w=960&h=540",
-      "credits": {
-        "director": [
-          "Andy Ackerman"
-        ],
-        "actor": [
-          "Jerry Seinfeld",
-          "Julia Louis-Dreyfus",
-          "Jason Alexander"
-        ]
-      }
-    },
-    {
       "start": "2026-06-09T02:30:00+05:00",
       "stop": "2026-06-09T02:59:00+05:00",
       "title": "CTV National News With Sandie Rinaldo",
@@ -232,6 +164,86 @@
       ],
       "episode": "E93",
       "icon": "http://dtil.tmsimg.com/assets/p22894284_b_h8_ab.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-06-09T10:07:00+05:00",
+      "stop": "2026-06-09T11:05:00+05:00",
+      "title": "Criminal Minds",
+      "sub_title": "X",
+      "desc": "The team investigates a series of murders with unidentifiable victims in Bakersfield, Calif.; agent Kate Callahan joins the team.",
+      "date": "2014",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "Series",
+        "Crime drama",
+        "Mystery",
+        "Thriller",
+        "Drama"
+      ],
+      "episode": "S10 E1",
+      "icon": "http://dtil.tmsimg.com/assets/p185123_b_h8_ak.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Glenn Kershaw"
+        ],
+        "actor": [
+          "Joe Mantegna",
+          "Thomas Gibson",
+          "Shemar Moore"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-09T11:05:00+05:00",
+      "stop": "2026-06-09T12:05:00+05:00",
+      "title": "Suits",
+      "sub_title": "She's Mine",
+      "desc": "Harvey and Stephen clash over Ava's case; Harvey and Jessica strategize; Louis gets Rachel's help with a broken contract.",
+      "date": "2013",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "Series",
+        "Drama",
+        "Crime drama",
+        "Law",
+        "Comedy"
+      ],
+      "episode": "S3 E7",
+      "icon": "http://dtil.tmsimg.com/assets/p8630071_b_h8_bc.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Patrick J. Adams",
+          "Gabriel Macht",
+          "Meghan Markle"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-09T12:05:00+05:00",
+      "stop": "2026-06-09T13:05:00+05:00",
+      "title": "Flashpoint",
+      "sub_title": "The War Within",
+      "desc": "Ed reaches the auditorium of a high school, where a boy is about to commit suicide.",
+      "date": "2011",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "Series",
+        "Crime drama",
+        "Thriller",
+        "Action"
+      ],
+      "episode": "S4 E8",
+      "icon": "http://dtil.tmsimg.com/assets/p186582_b_h8_ak.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Enrico Colantoni",
+          "Hugh Dillon",
+          "Amy Jo Johnson"
+        ]
+      }
     }
   ]
 }

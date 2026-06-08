@@ -4,42 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-09T00:00:00+05:00",
-      "stop": "2026-06-09T01:00:00+05:00",
-      "title": "Art on the BBC: Constable: The Rural Rebel",
-      "desc": "Art historian Rose Balston creates a television history of John Constable.",
-      "language": "en",
-      "categories": [
-        "Entertainment",
-        "Arts"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/1d3ec246-d550-46e9-a4d7-ecc36fcc9773/16-9"
-    },
-    {
-      "start": "2026-06-09T01:00:00+05:00",
-      "stop": "2026-06-09T02:00:00+05:00",
-      "title": "Art of America",
-      "desc": "Andrew Graham-Dixon discovers how the ambitions of visionary artists and architects helped America remove itself from the shadow of Europe in the 20th century.",
-      "language": "en",
-      "categories": [
-        "Entertainment",
-        "Arts"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/81744d3c-3971-41c8-aebf-a2a56a2ceb58/16-9"
-    },
-    {
-      "start": "2026-06-09T02:00:00+05:00",
-      "stop": "2026-06-09T02:30:00+05:00",
-      "title": "The Sky at Night",
-      "desc": "The team uncover a danger that humanity is only just waking up to - space weather. They meet the dedicated people working to keep us safe from the very worst that the sun can throw at us.",
-      "language": "en",
-      "categories": [
-        "Entertainment",
-        "Factual"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/faaadc47-7366-49f1-9f06-8e42176c9ed9/16-9"
-    },
-    {
       "start": "2026-06-09T02:30:00+05:00",
       "stop": "2026-06-09T03:30:00+05:00",
       "title": "American Visions",
@@ -130,6 +94,38 @@
       "desc": "BBC Four provides an intelligent mix of arts, science, and history programming, offering deep-dive documentaries and world cinema for a curious audience.",
       "language": "en",
       "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/BBC-Four-UK.png"
+    },
+    {
+      "start": "2026-06-09T22:58:00+05:00",
+      "stop": "2026-06-09T23:00:00+05:00",
+      "title": "This is BBC Four",
+      "desc": "Programmes start at 7.00pm.",
+      "language": "en",
+      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/BBC-Four-UK.png"
+    },
+    {
+      "start": "2026-06-09T23:00:00+05:00",
+      "stop": "2026-06-09T23:30:00+05:00",
+      "title": "University Challenge",
+      "desc": "Two more teams of students return for a second-round match, with three places in the quarter-finals still up for grabs. Jeremy Paxman asks the questions.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Game Show"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/ae02e431-3d86-45bc-a912-ddb5c13a8814/16-9"
+    },
+    {
+      "start": "2026-06-09T23:30:00+05:00",
+      "stop": "2026-06-10T00:00:00+05:00",
+      "title": "Only Connect",
+      "desc": "Quiz in which connections must be made between seemingly random elements sees the battle for third place in the series.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Game Show"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/48eba15e-46e5-4dee-978a-dd6b203f73c0/16-9"
     }
   ]
 }

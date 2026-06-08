@@ -4,46 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-09T01:00:00+05:00",
-      "stop": "2026-06-09T01:30:00+05:00",
-      "title": "DW English News",
-      "sub_title": "Morning",
-      "desc": "News and analysis of the top international and European news and current affairs from Berlin, in English.",
-      "language": "en",
-      "rating": "NR",
-      "categories": [
-        "News"
-      ],
-      "episode": "E4012026",
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/310648/image/334x188"
-    },
-    {
-      "start": "2026-06-09T01:30:00+05:00",
-      "stop": "2026-06-09T02:00:00+05:00",
-      "title": "Al Jazeera News",
-      "sub_title": "Tuesday 9 June 2026",
-      "desc": "News via satellite from Al Jazeera Satellite Network, Qatar, in English.",
-      "language": "en",
-      "rating": "NR",
-      "categories": [
-        "News"
-      ],
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/231958/image/334x188"
-    },
-    {
-      "start": "2026-06-09T02:00:00+05:00",
-      "stop": "2026-06-09T02:30:00+05:00",
-      "title": "BBC News At Six",
-      "sub_title": "Tuesday 9 June 2026",
-      "desc": "The latest national and international news stories from the BBC News team from London, UK, in English.",
-      "language": "en",
-      "rating": "NR",
-      "categories": [
-        "News"
-      ],
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/11514500/image/334x188"
-    },
-    {
       "start": "2026-06-09T02:30:00+05:00",
       "stop": "2026-06-09T03:00:00+05:00",
       "title": "France 24 English News",
@@ -162,6 +122,44 @@
         "News"
       ],
       "icon": "https://www.fetchtv.com.au/v2/epg/program/13764469/image/334x188"
+    },
+    {
+      "start": "2026-06-09T08:00:00+05:00",
+      "stop": "2026-06-09T09:00:00+05:00",
+      "title": "PBS Newshour",
+      "sub_title": "Tuesday 9 June 2026",
+      "desc": "Reviews and analysis of the day's news, presented by Amna Nawaz and Geoff Bennett for the Public Broadcasting Service (PBS) in the United States.",
+      "language": "en",
+      "rating": "NR",
+      "categories": [
+        "News"
+      ],
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/249865/image/334x188"
+    },
+    {
+      "start": "2026-06-09T09:00:00+05:00",
+      "stop": "2026-06-09T09:55:00+05:00",
+      "title": "Pompeii: The Last Mysteries Revealed",
+      "desc": "Pompeii has long been a source of fascination. Archaeologists continue in their mission to uncover the secrets of this ancient city, with surprises to be found and trouble ahead.",
+      "language": "en",
+      "rating": "M",
+      "categories": [
+        "Special Interest"
+      ],
+      "episode": "E2",
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/425390/image/334x188"
+    },
+    {
+      "start": "2026-06-09T09:55:00+05:00",
+      "stop": "2026-06-09T10:30:00+05:00",
+      "title": "Pita With Vegemite: An Israeli-Australian Story",
+      "desc": "Filmed six months after the October 7 attacks and during the subsequent war in Gaza, nine Israeli Australians reflect on the home they left behind.",
+      "language": "en",
+      "rating": "PG",
+      "categories": [
+        "Special Interest"
+      ],
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/13035001/image/334x188"
     }
   ]
 }
