@@ -4,72 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-08T14:30:00+05:00",
-      "stop": "2026-06-08T14:35:00+05:00",
-      "title": "NITV News Update",
-      "desc": "NITV News recaptures the highlights of Indigenous news around the country.",
-      "language": "en",
-      "rating": "NR",
-      "categories": [
-        "News"
-      ],
-      "episode": "E101",
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/5904078/image/334x188"
-    },
-    {
-      "start": "2026-06-08T14:35:00+05:00",
-      "stop": "2026-06-08T15:30:00+05:00",
-      "title": "8 Out Of 10 Cats Does Countdown",
-      "desc": "Host Jimmy Carr, captains Sean Lock and Jon Richardson are joined by Kevin Bridges and James Corden, while Peter Serafinowicz and Joe Wilkinson assist Susie Dent and Rachel Riley.",
-      "language": "en",
-      "rating": "M",
-      "categories": [
-        "Special Interest"
-      ],
-      "episode": "S3 E6",
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/375617/image/334x188"
-    },
-    {
-      "start": "2026-06-08T15:30:00+05:00",
-      "stop": "2026-06-08T16:20:00+05:00",
-      "title": "Holy Marvels With Dennis Quaid",
-      "sub_title": "Most Powerful",
-      "desc": "For centuries, powerful artifacts have sparked wars, inspired legends, and shaped empires. From divine weapons to sacred relics, discover the stories of the world's mightiest marvels.",
-      "language": "en",
-      "rating": "M",
-      "categories": [
-        "Special Interest"
-      ],
-      "episode": "S2 E11",
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/433138/image/334x188"
-    },
-    {
-      "start": "2026-06-08T16:20:00+05:00",
-      "stop": "2026-06-08T17:15:00+05:00",
-      "title": "Soccer's American Dream",
-      "sub_title": "A League Of Our Own",
-      "desc": "The women's 1999 World Cup team becomes national idols after winning on home soil, but capitalizing on this success to form a fully professional league proves harder than imagined.",
-      "language": "en",
-      "rating": "M",
-      "categories": [
-        "Special Interest"
-      ],
-      "episode": "S1 E5",
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/19501683/image/334x188"
-    },
-    {
-      "start": "2026-06-08T17:15:00+05:00",
-      "stop": "2026-06-08T18:55:00+05:00",
-      "title": "We Are Jeni",
-      "desc": "One woman. 2500 personalities. Their fight for justice.",
-      "language": "en",
-      "rating": "M",
-      "categories": [
-        "Special Interest"
-      ],
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/19203518/image/334x188"
-    },
-    {
       "start": "2026-06-08T18:55:00+05:00",
       "stop": "2026-06-08T19:30:00+05:00",
       "title": "Machair",
@@ -160,6 +94,71 @@
         "News"
       ],
       "icon": "https://www.fetchtv.com.au/v2/epg/program/413687/image/334x188"
+    },
+    {
+      "start": "2026-06-09T02:20:00+05:00",
+      "stop": "2026-06-09T02:50:00+05:00",
+      "title": "FBC News Fiji",
+      "sub_title": "Fiji",
+      "desc": "Local, world, sport and entertainment news in English from FBC News, Suva Fiji.",
+      "language": "en",
+      "rating": "NR",
+      "categories": [
+        "News"
+      ],
+      "episode": "E4012026",
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/426449/image/334x188"
+    },
+    {
+      "start": "2026-06-09T02:50:00+05:00",
+      "stop": "2026-06-09T03:00:00+05:00",
+      "title": "France 24 Feature",
+      "sub_title": "First Edition",
+      "desc": "News feature in English from France 24, Paris.",
+      "language": "en",
+      "rating": "NR",
+      "categories": [
+        "News"
+      ],
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/337182/image/334x188"
+    },
+    {
+      "start": "2026-06-09T03:00:00+05:00",
+      "stop": "2026-06-09T03:10:00+05:00",
+      "title": "Euronews",
+      "sub_title": "Tuesday 9 June 2026",
+      "desc": "Headlines, Breaking News & Analysis from the Euronews news centre in Brussels, Belgium, in English.",
+      "language": "en",
+      "rating": "NR",
+      "categories": [
+        "News"
+      ],
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/276/image/334x188"
+    },
+    {
+      "start": "2026-06-09T03:10:00+05:00",
+      "stop": "2026-06-09T03:40:00+05:00",
+      "title": "NHK Newsline",
+      "sub_title": "Tuesday 9 June 2026",
+      "desc": "English news from Japan's Broadcasting Corporation, NHK, delivering the latest in business, technology, health, environmental and world news.",
+      "language": "en",
+      "rating": "NR",
+      "categories": [
+        "News"
+      ],
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/439062/image/334x188"
+    },
+    {
+      "start": "2026-06-09T03:40:00+05:00",
+      "stop": "2026-06-09T04:30:00+05:00",
+      "title": "Cbc The National",
+      "desc": "CBC's flagship nightly news with hosts Adrienne Arsenault and Andrew Chang from Toronto, Canada, via satellite in English.",
+      "language": "en",
+      "rating": "NR",
+      "categories": [
+        "News"
+      ],
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/413666/image/334x188"
     }
   ]
 }

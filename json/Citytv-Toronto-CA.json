@@ -4,37 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-08T14:30:00+05:00",
-      "stop": "2026-06-08T15:00:00+05:00",
-      "title": "CityNews Tonight Toronto",
-      "desc": "Coverage of the day's top news stories.",
-      "date": "2019",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p16858130_b_h8_aa.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-06-08T15:00:00+05:00",
-      "stop": "2026-06-08T17:30:00+05:00",
-      "title": "Breakfast Television Toronto",
-      "desc": "The latest in local news, weather and traffic, as well as celebrity interviews and lifestyle trends.",
-      "date": "2000",
-      "language": "en",
-      "categories": [
-        "Talk",
-        "Newsmagazine"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p599792_b_h8_ab.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Dina Pugliese",
-          "Melanie Ng"
-        ]
-      }
-    },
-    {
       "start": "2026-06-08T17:30:00+05:00",
       "stop": "2026-06-08T19:00:00+05:00",
       "title": "Breakfast Television",
@@ -263,6 +232,45 @@
           "Whitney Kumar"
         ]
       }
+    },
+    {
+      "start": "2026-06-09T01:30:00+05:00",
+      "stop": "2026-06-09T02:00:00+05:00",
+      "title": "Judy Justice",
+      "sub_title": "Fighting While High",
+      "desc": "Half sisters wield a broomstick and a knife in violent disputes against each other; both filed restraining orders and sue for damages.",
+      "date": "2022",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "Series",
+        "Reality",
+        "Law"
+      ],
+      "episode": "S2 E7",
+      "icon": "http://dtil.tmsimg.com/assets/p20641302_b_h10_af.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Randy Douthit"
+        ],
+        "actor": [
+          "Judy Sheindlin",
+          "Kevin Rasco",
+          "Whitney Kumar"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-09T02:00:00+05:00",
+      "stop": "2026-06-09T03:00:00+05:00",
+      "title": "CityNews at 5 Toronto",
+      "desc": "Coverage of the day's top news stories.",
+      "date": "2019",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p16858119_b_h8_aa.jpg?w=960&h=540"
     }
   ]
 }

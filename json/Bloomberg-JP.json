@@ -4,14 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-08T14:00:00+05:00",
-      "stop": "2026-06-08T15:00:00+05:00",
-      "title": "Bloomberg Brief",
-      "desc": "Delivering the market news, data and analysis you need to set your agenda.",
-      "language": "en",
-      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/Bloomberg-JP.png"
-    },
-    {
       "start": "2026-06-08T15:00:00+05:00",
       "stop": "2026-06-08T18:00:00+05:00",
       "title": "Bloomberg Surveillance",
@@ -96,6 +88,14 @@
       "stop": "2026-06-09T06:00:00+05:00",
       "title": "Bloomberg The Asia Trade",
       "desc": "Live from Tokyo and Sydney with Shery Ahn and Haidi Stroud-Watts, getting insight and analysis from newsmakers and industry leaders on the biggest stories shaping markets.",
+      "language": "en",
+      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/Bloomberg-JP.png"
+    },
+    {
+      "start": "2026-06-09T06:00:00+05:00",
+      "stop": "2026-06-09T08:00:00+05:00",
+      "title": "Bloomberg: The China Show",
+      "desc": "Your definitive source for news and analysis on the world's second-biggest economy. Hosted by Yvonne Man and David Ingles.",
       "language": "en",
       "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/Bloomberg-JP.png"
     }

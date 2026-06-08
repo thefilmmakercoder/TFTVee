@@ -4,14 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-08T07:20:00+05:00",
-      "stop": "2026-06-08T09:30:00+05:00",
-      "title": "This is BBC Four",
-      "desc": "Programmes start at 7.00pm.",
-      "language": "en",
-      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/BBC-Four-UK.png"
-    },
-    {
       "start": "2026-06-08T09:30:00+05:00",
       "stop": "2026-06-08T15:30:00+05:00",
       "title": "..programmes start at 7.00pm",
@@ -126,6 +118,18 @@
         "Factual"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/f6908902-85dc-4929-8584-d2acdd30988f/16-9"
+    },
+    {
+      "start": "2026-06-09T04:30:00+05:00",
+      "stop": "2026-06-09T05:30:00+05:00",
+      "title": "Forest, Field and Sky: Art out of Nature",
+      "desc": "Dr James Fox takes a journey through six different landscapes across Britain, meeting artists whose work explores our relationship to the natural world.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Arts"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/de196081-3e16-4e9b-8078-38534fa03c9b/16-9"
     }
   ]
 }
