@@ -4,18 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-09T02:30:00+05:00",
-      "stop": "2026-06-09T03:00:00+05:00",
-      "title": "Newsnight, followed by Weather",
-      "desc": "Insights and global interviews on the news stories of the day. With Victoria Derbyshire. Followed by Weather.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/67c294d7-6828-445f-97e4-e86830fd5033/16-9"
-    },
-    {
       "start": "2026-06-09T03:00:00+05:00",
       "stop": "2026-06-09T04:00:00+05:00",
       "title": "The Mother of All Cons",
@@ -140,6 +128,18 @@
         "News"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/c2363740-1884-490d-906b-0e412d76ed93/16-9"
+    },
+    {
+      "start": "2026-06-09T16:15:00+05:00",
+      "stop": "2026-06-09T17:00:00+05:00",
+      "title": "Politics Live",
+      "desc": "The big political issues of the day.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Factual"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/b0d09dcb-661c-4309-94f9-4503fea3a802/16-9"
     }
   ]
 }

@@ -4,37 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-09T03:00:00+05:00",
-      "stop": "2026-06-09T03:30:00+05:00",
-      "title": "NBC4 News at 3pm",
-      "desc": "Stay informed with the latest breaking news and headlines.",
-      "date": "2018",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p15054848_b_h10_aa.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-06-09T03:30:00+05:00",
-      "stop": "2026-06-09T04:00:00+05:00",
-      "title": "NBC Nightly News With Tom Llamas",
-      "desc": "Tom Llamas anchors the latest news, going beyond the headlines to see how lives are affected by the world around them.",
-      "date": "2026",
-      "language": "en",
-      "categories": [
-        "Series",
-        "News"
-      ],
-      "episode": "S2 E148",
-      "icon": "http://dtil.tmsimg.com/assets/p30141511_b_h8_aa.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Tom Llamas"
-        ]
-      }
-    },
-    {
       "start": "2026-06-09T04:00:00+05:00",
       "stop": "2026-06-09T05:00:00+05:00",
       "title": "NBC4 News at 4pm",
@@ -214,6 +183,55 @@
         "News"
       ],
       "icon": "http://dtil.tmsimg.com/assets/p8781143_b_h10_ad.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-06-09T11:34:00+05:00",
+      "stop": "2026-06-09T12:37:00+05:00",
+      "title": "The Tonight Show Starring Jimmy Fallon",
+      "sub_title": "Amy Adams; Eve Hewson; Luis Omar Tapia; Penn & Teller",
+      "desc": "Actress Amy Adams; actress Eve Hewson; sports broadcaster Luis Omar Tapia; magicians Penn & Teller.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "Series",
+        "Talk",
+        "Comedy"
+      ],
+      "episode": "S13 E114",
+      "icon": "http://dtil.tmsimg.com/assets/p31242381_b_h8_ac.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Jimmy Fallon",
+          "Amy Adams",
+          "Eve Hewson"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-09T12:37:00+05:00",
+      "stop": "2026-06-09T13:37:00+05:00",
+      "title": "Late Night With Seth Meyers",
+      "sub_title": "Josh Gad; Andrew Rannells; Hannah Berner",
+      "desc": "Actors Josh Gad and Andrew Rannells; comic Hannah Berner.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "Series",
+        "Talk",
+        "Comedy",
+        "Political News Satire & Talk"
+      ],
+      "episode": "S13 E105",
+      "icon": "http://dtil.tmsimg.com/assets/p31240203_b_h8_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Seth Meyers",
+          "Josh Gad",
+          "Andrew Rannells"
+        ]
+      }
     }
   ]
 }

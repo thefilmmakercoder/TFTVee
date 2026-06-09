@@ -4,18 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-09T02:45:00+05:00",
-      "stop": "2026-06-09T03:30:00+05:00",
-      "title": "Peston",
-      "desc": "Political interview programme hosted by the ITV News Political Editor Robert Peston, who provides viewers with an intelligent and lively approach to politics.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "Politics"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/3f1b1560-12de-4e99-bba4-34d5101d69d5/16-9"
-    },
-    {
       "start": "2026-06-09T03:30:00+05:00",
       "stop": "2026-06-09T04:00:00+05:00",
       "title": "Sorry, I Didn't Know",
@@ -149,6 +137,18 @@
         "News"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/d54ba1d0-c6d4-4e48-825d-bd5d7bd47893/16-9"
+    },
+    {
+      "start": "2026-06-09T17:55:00+05:00",
+      "stop": "2026-06-09T18:00:00+05:00",
+      "title": "ITV News London",
+      "desc": "The latest news and weather from London and the South East.",
+      "language": "en",
+      "categories": [
+        "News & Documentary",
+        "News"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/80a12d72-37af-4112-81a2-741ea13ddbe6/16-9"
     }
   ]
 }

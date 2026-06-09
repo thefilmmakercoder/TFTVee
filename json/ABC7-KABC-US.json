@@ -4,37 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-09T03:00:00+05:00",
-      "stop": "2026-06-09T03:30:00+05:00",
-      "title": "Eyewitness News 3PM",
-      "desc": "Local, national and international news.",
-      "date": "2004",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p676931_b_h8_aa.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-06-09T03:30:00+05:00",
-      "stop": "2026-06-09T04:00:00+05:00",
-      "title": "ABC World News Tonight With David Muir",
-      "desc": "Delivering the news that matters most.",
-      "date": "2026",
-      "language": "en",
-      "categories": [
-        "Series",
-        "News"
-      ],
-      "episode": "E159",
-      "icon": "http://dtil.tmsimg.com/assets/p10880351_b_h8_ah.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "David Muir"
-        ]
-      }
-    },
-    {
       "start": "2026-06-09T04:00:00+05:00",
       "stop": "2026-06-09T05:00:00+05:00",
       "title": "Eyewitness News 4PM",
@@ -200,6 +169,47 @@
         "actor": [
           "Juju Chang",
           "Byron Pitts"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-09T13:06:00+05:00",
+      "stop": "2026-06-09T13:36:00+05:00",
+      "title": "ABC World News Tonight With David Muir",
+      "desc": "Delivering the news that matters most.",
+      "date": "2026",
+      "language": "en",
+      "categories": [
+        "Series",
+        "News"
+      ],
+      "episode": "E159",
+      "icon": "http://dtil.tmsimg.com/assets/p10880351_b_h8_ah.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "David Muir"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-09T13:36:00+05:00",
+      "stop": "2026-06-09T14:36:00+05:00",
+      "title": "Live with Kelly and Mark",
+      "desc": "Laverne Cox swings by for a chat; Eve Hewson is here; how to avoid AI scams.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Talk"
+      ],
+      "episode": "S4 E201",
+      "icon": "http://dtil.tmsimg.com/assets/p24324378_b_h8_ab.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Kelly Ripa",
+          "Mark Consuelos",
+          "Laverne Cox"
         ]
       }
     }

@@ -4,42 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-09T03:00:00+05:00",
-      "stop": "2026-06-09T03:30:00+05:00",
-      "title": "DW News",
-      "desc": "Presenting a round-up of the most recent news and developments from across the world.",
-      "date": "2002",
-      "language": "en",
-      "rating": "A",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p26245192_b_h10_aa.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Ben Fajzullin"
-        ]
-      }
-    },
-    {
-      "start": "2026-06-09T03:30:00+05:00",
-      "stop": "2026-06-09T04:00:00+05:00",
-      "title": "BBC World News America",
-      "desc": "A detailed look into news stories from around the world from the BBC news desk in Washington, D.C.",
-      "date": "2026",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p32402912_b_h10_aa.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Sumi Somaskanda",
-          "Caitr\u00edona Perry"
-        ]
-      }
-    },
-    {
       "start": "2026-06-09T04:00:00+05:00",
       "stop": "2026-06-09T05:00:00+05:00",
       "title": "PBS News Hour",
@@ -227,6 +191,57 @@
       "credits": {
         "actor": [
           "David Rubenstein"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-09T15:00:00+05:00",
+      "stop": "2026-06-09T15:30:00+05:00",
+      "title": "Arthur",
+      "sub_title": "Swept Away; Germophobia",
+      "desc": "Arthur, D.W. and Buster build sand castles at the beach; Buster goes out of his way to avoid germs.",
+      "date": "2007",
+      "language": "en",
+      "rating": "TVY",
+      "categories": [
+        "Series",
+        "Animated",
+        "Children",
+        "Educational",
+        "Animals"
+      ],
+      "episode": "S11 E1",
+      "icon": "http://dtil.tmsimg.com/assets/p8636180_b_h10_ac.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Cameron Ansell",
+          "Robert Naylor",
+          "Bruce Dinsmore"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-09T15:30:00+05:00",
+      "stop": "2026-06-09T16:00:00+05:00",
+      "title": "Odd Squad",
+      "sub_title": "A Tour of Odd Squad; Club 37",
+      "desc": "Opie hosts the Odd Squad Superfan tour but finds out a villain has joined in disguise; Orli and Ozzie must solve 37 cases in order to get access to an exclusive club.",
+      "date": "2024",
+      "language": "en",
+      "rating": "TVY",
+      "categories": [
+        "Series",
+        "Children",
+        "Educational",
+        "Entertainment"
+      ],
+      "episode": "S4 E6",
+      "icon": "http://dtil.tmsimg.com/assets/p11086138_b_h8_bj.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Filip Geljo",
+          "Dalila Bela",
+          "Sean Michael Kyer"
         ]
       }
     }

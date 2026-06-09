@@ -4,20 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-09T00:00:00+05:00",
-      "stop": "2026-06-09T00:29:00+05:00",
-      "title": "Today Early News",
-      "sub_title": "Tuesday 9 June 2026",
-      "desc": "Today Early News with up to date news from Australia and around the world as well as the latest in sport and weather.",
-      "language": "en",
-      "rating": "NR",
-      "categories": [
-        "News"
-      ],
-      "episode": "E114",
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/428725/image/334x188"
-    },
-    {
       "start": "2026-06-09T00:29:00+05:00",
       "stop": "2026-06-09T04:00:00+05:00",
       "title": "Today",
@@ -165,6 +151,19 @@
       ],
       "episode": "E114",
       "icon": "https://www.fetchtv.com.au/v2/epg/program/131990/image/334x188"
+    },
+    {
+      "start": "2026-06-09T14:30:00+05:00",
+      "stop": "2026-06-09T16:30:00+05:00",
+      "title": "2026 Australian Swimming Trials - Finals",
+      "desc": "Wide World of Sports Presents Day 2 of the Australian Swimming Trials Finals, live from Sydney Olympic Park Aquatic Centre. Host  Sylvia Jefferys is joined by Ariarne Titmus, Giaan Rooney, Ellie Cole and Ian Thorpe. Live from 7:30PM AEST.",
+      "language": "en",
+      "rating": "NR",
+      "categories": [
+        "Sports"
+      ],
+      "episode": "E2",
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/22095589/image/334x188"
     }
   ]
 }

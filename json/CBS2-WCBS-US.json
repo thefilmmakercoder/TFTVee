@@ -4,64 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-09T03:00:00+05:00",
-      "stop": "2026-06-09T03:30:00+05:00",
-      "title": "CBS News New York 6pm",
-      "desc": "Stay informed with the latest breaking news and headlines.",
-      "date": "2008",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p605164_b_h8_ab.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-06-09T03:30:00+05:00",
-      "stop": "2026-06-09T04:00:00+05:00",
-      "title": "CBS Evening News",
-      "desc": "Tony Dokoupil shares the day's most important stories, delivering context and depth to bring greater understanding to one's world.",
-      "date": "2026",
-      "language": "en",
-      "categories": [
-        "Series",
-        "News"
-      ],
-      "episode": "E159",
-      "icon": "http://dtil.tmsimg.com/assets/p28807922_b_h8_ae.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Tony Dokoupil",
-          "Maurice DuBois",
-          "Jericka Duncan"
-        ]
-      }
-    },
-    {
-      "start": "2026-06-09T04:00:00+05:00",
-      "stop": "2026-06-09T04:30:00+05:00",
-      "title": "Inside Edition",
-      "sub_title": "Teen Summer Unemployment",
-      "desc": "As teens search for summer jobs, here's how to improve your chances of getting hired.",
-      "date": "2026",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Series",
-        "Newsmagazine",
-        "Public affairs",
-        "Interview"
-      ],
-      "episode": "S38 E196",
-      "icon": "http://dtil.tmsimg.com/assets/p184110_b_h10_aa.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Eva Pilgrim",
-          "Mary Calvi",
-          "Jim Moret"
-        ]
-      }
-    },
-    {
       "start": "2026-06-09T04:30:00+05:00",
       "stop": "2026-06-09T05:00:00+05:00",
       "title": "Entertainment Tonight",
@@ -270,6 +212,58 @@
           "Jon Kelley"
         ]
       }
+    },
+    {
+      "start": "2026-06-09T10:07:00+05:00",
+      "stop": "2026-06-09T10:37:00+05:00",
+      "title": "Funny You Should Ask",
+      "desc": "Jon Lovitz; Jacke\u00e9 Harry; Adam Carolla; Byron Allen; Natasha Leggero; Jimmie Walker.",
+      "date": "2022",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Game show",
+        "Comedy"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p28608175_b_h10_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Jon Kelley"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-09T10:37:00+05:00",
+      "stop": "2026-06-09T11:07:00+05:00",
+      "title": "Funny You Should Ask",
+      "desc": "Jamie Kennedy; Sheryl Underwood; Adam Carolla; Byron Allen; Natasha Leggero; Jay Mohr.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Game show",
+        "Comedy"
+      ],
+      "episode": "S9 E34",
+      "icon": "http://dtil.tmsimg.com/assets/p28608175_b_h10_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Jon Kelley"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-09T11:07:00+05:00",
+      "stop": "2026-06-09T11:37:00+05:00",
+      "title": "9/11 Survivors Speak Up",
+      "desc": "Hear from survivors, first responders and advocates about the devastating impact of 9/11 toxins and the lifetime benefits available; learning about your rights and protection under the law.",
+      "language": "en",
+      "categories": [
+        "Consumer"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p20538847_st_h10_ab.jpg?w=960&h=540"
     }
   ]
 }
