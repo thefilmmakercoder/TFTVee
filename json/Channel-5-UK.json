@@ -4,42 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-09T16:45:00+05:00",
-      "stop": "2026-06-09T16:50:00+05:00",
-      "title": "5 News at Lunchtime",
-      "desc": "National and international news.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/cd3deddc-75d4-4d17-961b-ce3c26778683/16-9"
-    },
-    {
-      "start": "2026-06-09T16:50:00+05:00",
-      "stop": "2026-06-09T18:00:00+05:00",
-      "title": "Matt Allwright",
-      "desc": "Matt looks at the big news stories developing during the day and offers help and advice to save you money and make your lives a little easier.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/1ccc06e9-c7f7-4865-a1f2-5b1a6ecbffc2/16-9"
-    },
-    {
-      "start": "2026-06-09T18:00:00+05:00",
-      "stop": "2026-06-09T19:00:00+05:00",
-      "title": "Vanessa",
-      "desc": "Raw, unfiltered, authentic and personal, Vanessa Feltz wants you to tell her what's on your mind. Fiery discussions, a good giggle and plenty of afternoon gossip.",
-      "language": "en",
-      "categories": [
-        "Entertainment",
-        "Chat Show"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/aaa06eca-b2f1-4be6-a36b-cf1560bb9837/16-9"
-    },
-    {
       "start": "2026-06-09T19:00:00+05:00",
       "stop": "2026-06-09T19:55:00+05:00",
       "title": "Castle",
@@ -145,6 +109,41 @@
         "News & Documentary"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/d2bb0643-4a59-45db-8c6e-2f13bf4d67b5/16-9"
+    },
+    {
+      "start": "2026-06-10T03:35:00+05:00",
+      "stop": "2026-06-10T05:00:00+05:00",
+      "title": "Prime Suspect: Hunting the Predators",
+      "desc": "With unprecedented access, this series enters the dark world of online predators investigated by the National Crime Agency. In this edition: online paedophile Matthew Falder.",
+      "language": "en",
+      "categories": [
+        "News & Documentary"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/dd0c5e71-8fd6-4ef0-bff8-b791da9bf3dd/16-9"
+    },
+    {
+      "start": "2026-06-10T05:00:00+05:00",
+      "stop": "2026-06-10T06:00:00+05:00",
+      "title": "Cruise TV with LoveitBookit",
+      "desc": "Your one-stop-shop for all things cruise; bringing you the hottest destinations, ground-breaking ships and the latest deals to ensure your next cruise holiday is your greatest one.",
+      "language": "en",
+      "categories": [
+        "Specialist",
+        "Shopping"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/dd952efb-b1d1-48ba-9546-b26744c87456/16-9"
+    },
+    {
+      "start": "2026-06-10T06:00:00+05:00",
+      "stop": "2026-06-10T06:30:00+05:00",
+      "title": "Teleshopping",
+      "desc": "Shop by phone from the comfort of your home.",
+      "language": "en",
+      "categories": [
+        "Specialist",
+        "Shopping"
+      ],
+      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/Channel-5-UK.png"
     }
   ]
 }

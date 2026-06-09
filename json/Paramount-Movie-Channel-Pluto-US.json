@@ -4,27 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-09T12:15:00+05:00",
-      "stop": "2026-06-09T14:45:00+05:00",
-      "title": "Arrival",
-      "desc": "When mysterious spacecraft touch down across the globe, an elite team - led by expert translator Louise Banks (Academy Award\u00ae nominee Amy Adams) \u2013 races against time to decipher their intent.",
-      "language": "en"
-    },
-    {
-      "start": "2026-06-09T14:45:00+05:00",
-      "stop": "2026-06-09T17:15:00+05:00",
-      "title": "Super 8",
-      "desc": "In the summer of 1979, a group of friends in a small Ohio town witness a catastrophic train crash while making a Super 8 movie and soon suspect that it was not an accident.",
-      "date": "20110610",
-      "language": "en",
-      "categories": [
-        "Movie",
-        "Adventure",
-        "Science fiction"
-      ],
-      "icon": "https://images.pluto.tv/episodes/6075aec48119a5001a73ca10/poster_1773786961308.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694"
-    },
-    {
       "start": "2026-06-09T17:15:00+05:00",
       "stop": "2026-06-09T19:30:00+05:00",
       "title": "Disturbia",
@@ -45,8 +24,8 @@
       "date": "20160101",
       "language": "en",
       "categories": [
-        "Movie",
-        "Science fiction"
+        "Science fiction",
+        "Movie"
       ],
       "icon": "https://images.pluto.tv/episodes/5e83ac701fa6a9001bb9df24/poster_1768520163052.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694"
     },
@@ -58,9 +37,9 @@
       "date": "20110610",
       "language": "en",
       "categories": [
+        "Science fiction",
         "Movie",
-        "Adventure",
-        "Science fiction"
+        "Adventure"
       ],
       "icon": "https://images.pluto.tv/episodes/6075aec48119a5001a73ca10/poster_1773786961308.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694"
     },
@@ -98,8 +77,8 @@
       "date": "19540101",
       "language": "en",
       "categories": [
-        "Movie",
-        "Romance"
+        "Romance",
+        "Movie"
       ],
       "icon": "https://images.pluto.tv/episodes/5e5fb7e04698db001ab26ceb/poster_1779806162255.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694"
     },
@@ -111,30 +90,51 @@
       "date": "19600818",
       "language": "en",
       "categories": [
-        "Movie",
-        "Musical"
+        "Musical",
+        "Movie"
       ],
       "icon": "https://images.pluto.tv/episodes/58ed26c60b0f317e9d699c33/poster_1779823801889.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694"
     },
     {
       "start": "2026-06-10T09:45:00+05:00",
-      "stop": "2026-06-10T10:45:00+05:00",
+      "stop": "2026-06-10T11:30:00+05:00",
+      "title": "Another Time, Another Place",
+      "desc": "Mark Trevor, a World War II newsman with the British Broadcasting Corporation who's torn between two women.  One is Sara Scott, the American reporter working in England. The two embark on a romance \u2013 but it's an affair destined for tragedy.",
+      "date": "19580502",
+      "language": "en",
+      "categories": [
+        "Romance",
+        "Movie"
+      ],
+      "icon": "https://images.pluto.tv/episodes/5cf1c070b2849265b5159f44/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694"
+    },
+    {
+      "start": "2026-06-10T11:30:00+05:00",
+      "stop": "2026-06-10T12:30:00+05:00",
       "title": "Paramount Movie Channel",
       "desc": "Paramount Movie Channel delivers a 24/7 curated selection of celebrated cinematic hits, blockbusters, and legacy films from Hollywood's longest-operating movie studio library.",
       "language": "en",
       "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/Paramount-Movie-Channel-Pluto-US.png"
     },
     {
-      "start": "2026-06-10T10:45:00+05:00",
-      "stop": "2026-06-10T11:45:00+05:00",
+      "start": "2026-06-10T12:30:00+05:00",
+      "stop": "2026-06-10T13:30:00+05:00",
       "title": "Paramount Movie Channel",
       "desc": "Paramount Movie Channel delivers a 24/7 curated selection of celebrated cinematic hits, blockbusters, and legacy films from Hollywood's longest-operating movie studio library.",
       "language": "en",
       "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/Paramount-Movie-Channel-Pluto-US.png"
     },
     {
-      "start": "2026-06-10T11:45:00+05:00",
-      "stop": "2026-06-10T12:45:00+05:00",
+      "start": "2026-06-10T13:30:00+05:00",
+      "stop": "2026-06-10T14:30:00+05:00",
+      "title": "Paramount Movie Channel",
+      "desc": "Paramount Movie Channel delivers a 24/7 curated selection of celebrated cinematic hits, blockbusters, and legacy films from Hollywood's longest-operating movie studio library.",
+      "language": "en",
+      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/Paramount-Movie-Channel-Pluto-US.png"
+    },
+    {
+      "start": "2026-06-10T14:30:00+05:00",
+      "stop": "2026-06-10T15:30:00+05:00",
       "title": "Paramount Movie Channel",
       "desc": "Paramount Movie Channel delivers a 24/7 curated selection of celebrated cinematic hits, blockbusters, and legacy films from Hollywood's longest-operating movie studio library.",
       "language": "en",
