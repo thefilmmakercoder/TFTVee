@@ -4,30 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-09T10:00:00+05:00",
-      "stop": "2026-06-09T13:30:00+05:00",
-      "title": "Good Morning Britain",
-      "desc": "News, current affairs and lively debate.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/3dfea0e9-2edf-42be-ad65-b099464f4640/16-9"
-    },
-    {
-      "start": "2026-06-09T13:30:00+05:00",
-      "stop": "2026-06-09T14:00:00+05:00",
-      "title": "Lorraine",
-      "desc": "Lorraine Kelly presents a topical mix of entertainment, discussion and showbiz glamour as well as the latest fashion, food and celebrity gossip.",
-      "language": "en",
-      "categories": [
-        "Entertainment",
-        "Magazine"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/7d1a594f-53c8-4fcb-ae4d-c26a3f33bb5d/16-9"
-    },
-    {
       "start": "2026-06-09T14:00:00+05:00",
       "stop": "2026-06-09T16:30:00+05:00",
       "title": "This Morning",
@@ -146,6 +122,30 @@
         "News"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/41087a2d-28b4-47a5-a39c-72c0e2ce8b29/16-9"
+    },
+    {
+      "start": "2026-06-09T23:30:00+05:00",
+      "stop": "2026-06-10T02:25:00+05:00",
+      "title": "Women's European Qualifiers England v Ukraine",
+      "desc": "The Lionesses take on Ukraine in their final match of the 2027 World Cup qualifying campaign. Only the team that tops the group will qualify for the finals in Brazil.",
+      "language": "en",
+      "categories": [
+        "Sports",
+        "Football"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/1dd86b13-ebf1-4178-bbb8-1573e491cc3a/16-9"
+    },
+    {
+      "start": "2026-06-10T02:25:00+05:00",
+      "stop": "2026-06-10T02:55:00+05:00",
+      "title": "ITV News at Ten",
+      "desc": "ITV News provides a fresh perspective on the major stories of the day with national and international news with reports and analysis from ITV's Correspondents.",
+      "language": "en",
+      "categories": [
+        "News & Documentary",
+        "News"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/23dbc184-107b-4a80-b50b-93137ae751b0/16-9"
     }
   ]
 }

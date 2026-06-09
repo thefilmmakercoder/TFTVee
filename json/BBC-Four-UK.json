@@ -4,14 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-09T07:00:00+05:00",
-      "stop": "2026-06-09T09:30:00+05:00",
-      "title": "This is BBC Four",
-      "desc": "Programmes start at 7.00pm.",
-      "language": "en",
-      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/BBC-Four-UK.png"
-    },
-    {
       "start": "2026-06-09T09:30:00+05:00",
       "stop": "2026-06-09T15:30:00+05:00",
       "title": "..programmes start at 7.00pm",
@@ -126,6 +118,18 @@
         "Factual"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/e945872b-7d5a-49b0-a1dc-313f9b34044e/16-9"
+    },
+    {
+      "start": "2026-06-10T03:40:00+05:00",
+      "stop": "2026-06-10T04:30:00+05:00",
+      "title": "Muhammad Ali",
+      "desc": "Muhammad Ali shocks the world by defeating George Foreman, winning back the heavyweight title and becoming the most famous man on earth.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Factual"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/7d0b8e9b-51de-4752-9af6-e0c06bffffb5/16-9"
     }
   ]
 }

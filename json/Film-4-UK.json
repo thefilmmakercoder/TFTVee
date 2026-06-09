@@ -4,18 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-09T08:00:00+05:00",
-      "stop": "2026-06-09T11:00:00+05:00",
-      "title": "Teleshopping",
-      "desc": "Teleshopping.",
-      "language": "en",
-      "categories": [
-        "Specialist",
-        "Shopping"
-      ],
-      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/Film-4-UK.png"
-    },
-    {
       "start": "2026-06-09T11:00:00+05:00",
       "stop": "2026-06-09T15:00:00+05:00",
       "title": "Teleshopping",
@@ -162,6 +150,20 @@
         "Western"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/5b8e1acb-43c8-463e-b7ef-4052a0c3e4ed/16-9"
+    },
+    {
+      "start": "2026-06-10T16:45:00+05:00",
+      "stop": "2026-06-10T18:25:00+05:00",
+      "title": "The Guns of Fort Petticoat",
+      "desc": "Western. A Union army deserter sets out to turn his Texan hometown's womenfolk into sharpshooters in order to repel a Comanche attack. Starring Audie Murphy and Kathryn Grant.",
+      "date": "1957",
+      "language": "en",
+      "rating": "PG",
+      "categories": [
+        "Movie",
+        "Western"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/58bf6e7b-2104-4067-a480-b25b5f2ebf5c/16-9"
     }
   ]
 }
