@@ -4,14 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-09T19:25:00+05:00",
-      "stop": "2026-06-09T23:00:00+05:00",
-      "title": "Duke - Back In The Future",
-      "desc": "We'll catch you later on DUKE.",
-      "language": "en",
-      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/Duke-NZ.png"
-    },
-    {
       "start": "2026-06-09T23:00:00+05:00",
       "stop": "2026-06-10T04:35:00+05:00",
       "title": "On Duke Today...",
@@ -122,6 +114,17 @@
       "language": "en",
       "rating": "PG",
       "episode": "S5 E16",
+      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/Duke-NZ.png"
+    },
+    {
+      "start": "2026-06-10T12:00:00+05:00",
+      "stop": "2026-06-10T13:00:00+05:00",
+      "title": "The Simpsons",
+      "sub_title": "It's A Mad, Mad, Mad, Mad Marge",
+      "desc": "A jilted bride moves in with the Simpsons and smothers Homer and the children with motherly love, driving Marge mad.",
+      "language": "en",
+      "rating": "PG",
+      "episode": "S11 E21",
       "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/Duke-NZ.png"
     }
   ]

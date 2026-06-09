@@ -4,36 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-10T02:30:00+05:00",
-      "stop": "2026-06-10T03:00:00+05:00",
-      "title": "NJ Spotlight News with Briana Vannozzi",
-      "desc": "Statewide reporting on the latest news and issues affecting communities across the Garden State.",
-      "date": "2020",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p18850294_b_h10_aa.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-06-10T03:00:00+05:00",
-      "stop": "2026-06-10T03:30:00+05:00",
-      "title": "DW News",
-      "desc": "Presenting a round-up of the most recent news and developments from across the world.",
-      "date": "2002",
-      "language": "en",
-      "rating": "A",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p26245192_b_h10_aa.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Ben Fajzullin"
-        ]
-      }
-    },
-    {
       "start": "2026-06-10T03:30:00+05:00",
       "stop": "2026-06-10T04:00:00+05:00",
       "title": "BBC World News America",
@@ -211,6 +181,59 @@
           "William Healy",
           "Bruce Dinsmore",
           "Max Friedman Cole"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-10T15:30:00+05:00",
+      "stop": "2026-06-10T16:00:00+05:00",
+      "title": "Odd Squad",
+      "sub_title": "Teach A Man to Ice Fish",
+      "desc": "When villain Confetti Betty strikes the Odd Squad headquarters in the Arctic, the Mobile Unit return to help; as they attempt to crack the villain's pattern, they must teach the agents how to solve cases for themselves.",
+      "date": "2020",
+      "language": "en",
+      "rating": "TVY",
+      "categories": [
+        "Series",
+        "Children",
+        "Educational",
+        "Entertainment"
+      ],
+      "episode": "S3 E16",
+      "icon": "http://dtil.tmsimg.com/assets/p11086138_b_h8_bj.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Filip Geljo",
+          "Dalila Bela",
+          "Sean Michael Kyer"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-10T16:00:00+05:00",
+      "stop": "2026-06-10T16:30:00+05:00",
+      "title": "Wild Kratts",
+      "sub_title": "Flight of the Pollinators",
+      "desc": "A miniaturized Chris gets stuck to a bee.",
+      "date": "2012",
+      "language": "en",
+      "rating": "TVY",
+      "categories": [
+        "Series",
+        "Children",
+        "Educational",
+        "Science",
+        "Nature",
+        "Animals",
+        "Animated"
+      ],
+      "episode": "S1 E32",
+      "icon": "http://dtil.tmsimg.com/assets/p8369911_b_h8_aj.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Martin Kratt",
+          "Chris Kratt",
+          "Athena Karkanis"
         ]
       }
     }

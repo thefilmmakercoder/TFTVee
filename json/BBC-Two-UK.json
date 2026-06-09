@@ -4,18 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-10T02:30:00+05:00",
-      "stop": "2026-06-10T03:00:00+05:00",
-      "title": "Newsnight, followed by Weather",
-      "desc": "Insights and global interviews on the news stories of the day. With Victoria Derbyshire. Followed by Weather.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/891f63d4-063f-4d01-9e07-880a20d19282/16-9"
-    },
-    {
       "start": "2026-06-10T03:00:00+05:00",
       "stop": "2026-06-10T04:05:00+05:00",
       "title": "Brexit: A Very British Civil War",
@@ -141,6 +129,18 @@
         "Factual"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/dcf606f7-30cc-452b-a813-137a63b37be1/16-9"
+    },
+    {
+      "start": "2026-06-10T17:00:00+05:00",
+      "stop": "2026-06-10T22:00:00+05:00",
+      "title": "Tennis: Queen's",
+      "desc": "Live coverage from day 3 of the 2026 Queen's tennis tournament.",
+      "language": "en",
+      "categories": [
+        "Sports",
+        "Tennis"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/7c6ac9b8-ae3c-471f-a7f8-5cd97b6800ae/16-9"
     }
   ]
 }

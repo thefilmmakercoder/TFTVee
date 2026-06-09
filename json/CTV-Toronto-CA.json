@@ -4,37 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-10T02:30:00+05:00",
-      "stop": "2026-06-10T02:59:00+05:00",
-      "title": "CTV National News With Sandie Rinaldo",
-      "desc": "CTV News covers stories that matter to Canadians - locally, nationally, & internationally.",
-      "date": "2026",
-      "language": "en",
-      "categories": [
-        "Series",
-        "News"
-      ],
-      "episode": "E92",
-      "icon": "http://dtil.tmsimg.com/assets/p7988878_b_h8_aa.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Sandie Rinaldo"
-        ]
-      }
-    },
-    {
-      "start": "2026-06-10T02:59:00+05:00",
-      "stop": "2026-06-10T04:00:00+05:00",
-      "title": "Live: CTV News Toronto",
-      "desc": "CTV News covers stories that matter to Canadians, locally, nationally and internationally.",
-      "date": "2014",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p11226977_b_h8_ae.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-06-10T04:00:00+05:00",
       "stop": "2026-06-10T04:30:00+05:00",
       "title": "etalk",
@@ -253,6 +222,55 @@
           "Seth Meyers",
           "Amy Adams",
           "Dave Matthews"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-10T10:37:00+05:00",
+      "stop": "2026-06-10T11:07:00+05:00",
+      "title": "Seinfeld",
+      "sub_title": "The Package",
+      "desc": "Kramer tries to scam the post office; Elaine has a rash but has trouble finding a doctor who will treat her.",
+      "date": "1996",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Sitcom"
+      ],
+      "episode": "S8 E5",
+      "icon": "http://dtil.tmsimg.com/assets/p183875_b_h10_ab.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Andy Ackerman"
+        ],
+        "actor": [
+          "Jerry Seinfeld",
+          "Julia Louis-Dreyfus",
+          "Jason Alexander"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-10T11:07:00+05:00",
+      "stop": "2026-06-10T11:37:00+05:00",
+      "title": "Seinfeld",
+      "sub_title": "The Fatigues",
+      "desc": "The mentor of Jerry's latest girlfriend (A.J. Langer) is dating a rival (Steve Hytner); Elaine must fire a troubled employee.",
+      "date": "1996",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Series",
+        "Sitcom"
+      ],
+      "episode": "S8 E6",
+      "icon": "http://dtil.tmsimg.com/assets/p183875_b_h10_ab.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Jerry Seinfeld",
+          "Julia Louis-Dreyfus",
+          "Jason Alexander"
         ]
       }
     }

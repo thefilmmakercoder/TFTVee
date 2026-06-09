@@ -4,32 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-10T03:00:00+05:00",
-      "stop": "2026-06-10T03:10:00+05:00",
-      "title": "Euronews",
-      "sub_title": "Wednesday 10 June 2026",
-      "desc": "Headlines, Breaking News & Analysis from the Euronews news centre in Brussels, Belgium, in English.",
-      "language": "en",
-      "rating": "NR",
-      "categories": [
-        "News"
-      ],
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/276/image/334x188"
-    },
-    {
-      "start": "2026-06-10T03:10:00+05:00",
-      "stop": "2026-06-10T03:40:00+05:00",
-      "title": "NHK Newsline",
-      "sub_title": "Wednesday 10 June 2026",
-      "desc": "English news from Japan's Broadcasting Corporation, NHK, delivering the latest in business, technology, health, environmental and world news.",
-      "language": "en",
-      "rating": "NR",
-      "categories": [
-        "News"
-      ],
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/439062/image/334x188"
-    },
-    {
       "start": "2026-06-10T03:40:00+05:00",
       "stop": "2026-06-10T04:30:00+05:00",
       "title": "Cbc The National",
@@ -163,6 +137,33 @@
       ],
       "episode": "S1 E18",
       "icon": "https://www.fetchtv.com.au/v2/epg/program/436657/image/334x188"
+    },
+    {
+      "start": "2026-06-10T09:50:00+05:00",
+      "stop": "2026-06-10T10:45:00+05:00",
+      "title": "Brady Vs Belichick: The Verdict",
+      "sub_title": "The Case For Bill Belichick",
+      "desc": "The case for Bill Belichick is presented through five different arguments; player development, master motivator,.",
+      "language": "en",
+      "rating": "PG",
+      "categories": [
+        "Special Interest"
+      ],
+      "episode": "S1 E2",
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/12521606/image/334x188"
+    },
+    {
+      "start": "2026-06-10T10:45:00+05:00",
+      "stop": "2026-06-10T10:50:00+05:00",
+      "title": "NITV News Update",
+      "desc": "NITV News recaptures the highlights of Indigenous news around the country.",
+      "language": "en",
+      "rating": "NR",
+      "categories": [
+        "News"
+      ],
+      "episode": "E102",
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/5904078/image/334x188"
     }
   ]
 }
