@@ -4,43 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-09T22:00:00+05:00",
-      "stop": "2026-06-09T23:00:00+05:00",
-      "title": "The View",
-      "desc": "Sheryl Underwood guest co-hosts; actors Asif Ali, Saagar Shaikh and Poorna Jagannathan; songwriting and record production team Jimmy Jam and Terry Lewis.",
-      "date": "2026",
-      "language": "en",
-      "rating": "TV14",
-      "categories": [
-        "Series",
-        "Talk"
-      ],
-      "episode": "S29 E177",
-      "icon": "http://dtil.tmsimg.com/assets/p31138947_b_h8_aa.jpg?w=960&h=540",
-      "credits": {
-        "director": [
-          "Sarah de la O"
-        ],
-        "actor": [
-          "Whoopi Goldberg",
-          "Joy Behar",
-          "Sunny Hostin"
-        ]
-      }
-    },
-    {
-      "start": "2026-06-09T23:00:00+05:00",
-      "stop": "2026-06-10T00:00:00+05:00",
-      "title": "Eyewitness News 11AM",
-      "desc": "Midday news update.",
-      "date": "2008",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p676923_b_h8_af.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-06-10T00:00:00+05:00",
       "stop": "2026-06-10T01:00:00+05:00",
       "title": "GMA3",
@@ -217,6 +180,40 @@
           "Ken Jennings"
         ]
       }
+    },
+    {
+      "start": "2026-06-10T10:00:00+05:00",
+      "stop": "2026-06-10T10:30:00+05:00",
+      "title": "Wheel of Fortune",
+      "sub_title": "Drink in America Presented by Coca-Cola",
+      "desc": "In a classic game-show version of \"Hangman,\" contestants solve word puzzles for cash and prizes.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Series",
+        "Game show"
+      ],
+      "episode": "S43 E194",
+      "icon": "http://dtil.tmsimg.com/assets/p184057_b_h8_ai.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Ryan Seacrest",
+          "Vanna White"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-10T10:30:00+05:00",
+      "stop": "2026-06-10T11:00:00+05:00",
+      "title": "Eyewitness News",
+      "desc": "Stay informed with the latest breaking news and headlines.",
+      "date": "2025",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p31785684_st_h10_aa.jpg?w=960&h=540"
     }
   ]
 }

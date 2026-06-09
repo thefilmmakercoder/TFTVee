@@ -4,30 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-09T22:00:00+05:00",
-      "stop": "2026-06-09T23:00:00+05:00",
-      "title": "Good Day LA at 10am",
-      "desc": "Morning news coverage.",
-      "date": "2022",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p22751421_b_h8_ab.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-06-09T23:00:00+05:00",
-      "stop": "2026-06-10T00:00:00+05:00",
-      "title": "GDLA+",
-      "desc": "KTTV delivers premier Los Angeles news and entertainment, specializing in high-impact local journalism, live professional sports, and the flagship Fox network lineup of primetime series and reality television.",
-      "date": "2024",
-      "language": "en",
-      "categories": [
-        "Newsmagazine"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p26513975_b_h8_ab.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-06-10T00:00:00+05:00",
       "stop": "2026-06-10T01:00:00+05:00",
       "title": "Sherri",
@@ -219,6 +195,51 @@
           "Derek Hough",
           "Mona Kosar Abdi",
           "Terri Seymour"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-10T07:30:00+05:00",
+      "stop": "2026-06-10T08:00:00+05:00",
+      "title": "TMZ",
+      "desc": "TMZ TV tracks down today's hottest stars with their cameras, whether they are hitting the clubs or the dry cleaners.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Newsmagazine",
+        "Entertainment"
+      ],
+      "episode": "S19 E242",
+      "icon": "http://dtil.tmsimg.com/assets/p30985766_b_h10_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Harvey Levin"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-10T08:00:00+05:00",
+      "stop": "2026-06-10T09:00:00+05:00",
+      "title": "Farmer Wants a Wife",
+      "sub_title": "Final Decisions: It's Always Been You",
+      "desc": "The farmers make their final choices.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Reality",
+        "Romance"
+      ],
+      "episode": "S4 E8",
+      "icon": "http://dtil.tmsimg.com/assets/p32402813_b_h8_ab.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Kimberly Williams-Paisley",
+          "Braden Pridemore",
+          "Brett Maverick"
         ]
       }
     }
