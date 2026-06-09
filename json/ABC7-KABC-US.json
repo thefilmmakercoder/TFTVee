@@ -4,63 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-09T04:00:00+05:00",
-      "stop": "2026-06-09T05:00:00+05:00",
-      "title": "Eyewitness News 4PM",
-      "desc": "Early evening news.",
-      "date": "2004",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p676966_b_h8_af.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-06-09T05:00:00+05:00",
-      "stop": "2026-06-09T05:30:00+05:00",
-      "title": "Live: NBA Tip-Off",
-      "desc": "Host Ernie Johnson and analysts Shaquille O'Neal, Charles Barkley and Kenny Smith ready viewers for NBA action before ESPN's Wednesday night doubleheaders (and other select telecasts). Guest analysts also are featured from time to time.",
-      "date": "1998",
-      "language": "en",
-      "categories": [
-        "Basketball"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p267533_b_h8_ab.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Ernie Johnson",
-          "Charles Barkley",
-          "Shaquille O'Neal"
-        ]
-      }
-    },
-    {
-      "start": "2026-06-09T05:30:00+05:00",
-      "stop": "2026-06-09T08:00:00+05:00",
-      "title": "Live: 2026 NBA Finals",
-      "desc": "New York Knicks face the San Antonio Spurs in Game 3 of the NBA Finals. New York leads 2-0 after a 105-104 win where center Karl-Anthony Towns scored 21 points against Victor Wembanyama's Spurs. Eastern and Western conference teams clash in New York.",
-      "language": "en",
-      "categories": [
-        "Sports",
-        "Playoff sports",
-        "Basketball"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/GNLZZGG003563B1.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-06-09T08:00:00+05:00",
-      "stop": "2026-06-09T09:00:00+05:00",
-      "title": "Slam Dunk: The Finals",
-      "desc": "All basketball all the time with the best moments of the NBA Finals.",
-      "date": "2017",
-      "language": "en",
-      "categories": [
-        "Sports talk",
-        "Basketball"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p14137032_b_h10_aa.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-06-09T09:00:00+05:00",
       "stop": "2026-06-09T09:30:00+05:00",
       "title": "Jeopardy!",
@@ -212,6 +155,71 @@
           "Laverne Cox"
         ]
       }
+    },
+    {
+      "start": "2026-06-09T14:36:00+05:00",
+      "stop": "2026-06-09T15:30:00+05:00",
+      "title": "Tamron Hall",
+      "sub_title": "Exclusive: Meagan Good and Jonathan Majors",
+      "desc": "Newlywed actors Meagan Good and Jonathan Majors; Lauren and Cameron Hamilton (\"Love Is Blind\").",
+      "date": "2025",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Talk"
+      ],
+      "episode": "S7 E4",
+      "icon": "http://dtil.tmsimg.com/assets/p17197549_b_h8_af.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Tamron Hall",
+          "Meagan Good",
+          "Jonathan Majors"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-09T15:30:00+05:00",
+      "stop": "2026-06-09T16:00:00+05:00",
+      "title": "Good Morning America First Look",
+      "desc": "ABC's \"Good Morning America First Look\" brings one overnight breaking news, weather, politics, and the stories and video people will be talking about in the day ahead.",
+      "date": "2024",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p28311369_b_h8_ac.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Sophie Flay",
+          "Hanna Battah"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-09T16:00:00+05:00",
+      "stop": "2026-06-09T16:30:00+05:00",
+      "title": "Eyewitness News 4AM",
+      "desc": "News coverage to start the day.",
+      "date": "2009",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p7888306_b_h8_aa.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-06-09T16:30:00+05:00",
+      "stop": "2026-06-09T17:00:00+05:00",
+      "title": "Eyewitness News 4:30AM",
+      "desc": "News coverage to start the day.",
+      "date": "2008",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p676967_b_h8_af.jpg?w=960&h=540"
     }
   ]
 }
