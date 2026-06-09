@@ -4,31 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-09T07:50:00+05:00",
-      "stop": "2026-06-09T09:05:00+05:00",
-      "title": "Unwind with ITV",
-      "desc": "Your daily escape designed to calm the mind and encourage relaxation and reflection.",
-      "language": "en",
-      "categories": [
-        "Entertainment",
-        "Lifestyles"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/ac901030-6f4c-4392-b63c-2aa5f08eceb4/16-9"
-    },
-    {
-      "start": "2026-06-09T09:05:00+05:00",
-      "stop": "2026-06-09T10:00:00+05:00",
-      "title": "Alan Titchmarsh's Gardening Club",
-      "sub_title": "Gardening advice series",
-      "desc": "Alan answers a viewer's question as summer approaches, and Katy Watson reveals how to plant smartly for both droughts and downpours.",
-      "language": "en",
-      "categories": [
-        "Entertainment",
-        "Gradening"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/7b2f9c24-976f-4c5d-8d1e-6244e08b2d2b/16-9"
-    },
-    {
       "start": "2026-06-09T10:00:00+05:00",
       "stop": "2026-06-09T13:30:00+05:00",
       "title": "Good Morning Britain",
@@ -147,6 +122,30 @@
         "Game Show"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/2d2b6edf-0618-3a8f-910a-7e33b9c125bc/16-9"
+    },
+    {
+      "start": "2026-06-09T22:00:00+05:00",
+      "stop": "2026-06-09T22:30:00+05:00",
+      "title": "ITV News London",
+      "desc": "The latest news and weather from London and the South East.",
+      "language": "en",
+      "categories": [
+        "News & Documentary",
+        "News"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/9eb05805-bae5-4333-837d-502fa1a10954/16-9"
+    },
+    {
+      "start": "2026-06-09T22:30:00+05:00",
+      "stop": "2026-06-09T23:30:00+05:00",
+      "title": "ITV Evening News",
+      "desc": "National and international news with reports and analysis from ITV's Correspondents in the UK and around the world, plus a focus on the stories that matter to you.",
+      "language": "en",
+      "categories": [
+        "News & Documentary",
+        "News"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/41087a2d-28b4-47a5-a39c-72c0e2ce8b29/16-9"
     }
   ]
 }

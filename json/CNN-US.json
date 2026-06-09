@@ -4,89 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-09T08:00:00+05:00",
-      "stop": "2026-06-09T09:00:00+05:00",
-      "title": "Laura Coates Live",
-      "desc": "Laura Coates sparks unique conversations and covers the most interesting stories of the day through a news, legal and pop culture lens.",
-      "date": "2026",
-      "language": "en",
-      "rating": "TVG",
-      "categories": [
-        "Series",
-        "News",
-        "Public affairs"
-      ],
-      "episode": "E114",
-      "icon": "http://dtil.tmsimg.com/assets/p25850193_b_h10_ae.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Laura Coates"
-        ]
-      }
-    },
-    {
-      "start": "2026-06-09T09:00:00+05:00",
-      "stop": "2026-06-09T10:00:00+05:00",
-      "title": "Live: The Story Is With Elex Michaelson",
-      "desc": "Elex Michaelson tackles the breaking stories making headlines with sharp analysis, fresh perspective and a dose of humor.",
-      "date": "2026",
-      "language": "en",
-      "rating": "TVG",
-      "categories": [
-        "Series",
-        "News"
-      ],
-      "episode": "E238",
-      "icon": "http://dtil.tmsimg.com/assets/p31514402_b_h8_ab.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Elex Michaelson"
-        ]
-      }
-    },
-    {
-      "start": "2026-06-09T10:00:00+05:00",
-      "stop": "2026-06-09T11:00:00+05:00",
-      "title": "Live: The Story Is With Elex Michaelson",
-      "desc": "Elex Michaelson tackles the breaking stories making headlines with sharp analysis, fresh perspective and a dose of humor.",
-      "date": "2026",
-      "language": "en",
-      "rating": "TVG",
-      "categories": [
-        "Series",
-        "News"
-      ],
-      "episode": "E239",
-      "icon": "http://dtil.tmsimg.com/assets/p31514402_b_h8_ab.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Elex Michaelson"
-        ]
-      }
-    },
-    {
-      "start": "2026-06-09T11:00:00+05:00",
-      "stop": "2026-06-09T12:00:00+05:00",
-      "title": "Anderson Cooper 360",
-      "desc": "Anderson Cooper goes beyond the headlines with in-depth reporting and investigations; Anderson keeps his commitment to holding those in power accountable; joining him are guests that frequently include political and legal analysts.",
-      "date": "2026",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Series",
-        "News",
-        "Interview",
-        "Politics"
-      ],
-      "episode": "E118",
-      "icon": "http://dtil.tmsimg.com/assets/p185440_b_h10_ab.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Anderson Cooper"
-        ]
-      }
-    },
-    {
       "start": "2026-06-09T12:00:00+05:00",
       "stop": "2026-06-09T13:00:00+05:00",
       "title": "CNN NewsNight With Abby Phillip",
@@ -238,6 +155,81 @@
       ],
       "episode": "E227",
       "icon": "http://dtil.tmsimg.com/assets/p29585222_b_h8_aa.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-06-09T20:00:00+05:00",
+      "stop": "2026-06-09T21:00:00+05:00",
+      "title": "Live: The Situation Room",
+      "desc": "Wolf Blitzer and Pamela Brown are in the command center for breaking news, politics and extraordinary reports from around the world.",
+      "date": "2026",
+      "language": "en",
+      "categories": [
+        "Series",
+        "News"
+      ],
+      "episode": "E228",
+      "icon": "http://dtil.tmsimg.com/assets/p29585222_b_h8_aa.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-06-09T21:00:00+05:00",
+      "stop": "2026-06-09T22:00:00+05:00",
+      "title": "Live: Inside Politics With Dana Bash",
+      "desc": "Top political stories researched by top reporters.",
+      "date": "2026",
+      "language": "en",
+      "categories": [
+        "Series",
+        "News",
+        "Interview",
+        "Politics"
+      ],
+      "episode": "E114",
+      "icon": "http://dtil.tmsimg.com/assets/p24962888_b_h8_ab.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Dana Bash"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-09T22:00:00+05:00",
+      "stop": "2026-06-09T23:00:00+05:00",
+      "title": "Live: CNN News Central",
+      "desc": "News from around the world with Brianna Keilar and Boris Sanchez.",
+      "date": "2026",
+      "language": "en",
+      "categories": [
+        "Series",
+        "News"
+      ],
+      "episode": "E340",
+      "icon": "http://dtil.tmsimg.com/assets/p24581847_b_h8_ac.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Brianna Keilar",
+          "Boris Sanchez"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-09T23:00:00+05:00",
+      "stop": "2026-06-10T00:00:00+05:00",
+      "title": "Live: CNN News Central",
+      "desc": "News from around the world with Brianna Keilar and Boris Sanchez.",
+      "date": "2026",
+      "language": "en",
+      "categories": [
+        "Series",
+        "News"
+      ],
+      "episode": "E341",
+      "icon": "http://dtil.tmsimg.com/assets/p24581847_b_h8_ac.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Brianna Keilar",
+          "Boris Sanchez"
+        ]
+      }
     }
   ]
 }
