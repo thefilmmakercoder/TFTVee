@@ -4,74 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-10T00:00:00+05:00",
-      "stop": "2026-06-10T01:00:00+05:00",
-      "title": "The Social",
-      "desc": "A talk show that brings a fresh, daily perspective on the news, pop culture and lifestyle topics that matter most to Canadians.",
-      "date": "2026",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Series",
-        "Talk"
-      ],
-      "episode": "S13 E178",
-      "icon": "http://dtil.tmsimg.com/assets/p10115884_b_h8_ah.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Melissa Grelo",
-          "Cynthia Loyst",
-          "Andrea Bain"
-        ]
-      }
-    },
-    {
-      "start": "2026-06-10T01:00:00+05:00",
-      "stop": "2026-06-10T02:00:00+05:00",
-      "title": "The Good Stuff With Mary Berg",
-      "desc": "Mary Berg explores lifestyle trends, do-it-yourself projects, home renovations, recipes and more; featuring celebrity guests, influencers and everyday heroes.",
-      "date": "2026",
-      "language": "en",
-      "categories": [
-        "Series",
-        "Talk",
-        "Entertainment"
-      ],
-      "episode": "S3 E171",
-      "icon": "http://dtil.tmsimg.com/assets/p24996781_b_h8_ab.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Mary Berg"
-        ]
-      }
-    },
-    {
-      "start": "2026-06-10T02:00:00+05:00",
-      "stop": "2026-06-10T02:30:00+05:00",
-      "title": "Seinfeld",
-      "sub_title": "The Merv Griffin Show",
-      "desc": "Jerry has designs on his new date's collection of toys; Kramer discovers furniture with a noteworthy past.",
-      "date": "1997",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Series",
-        "Sitcom"
-      ],
-      "episode": "S9 E6",
-      "icon": "http://dtil.tmsimg.com/assets/p7892827_b_h10_aa.jpg?w=960&h=540",
-      "credits": {
-        "director": [
-          "Andy Ackerman"
-        ],
-        "actor": [
-          "Jerry Seinfeld",
-          "Julia Louis-Dreyfus",
-          "Jason Alexander"
-        ]
-      }
-    },
-    {
       "start": "2026-06-10T02:30:00+05:00",
       "stop": "2026-06-10T02:59:00+05:00",
       "title": "CTV National News With Sandie Rinaldo",
@@ -253,6 +185,86 @@
       ],
       "episode": "E94",
       "icon": "http://dtil.tmsimg.com/assets/p22894284_b_h8_ab.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-06-10T10:07:00+05:00",
+      "stop": "2026-06-10T11:05:00+05:00",
+      "title": "Criminal Minds",
+      "sub_title": "Burn",
+      "desc": "The team members search for a vengeful suspect who was once abused; Garcia travels to Texas to confront the person she shot.",
+      "date": "2014",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "Series",
+        "Crime drama",
+        "Mystery",
+        "Thriller",
+        "Drama"
+      ],
+      "episode": "S10 E2",
+      "icon": "http://dtil.tmsimg.com/assets/p185123_b_h8_ak.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Karen Gaviola"
+        ],
+        "actor": [
+          "Joe Mantegna",
+          "Thomas Gibson",
+          "Shemar Moore"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-10T11:05:00+05:00",
+      "stop": "2026-06-10T12:05:00+05:00",
+      "title": "Suits",
+      "sub_title": "Endgame",
+      "desc": "As the murder trial begins, Harvey, Mike and Jessica fight betrayal; Louis and Donna want to even the score.",
+      "date": "2013",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "Series",
+        "Drama",
+        "Crime drama",
+        "Law",
+        "Comedy"
+      ],
+      "episode": "S3 E8",
+      "icon": "http://dtil.tmsimg.com/assets/p8630071_b_h8_bc.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Patrick J. Adams",
+          "Gabriel Macht",
+          "Meghan Markle"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-10T12:05:00+05:00",
+      "stop": "2026-06-10T13:05:00+05:00",
+      "title": "Flashpoint",
+      "sub_title": "Cost of Doing Business",
+      "desc": "Team One is drawn into a dangerous world of express kidnapping when a ransom drop goes wrong.",
+      "date": "2011",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "Series",
+        "Crime drama",
+        "Thriller",
+        "Action"
+      ],
+      "episode": "S4 E9",
+      "icon": "http://dtil.tmsimg.com/assets/p186582_b_h8_ak.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Enrico Colantoni",
+          "Hugh Dillon",
+          "Amy Jo Johnson"
+        ]
+      }
     }
   ]
 }
