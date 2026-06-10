@@ -4,55 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-10T06:00:00+05:00",
-      "stop": "2026-06-10T07:30:00+05:00",
-      "title": "Play It Again, Sam",
-      "desc": "Overanxious film critic Allan (Woody Allen) sinks into a depression after his wife leaves him. Concerned, his married friends Dick (Tony Roberts) and Linda (Diane Keaton) encourage him to meet new women. Inspired by Humphrey Bogart's dark persona, Allan attempts to emulate him in flirting with women. However, his frail personality ensures that his every attempt blows up in his face. His hapless romantic life reaches catastrophic levels when he develops feelings for Linda.",
-      "date": "1972",
-      "language": "en",
-      "rating": "PG",
-      "categories": [
-        "Movie",
-        "Comedy"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p2208_v_h10_ah.jpg?w=960&h=540",
-      "credits": {
-        "director": [
-          "Herbert Ross"
-        ],
-        "actor": [
-          "Woody Allen",
-          "Diane Keaton",
-          "Tony Roberts"
-        ]
-      }
-    },
-    {
-      "start": "2026-06-10T07:30:00+05:00",
-      "stop": "2026-06-10T09:35:00+05:00",
-      "title": "The Longest Yard",
-      "desc": "An ex-football star doing time is forced by the warden to organize a team of inmates to play against his own line-up of guards. The warden tries to blackmail him into throwing the game, but the convicts have their own ideas and see the game as an opportunity to repay some of the brutality they have endured.",
-      "date": "1974",
-      "language": "en",
-      "rating": "R",
-      "categories": [
-        "Movie",
-        "Comedy drama",
-        "Crime drama"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p3961_v_h8_ah.jpg?w=960&h=540",
-      "credits": {
-        "director": [
-          "Robert Aldrich"
-        ],
-        "actor": [
-          "Burt Reynolds",
-          "Eddie Albert",
-          "Ed Lauter"
-        ]
-      }
-    },
-    {
       "start": "2026-06-10T09:35:00+05:00",
       "stop": "2026-06-10T12:00:00+05:00",
       "title": "Kill Bill: Vol. 2",
@@ -245,6 +196,105 @@
           "Ben Kingsley",
           "Theo James",
           "Jacqueline Bisset"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-11T00:00:00+05:00",
+      "stop": "2026-06-11T02:00:00+05:00",
+      "title": "Bad News Bears",
+      "desc": "Morris Buttermaker is a burned-out minor league baseball player who loves to drink and can't keep his hands to himself. His long-suffering lawyer arranges for him to manage a local Little League team, and Buttermaker soon finds himself the head of a rag-tag group of misfit players. Through unconventional team-building exercises and his offbeat coaching style, Buttermaker helps his hapless Bears prepare to meet their rivals, the Yankees.",
+      "date": "2005",
+      "language": "en",
+      "rating": "PG-13",
+      "categories": [
+        "Movie",
+        "Comedy"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p35902_v_h10_al.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Richard Linklater"
+        ],
+        "actor": [
+          "Billy Bob Thornton",
+          "Greg Kinnear",
+          "Marcia Gay Harden"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-11T02:00:00+05:00",
+      "stop": "2026-06-11T04:00:00+05:00",
+      "title": "She's Having a Baby",
+      "desc": "Jake (Kevin Bacon) and Kristy Briggs (Elizabeth McGovern) have made the leap from high school sweethearts to newlyweds, but married life is not what Jake expected. While he fantasizes about a dream girl and envies the lifestyle of his single best friend (Alec Baldwin), Kristy is ready to have a baby. Instead of sharing this with Jake, she opts to secretly stop taking birth control. However, Kristy comes clean after failing to become pregnant, prompting Jake to go to a fertility clinic.",
+      "date": "1988",
+      "language": "en",
+      "rating": "PG-13",
+      "categories": [
+        "Movie",
+        "Comedy drama"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p10592_v_h8_ai.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "John Hughes"
+        ],
+        "actor": [
+          "Kevin Bacon",
+          "Elizabeth McGovern",
+          "Alec Baldwin"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-11T04:00:00+05:00",
+      "stop": "2026-06-11T06:00:00+05:00",
+      "title": "Children of a Lesser God",
+      "desc": "Starting his new job as an instructor at a New England school for the deaf, James Leeds meets Sarah Norman, a young deaf woman who works at the school as a member of the custodial staff. A romance slowly develops between the pair in spite of Sarah's withdrawn emotional state due in part to her difficult relationship with her mother.",
+      "date": "1986",
+      "language": "en",
+      "rating": "R",
+      "categories": [
+        "Movie",
+        "Drama"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p9535_v_h11_ab.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Randa Haines"
+        ],
+        "actor": [
+          "William Hurt",
+          "Marlee Matlin",
+          "Piper Laurie"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-11T06:00:00+05:00",
+      "stop": "2026-06-11T08:20:00+05:00",
+      "title": "The Talented Mr. Ripley",
+      "desc": "To be young and carefree amid the blue waters and idyllic landscape of sun-drenched Italy in the late 1950s; that's la dolce vita Tom Ripley (Matt Damon) craves- and Dickie Greenleaf (Jude Law) leads. When Dickie's father asks Tom to bring his errant playboy son back home to America, Dickie and his beautiful expatriate girlfriend, Marge Sherwood (Gwyneth Paltrow), never suspect the dangerous extremes to which Ripley will go to make their lifestyle his own.",
+      "date": "1999",
+      "language": "en",
+      "rating": "R",
+      "categories": [
+        "Movie",
+        "Crime drama",
+        "Thriller",
+        "Mystery",
+        "Romance"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p24479_v_h8_al.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Anthony Minghella"
+        ],
+        "actor": [
+          "Matt Damon",
+          "Gwyneth Paltrow",
+          "Jude Law"
         ]
       }
     }
