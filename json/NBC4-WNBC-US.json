@@ -4,62 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-10T20:30:00+05:00",
-      "stop": "2026-06-10T21:00:00+05:00",
-      "title": "New York Live",
-      "desc": "Celebrity interviews and discussing recipes, beauty, fashion and current events pertinent to the tri-state region.",
-      "date": "2011",
-      "language": "en",
-      "categories": [
-        "News",
-        "Newsmagazine"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p8692580_b_h8_ac.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-06-10T21:00:00+05:00",
-      "stop": "2026-06-10T22:00:00+05:00",
-      "title": "NBC News Daily",
-      "desc": "NBC News provides viewers with the latest national and international news; consumer, health and personal finance reporting; up-to-the-minute local news.",
-      "date": "2026",
-      "language": "en",
-      "categories": [
-        "Series",
-        "News"
-      ],
-      "episode": "E104",
-      "icon": "http://dtil.tmsimg.com/assets/p22712535_b_h8_ad.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Vicky Nguyen",
-          "Morgan Radford"
-        ]
-      }
-    },
-    {
-      "start": "2026-06-10T22:00:00+05:00",
-      "stop": "2026-06-10T23:00:00+05:00",
-      "title": "Dateline",
-      "sub_title": "Family Affair",
-      "desc": "The legendary Fontainebleau Hotel in Miami Beach, Fla., is the backdrop for a mystery involving the murders of wealthy heir Ben Novack and his mother, Bernice.",
-      "date": "2018",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Series",
-        "Newsmagazine",
-        "Documentary"
-      ],
-      "episode": "S2 E16",
-      "icon": "http://dtil.tmsimg.com/assets/p13159645_b_h10_aa.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Natalie Morales",
-          "Craig Melvin"
-        ]
-      }
-    },
-    {
       "start": "2026-06-10T23:00:00+05:00",
       "stop": "2026-06-11T00:00:00+05:00",
       "title": "Access Daily With Mario & Kit",
@@ -200,6 +144,88 @@
       "date": "2026",
       "language": "en",
       "icon": "http://dtil.tmsimg.com/assets/p33273872_st_h10_aa.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-06-11T04:30:00+05:00",
+      "stop": "2026-06-11T05:00:00+05:00",
+      "title": "Access Hollywood",
+      "desc": "\"Toy Story 5\" red carpet premiere and cast interviews; an interview with James Marsden; an interview with former Spice Girl Melanie C (album \"Sweat\").",
+      "date": "2026",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Newsmagazine",
+        "Entertainment",
+        "Interview"
+      ],
+      "episode": "S30 E191",
+      "icon": "http://dtil.tmsimg.com/assets/p30926755_b_h8_ab.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Mario Lopez",
+          "Kit Hoover",
+          "Scott Evans"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-11T05:00:00+05:00",
+      "stop": "2026-06-11T06:00:00+05:00",
+      "title": "Brilliant Minds",
+      "sub_title": "Doctor, Interrupted",
+      "desc": "Wolf becomes fascinated with an unusual patient at Hudson Oaks who displays signs of being possessed; Carol and Thorne help newlyweds who are struggling with their sex life.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "Series",
+        "Drama",
+        "Medical"
+      ],
+      "episode": "S2 E17",
+      "icon": "http://dtil.tmsimg.com/assets/p30834652_b_h8_ad.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Erica Dunton"
+        ],
+        "actor": [
+          "Zachary Quinto",
+          "Tamberla Perry",
+          "Ashleigh LaThrop"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-11T06:00:00+05:00",
+      "stop": "2026-06-11T07:00:00+05:00",
+      "title": "Chicago Fire",
+      "sub_title": "Pierce the Vein",
+      "desc": "Severide investigates a suspicious high school fire; Novak gets an unexpected call; Violet brings a 51 firefighter onboard the ambulance for a shift.",
+      "date": "2025",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "Series",
+        "Drama",
+        "Action"
+      ],
+      "episode": "S14 E7",
+      "icon": "http://dtil.tmsimg.com/assets/p30834763_b_h8_ad.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Will Eichler",
+          "Reza Tabrizi",
+          "Jono Oliver",
+          "Matt Earl Beesley",
+          "Joe Chappelle"
+        ],
+        "actor": [
+          "Dermot Mulroney",
+          "Taylor Kinney",
+          "David Eigenberg"
+        ]
+      }
     }
   ]
 }

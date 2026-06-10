@@ -4,42 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-10T19:00:00+05:00",
-      "stop": "2026-06-10T21:00:00+05:00",
-      "title": "Good Day LA at 7am",
-      "desc": "Morning news coverage.",
-      "date": "2012",
-      "language": "en",
-      "categories": [
-        "Talk"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p9542652_b_h8_ac.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-06-10T21:00:00+05:00",
-      "stop": "2026-06-10T22:00:00+05:00",
-      "title": "Good Day LA at 9am",
-      "desc": "Morning news coverage.",
-      "date": "2012",
-      "language": "en",
-      "categories": [
-        "Talk"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p9542653_b_h8_ac.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-06-10T22:00:00+05:00",
-      "stop": "2026-06-10T23:00:00+05:00",
-      "title": "Good Day LA at 10am",
-      "desc": "Morning news coverage.",
-      "date": "2022",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p22751421_b_h8_ab.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-06-10T23:00:00+05:00",
       "stop": "2026-06-11T00:00:00+05:00",
       "title": "GDLA+",
@@ -208,6 +172,62 @@
         "News"
       ],
       "icon": "http://dtil.tmsimg.com/assets/p18140393_b_h8_ad.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-06-11T06:30:00+05:00",
+      "stop": "2026-06-11T07:00:00+05:00",
+      "title": "Live: West Coast News Wrap",
+      "desc": "Stay informed with the latest breaking news and headlines.",
+      "date": "2026",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p32049696_b_h10_aa.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-06-11T07:00:00+05:00",
+      "stop": "2026-06-11T07:30:00+05:00",
+      "title": "Extra",
+      "desc": "Inside the entertainment newsgathering process, as reporters coast-to-coast break headlines, advance the stories of the day and sit down with celebrities.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Newsmagazine",
+        "Entertainment"
+      ],
+      "episode": "S32 E243",
+      "icon": "http://dtil.tmsimg.com/assets/p30948222_b_h8_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Derek Hough",
+          "Mona Kosar Abdi",
+          "Terri Seymour"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-11T07:30:00+05:00",
+      "stop": "2026-06-11T08:00:00+05:00",
+      "title": "TMZ",
+      "desc": "TMZ TV tracks down today's hottest stars with their cameras, whether they are hitting the clubs or the dry cleaners.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Newsmagazine",
+        "Entertainment"
+      ],
+      "episode": "S19 E243",
+      "icon": "http://dtil.tmsimg.com/assets/p30985766_b_h10_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Harvey Levin"
+        ]
+      }
     }
   ]
 }

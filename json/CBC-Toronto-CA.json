@@ -4,84 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-10T20:30:00+05:00",
-      "stop": "2026-06-10T21:00:00+05:00",
-      "title": "Bears' Lair",
-      "desc": "In round one, three of six semi-finalists are mentored by Dean Montgomery, helping them strengthen their business pitches; after their mentoring session, the contestants are ready to face the Bears and compete for a spot in the season's finale.",
-      "date": "2024",
-      "language": "en",
-      "rating": "TVG",
-      "categories": [
-        "Series",
-        "Community",
-        "Reality"
-      ],
-      "episode": "S2 E7",
-      "icon": "http://dtil.tmsimg.com/assets/p22767259_b_h8_ac.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-06-10T21:00:00+05:00",
-      "stop": "2026-06-10T22:00:00+05:00",
-      "title": "Live: CBC Newsroom",
-      "desc": "News program bringing Canadians breaking news and live coverage from across Canada and around the world.",
-      "date": "2017",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p14555206_b_h8_af.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-06-10T22:00:00+05:00",
-      "stop": "2026-06-10T23:00:00+05:00",
-      "title": "Escape to the Country",
-      "sub_title": "Shropshire",
-      "desc": "Chris Bavin and today's couple marvel at Shropshire's stunning countryside in between checking out some tempting homes from the county's property market; taking time away from the house search, Chris's taste buds are in for a treat.",
-      "date": "2022",
-      "language": "en",
-      "rating": "TVG",
-      "categories": [
-        "Series",
-        "House/garden",
-        "Home improvement",
-        "Bus./financial"
-      ],
-      "episode": "S22 E36",
-      "icon": "http://dtil.tmsimg.com/assets/p379352_b_h8_bq.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Chris Bavin"
-        ]
-      }
-    },
-    {
-      "start": "2026-06-10T23:00:00+05:00",
-      "stop": "2026-06-10T23:30:00+05:00",
-      "title": "Coronation Street",
-      "desc": "The contents of Summer's journal sparks concern, and Ben finds Eva comforting Maggie.",
-      "date": "2026",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Series",
-        "Soap",
-        "Drama",
-        "Romance"
-      ],
-      "episode": "E97",
-      "icon": "http://dtil.tmsimg.com/assets/p31898227_b_h11_aa.jpg?w=960&h=540",
-      "credits": {
-        "director": [
-          "Gill Wilkinson"
-        ],
-        "actor": [
-          "Harriet Bibby",
-          "Gareth Pierce",
-          "Tony Maudsley"
-        ]
-      }
-    },
-    {
       "start": "2026-06-10T23:30:00+05:00",
       "stop": "2026-06-11T00:00:00+05:00",
       "title": "Son of a Critch",
@@ -268,6 +190,77 @@
           "Karin Konoval"
         ]
       }
+    },
+    {
+      "start": "2026-06-11T06:00:00+05:00",
+      "stop": "2026-06-11T07:00:00+05:00",
+      "title": "Allegiance",
+      "sub_title": "Blood & Berries",
+      "desc": "When a body is discovered in the Serpentine River, long-buried family secrets are unearthed; Sabrina and Nate's relationship reaches a new level.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "Series",
+        "Drama"
+      ],
+      "episode": "S3 E2",
+      "icon": "http://dtil.tmsimg.com/assets/p31923421_b_h8_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Supinder Wraich",
+          "Enrico Colantoni",
+          "Stephen Lobo"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-11T07:00:00+05:00",
+      "stop": "2026-06-11T08:00:00+05:00",
+      "title": "Live: The National",
+      "desc": "CBC's flagship nightly news program, featuring the day's top stories with in-depth and original journalism; Adrienne Arsenault and Ian Hanomansing anchor.",
+      "date": "2026",
+      "language": "en",
+      "categories": [
+        "Series",
+        "News"
+      ],
+      "episode": "E139",
+      "icon": "http://dtil.tmsimg.com/assets/p191966_b_h8_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Ian Hanomansing",
+          "Adrienne Arsenault"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-11T08:00:00+05:00",
+      "stop": "2026-06-11T08:30:00+05:00",
+      "title": "Live: CBC Toronto News at 11",
+      "desc": "The host presents information about the social, economic and political issues of the day and provides updates on current events in Toronto.",
+      "date": "2016",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p12567799_b_h10_ad.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-06-11T08:30:00+05:00",
+      "stop": "2026-06-11T09:00:00+05:00",
+      "title": "Arctic Vets",
+      "sub_title": "Beluga Scars, a Cracked Beak and Broken Polar Bear Teeth",
+      "desc": "A new intern operates on a rescued peregrine falcon with an injured beak; Dr. Stephen and C-Jae investigate mysterious scars on injured belugas in the wild; Heather spots a troubling dental issue with a polar bear cub with broken teeth.",
+      "date": "2021",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Series",
+        "Animals"
+      ],
+      "episode": "S1 E3",
+      "icon": "http://dtil.tmsimg.com/assets/p19359120_b_h8_aa.jpg?w=960&h=540"
     }
   ]
 }
