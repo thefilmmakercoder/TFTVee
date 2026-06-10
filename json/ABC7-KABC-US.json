@@ -4,42 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-10T16:30:00+05:00",
-      "stop": "2026-06-10T17:00:00+05:00",
-      "title": "Eyewitness News 4:30AM",
-      "desc": "News coverage to start the day.",
-      "date": "2008",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p676967_b_h8_af.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-06-10T17:00:00+05:00",
-      "stop": "2026-06-10T18:00:00+05:00",
-      "title": "Eyewitness News 5AM",
-      "desc": "News coverage to start the day.",
-      "date": "2004",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p676994_b_h8_af.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-06-10T18:00:00+05:00",
-      "stop": "2026-06-10T19:00:00+05:00",
-      "title": "Eyewitness News 6AM",
-      "desc": "News coverage to start the day.",
-      "date": "2004",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p677002_b_h8_af.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-06-10T19:00:00+05:00",
       "stop": "2026-06-10T21:00:00+05:00",
       "title": "Good Morning America",
@@ -224,6 +188,50 @@
           "David Muir"
         ]
       }
+    },
+    {
+      "start": "2026-06-11T04:00:00+05:00",
+      "stop": "2026-06-11T05:00:00+05:00",
+      "title": "Eyewitness News 4PM",
+      "desc": "Early evening news.",
+      "date": "2004",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p676966_b_h8_af.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-06-11T05:00:00+05:00",
+      "stop": "2026-06-11T05:30:00+05:00",
+      "title": "Live: NBA Tip-Off",
+      "desc": "Host Ernie Johnson and analysts Shaquille O'Neal, Charles Barkley and Kenny Smith ready viewers for NBA action before ESPN's Wednesday night doubleheaders (and other select telecasts). Guest analysts also are featured from time to time.",
+      "date": "1998",
+      "language": "en",
+      "categories": [
+        "Basketball"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p267533_b_h8_ab.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Ernie Johnson",
+          "Charles Barkley",
+          "Shaquille O'Neal"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-11T05:30:00+05:00",
+      "stop": "2026-06-11T08:00:00+05:00",
+      "title": "Live: 2026 NBA Finals",
+      "desc": "The Knicks host the Spurs at Madison Square Garden for Game 4 of the NBA Finals.",
+      "language": "en",
+      "categories": [
+        "Sports",
+        "Playoff sports",
+        "Basketball"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/GNLZZGG0035GVF0.jpg?w=960&h=540"
     }
   ]
 }
