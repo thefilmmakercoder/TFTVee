@@ -4,42 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-10T13:00:00+05:00",
-      "stop": "2026-06-10T13:30:00+05:00",
-      "title": "CBS News Mornings",
-      "desc": "CBS News Mornings broadcasts on weekdays and offers viewers up-to-date news, comprehensive weather forecasts, and highlights from the world of sports.",
-      "date": "2024",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p27236437_b_h8_ab.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-06-10T13:30:00+05:00",
-      "stop": "2026-06-10T14:00:00+05:00",
-      "title": "CBS News New York This Morning 4:30am",
-      "desc": "News coverage to start the day.",
-      "date": "2020",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p18809050_b_h8_ac.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-06-10T14:00:00+05:00",
-      "stop": "2026-06-10T15:00:00+05:00",
-      "title": "CBS News New York This Morning 5am",
-      "desc": "News coverage to start the day.",
-      "date": "2020",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p18809052_b_h8_ac.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-06-10T15:00:00+05:00",
       "stop": "2026-06-10T16:00:00+05:00",
       "title": "CBS News New York This Morning 6am",
@@ -217,6 +181,73 @@
           "Katherine Kelly Lang",
           "Jacqueline MacInnes Wood",
           "Thorsten Kaye"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-10T23:00:00+05:00",
+      "stop": "2026-06-11T00:00:00+05:00",
+      "title": "Beyond the Gates",
+      "desc": "Jack, Diane and Kyle Abbott, along with Devon and Abby, arrive at Martin's fundraiser; Naomi convinces Ashley to join her at the club; a tornado strikes Fairmont Crest.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "Series",
+        "Soap",
+        "Drama"
+      ],
+      "episode": "S2 E105",
+      "icon": "http://dtil.tmsimg.com/assets/p28339808_b_h8_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Clifton Davis",
+          "Tamara Tunie",
+          "Daphnee Duplaix"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-11T00:00:00+05:00",
+      "stop": "2026-06-11T00:30:00+05:00",
+      "title": "Judge Judy",
+      "sub_title": "Never Do Business With Family!; $100,000 Profit and a Paint Job",
+      "desc": "A woman regrets selling her car to a cousin but neglecting to take it out of her name; a man sues his ex for unpaid rent and damage to a home.",
+      "date": "2015",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Reality",
+        "Law"
+      ],
+      "episode": "S19 E224",
+      "icon": "http://dtil.tmsimg.com/assets/p184382_b_h8_af.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Judy Sheindlin"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-11T00:30:00+05:00",
+      "stop": "2026-06-11T01:00:00+05:00",
+      "title": "Judge Judy",
+      "sub_title": "Botched Eyelash Extensions?; Good Christian Deed Gone Wrong!",
+      "desc": "A customer sues an unlicensed beautician for damages; a formerly homeless couple say their friend gave them thousands of dollars as a gift.",
+      "date": "2015",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Reality",
+        "Law"
+      ],
+      "episode": "S19 E132",
+      "icon": "http://dtil.tmsimg.com/assets/p184382_b_h8_af.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Judy Sheindlin"
         ]
       }
     }

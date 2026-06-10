@@ -4,30 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-10T10:00:00+05:00",
-      "stop": "2026-06-10T13:30:00+05:00",
-      "title": "Good Morning Britain",
-      "desc": "News, current affairs and lively debate.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/4a91fdb3-5678-4c0e-a5b5-2e3bbde19d0a/16-9"
-    },
-    {
-      "start": "2026-06-10T13:30:00+05:00",
-      "stop": "2026-06-10T14:00:00+05:00",
-      "title": "Lorraine",
-      "desc": "Lorraine Kelly presents a topical mix of entertainment, discussion and showbiz glamour as well as the latest fashion, food and celebrity gossip.",
-      "language": "en",
-      "categories": [
-        "Entertainment",
-        "Magazine"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/54c95d82-52d7-4be1-a636-dbe959b888aa/16-9"
-    },
-    {
       "start": "2026-06-10T14:00:00+05:00",
       "stop": "2026-06-10T16:30:00+05:00",
       "title": "This Morning",
@@ -146,6 +122,31 @@
         "News"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/5af8e589-3c6f-4d57-9476-afcd629de682/16-9"
+    },
+    {
+      "start": "2026-06-10T23:00:00+05:00",
+      "stop": "2026-06-10T23:30:00+05:00",
+      "title": "Emmerdale",
+      "sub_title": "Laurel's left mortified",
+      "desc": "Chas struggles to hold her tongue. Archie's left glowering.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Soap"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/b302ce60-c02a-4553-9b4c-61732593279d/16-9"
+    },
+    {
+      "start": "2026-06-10T23:30:00+05:00",
+      "stop": "2026-06-11T00:00:00+05:00",
+      "title": "Coronation Street",
+      "desc": "Maria grows uneasy about Gary while Kit keeps a close eye on him, Sam's remark puzzles Roy, Lily's family mark her sporting achievement, and Megan lures Will back into her orbit.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Soap"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/2d50f33f-d63e-47f0-bc41-ca0451a0dad1/16-9"
     }
   ]
 }

@@ -4,14 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-10T07:20:00+05:00",
-      "stop": "2026-06-10T09:30:00+05:00",
-      "title": "This is BBC Four",
-      "desc": "Programmes start at 7.00pm.",
-      "language": "en",
-      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/BBC-Four-UK.png"
-    },
-    {
       "start": "2026-06-10T09:30:00+05:00",
       "stop": "2026-06-10T15:30:00+05:00",
       "title": "..programmes start at 7.00pm",
@@ -125,6 +117,18 @@
         "Movie"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/784a4adc-03f7-34a9-a61f-b679c4eb16b3/16-9"
+    },
+    {
+      "start": "2026-06-11T04:15:00+05:00",
+      "stop": "2026-06-11T04:30:00+05:00",
+      "title": "Ken Loach Remembers... Up the Junction",
+      "desc": "Ken Loach looks back at the 1965 TV adaptation of Nell Dunn's short story collection.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Arts"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/6e10b3cb-fbe5-4d1b-b026-df9666517bed/16-9"
     }
   ]
 }
