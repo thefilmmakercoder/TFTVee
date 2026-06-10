@@ -4,61 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-10T04:00:00+05:00",
-      "stop": "2026-06-10T04:30:00+05:00",
-      "title": "Jeopardy!",
-      "desc": "The Emmy-winning quiz show features a unique answer-and-question format.",
-      "date": "2026",
-      "language": "en",
-      "rating": "TVG",
-      "categories": [
-        "Series",
-        "Game show"
-      ],
-      "episode": "S42 E197",
-      "icon": "http://dtil.tmsimg.com/assets/p184056_b_h10_aa.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Ken Jennings"
-        ]
-      }
-    },
-    {
-      "start": "2026-06-10T04:30:00+05:00",
-      "stop": "2026-06-10T05:00:00+05:00",
-      "title": "Wheel of Fortune",
-      "sub_title": "South of the Equator",
-      "desc": "In a classic game-show version of \"Hangman,\" contestants solve word puzzles for cash and prizes.",
-      "date": "2026",
-      "language": "en",
-      "rating": "TVG",
-      "categories": [
-        "Series",
-        "Game show"
-      ],
-      "episode": "S43 E107",
-      "icon": "http://dtil.tmsimg.com/assets/p184057_b_h8_ai.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Ryan Seacrest",
-          "Vanna White"
-        ]
-      }
-    },
-    {
-      "start": "2026-06-10T05:00:00+05:00",
-      "stop": "2026-06-10T08:00:00+05:00",
-      "title": "Live: 2026 Stanley Cup Final",
-      "desc": "The Golden Knights host the Hurricanes for Game 4 of the Stanley Cup Final. Vegas reclaimed the lead after a 5-4 double-overtime win in Game 3, fueled by Mitch Marner's historic hat trick. Shea Theodore scored the winner after a late Carolina rally.",
-      "language": "en",
-      "categories": [
-        "Sports",
-        "Playoff sports",
-        "Hockey"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/GNLZZGG00352KVP.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-06-10T08:00:00+05:00",
       "stop": "2026-06-10T08:35:00+05:00",
       "title": "Eyewitness News at 11",
@@ -228,6 +173,64 @@
         "News"
       ],
       "icon": "http://dtil.tmsimg.com/assets/p677214_b_h8_ad.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-06-10T15:00:00+05:00",
+      "stop": "2026-06-10T16:00:00+05:00",
+      "title": "Eyewitness News This Morning",
+      "desc": "News coverage to start the day.",
+      "date": "2007",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p677214_b_h8_ad.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-06-10T16:00:00+05:00",
+      "stop": "2026-06-10T18:00:00+05:00",
+      "title": "Good Morning America",
+      "desc": "Actor Bill Skarsg\u00e5rd; America's favorite grandma, Barbara \"Babs\" Costello; Deals & Steals with Tory Johnson.",
+      "date": "2026",
+      "language": "en",
+      "categories": [
+        "Series",
+        "Talk",
+        "News",
+        "Variety",
+        "Public affairs"
+      ],
+      "episode": "E184",
+      "icon": "http://dtil.tmsimg.com/assets/p31385280_b_h10_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "George Stephanopoulos",
+          "Robin Roberts",
+          "Michael Strahan"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-10T18:00:00+05:00",
+      "stop": "2026-06-10T19:00:00+05:00",
+      "title": "Live with Kelly and Mark",
+      "desc": "Questlove is here; Lucy Halliday talks about Hulu's \"The Testaments\"!",
+      "date": "2026",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Talk"
+      ],
+      "episode": "S4 E203",
+      "icon": "http://dtil.tmsimg.com/assets/p24324378_b_h8_ab.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Kelly Ripa",
+          "Mark Consuelos",
+          "Questlove"
+        ]
+      }
     }
   ]
 }

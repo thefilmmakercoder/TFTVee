@@ -4,50 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-10T03:30:00+05:00",
-      "stop": "2026-06-10T04:00:00+05:00",
-      "title": "ABC World News Tonight With David Muir",
-      "desc": "Delivering the news that matters most.",
-      "date": "2026",
-      "language": "en",
-      "categories": [
-        "Series",
-        "News"
-      ],
-      "episode": "E160",
-      "icon": "http://dtil.tmsimg.com/assets/p10880351_b_h8_ah.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "David Muir"
-        ]
-      }
-    },
-    {
-      "start": "2026-06-10T04:00:00+05:00",
-      "stop": "2026-06-10T05:00:00+05:00",
-      "title": "Eyewitness News 4PM",
-      "desc": "Early evening news.",
-      "date": "2004",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p676966_b_h8_af.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-06-10T05:00:00+05:00",
-      "stop": "2026-06-10T08:00:00+05:00",
-      "title": "Live: 2026 Stanley Cup Final",
-      "desc": "The Golden Knights host the Hurricanes for Game 4 of the Stanley Cup Final. Vegas reclaimed the series lead after a 5-4 double-overtime win in Game 3, fueled by Mitch Marner's hat trick. Shea Theodore scored the winner after a late Carolina rally.",
-      "language": "en",
-      "categories": [
-        "Sports",
-        "Playoff sports",
-        "Hockey"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/GNLZZGG00352KVP.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-06-10T08:00:00+05:00",
       "stop": "2026-06-10T09:00:00+05:00",
       "title": "Eyewitness News",
@@ -206,6 +162,68 @@
       "credits": {
         "actor": [
           "David Muir"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-10T13:36:00+05:00",
+      "stop": "2026-06-10T14:36:00+05:00",
+      "title": "Live with Kelly and Mark",
+      "desc": "Amy Adams chats with the hosts; Jodie Comer stops by.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Talk"
+      ],
+      "episode": "S4 E202",
+      "icon": "http://dtil.tmsimg.com/assets/p24324378_b_h8_ab.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Kelly Ripa",
+          "Mark Consuelos",
+          "Amy Adams"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-10T14:36:00+05:00",
+      "stop": "2026-06-10T15:30:00+05:00",
+      "title": "Tamron Hall",
+      "sub_title": "Daytime Exclusive: Jim Gaffigan",
+      "desc": "Comic Jim Gaffigan (special \"Live From the Old Forester: The Bourbon Set\"); viral content creators Caitlin Murray and Rosina Ray.",
+      "date": "2025",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Talk"
+      ],
+      "episode": "S7 E54",
+      "icon": "http://dtil.tmsimg.com/assets/p17197549_b_h8_af.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Tamron Hall",
+          "Jim Gaffigan"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-10T15:30:00+05:00",
+      "stop": "2026-06-10T16:00:00+05:00",
+      "title": "Good Morning America First Look",
+      "desc": "ABC's \"Good Morning America First Look\" brings one overnight breaking news, weather, politics, and the stories and video people will be talking about in the day ahead.",
+      "date": "2024",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p28311369_b_h8_ac.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Sophie Flay",
+          "Hanna Battah"
         ]
       }
     }

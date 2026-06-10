@@ -4,98 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-10T04:00:00+05:00",
-      "stop": "2026-06-10T04:30:00+05:00",
-      "title": "Family Feud",
-      "desc": "Family Feud is an American television game show where two families compete to name the responses to survey questions in order to win cash and prizes.",
-      "date": "2025",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Series",
-        "Game show"
-      ],
-      "episode": "S26 E125",
-      "icon": "http://dtil.tmsimg.com/assets/p8314079_b_h8_ah.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Steve Harvey"
-        ]
-      }
-    },
-    {
-      "start": "2026-06-10T04:30:00+05:00",
-      "stop": "2026-06-10T05:00:00+05:00",
-      "title": "Family Feud",
-      "desc": "Family Feud is an American television game show where two families compete to name the responses to survey questions in order to win cash and prizes.",
-      "date": "2026",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Series",
-        "Game show"
-      ],
-      "episode": "S27 E96",
-      "icon": "http://dtil.tmsimg.com/assets/p8314079_b_h8_ah.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Steve Harvey"
-        ]
-      }
-    },
-    {
-      "start": "2026-06-10T05:00:00+05:00",
-      "stop": "2026-06-10T07:00:00+05:00",
-      "title": "America's Got Talent",
-      "sub_title": "Auditions 2",
-      "desc": "It's a magical night as auditions continue with a magician who returns for redemption in hopes of winning over the judges, social media stars bring their talents to the big stage and an opera singer duets with her dog.",
-      "date": "2026",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Series",
-        "Variety",
-        "Music",
-        "Dance",
-        "Competition Reality"
-      ],
-      "episode": "S21 E2",
-      "icon": "http://dtil.tmsimg.com/assets/p32655317_b_h8_ab.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Terry Crews",
-          "Simon Cowell",
-          "Howie Mandel"
-        ]
-      }
-    },
-    {
-      "start": "2026-06-10T07:00:00+05:00",
-      "stop": "2026-06-10T08:00:00+05:00",
-      "title": "Law & Order Toronto: Criminal Intent",
-      "sub_title": "Digital Lipstick",
-      "desc": "A stabbing in the PATH leads Graff and Bateman to one of the most scandalous data breaches in Toronto's history.",
-      "date": "2025",
-      "language": "en",
-      "rating": "TV14",
-      "categories": [
-        "Series",
-        "Crime drama"
-      ],
-      "episode": "S2 E2",
-      "icon": "http://dtil.tmsimg.com/assets/p26603650_b_h8_ai.jpg?w=960&h=540",
-      "credits": {
-        "director": [
-          "David Wellington"
-        ],
-        "actor": [
-          "Aden Young",
-          "Kathleen Munroe",
-          "Karen Robinson"
-        ]
-      }
-    },
-    {
       "start": "2026-06-10T08:00:00+05:00",
       "stop": "2026-06-10T08:35:00+05:00",
       "title": "CityNews Tonight Toronto",
@@ -261,6 +169,83 @@
         "News"
       ],
       "icon": "http://dtil.tmsimg.com/assets/p16858130_b_h8_aa.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-06-10T14:30:00+05:00",
+      "stop": "2026-06-10T15:00:00+05:00",
+      "title": "CityNews Tonight Toronto",
+      "desc": "Coverage of the day's top news stories.",
+      "date": "2019",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p16858130_b_h8_aa.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-06-10T15:00:00+05:00",
+      "stop": "2026-06-10T17:30:00+05:00",
+      "title": "Breakfast Television Toronto",
+      "desc": "The latest in local news, weather and traffic, as well as celebrity interviews and lifestyle trends.",
+      "date": "2000",
+      "language": "en",
+      "categories": [
+        "Talk",
+        "Newsmagazine"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p599792_b_h8_ab.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Dina Pugliese",
+          "Melanie Ng"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-10T17:30:00+05:00",
+      "stop": "2026-06-10T19:00:00+05:00",
+      "title": "Breakfast Television",
+      "desc": "How to heat-proof your garden for summer; tips to help navigate complicated relationships with fathers; food-first solutions for traveller's constipation.",
+      "date": "2026",
+      "language": "en",
+      "categories": [
+        "Series",
+        "Talk",
+        "Newsmagazine"
+      ],
+      "episode": "E114",
+      "icon": "http://dtil.tmsimg.com/assets/p9093159_b_h8_ab.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Dina Pugliese",
+          "Tim Bolen",
+          "Frank Ferragine"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-10T19:00:00+05:00",
+      "stop": "2026-06-10T20:00:00+05:00",
+      "title": "The Kelly Clarkson Show",
+      "desc": "Kellyoke encore: \"A Lot More Free\"; Anna Faris; \"What's Creepin' Up On Me?\"; Samara Weaving; Kelly Extra: Nicholas Christopher; author Jared Freid; Midland performs.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Talk",
+        "Variety",
+        "Entertainment"
+      ],
+      "episode": "S7 E154",
+      "icon": "http://dtil.tmsimg.com/assets/p16993616_b_h8_af.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Kelly Clarkson",
+          "Anna Faris",
+          "Samara Weaving"
+        ]
+      }
     }
   ]
 }
