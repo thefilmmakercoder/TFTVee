@@ -4,50 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-10T22:58:00+05:00",
-      "stop": "2026-06-10T23:00:00+05:00",
-      "title": "This is BBC Three",
-      "desc": "Programmes start at 7.00pm.",
-      "language": "en",
-      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/BBC-Three-UK.png"
-    },
-    {
-      "start": "2026-06-10T23:00:00+05:00",
-      "stop": "2026-06-11T01:00:00+05:00",
-      "title": "Athletics: Diamond League Oslo",
-      "desc": "A host of athletics stars compete in Oslo in the sixth leg of the 2026 Diamond League.",
-      "language": "en",
-      "categories": [
-        "Sports",
-        "Athletics"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/292b5371-e2b8-4f0a-bab1-11639a84b133/16-9"
-    },
-    {
-      "start": "2026-06-11T01:00:00+05:00",
-      "stop": "2026-06-11T01:05:00+05:00",
-      "title": "The Catch Up",
-      "desc": "A round-up of the day's news.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/cdd84401-b22c-468f-a751-fdc5bb325140/16-9"
-    },
-    {
-      "start": "2026-06-11T01:05:00+05:00",
-      "stop": "2026-06-11T01:50:00+05:00",
-      "title": "A Good Girl's Guide to Murder",
-      "desc": "The verdict is given in court. Pip decodes a clue that cracks Jamie's case wide open. Contains some strong language and some upsetting scenes.",
-      "language": "en",
-      "categories": [
-        "Entertainment",
-        "Detective"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/8ededfa0-baf8-4a24-831c-fb38bd7c11f8/16-9"
-    },
-    {
       "start": "2026-06-11T01:50:00+05:00",
       "stop": "2026-06-11T02:35:00+05:00",
       "title": "A Good Girl's Guide to Murder",
@@ -140,6 +96,42 @@
         "Detective"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/8ededfa0-baf8-4a24-831c-fb38bd7c11f8/16-9"
+    },
+    {
+      "start": "2026-06-11T07:10:00+05:00",
+      "stop": "2026-06-11T07:55:00+05:00",
+      "title": "A Good Girl's Guide to Murder",
+      "desc": "A tense confrontation reveals a truth far more complicated than Pip expected. Contains some strong language and some violent scenes.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Detective"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/67b12adb-0559-4c60-a46a-eb0b37d4572a/16-9"
+    },
+    {
+      "start": "2026-06-11T07:55:00+05:00",
+      "stop": "2026-06-11T09:30:00+05:00",
+      "title": "This is BBC Three",
+      "desc": "Programmes start at 7.00pm.",
+      "language": "en",
+      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/BBC-Three-UK.png"
+    },
+    {
+      "start": "2026-06-11T09:30:00+05:00",
+      "stop": "2026-06-11T15:30:00+05:00",
+      "title": "..programmes start at 7.00pm",
+      "desc": "BBC Three delivers bold and provocative content for younger audiences, featuring groundbreaking documentaries, experimental comedy, and fresh drama.",
+      "language": "en",
+      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/BBC-Three-UK.png"
+    },
+    {
+      "start": "2026-06-11T15:30:00+05:00",
+      "stop": "2026-06-11T21:30:00+05:00",
+      "title": "..programmes start at 7.00pm",
+      "desc": "BBC Three delivers bold and provocative content for younger audiences, featuring groundbreaking documentaries, experimental comedy, and fresh drama.",
+      "language": "en",
+      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/BBC-Three-UK.png"
     }
   ]
 }
