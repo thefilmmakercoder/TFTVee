@@ -4,42 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-11T02:00:00+05:00",
-      "stop": "2026-06-11T02:30:00+05:00",
-      "title": "BBC News and Weather",
-      "desc": "The latest national and international news, with reports from BBC correspondents worldwide.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/5da561f8-75c5-453a-a0ec-016b2213bcec/16-9"
-    },
-    {
-      "start": "2026-06-11T02:30:00+05:00",
-      "stop": "2026-06-11T02:40:00+05:00",
-      "title": "BBC London News",
-      "desc": "The latest news, sport and weather from London.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/caa00239-c532-4619-b594-a3ab0b2c7ead/16-9"
-    },
-    {
-      "start": "2026-06-11T02:40:00+05:00",
-      "stop": "2026-06-11T03:25:00+05:00",
-      "title": "A Good Girl's Guide to Murder",
-      "desc": "The verdict is given in court. Pip decodes a clue that cracks Jamie's case wide open. Contains some strong language and some upsetting scenes.",
-      "language": "en",
-      "categories": [
-        "Entertainment",
-        "Detective"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/8ededfa0-baf8-4a24-831c-fb38bd7c11f8/16-9"
-    },
-    {
       "start": "2026-06-11T03:25:00+05:00",
       "stop": "2026-06-11T04:10:00+05:00",
       "title": "A Good Girl's Guide to Murder",
@@ -145,6 +109,42 @@
         "Game Show"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/e55e7497-8182-3124-86be-ef378fc9ec83/16-9"
+    },
+    {
+      "start": "2026-06-11T17:00:00+05:00",
+      "stop": "2026-06-11T18:00:00+05:00",
+      "title": "BBC News at One including BBC London News",
+      "desc": "The latest national and international news from the BBC.",
+      "language": "en",
+      "categories": [
+        "News & Documentary",
+        "News"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/68e1fd0c-36a3-46c0-96f0-d7d4dc5e16fc/16-9"
+    },
+    {
+      "start": "2026-06-11T18:00:00+05:00",
+      "stop": "2026-06-11T18:30:00+05:00",
+      "title": "Policing Paradise",
+      "desc": "Miss Skerritt has an aggressive detainee in custody, Detective Akle is taking care of a deceased loved one, and the mystery of an abandoned crashed car is solved.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Factual"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/d1507b44-f59a-4082-ac0b-e2d278cdd414/16-9"
+    },
+    {
+      "start": "2026-06-11T18:30:00+05:00",
+      "stop": "2026-06-11T19:00:00+05:00",
+      "title": "Robson Green's Weekend Escapes",
+      "desc": "Robson, his brother David and his uncle Matheson head to the Scottish Highlands to take a pack horse camping trip. They learn to make a cup from wood and find a scenic fishing spot.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Travel"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/7b745a47-6bad-44e5-97b9-dbd1d1fd97d5/16-9"
     }
   ]
 }

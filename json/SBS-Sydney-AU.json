@@ -4,45 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-11T02:00:00+05:00",
-      "stop": "2026-06-11T02:30:00+05:00",
-      "title": "BBC News At Six",
-      "sub_title": "Thursday 11 June 2026",
-      "desc": "The latest national and international news stories from the BBC News team from London, UK, in English.",
-      "language": "en",
-      "rating": "NR",
-      "categories": [
-        "News"
-      ],
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/11514500/image/334x188"
-    },
-    {
-      "start": "2026-06-11T02:30:00+05:00",
-      "stop": "2026-06-11T03:00:00+05:00",
-      "title": "France 24 English News",
-      "sub_title": "Morning First Edition",
-      "desc": "International news and current affairs television from Paris, offering a French perspective on world events, in English.",
-      "language": "en",
-      "rating": "NR",
-      "categories": [
-        "News"
-      ],
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/310649/image/334x188"
-    },
-    {
-      "start": "2026-06-11T03:00:00+05:00",
-      "stop": "2026-06-11T04:00:00+05:00",
-      "title": "DD India News Hour",
-      "sub_title": "Thursday 11 June 2026",
-      "desc": "The most recent political, sports, entertainment and socio-economic updates across India and the world from New Delhi, in English.",
-      "language": "en",
-      "rating": "NR",
-      "categories": [
-        "News"
-      ],
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/413559/image/334x188"
-    },
-    {
       "start": "2026-06-11T04:00:00+05:00",
       "stop": "2026-06-11T04:30:00+05:00",
       "title": "Paul O'Grady For The Love Of Dogs",
@@ -159,6 +120,47 @@
       ],
       "episode": "S3 E7",
       "icon": "https://www.fetchtv.com.au/v2/epg/program/398318/image/334x188"
+    },
+    {
+      "start": "2026-06-11T10:40:00+05:00",
+      "stop": "2026-06-11T11:10:00+05:00",
+      "title": "The Cook Up With Adam Liaw",
+      "sub_title": "Fast, Fresh & Foolproof",
+      "desc": "Adam welcomes recipe developer Lina Jebeile and chef Rashedul Hasan into the kitchen to make some fantastically fast, fresh and foolproof food.",
+      "language": "en",
+      "rating": "G",
+      "categories": [
+        "Special Interest"
+      ],
+      "episode": "S9 E51",
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/403506/image/334x188"
+    },
+    {
+      "start": "2026-06-11T11:10:00+05:00",
+      "stop": "2026-06-11T12:05:00+05:00",
+      "title": "Patagonia",
+      "sub_title": "Mountains",
+      "desc": "A journey from the foothills of the Patagonian Andes, where pumas hunt guanacos on the wild grasslands of the steppe before climbing up into the dizzying heights of the Andes.",
+      "language": "en",
+      "rating": "G",
+      "categories": [
+        "Special Interest"
+      ],
+      "episode": "S1 E3",
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/2996835/image/334x188"
+    },
+    {
+      "start": "2026-06-11T12:05:00+05:00",
+      "stop": "2026-06-11T12:30:00+05:00",
+      "title": "Jeopardy!",
+      "desc": "Ken Jennings hosts Jeopardy! Where the answers are revealed, and the contestants must guess the appropriate questions.",
+      "language": "en",
+      "rating": "G",
+      "categories": [
+        "Special Interest"
+      ],
+      "episode": "S42 E96",
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/20057633/image/334x188"
     }
   ]
 }
