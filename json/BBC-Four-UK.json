@@ -4,14 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-11T07:45:00+05:00",
-      "stop": "2026-06-11T09:30:00+05:00",
-      "title": "This is BBC Four",
-      "desc": "Programmes start at 7.00pm.",
-      "language": "en",
-      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/BBC-Four-UK.png"
-    },
-    {
       "start": "2026-06-11T09:30:00+05:00",
       "stop": "2026-06-11T15:30:00+05:00",
       "title": "..programmes start at 7.00pm",
@@ -125,6 +117,18 @@
         "Arts"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/2fbc0ed6-2f2c-4586-8010-f3659c638cf4/16-9"
+    },
+    {
+      "start": "2026-06-12T06:20:00+05:00",
+      "stop": "2026-06-12T07:20:00+05:00",
+      "title": "The Making of King Arthur",
+      "desc": "Simon Armitage traces the evolution of the Arthurian legend through the literature of the medieval age and reveals that King Arthur is not the great national hero we think he is.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Arts"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/b05edc29-1ca6-4561-8ce9-9c579e596980/16-9"
     }
   ]
 }

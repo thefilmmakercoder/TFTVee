@@ -4,48 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-11T13:00:00+05:00",
-      "stop": "2026-06-11T14:00:00+05:00",
-      "title": "9News",
-      "sub_title": "Thursday 11 June 2026",
-      "desc": "Live from our Adelaide studio, join the 9News team for the latest in local, national and international news as well as sport and weather.",
-      "language": "en",
-      "rating": "NR",
-      "categories": [
-        "News"
-      ],
-      "episode": "E116",
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/21223678/image/334x188"
-    },
-    {
-      "start": "2026-06-11T14:00:00+05:00",
-      "stop": "2026-06-11T14:30:00+05:00",
-      "title": "A Current Affair",
-      "sub_title": "Thursday 11 June 2026",
-      "desc": "A Current Affair covers the realms of politics, crime, human rights, science, technology, celebrities and entertainment - all investigated by a dedicated team.",
-      "language": "en",
-      "rating": "NR",
-      "categories": [
-        "News"
-      ],
-      "episode": "E116",
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/131990/image/334x188"
-    },
-    {
-      "start": "2026-06-11T14:30:00+05:00",
-      "stop": "2026-06-11T16:55:00+05:00",
-      "title": "NRL",
-      "sub_title": "Rabbitohs v Broncos",
-      "desc": "Wide World of Sports presents Thursday Night footy with Rabbitohs v Broncos, live from Accor Stadium. Join our expert commentary team for all the action, analysis and post match interviews. Kick off at 7:50PM AEST.",
-      "language": "en",
-      "rating": "NR",
-      "categories": [
-        "Sports"
-      ],
-      "episode": "E15",
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/2347161/image/334x188"
-    },
-    {
       "start": "2026-06-11T16:55:00+05:00",
       "stop": "2026-06-11T17:40:00+05:00",
       "title": "NRL Thursday Night Footy Post",
@@ -169,6 +127,48 @@
       ],
       "episode": "E299",
       "icon": "https://www.fetchtv.com.au/v2/epg/program/184500/image/334x188"
+    },
+    {
+      "start": "2026-06-11T22:30:00+05:00",
+      "stop": "2026-06-11T23:00:00+05:00",
+      "title": "TV Shop - Home Shopping",
+      "sub_title": "Thin Lizzy Xcellerate35",
+      "desc": "Home shopping programme.",
+      "language": "en",
+      "rating": "G",
+      "categories": [
+        "Special Interest"
+      ],
+      "episode": "E294",
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/184500/image/334x188"
+    },
+    {
+      "start": "2026-06-11T23:00:00+05:00",
+      "stop": "2026-06-11T23:30:00+05:00",
+      "title": "Skippy",
+      "sub_title": "Time & Tide",
+      "desc": "Classic Australian series starring Ed Deveraux and Tony Bonner. Clancy borrows Dr Steiner's camera but gets into trouble taking photos down by the river. The boys race to rescue her before the tide comes in.",
+      "language": "en",
+      "rating": "G",
+      "categories": [
+        "Kids & Family"
+      ],
+      "episode": "S1 E10",
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/132554/image/334x188"
+    },
+    {
+      "start": "2026-06-11T23:30:00+05:00",
+      "stop": "2026-06-12T00:00:00+05:00",
+      "title": "A Current Affair",
+      "sub_title": "Thursday 11 June 2026",
+      "desc": "A Current Affair covers the realms of politics, crime, human rights, science, technology, celebrities and entertainment - all investigated by a dedicated team.",
+      "language": "en",
+      "rating": "NR",
+      "categories": [
+        "News"
+      ],
+      "episode": "E116",
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/131990/image/334x188"
     }
   ]
 }

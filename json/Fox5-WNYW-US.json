@@ -4,42 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-11T13:30:00+05:00",
-      "stop": "2026-06-11T14:00:00+05:00",
-      "title": "Good Day Wake Up",
-      "desc": "Morning news coverage.",
-      "date": "2009",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p706488_b_h8_ab.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-06-11T14:00:00+05:00",
-      "stop": "2026-06-11T15:00:00+05:00",
-      "title": "Good Day Wake Up",
-      "desc": "Morning news coverage.",
-      "date": "2009",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p706488_b_h8_ab.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-06-11T15:00:00+05:00",
-      "stop": "2026-06-11T16:00:00+05:00",
-      "title": "Good Day Wake Up 2",
-      "desc": "Morning news and entertainment.",
-      "date": "2009",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p706489_b_h8_ab.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-06-11T16:00:00+05:00",
       "stop": "2026-06-11T18:00:00+05:00",
       "title": "Good Day New York",
@@ -175,6 +139,53 @@
         "News"
       ],
       "icon": "http://dtil.tmsimg.com/assets/p19319061_b_h8_ab.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-06-12T03:00:00+05:00",
+      "stop": "2026-06-12T04:00:00+05:00",
+      "title": "The 6 O'Clock News",
+      "desc": "Local, national and international news.",
+      "date": "2021",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p19319065_b_h8_ab.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-06-12T04:00:00+05:00",
+      "stop": "2026-06-12T04:30:00+05:00",
+      "title": "Extra",
+      "desc": "Inside the entertainment newsgathering process, as reporters coast-to-coast break headlines, advance the stories of the day and sit down with celebrities.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Newsmagazine",
+        "Entertainment"
+      ],
+      "episode": "S32 E244",
+      "icon": "http://dtil.tmsimg.com/assets/p30948222_b_h8_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Derek Hough",
+          "Mona Kosar Abdi",
+          "Terri Seymour"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-12T04:30:00+05:00",
+      "stop": "2026-06-12T06:30:00+05:00",
+      "title": "Live: WNBA Basketball",
+      "desc": "The Atlanta Dream face the New York Liberty at Gateway Center for a WNBA Commissioner's Cup battle. The Dream sit ahead of the Liberty in the Eastern Conference standings. Breanna Stewart leads New York in points, while Allisha Gray leads Atlanta.",
+      "language": "en",
+      "categories": [
+        "Sports",
+        "Basketball"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/GNLZZGG0032785N.jpg?w=960&h=540"
     }
   ]
 }
