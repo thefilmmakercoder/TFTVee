@@ -4,61 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-11T23:30:00+05:00",
-      "stop": "2026-06-12T00:00:00+05:00",
-      "title": "California Live",
-      "desc": "A daily lifestyle show that takes a ride through all of California, discovering many of the hidden treasures the state and its people have to offer including beauty, glamour, fitness, food, health, and tech.",
-      "date": "2019",
-      "language": "en",
-      "categories": [
-        "Community"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p16325568_b_h10_ac.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-06-12T00:00:00+05:00",
-      "stop": "2026-06-12T01:00:00+05:00",
-      "title": "NBC News Daily",
-      "desc": "NBC News provides viewers with the latest national and international news; consumer, health and personal finance reporting; up-to-the-minute local news.",
-      "date": "2026",
-      "language": "en",
-      "categories": [
-        "Series",
-        "News"
-      ],
-      "episode": "E105",
-      "icon": "http://dtil.tmsimg.com/assets/p22712535_b_h8_ad.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Vicky Nguyen",
-          "Morgan Radford"
-        ]
-      }
-    },
-    {
-      "start": "2026-06-12T01:00:00+05:00",
-      "stop": "2026-06-12T02:00:00+05:00",
-      "title": "Access Daily With Mario & Kit",
-      "desc": "Comic Jay Pharoah (Fox's \"The Quiz with Balls\"); actress Sepideh Moafi (HBO's \"The Pitt\"); group chat with journalist Nina Parker and Crown & Hope CEO and cofounder Beny Ashburn; lifestyle expert Darren Kennedy; HotPicks recs!",
-      "date": "2026",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Series",
-        "Newsmagazine",
-        "Entertainment"
-      ],
-      "episode": "S16 E161",
-      "icon": "http://dtil.tmsimg.com/assets/p22894952_b_h8_ab.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Mario Lopez",
-          "Kit Hoover",
-          "Scott Evans"
-        ]
-      }
-    },
-    {
       "start": "2026-06-12T02:00:00+05:00",
       "stop": "2026-06-12T03:00:00+05:00",
       "title": "The Kelly Clarkson Show",
@@ -201,6 +146,78 @@
           "Mario Lopez",
           "Kit Hoover",
           "Scott Evans"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-12T08:00:00+05:00",
+      "stop": "2026-06-12T09:00:00+05:00",
+      "title": "Surviving Earth",
+      "sub_title": "When the Earth Burned",
+      "desc": "Against all odds, an alpha male gorgonopsid fights to protect his family from predators and the deadly heat that surrounds them at every turn.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Series",
+        "Documentary",
+        "Nature",
+        "Animals",
+        "Ancient history"
+      ],
+      "episode": "S1 E1",
+      "icon": "http://dtil.tmsimg.com/assets/p32655343_b_h8_aa.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-06-12T09:00:00+05:00",
+      "stop": "2026-06-12T10:00:00+05:00",
+      "title": "The Americas",
+      "sub_title": "The Wild West Fun Fact Edition",
+      "desc": "The Wild West, where coyotes face a snowbound Yellowstone, rattlesnakes emerge in the hundreds, woodpeckers compete to store food, bison battle on the Great Plains and cranes gather on their migration -- plus new pop-up fun facts.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Documentary",
+        "Nature",
+        "Animals"
+      ],
+      "episode": "S1 E13",
+      "icon": "http://dtil.tmsimg.com/assets/p27691415_b_h8_ab.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Tom Hanks"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-12T10:00:00+05:00",
+      "stop": "2026-06-12T11:00:00+05:00",
+      "title": "Law & Order: Special Victims Unit",
+      "sub_title": "Showdown",
+      "desc": "When a man claims his girlfriend was kidnapped, Bruno investigates the holes in his story; Tynan comes down hard on Benson after a disagreement; Griffin must defend his police work on the stand.",
+      "date": "2025",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "Series",
+        "Crime drama",
+        "Drama",
+        "Action",
+        "Thriller",
+        "Mystery"
+      ],
+      "episode": "S27 E8",
+      "icon": "http://dtil.tmsimg.com/assets/p30834692_b_h8_af.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Juan Campanella"
+        ],
+        "actor": [
+          "Mariska Hargitay",
+          "Ice-T",
+          "Kelli Giddish"
         ]
       }
     }

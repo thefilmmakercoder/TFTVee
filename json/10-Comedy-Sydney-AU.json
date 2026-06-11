@@ -4,71 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-12T00:00:00+05:00",
-      "stop": "2026-06-12T00:30:00+05:00",
-      "title": "Home Shopping",
-      "desc": "Synopsis.",
-      "language": "en",
-      "rating": "NR",
-      "categories": [
-        "Special Interest"
-      ],
-      "episode": "E300",
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/234200/image/334x188"
-    },
-    {
-      "start": "2026-06-12T00:30:00+05:00",
-      "stop": "2026-06-12T01:00:00+05:00",
-      "title": "Home Shopping",
-      "desc": "Synopsis.",
-      "language": "en",
-      "rating": "NR",
-      "categories": [
-        "Special Interest"
-      ],
-      "episode": "E301",
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/234200/image/334x188"
-    },
-    {
-      "start": "2026-06-12T01:00:00+05:00",
-      "stop": "2026-06-12T01:30:00+05:00",
-      "title": "Good Chef Bad Chef",
-      "desc": "A chef and a nutritionist bring their distinctive styles of cooking together for food showdowns.",
-      "language": "en",
-      "rating": "G",
-      "categories": [
-        "Special Interest"
-      ],
-      "episode": "S17 E65",
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/197122/image/334x188"
-    },
-    {
-      "start": "2026-06-12T01:30:00+05:00",
-      "stop": "2026-06-12T02:00:00+05:00",
-      "title": "Farm To Fork",
-      "desc": "Farm to Fork journeys across Australia with acclaimed chefs, discovering fresh local produce and inspiring healthy recipes to ignite passion for cooking at home.",
-      "language": "en",
-      "rating": "G",
-      "categories": [
-        "Special Interest"
-      ],
-      "episode": "S7 E5",
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/389375/image/334x188"
-    },
-    {
-      "start": "2026-06-12T02:00:00+05:00",
-      "stop": "2026-06-12T02:30:00+05:00",
-      "title": "Entertainment Tonight",
-      "desc": "Anchors and correspondents cover the top stories in the world of entertainment, ranging from exclusives in celebrity gossip to show business news.",
-      "language": "en",
-      "rating": "NR",
-      "categories": [
-        "Special Interest"
-      ],
-      "episode": "S45 E198",
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/132140/image/334x188"
-    },
-    {
       "start": "2026-06-12T02:30:00+05:00",
       "stop": "2026-06-12T03:00:00+05:00",
       "title": "Family Feud",
@@ -161,6 +96,75 @@
       ],
       "episode": "S4 E12",
       "icon": "https://www.fetchtv.com.au/v2/epg/program/1180422/image/334x188"
+    },
+    {
+      "start": "2026-06-12T06:30:00+05:00",
+      "stop": "2026-06-12T07:00:00+05:00",
+      "title": "Frasier",
+      "sub_title": "Four For The Seesaw",
+      "desc": "A spontaneous gesture gets the Crane boys a weekend double date with two attractive women.",
+      "language": "en",
+      "rating": "PG",
+      "categories": [
+        "Comedy"
+      ],
+      "episode": "S4 E13",
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/1180422/image/334x188"
+    },
+    {
+      "start": "2026-06-12T07:00:00+05:00",
+      "stop": "2026-06-12T07:30:00+05:00",
+      "title": "Family Feud",
+      "desc": "Steve Harvey hosts Family Feud, bringing hilarious moments and families together to compete for a chance to win up to $20,000 by guessing the most popular answers to questions.",
+      "language": "en",
+      "rating": "PG",
+      "categories": [
+        "Special Interest"
+      ],
+      "episode": "S21 E182",
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/20571/image/334x188"
+    },
+    {
+      "start": "2026-06-12T07:30:00+05:00",
+      "stop": "2026-06-12T08:00:00+05:00",
+      "title": "Ridiculousness",
+      "sub_title": "Sterling And Nina Agdal Lxxviii",
+      "desc": "On this episode of Ridiculousness Rob, Steelo and special guest Nina Agdal dream about hitting the ground with SLEEP FALLS, clean up some doggie DOO DOO DISASTERS and flip out with some BEACH GYMNAST.",
+      "language": "en",
+      "rating": "M",
+      "categories": [
+        "Special Interest"
+      ],
+      "episode": "S39 E16",
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/275969/image/334x188"
+    },
+    {
+      "start": "2026-06-12T08:00:00+05:00",
+      "stop": "2026-06-12T08:30:00+05:00",
+      "title": "Friends",
+      "sub_title": "The One With The Cat",
+      "desc": "Phoebe believes that her adoptive mother's spirit resides in a cat. Monica goes on a date with Rachel's hunky high-school boyfriend, and Joey and Chandler decide to sell their entertainment centre.",
+      "language": "en",
+      "rating": "PG",
+      "categories": [
+        "Comedy"
+      ],
+      "episode": "S4 E2",
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/129190/image/334x188"
+    },
+    {
+      "start": "2026-06-12T08:30:00+05:00",
+      "stop": "2026-06-12T09:00:00+05:00",
+      "title": "Friends",
+      "sub_title": "The One With The Cuffs",
+      "desc": "Monica caters a party for her mother, who still doesn't quite know how to talk to her daughter. Chandler's encounter with Rachel's boss leads to an embarrassing situation.",
+      "language": "en",
+      "rating": "PG",
+      "categories": [
+        "Comedy"
+      ],
+      "episode": "S4 E3",
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/129190/image/334x188"
     }
   ]
 }
