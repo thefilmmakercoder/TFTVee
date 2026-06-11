@@ -4,14 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-11T09:30:00+05:00",
-      "stop": "2026-06-11T15:30:00+05:00",
-      "title": "..programmes start at 7.00pm",
-      "desc": "BBC Three delivers bold and provocative content for younger audiences, featuring groundbreaking documentaries, experimental comedy, and fresh drama.",
-      "language": "en",
-      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/BBC-Three-UK.png"
-    },
-    {
       "start": "2026-06-11T15:30:00+05:00",
       "stop": "2026-06-11T21:30:00+05:00",
       "title": "..programmes start at 7.00pm",
@@ -128,6 +120,18 @@
         "Factual"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/4e94b525-93de-318f-a788-bf0e9fb81b31/16-9"
+    },
+    {
+      "start": "2026-06-12T07:00:00+05:00",
+      "stop": "2026-06-12T08:00:00+05:00",
+      "title": "Asia",
+      "desc": "The stories of the passionate people who are dedicated to saving the wild animals of Asia - including sun bears in Borneo, Javan green magpies and Sunda pangolins in Singapore.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Factual"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/45c49545-310e-3a67-9937-f35fbc64a209/16-9"
     }
   ]
 }

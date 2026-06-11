@@ -4,54 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-11T17:00:00+05:00",
-      "stop": "2026-06-11T18:00:00+05:00",
-      "title": "Eyewitness News 5AM",
-      "desc": "News coverage to start the day.",
-      "date": "2004",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p676994_b_h8_af.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-06-11T18:00:00+05:00",
-      "stop": "2026-06-11T19:00:00+05:00",
-      "title": "Eyewitness News 6AM",
-      "desc": "News coverage to start the day.",
-      "date": "2004",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p677002_b_h8_af.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-06-11T19:00:00+05:00",
-      "stop": "2026-06-11T21:00:00+05:00",
-      "title": "Good Morning America",
-      "desc": "Tennis legends Chris Evert and Martina Navratilova; volleyball player Jordan Lucas; Deals & Steals with Tory Johnson.",
-      "date": "2026",
-      "language": "en",
-      "categories": [
-        "Series",
-        "Talk",
-        "News",
-        "Variety",
-        "Public affairs"
-      ],
-      "episode": "E185",
-      "icon": "http://dtil.tmsimg.com/assets/p31385280_b_h10_aa.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "George Stephanopoulos",
-          "Robin Roberts",
-          "Michael Strahan"
-        ]
-      }
-    },
-    {
       "start": "2026-06-11T21:00:00+05:00",
       "stop": "2026-06-11T22:00:00+05:00",
       "title": "Live with Kelly and Mark",
@@ -224,6 +176,50 @@
         "News"
       ],
       "icon": "http://dtil.tmsimg.com/assets/p676966_b_h8_af.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-06-12T05:00:00+05:00",
+      "stop": "2026-06-12T08:00:00+05:00",
+      "title": "Live: 2026 Stanley Cup Final",
+      "desc": "The Vegas Golden Knights and Carolina Hurricanes meet in Game 5 of the Stanley Cup Final. Hurricanes rely on Captain Jordan Staal after his iconic two goals in Game 4, while Vegas relies on forward Mitch Marner on the road. This series is tied 2-2.",
+      "language": "en",
+      "categories": [
+        "Sports",
+        "Playoff sports",
+        "Hockey"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/GNLZZGG0035NJM8.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-06-12T08:00:00+05:00",
+      "stop": "2026-06-12T09:00:00+05:00",
+      "title": "Eyewitness News",
+      "desc": "Stay informed with the latest breaking news and headlines.",
+      "date": "2025",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p31785684_st_h10_aa.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-06-12T09:00:00+05:00",
+      "stop": "2026-06-12T09:30:00+05:00",
+      "title": "ABC World News Tonight With David Muir",
+      "desc": "Delivering the news that matters most.",
+      "date": "2026",
+      "language": "en",
+      "categories": [
+        "Series",
+        "News"
+      ],
+      "episode": "E155",
+      "icon": "http://dtil.tmsimg.com/assets/p10880351_b_h8_ah.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "David Muir"
+        ]
+      }
     }
   ]
 }

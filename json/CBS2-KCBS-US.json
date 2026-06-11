@@ -4,52 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-11T17:00:00+05:00",
-      "stop": "2026-06-11T18:00:00+05:00",
-      "title": "CBS LA Mornings at 5am",
-      "desc": "Start your day with CBS LA Mornings, covering breaking stories from The Desk, and NEXT Weather and Traffic for Southern California.",
-      "date": "2025",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p31308781_b_h10_aa.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-06-11T18:00:00+05:00",
-      "stop": "2026-06-11T19:00:00+05:00",
-      "title": "CBS LA Mornings at 6am",
-      "desc": "Start your day with CBS LA Mornings, covering breaking stories from The Desk, and NEXT Weather and Traffic for Southern California.",
-      "date": "2025",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p31308548_b_h10_aa.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-06-11T19:00:00+05:00",
-      "stop": "2026-06-11T21:00:00+05:00",
-      "title": "CBS Mornings",
-      "desc": "Economist Roland Fryer; musicians Gene Simmons and Paul Stanley.",
-      "date": "2026",
-      "language": "en",
-      "categories": [
-        "Series",
-        "Talk",
-        "News"
-      ],
-      "episode": "E116",
-      "icon": "http://dtil.tmsimg.com/assets/p20589677_b_h8_ai.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Gayle King",
-          "Tony Dokoupil",
-          "Nate Burleson"
-        ]
-      }
-    },
-    {
       "start": "2026-06-11T21:00:00+05:00",
       "stop": "2026-06-11T22:00:00+05:00",
       "title": "Let's Make a Deal",
@@ -237,6 +191,52 @@
           "Judy Sheindlin"
         ]
       }
+    },
+    {
+      "start": "2026-06-12T03:30:00+05:00",
+      "stop": "2026-06-12T04:00:00+05:00",
+      "title": "Judge Judy",
+      "sub_title": "Harrowing Dog Chase Caught on Tape!; Rear-Ended Insurance Slam!",
+      "desc": "Parents of a 7-year-old girl sue their neighbor over two vicious dog-attacks; an uninsured driver denies being responsible for damages after rear-ending another vehicle at an intersection.",
+      "date": "2015",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Reality",
+        "Law"
+      ],
+      "episode": "S19 E131",
+      "icon": "http://dtil.tmsimg.com/assets/p184382_b_h8_af.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Judy Sheindlin"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-12T04:00:00+05:00",
+      "stop": "2026-06-12T05:00:00+05:00",
+      "title": "CBS LA at 4pm",
+      "desc": "Join the CBS LA team for stories from communities around SoCal, breaking news from The Desk, and NEXT Weather from the Weathersphere.",
+      "date": "2025",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p31317859_b_h10_aa.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-06-12T05:00:00+05:00",
+      "stop": "2026-06-12T06:00:00+05:00",
+      "title": "CBS LA at 5pm",
+      "desc": "Join the CBS LA team for stories from communities around SoCal, breaking news from The Desk, and NEXT Weather from the Weathersphere.",
+      "date": "2025",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p31308569_b_h10_aa.jpg?w=960&h=540"
     }
   ]
 }
