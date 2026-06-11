@@ -4,69 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-11T03:30:00+05:00",
-      "stop": "2026-06-11T04:00:00+05:00",
-      "title": "ABC World News Tonight With David Muir",
-      "desc": "Delivering the news that matters most.",
-      "date": "2026",
-      "language": "en",
-      "categories": [
-        "Series",
-        "News"
-      ],
-      "episode": "E161",
-      "icon": "http://dtil.tmsimg.com/assets/p10880351_b_h8_ah.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "David Muir"
-        ]
-      }
-    },
-    {
-      "start": "2026-06-11T04:00:00+05:00",
-      "stop": "2026-06-11T05:00:00+05:00",
-      "title": "Eyewitness News 4PM",
-      "desc": "Early evening news.",
-      "date": "2004",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p676966_b_h8_af.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-06-11T05:00:00+05:00",
-      "stop": "2026-06-11T05:30:00+05:00",
-      "title": "Live: NBA Tip-Off",
-      "desc": "Host Ernie Johnson and analysts Shaquille O'Neal, Charles Barkley and Kenny Smith ready viewers for NBA action before ESPN's Wednesday night doubleheaders (and other select telecasts). Guest analysts also are featured from time to time.",
-      "date": "1998",
-      "language": "en",
-      "categories": [
-        "Basketball"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p267533_b_h8_ab.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Ernie Johnson",
-          "Charles Barkley",
-          "Shaquille O'Neal"
-        ]
-      }
-    },
-    {
-      "start": "2026-06-11T05:30:00+05:00",
-      "stop": "2026-06-11T08:00:00+05:00",
-      "title": "Live: 2026 NBA Finals",
-      "desc": "The Knicks host the Spurs at Madison Square Garden for Game 4 of the NBA Finals.",
-      "language": "en",
-      "categories": [
-        "Sports",
-        "Playoff sports",
-        "Basketball"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/GNLZZGG0035GVF0.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-06-11T08:00:00+05:00",
       "stop": "2026-06-11T09:00:00+05:00",
       "title": "Slam Dunk: The Finals",
@@ -219,6 +156,71 @@
           "Questlove"
         ]
       }
+    },
+    {
+      "start": "2026-06-11T14:36:00+05:00",
+      "stop": "2026-06-11T15:30:00+05:00",
+      "title": "Tamron Hall",
+      "sub_title": "Ahead of the Game",
+      "desc": "TV personality Jayne Kennedy (memoir \"Plain Jayne\") tells how she overcame the moment that nearly cost her career; athlete Deion Sanders, WNBA star Kiki Iriafen, 10-year-old wrestler Honor Smoke and FIFA World Cup champion Ali Krieger.",
+      "date": "2025",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Talk"
+      ],
+      "episode": "S7 E10",
+      "icon": "http://dtil.tmsimg.com/assets/p17197549_b_h8_af.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Tamron Hall",
+          "Jayne Kennedy",
+          "Deion Sanders"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-11T15:30:00+05:00",
+      "stop": "2026-06-11T16:00:00+05:00",
+      "title": "Good Morning America First Look",
+      "desc": "ABC's \"Good Morning America First Look\" brings one overnight breaking news, weather, politics, and the stories and video people will be talking about in the day ahead.",
+      "date": "2024",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p28311369_b_h8_ac.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Sophie Flay",
+          "Hanna Battah"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-11T16:00:00+05:00",
+      "stop": "2026-06-11T16:30:00+05:00",
+      "title": "Eyewitness News 4AM",
+      "desc": "News coverage to start the day.",
+      "date": "2009",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p7888306_b_h8_aa.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-06-11T16:30:00+05:00",
+      "stop": "2026-06-11T17:00:00+05:00",
+      "title": "Eyewitness News 4:30AM",
+      "desc": "News coverage to start the day.",
+      "date": "2008",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p676967_b_h8_af.jpg?w=960&h=540"
     }
   ]
 }

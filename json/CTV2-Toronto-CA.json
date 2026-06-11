@@ -4,81 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-11T02:59:00+05:00",
-      "stop": "2026-06-11T04:00:00+05:00",
-      "title": "Live: CTV News Barrie",
-      "desc": "CTV News covers stories that matter to Canadians - locally, nationally, & internationally.",
-      "date": "2014",
-      "language": "en",
-      "rating": "TV14",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p11226354_b_h8_ad.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-06-11T04:00:00+05:00",
-      "stop": "2026-06-11T06:00:00+05:00",
-      "title": "Live: WNBA Basketball",
-      "desc": "The Connecticut Sun play the Toronto Tempo at Coca-Cola Coliseum for a WNBA Commissioner's Cup game. Aneesah Morrow delivered a stellar performance by dropping 21 points in their April 29 preseason game. Brittney Sykes leads the Tempo in points.",
-      "language": "en",
-      "categories": [
-        "Sports",
-        "Basketball"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/GNLZZGG0034B7G3.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-06-11T06:00:00+05:00",
-      "stop": "2026-06-11T07:00:00+05:00",
-      "title": "The Floor",
-      "sub_title": "The Ice King Melts; The Fight to the Final",
-      "desc": "Seventeen players compete for a shot at winning the $250,000 prize.",
-      "date": "2026",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Series",
-        "Game show"
-      ],
-      "episode": "S5 E12",
-      "icon": "http://dtil.tmsimg.com/assets/p32460738_b_h8_ab.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Rob Lowe"
-        ]
-      }
-    },
-    {
-      "start": "2026-06-11T07:00:00+05:00",
-      "stop": "2026-06-11T08:00:00+05:00",
-      "title": "Criminal Minds",
-      "sub_title": "Cure",
-      "desc": "The BAU is called to investigate a series of homicides in which cryptic messages are found inside the mouths of the victims.",
-      "date": "2018",
-      "language": "en",
-      "rating": "TV14",
-      "categories": [
-        "Series",
-        "Crime drama",
-        "Mystery",
-        "Thriller",
-        "Drama"
-      ],
-      "episode": "S13 E13",
-      "icon": "http://dtil.tmsimg.com/assets/p185123_b_h8_ak.jpg?w=960&h=540",
-      "credits": {
-        "director": [
-          "Glenn Kershaw"
-        ],
-        "actor": [
-          "Joe Mantegna",
-          "Paget Brewster",
-          "Matthew Gray Gubler"
-        ]
-      }
-    },
-    {
       "start": "2026-06-11T08:00:00+05:00",
       "stop": "2026-06-11T08:34:00+05:00",
       "title": "Live: CTV News Barrie",
@@ -245,6 +170,74 @@
       ],
       "episode": "S23 E1",
       "icon": "http://dtil.tmsimg.com/assets/p185761_b_h8_ad.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-06-11T14:00:00+05:00",
+      "stop": "2026-06-11T14:30:00+05:00",
+      "title": "The Littlest Hobo",
+      "sub_title": "Portrait of Danger",
+      "desc": "A young photographer has important evidence of a bank holdup.",
+      "date": "1980",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Series",
+        "Drama",
+        "Adventure",
+        "Animals"
+      ],
+      "episode": "S2 E12",
+      "icon": "http://dtil.tmsimg.com/assets/p507740_b_h10_ac.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Joseph L. Scanlan"
+        ],
+        "actor": [
+          "Philip Akin",
+          "John Bayliss",
+          "Martin Doyle"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-11T14:30:00+05:00",
+      "stop": "2026-06-11T15:00:00+05:00",
+      "title": "Paid Programming",
+      "desc": "Paid programming.",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Consumer",
+        "Shopping",
+        "Variety"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-06-11T15:00:00+05:00",
+      "stop": "2026-06-11T15:40:00+05:00",
+      "title": "CTV News Barrie",
+      "desc": "CTV News covers stories that matter to Canadians - locally, nationally, & internationally.",
+      "date": "2014",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p11226354_b_h8_ad.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-06-11T15:40:00+05:00",
+      "stop": "2026-06-11T16:20:00+05:00",
+      "title": "CTV News Barrie",
+      "desc": "CTV News covers stories that matter to Canadians - locally, nationally, & internationally.",
+      "date": "2014",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p11226354_b_h8_ad.jpg?w=960&h=540"
     }
   ]
 }
