@@ -4,30 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-11T21:30:00+05:00",
-      "stop": "2026-06-11T21:45:00+05:00",
-      "title": "ITV News London",
-      "desc": "The latest news and weather from London and the South East.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/48a0b7a5-6ea4-4e0c-ac74-85c94a47fcd7/16-9"
-    },
-    {
-      "start": "2026-06-11T21:45:00+05:00",
-      "stop": "2026-06-11T22:15:00+05:00",
-      "title": "ITV Evening News",
-      "desc": "National and international news with reports and analysis from ITV's Correspondents in the UK and around the world, plus a focus on the stories that matter to you.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/1f3f5796-8d5b-4fa7-8ff7-bc870a0df4a1/16-9"
-    },
-    {
       "start": "2026-06-11T22:15:00+05:00",
       "stop": "2026-06-11T23:50:00+05:00",
       "title": "FIFA World Cup 2026: Opening Ceremony",
@@ -148,6 +124,30 @@
         "Football"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/55856d86-be82-450e-94b7-55872c9639d2/16-9"
+    },
+    {
+      "start": "2026-06-12T09:35:00+05:00",
+      "stop": "2026-06-12T10:00:00+05:00",
+      "title": "Goals of the 1990s",
+      "desc": "A look at some of the greatest goals from the 1990s, including memorable World Cup strikes by Platt, Maradona and Owen, and Euros classics from Gascoigne, Suker and Poborsky.",
+      "language": "en",
+      "categories": [
+        "Sports",
+        "Football"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/4aa3e9de-4cbd-40a6-8694-aa76c6ca5a7d/16-9"
+    },
+    {
+      "start": "2026-06-12T10:00:00+05:00",
+      "stop": "2026-06-12T13:30:00+05:00",
+      "title": "Good Morning Britain",
+      "desc": "News, current affairs and lively debate.",
+      "language": "en",
+      "categories": [
+        "News & Documentary",
+        "News"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/d0e1d822-25de-46ad-93dc-58e0cd14eb2e/16-9"
     }
   ]
 }

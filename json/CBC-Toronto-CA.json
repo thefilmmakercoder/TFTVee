@@ -4,68 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-11T21:00:00+05:00",
-      "stop": "2026-06-11T22:00:00+05:00",
-      "title": "Live: CBC Newsroom",
-      "desc": "News program bringing Canadians breaking news and live coverage from across Canada and around the world.",
-      "date": "2017",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p14555206_b_h8_af.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-06-11T22:00:00+05:00",
-      "stop": "2026-06-11T23:00:00+05:00",
-      "title": "Escape to the Country",
-      "sub_title": "Kent",
-      "desc": "Local girl Nicki Chapman shows a young couple with a growing family around Kent; away from the house hunt, Nicki takes a trip down memory lane, meeting up with her best friend from school.",
-      "date": "2022",
-      "language": "en",
-      "rating": "TVG",
-      "categories": [
-        "Series",
-        "House/garden",
-        "Home improvement",
-        "Bus./financial"
-      ],
-      "episode": "S22 E37",
-      "icon": "http://dtil.tmsimg.com/assets/p379352_b_h8_bq.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Nicki Chapman"
-        ]
-      }
-    },
-    {
-      "start": "2026-06-11T23:00:00+05:00",
-      "stop": "2026-06-11T23:30:00+05:00",
-      "title": "Coronation Street",
-      "desc": "Lisa and George query Summer's story, and Ben loses his temper with Maggie.",
-      "date": "2026",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Series",
-        "Soap",
-        "Drama",
-        "Romance"
-      ],
-      "episode": "E98",
-      "icon": "http://dtil.tmsimg.com/assets/p31898227_b_h11_aa.jpg?w=960&h=540",
-      "credits": {
-        "director": [
-          "Jason Wingard"
-        ],
-        "actor": [
-          "Harriet Bibby",
-          "Gareth Pierce",
-          "Tony Maudsley"
-        ]
-      }
-    },
-    {
       "start": "2026-06-11T23:30:00+05:00",
       "stop": "2026-06-12T00:00:00+05:00",
       "title": "Son of a Critch",
@@ -259,6 +197,61 @@
           "Adrienne Arsenault"
         ]
       }
+    },
+    {
+      "start": "2026-06-12T08:30:00+05:00",
+      "stop": "2026-06-12T09:00:00+05:00",
+      "title": "Live: CBC Toronto News at 11",
+      "desc": "The host presents information about the social, economic and political issues of the day and provides updates on current events in Toronto.",
+      "date": "2016",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p12567799_b_h10_ad.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-06-12T09:00:00+05:00",
+      "stop": "2026-06-12T09:30:00+05:00",
+      "title": "Coronation Street",
+      "desc": "Lisa and George query Summer's story, and Ben loses his temper with Maggie.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Soap",
+        "Drama",
+        "Romance"
+      ],
+      "episode": "E98",
+      "icon": "http://dtil.tmsimg.com/assets/p31898227_b_h11_aa.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Jason Wingard"
+        ],
+        "actor": [
+          "Harriet Bibby",
+          "Gareth Pierce",
+          "Tony Maudsley"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-12T09:30:00+05:00",
+      "stop": "2026-06-12T10:30:00+05:00",
+      "title": "Telling Our Story",
+      "sub_title": "Rebuilding",
+      "desc": "Future generations are tackling universal issues including ecology, discrimination, governance, and food sovereignty.",
+      "date": "2023",
+      "language": "en",
+      "categories": [
+        "Series",
+        "Documentary",
+        "Miniseries"
+      ],
+      "episode": "S1 E4",
+      "icon": "http://dtil.tmsimg.com/assets/p25541914_b_h10_aa.jpg?w=960&h=540"
     }
   ]
 }
