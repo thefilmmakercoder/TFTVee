@@ -4,30 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-11T04:45:00+05:00",
-      "stop": "2026-06-11T04:50:00+05:00",
-      "title": "Weather for the Week Ahead",
-      "desc": "Detailed weather forecast.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/aedc6ff3-ef62-4938-b6f7-0ce9f687f1c7/16-9"
-    },
-    {
-      "start": "2026-06-11T04:50:00+05:00",
-      "stop": "2026-06-11T10:00:00+05:00",
-      "title": "BBC News",
-      "desc": "BBC One joins the BBC's rolling news channel for a night of news.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/595544c4-4e46-4170-abe8-625c613770f9/16-9"
-    },
-    {
       "start": "2026-06-11T10:00:00+05:00",
       "stop": "2026-06-11T13:30:00+05:00",
       "title": "Breakfast",
@@ -145,6 +121,30 @@
         "Gradening"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/c526c4be-d323-4204-9134-ecb3593e6c38/16-9"
+    },
+    {
+      "start": "2026-06-11T20:30:00+05:00",
+      "stop": "2026-06-11T21:15:00+05:00",
+      "title": "Bridge of Lies",
+      "desc": "Family of four Will, Maj, Tracy and Beth take on the Bridge of Lies. One by one, they must cross the Bridge, stepping on the truths and avoiding the lies.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Game Show"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/6cff3c51-16ec-4936-9ebf-afff0cee3f15/16-9"
+    },
+    {
+      "start": "2026-06-11T21:15:00+05:00",
+      "stop": "2026-06-11T22:00:00+05:00",
+      "title": "Pointless",
+      "desc": "The quiz returns for another series in which contestants try to score as few points as possible by coming up with the answers no-one else could think of.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Game Show"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/9d138bef-cc45-3a5a-bdcc-8592beace92a/16-9"
     }
   ]
 }

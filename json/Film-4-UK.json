@@ -4,20 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-11T05:40:00+05:00",
-      "stop": "2026-06-11T07:45:00+05:00",
-      "title": "The Great Wall",
-      "desc": "Fantasy adventure starring Matt Damon and Willem Dafoe. In 11th-century China, Europeans seeking the secret of gunpowder are caught up in a war against alien monsters.",
-      "date": "2017",
-      "language": "en",
-      "rating": "12",
-      "categories": [
-        "Movie",
-        "Fantasy"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/bd74efb2-c5a6-4236-a7c8-691c191587cd/16-9"
-    },
-    {
       "start": "2026-06-11T07:45:00+05:00",
       "stop": "2026-06-11T11:00:00+05:00",
       "title": "Teleshopping",
@@ -110,6 +96,72 @@
         "Action"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/c92c7070-6132-40ee-800c-1930368efd00/16-9"
+    },
+    {
+      "start": "2026-06-12T01:00:00+05:00",
+      "stop": "2026-06-12T02:45:00+05:00",
+      "title": "Alice, Darling",
+      "desc": "Provocative psychological thriller with Anna Kendrick. A woman's friends stage an intervention to get her to see she's in a controlling relationship. But what will the boyfriend do.",
+      "date": "2022",
+      "language": "en",
+      "rating": "15",
+      "categories": [
+        "Movie",
+        "Thriller"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/40aad05d-4a7e-48d1-b451-993a6c1ca32f/16-9"
+    },
+    {
+      "start": "2026-06-12T02:45:00+05:00",
+      "stop": "2026-06-12T04:55:00+05:00",
+      "title": "Ex Machina",
+      "desc": "Sci-fi thriller. A young programmer agrees to help a reclusive genius to test whether his lifelike android has consciousness, with dramatic results.",
+      "date": "2013",
+      "language": "en",
+      "rating": "15",
+      "categories": [
+        "Movie",
+        "Sci-Fi"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/4e396ded-738b-43fe-8834-4bcca2e90b6a/16-9"
+    },
+    {
+      "start": "2026-06-12T04:55:00+05:00",
+      "stop": "2026-06-12T06:55:00+05:00",
+      "title": "Boss Level",
+      "desc": "Groundhog day shoot 'em up with Frank Grillo, Naomi Watts and Mel Gibson. Ray gets killed every day. Can he escape by unravelling the mystery of why a bunch of people want him dead.",
+      "date": "2020",
+      "language": "en",
+      "rating": "15",
+      "categories": [
+        "Movie",
+        "Action"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/1c509675-3c12-48b8-aa15-70c6d2c8f6cb/16-9"
+    },
+    {
+      "start": "2026-06-12T06:55:00+05:00",
+      "stop": "2026-06-12T11:00:00+05:00",
+      "title": "Teleshopping",
+      "desc": "Teleshopping.",
+      "language": "en",
+      "categories": [
+        "Specialist",
+        "Shopping"
+      ],
+      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/Film-4-UK.png"
+    },
+    {
+      "start": "2026-06-12T11:00:00+05:00",
+      "stop": "2026-06-12T15:00:00+05:00",
+      "title": "Teleshopping",
+      "desc": "Teleshopping.",
+      "language": "en",
+      "categories": [
+        "Specialist",
+        "Shopping"
+      ],
+      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/Film-4-UK.png"
     }
   ]
 }
