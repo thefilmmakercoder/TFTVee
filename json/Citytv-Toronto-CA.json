@@ -4,71 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-12T15:00:00+05:00",
-      "stop": "2026-06-12T17:30:00+05:00",
-      "title": "Breakfast Television Toronto",
-      "desc": "The latest in local news, weather and traffic, as well as celebrity interviews and lifestyle trends.",
-      "date": "2000",
-      "language": "en",
-      "categories": [
-        "Talk",
-        "Newsmagazine"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p599792_b_h8_ab.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Dina Pugliese",
-          "Melanie Ng"
-        ]
-      }
-    },
-    {
-      "start": "2026-06-12T17:30:00+05:00",
-      "stop": "2026-06-12T19:00:00+05:00",
-      "title": "Breakfast Television",
-      "desc": "Father's Day drink recipes worth raising a glass to. Makeup tips to keep your beauty routine heat-proof this summer. The best stain-removal strategies for outdoor sports season.",
-      "date": "2026",
-      "language": "en",
-      "categories": [
-        "Series",
-        "Talk",
-        "Newsmagazine"
-      ],
-      "episode": "E116",
-      "icon": "http://dtil.tmsimg.com/assets/p9093159_b_h8_ab.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Dina Pugliese",
-          "Tim Bolen",
-          "Frank Ferragine"
-        ]
-      }
-    },
-    {
-      "start": "2026-06-12T19:00:00+05:00",
-      "stop": "2026-06-12T20:00:00+05:00",
-      "title": "The Kelly Clarkson Show",
-      "desc": "Kellyoke encore: \"One More Night\"; Emily Blunt and Josh O'Connor; Avantika; chef David Nayfeld; guest host Willie Geist.",
-      "date": "2026",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Series",
-        "Talk",
-        "Variety",
-        "Entertainment"
-      ],
-      "episode": "S7 E156",
-      "icon": "http://dtil.tmsimg.com/assets/p16993616_b_h8_af.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Willie Geist",
-          "Emily Blunt",
-          "Josh O'Connor"
-        ]
-      }
-    },
-    {
       "start": "2026-06-12T20:00:00+05:00",
       "stop": "2026-06-12T21:00:00+05:00",
       "title": "The Price Is Right",
@@ -275,6 +210,50 @@
           "Judy Sheindlin",
           "Kevin Rasco",
           "Whitney Kumar"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-13T02:00:00+05:00",
+      "stop": "2026-06-13T03:00:00+05:00",
+      "title": "CityNews at 5 Toronto",
+      "desc": "Coverage of the day's top news stories.",
+      "date": "2019",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p16858119_b_h8_aa.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-06-13T03:00:00+05:00",
+      "stop": "2026-06-13T04:00:00+05:00",
+      "title": "CityNews at 6 Toronto",
+      "desc": "Coverage of the day's top news stories.",
+      "date": "2019",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p16858124_b_h8_aa.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-06-13T04:00:00+05:00",
+      "stop": "2026-06-13T04:30:00+05:00",
+      "title": "Family Feud",
+      "desc": "Family Feud is an American television game show where two families compete to name the responses to survey questions in order to win cash and prizes.",
+      "date": "2025",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Game show"
+      ],
+      "episode": "S26 E131",
+      "icon": "http://dtil.tmsimg.com/assets/p8314079_b_h8_ah.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Steve Harvey"
         ]
       }
     }

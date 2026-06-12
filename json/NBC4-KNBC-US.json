@@ -4,30 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-12T17:00:00+05:00",
-      "stop": "2026-06-12T18:00:00+05:00",
-      "title": "Today in LA @ 5AM",
-      "desc": "The latest local news, weather and investigative stories impacting the community.",
-      "date": "2020",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p18627056_b_h10_ab.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-06-12T18:00:00+05:00",
-      "stop": "2026-06-12T19:00:00+05:00",
-      "title": "Today in LA @ 6AM",
-      "desc": "The latest local news, weather and investigative stories impacting the community.",
-      "date": "2020",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p18627061_b_h10_ab.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-06-12T19:00:00+05:00",
       "stop": "2026-06-12T21:00:00+05:00",
       "title": "Today",
@@ -217,6 +193,30 @@
           "Tom Llamas"
         ]
       }
+    },
+    {
+      "start": "2026-06-13T04:00:00+05:00",
+      "stop": "2026-06-13T05:00:00+05:00",
+      "title": "NBC4 News at 4pm",
+      "desc": "The latest local news, weather and investigative stories impacting the community.",
+      "date": "2012",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p9358491_b_h10_ae.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-06-13T05:00:00+05:00",
+      "stop": "2026-06-13T06:00:00+05:00",
+      "title": "NBC4 News at 5pm",
+      "desc": "The latest local news, weather and investigative stories impacting the community.",
+      "date": "2011",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p8781144_b_h10_ad.jpg?w=960&h=540"
     }
   ]
 }

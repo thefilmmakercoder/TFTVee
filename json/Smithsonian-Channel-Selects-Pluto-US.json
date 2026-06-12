@@ -4,54 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-12T17:00:00+05:00",
-      "stop": "2026-06-12T18:00:00+05:00",
-      "title": "Secrets",
-      "sub_title": "Spear of Destiny",
-      "desc": "Follow the high-tech examination of an ancient spear believed by many to have magical properties.",
-      "date": "20141110",
-      "language": "en",
-      "categories": [
-        "Series",
-        "History",
-        "Educational"
-      ],
-      "episode": "S02E05",
-      "icon": "https://images.pluto.tv/series/61245f7673019a0013ed5bbe/tile.jpg?fill=blur&fit=fill&fm=jpg&h=900&q=75&w=900"
-    },
-    {
-      "start": "2026-06-12T18:00:00+05:00",
-      "stop": "2026-06-12T19:00:00+05:00",
-      "title": "Secrets",
-      "sub_title": "Easter Island",
-      "desc": "Unlock the secrets of an ancient religious cult behind the giant statues of Easter Island.",
-      "date": "20141013",
-      "language": "en",
-      "categories": [
-        "Series",
-        "History",
-        "Educational"
-      ],
-      "episode": "S02E01",
-      "icon": "https://images.pluto.tv/series/61245f7673019a0013ed5bbe/tile.jpg?fill=blur&fit=fill&fm=jpg&h=900&q=75&w=900"
-    },
-    {
-      "start": "2026-06-12T19:00:00+05:00",
-      "stop": "2026-06-12T20:00:00+05:00",
-      "title": "Secrets",
-      "sub_title": "Great Pyramid",
-      "desc": "For over 200 years, archaeologists have debated how Egyptians built the Great Pyramid. Do we finally have an answer?",
-      "date": "20141020",
-      "language": "en",
-      "categories": [
-        "Series",
-        "History",
-        "Educational"
-      ],
-      "episode": "S02E02",
-      "icon": "https://images.pluto.tv/series/61245f7673019a0013ed5bbe/tile.jpg?fill=blur&fit=fill&fm=jpg&h=900&q=75&w=900"
-    },
-    {
       "start": "2026-06-12T20:00:00+05:00",
       "stop": "2026-06-12T21:00:00+05:00",
       "title": "Carrier at War: The USS Enterprise",
@@ -60,8 +12,8 @@
       "language": "en",
       "categories": [
         "Series",
-        "History",
-        "Educational"
+        "Educational",
+        "History"
       ],
       "episode": "S01E01",
       "icon": "https://images.pluto.tv/series/61954492eb667e0013a0a689/tile.jpg?fill=blur&fit=fill&fm=jpg&h=900&q=75&w=900"
@@ -121,8 +73,8 @@
       "language": "en",
       "categories": [
         "Series",
-        "History",
-        "Educational"
+        "Educational",
+        "History"
       ],
       "episode": "S01E03",
       "icon": "https://images.pluto.tv/series/5fa343d4e906e1001a03e19b/tile.jpg?fill=blur&fit=fill&fm=jpg&h=900&q=75&w=900"
@@ -137,8 +89,8 @@
       "language": "en",
       "categories": [
         "Series",
-        "History",
-        "Educational"
+        "Educational",
+        "History"
       ],
       "episode": "S01E01",
       "icon": "https://images.pluto.tv/series/5fa343d4e906e1001a03e19b/tile.jpg?fill=blur&fit=fill&fm=jpg&h=900&q=75&w=900"
@@ -153,8 +105,8 @@
       "language": "en",
       "categories": [
         "Series",
-        "History",
-        "Educational"
+        "Educational",
+        "History"
       ],
       "episode": "S01E04",
       "icon": "https://images.pluto.tv/series/5fa343d4e906e1001a03e19b/tile.jpg?fill=blur&fit=fill&fm=jpg&h=900&q=75&w=900"
@@ -169,8 +121,8 @@
       "language": "en",
       "categories": [
         "Series",
-        "History",
-        "Educational"
+        "Educational",
+        "History"
       ],
       "episode": "S01E02",
       "icon": "https://images.pluto.tv/series/5fa343d4e906e1001a03e19b/tile.jpg?fill=blur&fit=fill&fm=jpg&h=900&q=75&w=900"
@@ -178,10 +130,64 @@
     {
       "start": "2026-06-13T04:00:00+05:00",
       "stop": "2026-06-13T05:00:00+05:00",
-      "title": "Smithsonian Channel Selects",
-      "desc": "Smithsonian Channel Selects streams a free, curated selection of documentaries and historical specials from the Smithsonian library.",
+      "title": "America in Color",
+      "sub_title": "Made in the USA",
+      "desc": "A look at the journey of the American worker through the first half of the 20th century.",
+      "date": "20191209",
       "language": "en",
-      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/Smithsonian-Channel-Selects-Pluto-US.png"
+      "categories": [
+        "Documentary",
+        "Series"
+      ],
+      "episode": "S03E04",
+      "icon": "https://images.pluto.tv/series/61243518d343140013d451c0/tile.jpg?fill=blur&fit=fill&fm=jpg&h=900&q=75&w=900"
+    },
+    {
+      "start": "2026-06-13T05:00:00+05:00",
+      "stop": "2026-06-13T06:00:00+05:00",
+      "title": "America in Color",
+      "sub_title": "Crimes of the Century",
+      "desc": "A look at Bonnie and Clyde, the Scopes \"monkey\" trial, and other crimes of the early 20th century in America, presented through colorized and remastered footage.",
+      "date": "20191216",
+      "language": "en",
+      "categories": [
+        "Documentary",
+        "Series"
+      ],
+      "episode": "S03E05",
+      "icon": "https://images.pluto.tv/series/61243518d343140013d451c0/tile.jpg?fill=blur&fit=fill&fm=jpg&h=900&q=75&w=900"
+    },
+    {
+      "start": "2026-06-13T06:00:00+05:00",
+      "stop": "2026-06-13T07:00:00+05:00",
+      "title": "America in Color",
+      "sub_title": "The 1950s",
+      "desc": "Witness the highs and lows of 1950s America, from consumerism to McCarthyism and beyond: in color.",
+      "date": "20170723",
+      "language": "en",
+      "categories": [
+        "Series",
+        "Educational",
+        "History"
+      ],
+      "episode": "S01E04",
+      "icon": "https://images.pluto.tv/series/61243518d343140013d451c0/tile.jpg?fill=blur&fit=fill&fm=jpg&h=900&q=75&w=900"
+    },
+    {
+      "start": "2026-06-13T07:00:00+05:00",
+      "stop": "2026-06-13T08:00:00+05:00",
+      "title": "America in Color",
+      "sub_title": "The Wild West",
+      "desc": "From Buffalo Bill to the construction of the Hoover Dam, this is the story of America's Wild West in color.",
+      "date": "20181119",
+      "language": "en",
+      "categories": [
+        "Series",
+        "Educational",
+        "History"
+      ],
+      "episode": "S02E01",
+      "icon": "https://images.pluto.tv/series/61243518d343140013d451c0/tile.jpg?fill=blur&fit=fill&fm=jpg&h=900&q=75&w=900"
     }
   ]
 }
