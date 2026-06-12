@@ -4,30 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-12T23:00:00+05:00",
-      "stop": "2026-06-13T00:00:00+05:00",
-      "title": "The Floor US",
-      "desc": "I Did Not See that Coming: Rob Lowe hosts the American version of the dramatic and fast-paced game show. Fifty players remain, and some new players try to make their mark.",
-      "language": "en",
-      "categories": [
-        "Entertainment",
-        "Game Show"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/1c4d552e-f429-4cd5-8e4d-2390d4c66c30/16-9"
-    },
-    {
-      "start": "2026-06-13T00:00:00+05:00",
-      "stop": "2026-06-13T01:00:00+05:00",
-      "title": "The 1% Club",
-      "desc": "Find out how clever you are as Lee Mack presents the quiz where it doesn't matter how good you are at quizzes and where 100 contestants could win up to 100,000 pounds.",
-      "language": "en",
-      "categories": [
-        "Entertainment",
-        "Game Show"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/4246ea67-a815-4bc7-86f5-f8d27917f3bc/16-9"
-    },
-    {
       "start": "2026-06-13T01:00:00+05:00",
       "stop": "2026-06-13T02:05:00+05:00",
       "title": "Love Island",
@@ -151,6 +127,30 @@
         "Lifestyles"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/512fd410-f925-421b-b5de-3302820fe4aa/16-9"
+    },
+    {
+      "start": "2026-06-13T07:00:00+05:00",
+      "stop": "2026-06-13T10:00:00+05:00",
+      "title": "Teleshopping",
+      "desc": "Shopping from home.",
+      "language": "en",
+      "categories": [
+        "Specialist",
+        "Shopping"
+      ],
+      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/ITV-2-UK.png"
+    },
+    {
+      "start": "2026-06-13T10:00:00+05:00",
+      "stop": "2026-06-13T11:00:00+05:00",
+      "title": "Deal or No Deal",
+      "desc": "Stephen Mulhern hosts as a brave contestant takes on the infamous Banker in the exciting and iconic gameshow and could be in with the chance of winning a life-changing cash prize.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Game Show"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/6e53aa8d-1de5-316a-871e-90fed8fc5403/16-9"
     }
   ]
 }

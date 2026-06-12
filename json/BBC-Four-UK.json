@@ -4,30 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-12T23:25:00+05:00",
-      "stop": "2026-06-13T00:05:00+05:00",
-      "title": "TOTP: 1977",
-      "desc": "Featuring Osibisa, Berni Flint, the Wurzels, Neil Innes, Demis Roussos, Bob Marley and the Wailers, ELO, Frankie Miller, The Stranglers, Honky, Rod Stewart and Legs & Co.",
-      "language": "en",
-      "categories": [
-        "Music & Radio",
-        "Rock&Pop"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/8ebdaebf-f93a-49c1-ac7b-23c1680e5e2d/16-9"
-    },
-    {
-      "start": "2026-06-13T00:05:00+05:00",
-      "stop": "2026-06-13T00:30:00+05:00",
-      "title": "TOTP: 1985",
-      "desc": "Simon Bates and Richard Skinner present the pop chart programme. Featuring Gary Moore & Phil Lynott, Kool and the Gang, Propaganda, David Bowie, Duran Duran and Paul Hardcastle.",
-      "language": "en",
-      "categories": [
-        "Music & Radio",
-        "Rock&Pop"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/9c5af8fe-0247-4fe6-86b5-cdffabb5bf1c/16-9"
-    },
-    {
       "start": "2026-06-13T00:30:00+05:00",
       "stop": "2026-06-13T01:05:00+05:00",
       "title": "TOTP: 1988",
@@ -139,6 +115,22 @@
       "stop": "2026-06-13T09:30:00+05:00",
       "title": "This is BBC Four",
       "desc": "Programmes start at 7.00pm.",
+      "language": "en",
+      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/BBC-Four-UK.png"
+    },
+    {
+      "start": "2026-06-13T09:30:00+05:00",
+      "stop": "2026-06-13T15:30:00+05:00",
+      "title": "..programmes start at 7.00pm",
+      "desc": "BBC Four provides an intelligent mix of arts, science, and history programming, offering deep-dive documentaries and world cinema for a curious audience.",
+      "language": "en",
+      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/BBC-Four-UK.png"
+    },
+    {
+      "start": "2026-06-13T15:30:00+05:00",
+      "stop": "2026-06-13T21:30:00+05:00",
+      "title": "..programmes start at 7.00pm",
+      "desc": "BBC Four provides an intelligent mix of arts, science, and history programming, offering deep-dive documentaries and world cinema for a curious audience.",
       "language": "en",
       "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/BBC-Four-UK.png"
     }
