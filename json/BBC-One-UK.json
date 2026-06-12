@@ -4,18 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-12T04:25:00+05:00",
-      "stop": "2026-06-12T04:30:00+05:00",
-      "title": "Weather for the Week Ahead",
-      "desc": "Detailed weather forecast.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/5eb760ff-7203-41e7-9efa-117d8a882a35/16-9"
-    },
-    {
       "start": "2026-06-12T04:30:00+05:00",
       "stop": "2026-06-12T10:00:00+05:00",
       "title": "BBC News",
@@ -145,6 +133,18 @@
         "Game Show"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/d0a2a509-f07e-30c6-bf19-d7c6b1b47410/16-9"
+    },
+    {
+      "start": "2026-06-12T21:15:00+05:00",
+      "stop": "2026-06-12T22:00:00+05:00",
+      "title": "Pointless",
+      "desc": "The quiz returns for another series in which contestants try to score as few points as possible by coming up with the answers no-one else could think of.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Game Show"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/7a18a3e6-3da7-37bf-9881-539bdb1cf9c3/16-9"
     }
   ]
 }

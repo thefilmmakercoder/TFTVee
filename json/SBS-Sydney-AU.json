@@ -4,45 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-12T04:30:00+05:00",
-      "stop": "2026-06-12T05:00:00+05:00",
-      "title": "BBC News At Ten",
-      "sub_title": "Friday 12 June 2026",
-      "desc": "The latest national and international news stories from the BBC News team from London, UK, in English.",
-      "language": "en",
-      "rating": "NR",
-      "categories": [
-        "News"
-      ],
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/415775/image/334x188"
-    },
-    {
-      "start": "2026-06-12T05:00:00+05:00",
-      "stop": "2026-06-12T05:30:00+05:00",
-      "title": "France 24 International SBS Midday",
-      "sub_title": "Friday 12 June 2026",
-      "desc": "International news and current affairs television from Paris, offering a French perspective on world events, in English.",
-      "language": "en",
-      "rating": "NR",
-      "categories": [
-        "News"
-      ],
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/13764469/image/334x188"
-    },
-    {
-      "start": "2026-06-12T05:30:00+05:00",
-      "stop": "2026-06-12T06:30:00+05:00",
-      "title": "PBS Newshour",
-      "sub_title": "Friday 12 June 2026",
-      "desc": "Reviews and analysis of the day's news, presented by Amna Nawaz and Geoff Bennett for the Public Broadcasting Service (PBS) in the United States.",
-      "language": "en",
-      "rating": "NR",
-      "categories": [
-        "News"
-      ],
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/249865/image/334x188"
-    },
-    {
       "start": "2026-06-12T06:30:00+05:00",
       "stop": "2026-06-12T09:30:00+05:00",
       "title": "FIFA World Cup 2026",
@@ -161,6 +122,46 @@
       ],
       "episode": "E1",
       "icon": "https://www.fetchtv.com.au/v2/epg/program/23044036/image/334x188"
+    },
+    {
+      "start": "2026-06-12T18:30:00+05:00",
+      "stop": "2026-06-12T20:20:00+05:00",
+      "title": "Tour Auvergne-Rhone-Alpes",
+      "sub_title": "Stage 6",
+      "desc": "All the action from Stage 6 of the 2026 Tour Auvergne-Rhone-Alpes (formerly Criterium du Dauphine), as the peloton takes on a 181.4 km route starting in Saint-Vulbas and finishing in Crest-Voland.",
+      "language": "en",
+      "rating": "NR",
+      "categories": [
+        "Sports"
+      ],
+      "episode": "E6",
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/8597820/image/334x188"
+    },
+    {
+      "start": "2026-06-12T20:20:00+05:00",
+      "stop": "2026-06-12T21:25:00+05:00",
+      "title": "The Typist",
+      "desc": "When the suspect in Sandra Freya's case disappears, an experienced chief inspector takes over the investigation.",
+      "language": "en",
+      "rating": "M",
+      "categories": [
+        "Drama"
+      ],
+      "episode": "S1 E2",
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/2123385/image/334x188"
+    },
+    {
+      "start": "2026-06-12T21:25:00+05:00",
+      "stop": "2026-06-12T22:20:00+05:00",
+      "title": "Rainbow Warrior: Murder In The Pacific",
+      "desc": "In the final part of the story, we hear from the bomber himself how he came to plant the bombs on the Greenpeace ship Rainbow Warrior and the measures he took to escape New Zealand after the attack.",
+      "language": "en",
+      "rating": "PG",
+      "categories": [
+        "Special Interest"
+      ],
+      "episode": "S1 E3",
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/5004429/image/334x188"
     }
   ]
 }

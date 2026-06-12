@@ -4,62 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-12T04:00:00+05:00",
-      "stop": "2026-06-12T05:00:00+05:00",
-      "title": "Eyewitness News 4PM",
-      "desc": "Early evening news.",
-      "date": "2004",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p676966_b_h8_af.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-06-12T05:00:00+05:00",
-      "stop": "2026-06-12T08:00:00+05:00",
-      "title": "Live: 2026 Stanley Cup Final",
-      "desc": "The Vegas Golden Knights and Carolina Hurricanes meet in Game 5 of the Stanley Cup Final. Hurricanes rely on Captain Jordan Staal after his iconic two goals in Game 4, while Vegas relies on forward Mitch Marner on the road. This series is tied 2-2.",
-      "language": "en",
-      "categories": [
-        "Sports",
-        "Playoff sports",
-        "Hockey"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/GNLZZGG0035NJM8.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-06-12T08:00:00+05:00",
-      "stop": "2026-06-12T09:00:00+05:00",
-      "title": "Eyewitness News",
-      "desc": "Stay informed with the latest breaking news and headlines.",
-      "date": "2025",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p31785684_st_h10_aa.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-06-12T09:00:00+05:00",
-      "stop": "2026-06-12T09:30:00+05:00",
-      "title": "ABC World News Tonight With David Muir",
-      "desc": "Delivering the news that matters most.",
-      "date": "2026",
-      "language": "en",
-      "categories": [
-        "Series",
-        "News"
-      ],
-      "episode": "E155",
-      "icon": "http://dtil.tmsimg.com/assets/p10880351_b_h8_ah.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "David Muir"
-        ]
-      }
-    },
-    {
       "start": "2026-06-12T09:30:00+05:00",
       "stop": "2026-06-12T10:00:00+05:00",
       "title": "Jeopardy!",
@@ -212,6 +156,70 @@
           "Jodie Turner-Smith"
         ]
       }
+    },
+    {
+      "start": "2026-06-12T14:36:00+05:00",
+      "stop": "2026-06-12T15:30:00+05:00",
+      "title": "Tamron Hall",
+      "sub_title": "Something From Nothing",
+      "desc": "Chef Alison Roman (grocery store First Bloom) prepares recipes from her latest book, \"Something From Nothing\"; Erin Morton tells what paved the way for her Broadway dreams and performs.",
+      "date": "2025",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Talk"
+      ],
+      "episode": "S7 E48",
+      "icon": "http://dtil.tmsimg.com/assets/p17197549_b_h8_af.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Tamron Hall",
+          "Alison Roman"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-12T15:30:00+05:00",
+      "stop": "2026-06-12T16:00:00+05:00",
+      "title": "Good Morning America First Look",
+      "desc": "ABC's \"Good Morning America First Look\" brings one overnight breaking news, weather, politics, and the stories and video people will be talking about in the day ahead.",
+      "date": "2024",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p28311369_b_h8_ac.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Sophie Flay",
+          "Hanna Battah"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-12T16:00:00+05:00",
+      "stop": "2026-06-12T16:30:00+05:00",
+      "title": "Eyewitness News 4AM",
+      "desc": "News coverage to start the day.",
+      "date": "2009",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p7888306_b_h8_aa.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-06-12T16:30:00+05:00",
+      "stop": "2026-06-12T17:00:00+05:00",
+      "title": "Eyewitness News 4:30AM",
+      "desc": "News coverage to start the day.",
+      "date": "2008",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p676967_b_h8_af.jpg?w=960&h=540"
     }
   ]
 }
