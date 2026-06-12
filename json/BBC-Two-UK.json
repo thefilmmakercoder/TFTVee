@@ -4,18 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-12T02:30:00+05:00",
-      "stop": "2026-06-12T03:00:00+05:00",
-      "title": "Newsnight, followed by Weather",
-      "desc": "Insights and global interviews on the crucial news stories of the day. With Adam Fleming. Followed by Weather.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/03ddafe5-a99c-4574-8a93-beaacf2e28c0/16-9"
-    },
-    {
       "start": "2026-06-12T03:00:00+05:00",
       "stop": "2026-06-12T04:00:00+05:00",
       "title": "Surgeons: At the Edge of Life",
@@ -140,6 +128,18 @@
         "Factual"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/93323387-b922-475a-aac7-e02496f94c45/16-9"
+    },
+    {
+      "start": "2026-06-12T17:00:00+05:00",
+      "stop": "2026-06-12T22:00:00+05:00",
+      "title": "Tennis: Queen's",
+      "desc": "Live coverage from day 5 of the 2026 Queen's tennis tournament.",
+      "language": "en",
+      "categories": [
+        "Sports",
+        "Tennis"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/1d88aa7f-ea78-41a7-80b9-348631a0a4d6/16-9"
     }
   ]
 }

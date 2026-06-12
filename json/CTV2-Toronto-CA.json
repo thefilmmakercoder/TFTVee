@@ -4,64 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-12T02:30:00+05:00",
-      "stop": "2026-06-12T02:59:00+05:00",
-      "title": "CTV National News With Sandie Rinaldo",
-      "desc": "CTV News covers stories that matter to Canadians - locally, nationally, & internationally.",
-      "date": "2026",
-      "language": "en",
-      "categories": [
-        "Series",
-        "News"
-      ],
-      "episode": "E94",
-      "icon": "http://dtil.tmsimg.com/assets/p7988878_b_h8_aa.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Sandie Rinaldo"
-        ]
-      }
-    },
-    {
-      "start": "2026-06-12T02:59:00+05:00",
-      "stop": "2026-06-12T04:00:00+05:00",
-      "title": "Live: CTV News Barrie",
-      "desc": "CTV News covers stories that matter to Canadians - locally, nationally, & internationally.",
-      "date": "2014",
-      "language": "en",
-      "rating": "TV14",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p11226354_b_h8_ad.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-06-12T04:00:00+05:00",
-      "stop": "2026-06-12T04:30:00+05:00",
-      "title": "The Big Bang Theory",
-      "sub_title": "The Occupation Recalibration",
-      "desc": "Sheldon must learn how to relax when he is forced to take a vacation; Leonard tries to support Penny when she quits her job; Bernadette needs to replace one of Stuart's comic books.",
-      "date": "2014",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Series",
-        "Sitcom"
-      ],
-      "episode": "S7 E13",
-      "icon": "http://dtil.tmsimg.com/assets/p185554_b_h8_az.jpg?w=960&h=540",
-      "credits": {
-        "director": [
-          "Mark Cendrowski"
-        ],
-        "actor": [
-          "Johnny Galecki",
-          "Jim Parsons",
-          "Kaley Cuoco"
-        ]
-      }
-    },
-    {
       "start": "2026-06-12T04:30:00+05:00",
       "stop": "2026-06-12T05:00:00+05:00",
       "title": "etalk",
@@ -256,6 +198,86 @@
       ],
       "episode": "E96",
       "icon": "http://dtil.tmsimg.com/assets/p22894284_b_h8_ab.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-06-12T10:07:00+05:00",
+      "stop": "2026-06-12T11:05:00+05:00",
+      "title": "Criminal Minds",
+      "sub_title": "The Itch",
+      "desc": "A body is found covered in scratches, leading the BAU to believe that the person responsible has a chronic skin disorder.",
+      "date": "2014",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "Series",
+        "Crime drama",
+        "Mystery",
+        "Thriller",
+        "Drama"
+      ],
+      "episode": "S10 E4",
+      "icon": "http://dtil.tmsimg.com/assets/p185123_b_h8_ak.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Larry Teng"
+        ],
+        "actor": [
+          "Joe Mantegna",
+          "Thomas Gibson",
+          "Shemar Moore"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-12T11:05:00+05:00",
+      "stop": "2026-06-12T12:05:00+05:00",
+      "title": "Suits",
+      "sub_title": "Stay",
+      "desc": "An old nemesis returns; Harvey and Scottie are on opposing sides again; Louis ends up in Sheila's crosshairs; Mike and Rachel are under Jessica's scrutiny.",
+      "date": "2013",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "Series",
+        "Drama",
+        "Crime drama",
+        "Law",
+        "Comedy"
+      ],
+      "episode": "S3 E10",
+      "icon": "http://dtil.tmsimg.com/assets/p8630071_b_h8_bc.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Patrick J. Adams",
+          "Gabriel Macht",
+          "Meghan Markle"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-12T12:05:00+05:00",
+      "stop": "2026-06-12T13:05:00+05:00",
+      "title": "Flashpoint",
+      "sub_title": "A New Life",
+      "desc": "Logan's widow starts a chain reaction campaign to kill people from her husband's captor's families.",
+      "date": "2011",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "Series",
+        "Crime drama",
+        "Thriller",
+        "Action"
+      ],
+      "episode": "S4 E12",
+      "icon": "http://dtil.tmsimg.com/assets/p186582_b_h8_ak.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Enrico Colantoni",
+          "Hugh Dillon",
+          "Amy Jo Johnson"
+        ]
+      }
     }
   ]
 }

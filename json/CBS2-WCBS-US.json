@@ -4,76 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-12T02:00:00+05:00",
-      "stop": "2026-06-12T03:00:00+05:00",
-      "title": "CBS News New York 5pm",
-      "desc": "Evening news coverage.",
-      "date": "2011",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p8492449_b_h8_ab.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-06-12T03:00:00+05:00",
-      "stop": "2026-06-12T03:30:00+05:00",
-      "title": "CBS News New York 6pm",
-      "desc": "Stay informed with the latest breaking news and headlines.",
-      "date": "2008",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p605164_b_h8_ab.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-06-12T03:30:00+05:00",
-      "stop": "2026-06-12T04:00:00+05:00",
-      "title": "CBS Evening News",
-      "desc": "Tony Dokoupil shares the day's most important stories, delivering context and depth to bring greater understanding to one's world.",
-      "date": "2026",
-      "language": "en",
-      "categories": [
-        "Series",
-        "News"
-      ],
-      "episode": "E162",
-      "icon": "http://dtil.tmsimg.com/assets/p28807922_b_h8_ae.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Tony Dokoupil",
-          "Maurice DuBois",
-          "Jericka Duncan"
-        ]
-      }
-    },
-    {
-      "start": "2026-06-12T04:00:00+05:00",
-      "stop": "2026-06-12T04:30:00+05:00",
-      "title": "Inside Edition",
-      "desc": "A syndicated news magazine includes investigative reports, interviews with newsmakers, human interest stories and celebrity and pop-culture features.",
-      "date": "2026",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Series",
-        "Newsmagazine",
-        "Public affairs",
-        "Interview"
-      ],
-      "episode": "S38 E199",
-      "icon": "http://dtil.tmsimg.com/assets/p184110_b_h10_aa.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Eva Pilgrim",
-          "Mary Calvi",
-          "Jim Moret"
-        ]
-      }
-    },
-    {
       "start": "2026-06-12T04:30:00+05:00",
       "stop": "2026-06-12T05:00:00+05:00",
       "title": "Entertainment Tonight",
@@ -265,6 +195,82 @@
           "Clint Coley"
         ]
       }
+    },
+    {
+      "start": "2026-06-12T09:37:00+05:00",
+      "stop": "2026-06-12T10:07:00+05:00",
+      "title": "Funny You Should Ask",
+      "desc": "Jon Lovitz; Kim Whitley; Billy Gardell; Byron Allen; Natasha Leggero; Jamie Kennedy.",
+      "date": "2023",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Game show",
+        "Comedy"
+      ],
+      "episode": "S7 E22",
+      "icon": "http://dtil.tmsimg.com/assets/p13115825_b_h10_ac.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Jon Kelley"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-12T10:07:00+05:00",
+      "stop": "2026-06-12T10:37:00+05:00",
+      "title": "Funny You Should Ask",
+      "desc": "Jon Lovitz; Jacke\u00e9 Harry; Adam Carolla; Byron Allen; Natasha Leggero; Jimmie Walker.",
+      "date": "2022",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Game show",
+        "Comedy"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p28608175_b_h10_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Jon Kelley"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-12T10:37:00+05:00",
+      "stop": "2026-06-12T11:07:00+05:00",
+      "title": "Funny You Should Ask",
+      "desc": "Jamie Kennedy; Sheryl Underwood; Adam Carolla; Byron Allen; Caroline Rhea; Brad Williams.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Game show",
+        "Comedy"
+      ],
+      "episode": "S9 E37",
+      "icon": "http://dtil.tmsimg.com/assets/p28608175_b_h10_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Jon Kelley"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-12T11:07:00+05:00",
+      "stop": "2026-06-12T11:37:00+05:00",
+      "title": "Paid Programming",
+      "desc": "Paid programming.",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Consumer",
+        "Shopping",
+        "Variety"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&h=540"
     }
   ]
 }

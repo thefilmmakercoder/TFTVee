@@ -4,57 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-12T02:50:00+05:00",
-      "stop": "2026-06-12T03:00:00+05:00",
-      "title": "France 24 Feature",
-      "sub_title": "First Edition",
-      "desc": "News feature in English from France 24, Paris.",
-      "language": "en",
-      "rating": "NR",
-      "categories": [
-        "News"
-      ],
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/337182/image/334x188"
-    },
-    {
-      "start": "2026-06-12T03:00:00+05:00",
-      "stop": "2026-06-12T03:10:00+05:00",
-      "title": "Euronews",
-      "sub_title": "Friday 12 June 2026",
-      "desc": "Headlines, Breaking News & Analysis from the Euronews news centre in Brussels, Belgium, in English.",
-      "language": "en",
-      "rating": "NR",
-      "categories": [
-        "News"
-      ],
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/276/image/334x188"
-    },
-    {
-      "start": "2026-06-12T03:10:00+05:00",
-      "stop": "2026-06-12T03:40:00+05:00",
-      "title": "NHK Newsline",
-      "sub_title": "Friday 12 June 2026",
-      "desc": "English news from Japan's Broadcasting Corporation, NHK, delivering the latest in business, technology, health, environmental and world news.",
-      "language": "en",
-      "rating": "NR",
-      "categories": [
-        "News"
-      ],
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/439062/image/334x188"
-    },
-    {
-      "start": "2026-06-12T03:40:00+05:00",
-      "stop": "2026-06-12T04:30:00+05:00",
-      "title": "Cbc The National",
-      "desc": "CBC's flagship nightly news with hosts Adrienne Arsenault and Andrew Chang from Toronto, Canada, via satellite in English.",
-      "language": "en",
-      "rating": "NR",
-      "categories": [
-        "News"
-      ],
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/413666/image/334x188"
-    },
-    {
       "start": "2026-06-12T04:30:00+05:00",
       "stop": "2026-06-12T05:00:00+05:00",
       "title": "BBC News At Six",
@@ -162,6 +111,59 @@
       ],
       "episode": "S1 E2",
       "icon": "https://www.fetchtv.com.au/v2/epg/program/9557781/image/334x188"
+    },
+    {
+      "start": "2026-06-12T10:00:00+05:00",
+      "stop": "2026-06-12T10:35:00+05:00",
+      "title": "Bamay",
+      "sub_title": "Noongar Country - The Pinnacles WA Part 2",
+      "desc": "Slow TV is back on NITV with more beautiful Bamay, celebrating stunning landscapes of Countries across Australia. Sit back and relax with the healing powers of Country.",
+      "language": "en",
+      "rating": "G",
+      "categories": [
+        "Special Interest"
+      ],
+      "episode": "S4 E12",
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/391682/image/334x188"
+    },
+    {
+      "start": "2026-06-12T10:35:00+05:00",
+      "stop": "2026-06-12T10:40:00+05:00",
+      "title": "NITV News Update",
+      "desc": "NITV News recaptures the highlights of Indigenous news around the country.",
+      "language": "en",
+      "rating": "NR",
+      "categories": [
+        "News"
+      ],
+      "episode": "E104",
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/5904078/image/334x188"
+    },
+    {
+      "start": "2026-06-12T10:40:00+05:00",
+      "stop": "2026-06-12T11:10:00+05:00",
+      "title": "BBC News At Ten",
+      "sub_title": "Friday 12 June 2026",
+      "desc": "The latest national and international news stories from the BBC News team from London, UK, in English.",
+      "language": "en",
+      "rating": "NR",
+      "categories": [
+        "News"
+      ],
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/415775/image/334x188"
+    },
+    {
+      "start": "2026-06-12T11:10:00+05:00",
+      "stop": "2026-06-12T11:40:00+05:00",
+      "title": "France 24 International News",
+      "sub_title": "Friday 12 June 2026",
+      "desc": "International news and current affairs television from Paris, offering a French perspective on world events, in English.",
+      "language": "en",
+      "rating": "NR",
+      "categories": [
+        "News"
+      ],
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/290253/image/334x188"
     }
   ]
 }

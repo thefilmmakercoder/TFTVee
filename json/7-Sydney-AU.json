@@ -4,20 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-12T00:00:00+05:00",
-      "stop": "2026-06-12T00:30:00+05:00",
-      "title": "Sunrise Early News",
-      "sub_title": "Friday 12 June 2026",
-      "desc": "Wake up to a better breakfast with Edwina Bartholomew for all the latest news, sport and weather.",
-      "language": "en",
-      "rating": "NR",
-      "categories": [
-        "News"
-      ],
-      "episode": "S26 E117",
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/434344/image/334x188"
-    },
-    {
       "start": "2026-06-12T00:30:00+05:00",
       "stop": "2026-06-12T04:00:00+05:00",
       "title": "Sunrise",
@@ -165,6 +151,18 @@
       ],
       "episode": "S32 E32",
       "icon": "https://www.fetchtv.com.au/v2/epg/program/133227/image/334x188"
+    },
+    {
+      "start": "2026-06-12T15:00:00+05:00",
+      "stop": "2026-06-12T17:00:00+05:00",
+      "title": "TBA",
+      "desc": "Channel 7 delivers public Australian commercial broadcasting, featuring Seven News, live premium sports, domestic dramas, and major reality franchises like The Voice.",
+      "language": "en",
+      "rating": "NR",
+      "categories": [
+        "Sports"
+      ],
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/5605300/image/334x188"
     }
   ]
 }

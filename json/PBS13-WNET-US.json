@@ -4,54 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-12T02:30:00+05:00",
-      "stop": "2026-06-12T03:00:00+05:00",
-      "title": "NJ Spotlight News with Briana Vannozzi",
-      "desc": "Statewide reporting on the latest news and issues affecting communities across the Garden State.",
-      "date": "2020",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p18850294_b_h10_aa.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-06-12T03:00:00+05:00",
-      "stop": "2026-06-12T03:30:00+05:00",
-      "title": "DW News",
-      "desc": "Presenting a round-up of the most recent news and developments from across the world.",
-      "date": "2002",
-      "language": "en",
-      "rating": "A",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p26245192_b_h10_aa.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Ben Fajzullin"
-        ]
-      }
-    },
-    {
-      "start": "2026-06-12T03:30:00+05:00",
-      "stop": "2026-06-12T04:00:00+05:00",
-      "title": "BBC World News America",
-      "desc": "A detailed look into news stories from around the world from the BBC news desk in Washington, D.C.",
-      "date": "2026",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p32402912_b_h10_aa.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Sumi Somaskanda",
-          "Caitr\u00edona Perry"
-        ]
-      }
-    },
-    {
       "start": "2026-06-12T04:00:00+05:00",
       "stop": "2026-06-12T05:00:00+05:00",
       "title": "PBS News Hour",
@@ -225,6 +177,78 @@
       "credits": {
         "actor": [
           "Danielle Brooks"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-12T14:30:00+05:00",
+      "stop": "2026-06-12T15:00:00+05:00",
+      "title": "Rick Steves' Europe",
+      "desc": "Rick Steves' guidebooks, public-radio program and numerous television series have made him an essential resource for travelers wishing to explore Europe. This program finds the knowledgeable host offering globetrotters a fresh perspective on lodgings, transportation and places to visit on their journeys. One thing that hasn't changed, however, is Steves' belief that travelers should become \"temporary locals,\" exploring not only major cities and the usual sites, but out-of-the-way locales that often produce the most authentic, and enjoyable, experiences of a trip.",
+      "date": "2000",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Travel"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p25482162_b_h8_ab.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Rick Steves"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-12T15:00:00+05:00",
+      "stop": "2026-06-12T15:30:00+05:00",
+      "title": "Arthur",
+      "sub_title": "When Rivals Came to Roost; The Longest Eleven Minutes",
+      "desc": "Lakewood Elementary students must share their school with rival students whose school gets flooded; the gang doesn't know what to do when the internet goes out.",
+      "date": "2019",
+      "language": "en",
+      "rating": "TVY",
+      "categories": [
+        "Series",
+        "Animated",
+        "Children",
+        "Educational",
+        "Animals"
+      ],
+      "episode": "S22 E2",
+      "icon": "http://dtil.tmsimg.com/assets/p16678338_b_h10_aa.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Greg Bailey"
+        ],
+        "actor": [
+          "Jacob Ursomarzo",
+          "Christian Distefano",
+          "Bruce Dinsmore"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-12T15:30:00+05:00",
+      "stop": "2026-06-12T16:00:00+05:00",
+      "title": "Odd Squad",
+      "sub_title": "Oswald in the Machine; The B-Team",
+      "desc": "An Odd Squad gadget has been stolen and is being kept in a warehouse run by robots; the team must take control of a robot and use coding to program it to retrieve the stolen gadget.",
+      "date": "2020",
+      "language": "en",
+      "rating": "TVY",
+      "categories": [
+        "Series",
+        "Children",
+        "Educational",
+        "Entertainment"
+      ],
+      "episode": "S3 E17",
+      "icon": "http://dtil.tmsimg.com/assets/p11086138_b_h8_bj.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Filip Geljo",
+          "Dalila Bela",
+          "Sean Michael Kyer"
         ]
       }
     }

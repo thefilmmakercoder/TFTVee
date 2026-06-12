@@ -4,22 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-12T01:00:00+05:00",
-      "stop": "2026-06-12T01:45:00+05:00",
-      "title": "Finally Caught",
-      "sub_title": "Stoltzfoos",
-      "desc": "A young woman vanishes without a trace in a quiet Amish town, leaving a community shaken; the search for truth unravels a sinister plan.",
-      "date": "2025",
-      "language": "en",
-      "rating": "12",
-      "categories": [
-        "Series",
-        "Crime"
-      ],
-      "episode": "S6 E14",
-      "icon": "http://dtil.tmsimg.com/assets/p23660963_b_h8_ae.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-06-12T01:45:00+05:00",
       "stop": "2026-06-12T03:20:00+05:00",
       "title": "The Wrong Daughter",
@@ -276,6 +260,24 @@
       ],
       "episode": "S6 E14",
       "icon": "http://dtil.tmsimg.com/assets/p23660963_b_h8_ae.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-06-12T15:00:00+05:00",
+      "stop": "2026-06-12T16:45:00+05:00",
+      "title": "What We Inherit",
+      "desc": "After discovering his ancestors were both pioneers and enslavers, Kacim journeys through the complexities of his American and Algerian heritage, confronting histories of conquest, slavery, and the weight of an inherited legacy.",
+      "date": "2025",
+      "language": "en",
+      "categories": [
+        "Special",
+        "Documentary"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p30024662_b_h11_aa.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Kacim Steets"
+        ]
+      }
     }
   ]
 }

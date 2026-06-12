@@ -4,43 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-12T02:35:00+05:00",
-      "stop": "2026-06-12T03:05:00+05:00",
-      "title": "ITV News at Ten",
-      "desc": "ITV News provides a fresh perspective on the major stories of the day with national and international news with reports and analysis from ITV's Correspondents.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/28424db9-f3c3-47d4-bbde-e707a008d5d4/16-9"
-    },
-    {
-      "start": "2026-06-12T03:05:00+05:00",
-      "stop": "2026-06-12T03:20:00+05:00",
-      "title": "ITV News London",
-      "desc": "The latest news and weather from London and the South East.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/b120c9c7-914e-4347-b760-c74326ddcef0/16-9"
-    },
-    {
-      "start": "2026-06-12T03:20:00+05:00",
-      "stop": "2026-06-12T03:50:00+05:00",
-      "title": "G'wed",
-      "sub_title": "The Ballad of Three Dads",
-      "desc": "Reece's life spirals as Disneyland Darren resurfaces, his mum dates Mr Dunn, and he is forced to help The Brimble during Refugee Week.",
-      "language": "en",
-      "categories": [
-        "Entertainment",
-        "Comedy"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/99b4b523-dfa3-4f81-8688-ed8a05c25943/16-9"
-    },
-    {
       "start": "2026-06-12T03:50:00+05:00",
       "stop": "2026-06-12T04:45:00+05:00",
       "title": "Romesh Ranganathan's Parents' Evening",
@@ -147,6 +110,42 @@
         "Magazine"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/02796408-ecbd-4de7-ae54-3e7bcaf2875e/16-9"
+    },
+    {
+      "start": "2026-06-12T16:30:00+05:00",
+      "stop": "2026-06-12T17:30:00+05:00",
+      "title": "Loose Women",
+      "desc": "Join the Loose Women panellists as they interview celebrity guests and discuss the day's most topical issues, from current affairs to celebrity gossip and the latest showbiz news.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Chat Show"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/e276fc67-3f4e-4b71-b2a8-1fc00d215a23/16-9"
+    },
+    {
+      "start": "2026-06-12T17:30:00+05:00",
+      "stop": "2026-06-12T17:55:00+05:00",
+      "title": "ITV Lunchtime News",
+      "desc": "The latest headlines from around the world at lunchtime with reports and analysis from ITV's Correspondents, all of which are followed by a national weather forecast.",
+      "language": "en",
+      "categories": [
+        "News & Documentary",
+        "News"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/4857bb29-9e3b-4c86-94ec-0a4673ffe3f3/16-9"
+    },
+    {
+      "start": "2026-06-12T17:55:00+05:00",
+      "stop": "2026-06-12T18:00:00+05:00",
+      "title": "ITV News London",
+      "desc": "The latest news and weather from London and the South East.",
+      "language": "en",
+      "categories": [
+        "News & Documentary",
+        "News"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/12ff1a59-e11a-4ebb-969a-2c30e07f2a94/16-9"
     }
   ]
 }

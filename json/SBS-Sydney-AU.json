@@ -4,45 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-12T02:30:00+05:00",
-      "stop": "2026-06-12T03:00:00+05:00",
-      "title": "France 24 English News",
-      "sub_title": "Morning First Edition",
-      "desc": "International news and current affairs television from Paris, offering a French perspective on world events, in English.",
-      "language": "en",
-      "rating": "NR",
-      "categories": [
-        "News"
-      ],
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/310649/image/334x188"
-    },
-    {
-      "start": "2026-06-12T03:00:00+05:00",
-      "stop": "2026-06-12T04:00:00+05:00",
-      "title": "DD India News Hour",
-      "sub_title": "Friday 12 June 2026",
-      "desc": "The most recent political, sports, entertainment and socio-economic updates across India and the world from New Delhi, in English.",
-      "language": "en",
-      "rating": "NR",
-      "categories": [
-        "News"
-      ],
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/413559/image/334x188"
-    },
-    {
-      "start": "2026-06-12T04:00:00+05:00",
-      "stop": "2026-06-12T04:30:00+05:00",
-      "title": "Paul O'Grady For The Love Of Dogs",
-      "desc": "It's a distressing week for Paul - a couple come to Battersea ready to adopt his favourite dog Carmine. What's a man to do? Paul's not beyond a bit of dog-napping!",
-      "language": "en",
-      "rating": "PG",
-      "categories": [
-        "Special Interest"
-      ],
-      "episode": "S1 E6",
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/306124/image/334x188"
-    },
-    {
       "start": "2026-06-12T04:30:00+05:00",
       "stop": "2026-06-12T05:00:00+05:00",
       "title": "BBC News At Ten",
@@ -160,6 +121,46 @@
         "Special Interest"
       ],
       "icon": "https://www.fetchtv.com.au/v2/epg/program/23043102/image/334x188"
+    },
+    {
+      "start": "2026-06-12T16:35:00+05:00",
+      "stop": "2026-06-12T17:30:00+05:00",
+      "title": "Michael Palin In North Korea",
+      "desc": "Under the watchful eye of two friendly guides and several secret agents provided by the North Korean government, Michael starts his journey by visiting Pyongyang, the capital of North Korea.",
+      "language": "en",
+      "rating": "G",
+      "categories": [
+        "Special Interest"
+      ],
+      "episode": "S1 E1",
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/1216066/image/334x188"
+    },
+    {
+      "start": "2026-06-12T17:30:00+05:00",
+      "stop": "2026-06-12T18:00:00+05:00",
+      "title": "SBS World News Late",
+      "desc": "Latest reports and analysis of major national and international news of the day from Australia's only world news service.",
+      "language": "en",
+      "rating": "NR",
+      "categories": [
+        "News"
+      ],
+      "episode": "E105",
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/329782/image/334x188"
+    },
+    {
+      "start": "2026-06-12T18:00:00+05:00",
+      "stop": "2026-06-12T18:30:00+05:00",
+      "title": "FIFA World Cup 2026: Highlights Show",
+      "sub_title": "Matchday 1",
+      "desc": "All the best action from the latest Matchday at the FIFA World Cup 2026.",
+      "language": "en",
+      "rating": "NR",
+      "categories": [
+        "Sports"
+      ],
+      "episode": "E1",
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/23044036/image/334x188"
     }
   ]
 }

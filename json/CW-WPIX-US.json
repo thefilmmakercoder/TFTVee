@@ -4,68 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-12T02:00:00+05:00",
-      "stop": "2026-06-12T03:00:00+05:00",
-      "title": "PIX11 News at 5",
-      "desc": "Staying informed with the news and headlines.",
-      "date": "2014",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p10829683_b_h8_ab.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-06-12T03:00:00+05:00",
-      "stop": "2026-06-12T03:30:00+05:00",
-      "title": "PIX11 News at 6",
-      "desc": "Staying informed with the news and headlines.",
-      "date": "2015",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p11641865_b_h8_ab.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-06-12T03:30:00+05:00",
-      "stop": "2026-06-12T04:00:00+05:00",
-      "title": "PIX11 Evening News",
-      "desc": "Staying informed with the news and headlines.",
-      "date": "2022",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p21846983_b_h8_aa.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-06-12T04:00:00+05:00",
-      "stop": "2026-06-12T04:30:00+05:00",
-      "title": "Seinfeld",
-      "sub_title": "The Shoes",
-      "desc": "Jerry and George meet with a skeptical TV executive about their show; Kramer dates Jerry's ex-girlfriend.",
-      "date": "1993",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Series",
-        "Sitcom"
-      ],
-      "episode": "S4 E16",
-      "icon": "http://dtil.tmsimg.com/assets/p183875_b_h10_ab.jpg?w=960&h=540",
-      "credits": {
-        "director": [
-          "Tom Cherones"
-        ],
-        "actor": [
-          "Jerry Seinfeld",
-          "Jason Alexander",
-          "Michael Richards"
-        ]
-      }
-    },
-    {
       "start": "2026-06-12T04:30:00+05:00",
       "stop": "2026-06-12T05:00:00+05:00",
       "title": "The Big Bang Theory",
@@ -221,6 +159,98 @@
       "credits": {
         "director": [
           "Jeff Melman"
+        ],
+        "actor": [
+          "Charlie Sheen",
+          "Jon Cryer",
+          "Angus T. Jones"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-12T10:00:00+05:00",
+      "stop": "2026-06-12T10:30:00+05:00",
+      "title": "The Big Bang Theory",
+      "sub_title": "The Occupation Recalibration",
+      "desc": "Sheldon must learn how to relax when he is forced to take a vacation; Leonard tries to support Penny when she quits her job; Bernadette needs to replace one of Stuart's comic books.",
+      "date": "2014",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Sitcom"
+      ],
+      "episode": "S7 E13",
+      "icon": "http://dtil.tmsimg.com/assets/p185554_b_h8_az.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Mark Cendrowski"
+        ],
+        "actor": [
+          "Johnny Galecki",
+          "Jim Parsons",
+          "Kaley Cuoco"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-12T10:30:00+05:00",
+      "stop": "2026-06-12T11:00:00+05:00",
+      "title": "Young Sheldon",
+      "sub_title": "A Proposal and a Popsicle Stick Cross",
+      "desc": "Georgie is thrilled when Veronica stays at the Coopers' house for a few days; Meemaw and Dr. Sturgis celebrate their one-year anniversary.",
+      "date": "2019",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Sitcom"
+      ],
+      "episode": "S2 E20",
+      "icon": "http://dtil.tmsimg.com/assets/p13923677_b_h8_ac.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Jaffar Mahmood"
+        ],
+        "actor": [
+          "Iain Armitage",
+          "Zoe Perry",
+          "Lance Barber"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-12T11:00:00+05:00",
+      "stop": "2026-06-12T11:30:00+05:00",
+      "title": "Paid Programming",
+      "desc": "Paid programming.",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Consumer",
+        "Shopping",
+        "Variety"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-06-12T11:30:00+05:00",
+      "stop": "2026-06-12T12:00:00+05:00",
+      "title": "Two and a Half Men",
+      "sub_title": "A Pot-Smoking Monkey",
+      "desc": "After their split, Alan wants to gain custody of his and Kandi's dog.",
+      "date": "2006",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "Series",
+        "Sitcom"
+      ],
+      "episode": "S4 E4",
+      "icon": "http://dtil.tmsimg.com/assets/p7895721_b_h10_af.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Gary Halvorson"
         ],
         "actor": [
           "Charlie Sheen",

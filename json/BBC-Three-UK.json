@@ -4,28 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-12T00:00:00+05:00",
-      "stop": "2026-06-12T01:00:00+05:00",
-      "title": "Interior Design Masters with Alan Carr",
-      "desc": "The finalists head to Longleat to transform cottages before one is crowned the winner.",
-      "language": "en",
-      "categories": [
-        "Entertainment"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/d4c9f427-9865-42f7-8d21-ada864173b69/16-9"
-    },
-    {
-      "start": "2026-06-12T01:00:00+05:00",
-      "stop": "2026-06-12T03:30:00+05:00",
-      "title": "Blade Runner 2049",
-      "desc": "After making a disturbing discovery, replicant hunter K goes after the one person he suspects can help. Contains some strong language and some violent scenes.",
-      "language": "en",
-      "categories": [
-        "Movie"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/dbc8dfd4-1a95-4fc2-b64a-1128e4918a9a/16-9"
-    },
-    {
       "start": "2026-06-12T03:30:00+05:00",
       "stop": "2026-06-12T04:30:00+05:00",
       "title": "Behind Bars: Sex, Bribes and Murder",
@@ -124,6 +102,30 @@
       "desc": "Programmes start at 7.00pm.",
       "language": "en",
       "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/BBC-Three-UK.png"
+    },
+    {
+      "start": "2026-06-12T23:00:00+05:00",
+      "stop": "2026-06-12T23:05:00+05:00",
+      "title": "The Catch Up",
+      "desc": "A round-up of the day's news.",
+      "language": "en",
+      "categories": [
+        "News & Documentary",
+        "News"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/2c11d4e7-9590-483f-99f1-ef916ceb29fe/16-9"
+    },
+    {
+      "start": "2026-06-12T23:05:00+05:00",
+      "stop": "2026-06-12T23:35:00+05:00",
+      "title": "Deadly 60",
+      "sub_title": "Blue Whales and Saltwater Crocodiles",
+      "desc": "Steve Backshall heads to Timor Leste in search of giants.",
+      "language": "en",
+      "categories": [
+        "Children"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/4782de13-91e9-45e3-b06b-8c362edfa279/16-9"
     }
   ]
 }
