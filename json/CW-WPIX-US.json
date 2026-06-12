@@ -4,30 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-13T01:00:00+05:00",
-      "stop": "2026-06-13T02:00:00+05:00",
-      "title": "PIX11 News at 4",
-      "desc": "Staying informed with the news and headlines.",
-      "date": "2021",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p20535966_b_h8_ab.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-06-13T02:00:00+05:00",
-      "stop": "2026-06-13T03:00:00+05:00",
-      "title": "PIX11 News at 5",
-      "desc": "Staying informed with the news and headlines.",
-      "date": "2014",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p10829683_b_h8_ab.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-06-13T03:00:00+05:00",
       "stop": "2026-06-13T03:30:00+05:00",
       "title": "PIX11 News at 6",
@@ -224,6 +200,55 @@
           "Jerry Seinfeld",
           "Julia Louis-Dreyfus",
           "Jason Alexander"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-13T09:00:00+05:00",
+      "stop": "2026-06-13T09:30:00+05:00",
+      "title": "Friends",
+      "sub_title": "The One with the Two Parties",
+      "desc": "Rachel's separated parents (Marlo Thomas, Ron Leibman) unexpectedly attend her surprise birthday party.",
+      "date": "1996",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Sitcom"
+      ],
+      "episode": "S2 E22",
+      "icon": "http://dtil.tmsimg.com/assets/p7892599_b_h10_ab.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Jennifer Aniston",
+          "Courteney Cox",
+          "Lisa Kudrow"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-13T09:30:00+05:00",
+      "stop": "2026-06-13T10:00:00+05:00",
+      "title": "Two and a Half Men",
+      "sub_title": "I'd Like to Start With the Cat",
+      "desc": "In an attempt to prove he has changed from his old self, Charlie agrees to go with Chelsea to couples counseling.",
+      "date": "2009",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "Series",
+        "Sitcom"
+      ],
+      "episode": "S6 E15",
+      "icon": "http://dtil.tmsimg.com/assets/p7895722_b_h8_ag.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Jeff Melman"
+        ],
+        "actor": [
+          "Charlie Sheen",
+          "Jon Cryer",
+          "Angus T. Jones"
         ]
       }
     }

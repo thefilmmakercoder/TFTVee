@@ -4,30 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-13T01:00:00+05:00",
-      "stop": "2026-06-13T02:00:00+05:00",
-      "title": "Eyewitness News First at 4",
-      "desc": "Local and regional news coverage.",
-      "date": "2011",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p8679870_b_h8_ad.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-06-13T02:00:00+05:00",
-      "stop": "2026-06-13T03:00:00+05:00",
-      "title": "Eyewitness News at 5",
-      "desc": "Local and regional news.",
-      "date": "2017",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p13769033_b_h8_ab.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-06-13T03:00:00+05:00",
       "stop": "2026-06-13T03:30:00+05:00",
       "title": "Eyewitness News at 6",
@@ -208,6 +184,49 @@
       "credits": {
         "actor": [
           "David Muir"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-13T10:36:00+05:00",
+      "stop": "2026-06-13T11:36:00+05:00",
+      "title": "Live with Kelly and Mark",
+      "sub_title": "Great American Cookout: Celebrating 250",
+      "desc": "Colman Domingo swings by the studio; Tori Kelly performs; the \"Great American Cookout: Celebrating 250\" series continues; Steve Patterson shares tips on gifts for dads!",
+      "date": "2026",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Talk"
+      ],
+      "episode": "S4 E205",
+      "icon": "http://dtil.tmsimg.com/assets/p24324378_b_h8_ab.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Kelly Ripa",
+          "Mark Consuelos",
+          "Colman Domingo"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-13T11:36:00+05:00",
+      "stop": "2026-06-13T12:06:00+05:00",
+      "title": "Jeopardy!",
+      "desc": "The Emmy-winning quiz show features a unique answer-and-question format.",
+      "date": "2025",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Series",
+        "Game show"
+      ],
+      "episode": "S41 E210",
+      "icon": "http://dtil.tmsimg.com/assets/p28134937_b_h10_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Ken Jennings"
         ]
       }
     }

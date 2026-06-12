@@ -4,73 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-13T01:00:00+05:00",
-      "stop": "2026-06-13T01:50:00+05:00",
-      "title": "TRT World News",
-      "sub_title": "Saturday 13 June 2026",
-      "desc": "The latest news from around the globe from TRT World, Istanbul, Turkiye, in English.",
-      "language": "en",
-      "rating": "NR",
-      "categories": [
-        "News"
-      ],
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/413685/image/334x188"
-    },
-    {
-      "start": "2026-06-13T01:50:00+05:00",
-      "stop": "2026-06-13T02:20:00+05:00",
-      "title": "DW English News",
-      "sub_title": "Morning",
-      "desc": "News and analysis of the top international and European news and current affairs from Berlin, in English.",
-      "language": "en",
-      "rating": "NR",
-      "categories": [
-        "News"
-      ],
-      "episode": "E4012026",
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/310648/image/334x188"
-    },
-    {
-      "start": "2026-06-13T02:20:00+05:00",
-      "stop": "2026-06-13T02:50:00+05:00",
-      "title": "FBC News Fiji",
-      "sub_title": "Fiji",
-      "desc": "Local, world, sport and entertainment news in English from FBC News, Suva Fiji.",
-      "language": "en",
-      "rating": "NR",
-      "categories": [
-        "News"
-      ],
-      "episode": "E4012026",
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/426449/image/334x188"
-    },
-    {
-      "start": "2026-06-13T02:50:00+05:00",
-      "stop": "2026-06-13T03:00:00+05:00",
-      "title": "France 24 Feature",
-      "sub_title": "First Edition",
-      "desc": "News feature in English from France 24, Paris.",
-      "language": "en",
-      "rating": "NR",
-      "categories": [
-        "News"
-      ],
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/337182/image/334x188"
-    },
-    {
-      "start": "2026-06-13T03:00:00+05:00",
-      "stop": "2026-06-13T03:10:00+05:00",
-      "title": "Euronews",
-      "sub_title": "Saturday 13 June 2026",
-      "desc": "Headlines, Breaking News & Analysis from the Euronews news centre in Brussels, Belgium, in English.",
-      "language": "en",
-      "rating": "NR",
-      "categories": [
-        "News"
-      ],
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/276/image/334x188"
-    },
-    {
       "start": "2026-06-13T03:10:00+05:00",
       "stop": "2026-06-13T03:40:00+05:00",
       "title": "NHK Newsline",
@@ -162,6 +95,74 @@
       ],
       "episode": "S3 E3",
       "icon": "https://www.fetchtv.com.au/v2/epg/program/7461058/image/334x188"
+    },
+    {
+      "start": "2026-06-13T07:00:00+05:00",
+      "stop": "2026-06-13T08:40:00+05:00",
+      "title": "Out Of Bounds",
+      "sub_title": "The Sports Betting Boom",
+      "desc": "A gripping look at how legal sports betting transformed fandom, blurred the lines between sport and profit, and reshaped a generation raised on the thrill to bet.",
+      "language": "en",
+      "rating": "M",
+      "categories": [
+        "Special Interest"
+      ],
+      "episode": "S1 E3",
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/16603509/image/334x188"
+    },
+    {
+      "start": "2026-06-13T08:40:00+05:00",
+      "stop": "2026-06-13T09:10:00+05:00",
+      "title": "Cryptoland",
+      "sub_title": "Where Are The Earliest Bitcoin Investors Now?",
+      "desc": "In this episode of Cryptoland, we catch up with some of the earliest investors present at the Bitcoin 2013 conference and reckon with how the cryptocurrency industry has evolved.",
+      "language": "en",
+      "rating": "PG",
+      "categories": [
+        "Special Interest"
+      ],
+      "episode": "S1 E1",
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/7652532/image/334x188"
+    },
+    {
+      "start": "2026-06-13T09:10:00+05:00",
+      "stop": "2026-06-13T09:40:00+05:00",
+      "title": "Cryptoland",
+      "sub_title": "Bitcoin And The Environment: How Mines In West Texas Turn Oil, Gas, And Wind Into Cryptocurrency",
+      "desc": "Is crypto mining strengthening America's power grid and hastening the transition to renewables, or making the climate crisis worse? Well, it depends on who you ask.",
+      "language": "en",
+      "rating": "M",
+      "categories": [
+        "Special Interest"
+      ],
+      "episode": "S1 E2",
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/7652532/image/334x188"
+    },
+    {
+      "start": "2026-06-13T09:40:00+05:00",
+      "stop": "2026-06-13T10:40:00+05:00",
+      "title": "If You Are The One",
+      "desc": "A dating show has a single contestant sharing information about themselves in the hopes of gaining attention of members of the opposite sex, who are given the option to decide whether or not the lone contestant is worthy of their affection.",
+      "language": "en",
+      "rating": "G",
+      "categories": [
+        "Special Interest"
+      ],
+      "episode": "S15 E1",
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/11484407/image/334x188"
+    },
+    {
+      "start": "2026-06-13T10:40:00+05:00",
+      "stop": "2026-06-13T10:45:00+05:00",
+      "title": "NITV News Update",
+      "desc": "NITV News recaptures the highlights of Indigenous news around the country.",
+      "language": "en",
+      "rating": "NR",
+      "categories": [
+        "News"
+      ],
+      "episode": "E105",
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/5904078/image/334x188"
     }
   ]
 }
