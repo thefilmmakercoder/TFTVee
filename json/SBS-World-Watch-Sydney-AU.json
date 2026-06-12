@@ -4,19 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-12T19:10:00+05:00",
-      "stop": "2026-06-12T20:05:00+05:00",
-      "title": "Indonesian News",
-      "sub_title": "Saturday 13 June 2026",
-      "desc": "News via satellite from TVRI Jakarta Indonesia, in Indonesian, no subtitles.",
-      "language": "en",
-      "rating": "NR",
-      "categories": [
-        "News"
-      ],
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/157746/image/334x188"
-    },
-    {
       "start": "2026-06-12T20:05:00+05:00",
       "stop": "2026-06-13T00:00:00+05:00",
       "title": "DW English News",
@@ -157,6 +144,19 @@
         "News"
       ],
       "icon": "https://www.fetchtv.com.au/v2/epg/program/164171/image/334x188"
+    },
+    {
+      "start": "2026-06-13T06:00:00+05:00",
+      "stop": "2026-06-13T06:30:00+05:00",
+      "title": "Spanish News",
+      "sub_title": "Saturday 13 June 2026",
+      "desc": "News via satellite from RTVE Madrid Spain, in Spanish, no subtitles.",
+      "language": "en",
+      "rating": "NR",
+      "categories": [
+        "News"
+      ],
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/158480/image/334x188"
     }
   ]
 }

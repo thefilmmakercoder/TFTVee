@@ -4,40 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-12T20:00:00+05:00",
-      "stop": "2026-06-12T21:00:00+05:00",
-      "title": "The Jennifer Hudson Show",
-      "desc": "Actors Marlon Wayans and Tyriq Withers chat about the American sports horror movie \"Him\"; breakout hip-hop and country artist BigXthaPlug (new album \"I Hope You're Happy\").",
-      "date": "2025",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Series",
-        "Talk"
-      ],
-      "episode": "S4 E5",
-      "icon": "http://dtil.tmsimg.com/assets/p31041660_b_h8_aa.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Jennifer Hudson",
-          "Marlon Wayans",
-          "Tyriq Withers"
-        ]
-      }
-    },
-    {
-      "start": "2026-06-12T21:00:00+05:00",
-      "stop": "2026-06-12T22:00:00+05:00",
-      "title": "The Noon",
-      "desc": "Midday news update.",
-      "date": "2019",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p17326137_b_h8_ab.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-06-12T22:00:00+05:00",
       "stop": "2026-06-13T00:00:00+05:00",
       "title": "FIFA World Cup Live",
@@ -182,6 +148,34 @@
           "Harvey Levin"
         ]
       }
+    },
+    {
+      "start": "2026-06-13T11:00:00+05:00",
+      "stop": "2026-06-13T11:30:00+05:00",
+      "title": "Paid Programming",
+      "desc": "Paid programming.",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Consumer",
+        "Shopping",
+        "Variety"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-06-13T11:30:00+05:00",
+      "stop": "2026-06-13T12:00:00+05:00",
+      "title": "Paid Programming",
+      "desc": "Paid programming.",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Consumer",
+        "Shopping",
+        "Variety"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&h=540"
     }
   ]
 }

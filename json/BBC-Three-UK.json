@@ -4,42 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-12T15:30:00+05:00",
-      "stop": "2026-06-12T21:30:00+05:00",
-      "title": "..programmes start at 7.00pm",
-      "desc": "BBC Three delivers bold and provocative content for younger audiences, featuring groundbreaking documentaries, experimental comedy, and fresh drama.",
-      "language": "en",
-      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/BBC-Three-UK.png"
-    },
-    {
-      "start": "2026-06-12T21:30:00+05:00",
-      "stop": "2026-06-12T22:58:00+05:00",
-      "title": "..programmes start at 7.00pm",
-      "desc": "BBC Three delivers bold and provocative content for younger audiences, featuring groundbreaking documentaries, experimental comedy, and fresh drama.",
-      "language": "en",
-      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/BBC-Three-UK.png"
-    },
-    {
-      "start": "2026-06-12T22:58:00+05:00",
-      "stop": "2026-06-12T23:00:00+05:00",
-      "title": "This is BBC Three",
-      "desc": "Programmes start at 7.00pm.",
-      "language": "en",
-      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/BBC-Three-UK.png"
-    },
-    {
-      "start": "2026-06-12T23:00:00+05:00",
-      "stop": "2026-06-12T23:05:00+05:00",
-      "title": "The Catch Up",
-      "desc": "A round-up of the day's news.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/2c11d4e7-9590-483f-99f1-ef916ceb29fe/16-9"
-    },
-    {
       "start": "2026-06-12T23:05:00+05:00",
       "stop": "2026-06-12T23:35:00+05:00",
       "title": "Deadly 60",
@@ -132,6 +96,51 @@
         "Entertainment"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/b11af5d3-1efa-4870-8112-12fda2b18aee/16-9"
+    },
+    {
+      "start": "2026-06-13T05:30:00+05:00",
+      "stop": "2026-06-13T06:00:00+05:00",
+      "title": "Tommy: The Good. The Bad. The Fury",
+      "desc": "Tommy heads to Budapest to close the deal for the fight, but there's a last-minute hitch. Contains strong language.",
+      "language": "en",
+      "categories": [
+        "Entertainment"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/063afc8e-6c47-4389-8b20-3b9fb92b2126/16-9"
+    },
+    {
+      "start": "2026-06-13T06:00:00+05:00",
+      "stop": "2026-06-13T06:30:00+05:00",
+      "title": "Tommy: The Good. The Bad. The Fury",
+      "desc": "Tommy faces his comeback fight in Budapest, and the pressure is on. How will he cope after nearly two years out of the ring? Contains some strong language.",
+      "language": "en",
+      "categories": [
+        "Entertainment"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/3088c60c-6fa7-4410-af50-ab31bf547e85/16-9"
+    },
+    {
+      "start": "2026-06-13T06:30:00+05:00",
+      "stop": "2026-06-13T07:30:00+05:00",
+      "title": "Top Gear",
+      "desc": "Jeremy Clarkson, Richard Hammond and James May attempt to find the world's greatest four-seat supercar. Plus Richard is on the test track in two very different muscle cars.",
+      "language": "en",
+      "categories": [
+        "Entertainment"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/79fc40cd-79b0-41f7-89de-9ceeac435506/16-9"
+    },
+    {
+      "start": "2026-06-13T07:30:00+05:00",
+      "stop": "2026-06-13T08:00:00+05:00",
+      "title": "BBC New Comedy Awards 2025",
+      "desc": "The BBC's biggest comedy talent search heads to Belfast, where five comics will compete in the last of six knockout heats to bag their place in the grand final. Contains strong language.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Comedy"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/8b9f1b08-7fb0-4b9e-b907-42687145ccb7/16-9"
     }
   ]
 }

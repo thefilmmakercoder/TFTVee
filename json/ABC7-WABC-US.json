@@ -4,65 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-12T20:00:00+05:00",
-      "stop": "2026-06-12T21:00:00+05:00",
-      "title": "The View",
-      "desc": "Actor Dawnn Lewis.",
-      "date": "2026",
-      "language": "en",
-      "rating": "TV14",
-      "categories": [
-        "Series",
-        "Talk"
-      ],
-      "episode": "S29 E180",
-      "icon": "http://dtil.tmsimg.com/assets/p31138947_b_h8_aa.jpg?w=960&h=540",
-      "credits": {
-        "director": [
-          "Sarah de la O"
-        ],
-        "actor": [
-          "Whoopi Goldberg",
-          "Joy Behar",
-          "Sunny Hostin"
-        ]
-      }
-    },
-    {
-      "start": "2026-06-12T21:00:00+05:00",
-      "stop": "2026-06-12T22:00:00+05:00",
-      "title": "Eyewitness News at Noon",
-      "desc": "Midday news update.",
-      "date": "2015",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p11844655_b_h8_ad.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-06-12T22:00:00+05:00",
-      "stop": "2026-06-12T23:00:00+05:00",
-      "title": "GMA3",
-      "desc": "50 States in 50 Weeks: America the Beautiful stops in New Mexico; Deals & Steals with Tory Johnson.",
-      "date": "2026",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Series",
-        "News",
-        "Talk",
-        "Health"
-      ],
-      "episode": "S6 E188",
-      "icon": "http://dtil.tmsimg.com/assets/p30687311_b_h8_aa.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Tory Johnson"
-        ]
-      }
-    },
-    {
       "start": "2026-06-12T23:00:00+05:00",
       "stop": "2026-06-13T00:00:00+05:00",
       "title": "Tamron Hall",
@@ -224,6 +165,56 @@
           "Tom Hanks",
           "Tim Allen",
           "Joan Cusack"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-13T06:00:00+05:00",
+      "stop": "2026-06-13T08:00:00+05:00",
+      "title": "20/20",
+      "desc": "Award-winning program anchored by David Muir, featuring unforgettable, character-driven true crime mysteries, exclusive newsmaker interviews, hard-hitting investigative reports and in-depth coverage of high profile stories.",
+      "date": "1978",
+      "language": "en",
+      "rating": "PG",
+      "categories": [
+        "Newsmagazine"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p28298031_b_h8_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "David Muir",
+          "Deborah Roberts"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-13T08:00:00+05:00",
+      "stop": "2026-06-13T08:35:00+05:00",
+      "title": "Eyewitness News at 11",
+      "desc": "Breaking news.",
+      "date": "2017",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p13769039_b_h8_ab.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-06-13T08:35:00+05:00",
+      "stop": "2026-06-13T09:37:00+05:00",
+      "title": "Jimmy Kimmel Live!",
+      "desc": "Emmy-winning funnyman Jimmy Kimmel serves up comedy bits and welcomes guests that include other comics, celebrities, athletes and musicians, as well as everyday people with unusual or compelling personal stories. Kimmel's family and friends take part in the festivities, including his Cousin Sal, Uncle Frank (until his death in 2011) and childhood friend Cleto Escobedo III, who leads the show's house band. Recurring segments include the FCC-pleasing This Week in Unnecessary Censorship in which they take TV clips and \"bleep and blur things whether they need it or not,\" as Kimmel describes it. But it's too bad they consistently run out of time for Matt Damon's segment.",
+      "date": "2003",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "Talk",
+        "Comedy"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p31166959_b_h8_ac.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Jimmy Kimmel"
         ]
       }
     }

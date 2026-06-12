@@ -4,42 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-12T15:30:00+05:00",
-      "stop": "2026-06-12T21:30:00+05:00",
-      "title": "..programmes start at 7.00pm",
-      "desc": "BBC Four provides an intelligent mix of arts, science, and history programming, offering deep-dive documentaries and world cinema for a curious audience.",
-      "language": "en",
-      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/BBC-Four-UK.png"
-    },
-    {
-      "start": "2026-06-12T21:30:00+05:00",
-      "stop": "2026-06-12T22:58:00+05:00",
-      "title": "..programmes start at 7.00pm",
-      "desc": "BBC Four provides an intelligent mix of arts, science, and history programming, offering deep-dive documentaries and world cinema for a curious audience.",
-      "language": "en",
-      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/BBC-Four-UK.png"
-    },
-    {
-      "start": "2026-06-12T22:58:00+05:00",
-      "stop": "2026-06-12T23:00:00+05:00",
-      "title": "This is BBC Four",
-      "desc": "Programmes start at 7.00pm.",
-      "language": "en",
-      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/BBC-Four-UK.png"
-    },
-    {
-      "start": "2026-06-12T23:00:00+05:00",
-      "stop": "2026-06-12T23:25:00+05:00",
-      "title": "TOTP: 1999",
-      "desc": "Jamie Theakston presents the pop chart programme, featuring Tom Jones & Cerys Matthews, B*Witched & Ladysmith Black Mambazo, Vengaboys, Artful Dodger feat Craig David and Cliff Richard.",
-      "language": "en",
-      "categories": [
-        "Music & Radio",
-        "Rock&Pop"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/2be2028d-c4c3-40d7-bce4-5c23bdb7f406/16-9"
-    },
-    {
       "start": "2026-06-12T23:25:00+05:00",
       "stop": "2026-06-13T00:05:00+05:00",
       "title": "TOTP: 1977",
@@ -133,6 +97,50 @@
         "Rock&Pop"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/8ebdaebf-f93a-49c1-ac7b-23c1680e5e2d/16-9"
+    },
+    {
+      "start": "2026-06-13T05:20:00+05:00",
+      "stop": "2026-06-13T05:45:00+05:00",
+      "title": "TOTP: 1985",
+      "desc": "Simon Bates and Richard Skinner present the pop chart programme. Featuring Gary Moore & Phil Lynott, Kool and the Gang, Propaganda, David Bowie, Duran Duran and Paul Hardcastle.",
+      "language": "en",
+      "categories": [
+        "Music & Radio",
+        "Rock&Pop"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/9c5af8fe-0247-4fe6-86b5-cdffabb5bf1c/16-9"
+    },
+    {
+      "start": "2026-06-13T05:45:00+05:00",
+      "stop": "2026-06-13T06:20:00+05:00",
+      "title": "TOTP: 1988",
+      "desc": "Peter Powell and Simon Mayo present the pop chart programme, first broadcast on 9 June 1988 and featuring Five Star, Mica Paris, James Brown, Maxi Priest, Morrissey and Erasure.",
+      "language": "en",
+      "categories": [
+        "Music & Radio",
+        "Rock&Pop"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/0e5ef349-6082-4c16-bb97-988243d87427/16-9"
+    },
+    {
+      "start": "2026-06-13T06:20:00+05:00",
+      "stop": "2026-06-13T07:30:00+05:00",
+      "title": "Ray Charles - Omnibus",
+      "desc": "Film profile of singer and pianist Ray Charles. Featuring Charles in conversation with Charlie Gillett and clips from his 1986 Royal Festival Hall concert and earlier performances.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Arts"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/28dd0b4b-9b38-4db6-be20-73d71f184b0f/16-9"
+    },
+    {
+      "start": "2026-06-13T07:30:00+05:00",
+      "stop": "2026-06-13T09:30:00+05:00",
+      "title": "This is BBC Four",
+      "desc": "Programmes start at 7.00pm.",
+      "language": "en",
+      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/BBC-Four-UK.png"
     }
   ]
 }

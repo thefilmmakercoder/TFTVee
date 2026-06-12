@@ -4,64 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-12T21:00:00+05:00",
-      "stop": "2026-06-12T21:30:00+05:00",
-      "title": "Global News at Noon",
-      "desc": "Greater Toronto's top local news stories and latest weather forecast.",
-      "date": "2012",
-      "language": "en",
-      "categories": [
-        "News",
-        "Weather"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p9380798_b_h10_ab.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-06-12T21:30:00+05:00",
-      "stop": "2026-06-12T22:00:00+05:00",
-      "title": "Save My Reno",
-      "sub_title": "Ken and Elisa",
-      "desc": "Ken and Elisa hired a contractor to help renovate their home, but the contractor abandoned them in the middle of the project.",
-      "date": "2017",
-      "language": "en",
-      "rating": "TVG",
-      "categories": [
-        "Series",
-        "House/garden",
-        "Reality"
-      ],
-      "episode": "S1 E14",
-      "icon": "http://dtil.tmsimg.com/assets/p13935337_b_h8_ai.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Sebastian Clovis",
-          "Sabrina Smelko"
-        ]
-      }
-    },
-    {
-      "start": "2026-06-12T22:00:00+05:00",
-      "stop": "2026-06-12T23:00:00+05:00",
-      "title": "Fire Masters",
-      "sub_title": "Hearts on Fire",
-      "desc": "Three chefs hope to showcase their best flame game in the Signature Round, the Crossfire Round, and the Feast of Fire.",
-      "date": "2019",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Series",
-        "Competition Reality",
-        "Cooking"
-      ],
-      "episode": "S1 E1",
-      "icon": "http://dtil.tmsimg.com/assets/p15598103_b_h8_ab.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Dylan Benoit"
-        ]
-      }
-    },
-    {
       "start": "2026-06-12T23:00:00+05:00",
       "stop": "2026-06-13T00:00:00+05:00",
       "title": "Masters of Flip",
@@ -246,6 +188,79 @@
           "Kevin Frazier",
           "Nischelle Turner",
           "Rachel Smith"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-13T05:00:00+05:00",
+      "stop": "2026-06-13T06:00:00+05:00",
+      "title": "Sheriff Country",
+      "sub_title": "Twenty Four Candles",
+      "desc": "While Skye celebrates her 24th birthday, Sheriff Mickey Fox investigates a brutal attack tied to a land-grab scheme.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "Series",
+        "Drama"
+      ],
+      "episode": "S1 E16",
+      "icon": "http://dtil.tmsimg.com/assets/p27323255_b_h8_aa.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Nicole Rubio"
+        ],
+        "actor": [
+          "Morena Baccarin",
+          "W. Earl Brown",
+          "Matt Lauria"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-13T06:00:00+05:00",
+      "stop": "2026-06-13T07:00:00+05:00",
+      "title": "Fire Country",
+      "sub_title": "Your Voice in My Head",
+      "desc": "Station 42 responds to a dangerous fire at a beloved local smokehouse where Jake is forced to confront memories of his late father and the place they once shared.",
+      "date": "2025",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "Series",
+        "Drama"
+      ],
+      "episode": "S4 E6",
+      "icon": "http://dtil.tmsimg.com/assets/p22213607_b_h8_al.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Catherine Mallette"
+        ],
+        "actor": [
+          "Max Thieriot",
+          "Billy Burke",
+          "Kevin Alejandro"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-13T07:00:00+05:00",
+      "stop": "2026-06-13T08:00:00+05:00",
+      "title": "Crime Beat",
+      "sub_title": "A Part of Me Died",
+      "desc": "Looking into some of Canada's most infamous criminal cases with extensive archives and intimate family interviews and exploring the lasting impacts on the community and justice system.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "Series",
+        "Crime"
+      ],
+      "episode": "S7 E25",
+      "icon": "http://dtil.tmsimg.com/assets/p17916553_b_h8_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Antony Robart"
         ]
       }
     }
