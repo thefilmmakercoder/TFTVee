@@ -4,14 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-12T07:20:00+05:00",
-      "stop": "2026-06-12T09:30:00+05:00",
-      "title": "This is BBC Four",
-      "desc": "Programmes start at 7.00pm.",
-      "language": "en",
-      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/BBC-Four-UK.png"
-    },
-    {
       "start": "2026-06-12T09:30:00+05:00",
       "stop": "2026-06-12T15:30:00+05:00",
       "title": "..programmes start at 7.00pm",
@@ -125,6 +117,18 @@
         "Rock&Pop"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/095f6362-452b-4c6e-b109-c8724002ce67/16-9"
+    },
+    {
+      "start": "2026-06-13T04:15:00+05:00",
+      "stop": "2026-06-13T04:40:00+05:00",
+      "title": "TOTP: 1999",
+      "desc": "Jamie Theakston presents the pop chart programme, featuring Tom Jones & Cerys Matthews, B*Witched & Ladysmith Black Mambazo, Vengaboys, Artful Dodger feat Craig David and Cliff Richard.",
+      "language": "en",
+      "categories": [
+        "Music & Radio",
+        "Rock&Pop"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/2be2028d-c4c3-40d7-bce4-5c23bdb7f406/16-9"
     }
   ]
 }
