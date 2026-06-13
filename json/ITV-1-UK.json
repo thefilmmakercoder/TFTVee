@@ -4,18 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-13T22:45:00+05:00",
-      "stop": "2026-06-13T23:00:00+05:00",
-      "title": "ITV News London",
-      "desc": "The latest news and weather from London and the South East.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/8c455b57-e324-48cd-9d97-5f71690db2de/16-9"
-    },
-    {
       "start": "2026-06-13T23:00:00+05:00",
       "stop": "2026-06-14T02:35:00+05:00",
       "title": "FIFA WC2026: Qatar v Switzerland",
@@ -149,6 +137,18 @@
         "Cooking"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/a02f0eb6-af01-4f3a-bd7c-06c13808b822/16-9"
+    },
+    {
+      "start": "2026-06-14T13:25:00+05:00",
+      "stop": "2026-06-14T13:30:00+05:00",
+      "title": "ITV News",
+      "desc": "National and international news with reports and analysis from ITV's Correspondents in the UK and around the world as well as the latest major sports results.",
+      "language": "en",
+      "categories": [
+        "News & Documentary",
+        "News"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/c8c40802-c220-4e40-ab73-ffad5badab95/16-9"
     }
   ]
 }

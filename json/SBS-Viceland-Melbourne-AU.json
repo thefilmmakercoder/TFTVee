@@ -4,45 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-14T00:00:00+05:00",
-      "stop": "2026-06-14T01:00:00+05:00",
-      "title": "Al Jazeera News Hour",
-      "sub_title": "Sunday 14 June 2026",
-      "desc": "In-depth global news from Al Jazeera Satellite Network, Doha, Qatar, in English.",
-      "language": "en",
-      "rating": "NR",
-      "categories": [
-        "News"
-      ],
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/264846/image/334x188"
-    },
-    {
-      "start": "2026-06-14T01:00:00+05:00",
-      "stop": "2026-06-14T01:30:00+05:00",
-      "title": "TRT World News",
-      "sub_title": "Sunday 14 June 2026",
-      "desc": "The latest news from around the globe from TRT World, Istanbul, Turkiye, in English.",
-      "language": "en",
-      "rating": "NR",
-      "categories": [
-        "News"
-      ],
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/413685/image/334x188"
-    },
-    {
-      "start": "2026-06-14T01:30:00+05:00",
-      "stop": "2026-06-14T01:50:00+05:00",
-      "title": "France 24 Africa News",
-      "sub_title": "Sunday 14 June 2026",
-      "desc": "Join France24's Georja Calvin-Smith for a round up of the week's cultural and current affairs stories from across the African continent. Delivered via satellite from Paris, in English, no subtitles.",
-      "language": "en",
-      "rating": "NR",
-      "categories": [
-        "News"
-      ],
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/413084/image/334x188"
-    },
-    {
       "start": "2026-06-14T01:50:00+05:00",
       "stop": "2026-06-14T02:20:00+05:00",
       "title": "DW English News",
@@ -160,6 +121,46 @@
       ],
       "episode": "S1 E11",
       "icon": "https://www.fetchtv.com.au/v2/epg/program/436657/image/334x188"
+    },
+    {
+      "start": "2026-06-14T05:35:00+05:00",
+      "stop": "2026-06-14T06:00:00+05:00",
+      "title": "Jeopardy!",
+      "desc": "Ken Jennings hosts Jeopardy! Where the answers are revealed and the contestants must guess the appropriate questions.",
+      "language": "en",
+      "rating": "G",
+      "categories": [
+        "Special Interest"
+      ],
+      "episode": "S41 E195",
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/129492/image/334x188"
+    },
+    {
+      "start": "2026-06-14T06:00:00+05:00",
+      "stop": "2026-06-14T06:30:00+05:00",
+      "title": "FIFA World Cup 2026: Highlights Show",
+      "sub_title": "Matchday 2",
+      "desc": "All the best action from the latest Matchday at the FIFA World Cup 2026.",
+      "language": "en",
+      "rating": "NR",
+      "categories": [
+        "Sports"
+      ],
+      "episode": "E2",
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/23044036/image/334x188"
+    },
+    {
+      "start": "2026-06-14T06:30:00+05:00",
+      "stop": "2026-06-14T07:00:00+05:00",
+      "title": "Jeopardy!",
+      "desc": "Ken Jennings hosts Jeopardy! Where the answers are revealed and the contestants must guess the appropriate questions.",
+      "language": "en",
+      "rating": "G",
+      "categories": [
+        "Special Interest"
+      ],
+      "episode": "S41 E196",
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/129492/image/334x188"
     }
   ]
 }
