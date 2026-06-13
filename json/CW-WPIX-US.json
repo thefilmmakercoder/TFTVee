@@ -4,52 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-13T17:00:00+05:00",
-      "stop": "2026-06-13T18:00:00+05:00",
-      "title": "PIX11 Weekend Morning News",
-      "desc": "Staying informed with the news and headlines.",
-      "date": "2022",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p21471433_b_h8_ab.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-06-13T18:00:00+05:00",
-      "stop": "2026-06-13T18:30:00+05:00",
-      "title": "PIX11 Weekend Morning News",
-      "desc": "Staying informed with the news and headlines.",
-      "date": "2022",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p21471433_b_h8_ab.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-06-13T18:30:00+05:00",
-      "stop": "2026-06-13T19:00:00+05:00",
-      "title": "Car Repair Secrets!",
-      "desc": "Save thousands on car repairs.",
-      "language": "en",
-      "categories": [
-        "Consumer"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p17463183_b_h10_aa.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-06-13T19:00:00+05:00",
-      "stop": "2026-06-13T19:30:00+05:00",
-      "title": "Victim of Nursing Home Abuse?",
-      "desc": "Have you or a family member been a victim of nursing home abuse?",
-      "language": "en",
-      "categories": [
-        "Consumer"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p32656820_st_h10_aa.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-06-13T19:30:00+05:00",
       "stop": "2026-06-13T20:00:00+05:00",
       "title": "Asian Variety Show",
@@ -172,6 +126,74 @@
         "Auto racing"
       ],
       "icon": "http://dtil.tmsimg.com/assets/p32239774_b_h8_aa.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-06-14T04:00:00+05:00",
+      "stop": "2026-06-14T06:00:00+05:00",
+      "title": "Live: AVP Beach Volleyball",
+      "desc": "From Miami.",
+      "language": "en",
+      "categories": [
+        "Sports",
+        "Beach volleyball"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p24336292_b_h8_aa.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-06-14T06:00:00+05:00",
+      "stop": "2026-06-14T07:00:00+05:00",
+      "title": "Trivial Pursuit",
+      "sub_title": "The Greatest Showman",
+      "desc": "A party clown plays to win.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Game show"
+      ],
+      "episode": "S2 E5",
+      "icon": "http://dtil.tmsimg.com/assets/p26747985_b_h8_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "LeVar Burton"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-14T07:00:00+05:00",
+      "stop": "2026-06-14T08:00:00+05:00",
+      "title": "PIX11 News at Ten",
+      "desc": "Staying informed with the news and headlines.",
+      "date": "2014",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p10829690_b_h8_ab.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-06-14T08:00:00+05:00",
+      "stop": "2026-06-14T08:30:00+05:00",
+      "title": "Seinfeld",
+      "sub_title": "The Friars Club",
+      "desc": "Jerry's new membership in the Friars Club is jeopardized when a jacket he borrowed from the club gets lost.",
+      "date": "1996",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Sitcom"
+      ],
+      "episode": "S7 E18",
+      "icon": "http://dtil.tmsimg.com/assets/p183875_b_h10_ab.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Jerry Seinfeld",
+          "Julia Louis-Dreyfus",
+          "Jason Alexander"
+        ]
+      }
     }
   ]
 }

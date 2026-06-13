@@ -4,30 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-13T17:00:00+05:00",
-      "stop": "2026-06-13T18:00:00+05:00",
-      "title": "Eyewitness News 5AM",
-      "desc": "News coverage to start the day.",
-      "date": "2004",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p676994_b_h8_af.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-06-13T18:00:00+05:00",
-      "stop": "2026-06-13T19:00:00+05:00",
-      "title": "Eyewitness News 6AM",
-      "desc": "News coverage to start the day.",
-      "date": "2004",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p677002_b_h8_af.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-06-13T19:00:00+05:00",
       "stop": "2026-06-13T20:00:00+05:00",
       "title": "Good Morning America",
@@ -187,6 +163,38 @@
         "Basketball"
       ],
       "icon": "http://dtil.tmsimg.com/assets/GNLZZGG0035N6E6.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-06-14T08:00:00+05:00",
+      "stop": "2026-06-14T08:30:00+05:00",
+      "title": "Live: Inside the NBA",
+      "desc": "This Emmy Award-winning studio show, which airs following NBA telecasts on ESPN, is hosted by Ernie Johnson, with analysis from Hall of Famer Charles Barkley and NBA champions Kenny Smith and Shaquille O'Neal. It's a mix of highlights, interviews and hijinks, notably the verbal sparring sessions between the outspoken Barkley and his straight man, Smith. The show also welcomes various guest analysts throughout the season.",
+      "date": "2000",
+      "language": "en",
+      "categories": [
+        "Basketball"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p23456795_b_h8_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Ernie Johnson",
+          "Charles Barkley",
+          "Kenny Smith"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-14T08:30:00+05:00",
+      "stop": "2026-06-14T09:00:00+05:00",
+      "title": "Slam Dunk: The Finals",
+      "desc": "All basketball all the time with the best moments of the NBA Finals.",
+      "date": "2017",
+      "language": "en",
+      "categories": [
+        "Sports talk",
+        "Basketball"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p14137032_b_h10_aa.jpg?w=960&h=540"
     }
   ]
 }

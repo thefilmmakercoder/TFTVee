@@ -4,18 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-13T17:00:00+05:00",
-      "stop": "2026-06-13T17:15:00+05:00",
-      "title": "ITV News",
-      "desc": "National and international news with reports and analysis from ITV's Correspondents in the UK and around the world as well as the latest major sports results.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/ba4aa0f9-6209-4b33-b558-8386bf5de75a/16-9"
-    },
-    {
       "start": "2026-06-13T17:15:00+05:00",
       "stop": "2026-06-13T20:15:00+05:00",
       "title": "ITV Racing: Live from York",
@@ -146,6 +134,18 @@
         "Travel"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/40180928-3ddf-42a1-b992-ff879327323e/16-9"
+    },
+    {
+      "start": "2026-06-14T08:05:00+05:00",
+      "stop": "2026-06-14T08:30:00+05:00",
+      "title": "Bradley and Barney Walsh: Breaking Dad",
+      "desc": "The boys are now in the Aussie countryside and learn how to shear sheep before joining a local community whose fundraiser involves pulling a gigantic truck.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Travel"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/9d5c40d2-aea2-4d6f-855d-4ac922cf1ede/16-9"
     }
   ]
 }

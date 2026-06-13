@@ -4,40 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-13T16:00:00+05:00",
-      "stop": "2026-06-13T18:00:00+05:00",
-      "title": "CBS Saturday Morning",
-      "desc": "Young the Giant performs; chefs Jon Sybert and Jill Tyler; co-authors Joe Posnanski and Michael Schur (\"Big Fan\").",
-      "date": "2026",
-      "language": "en",
-      "categories": [
-        "Series",
-        "Talk",
-        "News"
-      ],
-      "episode": "E24",
-      "icon": "http://dtil.tmsimg.com/assets/p20589876_b_h8_af.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Adriana Diaz",
-          "Kelly O'Grady",
-          "Young the Giant"
-        ]
-      }
-    },
-    {
-      "start": "2026-06-13T18:00:00+05:00",
-      "stop": "2026-06-13T19:00:00+05:00",
-      "title": "CBS News New York Saturday 9am",
-      "desc": "Weekend news coverage.",
-      "date": "2020",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p18809087_b_h8_ab.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-06-13T19:00:00+05:00",
       "stop": "2026-06-13T20:00:00+05:00",
       "title": "CBS News New York Saturday 10am",
@@ -224,6 +190,46 @@
           "Kevin Frazier",
           "Nischelle Turner",
           "Rachel Smith"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-14T05:00:00+05:00",
+      "stop": "2026-06-14T07:00:00+05:00",
+      "title": "Live: WNBA Basketball",
+      "desc": "The Minnesota Lynx and Las Vegas Aces clash in a WNBA Commissioner's Cup matchup. Lynx guard Courtney Williams and Aces center A'ja Wilson lead their teams into their first meeting of the season in the Western Conference at Michelob ULTRA Arena.",
+      "language": "en",
+      "categories": [
+        "Sports",
+        "Basketball"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/GNLZZGG00327G9L.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-06-14T07:00:00+05:00",
+      "stop": "2026-06-14T08:00:00+05:00",
+      "title": "48 Hours",
+      "sub_title": "Could Angela Prichard Have Been Saved?",
+      "desc": "When Angela Prichard was terrorized by her husband, she turned to the police for help, but it did not prevent her death.",
+      "date": "2025",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "Series",
+        "Newsmagazine",
+        "Crime",
+        "Law"
+      ],
+      "episode": "S38 E22",
+      "icon": "http://dtil.tmsimg.com/assets/p200944_b_h8_bb.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Matthew DeVoe"
+        ],
+        "actor": [
+          "Erin Moriarty",
+          "Peter Van Sant",
+          "Natalie Morales"
         ]
       }
     }
