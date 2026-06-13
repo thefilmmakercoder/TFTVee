@@ -4,18 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-13T20:00:00+05:00",
-      "stop": "2026-06-13T21:00:00+05:00",
-      "title": "Eyewitness News 8AM",
-      "desc": "News coverage to start the day.",
-      "date": "2009",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p677447_b_h10_ae.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-06-13T21:00:00+05:00",
       "stop": "2026-06-13T22:00:00+05:00",
       "title": "Good Morning America",
@@ -183,6 +171,26 @@
         "Entertainment"
       ],
       "icon": "http://dtil.tmsimg.com/assets/p33180548_b_h10_ac.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-06-14T09:30:00+05:00",
+      "stop": "2026-06-14T10:00:00+05:00",
+      "title": "Jeopardy!",
+      "desc": "The Emmy-winning quiz show features a unique answer-and-question format.",
+      "date": "2025",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Series",
+        "Game show"
+      ],
+      "episode": "S41 E130",
+      "icon": "http://dtil.tmsimg.com/assets/p28134937_b_h10_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Ken Jennings"
+        ]
+      }
     }
   ]
 }

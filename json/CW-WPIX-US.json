@@ -4,20 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-13T21:00:00+05:00",
-      "stop": "2026-06-13T21:30:00+05:00",
-      "title": "Paid Programming",
-      "desc": "Paid programming.",
-      "language": "en",
-      "rating": "TVG",
-      "categories": [
-        "Consumer",
-        "Shopping",
-        "Variety"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-06-13T21:30:00+05:00",
       "stop": "2026-06-13T22:00:00+05:00",
       "title": "Paid Programming",
@@ -197,6 +183,29 @@
           "Jackie Gleason",
           "Audrey Meadows",
           "Art Carney"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-14T10:00:00+05:00",
+      "stop": "2026-06-14T10:30:00+05:00",
+      "title": "Friends",
+      "sub_title": "The One With Monica's Thunder",
+      "desc": "Monica feels that Rachel is trying to steal the spotlight from her engagement; Chandler worries about his performance in the bedroom.",
+      "date": "2000",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Sitcom"
+      ],
+      "episode": "S7 E1",
+      "icon": "http://dtil.tmsimg.com/assets/p7892579_b_h11_ai.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Jennifer Aniston",
+          "Courteney Cox Arquette",
+          "Lisa Kudrow"
         ]
       }
     }

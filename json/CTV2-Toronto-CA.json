@@ -4,57 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-13T21:00:00+05:00",
-      "stop": "2026-06-13T21:30:00+05:00",
-      "title": "Paid Programming",
-      "desc": "Paid programming.",
-      "language": "en",
-      "rating": "TVG",
-      "categories": [
-        "Consumer",
-        "Shopping",
-        "Variety"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-06-13T21:30:00+05:00",
-      "stop": "2026-06-13T22:00:00+05:00",
-      "title": "Paid Programming",
-      "desc": "Paid programming.",
-      "language": "en",
-      "rating": "TVG",
-      "categories": [
-        "Consumer",
-        "Shopping",
-        "Variety"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-06-13T22:00:00+05:00",
-      "stop": "2026-06-13T22:30:00+05:00",
-      "title": "How It's Made",
-      "sub_title": "Body Casting; Downdraft Stoves; Compression Garments; Electric Motorcycles",
-      "desc": "More everyday items are put under the microscope to discover how life casts, downdraft cooktops, compression hosiery and electric motorcycles are made.",
-      "date": "2013",
-      "language": "en",
-      "rating": "TVG",
-      "categories": [
-        "Series",
-        "Science",
-        "Documentary",
-        "How-to"
-      ],
-      "episode": "S22 E9",
-      "icon": "http://dtil.tmsimg.com/assets/p185509_b_h8_az.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Lynne Adams"
-        ]
-      }
-    },
-    {
       "start": "2026-06-13T22:30:00+05:00",
       "stop": "2026-06-13T23:00:00+05:00",
       "title": "How It's Made",
@@ -229,6 +178,76 @@
           "Brent Butt",
           "Eric Peterson",
           "Janet Wright"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-14T08:30:00+05:00",
+      "stop": "2026-06-14T09:00:00+05:00",
+      "title": "CTV News Toronto",
+      "desc": "CTV News covers stories that matter to Canadians, locally, nationally and internationally.",
+      "date": "2014",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p11226977_b_h8_ae.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-06-14T09:00:00+05:00",
+      "stop": "2026-06-14T10:00:00+05:00",
+      "title": "Criminal Minds",
+      "sub_title": "Perennials",
+      "desc": "The team tracks a suspect who shares the same style as a serial killer from 30 years ago; someone tracks the BAU's cases and replicates crimes.",
+      "date": "2012",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "Series",
+        "Crime drama",
+        "Mystery",
+        "Thriller",
+        "Drama"
+      ],
+      "episode": "S8 E11",
+      "icon": "http://dtil.tmsimg.com/assets/p185123_b_h8_ak.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Michael Lange"
+        ],
+        "actor": [
+          "Joe Mantegna",
+          "Thomas Gibson",
+          "Shemar Moore"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-14T10:00:00+05:00",
+      "stop": "2026-06-14T11:00:00+05:00",
+      "title": "Criminal Minds",
+      "sub_title": "Zugzwang",
+      "desc": "With the help of the BAU team, Reid tries to find his girlfriend before it's too late.",
+      "date": "2013",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "Series",
+        "Crime drama",
+        "Mystery",
+        "Thriller",
+        "Drama"
+      ],
+      "episode": "S8 E12",
+      "icon": "http://dtil.tmsimg.com/assets/p185123_b_h8_ak.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Jesse Warn"
+        ],
+        "actor": [
+          "Joe Mantegna",
+          "Thomas Gibson",
+          "Shemar Moore"
         ]
       }
     }

@@ -4,30 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-13T21:35:00+05:00",
-      "stop": "2026-06-13T21:40:00+05:00",
-      "title": "Weather",
-      "desc": "The latest weather forecast.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/ac03d024-9f96-46c9-b664-166dcbebfc3a/16-9"
-    },
-    {
-      "start": "2026-06-13T21:40:00+05:00",
-      "stop": "2026-06-13T22:25:00+05:00",
-      "title": "Celebrity Bridge of Lies",
-      "desc": "Scarlett Moffatt, BBC Radio 2's Owain Wyn Evans, BBC Radio 1's Rickie Haywood-Williams and wildlife presenter Michaela Strachan take on the Bridge of Lies for their chosen charities.",
-      "language": "en",
-      "categories": [
-        "Entertainment",
-        "Game Show"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/1d541fe9-ef37-4952-bddb-761fdac038c5/16-9"
-    },
-    {
       "start": "2026-06-13T22:25:00+05:00",
       "stop": "2026-06-13T23:00:00+05:00",
       "title": "Blankety Blank",
@@ -146,6 +122,30 @@
         "News"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/435e3fc4-8001-4b9b-b97e-507574da9691/16-9"
+    },
+    {
+      "start": "2026-06-14T08:40:00+05:00",
+      "stop": "2026-06-14T10:00:00+05:00",
+      "title": "BBC News",
+      "desc": "BBC One joins the BBC's rolling news channel for a night of news.",
+      "language": "en",
+      "categories": [
+        "News & Documentary",
+        "News"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/576aa0fd-bc6c-460a-b2a0-4758285504aa/16-9"
+    },
+    {
+      "start": "2026-06-14T10:00:00+05:00",
+      "stop": "2026-06-14T13:00:00+05:00",
+      "title": "Breakfast",
+      "desc": "The latest news, sport, business and weather from the BBC's Breakfast team.",
+      "language": "en",
+      "categories": [
+        "News & Documentary",
+        "News"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/9ec52aa1-6ec3-426b-ae71-84a77d5bd071/16-9"
     }
   ]
 }
