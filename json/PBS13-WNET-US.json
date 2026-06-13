@@ -4,84 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-13T04:00:00+05:00",
-      "stop": "2026-06-13T05:00:00+05:00",
-      "title": "PBS News Hour",
-      "desc": "Co-anchors Amna Nawaz and Geoff Bennett and correspondents offer in-depth analysis of current events.",
-      "date": "2026",
-      "language": "en",
-      "categories": [
-        "Series",
-        "News"
-      ],
-      "episode": "S52 E249",
-      "icon": "http://dtil.tmsimg.com/assets/p27608822_b_h8_ac.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Amna Nawaz",
-          "Geoff Bennett"
-        ]
-      }
-    },
-    {
-      "start": "2026-06-13T05:00:00+05:00",
-      "stop": "2026-06-13T06:00:00+05:00",
-      "title": "Washington Week With The Atlantic",
-      "sub_title": "America: The Next 250",
-      "desc": "As the nation nears its 250th anniversary, moderator Jeffrey Goldberg leads a panel of prominent journalists in exploring America's future.",
-      "date": "2026",
-      "language": "en",
-      "categories": [
-        "Series",
-        "News",
-        "Public affairs",
-        "Politics"
-      ],
-      "episode": "S60 E50",
-      "icon": "http://dtil.tmsimg.com/assets/p25350982_b_h8_aa.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Jeffrey Goldberg"
-        ]
-      }
-    },
-    {
-      "start": "2026-06-13T06:00:00+05:00",
-      "stop": "2026-06-13T08:00:00+05:00",
-      "title": "American Masters",
-      "sub_title": "Janis Ian: Breaking Silence",
-      "desc": "A journey through the life of singer-songwriter Janis Ian, and how she rose as a folk icon and gay rights advocate.",
-      "date": "2025",
-      "language": "en",
-      "rating": "TV14",
-      "categories": [
-        "Series",
-        "Documentary",
-        "Biography"
-      ],
-      "episode": "S39 E3",
-      "icon": "http://dtil.tmsimg.com/assets/p29743532_b_h10_aa.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-06-13T08:00:00+05:00",
-      "stop": "2026-06-13T09:00:00+05:00",
-      "title": "Amanpour and Company",
-      "desc": "Christiane Amanpour leads discussions about world issues and interviews with global leaders.",
-      "date": "2026",
-      "language": "en",
-      "categories": [
-        "Series",
-        "Public affairs"
-      ],
-      "episode": "S8 E183",
-      "icon": "http://dtil.tmsimg.com/assets/p15694932_b_h8_ac.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Christiane Amanpour"
-        ]
-      }
-    },
-    {
       "start": "2026-06-13T09:00:00+05:00",
       "stop": "2026-06-13T09:30:00+05:00",
       "title": "One on One With Steve Adubato",
@@ -228,6 +150,88 @@
       "credits": {
         "actor": [
           "Steve Adubato"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-13T17:00:00+05:00",
+      "stop": "2026-06-13T17:30:00+05:00",
+      "title": "Consuelo Mack WealthTrack",
+      "sub_title": "Sylla: America's Financial Revolution",
+      "desc": "As the first Secretary of the Treasury, Founding Father Alexander Hamilton created a financial revolution, laying the foundation for America's ability to become the richest and most powerful nation in history.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Series",
+        "Bus./financial",
+        "Interview"
+      ],
+      "episode": "S22 E50",
+      "icon": "http://dtil.tmsimg.com/assets/p358499_b_h10_ab.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Consuelo Mack",
+          "Richard Sylla"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-13T17:30:00+05:00",
+      "stop": "2026-06-13T18:00:00+05:00",
+      "title": "State of Affairs",
+      "desc": "WNET (PBS Thirteen) serves as the primary PBS member station for the New York tri-state area, delivering premium educational programs, trusted public affairs, and acclaimed arts and culture series.",
+      "date": "2017",
+      "language": "en",
+      "categories": [
+        "Public affairs"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p13803611_b_h8_ad.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-06-13T18:00:00+05:00",
+      "stop": "2026-06-13T18:30:00+05:00",
+      "title": "History With David Rubenstein",
+      "sub_title": "Stuart Eizenstat",
+      "desc": "Former U.N. Ambassador Stuart Eizenstat reflects on President Jimmy Carter's life and legacy.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Interview"
+      ],
+      "episode": "S7 E5",
+      "icon": "http://dtil.tmsimg.com/assets/p18342437_b_h10_ab.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "David Rubenstein",
+          "Stuart Eizenstat"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-13T18:30:00+05:00",
+      "stop": "2026-06-13T19:00:00+05:00",
+      "title": "GZERO World With Ian Bremmer",
+      "sub_title": "The Politics of the World Cup",
+      "desc": "Sports writer and Financial Times columnist Simon Kuper discusses the World Cup.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Public affairs",
+        "News",
+        "Interview",
+        "Debate"
+      ],
+      "episode": "S8 E50",
+      "icon": "http://dtil.tmsimg.com/assets/p15600614_b_h8_ab.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Ian Bremmer",
+          "Simon Kuper"
         ]
       }
     }

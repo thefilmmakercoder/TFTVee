@@ -4,32 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-13T04:00:00+05:00",
-      "stop": "2026-06-13T04:30:00+05:00",
-      "title": "France 24 English News",
-      "sub_title": "Morning First Edition",
-      "desc": "International news and current affairs television from Paris, offering a French perspective on world events, in English.",
-      "language": "en",
-      "rating": "NR",
-      "categories": [
-        "News"
-      ],
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/310649/image/334x188"
-    },
-    {
-      "start": "2026-06-13T04:30:00+05:00",
-      "stop": "2026-06-13T05:30:00+05:00",
-      "title": "DD India News Hour",
-      "sub_title": "Saturday 13 June 2026",
-      "desc": "The most recent political, sports, entertainment and socio-economic updates across India and the world from New Delhi, in English.",
-      "language": "en",
-      "rating": "NR",
-      "categories": [
-        "News"
-      ],
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/413559/image/334x188"
-    },
-    {
       "start": "2026-06-13T05:30:00+05:00",
       "stop": "2026-06-13T08:30:00+05:00",
       "title": "FIFA World Cup 2026",
@@ -163,6 +137,34 @@
       ],
       "episode": "E7",
       "icon": "https://www.fetchtv.com.au/v2/epg/program/8597820/image/334x188"
+    },
+    {
+      "start": "2026-06-13T19:20:00+05:00",
+      "stop": "2026-06-13T20:15:00+05:00",
+      "title": "Snowpiercer",
+      "sub_title": "The Engineer",
+      "desc": "Layton trades Liana for Big Alice but is captured. Wilford shows Alex Melanie's lab. Ben sacrifices himself to free Big Alice while Ruth and Till watch, leaving Layton still trapped.",
+      "language": "en",
+      "rating": "M",
+      "categories": [
+        "Drama"
+      ],
+      "episode": "S4 E5",
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/437833/image/334x188"
+    },
+    {
+      "start": "2026-06-13T20:15:00+05:00",
+      "stop": "2026-06-13T21:10:00+05:00",
+      "title": "Snowpiercer",
+      "sub_title": "Bell The Cat",
+      "desc": "Wilford and Layton ally to stop Milius, who orders a massacre for Nima's experiments. Alex volunteers for a sample, while Oz discovers bombs rigged across New Eden by Milius.",
+      "language": "en",
+      "rating": "MA",
+      "categories": [
+        "Drama"
+      ],
+      "episode": "S4 E6",
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/437833/image/334x188"
     }
   ]
 }
