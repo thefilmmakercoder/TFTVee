@@ -4,18 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-13T10:00:00+05:00",
-      "stop": "2026-06-13T13:00:00+05:00",
-      "title": "Breakfast",
-      "desc": "The latest news, sport, business and weather from the BBC's Breakfast team.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/dda0958e-356c-4518-8762-682c9175bb75/16-9"
-    },
-    {
       "start": "2026-06-13T13:00:00+05:00",
       "stop": "2026-06-13T14:30:00+05:00",
       "title": "Saturday Kitchen Live",
@@ -146,6 +134,18 @@
         "Game Show"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/3cd2d8ec-4b0d-4a7c-9fae-4f34b297b5b7/16-9"
+    },
+    {
+      "start": "2026-06-13T23:50:00+05:00",
+      "stop": "2026-06-14T00:35:00+05:00",
+      "title": "The Weakest Link",
+      "desc": "Gok Wan, Sunetra Sarker, Kate Humble, Asim Chaudhry, Katie Piper, Dermot Murnaghan, Andy Day and Susie McCabe compete to be the strongest link and win money for their chosen charity.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Game Show"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/070c9e3f-faa0-4e4f-885e-3eed9d328e9e/16-9"
     }
   ]
 }

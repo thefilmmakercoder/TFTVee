@@ -4,14 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-13T07:30:00+05:00",
-      "stop": "2026-06-13T09:30:00+05:00",
-      "title": "This is BBC Four",
-      "desc": "Programmes start at 7.00pm.",
-      "language": "en",
-      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/BBC-Four-UK.png"
-    },
-    {
       "start": "2026-06-13T09:30:00+05:00",
       "stop": "2026-06-13T15:30:00+05:00",
       "title": "..programmes start at 7.00pm",
@@ -126,6 +118,18 @@
         "Comedy"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/7603c8fb-985d-4875-91ca-67fbf1d0072e/16-9"
+    },
+    {
+      "start": "2026-06-14T05:20:00+05:00",
+      "stop": "2026-06-14T05:50:00+05:00",
+      "title": "Keeping Up Appearances",
+      "desc": "Sitcom about an irrepressible snob. Hyacinth's plan to take Daddy on a picnic backfires when he takes the car, leaving the rest of the family stranded.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Comedy"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/65c238ce-3223-47df-9d20-e152663533f5/16-9"
     }
   ]
 }
