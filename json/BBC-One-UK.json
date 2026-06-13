@@ -4,18 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-13T08:20:00+05:00",
-      "stop": "2026-06-13T10:00:00+05:00",
-      "title": "BBC News",
-      "desc": "BBC One joins the BBC's rolling news channel for a night of news.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/82ddfb05-9010-4460-a4db-d51cdd1e9972/16-9"
-    },
-    {
       "start": "2026-06-13T10:00:00+05:00",
       "stop": "2026-06-13T13:00:00+05:00",
       "title": "Breakfast",
@@ -146,6 +134,18 @@
         "Game Show"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/b97a4771-c7ff-4bf8-b6e1-945e06628ee9/16-9"
+    },
+    {
+      "start": "2026-06-13T23:00:00+05:00",
+      "stop": "2026-06-13T23:50:00+05:00",
+      "title": "Pointless Celebrities",
+      "desc": "A sport edition featuring Steve Backley, Roger Black, Kelly Sotherton, Sally Gunnell, Ashia Hansen, Jo Pavey, Martin Offiah and Gareth Chilcott.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Game Show"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/3cd2d8ec-4b0d-4a7c-9fae-4f34b297b5b7/16-9"
     }
   ]
 }

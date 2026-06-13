@@ -4,55 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-13T08:30:00+05:00",
-      "stop": "2026-06-13T09:00:00+05:00",
-      "title": "How L.A. Became A Soccer City",
-      "desc": "British journalist Matt O'Connor-Simpson seeks to uncover how and why LA fell in love with soccer.",
-      "date": "2026",
-      "language": "en",
-      "categories": [
-        "Special",
-        "Documentary"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p33110830_b_h10_aa.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-06-13T09:00:00+05:00",
-      "stop": "2026-06-13T11:00:00+05:00",
-      "title": "American Masters",
-      "sub_title": "Janis Ian: Breaking Silence",
-      "desc": "A journey through the life of singer-songwriter Janis Ian, and how she rose as a folk icon and gay rights advocate.",
-      "date": "2025",
-      "language": "en",
-      "rating": "TV14",
-      "categories": [
-        "Series",
-        "Documentary",
-        "Biography"
-      ],
-      "episode": "S39 E3",
-      "icon": "http://dtil.tmsimg.com/assets/p29743532_b_h10_aa.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-06-13T11:00:00+05:00",
-      "stop": "2026-06-13T12:00:00+05:00",
-      "title": "Dear Ike: Lost Letters to a Teen Idol",
-      "desc": "The story of a teenager's all-consuming childhood quest to contact his boyhood idol, Ike Eisenmann, and ask him to star in an animated science-fiction epic that he was forever developing in an overstuffed three-ring binder.",
-      "date": "2021",
-      "language": "en",
-      "categories": [
-        "Movie",
-        "Animated",
-        "Documentary"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p21172570_v_h10_aa.jpg?w=960&h=540",
-      "credits": {
-        "director": [
-          "Dion A. Labriola"
-        ]
-      }
-    },
-    {
       "start": "2026-06-13T12:00:00+05:00",
       "stop": "2026-06-13T13:00:00+05:00",
       "title": "PBS News Hour",
@@ -76,7 +27,7 @@
       "start": "2026-06-13T13:00:00+05:00",
       "stop": "2026-06-13T14:00:00+05:00",
       "title": "Washington Week With The Atlantic",
-      "sub_title": "America: The Next 250",
+      "sub_title": "The Next 250 -- Considering America's Future",
       "desc": "As the nation nears its 250th anniversary, moderator Jeffrey Goldberg leads a panel of prominent journalists in exploring America's future.",
       "date": "2026",
       "language": "en",
@@ -90,7 +41,9 @@
       "icon": "http://dtil.tmsimg.com/assets/p25350982_b_h8_aa.jpg?w=960&h=540",
       "credits": {
         "actor": [
-          "Jeffrey Goldberg"
+          "Jeffrey Goldberg",
+          "Tim Alberta",
+          "Idrees Kahloon"
         ]
       }
     },
@@ -236,6 +189,72 @@
           "Athena Karkanis"
         ]
       }
+    },
+    {
+      "start": "2026-06-13T19:00:00+05:00",
+      "stop": "2026-06-13T19:30:00+05:00",
+      "title": "Odd Squad",
+      "sub_title": "Oswald in the Machine; The B-Team",
+      "desc": "An Odd Squad gadget has been stolen and is being kept in a warehouse run by robots; the team must take control of a robot and use coding to program it to retrieve the stolen gadget.",
+      "date": "2020",
+      "language": "en",
+      "rating": "TVY",
+      "categories": [
+        "Series",
+        "Children",
+        "Educational",
+        "Entertainment"
+      ],
+      "episode": "S3 E17",
+      "icon": "http://dtil.tmsimg.com/assets/p11086138_b_h8_bj.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Filip Geljo",
+          "Dalila Bela",
+          "Sean Michael Kyer"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-13T19:30:00+05:00",
+      "stop": "2026-06-13T20:00:00+05:00",
+      "title": "Skillsville",
+      "sub_title": "Building Inspector; Museum Conservator",
+      "desc": "As a building inspector, Rae checks every detail to make sure Skillsville's new art museum is safe for visitors; Dev stays focused as a museum conservator as he cleans, restores and displays a delicate artifact.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TVY",
+      "categories": [
+        "Series",
+        "Animated",
+        "Children",
+        "Entertainment",
+        "Educational"
+      ],
+      "episode": "S1 E27",
+      "icon": "http://dtil.tmsimg.com/assets/p29225700_b_h8_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Jessy Yates",
+          "Elishia Perosa",
+          "Nissae Isen"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-13T20:00:00+05:00",
+      "stop": "2026-06-13T21:30:00+05:00",
+      "title": "Walking With Dinosaurs: A Viewers Guide",
+      "desc": "Diving into the wonder and adventure of dinosaurs, spotlighting the six different species of the main characters in the series \"Walking With Dinosaurs.\".",
+      "date": "2025",
+      "language": "en",
+      "categories": [
+        "Special",
+        "Documentary",
+        "Entertainment",
+        "Event"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p30472120_st_h10_aa.jpg?w=960&h=540"
     }
   ]
 }

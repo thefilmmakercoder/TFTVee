@@ -4,53 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-13T07:00:00+05:00",
-      "stop": "2026-06-13T10:00:00+05:00",
-      "title": "Teleshopping",
-      "desc": "Shopping from home.",
-      "language": "en",
-      "categories": [
-        "Specialist",
-        "Shopping"
-      ],
-      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/ITV-4-UK.png"
-    },
-    {
-      "start": "2026-06-13T10:00:00+05:00",
-      "stop": "2026-06-13T10:20:00+05:00",
-      "title": "The Best of the 70s",
-      "desc": "A look back at the wide variety of sports covered by ITV during the 1970s - from horse racing to table football and Formula One to darts - that includes many memorable moments.",
-      "language": "en",
-      "categories": [
-        "Sports"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/07d7cd73-e6c8-4470-a463-fe8700fcca20/16-9"
-    },
-    {
-      "start": "2026-06-13T10:20:00+05:00",
-      "stop": "2026-06-13T11:20:00+05:00",
-      "title": "The Big Match Revisited",
-      "desc": "A look back to April 1977 featuring a Chelsea side challenging for promotion in the old Second Division against Luton Town and Liverpool v Manchester City in the First Division.",
-      "language": "en",
-      "categories": [
-        "Sports",
-        "Football"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/8d8fd0d7-de90-49d9-b313-629fea3f54ac/16-9"
-    },
-    {
-      "start": "2026-06-13T11:20:00+05:00",
-      "stop": "2026-06-13T12:20:00+05:00",
-      "title": "The Big Match Revisited",
-      "desc": "Football highlights from April 1977, hosted by Brian Moore, featuring a Tottenham Hotspur side including Glenn Hoddle and Steve Perryman up against Sunderland at White Hart Lane.",
-      "language": "en",
-      "categories": [
-        "Sports",
-        "Football"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/bc0854d1-b300-49c0-a946-000c0b946c05/16-9"
-    },
-    {
       "start": "2026-06-13T12:20:00+05:00",
       "stop": "2026-06-13T13:30:00+05:00",
       "title": "The Saint",
@@ -151,6 +104,56 @@
         "Action"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/b188659b-3e6e-4c76-b700-e4193bd54061/16-9"
+    },
+    {
+      "start": "2026-06-14T00:00:00+05:00",
+      "stop": "2026-06-14T02:10:00+05:00",
+      "title": "Sharpe",
+      "sub_title": "Sharpe's Siege",
+      "desc": "Napoleonic War-based action-adventure. Winter 1813 - Wellington is informed by the debonair Comte de Maquerre that Bordeaux is ready to rebel against Napoleon.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Action"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/5960cc8e-8abb-4ca2-8f1c-e0728303460f/16-9"
+    },
+    {
+      "start": "2026-06-14T02:10:00+05:00",
+      "stop": "2026-06-14T04:15:00+05:00",
+      "title": "All Elite Wrestling: Dynamite",
+      "desc": "Hard-hitting action from the world of All Elite Wrestling - the roster features world-class talent including Jon Moxley, MJF, Ricochet and Adam Page.",
+      "language": "en",
+      "categories": [
+        "Sports",
+        "Wrestling"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/46b41472-8c98-40de-b8b4-37ca88bc5c5b/16-9"
+    },
+    {
+      "start": "2026-06-14T04:15:00+05:00",
+      "stop": "2026-06-14T05:15:00+05:00",
+      "title": "The Saint",
+      "sub_title": "Interlude in Venice",
+      "desc": "Freelance troubleshooter Simon Templar embarks on another case. The Saint visits Venice to save a damsel in distress but is then plunged into a seedy underworld.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Detective"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/cff9eed9-a138-46c8-b64c-2ae8e5c0336a/16-9"
+    },
+    {
+      "start": "2026-06-14T05:15:00+05:00",
+      "stop": "2026-06-14T05:45:00+05:00",
+      "title": "Two and a Half Men",
+      "desc": "Carpet Burns and a Bite Mark: American sitcom about a bachelor whose life is disrupted by his brother and young nephew. Charlie discovers that Alan has been seeing his ex-wife.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Comedy"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/2a119203-305e-4051-85a1-18905ceee83c/16-9"
     }
   ]
 }

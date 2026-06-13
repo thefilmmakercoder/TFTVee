@@ -4,18 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-13T06:30:00+05:00",
-      "stop": "2026-06-13T10:00:00+05:00",
-      "title": "Teleshopping",
-      "desc": "Shopping from home.",
-      "language": "en",
-      "categories": [
-        "Specialist",
-        "Shopping"
-      ],
-      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/ITV-3-UK.png"
-    },
-    {
       "start": "2026-06-13T10:00:00+05:00",
       "stop": "2026-06-13T12:10:00+05:00",
       "title": "Inspector Morse",
@@ -156,6 +144,18 @@
         "Lifestyles"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/5d6aea23-27aa-39af-8a45-f6928afa38d4/16-9"
+    },
+    {
+      "start": "2026-06-14T06:30:00+05:00",
+      "stop": "2026-06-14T10:00:00+05:00",
+      "title": "Teleshopping",
+      "desc": "Shopping from home.",
+      "language": "en",
+      "categories": [
+        "Specialist",
+        "Shopping"
+      ],
+      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/ITV-3-UK.png"
     }
   ]
 }

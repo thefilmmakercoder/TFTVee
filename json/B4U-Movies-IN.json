@@ -4,18 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-13T06:30:00+05:00",
-      "stop": "2026-06-13T09:00:00+05:00",
-      "title": "Movie",
-      "desc": "B4U Movies provides Hindi blockbuster films, Bollywood hits, and Indian cinema entertainment.",
-      "language": "en",
-      "categories": [
-        "Hindi",
-        "Film"
-      ],
-      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/B4U-Movies-IN.png"
-    },
-    {
       "start": "2026-06-13T09:00:00+05:00",
       "stop": "2026-06-13T12:00:00+05:00",
       "title": "Movie",
@@ -114,6 +102,14 @@
     {
       "start": "2026-06-14T04:00:00+05:00",
       "stop": "2026-06-14T05:00:00+05:00",
+      "title": "Hindi Movie",
+      "desc": "B4U Movies provides Hindi blockbuster films, Bollywood hits, and Indian cinema entertainment.",
+      "language": "en",
+      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/B4U-Movies-IN.png"
+    },
+    {
+      "start": "2026-06-14T05:00:00+05:00",
+      "stop": "2026-06-14T06:00:00+05:00",
       "title": "Hindi Movie",
       "desc": "B4U Movies provides Hindi blockbuster films, Bollywood hits, and Indian cinema entertainment.",
       "language": "en",

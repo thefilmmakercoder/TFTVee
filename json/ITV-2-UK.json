@@ -4,42 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-13T07:00:00+05:00",
-      "stop": "2026-06-13T10:00:00+05:00",
-      "title": "Teleshopping",
-      "desc": "Shopping from home.",
-      "language": "en",
-      "categories": [
-        "Specialist",
-        "Shopping"
-      ],
-      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/ITV-2-UK.png"
-    },
-    {
-      "start": "2026-06-13T10:00:00+05:00",
-      "stop": "2026-06-13T11:00:00+05:00",
-      "title": "Deal or No Deal",
-      "desc": "Stephen Mulhern hosts as a brave contestant takes on the infamous Banker in the exciting and iconic gameshow and could be in with the chance of winning a life-changing cash prize.",
-      "language": "en",
-      "categories": [
-        "Entertainment",
-        "Game Show"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/6e53aa8d-1de5-316a-871e-90fed8fc5403/16-9"
-    },
-    {
-      "start": "2026-06-13T11:00:00+05:00",
-      "stop": "2026-06-13T12:05:00+05:00",
-      "title": "Dress to Impress",
-      "desc": "In Manchester, Hope, Angel and Serena all hope to impress registrar Dominic with their style choices.",
-      "language": "en",
-      "categories": [
-        "Entertainment",
-        "Game Show"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/d5c80f3d-7f5b-3f48-a6a0-9be72b10eaeb/16-9"
-    },
-    {
       "start": "2026-06-13T12:05:00+05:00",
       "stop": "2026-06-13T13:10:00+05:00",
       "title": "Celebrity Dinner Date",
@@ -148,6 +112,42 @@
         "Showbiz"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/893e6b2f-8ccb-4fcb-9022-96bf73b203d1/16-9"
+    },
+    {
+      "start": "2026-06-13T20:35:00+05:00",
+      "stop": "2026-06-13T21:15:00+05:00",
+      "title": "Charlotte's Web",
+      "desc": "Family adventure film starring Dakota Fanning and featuring the voice of Julia Roberts, 2006. A spider hatches a plan to save her pig best friend from being taken to an abattoir.",
+      "language": "en",
+      "categories": [
+        "Movie",
+        "Family"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/3af32ce4-212d-4296-9fba-b4b07d106833/16-9"
+    },
+    {
+      "start": "2026-06-13T21:15:00+05:00",
+      "stop": "2026-06-13T22:15:00+05:00",
+      "title": "Ice Age",
+      "desc": "Animated family comedy film featuring the voices of Ray Romano and John Leguizamo, 2002. A mammoth, sloth, and sabretooth tiger try to return a human baby to its migrating tribe.",
+      "language": "en",
+      "categories": [
+        "Movie",
+        "Animation"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/91855ddd-0d1e-4c0d-8124-cc1a55246d6c/16-9"
+    },
+    {
+      "start": "2026-06-13T22:15:00+05:00",
+      "stop": "2026-06-13T22:20:00+05:00",
+      "title": "FYI Daily",
+      "desc": "Latest news from the world of entertainment.",
+      "language": "en",
+      "categories": [
+        "News & Documentary",
+        "Showbiz"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/2bd3efdd-0dd1-4d73-882d-1d6967a4e725/16-9"
     }
   ]
 }
