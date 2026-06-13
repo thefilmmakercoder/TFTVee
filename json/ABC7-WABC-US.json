@@ -4,40 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-13T23:00:00+05:00",
-      "stop": "2026-06-14T00:00:00+05:00",
-      "title": "Byron Allen Presents Juneteenth Special",
-      "desc": "WABC-TV delivers premier local news and community programming for the New York tri-state area, specializing in breaking news coverage, investigative journalism, and high-profile live events.",
-      "date": "2023",
-      "language": "en",
-      "icon": "http://dtil.tmsimg.com/assets/p26085556_st_h10_aa.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-06-14T00:00:00+05:00",
-      "stop": "2026-06-14T03:00:00+05:00",
-      "title": "Live: United Football League",
-      "desc": "DC Defenders and Louisville Kings clash for the title in the United Football League championship. The Defenders count on quarterback Jason Bean and his 233-playoff yards, while the Kings counter with Chandler Rogers who leads the team with 162 yards.",
-      "language": "en",
-      "categories": [
-        "Sports",
-        "Playoff sports",
-        "Football"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/GNLZZGG0035N6NV.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-06-14T03:00:00+05:00",
-      "stop": "2026-06-14T03:30:00+05:00",
-      "title": "Eyewitness News at 6",
-      "desc": "Stay informed with the latest breaking news and headlines.",
-      "date": "2017",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p13769035_b_h8_ab.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-06-14T03:30:00+05:00",
       "stop": "2026-06-14T04:00:00+05:00",
       "title": "ABC World News Tonight With David Muir",
@@ -188,6 +154,69 @@
           "Angela Bassett",
           "Peter Krause",
           "Oliver Stark"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-14T11:00:00+05:00",
+      "stop": "2026-06-14T12:00:00+05:00",
+      "title": "Fire Country",
+      "sub_title": "Too Many Unknowns",
+      "desc": "The crews respond to a chemical plant after a dangerous toxic spill goes up in flames.",
+      "date": "2024",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "Series",
+        "Drama"
+      ],
+      "episode": "S2 E4",
+      "icon": "http://dtil.tmsimg.com/assets/p22213607_b_h8_al.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Nicole Rubio"
+        ],
+        "actor": [
+          "Max Thieriot",
+          "Billy Burke",
+          "Kevin Alejandro"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-14T12:00:00+05:00",
+      "stop": "2026-06-14T12:30:00+05:00",
+      "title": "Beautiful Homes & Great Estates",
+      "sub_title": "Stradella Estate",
+      "desc": "Located in the affluent neighborhood of Bel Air, the six-bedroom, 11-bath mansion is composed of three levels and an upper sun deck.",
+      "date": "2023",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Series",
+        "House/garden"
+      ],
+      "episode": "E6",
+      "icon": "http://dtil.tmsimg.com/assets/p338301_b_h10_ae.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-06-14T12:30:00+05:00",
+      "stop": "2026-06-14T13:00:00+05:00",
+      "title": "The American Athlete",
+      "desc": "Olympic Surfer Alan Cleland; surfer and diver Andrew Alexander King; Olympic athlete Steph Rovetti.",
+      "date": "2024",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Sports talk",
+        "Interview"
+      ],
+      "episode": "E18",
+      "icon": "http://dtil.tmsimg.com/assets/p502818_b_h8_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Byron Allen"
         ]
       }
     }

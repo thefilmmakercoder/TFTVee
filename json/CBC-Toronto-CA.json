@@ -4,49 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-13T23:00:00+05:00",
-      "stop": "2026-06-14T01:00:00+05:00",
-      "title": "FIVB Volleyball Men's Nations League",
-      "desc": "From TD Place Arena in Ottawa.",
-      "language": "en",
-      "rating": "AL",
-      "categories": [
-        "Sports",
-        "Volleyball"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/GNLZZGG0033EPT9.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-06-14T01:00:00+05:00",
-      "stop": "2026-06-14T03:00:00+05:00",
-      "title": "Track and Field",
-      "desc": "From Oslo, Norway.",
-      "language": "en",
-      "rating": "A",
-      "categories": [
-        "Sports",
-        "Track/field"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p516702_b_h10_af.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-06-14T03:00:00+05:00",
-      "stop": "2026-06-14T03:30:00+05:00",
-      "title": "Live: CBC Ontario News",
-      "desc": "A comprehensive look at the day's top stories.",
-      "date": "2020",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p18135178_b_h8_aa.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Dwight Drummond"
-        ]
-      }
-    },
-    {
       "start": "2026-06-14T03:30:00+05:00",
       "stop": "2026-06-14T04:00:00+05:00",
       "title": "Marketplace",
@@ -242,6 +199,60 @@
           "Jully Black",
           "Mayce Galoni",
           "Jenn Labelle"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-14T10:00:00+05:00",
+      "stop": "2026-06-14T10:30:00+05:00",
+      "title": "Halifax Comedy Festival",
+      "sub_title": "Featuring Ron James",
+      "desc": "Ron James, Adam Delorey, Ian Black and Megan McDowell perform; some legendary laughs from the last 25 years from Erica Sigurdson, Ted Morris, Gilson Lubin, Eman El-Husseini and more.",
+      "date": "2022",
+      "language": "en",
+      "categories": [
+        "Series",
+        "Comedy",
+        "Standup"
+      ],
+      "episode": "E4",
+      "icon": "http://dtil.tmsimg.com/assets/p242405_b_h8_ag.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-06-14T10:30:00+05:00",
+      "stop": "2026-06-14T11:00:00+05:00",
+      "title": "Halifax Comedy Festival",
+      "sub_title": "Featuring Trent McClellan",
+      "desc": "Performances by Trent McClellan, Adam Delorey, Bette MacDonald and Travis Lindsay and from the archives, Ryan Belleville, Nikki Payne, Pete Zedlacher, K. Trevor Wilson and Greg Proops.",
+      "date": "2022",
+      "language": "en",
+      "categories": [
+        "Series",
+        "Comedy",
+        "Standup"
+      ],
+      "episode": "E5",
+      "icon": "http://dtil.tmsimg.com/assets/p242405_b_h8_ag.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-06-14T11:00:00+05:00",
+      "stop": "2026-06-14T12:00:00+05:00",
+      "title": "Just For Laughs Galas",
+      "sub_title": "Fortune Feimster: The Gala",
+      "desc": "Fortune Feimster hosts a \"Just for Laughs\" gala featuring standout sets from comics including Mae Martin, Gianmarco Soresi, Wally Baram, Laura Peek, Nick Mohammed, Adam Christie.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "Series",
+        "Comedy"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p32654815_b_h8_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Fortune Feimster",
+          "Mae Martin",
+          "Gianmarco Soresi"
         ]
       }
     }

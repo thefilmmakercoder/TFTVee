@@ -4,30 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-13T22:00:00+05:00",
-      "stop": "2026-06-14T00:00:00+05:00",
-      "title": "Live: PBA Bowling",
-      "desc": "From Thunderbowl Lanes in Allen Park, Mich.",
-      "language": "en",
-      "categories": [
-        "Sports",
-        "Bowling"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p845517_b_h10_ac.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-06-14T00:00:00+05:00",
-      "stop": "2026-06-14T03:00:00+05:00",
-      "title": "Live: PGA Tour Golf",
-      "desc": "The third round of the 2026 RBC Canadian Open takes place at TPC Toronto at Osprey Valley in Caledon. This round represents Moving Day, where players who successfully made the Friday night cut jockey for position ahead of Sunday's final round.",
-      "language": "en",
-      "categories": [
-        "Sports",
-        "Golf"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p32945693_b_h8_aa.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-06-14T03:00:00+05:00",
       "stop": "2026-06-14T04:00:00+05:00",
       "title": "Entertainment Tonight",
@@ -180,6 +156,50 @@
       "credits": {
         "actor": [
           "Mary Calvi"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-14T12:30:00+05:00",
+      "stop": "2026-06-14T13:00:00+05:00",
+      "title": "Game Time With Boomer Esiason",
+      "desc": "The former NFL quarterback interviews compelling figures in the sports and entertainment industries.",
+      "date": "2019",
+      "language": "en",
+      "categories": [
+        "Sports talk",
+        "Interview"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p17167704_b_h8_ac.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Boomer Esiason"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-14T13:00:00+05:00",
+      "stop": "2026-06-14T14:00:00+05:00",
+      "title": "Fire Country",
+      "sub_title": "Too Many Unknowns",
+      "desc": "The crews respond to a chemical plant after a dangerous toxic spill goes up in flames.",
+      "date": "2024",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "Series",
+        "Drama"
+      ],
+      "episode": "S2 E4",
+      "icon": "http://dtil.tmsimg.com/assets/p22213607_b_h8_al.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Nicole Rubio"
+        ],
+        "actor": [
+          "Max Thieriot",
+          "Billy Burke",
+          "Kevin Alejandro"
         ]
       }
     }
