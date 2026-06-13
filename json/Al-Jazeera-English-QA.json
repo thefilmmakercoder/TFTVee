@@ -4,42 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-13T15:00:00+05:00",
-      "stop": "2026-06-13T16:00:00+05:00",
-      "title": "Newshour",
-      "desc": "Latest news and in-depth analysis from around the world.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "World Affairs"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/3e36b3c0-8128-4981-a43a-b2803b46aaac/16-9"
-    },
-    {
-      "start": "2026-06-13T16:00:00+05:00",
-      "stop": "2026-06-13T16:30:00+05:00",
-      "title": "News Live",
-      "desc": "Up-to-date news and analysis from around the world.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "World Affairs"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/86505096-9c6c-48c8-85d2-b30213352a46/16-9"
-    },
-    {
-      "start": "2026-06-13T16:30:00+05:00",
-      "stop": "2026-06-13T17:00:00+05:00",
-      "title": "Inside Story",
-      "desc": "Ep.1346 Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds from around the globe.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "World Affairs"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/37bbf6a6-6bc3-4bd8-a4a7-a3240f803983/16-9"
-    },
-    {
       "start": "2026-06-13T17:00:00+05:00",
       "stop": "2026-06-13T18:00:00+05:00",
       "title": "Newshour",
@@ -148,6 +112,43 @@
         "World Affairs"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/37bbf6a6-6bc3-4bd8-a4a7-a3240f803983/16-9"
+    },
+    {
+      "start": "2026-06-13T23:00:00+05:00",
+      "stop": "2026-06-14T00:00:00+05:00",
+      "title": "Newshour",
+      "desc": "Latest news and in-depth analysis from around the world.",
+      "language": "en",
+      "categories": [
+        "News & Documentary",
+        "World Affairs"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/3e36b3c0-8128-4981-a43a-b2803b46aaac/16-9"
+    },
+    {
+      "start": "2026-06-14T00:00:00+05:00",
+      "stop": "2026-06-14T00:30:00+05:00",
+      "title": "News Live",
+      "desc": "Up-to-date news and analysis from around the world.",
+      "language": "en",
+      "categories": [
+        "News & Documentary",
+        "World Affairs"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/86505096-9c6c-48c8-85d2-b30213352a46/16-9"
+    },
+    {
+      "start": "2026-06-14T00:30:00+05:00",
+      "stop": "2026-06-14T01:00:00+05:00",
+      "title": "The Listening Post",
+      "sub_title": "Ep",
+      "desc": "24 A media industry weakened by marauding billionaires is dealing with a president eager to bend it further. Plus, what is left of journalism in Gaza.",
+      "language": "en",
+      "categories": [
+        "News & Documentary",
+        "World Affairs"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/3a787817-1f7e-42b3-8f29-3ebd92280c16/16-9"
     }
   ]
 }

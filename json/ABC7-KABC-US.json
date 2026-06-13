@@ -4,44 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-13T15:30:00+05:00",
-      "stop": "2026-06-13T16:00:00+05:00",
-      "title": "Paid Programming",
-      "desc": "Paid programming.",
-      "language": "en",
-      "rating": "TVG",
-      "categories": [
-        "Consumer",
-        "Shopping",
-        "Variety"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-06-13T16:00:00+05:00",
-      "stop": "2026-06-13T17:00:00+05:00",
-      "title": "Good Morning America",
-      "desc": "Early morning news and entertainment program that covers important issues with key figures from around the world and a wide spectrum of topics, including medicine, finance, consumer issues, computer technology, education and gardening.",
-      "date": "2026",
-      "language": "en",
-      "categories": [
-        "Series",
-        "Talk",
-        "News",
-        "Variety",
-        "Public affairs"
-      ],
-      "episode": "E187",
-      "icon": "http://dtil.tmsimg.com/assets/p31385280_b_h10_aa.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Whit Johnson",
-          "Janai Norman",
-          "Gio Benitez"
-        ]
-      }
-    },
-    {
       "start": "2026-06-13T17:00:00+05:00",
       "stop": "2026-06-13T18:00:00+05:00",
       "title": "Eyewitness News 5AM",
@@ -193,6 +155,38 @@
         "News"
       ],
       "icon": "http://dtil.tmsimg.com/assets/p676966_b_h8_af.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-06-14T05:00:00+05:00",
+      "stop": "2026-06-14T05:30:00+05:00",
+      "title": "Live: NBA Tip-Off",
+      "desc": "Host Ernie Johnson and analysts Shaquille O'Neal, Charles Barkley and Kenny Smith ready viewers for NBA action before ESPN's Wednesday night doubleheaders (and other select telecasts). Guest analysts also are featured from time to time.",
+      "date": "1998",
+      "language": "en",
+      "categories": [
+        "Basketball"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p267533_b_h8_ab.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Ernie Johnson",
+          "Charles Barkley",
+          "Shaquille O'Neal"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-14T05:30:00+05:00",
+      "stop": "2026-06-14T08:00:00+05:00",
+      "title": "Live: 2026 NBA Finals",
+      "desc": "The San Antonio Spurs and New York Knicks clash in crucial Game 5 of the NBA Finals. The Knicks guard a 3-1 lead after erasing a 29-point gap in Game 4 behind OG Anunoby's 33 points and game-winning tip-in, while Victor Wembanyama paces the Spurs.",
+      "language": "en",
+      "categories": [
+        "Sports",
+        "Playoff sports",
+        "Basketball"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/GNLZZGG0035N6E6.jpg?w=960&h=540"
     }
   ]
 }

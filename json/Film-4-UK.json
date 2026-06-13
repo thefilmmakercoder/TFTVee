@@ -4,32 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-13T11:00:00+05:00",
-      "stop": "2026-06-13T15:00:00+05:00",
-      "title": "Teleshopping",
-      "desc": "Teleshopping.",
-      "language": "en",
-      "categories": [
-        "Specialist",
-        "Shopping"
-      ],
-      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/Film-4-UK.png"
-    },
-    {
-      "start": "2026-06-13T15:00:00+05:00",
-      "stop": "2026-06-13T16:55:00+05:00",
-      "title": "The Frogmen",
-      "desc": "Second World War thriller. Richard Widmark, Dana Andrews and Robert Wagner star as divers with a special underwater demolition team taking the war to the Japanese in the Pacific.",
-      "date": "1951",
-      "language": "en",
-      "rating": "U",
-      "categories": [
-        "Movie",
-        "War"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/c0c2d56b-5387-4720-a581-ecedd21a6f3c/16-9"
-    },
-    {
       "start": "2026-06-13T16:55:00+05:00",
       "stop": "2026-06-13T17:00:00+05:00",
       "title": "Bridge of Spies Interview Special",
@@ -162,6 +136,32 @@
         "Fantasy"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/655deed4-663f-415a-82fe-174cd4183320/16-9"
+    },
+    {
+      "start": "2026-06-14T17:25:00+05:00",
+      "stop": "2026-06-14T19:40:00+05:00",
+      "title": "Tolkien",
+      "desc": "Biographical drama starring Nicholas Hoult and Lily Collins, charting the early life and inspirations of Lord of the Rings and The Hobbit author JRR Tolkien.",
+      "date": "2019",
+      "language": "en",
+      "rating": "PG",
+      "categories": [
+        "Movie",
+        "Drama"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/f0716055-d546-495a-acda-97c4ca4df5a0/16-9"
+    },
+    {
+      "start": "2026-06-14T19:40:00+05:00",
+      "stop": "2026-06-14T19:45:00+05:00",
+      "title": "Bridge of Spies Interview Special",
+      "desc": "Director Steven Spielberg and stars Tom Hanks and Mark Rylance talk about making their Cold War espionage drama.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Review"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/ec515489-2d66-405f-a110-35582c62f1bd/16-9"
     }
   ]
 }
