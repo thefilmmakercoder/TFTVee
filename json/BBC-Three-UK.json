@@ -4,30 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-13T02:45:00+05:00",
-      "stop": "2026-06-13T03:30:00+05:00",
-      "title": "A Good Girl's Guide to Murder",
-      "desc": "A tense confrontation reveals a truth far more complicated than Pip expected. Contains some strong language and some violent scenes.",
-      "language": "en",
-      "categories": [
-        "Entertainment",
-        "Detective"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/67b12adb-0559-4c60-a46a-eb0b37d4572a/16-9"
-    },
-    {
-      "start": "2026-06-13T03:30:00+05:00",
-      "stop": "2026-06-13T04:15:00+05:00",
-      "title": "Planet Sex with Cara Delevingne",
-      "desc": "Porn is everywhere. But Cara discovers it isn't all bad. Contains some strong language, sexual content and some upsetting scenes.",
-      "language": "en",
-      "categories": [
-        "Entertainment",
-        "Factual"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/f2dba296-de52-4684-9501-91e848f28901/16-9"
-    },
-    {
       "start": "2026-06-13T04:15:00+05:00",
       "stop": "2026-06-13T05:00:00+05:00",
       "title": "Planet Sex with Cara Delevingne",
@@ -126,6 +102,26 @@
       "desc": "BBC Three delivers bold and provocative content for younger audiences, featuring groundbreaking documentaries, experimental comedy, and fresh drama.",
       "language": "en",
       "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/BBC-Three-UK.png"
+    },
+    {
+      "start": "2026-06-13T22:58:00+05:00",
+      "stop": "2026-06-13T23:00:00+05:00",
+      "title": "This is BBC Three",
+      "desc": "Programmes start at 7.00pm.",
+      "language": "en",
+      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/BBC-Three-UK.png"
+    },
+    {
+      "start": "2026-06-13T23:00:00+05:00",
+      "stop": "2026-06-13T23:45:00+05:00",
+      "title": "Doctor Who",
+      "desc": "Sci-fi drama. In the mysterious Nethersphere, plans have been drawn. Missy is about to come face to face with the Doctor, and an impossible choice is looming.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Sci-Fi"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/72142dc2-8166-4758-90ff-801bf4379e0b/16-9"
     }
   ]
 }

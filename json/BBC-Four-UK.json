@@ -4,41 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-13T02:15:00+05:00",
-      "stop": "2026-06-13T03:15:00+05:00",
-      "title": "Tina Turner at the BBC",
-      "desc": "A collection of performances from one of the greatest singers and live performers in modern music - the legendary Tina Turner.",
-      "language": "en",
-      "categories": [
-        "Music & Radio"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/05559900-2bf4-462d-898d-acc2c42cd3e3/16-9"
-    },
-    {
-      "start": "2026-06-13T03:15:00+05:00",
-      "stop": "2026-06-13T04:15:00+05:00",
-      "title": "When Tina Turner Came to Britain",
-      "desc": "Using previously unheard interviews, told in her own words and by those around her, this is the story of Tina Turner's 50-year relationship with the UK since her first visit in 1966.",
-      "language": "en",
-      "categories": [
-        "Music & Radio",
-        "Rock&Pop"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/095f6362-452b-4c6e-b109-c8724002ce67/16-9"
-    },
-    {
-      "start": "2026-06-13T04:15:00+05:00",
-      "stop": "2026-06-13T04:40:00+05:00",
-      "title": "TOTP: 1999",
-      "desc": "Jamie Theakston presents the pop chart programme, featuring Tom Jones & Cerys Matthews, B*Witched & Ladysmith Black Mambazo, Vengaboys, Artful Dodger feat Craig David and Cliff Richard.",
-      "language": "en",
-      "categories": [
-        "Music & Radio",
-        "Rock&Pop"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/2be2028d-c4c3-40d7-bce4-5c23bdb7f406/16-9"
-    },
-    {
       "start": "2026-06-13T04:40:00+05:00",
       "stop": "2026-06-13T05:20:00+05:00",
       "title": "TOTP: 1977",
@@ -125,6 +90,18 @@
       "desc": "Programmes start at 7.00pm.",
       "language": "en",
       "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/BBC-Four-UK.png"
+    },
+    {
+      "start": "2026-06-13T23:00:00+05:00",
+      "stop": "2026-06-14T00:00:00+05:00",
+      "title": "Hurricanes and Heatwaves: The Highs and Lows of British Weather",
+      "desc": "A look at the evolution of the weather forecast from print via radio to TV and beyond.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Factual"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/a4bf2b26-cf3e-4c11-882d-f894458e9074/16-9"
     }
   ]
 }

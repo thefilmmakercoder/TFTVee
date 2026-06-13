@@ -4,18 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-13T03:39:00+05:00",
-      "stop": "2026-06-13T03:47:00+05:00",
-      "title": "Azan-e-Fajr",
-      "desc": "A call to Muslims for the prayers of Fajr.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "Religion"
-      ],
-      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/ARY-Digital-PK.png"
-    },
-    {
       "start": "2026-06-13T03:47:00+05:00",
       "stop": "2026-06-13T04:00:00+05:00",
       "title": "Mahnoor",
@@ -144,6 +132,18 @@
       "categories": [
         "Entertainment",
         "Drama"
+      ],
+      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/ARY-Digital-PK.png"
+    },
+    {
+      "start": "2026-06-13T14:06:00+05:00",
+      "stop": "2026-06-13T14:12:00+05:00",
+      "title": "Azan-e-Zuhr",
+      "desc": "A call to Muslims for the prayers of Zuhr.",
+      "language": "en",
+      "categories": [
+        "News & Documentary",
+        "Religion"
       ],
       "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/ARY-Digital-PK.png"
     }

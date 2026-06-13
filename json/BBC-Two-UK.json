@@ -4,18 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-13T02:30:00+05:00",
-      "stop": "2026-06-13T03:00:00+05:00",
-      "title": "Newsnight, followed by Weather",
-      "desc": "Insights and global interviews on the crucial news stories of the day. With Matt Chorley. Followed by Weather.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/ac0335ff-53e8-48da-bd64-de073e321af7/16-9"
-    },
-    {
       "start": "2026-06-13T03:00:00+05:00",
       "stop": "2026-06-13T05:10:00+05:00",
       "title": "Queer",
@@ -139,6 +127,18 @@
         "Children"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/a1468432-47ee-4577-b4ed-ddcce54d95c0/16-9"
+    },
+    {
+      "start": "2026-06-13T11:10:00+05:00",
+      "stop": "2026-06-13T11:30:00+05:00",
+      "title": "Pok\u00e9mon Horizons",
+      "sub_title": "The Prankster",
+      "desc": "With Iono's help, Dot confronts a trainer who has been playing pranks with his Stunfisk.",
+      "language": "en",
+      "categories": [
+        "Children"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/835659d2-6289-4957-b956-78a746243ca1/16-9"
     }
   ]
 }

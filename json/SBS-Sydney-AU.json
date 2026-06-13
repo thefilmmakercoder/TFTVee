@@ -4,32 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-13T03:00:00+05:00",
-      "stop": "2026-06-13T03:30:00+05:00",
-      "title": "Al Jazeera News",
-      "sub_title": "Saturday 13 June 2026",
-      "desc": "News via satellite from Al Jazeera Satellite Network, Qatar, in English.",
-      "language": "en",
-      "rating": "NR",
-      "categories": [
-        "News"
-      ],
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/6429373/image/334x188"
-    },
-    {
-      "start": "2026-06-13T03:30:00+05:00",
-      "stop": "2026-06-13T04:00:00+05:00",
-      "title": "BBC News At Six",
-      "sub_title": "Saturday 13 June 2026",
-      "desc": "The latest national and international news stories from the BBC News team from London, UK, in English.",
-      "language": "en",
-      "rating": "NR",
-      "categories": [
-        "News"
-      ],
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/11514500/image/334x188"
-    },
-    {
       "start": "2026-06-13T04:00:00+05:00",
       "stop": "2026-06-13T04:30:00+05:00",
       "title": "France 24 English News",
@@ -161,6 +135,34 @@
         "Special Interest"
       ],
       "icon": "https://www.fetchtv.com.au/v2/epg/program/20772798/image/334x188"
+    },
+    {
+      "start": "2026-06-13T16:55:00+05:00",
+      "stop": "2026-06-13T17:25:00+05:00",
+      "title": "FIFA World Cup 2026: Highlights Show",
+      "sub_title": "Matchday 2",
+      "desc": "All the best action from the latest Matchday at the FIFA World Cup 2026.",
+      "language": "en",
+      "rating": "NR",
+      "categories": [
+        "Sports"
+      ],
+      "episode": "E2",
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/23044036/image/334x188"
+    },
+    {
+      "start": "2026-06-13T17:25:00+05:00",
+      "stop": "2026-06-13T19:20:00+05:00",
+      "title": "Tour Auvergne-Rhone-Alpes",
+      "sub_title": "Stage 7",
+      "desc": "All the action from Stage 7 of the 2026 Tour Auvergne-Rhone-Alpes (formerly Criterium du Dauphine), as the peloton takes on a 133.3 km route starting in La Bridoire and finishing in Grand Colombier.",
+      "language": "en",
+      "rating": "NR",
+      "categories": [
+        "Sports"
+      ],
+      "episode": "E7",
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/8597820/image/334x188"
     }
   ]
 }

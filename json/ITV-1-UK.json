@@ -4,18 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-13T02:30:00+05:00",
-      "stop": "2026-06-13T02:45:00+05:00",
-      "title": "ITV News London",
-      "desc": "The latest news and weather from London and the South East.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/6aaa69ab-a22b-4e09-aba0-320b3cfa2fa8/16-9"
-    },
-    {
       "start": "2026-06-13T02:45:00+05:00",
       "stop": "2026-06-13T04:35:00+05:00",
       "title": "The Gentlemen",
@@ -151,6 +139,19 @@
         "Cooking"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/695bf799-d03d-48c9-96f3-0a279916d03a/16-9"
+    },
+    {
+      "start": "2026-06-13T16:00:00+05:00",
+      "stop": "2026-06-13T16:30:00+05:00",
+      "title": "Dermot's Taste of Ireland",
+      "sub_title": "South Donegal",
+      "desc": "Dermot explores Donegal's Gaeltacht, tasting seaweed pudding, speaking Irish in the pub and discovering incredible seafood fresh from Killybegs harbour.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Cooking"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/592290e5-ab10-4585-ac0d-3964426fcfa4/16-9"
     }
   ]
 }

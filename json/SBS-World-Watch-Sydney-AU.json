@@ -4,19 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-13T03:10:00+05:00",
-      "stop": "2026-06-13T03:40:00+05:00",
-      "title": "Filipino News",
-      "sub_title": "Saturday 13 June 2026",
-      "desc": "TV Patrol is the flagship national newscast of ABS-CBN and is currently the longest-running Filipino language evening newscast.",
-      "language": "en",
-      "rating": "NR",
-      "categories": [
-        "News"
-      ],
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/158474/image/334x188"
-    },
-    {
       "start": "2026-06-13T03:40:00+05:00",
       "stop": "2026-06-13T04:30:00+05:00",
       "title": "French News 20h",
@@ -157,6 +144,19 @@
         "News"
       ],
       "icon": "https://www.fetchtv.com.au/v2/epg/program/335213/image/334x188"
+    },
+    {
+      "start": "2026-06-13T10:00:00+05:00",
+      "stop": "2026-06-13T10:30:00+05:00",
+      "title": "Armenian News",
+      "sub_title": "Saturday 13 June 2026",
+      "desc": "News via satellite from Channel H1 Armenia (Yerevan), in Armenian, no subtitles.",
+      "language": "en",
+      "rating": "NR",
+      "categories": [
+        "News"
+      ],
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/335209/image/334x188"
     }
   ]
 }
