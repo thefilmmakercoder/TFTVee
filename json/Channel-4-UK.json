@@ -4,30 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-13T22:00:00+05:00",
-      "stop": "2026-06-13T22:30:00+05:00",
-      "title": "Channel 4 News",
-      "desc": "Channel 4's flagship news programme. Including the weather.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/31a34ac4-9131-43e8-9e7a-742b41356bcf/16-9"
-    },
-    {
-      "start": "2026-06-13T22:30:00+05:00",
-      "stop": "2026-06-14T00:00:00+05:00",
-      "title": "F1 Barcelona-Catalunya GP Qualifying Highlights",
-      "desc": "Circuit de Barcelona-Catalunya demands precision, balance and consistent confidence. Can any of Mercedes' rivals halt the Silver Arrows' momentum before race day.",
-      "language": "en",
-      "categories": [
-        "Sports",
-        "Motor Sports"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/e57c46d1-ba14-42bc-a5d4-272192c39b5f/16-9"
-    },
-    {
       "start": "2026-06-14T00:00:00+05:00",
       "stop": "2026-06-14T01:00:00+05:00",
       "title": "Yorkshire by the Sea",
@@ -155,6 +131,32 @@
         "Animation"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/09ee1fd6-7bf6-4fcc-af81-fc9eb14d7d52/16-9"
+    },
+    {
+      "start": "2026-06-14T09:05:00+05:00",
+      "stop": "2026-06-14T09:30:00+05:00",
+      "title": "The Simpsons",
+      "sub_title": "Homie the Clown",
+      "desc": "Heavily in debt to Fat Tony, Krusty agrees to set up a clown college, and Homer can't resist the opportunity to start a new career..",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Animation"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/f671a8c4-aa6e-467e-82af-8e8a67b28475/16-9"
+    },
+    {
+      "start": "2026-06-14T09:30:00+05:00",
+      "stop": "2026-06-14T09:55:00+05:00",
+      "title": "The Simpsons",
+      "sub_title": "Homer the Great",
+      "desc": "Homer becomes a member of a secret society, where the main man spots something significant on Homer's anatomy... Guest starring Patrick Stewart.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Animation"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/bf75e9c2-103a-4ece-a235-d980565e3556/16-9"
     }
   ]
 }

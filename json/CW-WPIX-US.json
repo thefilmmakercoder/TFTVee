@@ -4,34 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-13T21:30:00+05:00",
-      "stop": "2026-06-13T22:00:00+05:00",
-      "title": "Paid Programming",
-      "desc": "Paid programming.",
-      "language": "en",
-      "rating": "TVG",
-      "categories": [
-        "Consumer",
-        "Shopping",
-        "Variety"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-06-13T22:00:00+05:00",
-      "stop": "2026-06-14T00:30:00+05:00",
-      "title": "Live: 116th Street Festival",
-      "desc": "For the first time in its 40-year history, catch the 116th Street Festival live on TV! Join PIX11's Vanessa Freeman and Nelson Figueroa for an afternoon of celebrating the history, people, traditions, music and community spirit of Puerto Rican and Hispanic culture.",
-      "date": "2025",
-      "language": "en",
-      "categories": [
-        "Special",
-        "Community",
-        "Event"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p30276932_st_h10_aa.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-06-14T00:30:00+05:00",
       "stop": "2026-06-14T01:00:00+05:00",
       "title": "NASCAR Countdown Live",
@@ -208,6 +180,33 @@
           "Lisa Kudrow"
         ]
       }
+    },
+    {
+      "start": "2026-06-14T10:30:00+05:00",
+      "stop": "2026-06-14T11:00:00+05:00",
+      "title": "Around the Track",
+      "desc": "Previews for upcoming NASCAR races from tracks around the country.",
+      "date": "2022",
+      "language": "en",
+      "categories": [
+        "Auto racing",
+        "Sports talk"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p21457515_b_h8_aa.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-06-14T11:00:00+05:00",
+      "stop": "2026-06-14T11:30:00+05:00",
+      "title": "Paid Programming",
+      "desc": "Paid programming.",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Consumer",
+        "Shopping",
+        "Variety"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&h=540"
     }
   ]
 }

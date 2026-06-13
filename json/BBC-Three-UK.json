@@ -4,26 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-13T22:58:00+05:00",
-      "stop": "2026-06-13T23:00:00+05:00",
-      "title": "This is BBC Three",
-      "desc": "Programmes start at 7.00pm.",
-      "language": "en",
-      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/BBC-Three-UK.png"
-    },
-    {
-      "start": "2026-06-13T23:00:00+05:00",
-      "stop": "2026-06-13T23:45:00+05:00",
-      "title": "Doctor Who",
-      "desc": "Sci-fi drama. In the mysterious Nethersphere, plans have been drawn. Missy is about to come face to face with the Doctor, and an impossible choice is looming.",
-      "language": "en",
-      "categories": [
-        "Entertainment",
-        "Sci-Fi"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/72142dc2-8166-4758-90ff-801bf4379e0b/16-9"
-    },
-    {
       "start": "2026-06-13T23:45:00+05:00",
       "stop": "2026-06-14T00:45:00+05:00",
       "title": "Doctor Who",
@@ -142,6 +122,30 @@
         "Comedy"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/9ac84ea1-ab2e-41f1-bef9-4d03ae9308f8/16-9"
+    },
+    {
+      "start": "2026-06-14T04:55:00+05:00",
+      "stop": "2026-06-14T05:25:00+05:00",
+      "title": "Two Pints of Lager and a Packet of Crisps",
+      "desc": "Jonny tries to be horrible to Janet and fails. Donna is after as much sex with as little commitment as possible. Contains adult humour.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Comedy"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/8e4b7b38-7f80-4fe7-b577-760c69eafd16/16-9"
+    },
+    {
+      "start": "2026-06-14T05:25:00+05:00",
+      "stop": "2026-06-14T05:55:00+05:00",
+      "title": "Two Pints of Lager and a Packet of Crisps",
+      "desc": "When Gaz finds Donna's toothbrush in his flat, he realises he has to stop her 'merging'. Contains adult humour.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Comedy"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/2a37cac5-4c97-4c61-aedd-5c0abf4209b1/16-9"
     }
   ]
 }

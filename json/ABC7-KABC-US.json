@@ -4,30 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-13T21:00:00+05:00",
-      "stop": "2026-06-13T22:00:00+05:00",
-      "title": "Good Morning America",
-      "desc": "Early morning news and entertainment program that covers important issues with key figures from around the world and a wide spectrum of topics, including medicine, finance, consumer issues, computer technology, education and gardening.",
-      "date": "2026",
-      "language": "en",
-      "categories": [
-        "Series",
-        "Talk",
-        "News",
-        "Variety",
-        "Public affairs"
-      ],
-      "episode": "E187",
-      "icon": "http://dtil.tmsimg.com/assets/p31385280_b_h10_aa.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Whit Johnson",
-          "Janai Norman",
-          "Gio Benitez"
-        ]
-      }
-    },
-    {
       "start": "2026-06-13T22:00:00+05:00",
       "stop": "2026-06-14T00:00:00+05:00",
       "title": "Eyewitness News at 10am",
@@ -189,6 +165,28 @@
       "credits": {
         "actor": [
           "Ken Jennings"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-14T10:00:00+05:00",
+      "stop": "2026-06-14T10:30:00+05:00",
+      "title": "Wheel of Fortune",
+      "sub_title": "Celebrating Veterans",
+      "desc": "In a classic game-show version of \"Hangman,\" contestants solve word puzzles for cash and prizes.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Series",
+        "Game show"
+      ],
+      "episode": "S43 E117",
+      "icon": "http://dtil.tmsimg.com/assets/p184057_b_h8_ai.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Ryan Seacrest",
+          "Vanna White"
         ]
       }
     }
