@@ -4,76 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-13T19:00:00+05:00",
-      "stop": "2026-06-13T20:00:00+05:00",
-      "title": "Good Morning America",
-      "desc": "ABC Secret Savings June special.",
-      "date": "2026",
-      "language": "en",
-      "categories": [
-        "Series",
-        "Talk",
-        "News",
-        "Variety",
-        "Public affairs"
-      ],
-      "episode": "E188",
-      "icon": "http://dtil.tmsimg.com/assets/p31385280_b_h10_aa.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Whit Johnson",
-          "Janai Norman",
-          "Gio Benitez"
-        ]
-      }
-    },
-    {
-      "start": "2026-06-13T20:00:00+05:00",
-      "stop": "2026-06-13T20:30:00+05:00",
-      "title": "The Champion's Edge with Bonnie Bernstein",
-      "sub_title": "Dr. Seun Adigun: From Performane to Purpose",
-      "desc": "Two-time Olympian Dr. Seun Adigun is expanding the boundaries of sports and medicine.",
-      "date": "2026",
-      "language": "en",
-      "categories": [
-        "Series",
-        "Sports talk",
-        "Interview"
-      ],
-      "episode": "S1 E3",
-      "icon": "http://dtil.tmsimg.com/assets/p32928958_b_h8_aa.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Bonnie Bernstein",
-          "Seun Adigun"
-        ]
-      }
-    },
-    {
-      "start": "2026-06-13T20:30:00+05:00",
-      "stop": "2026-06-13T21:00:00+05:00",
-      "title": "Jack Hanna's Passport",
-      "sub_title": "In a World of Giants",
-      "desc": "Looking at some of the largest animals on Earth; elephants in Zimbabwe; gorillas in Gabon's Loango national park; ostriches in the Caribbean; relocating a grizzly bear in the wilds of Montana.",
-      "date": "2024",
-      "language": "en",
-      "categories": [
-        "Series",
-        "Animals",
-        "Educational"
-      ],
-      "episode": "S1 E5",
-      "icon": "http://dtil.tmsimg.com/assets/p26975705_b_h8_aa.jpg?w=960&h=540",
-      "credits": {
-        "director": [
-          "Guy Nickerson"
-        ],
-        "actor": [
-          "Alfonso Ribeiro"
-        ]
-      }
-    },
-    {
       "start": "2026-06-13T21:00:00+05:00",
       "stop": "2026-06-13T21:30:00+05:00",
       "title": "Hearts of Heroes",
@@ -205,6 +135,57 @@
         "Entertainment"
       ],
       "icon": "http://dtil.tmsimg.com/assets/p33180548_b_h8_ab.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-06-14T05:00:00+05:00",
+      "stop": "2026-06-14T05:30:00+05:00",
+      "title": "Live: NBA Tip-Off",
+      "desc": "Host Ernie Johnson and analysts Shaquille O'Neal, Charles Barkley and Kenny Smith ready viewers for NBA action before ESPN's Wednesday night doubleheaders (and other select telecasts). Guest analysts also are featured from time to time.",
+      "date": "1998",
+      "language": "en",
+      "categories": [
+        "Basketball"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p267533_b_h8_ab.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Ernie Johnson",
+          "Charles Barkley",
+          "Shaquille O'Neal"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-14T05:30:00+05:00",
+      "stop": "2026-06-14T08:00:00+05:00",
+      "title": "Live: 2026 NBA Finals",
+      "desc": "The San Antonio Spurs and New York Knicks clash in crucial Game 5 of the NBA Finals. The Knicks guard a 3-1 lead after erasing a 29-point gap in Game 4 behind OG Anunoby's 33 points and game-winning tip-in, while Victor Wembanyama paces the Spurs.",
+      "language": "en",
+      "categories": [
+        "Sports",
+        "Playoff sports",
+        "Basketball"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/GNLZZGG0035N6E6.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-06-14T08:00:00+05:00",
+      "stop": "2026-06-14T08:30:00+05:00",
+      "title": "Live: Inside the NBA",
+      "desc": "This Emmy Award-winning studio show, which airs following NBA telecasts on ESPN, is hosted by Ernie Johnson, with analysis from Hall of Famer Charles Barkley and NBA champions Kenny Smith and Shaquille O'Neal. It's a mix of highlights, interviews and hijinks, notably the verbal sparring sessions between the outspoken Barkley and his straight man, Smith. The show also welcomes various guest analysts throughout the season.",
+      "date": "2000",
+      "language": "en",
+      "categories": [
+        "Basketball"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p23456795_b_h8_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Ernie Johnson",
+          "Charles Barkley",
+          "Kenny Smith"
+        ]
+      }
     }
   ]
 }

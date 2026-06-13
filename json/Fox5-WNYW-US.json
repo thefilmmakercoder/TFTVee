@@ -4,45 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-13T19:30:00+05:00",
-      "stop": "2026-06-13T20:00:00+05:00",
-      "title": "Paid Programming",
-      "desc": "Paid programming.",
-      "language": "en",
-      "rating": "TVG",
-      "categories": [
-        "Consumer",
-        "Shopping",
-        "Variety"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-06-13T20:00:00+05:00",
-      "stop": "2026-06-13T20:30:00+05:00",
-      "title": "Paid Programming",
-      "desc": "Paid programming.",
-      "language": "en",
-      "rating": "TVG",
-      "categories": [
-        "Consumer",
-        "Shopping",
-        "Variety"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-06-13T20:30:00+05:00",
-      "stop": "2026-06-13T21:00:00+05:00",
-      "title": "9/11 Survivors Speak Up",
-      "desc": "It's been 25 years since the 9/11 attacks and people are still getting sick. Hear from survivors, first responders and advocates about the devastating impact of 9/11 toxins and the lifetime benefits available. Learn about your rights and protection.",
-      "language": "en",
-      "categories": [
-        "Consumer"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p20538847_st_h10_ab.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-06-13T21:00:00+05:00",
       "stop": "2026-06-13T21:30:00+05:00",
       "title": "FIFA World Cup 2026: Stories From the Cities",
@@ -171,6 +132,60 @@
         "Soccer"
       ],
       "icon": "http://dtil.tmsimg.com/assets/GNLZZGG0035L7L3.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-06-14T08:00:00+05:00",
+      "stop": "2026-06-14T08:30:00+05:00",
+      "title": "The 10 O'Clock News",
+      "desc": "Local, national and international news.",
+      "date": "2021",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p19319081_b_h8_ab.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-06-14T08:30:00+05:00",
+      "stop": "2026-06-14T09:30:00+05:00",
+      "title": "Fear Factor: House of Fear",
+      "sub_title": "Pain Auction",
+      "desc": "Contestants bid on how much punishment they can take; no one is safe from elimination in a truly sick pie-eating contest.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "Series",
+        "Competition Reality"
+      ],
+      "episode": "S1 E6",
+      "icon": "http://dtil.tmsimg.com/assets/p31694821_b_h8_ab.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Johnny Knoxville"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-14T09:30:00+05:00",
+      "stop": "2026-06-14T10:30:00+05:00",
+      "title": "TMZ",
+      "desc": "TMZ TV tracks down today's hottest stars with their cameras, whether they are hitting the clubs or the dry cleaners.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Newsmagazine",
+        "Entertainment"
+      ],
+      "episode": "S19 E246",
+      "icon": "http://dtil.tmsimg.com/assets/p30985766_b_h10_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Harvey Levin"
+        ]
+      }
     }
   ]
 }

@@ -4,54 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-13T17:20:00+05:00",
-      "stop": "2026-06-13T17:25:00+05:00",
-      "title": "Weather",
-      "desc": "The latest weather forecast.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/00905579-ac22-4032-a282-8011846efaf9/16-9"
-    },
-    {
-      "start": "2026-06-13T17:25:00+05:00",
-      "stop": "2026-06-13T21:20:00+05:00",
-      "title": "Tennis: Queen's Semi-Final",
-      "desc": "Live coverage from day 6 of the 2026 Queen's tennis tournament.",
-      "language": "en",
-      "categories": [
-        "Sports",
-        "Tennis"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/efd480da-b5f1-4c5e-89a6-0862ae241cfa/16-9"
-    },
-    {
-      "start": "2026-06-13T21:20:00+05:00",
-      "stop": "2026-06-13T21:30:00+05:00",
-      "title": "BBC News",
-      "desc": "The latest national and international news from the BBC.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/909b46d4-38ac-48bc-b19e-6a29af077641/16-9"
-    },
-    {
-      "start": "2026-06-13T21:30:00+05:00",
-      "stop": "2026-06-13T21:35:00+05:00",
-      "title": "BBC London News",
-      "desc": "The latest news, sport and weather from London.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/bc67b8f1-4765-4b54-9106-062907b97506/16-9"
-    },
-    {
       "start": "2026-06-13T21:35:00+05:00",
       "stop": "2026-06-13T21:40:00+05:00",
       "title": "Weather",
@@ -146,6 +98,54 @@
         "News"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/0d127a25-7d29-44a0-be10-090ad1c4a32b/16-9"
+    },
+    {
+      "start": "2026-06-14T02:25:00+05:00",
+      "stop": "2026-06-14T02:30:00+05:00",
+      "title": "Weather",
+      "desc": "The latest weather forecast.",
+      "language": "en",
+      "categories": [
+        "News & Documentary",
+        "News"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/bded8691-3471-47c8-afef-5f2286565672/16-9"
+    },
+    {
+      "start": "2026-06-14T02:30:00+05:00",
+      "stop": "2026-06-14T05:10:00+05:00",
+      "title": "MOTD Live: Brazil v Morocco",
+      "desc": "Live coverage from New York of the opening match in Group C between Brazil and Morocco.",
+      "language": "en",
+      "categories": [
+        "Sports",
+        "Football"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/0bcd556d-1652-41b3-bc6b-23ac2ed2286d/16-9"
+    },
+    {
+      "start": "2026-06-14T05:10:00+05:00",
+      "stop": "2026-06-14T08:35:00+05:00",
+      "title": "MOTD Live: Haiti v Scotland",
+      "desc": "Coverage of the Group C match between Haiti and Scotland from Boston Stadium.",
+      "language": "en",
+      "categories": [
+        "Sports",
+        "Football"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/da6d6450-d03b-4c5f-ad51-ac63afa4d151/16-9"
+    },
+    {
+      "start": "2026-06-14T08:35:00+05:00",
+      "stop": "2026-06-14T08:40:00+05:00",
+      "title": "Weather for the Week Ahead",
+      "desc": "Detailed weather forecast.",
+      "language": "en",
+      "categories": [
+        "News & Documentary",
+        "News"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/435e3fc4-8001-4b9b-b97e-507574da9691/16-9"
     }
   ]
 }
