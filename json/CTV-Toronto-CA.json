@@ -4,32 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-14T02:00:00+05:00",
-      "stop": "2026-06-14T02:45:00+05:00",
-      "title": "Live: TSN at the World Cup",
-      "desc": "TSN coverage of the 2026 FIFA Men's World Cup from Canada, United States and Mexico.",
-      "date": "2026",
-      "language": "en",
-      "categories": [
-        "Series",
-        "Soccer"
-      ],
-      "episode": "E7",
-      "icon": "http://dtil.tmsimg.com/assets/p32987414_b_h8_ab.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-06-14T02:45:00+05:00",
-      "stop": "2026-06-14T05:00:00+05:00",
-      "title": "Live: FIFA World Cup 2026",
-      "desc": "Brazil battles Morocco in the first match of Group C in FIFA World Cup action. Forward Vin\u00edcius J\u00fanior leads Brazil, the only nation to appear in all World Cups. Defender Achraf Hakimi leads an undefeated Moroccan qualifying lineup.",
-      "language": "en",
-      "categories": [
-        "Sports",
-        "Soccer"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/GNLZZGG0035K4C7.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-06-14T05:00:00+05:00",
       "stop": "2026-06-14T05:45:00+05:00",
       "title": "Live: TSN at the World Cup",
@@ -194,6 +168,48 @@
           "Jeff Garlin"
         ]
       }
+    },
+    {
+      "start": "2026-06-14T14:00:00+05:00",
+      "stop": "2026-06-14T14:30:00+05:00",
+      "title": "The Littlest Hobo",
+      "sub_title": "A Special Friend",
+      "desc": "An elderly man, apparently capable of reading animals' minds, matches wits with gold thieves.",
+      "date": "1982",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Series",
+        "Drama",
+        "Adventure",
+        "Animals"
+      ],
+      "episode": "S3 E16",
+      "icon": "http://dtil.tmsimg.com/assets/p507740_b_h10_ac.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Joseph L. Scanlan"
+        ],
+        "actor": [
+          "Ray Walston",
+          "Allan Royal",
+          "Ken Camroux"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-14T14:30:00+05:00",
+      "stop": "2026-06-14T15:00:00+05:00",
+      "title": "Paid Programming",
+      "desc": "Paid programming.",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Consumer",
+        "Shopping",
+        "Variety"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&h=540"
     }
   ]
 }

@@ -4,18 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-14T02:35:00+05:00",
-      "stop": "2026-06-14T02:50:00+05:00",
-      "title": "ITV News",
-      "desc": "National and international news with reports and analysis from ITV's Correspondents in the UK and around the world as well as the latest major sports results.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/0c3eb096-210c-4f8b-b01b-98eb1320b377/16-9"
-    },
-    {
       "start": "2026-06-14T02:50:00+05:00",
       "stop": "2026-06-14T04:45:00+05:00",
       "title": "Taken 3",
@@ -149,6 +137,19 @@
         "Magazine"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/6edb9ba0-b5df-3d2a-bfec-ed60de886421/16-9"
+    },
+    {
+      "start": "2026-06-14T15:25:00+05:00",
+      "stop": "2026-06-14T16:20:00+05:00",
+      "title": "Prue Leith's Cotswold Kitchen",
+      "sub_title": "Tom Kerridge",
+      "desc": "Prue welcomes Tom Kerridge as he cooks smoky beef ribs, John visits a vineyard, and she and John finish up with a charcuterie and a hack for a garlic confit.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Cooking"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/a082eeed-47b1-4b61-bf24-edb54cf05147/16-9"
     }
   ]
 }

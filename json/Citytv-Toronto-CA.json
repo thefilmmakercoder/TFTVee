@@ -4,18 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-14T03:00:00+05:00",
-      "stop": "2026-06-14T04:00:00+05:00",
-      "title": "CityNews at 6 Toronto",
-      "desc": "Coverage of the day's top news stories.",
-      "date": "2019",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p16858124_b_h8_aa.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-06-14T04:00:00+05:00",
       "stop": "2026-06-14T05:00:00+05:00",
       "title": "Hudson & Rex",
@@ -269,6 +257,18 @@
           "Kevin Hanchard"
         ]
       }
+    },
+    {
+      "start": "2026-06-14T14:00:00+05:00",
+      "stop": "2026-06-14T14:30:00+05:00",
+      "title": "CityNews Tonight Toronto",
+      "desc": "Coverage of the day's top news stories.",
+      "date": "2019",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p16858130_b_h8_aa.jpg?w=960&h=540"
     }
   ]
 }

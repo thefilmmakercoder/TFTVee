@@ -4,37 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-14T03:30:00+05:00",
-      "stop": "2026-06-14T04:00:00+05:00",
-      "title": "ABC World News Tonight With David Muir",
-      "desc": "Delivering the news that matters most.",
-      "date": "2026",
-      "language": "en",
-      "categories": [
-        "Series",
-        "News"
-      ],
-      "episode": "E164",
-      "icon": "http://dtil.tmsimg.com/assets/p10880351_b_h8_ah.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "David Muir"
-        ]
-      }
-    },
-    {
-      "start": "2026-06-14T04:00:00+05:00",
-      "stop": "2026-06-14T05:00:00+05:00",
-      "title": "Eyewitness News 4PM",
-      "desc": "Early evening news.",
-      "date": "2004",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p676966_b_h8_af.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-06-14T05:00:00+05:00",
       "stop": "2026-06-14T05:30:00+05:00",
       "title": "Live: NBA Tip-Off",
@@ -195,6 +164,57 @@
         "actor": [
           "Bonnie Bernstein",
           "Seun Adigun"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-14T12:00:00+05:00",
+      "stop": "2026-06-14T13:00:00+05:00",
+      "title": "9-1-1",
+      "sub_title": "Blindsided",
+      "desc": "Athena and the 118 race to save lives after a drunken driver causes a deadly pileup on the freeway; Maddie goes into labor; Hen and Karen are devastated as they prepare their foster daughter to be reunited with her birth mother.",
+      "date": "2021",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "Series",
+        "Drama",
+        "Action"
+      ],
+      "episode": "S4 E9",
+      "icon": "http://dtil.tmsimg.com/assets/p14154513_b_h8_bg.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Angela Bassett",
+          "Peter Krause",
+          "Oliver Stark"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-14T13:00:00+05:00",
+      "stop": "2026-06-14T14:00:00+05:00",
+      "title": "The Rookie",
+      "sub_title": "Life and Death",
+      "desc": "Officer Nolan and the entire team race against the clock to locate Lopez after she is kidnapped on her wedding day, not only to save her life but her unborn child's.",
+      "date": "2021",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "Series",
+        "Crime drama",
+        "Action"
+      ],
+      "episode": "S4 E1",
+      "icon": "http://dtil.tmsimg.com/assets/p15523389_b_h8_bc.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Bill Roe"
+        ],
+        "actor": [
+          "Nathan Fillion",
+          "Mekia Cox",
+          "Alyssa Diaz"
         ]
       }
     }

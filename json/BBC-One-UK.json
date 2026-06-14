@@ -4,18 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-14T02:25:00+05:00",
-      "stop": "2026-06-14T02:30:00+05:00",
-      "title": "Weather",
-      "desc": "The latest weather forecast.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/bded8691-3471-47c8-afef-5f2286565672/16-9"
-    },
-    {
       "start": "2026-06-14T02:30:00+05:00",
       "stop": "2026-06-14T05:10:00+05:00",
       "title": "MOTD Live: Brazil v Morocco",
@@ -145,6 +133,18 @@
         "Music & Radio"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/09bc795f-2763-44ac-873f-b46c08fea2bb/16-9"
+    },
+    {
+      "start": "2026-06-14T16:45:00+05:00",
+      "stop": "2026-06-14T17:00:00+05:00",
+      "title": "Points of View",
+      "desc": "Viewers have their say on the BBC's television programmes. Email your thoughts to pov@bbc.co.uk, tweet @bbcPoV or search Facebook for BBC Points of View.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Factual"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/b7dc8541-aead-4ba0-9d82-659c97c42eb5/16-9"
     }
   ]
 }

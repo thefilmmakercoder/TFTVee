@@ -4,27 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-14T03:30:00+05:00",
-      "stop": "2026-06-14T04:00:00+05:00",
-      "title": "CBS Evening News",
-      "desc": "Tony Dokoupil shares the day's most important stories, delivering context and depth to bring greater understanding to one's world.",
-      "date": "2026",
-      "language": "en",
-      "categories": [
-        "Series",
-        "News"
-      ],
-      "episode": "E164",
-      "icon": "http://dtil.tmsimg.com/assets/p28807922_b_h8_ae.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Tony Dokoupil",
-          "Maurice DuBois",
-          "Jericka Duncan"
-        ]
-      }
-    },
-    {
       "start": "2026-06-14T04:00:00+05:00",
       "stop": "2026-06-14T05:00:00+05:00",
       "title": "Entertainment Tonight",
@@ -242,6 +221,25 @@
         "Consumer"
       ],
       "icon": "http://dtil.tmsimg.com/assets/p32656820_st_h10_aa.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-06-14T13:00:00+05:00",
+      "stop": "2026-06-14T13:30:00+05:00",
+      "title": "Made in Hollywood",
+      "desc": "Stay up-to-date with the latest releases in theaters and on DVD with this syndicated series that features interviews with all the big-name stars and a behind-the-screen segment filled with inside information.",
+      "date": "2005",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Newsmagazine",
+        "Entertainment"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p196753_b_h10_ad.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Kylie Erica Mar"
+        ]
+      }
     }
   ]
 }

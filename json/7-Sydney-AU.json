@@ -4,20 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-14T01:00:00+05:00",
-      "stop": "2026-06-14T02:00:00+05:00",
-      "title": "NBC Today",
-      "sub_title": "Sunday 14 June 2026",
-      "desc": "International news and weather including interviews with newsmakers in the world of politics, business, media, entertainment and sport.",
-      "language": "en",
-      "rating": "NR",
-      "categories": [
-        "News"
-      ],
-      "episode": "S26 E164",
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/132440/image/334x188"
-    },
-    {
       "start": "2026-06-14T02:00:00+05:00",
       "stop": "2026-06-14T05:00:00+05:00",
       "title": "Weekend Sunrise",
@@ -163,6 +149,20 @@
       ],
       "episode": "S26 E9",
       "icon": "https://www.fetchtv.com.au/v2/epg/program/5795073/image/334x188"
+    },
+    {
+      "start": "2026-06-14T16:40:00+05:00",
+      "stop": "2026-06-14T17:50:00+05:00",
+      "title": "24 Hours In Police Custody",
+      "sub_title": "Murder In The Woods, Pt. 1",
+      "desc": "Go behind the scenes of the police investigation into the premeditated and brutal murder of a young man in the middle of woodland.",
+      "language": "en",
+      "rating": "M",
+      "categories": [
+        "Special Interest"
+      ],
+      "episode": "S4 E19",
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/329505/image/334x188"
     }
   ]
 }
