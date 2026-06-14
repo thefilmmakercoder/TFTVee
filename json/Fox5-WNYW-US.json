@@ -4,72 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-14T14:30:00+05:00",
-      "stop": "2026-06-14T15:00:00+05:00",
-      "title": "The Sunday Mass",
-      "desc": "Sunday religious service.",
-      "date": "2000",
-      "language": "en",
-      "rating": "TVG",
-      "categories": [
-        "Religious"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p924409_b_h11_aa.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-06-14T15:00:00+05:00",
-      "stop": "2026-06-14T15:30:00+05:00",
-      "title": "Joel Osteen",
-      "desc": "Author and evangelist Joel Osteen spreads his message of love and hope as he preaches at the 30,000-plus member Lakewood Church in Houston. The program can be seen in more than 100 countries. Osteen urges people to live at their full potential and form a close relationship with God.",
-      "date": "1999",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Religious"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p32120412_b_h10_aa.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Joel Osteen"
-        ]
-      }
-    },
-    {
-      "start": "2026-06-14T15:30:00+05:00",
-      "stop": "2026-06-14T16:00:00+05:00",
-      "title": "Amazing Facts",
-      "desc": "Bible study proclaims God's good news to the world.",
-      "language": "en",
-      "rating": "TVG",
-      "categories": [
-        "Religious"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p328867_b_h10_aa.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Doug Batchelor"
-        ]
-      }
-    },
-    {
-      "start": "2026-06-14T16:00:00+05:00",
-      "stop": "2026-06-14T16:30:00+05:00",
-      "title": "Joel Osteen",
-      "desc": "Author and evangelist Joel Osteen spreads his message of love and hope as he preaches at the 30,000-plus member Lakewood Church in Houston. The program can be seen in more than 100 countries. Osteen urges people to live at their full potential and form a close relationship with God.",
-      "date": "1999",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Religious"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p32120412_b_h10_aa.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Joel Osteen"
-        ]
-      }
-    },
-    {
       "start": "2026-06-14T16:30:00+05:00",
       "stop": "2026-06-14T17:00:00+05:00",
       "title": "David Jeremiah",
@@ -210,6 +144,58 @@
       ],
       "episode": "E6",
       "icon": "http://dtil.tmsimg.com/assets/p33051802_b_h8_ac.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-06-14T22:00:00+05:00",
+      "stop": "2026-06-15T00:00:00+05:00",
+      "title": "Live: FIFA World Cup 2026",
+      "desc": "Germany take on Cura\u00e7ao in the Group E opener at Houston Stadium. Manuel Neuer reversed his international retirement to participate in his fifth World Cup. Cura\u00e7ao makes its debut against the four-time champions after a historic qualifying run.",
+      "language": "en",
+      "rating": "S",
+      "categories": [
+        "Sports",
+        "Soccer"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/GNLZZGG0035LC63.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-06-15T00:00:00+05:00",
+      "stop": "2026-06-15T01:00:00+05:00",
+      "title": "Live: FIFA World Cup Today",
+      "desc": "Hosts Rob Stone and Rebecca Lowe, with analysts like Zlatan Ibrahimovi\u0107, Thierry Henry, and Alexi Lalas, offer match insights and analysis.",
+      "date": "2026",
+      "language": "en",
+      "categories": [
+        "Series",
+        "Soccer"
+      ],
+      "episode": "E6",
+      "icon": "http://dtil.tmsimg.com/assets/p32962756_b_h8_ab.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-06-15T01:00:00+05:00",
+      "stop": "2026-06-15T03:00:00+05:00",
+      "title": "Live: FIFA World Cup 2026",
+      "desc": "Netherlands take on Japan in the Group F opener at Dallas Stadium. The three-time World Cup finalist was unbeaten in the UEFA qualifying campaign, while Japan makes its eighth appearance after becoming the first team outside the co-hosts to qualify.",
+      "language": "en",
+      "rating": "A",
+      "categories": [
+        "Sports",
+        "Soccer"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/GNLZZGG0035LC7D.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-06-15T03:00:00+05:00",
+      "stop": "2026-06-15T04:00:00+05:00",
+      "title": "The 6 O'Clock News",
+      "desc": "Local, national and international news.",
+      "date": "2021",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p19319065_b_h8_ab.jpg?w=960&h=540"
     }
   ]
 }

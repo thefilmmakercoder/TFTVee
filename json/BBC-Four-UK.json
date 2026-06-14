@@ -4,14 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-14T07:25:00+05:00",
-      "stop": "2026-06-14T09:30:00+05:00",
-      "title": "This is BBC Four",
-      "desc": "Programmes start at 7.00pm.",
-      "language": "en",
-      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/BBC-Four-UK.png"
-    },
-    {
       "start": "2026-06-14T09:30:00+05:00",
       "stop": "2026-06-14T15:30:00+05:00",
       "title": "..programmes start at 7.00pm",
@@ -126,6 +118,18 @@
         "Travel"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/df2ea35b-d267-433a-9def-4caa454f2bee/16-9"
+    },
+    {
+      "start": "2026-06-15T04:10:00+05:00",
+      "stop": "2026-06-15T05:00:00+05:00",
+      "title": "Michael Palin's Hemingway Adventure",
+      "desc": "Michael Palin starts in Chicago, before visiting a Michigan summer cottage where Hemingway fished. In Paris, Michael drives round the Arc de Triomphe in a tank.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Travel"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/e21c663e-58b1-4165-80ef-470897227664/16-9"
     }
   ]
 }

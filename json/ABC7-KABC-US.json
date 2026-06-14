@@ -4,59 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-14T14:30:00+05:00",
-      "stop": "2026-06-14T15:00:00+05:00",
-      "title": "The Aging Brain",
-      "desc": "Learn what's behind mental decline with age, and how to improve memory, focus and concentration with NeuroQ's Darrin Peterson and Dale Bredesen MD.",
-      "language": "en",
-      "categories": [
-        "Consumer"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p30127108_st_h10_aa.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-06-14T15:00:00+05:00",
-      "stop": "2026-06-14T15:30:00+05:00",
-      "title": "Paid Programming",
-      "desc": "Paid programming.",
-      "language": "en",
-      "rating": "TVG",
-      "categories": [
-        "Consumer",
-        "Shopping",
-        "Variety"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-06-14T15:30:00+05:00",
-      "stop": "2026-06-14T16:00:00+05:00",
-      "title": "Paid Programming",
-      "desc": "Paid programming.",
-      "language": "en",
-      "rating": "TVG",
-      "categories": [
-        "Consumer",
-        "Shopping",
-        "Variety"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-06-14T16:00:00+05:00",
-      "stop": "2026-06-14T16:30:00+05:00",
-      "title": "Paid Programming",
-      "desc": "Paid programming.",
-      "language": "en",
-      "rating": "TVG",
-      "categories": [
-        "Consumer",
-        "Shopping",
-        "Variety"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-06-14T16:30:00+05:00",
       "stop": "2026-06-14T17:00:00+05:00",
       "title": "Paid Programming",
@@ -177,6 +124,82 @@
         "Parade"
       ],
       "icon": "http://dtil.tmsimg.com/assets/p16957437_st_h10_aa.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-06-14T23:30:00+05:00",
+      "stop": "2026-06-15T00:00:00+05:00",
+      "title": "Live: Baseball Tonight",
+      "desc": "If you're a fan of baseball, then you won't want to miss this show featuring highlights of all the games and updates of ones still in progress. Regularly hosted by Karl Ravech, he's joined by a rotating panel of analysts that includes former players and managers, plus reporters such as Tim Kurkjian and Buster Olney. Other hosts include Adnan Virk and Jon Sciambi.",
+      "date": "1993",
+      "language": "en",
+      "categories": [
+        "News",
+        "Baseball"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p337588_b_h10_ak.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Karl Ravech"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-15T00:00:00+05:00",
+      "stop": "2026-06-15T03:00:00+05:00",
+      "title": "Live: MLB Baseball",
+      "desc": "The San Francisco Giants host the Chicago Cubs in Game 3 of a three-game series. Chicago outfielder Ian Happ anchors the visitor lineup while San Francisco pitcher Landen Roupp takes the mound at Oracle Park in a National League clash.",
+      "language": "en",
+      "categories": [
+        "Sports",
+        "Baseball"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/GNLZZGG00368PVP.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-06-15T03:00:00+05:00",
+      "stop": "2026-06-15T03:30:00+05:00",
+      "title": "The Champion's Edge with Bonnie Bernstein",
+      "sub_title": "Dr. Seun Adigun: From Performane to Purpose",
+      "desc": "Two-time Olympian Dr. Seun Adigun is expanding the boundaries of sports and medicine.",
+      "date": "2026",
+      "language": "en",
+      "categories": [
+        "Series",
+        "Sports talk",
+        "Interview"
+      ],
+      "episode": "S1 E3",
+      "icon": "http://dtil.tmsimg.com/assets/p32928958_b_h8_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Bonnie Bernstein",
+          "Seun Adigun"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-15T03:30:00+05:00",
+      "stop": "2026-06-15T04:00:00+05:00",
+      "title": "Jack Hanna's Passport",
+      "sub_title": "In a World of Giants",
+      "desc": "Looking at some of the largest animals on Earth; elephants in Zimbabwe; gorillas in Gabon's Loango national park; ostriches in the Caribbean; relocating a grizzly bear in the wilds of Montana.",
+      "date": "2024",
+      "language": "en",
+      "categories": [
+        "Series",
+        "Animals",
+        "Educational"
+      ],
+      "episode": "S1 E5",
+      "icon": "http://dtil.tmsimg.com/assets/p26975705_b_h8_aa.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Guy Nickerson"
+        ],
+        "actor": [
+          "Alfonso Ribeiro"
+        ]
+      }
     }
   ]
 }

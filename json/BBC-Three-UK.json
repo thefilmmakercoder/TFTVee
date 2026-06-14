@@ -4,14 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-14T08:00:00+05:00",
-      "stop": "2026-06-14T09:30:00+05:00",
-      "title": "This is BBC Three",
-      "desc": "Programmes start at 7.00pm.",
-      "language": "en",
-      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/BBC-Three-UK.png"
-    },
-    {
       "start": "2026-06-14T09:30:00+05:00",
       "stop": "2026-06-14T15:30:00+05:00",
       "title": "..programmes start at 7.00pm",
@@ -125,6 +117,18 @@
         "Movie"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/db1631e3-7764-47a0-8362-2650f5bf07e5/16-9"
+    },
+    {
+      "start": "2026-06-15T04:25:00+05:00",
+      "stop": "2026-06-15T04:40:00+05:00",
+      "title": "Disclosure: Do I Have ADHD?",
+      "desc": "Kirsty Craib believes she has ADHD and has spent the last eight years trying to get assessed, without success.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Factual"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/58b462c6-2ed8-4f1f-bab7-f915ee2023b3/16-9"
     }
   ]
 }
