@@ -4,94 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-14T11:00:00+05:00",
-      "stop": "2026-06-14T11:35:00+05:00",
-      "title": "CBS LA at 11pm",
-      "desc": "Join the CBS LA team for stories from communities around SoCal, breaking news from The Desk, and NEXT Weather from the Weathersphere.",
-      "date": "2025",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p31308578_b_h10_aa.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-06-14T11:35:00+05:00",
-      "stop": "2026-06-14T12:00:00+05:00",
-      "title": "Sports Central",
-      "desc": "KCBS delivers a comprehensive news and entertainment experience, specializing in award-winning local journalism, live breaking news coverage for the Los Angeles metropolitan area, and a premier lineup of CBS network dramas, comedies, and sporting events.",
-      "date": "2023",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p26402663_b_h10_ac.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-06-14T12:00:00+05:00",
-      "stop": "2026-06-14T12:30:00+05:00",
-      "title": "Inside Edition Weekend",
-      "desc": "A news magazine show covering entertainment news and celebrity reports; investigative reports dig into top stories and human interest headlines.",
-      "date": "2026",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Series",
-        "Talk"
-      ],
-      "episode": "S38 E40",
-      "icon": "http://dtil.tmsimg.com/assets/p186638_b_h10_ac.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Mary Calvi"
-        ]
-      }
-    },
-    {
-      "start": "2026-06-14T12:30:00+05:00",
-      "stop": "2026-06-14T13:00:00+05:00",
-      "title": "Game Time With Boomer Esiason",
-      "desc": "The former NFL quarterback interviews compelling figures in the sports and entertainment industries.",
-      "date": "2019",
-      "language": "en",
-      "categories": [
-        "Sports talk",
-        "Interview"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p17167704_b_h8_ac.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Boomer Esiason"
-        ]
-      }
-    },
-    {
-      "start": "2026-06-14T13:00:00+05:00",
-      "stop": "2026-06-14T14:00:00+05:00",
-      "title": "Fire Country",
-      "sub_title": "Too Many Unknowns",
-      "desc": "The crews respond to a chemical plant after a dangerous toxic spill goes up in flames.",
-      "date": "2024",
-      "language": "en",
-      "rating": "TV14",
-      "categories": [
-        "Series",
-        "Drama"
-      ],
-      "episode": "S2 E4",
-      "icon": "http://dtil.tmsimg.com/assets/p22213607_b_h8_al.jpg?w=960&h=540",
-      "credits": {
-        "director": [
-          "Nicole Rubio"
-        ],
-        "actor": [
-          "Max Thieriot",
-          "Billy Burke",
-          "Kevin Alejandro"
-        ]
-      }
-    },
-    {
       "start": "2026-06-14T14:00:00+05:00",
       "stop": "2026-06-14T15:00:00+05:00",
       "title": "Fire Country",
@@ -215,6 +127,79 @@
           "JD Vance"
         ]
       }
+    },
+    {
+      "start": "2026-06-14T19:30:00+05:00",
+      "stop": "2026-06-14T20:30:00+05:00",
+      "title": "Face the Nation",
+      "desc": "Secretary of Defense Pete Hegseth; Sen. Mark Kelly (D-Ariz.); Sen. Mark Warner (D-Va.); IBM Vice Chairman Gary Cohn.",
+      "date": "2026",
+      "language": "en",
+      "categories": [
+        "Series",
+        "Talk",
+        "News",
+        "Public affairs",
+        "Politics"
+      ],
+      "episode": "E24",
+      "icon": "http://dtil.tmsimg.com/assets/p184331_b_h8_ac.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Margaret Brennan",
+          "Pete Hegseth",
+          "Mark Kelly"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-14T20:30:00+05:00",
+      "stop": "2026-06-14T21:00:00+05:00",
+      "title": "CBS LA at 8:30am",
+      "desc": "Stay informed with the latest breaking news and headlines.",
+      "date": "2026",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p32046835_st_h10_aa.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-06-14T21:00:00+05:00",
+      "stop": "2026-06-14T21:30:00+05:00",
+      "title": "Cindy Crawford talks about the latest breakthroughs in skincare",
+      "desc": "Join Cindy Crawford as she talks to real customers about the breakthrough skincare system that keeps them looking their best. Take a trip to the stunning French countryside to see the rare French melon that defies the aging process.",
+      "language": "en",
+      "categories": [
+        "Consumer"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p29044745_b_h8_aa.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-06-14T21:30:00+05:00",
+      "stop": "2026-06-14T22:00:00+05:00",
+      "title": "Korn Ferry Presents",
+      "sub_title": "All-Access - Colonial Life Charity Classic",
+      "desc": "A behind-the-scenes look at a week on the Korn Ferry Tour in South Carolina. Follow former Vanderbilt teammates Jackson Van Paris and Cole Sherwood along with SEC rival and former Florida Gator Ian Gilligan as they navigate the Palmetto State event.",
+      "date": "2026",
+      "language": "en",
+      "categories": [
+        "Series",
+        "Golf"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p30068976_b_h8_aa.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-06-14T22:00:00+05:00",
+      "stop": "2026-06-15T00:00:00+05:00",
+      "title": "Live: LPGA Tour Golf",
+      "desc": "The final round of the Dow Championship. From Midland Country Club in Midland, Mich.",
+      "language": "en",
+      "categories": [
+        "Sports",
+        "Golf"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p32945710_b_h10_aa.jpg?w=960&h=540"
     }
   ]
 }

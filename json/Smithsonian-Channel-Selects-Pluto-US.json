@@ -4,69 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-14T10:00:00+05:00",
-      "stop": "2026-06-14T11:00:00+05:00",
-      "title": "America in Color",
-      "sub_title": "The 1960s",
-      "desc": "Revisit America during the turbulent 1960s, as we bring the dawn of modern America to colorful life.",
-      "date": "20170730",
-      "language": "en",
-      "categories": [
-        "History",
-        "Educational",
-        "Series"
-      ],
-      "episode": "S01E05",
-      "icon": "https://images.pluto.tv/series/61243518d343140013d451c0/tile.jpg?fill=blur&fit=fill&fm=jpg&h=900&q=75&w=900"
-    },
-    {
-      "start": "2026-06-14T11:00:00+05:00",
-      "stop": "2026-06-14T12:00:00+05:00",
-      "title": "America in Color",
-      "sub_title": "Coming to America",
-      "desc": "A look at the immigrant experience in America during the early 1900s, told through colorized home movies and archival footage.",
-      "date": "20191118",
-      "language": "en",
-      "categories": [
-        "Series",
-        "Documentary"
-      ],
-      "episode": "S03E01",
-      "icon": "https://images.pluto.tv/series/61243518d343140013d451c0/tile.jpg?fill=blur&fit=fill&fm=jpg&h=900&q=75&w=900"
-    },
-    {
-      "start": "2026-06-14T12:00:00+05:00",
-      "stop": "2026-06-14T13:00:00+05:00",
-      "title": "America\u2019s Secret Space Heroes",
-      "sub_title": "Saturn V",
-      "desc": "Witness the incredible story of the engineers who built the mighty rocket that put man on the moon: the Saturn V.",
-      "date": "20170514",
-      "language": "en",
-      "categories": [
-        "History",
-        "Educational",
-        "Series"
-      ],
-      "episode": "S01E01",
-      "icon": "https://images.pluto.tv/series/61b13bc4303dc2001469a897/tile.jpg?fill=blur&fit=fill&fm=jpg&h=900&q=75&w=900"
-    },
-    {
-      "start": "2026-06-14T13:00:00+05:00",
-      "stop": "2026-06-14T14:00:00+05:00",
-      "title": "America\u2019s Secret Space Heroes",
-      "sub_title": "Hubble Telescope",
-      "desc": "The history of the Hubble Telescope, as told by the brilliant minds and mavericks who built and repaired it.",
-      "date": "20170611",
-      "language": "en",
-      "categories": [
-        "History",
-        "Educational",
-        "Series"
-      ],
-      "episode": "S01E05",
-      "icon": "https://images.pluto.tv/series/61b13bc4303dc2001469a897/tile.jpg?fill=blur&fit=fill&fm=jpg&h=900&q=75&w=900"
-    },
-    {
       "start": "2026-06-14T14:00:00+05:00",
       "stop": "2026-06-14T15:00:00+05:00",
       "title": "America\u2019s Secret Space Heroes",
@@ -75,8 +12,8 @@
       "date": "20170521",
       "language": "en",
       "categories": [
-        "History",
         "Educational",
+        "History",
         "Series"
       ],
       "episode": "S01E02",
@@ -91,8 +28,8 @@
       "date": "20170618",
       "language": "en",
       "categories": [
-        "History",
         "Educational",
+        "History",
         "Series"
       ],
       "episode": "S01E06",
@@ -107,8 +44,8 @@
       "date": "20170528",
       "language": "en",
       "categories": [
-        "History",
         "Educational",
+        "History",
         "Series"
       ],
       "episode": "S01E03",
@@ -123,8 +60,8 @@
       "date": "20160410",
       "language": "en",
       "categories": [
-        "Series",
-        "Reality"
+        "Reality",
+        "Series"
       ],
       "episode": "S01E05",
       "icon": "https://images.pluto.tv/series/612433b0256bf20015ada072/tile.jpg?fill=blur&fit=fill&fm=jpg&h=900&q=75&w=900"
@@ -138,8 +75,8 @@
       "date": "20160320",
       "language": "en",
       "categories": [
-        "Series",
-        "Reality"
+        "Reality",
+        "Series"
       ],
       "episode": "S01E02",
       "icon": "https://images.pluto.tv/series/612433b0256bf20015ada072/tile.jpg?fill=blur&fit=fill&fm=jpg&h=900&q=75&w=900"
@@ -153,8 +90,8 @@
       "date": "20160403",
       "language": "en",
       "categories": [
-        "Series",
-        "Reality"
+        "Reality",
+        "Series"
       ],
       "episode": "S01E04",
       "icon": "https://images.pluto.tv/series/612433b0256bf20015ada072/tile.jpg?fill=blur&fit=fill&fm=jpg&h=900&q=75&w=900"
@@ -168,8 +105,8 @@
       "date": "20220410",
       "language": "en",
       "categories": [
-        "Series",
-        "Documentary"
+        "Documentary",
+        "Series"
       ],
       "episode": "S03E07",
       "icon": "https://images.pluto.tv/series/651b4b70d193e8001bebef36/tile_1760883484335.jpg?fill=blur&fit=fill&fm=jpg&h=900&q=75&w=900"
@@ -183,11 +120,67 @@
       "date": "20230326",
       "language": "en",
       "categories": [
-        "Series",
-        "Documentary"
+        "Documentary",
+        "Series"
       ],
       "episode": "S04E01",
       "icon": "https://images.pluto.tv/series/651b4b70d193e8001bebef36/tile_1760883484335.jpg?fill=blur&fit=fill&fm=jpg&h=900&q=75&w=900"
+    },
+    {
+      "start": "2026-06-14T22:00:00+05:00",
+      "stop": "2026-06-14T23:00:00+05:00",
+      "title": "Combat Ships",
+      "sub_title": "Top Guns",
+      "desc": "A look at how navy weapons have evolved over the centuries, from cannons to gun turrets to nuclear missiles and beyond.",
+      "date": "20220403",
+      "language": "en",
+      "categories": [
+        "Documentary",
+        "Series"
+      ],
+      "episode": "S03E06",
+      "icon": "https://images.pluto.tv/series/651b4b70d193e8001bebef36/tile_1760883484335.jpg?fill=blur&fit=fill&fm=jpg&h=900&q=75&w=900"
+    },
+    {
+      "start": "2026-06-14T23:00:00+05:00",
+      "stop": "2026-06-15T00:00:00+05:00",
+      "title": "Combat Ships",
+      "sub_title": "The Battle of Incheon",
+      "desc": "A comprehensive look at the world's last great amphibious invasion, the 1950 Battle of Incheon, and the combat ships that led the assault.",
+      "date": "20220313",
+      "language": "en",
+      "categories": [
+        "Documentary",
+        "Series"
+      ],
+      "episode": "S03E03",
+      "icon": "https://images.pluto.tv/series/651b4b70d193e8001bebef36/tile_1760883484335.jpg?fill=blur&fit=fill&fm=jpg&h=900&q=75&w=900"
+    },
+    {
+      "start": "2026-06-15T00:00:00+05:00",
+      "stop": "2026-06-15T01:00:00+05:00",
+      "title": "Uncommon Courage: Breakout at Chosin",
+      "desc": "Meet Lt. Chew-Een Lee, whose patriotism, leadership, and bravery in 1950 during the Korean War ushered in a new era in the Marines, and in America. \"The Forgotten War\" gave us an unforgettable hero.",
+      "date": "20100601",
+      "language": "en",
+      "categories": [
+        "Documentary",
+        "Movie"
+      ],
+      "icon": "https://images.pluto.tv/episodes/5fa98cde8b78ef001aa1f409/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694"
+    },
+    {
+      "start": "2026-06-15T01:00:00+05:00",
+      "stop": "2026-06-15T01:45:00+05:00",
+      "title": "World's Smallest Planes",
+      "desc": "Watch pilots of the puny use their extraordinary ingenuity to create remarkable one-man flying machines.",
+      "date": "20070929",
+      "language": "en",
+      "categories": [
+        "Documentary",
+        "Movie"
+      ],
+      "icon": "https://images.pluto.tv/episodes/6094b204d9b0ce0014e442fc/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694"
     }
   ]
 }

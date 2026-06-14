@@ -4,54 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-14T08:40:00+05:00",
-      "stop": "2026-06-14T10:00:00+05:00",
-      "title": "BBC News",
-      "desc": "BBC One joins the BBC's rolling news channel for a night of news.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/576aa0fd-bc6c-460a-b2a0-4758285504aa/16-9"
-    },
-    {
-      "start": "2026-06-14T10:00:00+05:00",
-      "stop": "2026-06-14T13:00:00+05:00",
-      "title": "Breakfast",
-      "desc": "The latest news, sport, business and weather from the BBC's Breakfast team.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/9ec52aa1-6ec3-426b-ae71-84a77d5bd071/16-9"
-    },
-    {
-      "start": "2026-06-14T13:00:00+05:00",
-      "stop": "2026-06-14T14:00:00+05:00",
-      "title": "Sunday with Laura Kuenssberg",
-      "desc": "The big names behind the big stories. Laura Kuenssberg talks to those making the news, inside and outside politics.",
-      "language": "en",
-      "categories": [
-        "Entertainment",
-        "Factual"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/67752119-2b32-4ac7-b054-f5419d41f154/16-9"
-    },
-    {
-      "start": "2026-06-14T14:00:00+05:00",
-      "stop": "2026-06-14T14:30:00+05:00",
-      "title": "Politics London",
-      "desc": "The latest political news, interviews and debate.",
-      "language": "en",
-      "categories": [
-        "Entertainment",
-        "Factual"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/8a9d5979-0111-4b9d-890c-1f2d798c6b42/16-9"
-    },
-    {
       "start": "2026-06-14T14:30:00+05:00",
       "stop": "2026-06-14T15:00:00+05:00",
       "title": "Prayer and Reflection from Islandmagee Presbyterian Church",
@@ -145,6 +97,53 @@
         "Tennis"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/ca7621ab-ca01-46e5-8883-68f9b09bb259/16-9"
+    },
+    {
+      "start": "2026-06-14T19:45:00+05:00",
+      "stop": "2026-06-14T20:25:00+05:00",
+      "title": "The Americas",
+      "desc": "This episode focuses on the behaviour of animals living in the Caribbean, including sailfish, sperm whales, red land crabs, purple-throated Carib hummingbirds and capuchin monkeys.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Factual"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/0852e654-461a-42a5-9853-701ac38dfcf5/16-9"
+    },
+    {
+      "start": "2026-06-14T20:25:00+05:00",
+      "stop": "2026-06-14T21:50:00+05:00",
+      "title": "Shrek Forever After",
+      "desc": "Rumpelstiltskin fools Shrek, who is suffering from a midlife crisis, into being erased from existence and placed in a sinister alternative reality.",
+      "language": "en",
+      "categories": [
+        "Movie"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/edf1ef01-7f50-472c-9054-a26db0d9f8d4/16-9"
+    },
+    {
+      "start": "2026-06-14T21:50:00+05:00",
+      "stop": "2026-06-14T22:05:00+05:00",
+      "title": "BBC News",
+      "desc": "The latest national and international news from the BBC.",
+      "language": "en",
+      "categories": [
+        "News & Documentary",
+        "News"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/fbcd9045-7e9c-4dc9-aaa6-0d96f12eb60d/16-9"
+    },
+    {
+      "start": "2026-06-14T22:05:00+05:00",
+      "stop": "2026-06-14T22:10:00+05:00",
+      "title": "BBC London News",
+      "desc": "The latest news, sport and weather from London.",
+      "language": "en",
+      "categories": [
+        "News & Documentary",
+        "News"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/1436314c-bf9a-43d7-8e42-5f23897c65d5/16-9"
     }
   ]
 }
