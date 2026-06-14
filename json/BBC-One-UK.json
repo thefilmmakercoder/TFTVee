@@ -4,18 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-14T17:10:00+05:00",
-      "stop": "2026-06-14T17:15:00+05:00",
-      "title": "Weather for the Week Ahead",
-      "desc": "Detailed weather forecast.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/e954e46b-382c-47c2-8f12-b9fcf09721f5/16-9"
-    },
-    {
       "start": "2026-06-14T17:15:00+05:00",
       "stop": "2026-06-14T19:45:00+05:00",
       "title": "Tennis: Queen's Final",
@@ -145,6 +133,18 @@
         "News"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/322b34cd-5d84-4d13-b5a8-90546c6e2362/16-9"
+    },
+    {
+      "start": "2026-06-15T02:25:00+05:00",
+      "stop": "2026-06-15T02:30:00+05:00",
+      "title": "BBC London News",
+      "desc": "The latest news, sport and weather from London.",
+      "language": "en",
+      "categories": [
+        "News & Documentary",
+        "News"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/9d8d919b-cd4e-48c3-98a9-89a3d7de46ca/16-9"
     }
   ]
 }
