@@ -4,52 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-14T18:00:00+05:00",
-      "stop": "2026-06-14T19:30:00+05:00",
-      "title": "CBS News Sunday Morning",
-      "desc": "The use of time capsules; Vice President JD Vance and his wife, second lady Usha Vance; an art exhibit celebrating iconic moments of World Cup soccer; the history of the Houston Astrodome; actor Bill Mumy; Japan's secret to avoiding obesity; actor Ted Danson.",
-      "date": "2026",
-      "language": "en",
-      "categories": [
-        "Series",
-        "Talk",
-        "Newsmagazine"
-      ],
-      "episode": "E24",
-      "icon": "http://dtil.tmsimg.com/assets/p185497_b_h8_ac.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Jane Pauley",
-          "Mo Rocca",
-          "JD Vance"
-        ]
-      }
-    },
-    {
-      "start": "2026-06-14T19:30:00+05:00",
-      "stop": "2026-06-14T20:30:00+05:00",
-      "title": "Face the Nation",
-      "desc": "Secretary of Defense Pete Hegseth; Sen. Mark Kelly (D-Ariz.); Sen. Mark Warner (D-Va.); IBM Vice Chairman Gary Cohn.",
-      "date": "2026",
-      "language": "en",
-      "categories": [
-        "Series",
-        "Talk",
-        "News",
-        "Public affairs",
-        "Politics"
-      ],
-      "episode": "E24",
-      "icon": "http://dtil.tmsimg.com/assets/p184331_b_h8_ac.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Margaret Brennan",
-          "Pete Hegseth",
-          "Mark Kelly"
-        ]
-      }
-    },
-    {
       "start": "2026-06-14T20:30:00+05:00",
       "stop": "2026-06-14T21:00:00+05:00",
       "title": "CBS LA at 8:30am",
@@ -189,6 +143,54 @@
         "News"
       ],
       "icon": "http://dtil.tmsimg.com/assets/p31308575_b_h10_aa.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-06-15T07:00:00+05:00",
+      "stop": "2026-06-15T08:00:00+05:00",
+      "title": "60 Minutes",
+      "sub_title": "Here Comes the Humanoids; The Empty Rooms; Lamine Yamal",
+      "desc": "Boston Dynamics' humanoid, AI-powered robot Atlas learns to perform factory work at Hyundai's new auto plant in Georgia; the rooms of children killed in school shootings across the United States; soccer player Lamine Yamal.",
+      "date": "2026",
+      "language": "en",
+      "categories": [
+        "Series",
+        "Newsmagazine"
+      ],
+      "episode": "S58 E37",
+      "icon": "http://dtil.tmsimg.com/assets/p31308310_b_h10_ae.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Lesley Stahl",
+          "Scott Pelley",
+          "Anderson Cooper"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-15T08:00:00+05:00",
+      "stop": "2026-06-15T09:00:00+05:00",
+      "title": "Marshals",
+      "sub_title": "The Devil at Home",
+      "desc": "As they uncover a drug cartel targeting the Broken Rock Reservation, the Marshals race to locate Miles, only to discover that he has gone rogue to hunt down a trafficker.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "Series",
+        "Drama"
+      ],
+      "episode": "S1 E12",
+      "icon": "http://dtil.tmsimg.com/assets/p31739615_b_h8_ab.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Ruben Garcia"
+        ],
+        "actor": [
+          "Luke Grimes",
+          "Logan Marshall-Green",
+          "Arielle Kebbel"
+        ]
+      }
     }
   ]
 }

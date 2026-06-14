@@ -4,42 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-14T18:00:00+05:00",
-      "stop": "2026-06-14T19:00:00+05:00",
-      "title": "Good Morning America",
-      "desc": "Early morning news and entertainment program that covers important issues with key figures from around the world and a wide spectrum of topics, including medicine, finance, consumer issues, computer technology, education and gardening.",
-      "date": "2026",
-      "language": "en",
-      "categories": [
-        "Series",
-        "Talk",
-        "News",
-        "Variety",
-        "Public affairs"
-      ],
-      "episode": "E189",
-      "icon": "http://dtil.tmsimg.com/assets/p31385280_b_h10_aa.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Whit Johnson",
-          "Janai Norman",
-          "Gio Benitez"
-        ]
-      }
-    },
-    {
-      "start": "2026-06-14T19:00:00+05:00",
-      "stop": "2026-06-14T20:00:00+05:00",
-      "title": "Eyewitness News 7AM",
-      "desc": "News coverage to start the day.",
-      "date": "2004",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p677007_b_h8_ae.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-06-14T20:00:00+05:00",
       "stop": "2026-06-14T21:00:00+05:00",
       "title": "This Week With George Stephanopoulos",
@@ -218,6 +182,31 @@
           "Ginger Zee"
         ]
       }
+    },
+    {
+      "start": "2026-06-15T05:00:00+05:00",
+      "stop": "2026-06-15T08:00:00+05:00",
+      "title": "Live: 2026 Stanley Cup Final",
+      "desc": "The Vegas Golden Knights and Carolina Hurricanes meet in Game 6 of the Stanley Cup Final. The visiting Hurricanes protect a 3-2 series edge behind goalie Brandon Bussi's 23 saves from Game 5, while Vegas counters with sharp offense on home ice.",
+      "language": "en",
+      "categories": [
+        "Sports",
+        "Playoff sports",
+        "Hockey"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/GNLZZGG00364XY5.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-06-15T08:00:00+05:00",
+      "stop": "2026-06-15T09:00:00+05:00",
+      "title": "Eyewitness News",
+      "desc": "Stay informed with the latest breaking news and headlines.",
+      "date": "2025",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p31785684_st_h10_aa.jpg?w=960&h=540"
     }
   ]
 }

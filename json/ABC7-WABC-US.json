@@ -4,62 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-14T18:00:00+05:00",
-      "stop": "2026-06-14T19:00:00+05:00",
-      "title": "Eyewitness News Sunday Morning",
-      "desc": "News coverage to start the day.",
-      "date": "2017",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p13769020_b_h8_ab.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-06-14T19:00:00+05:00",
-      "stop": "2026-06-14T20:00:00+05:00",
-      "title": "This Week With George Stephanopoulos",
-      "desc": "U.S. Ambassador to the United Nations Mike Waltz; former U.S. Deputy Secretary of State Wendy Sherman; Rapidan Energy Group CEO Bob McNally; roundtable discussion with Donna Brazile, Chris Christie, Faiz Shakir and Patrick McHenry.",
-      "date": "2026",
-      "language": "en",
-      "categories": [
-        "Series",
-        "Talk",
-        "News",
-        "Public affairs",
-        "Politics"
-      ],
-      "episode": "E24",
-      "icon": "http://dtil.tmsimg.com/assets/p185302_b_h8_aa.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "George Stephanopoulos",
-          "Martha Raddatz",
-          "Jonathan Karl"
-        ]
-      }
-    },
-    {
-      "start": "2026-06-14T20:00:00+05:00",
-      "stop": "2026-06-14T20:30:00+05:00",
-      "title": "Eyewitness News Up Close",
-      "desc": "Getting to the heart of the matter, whether it\u2019s about how things are working in government, or how they\u2019re not working; it shows how public-policy decisions are made.",
-      "date": "2000",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Newsmagazine",
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p677248_st_h10_ab.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Bill Ritter",
-          "Eyewitness News Anchors"
-        ]
-      }
-    },
-    {
       "start": "2026-06-14T20:30:00+05:00",
       "stop": "2026-06-14T21:00:00+05:00",
       "title": "Tiempo",
@@ -192,6 +136,84 @@
         "News"
       ],
       "icon": "http://dtil.tmsimg.com/assets/p13769039_b_h8_ab.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-06-15T09:00:00+05:00",
+      "stop": "2026-06-15T10:00:00+05:00",
+      "title": "The Rookie",
+      "sub_title": "Life and Death",
+      "desc": "Officer Nolan and the entire team race against the clock to locate Lopez after she is kidnapped on her wedding day, not only to save her life but her unborn child's.",
+      "date": "2021",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "Series",
+        "Crime drama",
+        "Action"
+      ],
+      "episode": "S4 E1",
+      "icon": "http://dtil.tmsimg.com/assets/p15523389_b_h8_bc.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Bill Roe"
+        ],
+        "actor": [
+          "Nathan Fillion",
+          "Mekia Cox",
+          "Alyssa Diaz"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-15T10:00:00+05:00",
+      "stop": "2026-06-15T11:00:00+05:00",
+      "title": "The Rookie",
+      "sub_title": "Five Minutes",
+      "desc": "Officer Nolan and Officer Chen's run-in with an infamous thief tips them off to a potentially big heist surrounding the Getty's big gala event; Nolan works up the courage to ask Bailey out on a date.",
+      "date": "2021",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Crime drama",
+        "Action"
+      ],
+      "episode": "S4 E2",
+      "icon": "http://dtil.tmsimg.com/assets/p15523389_b_h8_bc.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Lisa Demaine"
+        ],
+        "actor": [
+          "Nathan Fillion",
+          "Mekia Cox",
+          "Alyssa Diaz"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-15T11:00:00+05:00",
+      "stop": "2026-06-15T12:00:00+05:00",
+      "title": "Murdoch Mysteries",
+      "sub_title": "Rhapsody in Blood",
+      "desc": "Murdoch suspects the murder of a fledgling composer may have been motivated by jealousy.",
+      "date": "2024",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Drama",
+        "Mystery"
+      ],
+      "episode": "S17 E20",
+      "icon": "http://dtil.tmsimg.com/assets/p811777_b_h8_at.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Yannick Bisson",
+          "Helene Joy",
+          "Jonny Harris"
+        ]
+      }
     }
   ]
 }

@@ -4,18 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-14T17:15:00+05:00",
-      "stop": "2026-06-14T19:45:00+05:00",
-      "title": "Tennis: Queen's Final",
-      "desc": "Live coverage from day 7 of the 2026 Queen's tennis tournament.",
-      "language": "en",
-      "categories": [
-        "Sports",
-        "Tennis"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/ca7621ab-ca01-46e5-8883-68f9b09bb259/16-9"
-    },
-    {
       "start": "2026-06-14T19:45:00+05:00",
       "stop": "2026-06-14T20:25:00+05:00",
       "title": "The Americas",
@@ -145,6 +133,18 @@
         "News"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/9d8d919b-cd4e-48c3-98a9-89a3d7de46ca/16-9"
+    },
+    {
+      "start": "2026-06-15T02:30:00+05:00",
+      "stop": "2026-06-15T03:15:00+05:00",
+      "title": "Outrageous",
+      "desc": "It's 1931, and the Mitford siblings are having a pool party.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Drama"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/958a79b0-2e1a-4795-a233-561b8cf5cb48/16-9"
     }
   ]
 }

@@ -4,52 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-14T18:00:00+05:00",
-      "stop": "2026-06-14T19:30:00+05:00",
-      "title": "CBS News Sunday Morning",
-      "desc": "The use of time capsules; Vice President JD Vance and his wife, second lady Usha Vance; an art exhibit celebrating iconic moments of World Cup soccer; the history of the Houston Astrodome; actor Bill Mumy; Japan's secret to avoiding obesity; actor Ted Danson.",
-      "date": "2026",
-      "language": "en",
-      "categories": [
-        "Series",
-        "Talk",
-        "Newsmagazine"
-      ],
-      "episode": "E24",
-      "icon": "http://dtil.tmsimg.com/assets/p185497_b_h8_ac.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Jane Pauley",
-          "Mo Rocca",
-          "JD Vance"
-        ]
-      }
-    },
-    {
-      "start": "2026-06-14T19:30:00+05:00",
-      "stop": "2026-06-14T20:30:00+05:00",
-      "title": "Face the Nation",
-      "desc": "Secretary of Defense Pete Hegseth; Sen. Mark Kelly (D-Ariz.); Sen. Mark Warner (D-Va.); IBM Vice Chairman Gary Cohn.",
-      "date": "2026",
-      "language": "en",
-      "categories": [
-        "Series",
-        "Talk",
-        "News",
-        "Public affairs",
-        "Politics"
-      ],
-      "episode": "E24",
-      "icon": "http://dtil.tmsimg.com/assets/p184331_b_h8_ac.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Margaret Brennan",
-          "Pete Hegseth",
-          "Mark Kelly"
-        ]
-      }
-    },
-    {
       "start": "2026-06-14T20:30:00+05:00",
       "stop": "2026-06-14T21:00:00+05:00",
       "title": "The Point",
@@ -218,6 +172,45 @@
           "Chris Lee"
         ]
       }
+    },
+    {
+      "start": "2026-06-15T07:00:00+05:00",
+      "stop": "2026-06-15T08:00:00+05:00",
+      "title": "Marshals",
+      "sub_title": "Wolves at the Door",
+      "desc": "After an assassination attempt against Broken Rock chairman Rainwater, Kayce protects him while the Marshals race to discover who's targeting him; when a militia attacks, Kayce realizes the conspiracy is larger than anyone imagined.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "Series",
+        "Drama"
+      ],
+      "episode": "S1 E13",
+      "icon": "http://dtil.tmsimg.com/assets/p31739615_b_h8_ab.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Chris Chulack"
+        ],
+        "actor": [
+          "Luke Grimes",
+          "Logan Marshall-Green",
+          "Arielle Kebbel"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-15T08:00:00+05:00",
+      "stop": "2026-06-15T08:35:00+05:00",
+      "title": "CBS News New York 11pm",
+      "desc": "Local news coverage.",
+      "date": "2011",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p8492450_b_h8_ab.jpg?w=960&h=540"
     }
   ]
 }
