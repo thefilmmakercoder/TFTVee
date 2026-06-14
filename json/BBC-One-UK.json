@@ -4,42 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-14T02:30:00+05:00",
-      "stop": "2026-06-14T05:10:00+05:00",
-      "title": "MOTD Live: Brazil v Morocco",
-      "desc": "Live coverage from New York of the opening match in Group C between Brazil and Morocco.",
-      "language": "en",
-      "categories": [
-        "Sports",
-        "Football"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/0bcd556d-1652-41b3-bc6b-23ac2ed2286d/16-9"
-    },
-    {
-      "start": "2026-06-14T05:10:00+05:00",
-      "stop": "2026-06-14T08:35:00+05:00",
-      "title": "MOTD Live: Haiti v Scotland",
-      "desc": "Coverage of the Group C match between Haiti and Scotland from Boston Stadium.",
-      "language": "en",
-      "categories": [
-        "Sports",
-        "Football"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/da6d6450-d03b-4c5f-ad51-ac63afa4d151/16-9"
-    },
-    {
-      "start": "2026-06-14T08:35:00+05:00",
-      "stop": "2026-06-14T08:40:00+05:00",
-      "title": "Weather for the Week Ahead",
-      "desc": "Detailed weather forecast.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/435e3fc4-8001-4b9b-b97e-507574da9691/16-9"
-    },
-    {
       "start": "2026-06-14T08:40:00+05:00",
       "stop": "2026-06-14T10:00:00+05:00",
       "title": "BBC News",
@@ -145,6 +109,42 @@
         "Factual"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/b7dc8541-aead-4ba0-9d82-659c97c42eb5/16-9"
+    },
+    {
+      "start": "2026-06-14T17:00:00+05:00",
+      "stop": "2026-06-14T17:10:00+05:00",
+      "title": "BBC News",
+      "desc": "The latest national and international news from the BBC.",
+      "language": "en",
+      "categories": [
+        "News & Documentary",
+        "News"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/fd6d57f2-54ea-4e21-9c85-d76a6e26befb/16-9"
+    },
+    {
+      "start": "2026-06-14T17:10:00+05:00",
+      "stop": "2026-06-14T17:15:00+05:00",
+      "title": "Weather for the Week Ahead",
+      "desc": "Detailed weather forecast.",
+      "language": "en",
+      "categories": [
+        "News & Documentary",
+        "News"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/e954e46b-382c-47c2-8f12-b9fcf09721f5/16-9"
+    },
+    {
+      "start": "2026-06-14T17:15:00+05:00",
+      "stop": "2026-06-14T19:45:00+05:00",
+      "title": "Tennis: Queen's Final",
+      "desc": "Live coverage from day 7 of the 2026 Queen's tennis tournament.",
+      "language": "en",
+      "categories": [
+        "Sports",
+        "Tennis"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/ca7621ab-ca01-46e5-8883-68f9b09bb259/16-9"
     }
   ]
 }

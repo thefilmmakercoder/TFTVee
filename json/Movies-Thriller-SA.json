@@ -4,31 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-14T04:50:06+05:00",
-      "stop": "2026-06-14T06:50:06+05:00",
-      "title": "The Water Diviner",
-      "desc": "An Australian farmer goes in search of his three missing sons, last known to have fought against the Turks in the Battle of Gallipoli.",
-      "language": "en",
-      "categories": [
-        "War",
-        "Drama"
-      ],
-      "icon": "https://shahid.mbc.net/mediaObject/20333ede-1d91-4046-8fd1-586b688cf98e"
-    },
-    {
-      "start": "2026-06-14T06:50:06+05:00",
-      "stop": "2026-06-14T08:35:06+05:00",
-      "title": "The Words",
-      "desc": "A writer at the peak of his literary success discovers the price he must pay for stealing another man\u2019s work.",
-      "language": "en",
-      "categories": [
-        "Drama",
-        "Mystery",
-        "Romantic"
-      ],
-      "icon": "https://shahid.mbc.net/mediaObject/2021/Bedour/bedour2/bedour/final/Thump_the_words/original/Thump_the_words.jpg"
-    },
-    {
       "start": "2026-06-14T08:35:06+05:00",
       "stop": "2026-06-14T10:25:06+05:00",
       "title": "Insidious",
@@ -52,9 +27,9 @@
       "desc": "A stunt rider finds out that he has a son from a previous relationship and decides to forgo his way of life to take care of his new family.",
       "language": "en",
       "categories": [
+        "Crime",
         "Drama",
-        "Thriller",
-        "Crime"
+        "Thriller"
       ],
       "icon": "https://shahid.mbc.net/mediaObject/Waseem/1042/original/1042.jpg"
     },
@@ -78,8 +53,8 @@
       "language": "en",
       "categories": [
         "Drama",
-        "Mystery",
-        "Romantic"
+        "Romantic",
+        "Mystery"
       ],
       "icon": "https://shahid.mbc.net/mediaObject/2021/Bedour/bedour2/bedour/final/Thump_the_words/original/Thump_the_words.jpg"
     },
@@ -122,9 +97,9 @@
       "desc": "A high school senior gets caught up in the thrill of a popular online game which begins to take a sinister turn with increasingly dangerous acts.",
       "language": "en",
       "categories": [
+        "Crime",
         "Thriller",
         "Action",
-        "Crime",
         "Adventure"
       ],
       "icon": "https://shahid.mbc.net/mediaObject/2021/Bedour/bedour2/bedour/final/Thump_nerve/original/Thump_nerve.jpg"
@@ -136,8 +111,8 @@
       "desc": "Two couples\u2019 getaway in what seems to be the perfect rental house turns into something more sinister when they suspect that their host may be spying on them.",
       "language": "en",
       "categories": [
-        "Drama",
         "Horror",
+        "Drama",
         "Mystery"
       ],
       "icon": "https://shahid.mbc.net/mediaObject/2023/AmrAhmed/May/Thump_The_Rental/original/Thump_The_Rental.jpg"
@@ -154,6 +129,52 @@
         "Comedy"
       ],
       "icon": "https://shahid.mbc.net/mediaObject/88080f99-3892-4c3f-b531-d93fcd4aac38"
+    },
+    {
+      "start": "2026-06-15T01:40:06+05:00",
+      "stop": "2026-06-15T03:25:06+05:00",
+      "title": "Above Suspicion",
+      "desc": "A newly married FBI agent becomes involved with his informant, setting them both on a collision course with deadly consequences.",
+      "language": "en",
+      "categories": [
+        "Excitement",
+        "Crime",
+        "Suspense",
+        "Thriller",
+        "Western",
+        "Excitement",
+        "Crime",
+        "Suspense",
+        "Thriller",
+        "Western"
+      ]
+    },
+    {
+      "start": "2026-06-15T03:25:06+05:00",
+      "stop": "2026-06-15T05:10:06+05:00",
+      "title": "Nerve",
+      "desc": "A high school senior gets caught up in the thrill of a popular online game which begins to take a sinister turn with increasingly dangerous acts.",
+      "language": "en",
+      "categories": [
+        "Crime",
+        "Thriller",
+        "Action",
+        "Adventure"
+      ],
+      "icon": "https://shahid.mbc.net/mediaObject/2021/Bedour/bedour2/bedour/final/Thump_nerve/original/Thump_nerve.jpg"
+    },
+    {
+      "start": "2026-06-15T05:10:06+05:00",
+      "stop": "2026-06-15T06:50:06+05:00",
+      "title": "The Rental",
+      "desc": "Two couples\u2019 getaway in what seems to be the perfect rental house turns into something more sinister when they suspect that their host may be spying on them.",
+      "language": "en",
+      "categories": [
+        "Horror",
+        "Drama",
+        "Mystery"
+      ],
+      "icon": "https://shahid.mbc.net/mediaObject/2023/AmrAhmed/May/Thump_The_Rental/original/Thump_The_Rental.jpg"
     }
   ]
 }

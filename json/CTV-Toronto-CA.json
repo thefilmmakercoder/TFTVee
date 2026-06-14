@@ -4,58 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-14T05:00:00+05:00",
-      "stop": "2026-06-14T05:45:00+05:00",
-      "title": "Live: TSN at the World Cup",
-      "desc": "TSN coverage of the 2026 FIFA Men's World Cup from Canada, United States and Mexico.",
-      "date": "2026",
-      "language": "en",
-      "categories": [
-        "Series",
-        "Soccer"
-      ],
-      "episode": "E6",
-      "icon": "http://dtil.tmsimg.com/assets/p32987414_b_h8_ab.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-06-14T05:45:00+05:00",
-      "stop": "2026-06-14T08:00:00+05:00",
-      "title": "Live: FIFA World Cup 2026",
-      "desc": "Haiti plays Scotland in a historic Group C match at Boston Stadium as World Cup play continues. Heavy favorite Scotland returns to the global stage for the first time since 1998, while Haiti makes its first tournament appearance since 1974.",
-      "language": "en",
-      "categories": [
-        "Sports",
-        "Soccer"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/GNLZZGG0035L7L3.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-06-14T08:00:00+05:00",
-      "stop": "2026-06-14T08:45:00+05:00",
-      "title": "Live: TSN at the World Cup",
-      "desc": "TSN coverage of the 2026 FIFA Men's World Cup from Canada, United States and Mexico.",
-      "date": "2026",
-      "language": "en",
-      "categories": [
-        "Series",
-        "Soccer"
-      ],
-      "episode": "E5",
-      "icon": "http://dtil.tmsimg.com/assets/p32987414_b_h8_ab.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-06-14T08:45:00+05:00",
-      "stop": "2026-06-14T11:00:00+05:00",
-      "title": "Live: FIFA World Cup 2026",
-      "desc": "Australia takes on Turkey in the second match of Group D at BC Place in Vancouver. This is their first competitive meeting, but they have a head-to-head record consisting of two friendly matches played in May 2004, with Turkey winning both fixtures.",
-      "language": "en",
-      "categories": [
-        "Sports",
-        "Soccer"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/GNLZZGG0035LBPM.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-06-14T11:00:00+05:00",
       "stop": "2026-06-14T11:30:00+05:00",
       "title": "Live: World Cup Tonight",
@@ -210,6 +158,86 @@
         "Variety"
       ],
       "icon": "http://dtil.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-06-14T15:00:00+05:00",
+      "stop": "2026-06-14T15:30:00+05:00",
+      "title": "CTV News Toronto",
+      "desc": "CTV News covers stories that matter to Canadians, locally, nationally and internationally.",
+      "date": "2014",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p11226977_b_h8_ae.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-06-14T15:30:00+05:00",
+      "stop": "2026-06-14T16:00:00+05:00",
+      "title": "CTV National News With Heather Butts",
+      "desc": "CTV News covers stories that matter to Canadians - locally, nationally, & internationally.",
+      "date": "2026",
+      "language": "en",
+      "categories": [
+        "Series",
+        "News"
+      ],
+      "episode": "E71",
+      "icon": "http://dtil.tmsimg.com/assets/p26024787_b_h8_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Heather Butts"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-14T16:00:00+05:00",
+      "stop": "2026-06-14T17:00:00+05:00",
+      "title": "CTV Your Morning Weekend",
+      "desc": "Delivering original perspectives and unique insights into the headlines of the day to Canadians from coast-to-coast-to-coast.",
+      "date": "2026",
+      "language": "en",
+      "categories": [
+        "Series",
+        "News",
+        "Talk"
+      ],
+      "episode": "E30",
+      "icon": "http://dtil.tmsimg.com/assets/p20961604_b_h8_ac.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Anne-Marie Mediwake",
+          "Lindsey Deluce"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-14T17:00:00+05:00",
+      "stop": "2026-06-14T17:30:00+05:00",
+      "title": "The Littlest Hobo",
+      "sub_title": "The Three Monkeys of Bah Roghar",
+      "desc": "Valuable statues disappear from a hotel.",
+      "date": "1984",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Series",
+        "Drama",
+        "Adventure",
+        "Animals"
+      ],
+      "episode": "S6 E2 P1/2",
+      "icon": "http://dtil.tmsimg.com/assets/p507740_b_h10_ac.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Mario Azzopardi"
+        ],
+        "actor": [
+          "Diana Barrington",
+          "George Buza",
+          "Chas Lawther"
+        ]
+      }
     }
   ]
 }
