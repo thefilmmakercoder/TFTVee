@@ -4,26 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-14T20:00:00+05:00",
-      "stop": "2026-06-14T21:00:00+05:00",
-      "title": "Question Period",
-      "desc": "Discussions with key players in Canadian politics.",
-      "date": "2026",
-      "language": "en",
-      "categories": [
-        "Series",
-        "Public affairs",
-        "Newsmagazine"
-      ],
-      "episode": "E22",
-      "icon": "http://dtil.tmsimg.com/assets/p279015_b_h8_aa.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Evan Solomon"
-        ]
-      }
-    },
-    {
       "start": "2026-06-14T21:00:00+05:00",
       "stop": "2026-06-14T21:45:00+05:00",
       "title": "Live: World Cup Today",
@@ -208,6 +188,18 @@
           "Heather Butts"
         ]
       }
+    },
+    {
+      "start": "2026-06-15T08:30:00+05:00",
+      "stop": "2026-06-15T09:00:00+05:00",
+      "title": "Live: CTV News Toronto",
+      "desc": "CTV News covers stories that matter to Canadians, locally, nationally and internationally.",
+      "date": "2014",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p11226977_b_h8_ae.jpg?w=960&h=540"
     }
   ]
 }

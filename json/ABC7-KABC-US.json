@@ -4,42 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-14T20:00:00+05:00",
-      "stop": "2026-06-14T21:00:00+05:00",
-      "title": "This Week With George Stephanopoulos",
-      "desc": "U.S. Ambassador to the United Nations Mike Waltz; former U.S. Deputy Secretary of State Wendy Sherman; Rapidan Energy Group CEO Bob McNally; roundtable discussion with Donna Brazile, Chris Christie, Faiz Shakir and Patrick McHenry.",
-      "date": "2026",
-      "language": "en",
-      "categories": [
-        "Series",
-        "Talk",
-        "News",
-        "Public affairs",
-        "Politics"
-      ],
-      "episode": "E24",
-      "icon": "http://dtil.tmsimg.com/assets/p185302_b_h8_aa.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "George Stephanopoulos",
-          "Martha Raddatz",
-          "Jonathan Karl"
-        ]
-      }
-    },
-    {
-      "start": "2026-06-14T21:00:00+05:00",
-      "stop": "2026-06-14T22:00:00+05:00",
-      "title": "Eyewitness News 9AM",
-      "desc": "KABC-TV delivers comprehensive local news and weather coverage for Southern California, specializing in breaking news, investigative reporting, and live community event broadcasts.",
-      "date": "2026",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p32929741_st_h10_aa.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-06-14T22:00:00+05:00",
       "stop": "2026-06-14T23:00:00+05:00",
       "title": "Eyewitness News 10AM",
@@ -207,6 +171,47 @@
         "News"
       ],
       "icon": "http://dtil.tmsimg.com/assets/p31785684_st_h10_aa.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-06-15T09:00:00+05:00",
+      "stop": "2026-06-15T09:30:00+05:00",
+      "title": "ABC World News Tonight With David Muir",
+      "desc": "Delivering the news that matters most.",
+      "date": "2026",
+      "language": "en",
+      "categories": [
+        "Series",
+        "News"
+      ],
+      "episode": "E165",
+      "icon": "http://dtil.tmsimg.com/assets/p10880351_b_h8_ah.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "David Muir"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-15T09:30:00+05:00",
+      "stop": "2026-06-15T10:30:00+05:00",
+      "title": "America's Funniest Home Videos",
+      "sub_title": "That's Using Your Noggin, The Great Outdoors, and Copy Cats",
+      "desc": "Kids say the funniest things; copycats steal the show; unexpected moments unfold in the great outdoors.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Reality",
+        "Comedy"
+      ],
+      "episode": "S36 E18",
+      "icon": "http://dtil.tmsimg.com/assets/p30740119_b_h8_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Alfonso Ribeiro"
+        ]
+      }
     }
   ]
 }

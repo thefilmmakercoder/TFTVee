@@ -4,18 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-14T20:25:00+05:00",
-      "stop": "2026-06-14T21:15:00+05:00",
-      "title": "Flog It!",
-      "desc": "Members of the public try and make money out of their antiques.",
-      "language": "en",
-      "categories": [
-        "Entertainment",
-        "Antiques"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/c2efd439-f9dd-4c5b-a0c0-252e7806bb4b/16-9"
-    },
-    {
       "start": "2026-06-14T21:15:00+05:00",
       "stop": "2026-06-14T22:15:00+05:00",
       "title": "This Farming Life",
@@ -139,6 +127,18 @@
       "desc": "Highlights of programmes on BBC Two.",
       "language": "en",
       "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/BBC-Two-UK.png"
+    },
+    {
+      "start": "2026-06-15T10:15:00+05:00",
+      "stop": "2026-06-15T11:15:00+05:00",
+      "title": "Homes Under the Hammer",
+      "desc": "Martin channels his inner Captain Mainwaring at a mid-terrace in Warminster in Wiltshire. And Dion feels like he is literally floating in a mystery room in Cheshire.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Factual"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/c4429003-1d23-4fda-be86-3e5f93139065/16-9"
     }
   ]
 }

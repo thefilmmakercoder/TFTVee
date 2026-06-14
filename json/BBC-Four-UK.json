@@ -4,30 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-14T09:30:00+05:00",
-      "stop": "2026-06-14T15:30:00+05:00",
-      "title": "..programmes start at 7.00pm",
-      "desc": "BBC Four provides an intelligent mix of arts, science, and history programming, offering deep-dive documentaries and world cinema for a curious audience.",
-      "language": "en",
-      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/BBC-Four-UK.png"
-    },
-    {
-      "start": "2026-06-14T15:30:00+05:00",
-      "stop": "2026-06-14T21:30:00+05:00",
-      "title": "..programmes start at 7.00pm",
-      "desc": "BBC Four provides an intelligent mix of arts, science, and history programming, offering deep-dive documentaries and world cinema for a curious audience.",
-      "language": "en",
-      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/BBC-Four-UK.png"
-    },
-    {
-      "start": "2026-06-14T21:30:00+05:00",
-      "stop": "2026-06-14T22:58:00+05:00",
-      "title": "..programmes start at 7.00pm",
-      "desc": "BBC Four provides an intelligent mix of arts, science, and history programming, offering deep-dive documentaries and world cinema for a curious audience.",
-      "language": "en",
-      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/BBC-Four-UK.png"
-    },
-    {
       "start": "2026-06-14T22:58:00+05:00",
       "stop": "2026-06-14T23:00:00+05:00",
       "title": "This is BBC Four",
@@ -130,6 +106,38 @@
         "Travel"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/e21c663e-58b1-4165-80ef-470897227664/16-9"
+    },
+    {
+      "start": "2026-06-15T05:00:00+05:00",
+      "stop": "2026-06-15T06:15:00+05:00",
+      "title": "Windrush: Portraits of a Generation",
+      "desc": "Following a remarkable project spearheaded by the King, this documentary sees leading artists create portraits of pioneering members of the Windrush Generation.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Arts"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/f4fae7b0-ebfe-3f62-b940-0d6ffcfe3ac7/16-9"
+    },
+    {
+      "start": "2026-06-15T06:15:00+05:00",
+      "stop": "2026-06-15T07:15:00+05:00",
+      "title": "The Modern Age of the Coach",
+      "desc": "Documentary bringing the story of the coach up to date, exploring the most recent phase of Britain's love affair with four-wheeled group travel from school trips to Indian treks.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Factual"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/73b125f7-9b3c-458f-931f-ce3cedb22dcf/16-9"
+    },
+    {
+      "start": "2026-06-15T07:15:00+05:00",
+      "stop": "2026-06-15T09:30:00+05:00",
+      "title": "This is BBC Four",
+      "desc": "Programmes start at 7.00pm.",
+      "language": "en",
+      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/BBC-Four-UK.png"
     }
   ]
 }
