@@ -4,18 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-15T02:00:00+05:00",
-      "stop": "2026-06-15T02:05:00+05:00",
-      "title": "FYI Daily",
-      "desc": "Latest news from the world of entertainment.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "Showbiz"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/9fab2662-0520-4265-bacb-b99669b4b6af/16-9"
-    },
-    {
       "start": "2026-06-15T02:05:00+05:00",
       "stop": "2026-06-15T03:35:00+05:00",
       "title": "Force 10 from Navarone",
@@ -154,6 +142,19 @@
         "Drama"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/a0a1cdcb-ddad-450d-af11-19bc74568445/16-9"
+    },
+    {
+      "start": "2026-06-15T14:10:00+05:00",
+      "stop": "2026-06-15T14:40:00+05:00",
+      "title": "River Monsters",
+      "sub_title": "Phantom Assassin",
+      "desc": "Extreme angler Jeremy Wade returns to Australia's Fitzroy river to catch the Glyphis shark, a fish that is so elusive that it was only found in the 21st century.",
+      "language": "en",
+      "categories": [
+        "News & Documentary",
+        "Adventure"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/76b1f6a8-cd03-45e1-ad94-3dd054a2a631/16-9"
     }
   ]
 }

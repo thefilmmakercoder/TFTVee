@@ -4,18 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-14T21:00:00+05:00",
-      "stop": "2026-06-15T00:15:00+05:00",
-      "title": "FIFA WC2026: Germany v Curacao",
-      "desc": "Live coverage of the 2026 FIFA World Cup match between four-time winners Germany and Curacao in Houston. The Caribbean island is the smallest nation to qualify for the World Cup.",
-      "language": "en",
-      "categories": [
-        "Sports",
-        "Football"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/9e43940b-7e8f-47ac-85ea-83e74e7175b7/16-9"
-    },
-    {
       "start": "2026-06-15T00:15:00+05:00",
       "stop": "2026-06-15T03:35:00+05:00",
       "title": "FIFA WC2026: Netherlands v Japan",
@@ -146,6 +134,18 @@
         "Chat Show"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/5b50d838-1f10-4631-b3a6-29a9ebcb7174/16-9"
+    },
+    {
+      "start": "2026-06-15T17:30:00+05:00",
+      "stop": "2026-06-15T17:55:00+05:00",
+      "title": "ITV Lunchtime News",
+      "desc": "The latest headlines from around the world at lunchtime with reports and analysis from ITV's Correspondents, all of which are followed by a national weather forecast.",
+      "language": "en",
+      "categories": [
+        "News & Documentary",
+        "News"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/08f813cd-3723-4c49-99c6-dfae8863328d/16-9"
     }
   ]
 }

@@ -4,72 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-15T01:30:00+05:00",
-      "stop": "2026-06-15T02:00:00+05:00",
-      "title": "Christopher Kimball's Milk Street Television",
-      "sub_title": "Best Italian Desserts",
-      "desc": "A six-ingredient no-cook recipe; a rustic ricotta and cherry jam tart from Rome; a biscotti bakery; a recipe for almond and citrus biscotti.",
-      "date": "2025",
-      "language": "en",
-      "rating": "TVG",
-      "categories": [
-        "Series",
-        "How-to",
-        "Cooking"
-      ],
-      "episode": "S9 E12",
-      "icon": "http://dtil.tmsimg.com/assets/p14396903_b_h8_ab.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Christopher Kimball"
-        ]
-      }
-    },
-    {
-      "start": "2026-06-15T02:00:00+05:00",
-      "stop": "2026-06-15T02:30:00+05:00",
-      "title": "America's Test Kitchen",
-      "sub_title": "Summer Decadence",
-      "desc": "Fresh peach pie with all-butter lattice top; sugar.",
-      "date": "2022",
-      "language": "en",
-      "rating": "TVG",
-      "categories": [
-        "Series",
-        "How-to",
-        "Cooking"
-      ],
-      "episode": "S22 E24",
-      "icon": "http://dtil.tmsimg.com/assets/p329266_b_h8_ag.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Bridget Lancaster",
-          "Julia Collin Davison"
-        ]
-      }
-    },
-    {
-      "start": "2026-06-15T02:30:00+05:00",
-      "stop": "2026-06-15T03:00:00+05:00",
-      "title": "Lidia's Kitchen",
-      "sub_title": "Easy Going Recipes",
-      "desc": "Winter minestrone that can be made with any hearty green; matelote-style mixed fish stew.",
-      "date": "2025",
-      "language": "en",
-      "rating": "TVG",
-      "categories": [
-        "Series",
-        "Cooking"
-      ],
-      "episode": "S12 E15",
-      "icon": "http://dtil.tmsimg.com/assets/p28148641_b_h10_aa.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Lidia Bastianich"
-        ]
-      }
-    },
-    {
       "start": "2026-06-15T03:00:00+05:00",
       "stop": "2026-06-15T03:30:00+05:00",
       "title": "History With David Rubenstein",
@@ -281,6 +215,84 @@
       ],
       "episode": "S39 E3",
       "icon": "http://dtil.tmsimg.com/assets/p29743532_b_h10_aa.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-06-15T13:00:00+05:00",
+      "stop": "2026-06-15T14:30:00+05:00",
+      "title": "Inspector George Gently",
+      "sub_title": "Goodbye China",
+      "desc": "Gently and Bacchus investigate the suspicious death of Gently's old friend, China.",
+      "date": "2011",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Series",
+        "Crime drama",
+        "Mystery"
+      ],
+      "episode": "S4 E2",
+      "icon": "http://dtil.tmsimg.com/assets/p8161901_b_h8_al.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Ciaran Donnelly",
+          "Daniel O'Hara",
+          "Gillies MacKinnon"
+        ],
+        "actor": [
+          "Lee Ingleby",
+          "Martin Shaw",
+          "Simon Hubbard"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-15T14:30:00+05:00",
+      "stop": "2026-06-15T15:00:00+05:00",
+      "title": "On Story",
+      "sub_title": "On Wicked: A Conversation With Winnie Holzman & Dana Fox",
+      "desc": "Writers Winnie Holzman and Dana Fox talk about their process of writing \"Wicked\" and \"Wicked: For Good.\".",
+      "date": "2026",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Interview",
+        "Entertainment"
+      ],
+      "episode": "S16 E1",
+      "icon": "http://dtil.tmsimg.com/assets/p8632202_b_h10_ab.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Winnie Holzman",
+          "Dana Fox"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-15T15:00:00+05:00",
+      "stop": "2026-06-15T15:30:00+05:00",
+      "title": "Arthur",
+      "sub_title": "The Pageant Pickle; Some Assembly Required",
+      "desc": "Arthur learns about making sacrifices when it comes time for D.W.'s spring pageant; D.W. tries to be patient while her new play set is put together.",
+      "date": "2015",
+      "language": "en",
+      "rating": "TVY",
+      "categories": [
+        "Series",
+        "Animated",
+        "Children",
+        "Educational",
+        "Animals"
+      ],
+      "episode": "S18 E9",
+      "icon": "http://dtil.tmsimg.com/assets/p10918009_b_h10_ab.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "William Healy",
+          "Bruce Dinsmore",
+          "Max Friedman Cole"
+        ]
+      }
     }
   ]
 }

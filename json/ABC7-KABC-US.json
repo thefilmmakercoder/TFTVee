@@ -4,36 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-14T23:30:00+05:00",
-      "stop": "2026-06-15T00:00:00+05:00",
-      "title": "Live: Baseball Tonight",
-      "desc": "If you're a fan of baseball, then you won't want to miss this show featuring highlights of all the games and updates of ones still in progress. Regularly hosted by Karl Ravech, he's joined by a rotating panel of analysts that includes former players and managers, plus reporters such as Tim Kurkjian and Buster Olney. Other hosts include Adnan Virk and Jon Sciambi.",
-      "date": "1993",
-      "language": "en",
-      "categories": [
-        "News",
-        "Baseball"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p337588_b_h10_ak.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Karl Ravech"
-        ]
-      }
-    },
-    {
-      "start": "2026-06-15T00:00:00+05:00",
-      "stop": "2026-06-15T03:00:00+05:00",
-      "title": "Live: MLB Baseball",
-      "desc": "The San Francisco Giants host the Chicago Cubs in Game 3 of a three-game series. Chicago outfielder Ian Happ anchors the visitor lineup while San Francisco pitcher Landen Roupp takes the mound at Oracle Park in a National League clash.",
-      "language": "en",
-      "categories": [
-        "Sports",
-        "Baseball"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/GNLZZGG00368PVP.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-06-15T03:00:00+05:00",
       "stop": "2026-06-15T03:30:00+05:00",
       "title": "The Champion's Edge with Bonnie Bernstein",
@@ -212,6 +182,42 @@
         "News"
       ],
       "icon": "http://dtil.tmsimg.com/assets/p676925_b_h8_af.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-06-15T11:35:00+05:00",
+      "stop": "2026-06-15T12:00:00+05:00",
+      "title": "ABC7's Sunday Night Sports",
+      "desc": "Fast-paced wrap-up of the day's sports news.",
+      "date": "2017",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p14526038_st_h10_aa.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-06-15T12:00:00+05:00",
+      "stop": "2026-06-15T13:00:00+05:00",
+      "title": "9-1-1",
+      "sub_title": "Parenthood",
+      "desc": "The 118 responds to calls dealing with parents and their children, including a disastrous birthday party thrown by a mommy blogger; Athena and Michael talk to May about her past suicide attempt; Chimney and Maddie adjust to life with their newborn.",
+      "date": "2021",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "Series",
+        "Drama",
+        "Action"
+      ],
+      "episode": "S4 E10",
+      "icon": "http://dtil.tmsimg.com/assets/p14154513_b_h8_bg.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Angela Bassett",
+          "Peter Krause",
+          "Oliver Stark"
+        ]
+      }
     }
   ]
 }

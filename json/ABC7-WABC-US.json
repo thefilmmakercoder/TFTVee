@@ -4,36 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-14T23:30:00+05:00",
-      "stop": "2026-06-15T00:00:00+05:00",
-      "title": "Live: Baseball Tonight",
-      "desc": "If you're a fan of baseball, then you won't want to miss this show featuring highlights of all the games and updates of ones still in progress. Regularly hosted by Karl Ravech, he's joined by a rotating panel of analysts that includes former players and managers, plus reporters such as Tim Kurkjian and Buster Olney. Other hosts include Adnan Virk and Jon Sciambi.",
-      "date": "1993",
-      "language": "en",
-      "categories": [
-        "News",
-        "Baseball"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p337588_b_h10_ak.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Karl Ravech"
-        ]
-      }
-    },
-    {
-      "start": "2026-06-15T00:00:00+05:00",
-      "stop": "2026-06-15T03:00:00+05:00",
-      "title": "Live: MLB Baseball",
-      "desc": "The San Francisco Giants host the Chicago Cubs in Game 3 of a three-game series. Chicago outfielder Ian Happ anchors the visitor lineup while San Francisco pitcher Landen Roupp takes the mound at Oracle Park in a National League clash.",
-      "language": "en",
-      "categories": [
-        "Sports",
-        "Baseball"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/GNLZZGG0034SJ8C.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-06-15T03:00:00+05:00",
       "stop": "2026-06-15T03:30:00+05:00",
       "title": "Eyewitness News at 6",
@@ -230,6 +200,30 @@
           "Hanna Battah"
         ]
       }
+    },
+    {
+      "start": "2026-06-15T13:30:00+05:00",
+      "stop": "2026-06-15T15:00:00+05:00",
+      "title": "Eyewitness News This Morning",
+      "desc": "News coverage to start the day.",
+      "date": "2007",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p677214_b_h8_ad.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-06-15T15:00:00+05:00",
+      "stop": "2026-06-15T16:00:00+05:00",
+      "title": "Eyewitness News This Morning",
+      "desc": "News coverage to start the day.",
+      "date": "2007",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p677214_b_h8_ad.jpg?w=960&h=540"
     }
   ]
 }

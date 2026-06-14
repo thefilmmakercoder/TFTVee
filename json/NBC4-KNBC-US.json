@@ -4,31 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-14T23:00:00+05:00",
-      "stop": "2026-06-15T01:00:00+05:00",
-      "title": "Live: OT7 Football",
-      "desc": "The OT7 championship is decided at Loyola Marymount's Sullivan Field in Los Angeles.",
-      "language": "en",
-      "categories": [
-        "Sports",
-        "Football"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p26972939_b_h8_aa.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-06-15T01:00:00+05:00",
-      "stop": "2026-06-15T03:00:00+05:00",
-      "title": "Live: Track and Field",
-      "desc": "Elite track and field athletes compete in the LA Grand Prix from Los Angeles.",
-      "language": "en",
-      "rating": "A",
-      "categories": [
-        "Sports",
-        "Track/field"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p516702_b_h10_af.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-06-15T03:00:00+05:00",
       "stop": "2026-06-15T03:30:00+05:00",
       "title": "Open House",
@@ -188,6 +163,35 @@
         "News"
       ],
       "icon": "http://dtil.tmsimg.com/assets/p27663717_b_h10_aa.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-06-15T12:00:00+05:00",
+      "stop": "2026-06-15T12:30:00+05:00",
+      "title": "In Touch With Dr. Charles Stanley",
+      "desc": "Charles Stanley, pastor of the First Baptist Church in Atlanta, shares his insights on Christian faith and enlightens viewers with spiritual motivation.",
+      "date": "1979",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Religious"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p32199893_b_h10_ab.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Charles Stanley"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-15T12:30:00+05:00",
+      "stop": "2026-06-15T13:00:00+05:00",
+      "title": "Dianetics: The Adventure of You",
+      "desc": "Explore the groundbreaking discoveries of Dianetics: The Modern Science of Mental Health. You'll learn how to eliminate stress, gain self-confidence and achieve your full potential. Begin the greatest adventure of all-the adventure you take.",
+      "language": "en",
+      "categories": [
+        "Consumer"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p31776869_b_h10_aa.jpg?w=960&h=540"
     }
   ]
 }

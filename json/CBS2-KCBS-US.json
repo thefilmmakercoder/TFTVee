@@ -4,18 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-14T22:00:00+05:00",
-      "stop": "2026-06-15T00:00:00+05:00",
-      "title": "Live: LPGA Tour Golf",
-      "desc": "The final round of the Dow Championship. From Midland Country Club in Midland, Mich.",
-      "language": "en",
-      "categories": [
-        "Sports",
-        "Golf"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p32945710_b_h10_aa.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-06-15T00:00:00+05:00",
       "stop": "2026-06-15T03:00:00+05:00",
       "title": "Live: PGA Tour Golf",
@@ -219,6 +207,18 @@
         "News"
       ],
       "icon": "http://dtil.tmsimg.com/assets/p31308578_b_h10_aa.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-06-15T11:35:00+05:00",
+      "stop": "2026-06-15T12:00:00+05:00",
+      "title": "Sports Central",
+      "desc": "KCBS delivers a comprehensive news and entertainment experience, specializing in award-winning local journalism, live breaking news coverage for the Los Angeles metropolitan area, and a premier lineup of CBS network dramas, comedies, and sporting events.",
+      "date": "2023",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p26402663_b_h10_ac.jpg?w=960&h=540"
     }
   ]
 }
