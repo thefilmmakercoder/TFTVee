@@ -4,14 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-14T22:30:00+05:00",
-      "stop": "2026-06-14T23:00:00+05:00",
-      "title": "Infomercials",
-      "desc": "TVNZ 1 is a major New Zealand free-to-air television channel operated by the state-owned Television New Zealand. It broadcasts a broad mix of programming, primarily focusing on news, current affairs, drama, entertainment, and factual shows.",
-      "language": "en",
-      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/TVNZ-1-NZ.png"
-    },
-    {
       "start": "2026-06-14T23:00:00+05:00",
       "stop": "2026-06-14T23:30:00+05:00",
       "title": "BNZ Business Breakfast",
@@ -106,6 +98,15 @@
       "title": "Te Karere",
       "desc": "Te Karere brings you key events and stories of interest to M\u0101ori as well as bringing a M\u0101ori perspective to the day's news and current affairs.",
       "language": "en",
+      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/TVNZ-1-NZ.png"
+    },
+    {
+      "start": "2026-06-15T09:30:00+05:00",
+      "stop": "2026-06-15T10:00:00+05:00",
+      "title": "Deal Or No Deal Australia",
+      "desc": "Join host Grant Denyer for a round of this high pressure and high stakes game show, where contestants face up to the Banker and must decide: is it Deal or No Deal?",
+      "language": "en",
+      "rating": "G",
       "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/TVNZ-1-NZ.png"
     }
   ]

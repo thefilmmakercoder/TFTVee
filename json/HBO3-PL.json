@@ -4,36 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-14T21:10:00+05:00",
-      "stop": "2026-06-14T22:10:00+05:00",
-      "title": "Lord Of The Flies",
-      "desc": "A film adaptation of William Golding's 1954 novel.A group of British boys on a desert island try to create fair rules.However, fear and power struggles lead to chaos and aggression.",
-      "date": "2026",
-      "language": "en",
-      "categories": [
-        "Action Series"
-      ],
-      "episode": "S1E4",
-      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/HBO3-PL.png",
-      "credits": {
-        "director": [
-          "Marc Munden"
-        ],
-        "actor": [
-          "Piggy - David McKenna",
-          "Ralph - Winston Sawyers",
-          "Jack - Lox Pratt",
-          "Simon - Ike Talbut",
-          "Roger - Thomas Connor",
-          "Sam - Noah Flemyng",
-          "Eric - Cassius Flemyng",
-          "Maurice - Cornelius Brandreth",
-          "Bill - Tom Page-Turner",
-          "Boy with Birthmark - Lake Coleman"
-        ]
-      }
-    },
-    {
       "start": "2026-06-14T22:10:00+05:00",
       "stop": "2026-06-15T00:00:00+05:00",
       "title": "Scott Pilgrim vs. the World",
@@ -341,6 +311,35 @@
           "Nino Sarratore as a teenager - Francesco Serpico",
           "Michele Solara as a teenager - Alessio Gallo",
           "Pinuccia Carracci as a teenager - Federica Sollazzo"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-15T13:50:00+05:00",
+      "stop": "2026-06-15T16:10:00+05:00",
+      "title": "First Man",
+      "desc": "The 1960s, the times of the Cold War.The USA and the USSR are engaged in an arms race.The competition also concerns the conquest of space.Test pilot and astronaut Neil Armstrong leads the pioneering Gemini 8 mission, which marks the first-ever docking of two spacecraft in orbit.The test does not go according to plan, as the daredevils lose control of the connected machines.Their lives hang in the balance.However, Neil demonstrates extraordinary skills and self-control, thanks to which he and his companion, David Scott, successfully return to Earth.A year after the tragedy of the Apollo 1 crew, who died during the launch simulation, Armstrong becomes commander of the Apollo 11 mission. It will go down in history.Its goal is to land a man on the Moon.",
+      "date": "2018",
+      "language": "en",
+      "categories": [
+        "Biographical Drama"
+      ],
+      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/HBO3-PL.png",
+      "credits": {
+        "director": [
+          "Damien Chazelle"
+        ],
+        "actor": [
+          "Neil Armstrong - Ryan Gosling",
+          "Janet Armstrong - Claire Foy",
+          "Ed White - Jason Clarke",
+          "Deke Slayton - Kyle Chandler",
+          "Buzz Aldrin - Corey Stoll",
+          "Elliot See - Patrick Fugit",
+          "Dave Scott - Christopher Abbott",
+          "Bob Gilruth - Ciar\u00e1n Hinds",
+          "Pat White - Olivia Hamilton",
+          "James Lovell - Pablo Schreiber"
         ]
       }
     }

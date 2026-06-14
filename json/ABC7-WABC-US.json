@@ -4,32 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-14T20:30:00+05:00",
-      "stop": "2026-06-14T21:00:00+05:00",
-      "title": "Tiempo",
-      "desc": "Hosted by Joe Torres.",
-      "date": "2000",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Public affairs"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p958784_b_h10_aa.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-06-14T21:00:00+05:00",
-      "stop": "2026-06-14T23:30:00+05:00",
-      "title": "National Puerto Rican Day Parade",
-      "desc": "Watch as News 4 and Telemundo 47 walk the parade route along Fifth Avenue.",
-      "date": "2025",
-      "language": "en",
-      "categories": [
-        "Special",
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p30373643_b_h10_ab.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-06-14T23:30:00+05:00",
       "stop": "2026-06-15T00:00:00+05:00",
       "title": "Live: Baseball Tonight",
@@ -212,6 +186,48 @@
           "Yannick Bisson",
           "Helene Joy",
           "Jonny Harris"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-15T12:00:00+05:00",
+      "stop": "2026-06-15T13:00:00+05:00",
+      "title": "This Week With George Stephanopoulos",
+      "desc": "U.S. Ambassador to the United Nations Mike Waltz; former U.S. Deputy Secretary of State Wendy Sherman; Rapidan Energy Group CEO Bob McNally; roundtable discussion with Donna Brazile, Chris Christie, Faiz Shakir and Patrick McHenry.",
+      "date": "2026",
+      "language": "en",
+      "categories": [
+        "Series",
+        "Talk",
+        "News",
+        "Public affairs",
+        "Politics"
+      ],
+      "episode": "E24",
+      "icon": "http://dtil.tmsimg.com/assets/p185302_b_h8_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "George Stephanopoulos",
+          "Martha Raddatz",
+          "Jonathan Karl"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-15T13:00:00+05:00",
+      "stop": "2026-06-15T13:30:00+05:00",
+      "title": "Good Morning America First Look",
+      "desc": "ABC's \"Good Morning America First Look\" brings one overnight breaking news, weather, politics, and the stories and video people will be talking about in the day ahead.",
+      "date": "2024",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p28311369_b_h8_ac.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Sophie Flay",
+          "Hanna Battah"
         ]
       }
     }

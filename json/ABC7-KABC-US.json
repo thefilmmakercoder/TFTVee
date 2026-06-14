@@ -4,30 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-14T22:00:00+05:00",
-      "stop": "2026-06-14T23:00:00+05:00",
-      "title": "Eyewitness News 10AM",
-      "desc": "KABC-TV delivers comprehensive local news and weather coverage for Southern California, specializing in breaking news, investigative reporting, and live community event broadcasts.",
-      "date": "2023",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p25365332_b_h8_aa.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-06-14T23:00:00+05:00",
-      "stop": "2026-06-14T23:30:00+05:00",
-      "title": "L.A. Pride Live",
-      "desc": "The L.A. Parade Celebrating the LGBTQ+ Community.",
-      "date": "2019",
-      "language": "en",
-      "categories": [
-        "Parade"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p16957437_st_h10_aa.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-06-14T23:30:00+05:00",
       "stop": "2026-06-15T00:00:00+05:00",
       "title": "Live: Baseball Tonight",
@@ -212,6 +188,30 @@
           "Alfonso Ribeiro"
         ]
       }
+    },
+    {
+      "start": "2026-06-15T10:30:00+05:00",
+      "stop": "2026-06-15T11:00:00+05:00",
+      "title": "Eyewitness News",
+      "desc": "Stay informed with the latest breaking news and headlines.",
+      "date": "2025",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p31785684_st_h10_aa.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-06-15T11:00:00+05:00",
+      "stop": "2026-06-15T11:35:00+05:00",
+      "title": "Eyewitness News 11PM",
+      "desc": "Local, national and international news.",
+      "date": "2004",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p676925_b_h8_af.jpg?w=960&h=540"
     }
   ]
 }

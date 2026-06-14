@@ -4,18 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-14T20:45:00+05:00",
-      "stop": "2026-06-14T21:00:00+05:00",
-      "title": "ITV News London",
-      "desc": "The latest news and weather from London and the South East.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/ee64210e-e8d9-4b68-9c1e-362b36221d4b/16-9"
-    },
-    {
       "start": "2026-06-14T21:00:00+05:00",
       "stop": "2026-06-15T00:15:00+05:00",
       "title": "FIFA WC2026: Germany v Curacao",
@@ -146,6 +134,18 @@
         "Magazine"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/4cf61f2c-2a69-4437-b96d-75e033faf36c/16-9"
+    },
+    {
+      "start": "2026-06-15T16:30:00+05:00",
+      "stop": "2026-06-15T17:30:00+05:00",
+      "title": "Loose Women",
+      "desc": "Join the Loose Women panellists as they interview celebrity guests and discuss the day's most topical issues, from current affairs to celebrity gossip and the latest showbiz news.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Chat Show"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/5b50d838-1f10-4631-b3a6-29a9ebcb7174/16-9"
     }
   ]
 }

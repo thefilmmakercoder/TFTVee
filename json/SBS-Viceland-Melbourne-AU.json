@@ -4,16 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-14T20:30:00+05:00",
-      "stop": "2026-06-14T21:05:00+05:00",
-      "title": "Creamerie",
-      "desc": "Desperate to save her worst best friend, Jamie and the team seek help from a group of survivors who don't want to be found. Jackson reveals valuable intel that could help - but can he be trusted?",
-      "language": "en",
-      "rating": "MA",
-      "episode": "S2 E2",
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/6034676/image/334x188"
-    },
-    {
       "start": "2026-06-14T21:05:00+05:00",
       "stop": "2026-06-15T00:00:00+05:00",
       "title": "NHK World English News",
@@ -157,6 +147,19 @@
         "News"
       ],
       "icon": "https://www.fetchtv.com.au/v2/epg/program/440794/image/334x188"
+    },
+    {
+      "start": "2026-06-15T05:00:00+05:00",
+      "stop": "2026-06-15T05:30:00+05:00",
+      "title": "France 24 English News",
+      "sub_title": "France 24 Eng. 1000 Viceland",
+      "desc": "International news and current affairs television from Paris, offering a French perspective on world events, in English.",
+      "language": "en",
+      "rating": "NR",
+      "categories": [
+        "News"
+      ],
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/310649/image/334x188"
     }
   ]
 }

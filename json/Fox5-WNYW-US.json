@@ -4,21 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-14T21:00:00+05:00",
-      "stop": "2026-06-14T22:00:00+05:00",
-      "title": "FIFA World Cup Live",
-      "desc": "Highlights and news stories of the day's action, including previews of upcoming matches.",
-      "date": "2026",
-      "language": "en",
-      "categories": [
-        "Series",
-        "Sports talk",
-        "Soccer"
-      ],
-      "episode": "E6",
-      "icon": "http://dtil.tmsimg.com/assets/p33051802_b_h8_ac.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-06-14T22:00:00+05:00",
       "stop": "2026-06-15T00:00:00+05:00",
       "title": "Live: FIFA World Cup 2026",
@@ -213,6 +198,28 @@
         "Sports talk"
       ],
       "icon": "http://dtil.tmsimg.com/assets/p692435_b_h8_aa.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-06-15T08:00:00+05:00",
+      "stop": "2026-06-15T08:30:00+05:00",
+      "title": "In Depth With Graham Bensinger",
+      "sub_title": "Reed Hastings",
+      "desc": "Netflix co-founder Reed Hastings sits down with Graham at Powder Mountain, Utah; Hastings reflects on his Peace Corps roots, the culture that defined Netflix, and the emerging AI threat he believes could disrupt everything he built.",
+      "date": "2026",
+      "language": "en",
+      "categories": [
+        "Series",
+        "Sports talk",
+        "Interview"
+      ],
+      "episode": "S16 E20",
+      "icon": "http://dtil.tmsimg.com/assets/p8178298_b_h8_ad.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Graham Bensinger",
+          "Reed Hastings"
+        ]
+      }
     }
   ]
 }

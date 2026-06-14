@@ -4,38 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-14T22:58:00+05:00",
-      "stop": "2026-06-14T23:00:00+05:00",
-      "title": "This is BBC Three",
-      "desc": "Programmes start at 7.00pm.",
-      "language": "en",
-      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/BBC-Three-UK.png"
-    },
-    {
-      "start": "2026-06-14T23:00:00+05:00",
-      "stop": "2026-06-14T23:30:00+05:00",
-      "title": "EastEnders Omnibus",
-      "desc": "George spars in the boxing gym, but things take a turn. Ian struggles with recent events. And Denise is urged to start treatment.",
-      "language": "en",
-      "categories": [
-        "Entertainment",
-        "Soap"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/de512f90-9921-4128-b85a-d1cc0448c4e5/16-9"
-    },
-    {
-      "start": "2026-06-14T23:30:00+05:00",
-      "stop": "2026-06-15T00:00:00+05:00",
-      "title": "EastEnders Omnibus",
-      "desc": "Kat plans a birthday dinner for Jasmine, Oscar wrestles with the feelings he has for both Josh and Jasmine, and Jack tries to get through to Denise.",
-      "language": "en",
-      "categories": [
-        "Entertainment",
-        "Soap"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/33d4ad8a-9a9e-49bc-b165-d3f7be55a798/16-9"
-    },
-    {
       "start": "2026-06-15T00:00:00+05:00",
       "stop": "2026-06-15T00:30:00+05:00",
       "title": "EastEnders Omnibus",
@@ -141,6 +109,34 @@
         "Factual"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/7b7674b9-41fa-3f05-b00a-d5f0bf54ee64/16-9"
+    },
+    {
+      "start": "2026-06-15T06:55:00+05:00",
+      "stop": "2026-06-15T07:55:00+05:00",
+      "title": "The Idaho Murders: Trial by TikTok",
+      "desc": "Zara is in Idaho, USA, where four student murders sparked a global online obsession. Contains some strong language and upsetting scenes.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Factual"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/4b022f52-9657-3d10-addc-399ff59ee33a/16-9"
+    },
+    {
+      "start": "2026-06-15T07:55:00+05:00",
+      "stop": "2026-06-15T09:30:00+05:00",
+      "title": "This is BBC Three",
+      "desc": "Programmes start at 7.00pm.",
+      "language": "en",
+      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/BBC-Three-UK.png"
+    },
+    {
+      "start": "2026-06-15T09:30:00+05:00",
+      "stop": "2026-06-15T15:30:00+05:00",
+      "title": "..programmes start at 7.00pm",
+      "desc": "BBC Three delivers bold and provocative content for younger audiences, featuring groundbreaking documentaries, experimental comedy, and fresh drama.",
+      "language": "en",
+      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/BBC-Three-UK.png"
     }
   ]
 }
