@@ -4,66 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-15T15:00:00+05:00",
-      "stop": "2026-06-15T16:00:00+05:00",
-      "title": "Good Day Wake Up 2",
-      "desc": "Morning news and entertainment.",
-      "date": "2009",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p706489_b_h8_ab.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-06-15T16:00:00+05:00",
-      "stop": "2026-06-15T18:00:00+05:00",
-      "title": "Good Day New York",
-      "desc": "Morning news.",
-      "date": "2007",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p706448_b_h8_ab.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-06-15T18:00:00+05:00",
-      "stop": "2026-06-15T19:00:00+05:00",
-      "title": "Good Day New York",
-      "desc": "Morning news.",
-      "date": "2007",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p706448_b_h8_ab.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-06-15T19:00:00+05:00",
-      "stop": "2026-06-15T20:00:00+05:00",
-      "title": "Sherri",
-      "sub_title": "Gloria Estefan",
-      "desc": "Gloria Estefan joins Sherri to talk about her legendary career and starring in \"Gabby's Dollhouse: The Movie\"; comic Earthquake visits Sherri's Laugh Lounge.",
-      "date": "2025",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Series",
-        "Talk",
-        "Interview"
-      ],
-      "episode": "S4 E6",
-      "icon": "http://dtil.tmsimg.com/assets/p21805765_b_h8_ab.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Sherri Shepherd",
-          "Gloria Estefan",
-          "Earthquake"
-        ]
-      }
-    },
-    {
       "start": "2026-06-15T20:00:00+05:00",
       "stop": "2026-06-15T21:00:00+05:00",
       "title": "FIFA World Cup Live",
@@ -184,6 +124,74 @@
           "Harvey Levin"
         ]
       }
+    },
+    {
+      "start": "2026-06-16T05:00:00+05:00",
+      "stop": "2026-06-16T06:02:00+05:00",
+      "title": "The 1% Club",
+      "sub_title": "Yes We Can...Get It Wrong",
+      "desc": "A contestant with a spot-on Barack Obama impression, a former \"Walking Dead\" zombie actor, and a past guest of \"The Jerry Springer Show\" are among the contestants.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "Series",
+        "Game show",
+        "Reality"
+      ],
+      "episode": "S2 E3",
+      "icon": "http://dtil.tmsimg.com/assets/p32460853_b_h8_ab.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Joel McHale"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-16T06:02:00+05:00",
+      "stop": "2026-06-16T07:00:00+05:00",
+      "title": "The Quiz With Balls",
+      "sub_title": "Football Rivals",
+      "desc": "Teams of NFL underdogs compete.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Game show"
+      ],
+      "episode": "S3 E4",
+      "icon": "http://dtil.tmsimg.com/assets/p26784239_b_h8_ah.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Jay Pharoah"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-16T07:00:00+05:00",
+      "stop": "2026-06-16T08:00:00+05:00",
+      "title": "The 10 O'Clock News",
+      "desc": "Local, national and international news.",
+      "date": "2021",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p19319081_b_h8_ab.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-06-16T08:00:00+05:00",
+      "stop": "2026-06-16T08:30:00+05:00",
+      "title": "Good Night New York",
+      "desc": "Christal Young and Ryan Kristafer's edgy perspective on entertainment and lifestyle news in NYC and beyond.",
+      "date": "2024",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "Newsmagazine"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p27878460_b_h8_aa.jpg?w=960&h=540"
     }
   ]
 }

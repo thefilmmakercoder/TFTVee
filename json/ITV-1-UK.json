@@ -4,66 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-15T14:00:00+05:00",
-      "stop": "2026-06-15T16:30:00+05:00",
-      "title": "This Morning",
-      "desc": "Magazine show with news and topical items, celebrity guests, expert advice, real-life stories, competitions and a mix of cookery, health, beauty, lifestyle and more.",
-      "language": "en",
-      "categories": [
-        "Entertainment",
-        "Magazine"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/4cf61f2c-2a69-4437-b96d-75e033faf36c/16-9"
-    },
-    {
-      "start": "2026-06-15T16:30:00+05:00",
-      "stop": "2026-06-15T17:30:00+05:00",
-      "title": "Loose Women",
-      "desc": "Join the Loose Women panellists as they interview celebrity guests and discuss the day's most topical issues, from current affairs to celebrity gossip and the latest showbiz news.",
-      "language": "en",
-      "categories": [
-        "Entertainment",
-        "Chat Show"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/5b50d838-1f10-4631-b3a6-29a9ebcb7174/16-9"
-    },
-    {
-      "start": "2026-06-15T17:30:00+05:00",
-      "stop": "2026-06-15T17:55:00+05:00",
-      "title": "ITV Lunchtime News",
-      "desc": "The latest headlines from around the world at lunchtime with reports and analysis from ITV's Correspondents, all of which are followed by a national weather forecast.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/08f813cd-3723-4c49-99c6-dfae8863328d/16-9"
-    },
-    {
-      "start": "2026-06-15T17:55:00+05:00",
-      "stop": "2026-06-15T18:00:00+05:00",
-      "title": "ITV News London",
-      "desc": "The latest news and weather from London and the South East.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/3a7b2025-e303-438d-ba43-ca87c0b8645b/16-9"
-    },
-    {
-      "start": "2026-06-15T18:00:00+05:00",
-      "stop": "2026-06-15T19:00:00+05:00",
-      "title": "Dickinson's Real Deal",
-      "desc": "The Tropicana in Weston-super-Mare plays host to the dealers' den. Mark Stevens parts with the pounds to pay for a plane ride.",
-      "language": "en",
-      "categories": [
-        "Entertainment",
-        "Antiques"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/1e527821-82b0-4272-ac0e-27e068c14ccc/16-9"
-    },
-    {
       "start": "2026-06-15T19:00:00+05:00",
       "stop": "2026-06-15T20:00:00+05:00",
       "title": "Deal or No Deal",
@@ -147,6 +87,66 @@
         "News"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/e2dca492-8c46-482f-b4d1-0d72b50ac11e/16-9"
+    },
+    {
+      "start": "2026-06-16T02:05:00+05:00",
+      "stop": "2026-06-16T02:15:00+05:00",
+      "title": "ITV News London",
+      "desc": "The latest news and weather from London and the South East.",
+      "language": "en",
+      "categories": [
+        "News & Documentary",
+        "News"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/347748a5-da36-4140-808e-bca2e1fc5dfd/16-9"
+    },
+    {
+      "start": "2026-06-16T02:15:00+05:00",
+      "stop": "2026-06-16T05:35:00+05:00",
+      "title": "FIFA WC2026: S. Arabia v Uruguay",
+      "desc": "Laura Woods hosts live coverage from the 2026 FIFA World Cup as Group H rivals Saudi Arabia and Uruguay face each other in Miami.",
+      "language": "en",
+      "categories": [
+        "Sports",
+        "Football"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/13df3460-706b-4381-b213-848cf12f104c/16-9"
+    },
+    {
+      "start": "2026-06-16T05:35:00+05:00",
+      "stop": "2026-06-16T07:25:00+05:00",
+      "title": "All Elite Wrestling: Dynamite",
+      "desc": "Hard-hitting action from the world of All Elite Wrestling - the roster features world-class talent including Jon Moxley, MJF, Ricochet and Adam Page.",
+      "language": "en",
+      "categories": [
+        "Sports",
+        "Wrestling"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/46b41472-8c98-40de-b8b4-37ca88bc5c5b/16-9"
+    },
+    {
+      "start": "2026-06-16T07:25:00+05:00",
+      "stop": "2026-06-16T08:20:00+05:00",
+      "title": "The Chase",
+      "desc": "Bradley Walsh guides four people who have never met before - Cat, Frank, Netty and Jaiden - as they take on a Chaser in the hope that they'll go home with thousands of pounds.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Game Show"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/c917d595-1013-4d93-a58c-2bf0c81fd8bc/16-9"
+    },
+    {
+      "start": "2026-06-16T08:20:00+05:00",
+      "stop": "2026-06-16T09:35:00+05:00",
+      "title": "Unwind with ITV",
+      "desc": "Your daily escape designed to calm the mind and encourage relaxation and reflection.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Lifestyles"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/4494929e-1f98-47c4-af5d-34d5d0f04978/16-9"
     }
   ]
 }

@@ -4,14 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-15T09:30:00+05:00",
-      "stop": "2026-06-15T15:30:00+05:00",
-      "title": "..programmes start at 7.00pm",
-      "desc": "BBC Three delivers bold and provocative content for younger audiences, featuring groundbreaking documentaries, experimental comedy, and fresh drama.",
-      "language": "en",
-      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/BBC-Three-UK.png"
-    },
-    {
       "start": "2026-06-15T15:30:00+05:00",
       "stop": "2026-06-15T21:30:00+05:00",
       "title": "..programmes start at 7.00pm",
@@ -129,6 +121,18 @@
         "Factual"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/b406ab3c-dddf-3fb8-a350-c9936f7dc7de/16-9"
+    },
+    {
+      "start": "2026-06-16T04:30:00+05:00",
+      "stop": "2026-06-16T05:15:00+05:00",
+      "title": "Confessions of a Teenage Fraudster",
+      "desc": "Elliot leaves prison in Canada determined to remain at large, but the net is closing in around him. Contains some strong language.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Factual"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/1a3147a3-f0d4-3675-b39c-6da2694723ec/16-9"
     }
   ]
 }
