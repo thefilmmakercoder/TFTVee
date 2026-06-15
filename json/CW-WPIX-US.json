@@ -4,43 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-16T01:00:00+05:00",
-      "stop": "2026-06-16T02:00:00+05:00",
-      "title": "PIX11 News at 4",
-      "desc": "Staying informed with the news and headlines.",
-      "date": "2021",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p20535966_b_h8_ab.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-06-16T02:00:00+05:00",
-      "stop": "2026-06-16T03:00:00+05:00",
-      "title": "PIX11 News at 5",
-      "desc": "Staying informed with the news and headlines.",
-      "date": "2014",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p10829683_b_h8_ab.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-06-16T03:00:00+05:00",
-      "stop": "2026-06-16T03:30:00+05:00",
-      "title": "Celebrating Asian Pacific Heritage",
-      "desc": "WPIX provides essential New York news, live sports, and CW network hits, serving as a cornerstone of local broadcasting for the tri-state area.",
-      "date": "2026",
-      "language": "en",
-      "categories": [
-        "Special",
-        "Community"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p33023010_st_h10_aa.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-06-16T03:30:00+05:00",
       "stop": "2026-06-16T04:00:00+05:00",
       "title": "Live: PIX on Politics: Race for NY-10",
@@ -215,6 +178,69 @@
           "Angus T. Jones"
         ]
       }
+    },
+    {
+      "start": "2026-06-16T10:00:00+05:00",
+      "stop": "2026-06-16T10:30:00+05:00",
+      "title": "The Big Bang Theory",
+      "sub_title": "The Locomotive Manipulation",
+      "desc": "Sheldon and Amy go on a trip to wine country with Howard and Bernadette; Penny and Leonard rush Raj's dog to the vet.",
+      "date": "2014",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Sitcom"
+      ],
+      "episode": "S7 E15",
+      "icon": "http://dtil.tmsimg.com/assets/p185554_b_h8_az.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Mark Cendrowski"
+        ],
+        "actor": [
+          "Johnny Galecki",
+          "Jim Parsons",
+          "Kaley Cuoco"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-16T10:30:00+05:00",
+      "stop": "2026-06-16T11:00:00+05:00",
+      "title": "Young Sheldon",
+      "sub_title": "A Swedish Science Thing and the Equation for Toast",
+      "desc": "Sheldon invites the entire school to a party for the Nobel Prize announcements; Meemaw learns more about Dr. Sturgis' past; Georgie's desire for cable TV leads to a standoff between him and George Sr.",
+      "date": "2019",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Sitcom"
+      ],
+      "episode": "S2 E22",
+      "icon": "http://dtil.tmsimg.com/assets/p13923677_b_h8_ac.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Jaffar Mahmood"
+        ],
+        "actor": [
+          "Iain Armitage",
+          "Zoe Perry",
+          "Lance Barber"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-16T11:00:00+05:00",
+      "stop": "2026-06-16T11:30:00+05:00",
+      "title": "Peter Popoff Ministries",
+      "desc": "For over 30 years, Reverend Peter Popoff has provided spiritual direction and powerful testimonies to receive God's blessings in your life.",
+      "language": "en",
+      "categories": [
+        "Consumer"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p12072954_b_h10_aa.jpg?w=960&h=540"
     }
   ]
 }
