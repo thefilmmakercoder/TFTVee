@@ -4,84 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-15T01:00:00+05:00",
-      "stop": "2026-06-15T03:00:00+05:00",
-      "title": "M3GAN",
-      "desc": "M3GAN is a marvel of artificial intelligence, a lifelike doll that's programmed to be a child's greatest companion and a parent's greatest ally. Designed by Gemma, a brilliant roboticist, M3GAN can listen, watch and learn as it plays the role of friend and teacher, playmate and protector. When Gemma becomes the unexpected caretaker of her 8-year-old niece, she decides to give the girl a M3GAN prototype, a decision that leads to unimaginable consequences.",
-      "date": "2022",
-      "language": "en",
-      "rating": "PG-13",
-      "categories": [
-        "Movie",
-        "Horror",
-        "Thriller",
-        "Science fiction"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p21514424_v_h8_ah.jpg?w=960&h=540",
-      "credits": {
-        "director": [
-          "Gerard Johnstone"
-        ],
-        "actor": [
-          "Allison Williams",
-          "Violet McGraw",
-          "Ronny Chieng"
-        ]
-      }
-    },
-    {
-      "start": "2026-06-15T03:00:00+05:00",
-      "stop": "2026-06-15T05:30:00+05:00",
-      "title": "Bumblebee",
-      "desc": "On the run in the year 1987, Bumblebee the Autobot seeks refuge in a junkyard in a small California beach town. Charlie, on the brink of turning 18 years old and trying to find her place in the world, soon discovers the battle-scarred and broken Bumblebee. When Charlie revives him, she quickly learns that this is no ordinary yellow Volkswagen.",
-      "date": "2018",
-      "language": "en",
-      "rating": "PG-13",
-      "categories": [
-        "Movie",
-        "Action",
-        "Adventure",
-        "Science fiction"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p13742759_v_h8_ba.jpg?w=960&h=540",
-      "credits": {
-        "director": [
-          "Travis Knight"
-        ],
-        "actor": [
-          "Hailee Steinfeld",
-          "John Cena",
-          "Jorge Lendeborg"
-        ]
-      }
-    },
-    {
-      "start": "2026-06-15T05:30:00+05:00",
-      "stop": "2026-06-15T08:00:00+05:00",
-      "title": "Pacific Rim",
-      "desc": "Long ago, legions of monstrous creatures called Kaiju arose from the sea, bringing with them all-consuming war. To fight the Kaiju, mankind developed giant robots called Jaegers, designed to be piloted by two humans locked together in a neural bridge. However, even the Jaegers are not enough to defeat the Kaiju, and humanity is on the verge of defeat. Mankind's last hope now lies with a washed-up ex-pilot (Charlie Hunnam), an untested trainee (Rinko Kikuchi) and an old, obsolete Jaeger.",
-      "date": "2013",
-      "language": "en",
-      "rating": "PG-13",
-      "categories": [
-        "Movie",
-        "Science fiction",
-        "Action",
-        "Adventure"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p9360990_v_h8_aj.jpg?w=960&h=540",
-      "credits": {
-        "director": [
-          "Guillermo del Toro"
-        ],
-        "actor": [
-          "Charlie Hunnam",
-          "Diego Klattenhoff",
-          "Idris Elba"
-        ]
-      }
-    },
-    {
       "start": "2026-06-15T08:00:00+05:00",
       "stop": "2026-06-15T10:30:00+05:00",
       "title": "Pacific Rim",
@@ -313,6 +235,87 @@
         ],
         "actor": [
           "Richard Dean Anderson",
+          "Michael Shanks",
+          "Amanda Tapping"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-15T21:00:00+05:00",
+      "stop": "2026-06-15T22:00:00+05:00",
+      "title": "Stargate SG-1",
+      "sub_title": "Dominion",
+      "desc": "The SG-1 team creates an elaborate plan to use Vala as bait to capture Adria; Adria is taken captive by Ba'al.",
+      "date": "2007",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Science fiction",
+        "Adventure"
+      ],
+      "episode": "S10 E19",
+      "icon": "http://dtil.tmsimg.com/assets/p7894520_b_h10_ag.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "William Waring"
+        ],
+        "actor": [
+          "Beau Bridges",
+          "Michael Shanks",
+          "Amanda Tapping"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-15T22:00:00+05:00",
+      "stop": "2026-06-15T23:00:00+05:00",
+      "title": "Stargate SG-1",
+      "sub_title": "Unending",
+      "desc": "With extinction imminent, the Asgard decide to hand over all of their knowledge and technology to the SG-1 team.",
+      "date": "2007",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Science fiction",
+        "Adventure"
+      ],
+      "episode": "S10 E20",
+      "icon": "http://dtil.tmsimg.com/assets/p7894520_b_h10_ag.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Robert C. Cooper"
+        ],
+        "actor": [
+          "Beau Bridges",
+          "Michael Shanks",
+          "Amanda Tapping"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-15T23:00:00+05:00",
+      "stop": "2026-06-16T00:00:00+05:00",
+      "title": "Stargate SG-1",
+      "sub_title": "Family Ties",
+      "desc": "Vala's father attempts to trade intelligence to Stargate Command for sanctuary on Earth.",
+      "date": "2007",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Science fiction",
+        "Adventure"
+      ],
+      "episode": "S10 E18",
+      "icon": "http://dtil.tmsimg.com/assets/p7894520_b_h10_ag.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Peter DeLuise"
+        ],
+        "actor": [
+          "Beau Bridges",
           "Michael Shanks",
           "Amanda Tapping"
         ]

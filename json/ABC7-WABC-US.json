@@ -4,53 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-15T04:00:00+05:00",
-      "stop": "2026-06-15T05:00:00+05:00",
-      "title": "America's Funniest Home Videos",
-      "sub_title": "That's Using Your Noggin, The Great Outdoors, and Copy Cats",
-      "desc": "Kids say the funniest things; copycats steal the show; unexpected moments unfold in the great outdoors.",
-      "date": "2026",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Series",
-        "Reality",
-        "Comedy"
-      ],
-      "episode": "S36 E18",
-      "icon": "http://dtil.tmsimg.com/assets/p30740119_b_h8_aa.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Alfonso Ribeiro"
-        ]
-      }
-    },
-    {
-      "start": "2026-06-15T05:00:00+05:00",
-      "stop": "2026-06-15T08:00:00+05:00",
-      "title": "Live: 2026 Stanley Cup Final",
-      "desc": "The Vegas Golden Knights and Carolina Hurricanes meet in Game 6 of the Stanley Cup Final. The visiting Hurricanes protect a 3-2 series edge behind goalie Brandon Bussi's 23 saves from Game 5, while Vegas counters with sharp offense on home ice.",
-      "language": "en",
-      "categories": [
-        "Sports",
-        "Playoff sports",
-        "Hockey"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/GNLZZGG00364XY5.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-06-15T08:00:00+05:00",
-      "stop": "2026-06-15T09:00:00+05:00",
-      "title": "Eyewitness News at 11",
-      "desc": "Breaking news.",
-      "date": "2017",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p13769039_b_h8_ab.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-06-15T09:00:00+05:00",
       "stop": "2026-06-15T10:00:00+05:00",
       "title": "The Rookie",
@@ -239,6 +192,55 @@
           "Sarah Chalke"
         ]
       }
+    },
+    {
+      "start": "2026-06-15T19:00:00+05:00",
+      "stop": "2026-06-15T20:00:00+05:00",
+      "title": "Eyewitness News Mornings at 10",
+      "desc": "Stay informed with the latest breaking news and headlines.",
+      "date": "2023",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p25568169_b_h8_aa.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-06-15T20:00:00+05:00",
+      "stop": "2026-06-15T21:00:00+05:00",
+      "title": "The View",
+      "desc": "Celebrating Alyssa Farah Griffin's birthday with dog adoptions from Muddy Paws.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "Series",
+        "Talk"
+      ],
+      "episode": "S29 E181",
+      "icon": "http://dtil.tmsimg.com/assets/p31138947_b_h8_aa.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Sarah de la O"
+        ],
+        "actor": [
+          "Whoopi Goldberg",
+          "Joy Behar",
+          "Sunny Hostin"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-15T21:00:00+05:00",
+      "stop": "2026-06-15T22:00:00+05:00",
+      "title": "Eyewitness News at Noon",
+      "desc": "Midday news update.",
+      "date": "2015",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p11844655_b_h8_ad.jpg?w=960&h=540"
     }
   ]
 }

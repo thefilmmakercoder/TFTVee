@@ -4,57 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-15T01:00:00+05:00",
-      "stop": "2026-06-15T04:00:00+05:00",
-      "title": "The Martian",
-      "desc": "When astronauts blast off from the planet Mars, they leave behind Mark Watney, presumed dead after a fierce storm. With only a meager amount of supplies, the stranded visitor must utilize his wits and spirit to find a way to survive on the hostile planet. Meanwhile, back on Earth, members of NASA and a team of international scientists work tirelessly to bring him home, while his crew mates hatch their own plan for a daring rescue mission.",
-      "date": "2015",
-      "language": "en",
-      "rating": "PG-13",
-      "categories": [
-        "Movie",
-        "Science fiction",
-        "Adventure",
-        "Drama"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p10980706_v_h10_as.jpg?w=960&h=540",
-      "credits": {
-        "director": [
-          "Ridley Scott"
-        ],
-        "actor": [
-          "Matt Damon",
-          "Jessica Chastain",
-          "Kristen Wiig"
-        ]
-      }
-    },
-    {
-      "start": "2026-06-15T04:00:00+05:00",
-      "stop": "2026-06-15T07:00:00+05:00",
-      "title": "National Treasure",
-      "desc": "Historian and code-breaker Ben Gates (Nicolas Cage) has been searching his whole life for a rumored treasure dating back to the creation of the United States. Joining an expedition led by fellow treasure hunter Ian Howe (Sean Bean), Gates finds an ice-locked Colonial ship in the Arctic Circle that contains a clue linking the treasure to the Declaration of Independence. But when Howe betrays him, Gates has to race to get to the document ahead of his so-called colleague.",
-      "date": "2004",
-      "language": "en",
-      "rating": "PG",
-      "categories": [
-        "Movie",
-        "Adventure",
-        "Action"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p35100_v_h10_an.jpg?w=960&h=540",
-      "credits": {
-        "director": [
-          "Jon Turteltaub"
-        ],
-        "actor": [
-          "Nicolas Cage",
-          "Diane Kruger",
-          "Justin Bartha"
-        ]
-      }
-    },
-    {
       "start": "2026-06-15T07:00:00+05:00",
       "stop": "2026-06-15T10:00:00+05:00",
       "title": "National Treasure: Book of Secrets",
@@ -197,6 +146,57 @@
         "Consumer"
       ],
       "icon": "http://dtil.tmsimg.com/assets/p32753655_st_h10_aa.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-06-15T16:00:00+05:00",
+      "stop": "2026-06-15T16:30:00+05:00",
+      "title": "According to Jim",
+      "sub_title": "Any Man of Mine",
+      "desc": "Jim finds Cheryl a gay friend that she can attend musicals with, so he can escape having to go himself.",
+      "date": "2007",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Sitcom"
+      ],
+      "episode": "S6 E17",
+      "icon": "http://dtil.tmsimg.com/assets/p7895282_b_h8_aa.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Kimberly Williams-Paisley"
+        ],
+        "actor": [
+          "Jim Belushi",
+          "Courtney Thorne-Smith",
+          "Kimberly Williams-Paisley"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-15T16:30:00+05:00",
+      "stop": "2026-06-15T18:30:00+05:00",
+      "title": "Long Weekend",
+      "desc": "An enchanted weekend courtship leads to unexpected revelations between a young man and woman who harbor deep secrets.",
+      "date": "2021",
+      "language": "en",
+      "rating": "R",
+      "categories": [
+        "Movie",
+        "Romance",
+        "Comedy"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p19635495_v_h8_aa.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Steve Basilone"
+        ],
+        "actor": [
+          "Finn Wittrock",
+          "Zo\u00eb Chao",
+          "Casey Wilson"
+        ]
+      }
     }
   ]
 }
