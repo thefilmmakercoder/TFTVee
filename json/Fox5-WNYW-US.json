@@ -4,31 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-15T01:00:00+05:00",
-      "stop": "2026-06-15T03:00:00+05:00",
-      "title": "Live: FIFA World Cup 2026",
-      "desc": "Netherlands take on Japan in the Group F opener at Dallas Stadium. The three-time World Cup finalist was unbeaten in the UEFA qualifying campaign, while Japan makes its eighth appearance after becoming the first team outside the co-hosts to qualify.",
-      "language": "en",
-      "rating": "A",
-      "categories": [
-        "Sports",
-        "Soccer"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/GNLZZGG0035LC7D.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-06-15T03:00:00+05:00",
-      "stop": "2026-06-15T04:00:00+05:00",
-      "title": "The 6 O'Clock News",
-      "desc": "Local, national and international news.",
-      "date": "2021",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p19319065_b_h8_ab.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-06-15T04:00:00+05:00",
       "stop": "2026-06-15T05:00:00+05:00",
       "title": "The Quiz With Balls",
@@ -229,6 +204,42 @@
       ],
       "episode": "E3",
       "icon": "http://dtil.tmsimg.com/assets/p33088477_b_h8_aa.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-06-15T10:00:00+05:00",
+      "stop": "2026-06-15T11:00:00+05:00",
+      "title": "Extra",
+      "desc": "Inside the entertainment newsgathering process, as reporters coast-to-coast break headlines, advance the stories of the day and sit down with celebrities.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Newsmagazine",
+        "Entertainment"
+      ],
+      "episode": "S32 E246",
+      "icon": "http://dtil.tmsimg.com/assets/p30948222_b_h8_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Mona Kosar Abdi",
+          "Terri Seymour"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-15T11:00:00+05:00",
+      "stop": "2026-06-15T11:30:00+05:00",
+      "title": "Paid Programming",
+      "desc": "Paid programming.",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Consumer",
+        "Shopping",
+        "Variety"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&h=540"
     }
   ]
 }

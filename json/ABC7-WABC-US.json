@@ -4,37 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-15T03:00:00+05:00",
-      "stop": "2026-06-15T03:30:00+05:00",
-      "title": "Eyewitness News at 6",
-      "desc": "Stay informed with the latest breaking news and headlines.",
-      "date": "2017",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p13769035_b_h8_ab.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-06-15T03:30:00+05:00",
-      "stop": "2026-06-15T04:00:00+05:00",
-      "title": "ABC World News Tonight With David Muir",
-      "desc": "Delivering the news that matters most.",
-      "date": "2026",
-      "language": "en",
-      "categories": [
-        "Series",
-        "News"
-      ],
-      "episode": "E165",
-      "icon": "http://dtil.tmsimg.com/assets/p10880351_b_h8_ah.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "David Muir"
-        ]
-      }
-    },
-    {
       "start": "2026-06-15T04:00:00+05:00",
       "stop": "2026-06-15T05:00:00+05:00",
       "title": "America's Funniest Home Videos",
@@ -224,6 +193,52 @@
         "News"
       ],
       "icon": "http://dtil.tmsimg.com/assets/p677214_b_h8_ad.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-06-15T16:00:00+05:00",
+      "stop": "2026-06-15T18:00:00+05:00",
+      "title": "Good Morning America",
+      "desc": "Actors Tim Allen and Tom Hanks; Gin Blossoms perform; Shape Up -- Six Week Challenge: Wrap Up; ABC Secret Savings with Lori Bergamotto.",
+      "date": "2026",
+      "language": "en",
+      "categories": [
+        "Series",
+        "Talk",
+        "News",
+        "Variety",
+        "Public affairs"
+      ],
+      "episode": "E190",
+      "icon": "http://dtil.tmsimg.com/assets/p31385280_b_h10_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "George Stephanopoulos",
+          "Robin Roberts",
+          "Michael Strahan"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-15T18:00:00+05:00",
+      "stop": "2026-06-15T19:00:00+05:00",
+      "title": "Live with Kelly and Mark",
+      "desc": "Sarah Chalke swings by to chat about ABC's \"Scrubs\"; summer travel made easy with Lance Ulanoff.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Talk"
+      ],
+      "episode": "S4 E206",
+      "icon": "http://dtil.tmsimg.com/assets/p24324378_b_h8_ab.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Kelly Ripa",
+          "Mark Consuelos",
+          "Sarah Chalke"
+        ]
+      }
     }
   ]
 }

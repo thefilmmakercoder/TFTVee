@@ -4,30 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-15T03:00:00+05:00",
-      "stop": "2026-06-15T03:30:00+05:00",
-      "title": "Open House",
-      "sub_title": "Expert Design",
-      "desc": "Designer Genevieve Gorder shows her unique New York penthouse; Mikel Welch at his brand-new L.A. home.",
-      "date": "2026",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Series",
-        "How-to",
-        "House/garden",
-        "Home improvement"
-      ],
-      "episode": "S18 E10",
-      "icon": "http://dtil.tmsimg.com/assets/p3575385_b_h10_aa.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "George Oliphant",
-          "Sara Gore"
-        ]
-      }
-    },
-    {
       "start": "2026-06-15T03:30:00+05:00",
       "stop": "2026-06-15T04:00:00+05:00",
       "title": "NBC Nightly News With Tom Llamas",
@@ -192,6 +168,31 @@
         "Consumer"
       ],
       "icon": "http://dtil.tmsimg.com/assets/p31776869_b_h10_aa.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-06-15T13:00:00+05:00",
+      "stop": "2026-06-15T14:00:00+05:00",
+      "title": "Meet the Press",
+      "desc": "Rep. Hakeem Jeffries (D-N.Y.); Sen. James Lankford (R-Okla.); Sen. Raphael Warnock (D-Ga.); data analyst Steve Kornacki; roundtable with Monica Alba, Mike Dubke, Jonathan Martin and Steve Ricchetti.",
+      "date": "2026",
+      "language": "en",
+      "categories": [
+        "Series",
+        "Talk",
+        "Interview",
+        "Politics",
+        "News",
+        "Public affairs"
+      ],
+      "episode": "S79 E21",
+      "icon": "http://dtil.tmsimg.com/assets/p184068_b_h8_ad.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Kristen Welker",
+          "Hakeem Jeffries",
+          "James Lankford"
+        ]
+      }
     }
   ]
 }

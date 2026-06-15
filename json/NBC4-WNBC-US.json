@@ -4,18 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-15T03:00:00+05:00",
-      "stop": "2026-06-15T03:30:00+05:00",
-      "title": "News4 NY at 6 Weekend",
-      "desc": "The latest local news, weather and investigative stories impacting your community.",
-      "date": "2011",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p8846345_b_h10_ac.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-06-15T03:30:00+05:00",
       "stop": "2026-06-15T04:00:00+05:00",
       "title": "NBC Nightly News With Tom Llamas",
@@ -215,6 +203,19 @@
           "James Lankford"
         ]
       }
+    },
+    {
+      "start": "2026-06-15T12:30:00+05:00",
+      "stop": "2026-06-15T13:00:00+05:00",
+      "title": "Early Today",
+      "desc": "This early-morning news covers overnight events, breaking domestic and international news as well as a preview of the day's anticipated events. The program also presents regular reports from the worlds of business, entertainment and sports.",
+      "date": "1999",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p185301_b_h8_ag.jpg?w=960&h=540"
     }
   ]
 }

@@ -4,31 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-15T01:55:00+05:00",
-      "stop": "2026-06-15T03:00:00+05:00",
-      "title": "The Crown Jewels",
-      "desc": "The largest diamond in the world is the famous Koh-i-noor.This is just one of many jewels adorning royal heads.Journalist Clive Myrie reveals the history of the Crown Jewels to viewers.",
-      "date": "2022",
-      "language": "en",
-      "categories": [
-        "Documentary Film"
-      ],
-      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/BBC-Lifestyle-PL.png"
-    },
-    {
-      "start": "2026-06-15T03:00:00+05:00",
-      "stop": "2026-06-15T04:00:00+05:00",
-      "title": "The Real Crown: Inside the House of Windsor",
-      "desc": "The creators of the documentary present the fate of the royal family, which had a huge impact on the history of Great Britain.During her reign, Queen Elizabeth had to face many challenges.",
-      "date": "2023",
-      "language": "en",
-      "categories": [
-        "Documentary Series"
-      ],
-      "episode": "E4",
-      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/BBC-Lifestyle-PL.png"
-    },
-    {
       "start": "2026-06-15T04:00:00+05:00",
       "stop": "2026-06-15T04:55:00+05:00",
       "title": "The Real Crown: Inside the House of Windsor",
@@ -175,6 +150,52 @@
       ],
       "episode": "S1E2",
       "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/BBC-Lifestyle-PL.png"
+    },
+    {
+      "start": "2026-06-15T11:30:00+05:00",
+      "stop": "2026-06-15T12:30:00+05:00",
+      "title": "Ceramic Masters: Canada",
+      "desc": "Twelve pottery enthusiasts take part in the program.The jurors assign them tasks at each subsequent stage, and the competitors make every effort to receive a word of recognition.",
+      "date": "2024",
+      "language": "en",
+      "categories": [
+        "Entertainment Program"
+      ],
+      "episode": "E8",
+      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/BBC-Lifestyle-PL.png",
+      "credits": {
+        "actor": [
+          "Self - Seth Rogen",
+          "Self - Host - Jennifer Robertson",
+          "Self - Judge - Natalie Waddell",
+          "Self - Studio Technician - Vin Arora",
+          "Self - Judge - Brendan Tang",
+          "Self - Contestant - Thomas Haskell",
+          "Self - Contestant - Jen Sonnenberg",
+          "Self - Contestant - Michael Wood",
+          "Self - Contestant - Renu Mathew",
+          "Self - Contestant - Kiefer Floreal"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-15T12:30:00+05:00",
+      "stop": "2026-06-15T13:30:00+05:00",
+      "title": "Amazing Hotels: Life Beyond the Lobby 4",
+      "desc": "BBC Lifestyle provides an inspiring mix of home, food, and fashion programming, featuring world-class experts and vibrant stories to enhance your daily life.",
+      "date": "2022",
+      "language": "en",
+      "categories": [
+        "Documentary Series"
+      ],
+      "episode": "S4E5",
+      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/BBC-Lifestyle-PL.png",
+      "credits": {
+        "director": [
+          "Giles Coren",
+          "Monica Galetti"
+        ]
+      }
     }
   ]
 }
