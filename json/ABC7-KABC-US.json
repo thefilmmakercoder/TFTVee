@@ -4,76 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-16T17:00:00+05:00",
-      "stop": "2026-06-16T18:00:00+05:00",
-      "title": "Eyewitness News 5AM",
-      "desc": "News coverage to start the day.",
-      "date": "2004",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p676994_b_h8_af.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-06-16T18:00:00+05:00",
-      "stop": "2026-06-16T19:00:00+05:00",
-      "title": "Eyewitness News 6AM",
-      "desc": "News coverage to start the day.",
-      "date": "2004",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p677002_b_h8_af.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-06-16T19:00:00+05:00",
-      "stop": "2026-06-16T21:00:00+05:00",
-      "title": "Good Morning America",
-      "desc": "Actor Christopher Meloni; actor Conan O'Brien; Deals & Steals with Tory Johnson.",
-      "date": "2026",
-      "language": "en",
-      "categories": [
-        "Series",
-        "Talk",
-        "News",
-        "Variety",
-        "Public affairs"
-      ],
-      "episode": "E191",
-      "icon": "http://dtil.tmsimg.com/assets/p31385280_b_h10_aa.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "George Stephanopoulos",
-          "Robin Roberts",
-          "Michael Strahan"
-        ]
-      }
-    },
-    {
-      "start": "2026-06-16T21:00:00+05:00",
-      "stop": "2026-06-16T22:00:00+05:00",
-      "title": "Live with Kelly and Mark",
-      "desc": "Judge Judy Sheindlin and LL Cool J are here; testing balance with the Fukuda step test!",
-      "date": "2026",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Series",
-        "Talk"
-      ],
-      "episode": "S4 E207",
-      "icon": "http://dtil.tmsimg.com/assets/p24324378_b_h8_ab.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Kelly Ripa",
-          "Mark Consuelos",
-          "Judy Sheindlin"
-        ]
-      }
-    },
-    {
       "start": "2026-06-16T22:00:00+05:00",
       "stop": "2026-06-16T23:00:00+05:00",
       "title": "The View",
@@ -224,6 +154,70 @@
         "News"
       ],
       "icon": "http://dtil.tmsimg.com/assets/p676966_b_h8_af.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-06-17T05:00:00+05:00",
+      "stop": "2026-06-17T05:30:00+05:00",
+      "title": "Live: NBA Tip-Off",
+      "desc": "Host Ernie Johnson and analysts Shaquille O'Neal, Charles Barkley and Kenny Smith ready viewers for NBA action before ESPN's Wednesday night doubleheaders (and other select telecasts). Guest analysts also are featured from time to time.",
+      "date": "1998",
+      "language": "en",
+      "categories": [
+        "Basketball"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p267533_b_h8_ab.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Ernie Johnson",
+          "Charles Barkley",
+          "Shaquille O'Neal"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-17T05:30:00+05:00",
+      "stop": "2026-06-17T08:00:00+05:00",
+      "title": "Live: 2026 NBA Finals",
+      "desc": "Game 6. (If necessary).",
+      "language": "en",
+      "categories": [
+        "Sports",
+        "Playoff sports",
+        "Basketball"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/GNLZZGG003662MC.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-06-17T08:00:00+05:00",
+      "stop": "2026-06-17T09:00:00+05:00",
+      "title": "Slam Dunk: The Finals",
+      "desc": "All basketball all the time with the best moments of the NBA Finals.",
+      "date": "2017",
+      "language": "en",
+      "categories": [
+        "Sports talk",
+        "Basketball"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p14137032_b_h10_aa.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-06-17T09:00:00+05:00",
+      "stop": "2026-06-17T09:30:00+05:00",
+      "title": "ABC World News Tonight With David Muir",
+      "desc": "Delivering the news that matters most.",
+      "date": "2026",
+      "language": "en",
+      "categories": [
+        "Series",
+        "News"
+      ],
+      "episode": "E167",
+      "icon": "http://dtil.tmsimg.com/assets/p10880351_b_h8_ah.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "David Muir"
+        ]
+      }
     }
   ]
 }

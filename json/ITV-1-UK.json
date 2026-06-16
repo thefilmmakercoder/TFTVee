@@ -4,30 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-16T17:20:00+05:00",
-      "stop": "2026-06-16T17:30:00+05:00",
-      "title": "ITV News London",
-      "desc": "The latest news and weather from London and the South East.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/2e871353-fae0-4781-9e4b-86b018811448/16-9"
-    },
-    {
-      "start": "2026-06-16T17:30:00+05:00",
-      "stop": "2026-06-16T22:00:00+05:00",
-      "title": "ITV Racing Live: Royal Ascot",
-      "desc": "Ed Chamberlin and Francesca Cumani present live coverage of the opening day of Royal Ascot 2026.",
-      "language": "en",
-      "categories": [
-        "Sports",
-        "Racing"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/af6ad5b9-299b-4262-b913-cb81eb5f3f27/16-9"
-    },
-    {
       "start": "2026-06-16T22:00:00+05:00",
       "stop": "2026-06-16T22:30:00+05:00",
       "title": "ITV News London",
@@ -148,6 +124,30 @@
         "Football"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/48c47983-df3f-4d0a-aa88-7b3c3b5d046d/16-9"
+    },
+    {
+      "start": "2026-06-17T08:35:00+05:00",
+      "stop": "2026-06-17T09:00:00+05:00",
+      "title": "Celebrity Lingo",
+      "desc": "Adil Ray hosts the game of words as Emmerdale icons Lisa Riley and Mark Charnock take on the Reverend Richard Coles - and comedian Tim Vine - and try to win big for charity.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Game Show"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/5bed9ed5-dcea-4308-8994-a7db45ca5bb7/16-9"
+    },
+    {
+      "start": "2026-06-17T09:00:00+05:00",
+      "stop": "2026-06-17T09:35:00+05:00",
+      "title": "Unwind with ITV",
+      "desc": "Your daily escape designed to calm the mind and encourage relaxation and reflection.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Lifestyles"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/195f7b31-9885-41e0-85a6-70ee2b4512b2/16-9"
     }
   ]
 }
