@@ -4,54 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-16T06:55:00+05:00",
-      "stop": "2026-06-16T07:00:00+05:00",
-      "title": "Unwind with ITV",
-      "desc": "Your daily escape designed to calm the mind and encourage relaxation and reflection.",
-      "language": "en",
-      "categories": [
-        "Entertainment",
-        "Lifestyles"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/643a9f98-ce8f-4e76-a8de-91103860ec7b/16-9"
-    },
-    {
-      "start": "2026-06-16T07:00:00+05:00",
-      "stop": "2026-06-16T10:00:00+05:00",
-      "title": "Teleshopping",
-      "desc": "Shopping from home.",
-      "language": "en",
-      "categories": [
-        "Specialist",
-        "Shopping"
-      ],
-      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/ITV-4-UK.png"
-    },
-    {
-      "start": "2026-06-16T10:00:00+05:00",
-      "stop": "2026-06-16T10:20:00+05:00",
-      "title": "World of Sport",
-      "desc": "The Good, the Bad and the Ugly: Featuring George Best, Zaire at the World Cup, and a few funny own goals.",
-      "language": "en",
-      "categories": [
-        "Sports"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/ca72af76-32e5-463b-bb25-7160df5c50eb/16-9"
-    },
-    {
-      "start": "2026-06-16T10:20:00+05:00",
-      "stop": "2026-06-16T11:20:00+05:00",
-      "title": "Magnum, P.I.",
-      "sub_title": "The Elmo Ziller Story",
-      "desc": "Classic US action drama series. Thomas is hired to protect Higgins' guitar-playing Texan half-brother, but he looks uncannily like him..",
-      "language": "en",
-      "categories": [
-        "Entertainment",
-        "Action"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/396f7a6d-f503-49c5-99e7-03603e507486/16-9"
-    },
-    {
       "start": "2026-06-16T11:20:00+05:00",
       "stop": "2026-06-16T12:20:00+05:00",
       "title": "Magnum, P.I.",
@@ -151,6 +103,57 @@
         "Detective"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/ed28c080-418d-486e-bc39-5c1b1c1b79df/16-9"
+    },
+    {
+      "start": "2026-06-16T19:35:00+05:00",
+      "stop": "2026-06-16T20:45:00+05:00",
+      "title": "Boon",
+      "sub_title": "Banbury Blues",
+      "desc": "Classic drama starring Michael Elphick. Margaret and Ken try to track down sheep rustlers and rare egg smugglers, and Harry runs afternoon tea dances for pensioners.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Drama"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/5c088ca2-14d3-4c85-a073-154b9213a367/16-9"
+    },
+    {
+      "start": "2026-06-16T20:45:00+05:00",
+      "stop": "2026-06-16T21:50:00+05:00",
+      "title": "The Sweeney",
+      "sub_title": "Country Boy",
+      "desc": "Regan and Carter are called in when alarm bells start ringing all over their patch. Who is setting them off - and why.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Drama"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/bd873c55-7911-49aa-8d5c-baf5398cc5cd/16-9"
+    },
+    {
+      "start": "2026-06-16T21:50:00+05:00",
+      "stop": "2026-06-16T22:30:00+05:00",
+      "title": "ITV Racing Live: Royal Ascot",
+      "desc": "Ed Chamberlin presents live coverage of the final race on day one of Royal Ascot.",
+      "language": "en",
+      "categories": [
+        "Sports",
+        "Racing"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/8b879124-219b-45ca-9654-9a86aff50a9c/16-9"
+    },
+    {
+      "start": "2026-06-16T22:30:00+05:00",
+      "stop": "2026-06-16T23:00:00+05:00",
+      "title": "River Monsters",
+      "sub_title": "Killer Torpedo",
+      "desc": "Extreme fishing series. Jeremy Wade ventures deep into central America while in search of a giant fish that is said to leap into boats and cause fatal injuries.",
+      "language": "en",
+      "categories": [
+        "News & Documentary",
+        "Adventure"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/a4947fd2-4ffa-4c90-89be-e84784de58a1/16-9"
     }
   ]
 }

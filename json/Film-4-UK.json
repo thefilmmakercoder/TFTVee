@@ -4,34 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-16T03:40:00+05:00",
-      "stop": "2026-06-16T05:30:00+05:00",
-      "title": "Darkman",
-      "desc": "Liam Neeson and Frances McDormand star in Sam Raimi's crime-fighting action-fantasy. A vengeful scientist invents a synthetic skin that lets him change his appearance..",
-      "date": "1990",
-      "language": "en",
-      "rating": "15",
-      "categories": [
-        "Movie",
-        "Action"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/bf496863-1aff-4b96-b7d5-ff12732b50c7/16-9"
-    },
-    {
-      "start": "2026-06-16T05:30:00+05:00",
-      "stop": "2026-06-16T07:25:00+05:00",
-      "title": "Gagarine",
-      "desc": "Uplifting French drama. A teenager sets out to fix up his run-down apartment block when it's scheduled for demolition. In French/subs. Strong language.",
-      "date": "2020",
-      "language": "en",
-      "rating": "15",
-      "categories": [
-        "Movie",
-        "Drama"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/95db84c5-4496-4fd1-a8e1-26a3abcd43cd/16-9"
-    },
-    {
       "start": "2026-06-16T07:25:00+05:00",
       "stop": "2026-06-16T11:00:00+05:00",
       "title": "Teleshopping",
@@ -136,6 +108,60 @@
         "War"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/47c6c075-00a2-4cac-a52e-902a2a2c160c/16-9"
+    },
+    {
+      "start": "2026-06-17T01:00:00+05:00",
+      "stop": "2026-06-17T03:40:00+05:00",
+      "title": "The King's Man",
+      "desc": "The spy-caper franchise continues with the origins story of the Kingsman agency, as a plucky group battle an international conspiracy at the outbreak of WWI. With Ralph Fiennes.",
+      "date": "2021",
+      "language": "en",
+      "rating": "15",
+      "categories": [
+        "Movie",
+        "Action"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/faf7b863-4a15-4d34-82cc-83cb4bf07d13/16-9"
+    },
+    {
+      "start": "2026-06-17T03:40:00+05:00",
+      "stop": "2026-06-17T06:15:00+05:00",
+      "title": "Knives Out",
+      "desc": "Sharp, eccentric murder-mystery starring Daniel Craig as a detective anonymously hired to investigate the death of a wealthy writer (Christopher Plummer). With Ana de Armas.",
+      "date": "2019",
+      "language": "en",
+      "rating": "15",
+      "categories": [
+        "Movie",
+        "Mystery"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/88c0098d-4357-4ce0-8f2b-e76888120eaf/16-9"
+    },
+    {
+      "start": "2026-06-17T06:15:00+05:00",
+      "stop": "2026-06-17T08:00:00+05:00",
+      "title": "Career Girls",
+      "desc": "Mike Leigh's poingnant drama stars Katrin Cartlidge and Lynda Steadman as old college friends who meet up only to discover they still suffer from emotional fragility.",
+      "date": "1997",
+      "language": "en",
+      "rating": "15",
+      "categories": [
+        "Movie",
+        "Drama"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/d75ac6c2-9eb6-42d4-84e2-4a022ae00fc0/16-9"
+    },
+    {
+      "start": "2026-06-17T08:00:00+05:00",
+      "stop": "2026-06-17T11:00:00+05:00",
+      "title": "Teleshopping",
+      "desc": "Teleshopping.",
+      "language": "en",
+      "categories": [
+        "Specialist",
+        "Shopping"
+      ],
+      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/Film-4-UK.png"
     }
   ]
 }
