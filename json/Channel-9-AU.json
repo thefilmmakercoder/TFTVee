@@ -4,20 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-17T00:00:00+05:00",
-      "stop": "2026-06-17T00:30:00+05:00",
-      "title": "Today Early News",
-      "sub_title": "Wednesday 17 June 2026",
-      "desc": "Today Early News with up to date news from Australia and around the world as well as the latest in sport and weather.",
-      "language": "en",
-      "rating": "NR",
-      "categories": [
-        "News"
-      ],
-      "episode": "E120",
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/428725/image/334x188"
-    },
-    {
       "start": "2026-06-17T00:30:00+05:00",
       "stop": "2026-06-17T04:00:00+05:00",
       "title": "Today",
@@ -165,6 +151,20 @@
       ],
       "episode": "E2",
       "icon": "https://www.fetchtv.com.au/v2/epg/program/2400760/image/334x188"
+    },
+    {
+      "start": "2026-06-17T17:00:00+05:00",
+      "stop": "2026-06-17T18:00:00+05:00",
+      "title": "State of Origin Post-Match",
+      "sub_title": "Blues v Maroons",
+      "desc": "Join us for the post-match wrap up for Game 2, along with our expert panels analysis, player interviews as well as a look to Game 3, live on 9, Wednesday 8th July.",
+      "language": "en",
+      "rating": "NR",
+      "categories": [
+        "Sports"
+      ],
+      "episode": "E2",
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/5883698/image/334x188"
     }
   ]
 }

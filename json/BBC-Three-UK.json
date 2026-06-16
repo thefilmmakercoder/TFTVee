@@ -4,17 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-17T00:00:00+05:00",
-      "stop": "2026-06-17T02:10:00+05:00",
-      "title": "Divergent",
-      "desc": "In a post-apocalyptic Chicago, one girl's personality traits mark her out as dangerous. She joins forces with fellow outcasts to discover why they are feared.",
-      "language": "en",
-      "categories": [
-        "Movie"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/2fcaef08-a5b7-417d-abf2-c9625bfbcaa4/16-9"
-    },
-    {
       "start": "2026-06-17T02:10:00+05:00",
       "stop": "2026-06-17T03:55:00+05:00",
       "title": "Divergent: Insurgent",
@@ -123,6 +112,18 @@
       "desc": "Programmes start at 7.00pm.",
       "language": "en",
       "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/BBC-Three-UK.png"
+    },
+    {
+      "start": "2026-06-17T23:00:00+05:00",
+      "stop": "2026-06-17T23:05:00+05:00",
+      "title": "The Catch Up",
+      "desc": "A round-up of the day's news.",
+      "language": "en",
+      "categories": [
+        "News & Documentary",
+        "News"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/05d96dc6-f39a-4d36-a05e-f464ee50bc92/16-9"
     }
   ]
 }

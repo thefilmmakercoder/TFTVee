@@ -4,42 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-17T01:00:00+05:00",
-      "stop": "2026-06-17T02:00:00+05:00",
-      "title": "Eyewitness News First at 4",
-      "desc": "Local and regional news coverage.",
-      "date": "2011",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p8679870_b_h8_ad.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-06-17T02:00:00+05:00",
-      "stop": "2026-06-17T03:00:00+05:00",
-      "title": "Eyewitness News at 5",
-      "desc": "Local and regional news.",
-      "date": "2017",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p13769033_b_h8_ab.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-06-17T03:00:00+05:00",
-      "stop": "2026-06-17T03:30:00+05:00",
-      "title": "Eyewitness News at 6",
-      "desc": "Stay informed with the latest breaking news and headlines.",
-      "date": "2017",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p13769035_b_h8_ab.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-06-17T03:30:00+05:00",
       "stop": "2026-06-17T04:00:00+05:00",
       "title": "ABC World News Tonight With David Muir",
@@ -206,6 +170,71 @@
       "credits": {
         "actor": [
           "David Muir"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-17T10:36:00+05:00",
+      "stop": "2026-06-17T11:36:00+05:00",
+      "title": "Live with Kelly and Mark",
+      "desc": "Judge Judy Sheindlin and LL Cool J are here; testing balance with the Fukuda step test!",
+      "date": "2026",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Talk"
+      ],
+      "episode": "S4 E207",
+      "icon": "http://dtil.tmsimg.com/assets/p24324378_b_h8_ab.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Kelly Ripa",
+          "Mark Consuelos",
+          "Judy Sheindlin"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-17T11:36:00+05:00",
+      "stop": "2026-06-17T12:06:00+05:00",
+      "title": "Jeopardy!",
+      "desc": "The Emmy-winning quiz show features a unique answer-and-question format.",
+      "date": "2025",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Series",
+        "Game show"
+      ],
+      "episode": "S41 E212",
+      "icon": "http://dtil.tmsimg.com/assets/p28134937_b_h10_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Ken Jennings"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-17T12:06:00+05:00",
+      "stop": "2026-06-17T13:00:00+05:00",
+      "title": "Tamron Hall",
+      "sub_title": "Exclusive: Patti LaBelle & Shark Tank's Kendra Scott",
+      "desc": "Patti LaBelle whips up something tasty in the kitchen and gives a special announcement; self-made entrepreneur Kendra Scott (\"Shark Tank\") gives business advice to those looking for their big break.",
+      "date": "2025",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Talk"
+      ],
+      "episode": "S7 E37",
+      "icon": "http://dtil.tmsimg.com/assets/p17197549_b_h8_af.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Tamron Hall",
+          "Patti LaBelle",
+          "Kendra Scott"
         ]
       }
     }

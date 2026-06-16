@@ -4,42 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-17T01:00:00+05:00",
-      "stop": "2026-06-17T02:00:00+05:00",
-      "title": "Coronation Street",
-      "desc": "Tyrone and Ronnie are trapped as Kevin and Carl try to call the shots, Brody welcomes protection from some formidable females, and Todd relays Maria's theory to Sarah.",
-      "language": "en",
-      "categories": [
-        "Entertainment",
-        "Soap"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/996de64d-61ac-4b8c-97ca-6fd9ddb23a8f/16-9"
-    },
-    {
-      "start": "2026-06-17T02:00:00+05:00",
-      "stop": "2026-06-17T02:30:00+05:00",
-      "title": "ITV News at Ten",
-      "desc": "ITV News provides a fresh perspective on the major stories of the day with national and international news with reports and analysis from ITV's Correspondents.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/6af20144-0dbc-47c1-b00c-73eb28eae4eb/16-9"
-    },
-    {
-      "start": "2026-06-17T02:30:00+05:00",
-      "stop": "2026-06-17T02:45:00+05:00",
-      "title": "ITV News London",
-      "desc": "The latest news and weather from London and the South East.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/e50acc73-2c19-442e-ac75-0469ac038568/16-9"
-    },
-    {
       "start": "2026-06-17T02:45:00+05:00",
       "stop": "2026-06-17T03:20:00+05:00",
       "title": "G'wed",
@@ -147,6 +111,42 @@
         "Magazine"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/529f53ed-dfe7-41bc-bf98-43a6df197aeb/16-9"
+    },
+    {
+      "start": "2026-06-17T17:00:00+05:00",
+      "stop": "2026-06-17T17:20:00+05:00",
+      "title": "ITV Lunchtime News",
+      "desc": "The latest headlines from around the world at lunchtime with reports and analysis from ITV's Correspondents, all of which are followed by a national weather forecast.",
+      "language": "en",
+      "categories": [
+        "News & Documentary",
+        "News"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/1ccc6915-9287-4b11-84a2-c529fed14fe5/16-9"
+    },
+    {
+      "start": "2026-06-17T17:20:00+05:00",
+      "stop": "2026-06-17T17:30:00+05:00",
+      "title": "ITV News London",
+      "desc": "The latest news and weather from London and the South East.",
+      "language": "en",
+      "categories": [
+        "News & Documentary",
+        "News"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/7a5cf0b2-f7bf-43ac-b54c-8142469ad035/16-9"
+    },
+    {
+      "start": "2026-06-17T17:30:00+05:00",
+      "stop": "2026-06-17T22:00:00+05:00",
+      "title": "ITV Racing Live: Royal Ascot",
+      "desc": "Ed Chamberlin and Francesca Cumani present live coverage of day two of Royal Ascot 2026.",
+      "language": "en",
+      "categories": [
+        "Sports",
+        "Racing"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/4edab3d9-e24c-4f24-a32e-7fda02fdfaf4/16-9"
     }
   ]
 }

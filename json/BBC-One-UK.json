@@ -4,30 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-16T23:30:00+05:00",
-      "stop": "2026-06-17T02:15:00+05:00",
-      "title": "MOTD Live: France v Senegal",
-      "desc": "Live coverage of the opening match in Group I between France and Senegal in New York.",
-      "language": "en",
-      "categories": [
-        "Sports",
-        "Football"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/9bc0688f-35a4-486f-ae82-a59d83d05a85/16-9"
-    },
-    {
-      "start": "2026-06-17T02:15:00+05:00",
-      "stop": "2026-06-17T02:35:00+05:00",
-      "title": "BBC News and Weather",
-      "desc": "The latest national and international news, with reports from BBC correspondents worldwide.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/4b34fe15-40d6-4dbe-b8f3-b4e5eea242dc/16-9"
-    },
-    {
       "start": "2026-06-17T02:35:00+05:00",
       "stop": "2026-06-17T02:45:00+05:00",
       "title": "BBC London News",
@@ -145,6 +121,30 @@
         "Game Show"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/39149bb8-a1ac-34e2-9880-0459a38d65fb/16-9"
+    },
+    {
+      "start": "2026-06-17T17:00:00+05:00",
+      "stop": "2026-06-17T18:00:00+05:00",
+      "title": "BBC News at One including BBC London News",
+      "desc": "The latest national and international news from the BBC.",
+      "language": "en",
+      "categories": [
+        "News & Documentary",
+        "News"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/890162df-29b2-4be7-9c4d-143baf25b58b/16-9"
+    },
+    {
+      "start": "2026-06-17T18:00:00+05:00",
+      "stop": "2026-06-17T18:30:00+05:00",
+      "title": "Policing Paradise",
+      "desc": "An island-wide operation targeting antisocial behaviour uncovers drugs in a park, a man with outstanding warrants is pursued, and we learn that PC Miss Skerritt is leaving the force.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Factual"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/12df4095-12e9-4bdd-a471-bea14b1fd315/16-9"
     }
   ]
 }
