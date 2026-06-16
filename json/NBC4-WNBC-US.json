@@ -4,87 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-16T03:30:00+05:00",
-      "stop": "2026-06-16T04:00:00+05:00",
-      "title": "NBC Nightly News With Tom Llamas",
-      "desc": "Tom Llamas anchors the latest news, going beyond the headlines to see how lives are affected by the world around them.",
-      "date": "2026",
-      "language": "en",
-      "categories": [
-        "Series",
-        "News"
-      ],
-      "episode": "S2 E155",
-      "icon": "http://dtil.tmsimg.com/assets/p30141511_b_h8_aa.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Tom Llamas"
-        ]
-      }
-    },
-    {
-      "start": "2026-06-16T04:00:00+05:00",
-      "stop": "2026-06-16T04:30:00+05:00",
-      "title": "News 4 NY at 7",
-      "desc": "Stay informed with the breaking news and headlines.",
-      "date": "2020",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p18101773_b_h10_ad.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-06-16T04:30:00+05:00",
-      "stop": "2026-06-16T05:00:00+05:00",
-      "title": "Access Hollywood",
-      "desc": "FIFA World Cup kickoff with a Hollywood twist.",
-      "date": "2026",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Series",
-        "Newsmagazine",
-        "Entertainment",
-        "Interview"
-      ],
-      "episode": "S30 E194",
-      "icon": "http://dtil.tmsimg.com/assets/p30926755_b_h8_ab.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Mario Lopez",
-          "Kit Hoover",
-          "Scott Evans"
-        ]
-      }
-    },
-    {
-      "start": "2026-06-16T05:00:00+05:00",
-      "stop": "2026-06-16T05:30:00+05:00",
-      "title": "St. Denis Medical",
-      "sub_title": "Two Docs, One Conf",
-      "desc": "Ron and Bruce butt heads at a medical conference; Joyce tries to show her nurses some love for Nurse Appreciation Week.",
-      "date": "2025",
-      "language": "en",
-      "rating": "TV14",
-      "categories": [
-        "Series",
-        "Sitcom"
-      ],
-      "episode": "S2 E4",
-      "icon": "http://dtil.tmsimg.com/assets/p30958935_b_h8_aa.jpg?w=960&h=540",
-      "credits": {
-        "director": [
-          "Yana Gorskaya"
-        ],
-        "actor": [
-          "Wendi McLendon-Covey",
-          "David Alan Grier",
-          "Allison Tolman"
-        ]
-      }
-    },
-    {
       "start": "2026-06-16T05:30:00+05:00",
       "stop": "2026-06-16T06:00:00+05:00",
       "title": "St. Denis Medical",
@@ -251,6 +170,67 @@
           "Scott Evans"
         ]
       }
+    },
+    {
+      "start": "2026-06-16T12:05:00+05:00",
+      "stop": "2026-06-16T13:00:00+05:00",
+      "title": "The Kelly Clarkson Show",
+      "desc": "Kellyoke Encore: \"Bird Set Free\"; Bill Pullman; Ranked! Bill's Top Theater Turns; Rad Human: The Beauty Project; Des Rocs perform \"When the Love is Gone\"; WIL: Habitat For Humanity 50th.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Talk",
+        "Variety",
+        "Entertainment"
+      ],
+      "episode": "S7 E157",
+      "icon": "http://dtil.tmsimg.com/assets/p16993616_b_h8_af.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Kelly Clarkson",
+          "Bill Pullman",
+          "Des Rocs"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-16T13:00:00+05:00",
+      "stop": "2026-06-16T13:30:00+05:00",
+      "title": "Early Today",
+      "desc": "This early-morning news covers overnight events, breaking domestic and international news as well as a preview of the day's anticipated events. The program also presents regular reports from the worlds of business, entertainment and sports.",
+      "date": "1999",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p185301_b_h8_ag.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-06-16T13:30:00+05:00",
+      "stop": "2026-06-16T14:00:00+05:00",
+      "title": "Today in New York",
+      "desc": "The local news, weather and investigative stories impacting your community.",
+      "date": "2000",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p960598_b_h10_ac.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-06-16T14:00:00+05:00",
+      "stop": "2026-06-16T15:00:00+05:00",
+      "title": "Today in New York",
+      "desc": "The local news, weather and investigative stories impacting your community.",
+      "date": "2000",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p960598_b_h10_ac.jpg?w=960&h=540"
     }
   ]
 }

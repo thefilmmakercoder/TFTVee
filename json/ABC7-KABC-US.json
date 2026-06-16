@@ -4,61 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-16T03:30:00+05:00",
-      "stop": "2026-06-16T04:00:00+05:00",
-      "title": "ABC World News Tonight With David Muir",
-      "desc": "Delivering the news that matters most.",
-      "date": "2026",
-      "language": "en",
-      "categories": [
-        "Series",
-        "News"
-      ],
-      "episode": "E166",
-      "icon": "http://dtil.tmsimg.com/assets/p10880351_b_h8_ah.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "David Muir"
-        ]
-      }
-    },
-    {
-      "start": "2026-06-16T04:00:00+05:00",
-      "stop": "2026-06-16T05:00:00+05:00",
-      "title": "Eyewitness News 4PM",
-      "desc": "Early evening news.",
-      "date": "2004",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p676966_b_h8_af.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-06-16T05:00:00+05:00",
-      "stop": "2026-06-16T06:00:00+05:00",
-      "title": "Eyewitness News 5PM",
-      "desc": "Early evening news.",
-      "date": "2016",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p12821107_b_h8_aa.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-06-16T06:00:00+05:00",
-      "stop": "2026-06-16T06:30:00+05:00",
-      "title": "Eyewitness News 6PM",
-      "desc": "Local, national and international news.",
-      "date": "2004",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p677004_b_h8_af.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-06-16T06:30:00+05:00",
       "stop": "2026-06-16T07:00:00+05:00",
       "title": "ABC World News Tonight With David Muir",
@@ -221,6 +166,91 @@
           "Jimmy Kimmel",
           "Colin Farrell",
           "Jessica Williams"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-16T12:37:00+05:00",
+      "stop": "2026-06-16T13:06:00+05:00",
+      "title": "Nightline",
+      "desc": "In-depth reporting on one or more of the major stories in the news, with occasional segments on pop culture; journalists Juju Chang and Byron Pitts share hosting duties for this late-night program.",
+      "date": "2026",
+      "language": "en",
+      "categories": [
+        "Series",
+        "Talk",
+        "News",
+        "Interview"
+      ],
+      "episode": "E124",
+      "icon": "http://dtil.tmsimg.com/assets/p184465_b_h8_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Juju Chang",
+          "Byron Pitts"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-16T13:06:00+05:00",
+      "stop": "2026-06-16T13:36:00+05:00",
+      "title": "ABC World News Tonight With David Muir",
+      "desc": "Delivering the news that matters most.",
+      "date": "2026",
+      "language": "en",
+      "categories": [
+        "Series",
+        "News"
+      ],
+      "episode": "E166",
+      "icon": "http://dtil.tmsimg.com/assets/p10880351_b_h8_ah.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "David Muir"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-16T13:36:00+05:00",
+      "stop": "2026-06-16T14:36:00+05:00",
+      "title": "Live with Kelly and Mark",
+      "desc": "Sarah Chalke swings by to chat about ABC's \"Scrubs\"; summer travel made easy with Lance Ulanoff.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Talk"
+      ],
+      "episode": "S4 E206",
+      "icon": "http://dtil.tmsimg.com/assets/p24324378_b_h8_ab.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Kelly Ripa",
+          "Mark Consuelos",
+          "Sarah Chalke"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-16T14:36:00+05:00",
+      "stop": "2026-06-16T15:30:00+05:00",
+      "title": "Tamron Hall",
+      "sub_title": "Daytime Exclusive: Kimora Lee Simmons",
+      "desc": "The original queen of fabulosity, Kimora Lee Simmons, joins us for a daytime exclusive to talk about her return to reality TV with \"Back in the Fab Lane\"; then, she gives us a first look at the new releases from her fashion line Baby Phat, and a surprise giveaway for the Tam Fam!",
+      "date": "2025",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Talk"
+      ],
+      "episode": "S7 E60",
+      "icon": "http://dtil.tmsimg.com/assets/p17197549_b_h8_af.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Tamron Hall",
+          "Kimora Lee Simmons"
         ]
       }
     }

@@ -4,18 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-16T02:05:00+05:00",
-      "stop": "2026-06-16T02:15:00+05:00",
-      "title": "ITV News London",
-      "desc": "The latest news and weather from London and the South East.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/347748a5-da36-4140-808e-bca2e1fc5dfd/16-9"
-    },
-    {
       "start": "2026-06-16T02:15:00+05:00",
       "stop": "2026-06-16T05:35:00+05:00",
       "title": "FIFA WC2026: S. Arabia v Uruguay",
@@ -147,6 +135,18 @@
         "Racing"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/af6ad5b9-299b-4262-b913-cb81eb5f3f27/16-9"
+    },
+    {
+      "start": "2026-06-16T22:00:00+05:00",
+      "stop": "2026-06-16T22:30:00+05:00",
+      "title": "ITV News London",
+      "desc": "The latest news and weather from London and the South East.",
+      "language": "en",
+      "categories": [
+        "News & Documentary",
+        "News"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/5e7cb463-4453-4e9b-a7a3-e4859b705d19/16-9"
     }
   ]
 }
