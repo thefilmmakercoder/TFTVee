@@ -4,33 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-16T22:00:00+05:00",
-      "stop": "2026-06-16T23:00:00+05:00",
-      "title": "FOX Local Futbol HQ",
-      "desc": "A look at the stories, rivalries and dreams driving nations towards soccer's ultimate prize, the FIFA World Cup trophy.",
-      "date": "2025",
-      "language": "en",
-      "categories": [
-        "Soccer"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p31774634_b_h8_ab.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-06-16T23:00:00+05:00",
-      "stop": "2026-06-17T00:00:00+05:00",
-      "title": "FIFA World Cup Live",
-      "desc": "Highlights and news stories of the day's action, including previews of upcoming matches.",
-      "date": "2026",
-      "language": "en",
-      "categories": [
-        "Series",
-        "Sports talk",
-        "Soccer"
-      ],
-      "episode": "E8",
-      "icon": "http://dtil.tmsimg.com/assets/p33051802_b_h8_ac.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-06-17T00:00:00+05:00",
       "stop": "2026-06-17T02:00:00+05:00",
       "title": "Live: FIFA World Cup 2026",
@@ -156,6 +129,48 @@
         "News"
       ],
       "icon": "http://dtil.tmsimg.com/assets/p26513988_b_h8_ae.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-06-17T11:30:00+05:00",
+      "stop": "2026-06-17T12:00:00+05:00",
+      "title": "TMZ",
+      "desc": "TMZ TV tracks down today's hottest stars with their cameras, whether they are hitting the clubs or the dry cleaners.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Newsmagazine",
+        "Entertainment"
+      ],
+      "episode": "S19 E248",
+      "icon": "http://dtil.tmsimg.com/assets/p30985766_b_h10_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Harvey Levin"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-17T12:00:00+05:00",
+      "stop": "2026-06-17T13:00:00+05:00",
+      "title": "The Jennifer Hudson Show",
+      "desc": "R&B sensation Jason Derulo joins Jennifer to chat about his latest album, \"The Last Dance (Part 1)\"; 11-year-old conservationist Liddy Clever stops by to chat about her ocean conservation initiatives and her book \"Wave: A Sea Turtle's Story\"; tune in to see Liddy get a special surprise from Jennifer!",
+      "date": "2026",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Talk"
+      ],
+      "episode": "S4 E107",
+      "icon": "http://dtil.tmsimg.com/assets/p31041660_b_h8_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Jennifer Hudson",
+          "Jason Derulo"
+        ]
+      }
     }
   ]
 }

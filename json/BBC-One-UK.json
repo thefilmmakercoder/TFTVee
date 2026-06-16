@@ -4,29 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-16T22:30:00+05:00",
-      "stop": "2026-06-16T23:00:00+05:00",
-      "title": "BBC London News",
-      "desc": "The latest news, sport and weather from London.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/b089fa81-df35-4da0-aba1-17a95a7183df/16-9"
-    },
-    {
-      "start": "2026-06-16T23:00:00+05:00",
-      "stop": "2026-06-16T23:30:00+05:00",
-      "title": "The One Show",
-      "desc": "Alex Jones and Roman Kemp bring you the stories that matter from across the country.",
-      "language": "en",
-      "categories": [
-        "Entertainment"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/37e23d69-8a0f-4692-82bf-5452002691fe/16-9"
-    },
-    {
       "start": "2026-06-16T23:30:00+05:00",
       "stop": "2026-06-17T02:15:00+05:00",
       "title": "MOTD Live: France v Senegal",
@@ -144,6 +121,30 @@
         "Factual"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/cff939d4-2854-4494-9e42-3475226ddc78/16-9"
+    },
+    {
+      "start": "2026-06-17T15:15:00+05:00",
+      "stop": "2026-06-17T16:15:00+05:00",
+      "title": "Homes Under the Hammer",
+      "desc": "Martin struggles to keep his balance at a Liverpool house that feels like it's sloping away. Jacqui is in Kent, where damp is all around.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Factual"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/bc50a092-2eb1-41e1-a264-c7b7c108bf70/16-9"
+    },
+    {
+      "start": "2026-06-17T16:15:00+05:00",
+      "stop": "2026-06-17T17:00:00+05:00",
+      "title": "Bargain Hunt",
+      "desc": "Caroline Hawley presents today's show from Hemswell in Lincolnshire, with Izzie Balmer and Mark Stacey.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Game Show"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/39149bb8-a1ac-34e2-9880-0459a38d65fb/16-9"
     }
   ]
 }

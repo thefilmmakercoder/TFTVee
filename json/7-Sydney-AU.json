@@ -4,34 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-16T22:30:00+05:00",
-      "stop": "2026-06-16T23:00:00+05:00",
-      "title": "Home Shopping",
-      "sub_title": "Eezy Breezy (EZBZ2830A17904)",
-      "desc": "Shopping program.",
-      "language": "en",
-      "rating": "G",
-      "categories": [
-        "Special Interest"
-      ],
-      "episode": "S1 E127",
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/234200/image/334x188"
-    },
-    {
-      "start": "2026-06-16T23:00:00+05:00",
-      "stop": "2026-06-17T00:00:00+05:00",
-      "title": "NBC Today",
-      "sub_title": "Wednesday 17 June 2026",
-      "desc": "International news and weather including interviews with newsmakers in the world of politics, business, media, entertainment and sport.",
-      "language": "en",
-      "rating": "NR",
-      "categories": [
-        "News"
-      ],
-      "episode": "S26 E167",
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/132440/image/334x188"
-    },
-    {
       "start": "2026-06-17T00:00:00+05:00",
       "stop": "2026-06-17T00:30:00+05:00",
       "title": "Sunrise Early News",
@@ -165,6 +137,33 @@
       ],
       "episode": "S16 E8",
       "icon": "https://www.fetchtv.com.au/v2/epg/program/334281/image/334x188"
+    },
+    {
+      "start": "2026-06-17T13:00:00+05:00",
+      "stop": "2026-06-17T14:00:00+05:00",
+      "title": "Seven News",
+      "sub_title": "Wednesday 17 June 2026",
+      "desc": "Seven News live coverage of local, national and international news, plus sport, finance and weather updates. Go to 7NEWS.com.au today for more live updates.",
+      "language": "en",
+      "rating": "NR",
+      "categories": [
+        "News"
+      ],
+      "episode": "S26 E168",
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/132538/image/334x188"
+    },
+    {
+      "start": "2026-06-17T14:00:00+05:00",
+      "stop": "2026-06-17T14:30:00+05:00",
+      "title": "Home and Away",
+      "desc": "Sonny navigates his secret. Remi makes a fool of himself. Eden finally reaches out to Cash.",
+      "language": "en",
+      "rating": "PG",
+      "categories": [
+        "Drama"
+      ],
+      "episode": "S38 E99",
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/132225/image/334x188"
     }
   ]
 }
