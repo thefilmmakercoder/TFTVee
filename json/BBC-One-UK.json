@@ -4,77 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-16T08:15:00+05:00",
-      "stop": "2026-06-16T10:00:00+05:00",
-      "title": "BBC News",
-      "desc": "BBC One joins the BBC's rolling news channel for a night of news.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/aba28fc7-f080-4285-b393-6e1b710fded7/16-9"
-    },
-    {
-      "start": "2026-06-16T10:00:00+05:00",
-      "stop": "2026-06-16T13:30:00+05:00",
-      "title": "Breakfast",
-      "desc": "The latest news, sport, business and weather from the BBC's Breakfast team.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/31e3bb25-f8ca-44db-8d23-6f8ca2c3d321/16-9"
-    },
-    {
-      "start": "2026-06-16T13:30:00+05:00",
-      "stop": "2026-06-16T14:45:00+05:00",
-      "title": "Morning Live",
-      "desc": "Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier.",
-      "language": "en",
-      "categories": [
-        "Entertainment"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/7154d01f-213f-4597-874e-758605d5851a/16-9"
-    },
-    {
-      "start": "2026-06-16T14:45:00+05:00",
-      "stop": "2026-06-16T15:15:00+05:00",
-      "title": "Doorbell Detectives",
-      "desc": "Matt Allwright shows how a neighbourhood of doorbell detectives came together to catch a burglar.",
-      "language": "en",
-      "categories": [
-        "Entertainment",
-        "Factual"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/4890853f-0c7f-450b-93ac-21ea468606a6/16-9"
-    },
-    {
-      "start": "2026-06-16T15:15:00+05:00",
-      "stop": "2026-06-16T16:15:00+05:00",
-      "title": "Homes Under the Hammer",
-      "desc": "Dion wants to tear down a bungalow in Staffordshire, but the planners might have a different idea! Martel is in Grimsby, where the layout in a flat conversion is confusing.",
-      "language": "en",
-      "categories": [
-        "Entertainment",
-        "Factual"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/97d344bd-261a-4360-b7b6-c6c9ccfd8659/16-9"
-    },
-    {
-      "start": "2026-06-16T16:15:00+05:00",
-      "stop": "2026-06-16T17:00:00+05:00",
-      "title": "Bargain Hunt",
-      "desc": "Eric Knowles and the teams try to identify profitable antiques in Norwich with the help of experts Raj Bisram and Stephanie Connell. Eric also learns the history of football chanting.",
-      "language": "en",
-      "categories": [
-        "Entertainment",
-        "Game Show"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/cd674ff4-8ac9-48c9-bc27-418e2a1cfbfd/16-9"
-    },
-    {
       "start": "2026-06-16T17:00:00+05:00",
       "stop": "2026-06-16T18:00:00+05:00",
       "title": "BBC News at One including BBC London News",
@@ -145,6 +74,77 @@
         "Antiques"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/3dd96e16-2acd-4438-8cf2-3084144d4d59/16-9"
+    },
+    {
+      "start": "2026-06-16T21:15:00+05:00",
+      "stop": "2026-06-16T22:00:00+05:00",
+      "title": "Pointless",
+      "desc": "The quiz returns for another series in which contestants try to score as few points as possible by coming up with the answers no-one else could think of.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Game Show"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/7296c045-ff7d-3d00-a9b1-f88e04bc145d/16-9"
+    },
+    {
+      "start": "2026-06-16T22:00:00+05:00",
+      "stop": "2026-06-16T22:30:00+05:00",
+      "title": "BBC News",
+      "desc": "The latest national and international news from the BBC.",
+      "language": "en",
+      "categories": [
+        "News & Documentary",
+        "News"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/19975c89-7d69-4690-ab41-4c747261688d/16-9"
+    },
+    {
+      "start": "2026-06-16T22:30:00+05:00",
+      "stop": "2026-06-16T23:00:00+05:00",
+      "title": "BBC London News",
+      "desc": "The latest news, sport and weather from London.",
+      "language": "en",
+      "categories": [
+        "News & Documentary",
+        "News"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/b089fa81-df35-4da0-aba1-17a95a7183df/16-9"
+    },
+    {
+      "start": "2026-06-16T23:00:00+05:00",
+      "stop": "2026-06-16T23:30:00+05:00",
+      "title": "The One Show",
+      "desc": "Alex Jones and Roman Kemp bring you the stories that matter from across the country.",
+      "language": "en",
+      "categories": [
+        "Entertainment"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/37e23d69-8a0f-4692-82bf-5452002691fe/16-9"
+    },
+    {
+      "start": "2026-06-16T23:30:00+05:00",
+      "stop": "2026-06-17T02:15:00+05:00",
+      "title": "MOTD Live: France v Senegal",
+      "desc": "Live coverage of the opening match in Group I between France and Senegal in New York.",
+      "language": "en",
+      "categories": [
+        "Sports",
+        "Football"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/9bc0688f-35a4-486f-ae82-a59d83d05a85/16-9"
+    },
+    {
+      "start": "2026-06-17T02:15:00+05:00",
+      "stop": "2026-06-17T02:35:00+05:00",
+      "title": "BBC News and Weather",
+      "desc": "The latest national and international news, with reports from BBC correspondents worldwide.",
+      "language": "en",
+      "categories": [
+        "News & Documentary",
+        "News"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/4b34fe15-40d6-4dbe-b8f3-b4e5eea242dc/16-9"
     }
   ]
 }

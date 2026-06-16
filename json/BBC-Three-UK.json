@@ -4,14 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-16T08:00:00+05:00",
-      "stop": "2026-06-16T09:30:00+05:00",
-      "title": "This is BBC Three",
-      "desc": "Programmes start at 7.00pm.",
-      "language": "en",
-      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/BBC-Three-UK.png"
-    },
-    {
       "start": "2026-06-16T09:30:00+05:00",
       "stop": "2026-06-16T15:30:00+05:00",
       "title": "..programmes start at 7.00pm",
@@ -123,6 +115,18 @@
         "Factual"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/4f98d2be-c684-33e6-bcea-bb989b08d1bc/16-9"
+    },
+    {
+      "start": "2026-06-17T06:05:00+05:00",
+      "stop": "2026-06-17T06:15:00+05:00",
+      "title": "Spinster",
+      "desc": "Single, penniless poet Ruby's strict Presbyterian neighbours descend on her mum's home. Contains adult humour.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Comedy"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/873c477e-d15a-4e5e-bf12-85019fb827c8/16-9"
     }
   ]
 }
