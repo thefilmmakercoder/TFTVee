@@ -4,84 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-17T03:26:00+05:00",
-      "stop": "2026-06-17T05:30:00+05:00",
-      "title": "Earth, Wind & Fire (To Be Celestial vs. That's the Weight of the World)",
-      "desc": "Directed by Ahmir Questlove Thompson, exploring the musical origins and lasting cultural impact of Earth, Wind and Fire.",
-      "date": "2026",
-      "language": "en",
-      "categories": [
-        "Movie",
-        "Documentary",
-        "Music",
-        "R&B",
-        "Soul",
-        "Funk",
-        "Pop"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p33313277_st_h10_aa.jpg?w=960&h=540",
-      "credits": {
-        "director": [
-          "Ahmir \"Questlove\" Thompson"
-        ],
-        "actor": [
-          "Philip Bailey",
-          "Verdine White",
-          "Barack Obama"
-        ]
-      }
-    },
-    {
-      "start": "2026-06-17T05:30:00+05:00",
-      "stop": "2026-06-17T07:51:00+05:00",
-      "title": "The Color Purple",
-      "desc": "Torn apart from her sister and her children, Celie faces many hardships in life, including an abusive husband. With support from a sultry singer named Shug Avery, as well as her stand-her-ground stepdaughter, Celie ultimately finds extraordinary strength in the unbreakable bonds of a new kind of sisterhood.",
-      "date": "2023",
-      "language": "en",
-      "rating": "PG-13",
-      "categories": [
-        "Movie",
-        "Musical",
-        "Drama"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p21033267_v_h8_ae.jpg?w=960&h=540",
-      "credits": {
-        "director": [
-          "Blitz Bazawule"
-        ],
-        "actor": [
-          "Fantasia Barrino",
-          "Taraji P. Henson",
-          "Danielle Brooks"
-        ]
-      }
-    },
-    {
-      "start": "2026-06-17T07:51:00+05:00",
-      "stop": "2026-06-17T09:45:00+05:00",
-      "title": "If I Had Legs I'd Kick You",
-      "desc": "With her life crashing down around her, Linda attempts to navigate her child's mysterious illness, her absent husband, a missing person, and an increasingly hostile relationship with her therapist.",
-      "date": "2025",
-      "language": "en",
-      "rating": "R",
-      "categories": [
-        "Movie",
-        "Thriller",
-        "Comedy drama"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p30882706_v_h8_ac.jpg?w=960&h=540",
-      "credits": {
-        "director": [
-          "Mary Bronstein"
-        ],
-        "actor": [
-          "Rose Byrne",
-          "Conan O'Brien",
-          "Danielle Macdonald"
-        ]
-      }
-    },
-    {
       "start": "2026-06-17T09:45:00+05:00",
       "stop": "2026-06-17T11:32:00+05:00",
       "title": "My Cousin Rachel",
@@ -312,6 +234,90 @@
         "actor": [
           "Alex Honnold",
           "Dean Potter"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-17T21:24:00+05:00",
+      "stop": "2026-06-17T22:19:00+05:00",
+      "title": "The Dark Wizard",
+      "sub_title": "This is Art, This is Spirituality",
+      "desc": "The rivalry between Dean and Alex Honnold intensifies as both climbers vie to be the first to free solo a route on the 3000-foot El Capitan; as Dean's mental state deteriorates, he alienates his inner circle and accepts a dangerous career opportunity in China.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "Series",
+        "Documentary",
+        "Action",
+        "Biography"
+      ],
+      "episode": "S1 E3",
+      "icon": "http://dtil.tmsimg.com/assets/p32613711_b_h10_aa.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Peter Mortimer"
+        ],
+        "actor": [
+          "Alex Honnold",
+          "Dean Potter"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-17T22:19:00+05:00",
+      "stop": "2026-06-17T23:21:00+05:00",
+      "title": "The Dark Wizard",
+      "sub_title": "Transcending Human Limitations",
+      "desc": "With a new relationship grounding him, Dean regains emotional stability and his long-held dream of flight comes to fruition when he immerses himself in the cutting-edge world of wingsuit flying.",
+      "date": "2026",
+      "language": "en",
+      "rating": "A14",
+      "categories": [
+        "Series",
+        "Documentary",
+        "Action",
+        "Biography"
+      ],
+      "episode": "S1 E4",
+      "icon": "http://dtil.tmsimg.com/assets/p32613711_b_h10_aa.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Peter Mortimer"
+        ],
+        "actor": [
+          "Dean Potter",
+          "Alex Honnold",
+          "Jen Rapp"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-17T23:21:00+05:00",
+      "stop": "2026-06-18T00:27:00+05:00",
+      "title": "House of the Dragon",
+      "sub_title": "The Heirs of the Dragon",
+      "desc": "Viserys hosts a tournament to celebrate the birth of his second child; Rhaenyra welcomes her Uncle Daemon back to the Red Keep.",
+      "date": "2022",
+      "language": "en",
+      "rating": "TVMA",
+      "categories": [
+        "Series",
+        "Drama",
+        "Fantasy"
+      ],
+      "episode": "S1 E1",
+      "icon": "http://dtil.tmsimg.com/assets/p19657355_b_h10_bc.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Clare Kilner",
+          "Geeta V. Patel",
+          "Greg Yaitanes"
+        ],
+        "actor": [
+          "Paddy Considine",
+          "Emma D'Arcy",
+          "Matt Smith"
         ]
       }
     }

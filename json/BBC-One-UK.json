@@ -4,30 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-17T05:15:00+05:00",
-      "stop": "2026-06-17T05:20:00+05:00",
-      "title": "Weather for the Week Ahead",
-      "desc": "Detailed weather forecast.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/abb23bd3-fbcb-4a48-a1b2-447684481b21/16-9"
-    },
-    {
-      "start": "2026-06-17T05:20:00+05:00",
-      "stop": "2026-06-17T08:50:00+05:00",
-      "title": "BBC News",
-      "desc": "BBC One joins the BBC's rolling news channel for a night of news.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/2a156582-aef7-42fd-b8f7-a2379ddee2be/16-9"
-    },
-    {
       "start": "2026-06-17T08:50:00+05:00",
       "stop": "2026-06-17T11:15:00+05:00",
       "title": "MOTD Live: Austria v Jordan",
@@ -145,6 +121,30 @@
         "Gradening"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/34aa7334-b201-3594-a1d7-d950bbf7ce72/16-9"
+    },
+    {
+      "start": "2026-06-17T20:00:00+05:00",
+      "stop": "2026-06-17T21:00:00+05:00",
+      "title": "Garden Rescue",
+      "desc": "The team transform an inaccessible garden into a relaxing, wheelchair-friendly space full of colour and another overgrown and unloved plot into a gothic haven.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Gradening"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/a8d87955-6491-47d2-8f77-52a1bb23c2c1/16-9"
+    },
+    {
+      "start": "2026-06-17T21:00:00+05:00",
+      "stop": "2026-06-17T21:15:00+05:00",
+      "title": "BBC News",
+      "desc": "The latest national and international news from the BBC.",
+      "language": "en",
+      "categories": [
+        "News & Documentary",
+        "News"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/20aa6623-bb4d-4a1c-9461-2a920c4b2f1f/16-9"
     }
   ]
 }

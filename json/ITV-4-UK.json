@@ -4,53 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-17T06:30:00+05:00",
-      "stop": "2026-06-17T07:00:00+05:00",
-      "title": "Unwind with ITV",
-      "desc": "Your daily escape designed to calm the mind and encourage relaxation and reflection.",
-      "language": "en",
-      "categories": [
-        "Entertainment",
-        "Lifestyles"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/53f5c8ce-59ea-45be-82bd-ff36294d8c68/16-9"
-    },
-    {
-      "start": "2026-06-17T07:00:00+05:00",
-      "stop": "2026-06-17T10:00:00+05:00",
-      "title": "Teleshopping",
-      "desc": "Shopping from home.",
-      "language": "en",
-      "categories": [
-        "Specialist",
-        "Shopping"
-      ],
-      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/ITV-4-UK.png"
-    },
-    {
-      "start": "2026-06-17T10:00:00+05:00",
-      "stop": "2026-06-17T10:25:00+05:00",
-      "title": "Great Racehorses",
-      "desc": "From Nijinsky to Tiger Roll, Ed Chamberlin introduces some of the great racehorses of the modern era - enjoy Best Mate's third Gold Cup and Shergar racing to Derby glory.",
-      "language": "en",
-      "categories": [
-        "Sports"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/4e565391-56dd-4f5f-aea6-7814f51f5d3f/16-9"
-    },
-    {
-      "start": "2026-06-17T10:25:00+05:00",
-      "stop": "2026-06-17T11:25:00+05:00",
-      "title": "Magnum, P.I.",
-      "desc": "Did You See the Sunrise? Part One: The first part of a two-part episode of the classic US action drama series. The private eye encounters a face he first met during the Vietnam War.",
-      "language": "en",
-      "categories": [
-        "Entertainment",
-        "Action"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/67808da3-6845-47d8-bd6d-849d7ee99da6/16-9"
-    },
-    {
       "start": "2026-06-17T11:25:00+05:00",
       "stop": "2026-06-17T12:20:00+05:00",
       "title": "Magnum, P.I.",
@@ -149,6 +102,57 @@
         "Detective"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/e71c11db-c0d7-483e-9605-119fd7342d1b/16-9"
+    },
+    {
+      "start": "2026-06-17T19:40:00+05:00",
+      "stop": "2026-06-17T20:45:00+05:00",
+      "title": "Boon",
+      "sub_title": "One Reborn Every Minute",
+      "desc": "Classic drama. Boon is hired by an evangelical preacher to find out who is sabotaging his shows and ruining his chances of winning a television contract.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Drama"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/15536661-7a5a-4b6c-b2a0-a373d389b8a7/16-9"
+    },
+    {
+      "start": "2026-06-17T20:45:00+05:00",
+      "stop": "2026-06-17T21:50:00+05:00",
+      "title": "The Sweeney",
+      "sub_title": "Thou Shalt Not Kill",
+      "desc": "Regan and Carter are called to a siege at a bank, where two armed robbers are holding hostages.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Drama"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/e5acd98b-2fb0-4896-ab05-bcdb50f4bd66/16-9"
+    },
+    {
+      "start": "2026-06-17T21:50:00+05:00",
+      "stop": "2026-06-17T22:30:00+05:00",
+      "title": "ITV Racing Live: Royal Ascot",
+      "desc": "Francesca Cumani presents live coverage of the final race on day two of Royal Ascot.",
+      "language": "en",
+      "categories": [
+        "Sports",
+        "Racing"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/c633dc94-f715-41a8-b436-ce119bfc40d9/16-9"
+    },
+    {
+      "start": "2026-06-17T22:30:00+05:00",
+      "stop": "2026-06-17T23:00:00+05:00",
+      "title": "River Monsters",
+      "sub_title": "Vampires of the Deep",
+      "desc": "Extreme fishing series. Jeremy Wade embarks on a punishing mission to the Pacific Northwest to find an ancient river monster that is said to attack swimmers.",
+      "language": "en",
+      "categories": [
+        "News & Documentary",
+        "Adventure"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/ada5c561-53dc-4c1c-bc74-2784b0245e85/16-9"
     }
   ]
 }
