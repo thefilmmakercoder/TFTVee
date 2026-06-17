@@ -4,62 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-17T20:30:00+05:00",
-      "stop": "2026-06-17T21:00:00+05:00",
-      "title": "New York Live",
-      "desc": "Celebrity interviews and discussing recipes, beauty, fashion and current events pertinent to the tri-state region.",
-      "date": "2011",
-      "language": "en",
-      "categories": [
-        "News",
-        "Newsmagazine"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p8692580_b_h8_ac.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-06-17T21:00:00+05:00",
-      "stop": "2026-06-17T22:00:00+05:00",
-      "title": "NBC News Daily",
-      "desc": "NBC News provides viewers with the latest national and international news; consumer, health and personal finance reporting; up-to-the-minute local news.",
-      "date": "2026",
-      "language": "en",
-      "categories": [
-        "Series",
-        "News"
-      ],
-      "episode": "E109",
-      "icon": "http://dtil.tmsimg.com/assets/p22712535_b_h8_ad.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Vicky Nguyen",
-          "Morgan Radford"
-        ]
-      }
-    },
-    {
-      "start": "2026-06-17T22:00:00+05:00",
-      "stop": "2026-06-17T23:00:00+05:00",
-      "title": "Dateline",
-      "sub_title": "Poison",
-      "desc": "Months after a woman and her husband come down with the same mysterious illness, the woman dies after experiencing the same symptoms; old recordings reveal the twisted truth about her demise.",
-      "date": "2018",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Series",
-        "Newsmagazine",
-        "Documentary"
-      ],
-      "episode": "S2 E7",
-      "icon": "http://dtil.tmsimg.com/assets/p13159645_b_h10_aa.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Natalie Morales",
-          "Craig Melvin"
-        ]
-      }
-    },
-    {
       "start": "2026-06-17T23:00:00+05:00",
       "stop": "2026-06-18T00:00:00+05:00",
       "title": "Access Daily With Mario & Kit",
@@ -203,6 +147,72 @@
         "News"
       ],
       "icon": "http://dtil.tmsimg.com/assets/p18101773_b_h10_ad.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-06-18T04:30:00+05:00",
+      "stop": "2026-06-18T05:00:00+05:00",
+      "title": "Inside the US Open",
+      "desc": "The best, most thrilling and emotional moments in the history of the tournament. Features exclusive clips and soundbites of world number one Roger Federer.",
+      "date": "2012",
+      "language": "en",
+      "categories": [
+        "Tennis"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p9424995_b_h8_aa.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-06-18T05:00:00+05:00",
+      "stop": "2026-06-18T06:00:00+05:00",
+      "title": "Brilliant Minds",
+      "sub_title": "Through the Looking Glass",
+      "desc": "On his first day back at Bronx General, Wolf treats an ex-con who has a medical emergency during a hostage situation; Ericka and Charlie care for a newborn baby in the midst of a life-threatening illness.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "Series",
+        "Drama",
+        "Medical"
+      ],
+      "episode": "S2 E18",
+      "icon": "http://dtil.tmsimg.com/assets/p30834652_b_h8_ad.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "DeMane Davis"
+        ],
+        "actor": [
+          "Zachary Quinto",
+          "Tamberla Perry",
+          "Ashleigh LaThrop"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-18T06:00:00+05:00",
+      "stop": "2026-06-18T07:00:00+05:00",
+      "title": "Chicago Fire",
+      "sub_title": "A Man Possessed",
+      "desc": "When an act of arson harms someone close to the Firehouse 51 family, Severide must track down the perpetrator; impending budget cuts push Mouch and Pascal to get creative.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "Series",
+        "Drama",
+        "Action"
+      ],
+      "episode": "S14 E8",
+      "icon": "http://dtil.tmsimg.com/assets/p30834763_b_h8_ad.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Reza Tabrizi"
+        ],
+        "actor": [
+          "Dermot Mulroney",
+          "Taylor Kinney",
+          "David Eigenberg"
+        ]
+      }
     }
   ]
 }

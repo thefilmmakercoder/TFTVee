@@ -4,18 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-17T21:00:00+05:00",
-      "stop": "2026-06-17T21:15:00+05:00",
-      "title": "BBC News",
-      "desc": "The latest national and international news from the BBC.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/20aa6623-bb4d-4a1c-9461-2a920c4b2f1f/16-9"
-    },
-    {
       "start": "2026-06-17T21:15:00+05:00",
       "stop": "2026-06-17T21:30:00+05:00",
       "title": "BBC London News",
@@ -145,6 +133,18 @@
         "Football"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/6493ff2f-16c7-4ee7-a95f-c94c8bc57cbf/16-9"
+    },
+    {
+      "start": "2026-06-18T09:10:00+05:00",
+      "stop": "2026-06-18T09:15:00+05:00",
+      "title": "Weather for the Week Ahead",
+      "desc": "Detailed weather forecast.",
+      "language": "en",
+      "categories": [
+        "News & Documentary",
+        "News"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/9a8675f6-ed57-4335-94c8-37d5535e0ff5/16-9"
     }
   ]
 }

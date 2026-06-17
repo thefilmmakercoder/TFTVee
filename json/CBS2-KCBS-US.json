@@ -4,68 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-17T19:00:00+05:00",
-      "stop": "2026-06-17T21:00:00+05:00",
-      "title": "CBS Mornings",
-      "desc": "Norah O'Donnell interviews Vice President JD Vance; singer-songwriter Durand Bernarr.",
-      "date": "2026",
-      "language": "en",
-      "categories": [
-        "Series",
-        "Talk",
-        "News"
-      ],
-      "episode": "E120",
-      "icon": "http://dtil.tmsimg.com/assets/p20589677_b_h8_aj.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Gayle King",
-          "Tony Dokoupil",
-          "Nate Burleson"
-        ]
-      }
-    },
-    {
-      "start": "2026-06-17T21:00:00+05:00",
-      "stop": "2026-06-17T22:00:00+05:00",
-      "title": "Let's Make a Deal",
-      "desc": "Costumed contestants compete for cash and prizes.",
-      "date": "2025",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Series",
-        "Game show"
-      ],
-      "episode": "S17 E38",
-      "icon": "http://dtil.tmsimg.com/assets/p31082663_b_h8_aa.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Wayne Brady"
-        ]
-      }
-    },
-    {
-      "start": "2026-06-17T22:00:00+05:00",
-      "stop": "2026-06-17T23:00:00+05:00",
-      "title": "The Price Is Right",
-      "desc": "Participants must guess the prices of different types of items, ranging from vehicles to electronic appliances, to win a prize.",
-      "date": "2026",
-      "language": "en",
-      "rating": "TVG",
-      "categories": [
-        "Series",
-        "Game show"
-      ],
-      "episode": "S54 E178",
-      "icon": "http://dtil.tmsimg.com/assets/p31082639_b_h8_aa.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Drew Carey"
-        ]
-      }
-    },
-    {
       "start": "2026-06-17T23:00:00+05:00",
       "stop": "2026-06-17T23:30:00+05:00",
       "title": "CBS LA at 11am",
@@ -249,6 +187,51 @@
         "News"
       ],
       "icon": "http://dtil.tmsimg.com/assets/p31317859_b_h10_aa.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-06-18T05:00:00+05:00",
+      "stop": "2026-06-18T06:00:00+05:00",
+      "title": "CBS LA at 5pm",
+      "desc": "Join the CBS LA team for stories from communities around SoCal, breaking news from The Desk, and NEXT Weather from the Weathersphere.",
+      "date": "2025",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p31308569_b_h10_aa.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-06-18T06:00:00+05:00",
+      "stop": "2026-06-18T06:30:00+05:00",
+      "title": "CBS LA at 6pm",
+      "desc": "Join the CBS LA team for stories from communities around SoCal, breaking news from The Desk, and NEXT Weather from the Weathersphere.",
+      "date": "2025",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p31308575_b_h10_aa.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-06-18T06:30:00+05:00",
+      "stop": "2026-06-18T07:00:00+05:00",
+      "title": "CBS Evening News",
+      "desc": "Tony Dokoupil shares the day's most important stories, delivering context and depth to bring greater understanding to one's world.",
+      "date": "2026",
+      "language": "en",
+      "categories": [
+        "Series",
+        "News"
+      ],
+      "episode": "E168",
+      "icon": "http://dtil.tmsimg.com/assets/p28807922_b_h8_ae.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Tony Dokoupil",
+          "Maurice DuBois",
+          "Jericka Duncan"
+        ]
+      }
     }
   ]
 }

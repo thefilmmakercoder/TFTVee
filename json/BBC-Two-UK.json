@@ -4,54 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-17T15:15:00+05:00",
-      "stop": "2026-06-17T17:00:00+05:00",
-      "title": "Politics Live",
-      "desc": "The big political issues of the day.",
-      "language": "en",
-      "categories": [
-        "Entertainment",
-        "Factual"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/a2ee9d9a-6c98-407f-9855-cb2f2e0fd6db/16-9"
-    },
-    {
-      "start": "2026-06-17T17:00:00+05:00",
-      "stop": "2026-06-17T22:00:00+05:00",
-      "title": "Tennis: Queen's",
-      "desc": "Live coverage from day 10 of the 2026 Queen's tennis tournament.",
-      "language": "en",
-      "categories": [
-        "Sports",
-        "Tennis"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/d92dc03e-9df9-4c54-bbb6-b09891191879/16-9"
-    },
-    {
-      "start": "2026-06-17T22:00:00+05:00",
-      "stop": "2026-06-17T22:30:00+05:00",
-      "title": "Richard Osman's House of Games",
-      "desc": "Ben Bailey Smith, Robin Ince, Lara Ricote and Helen Skelton test their general knowledge skills on this week's House of Games.",
-      "language": "en",
-      "categories": [
-        "Entertainment",
-        "Game Show"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/bfa0ccac-54ec-4870-ba10-f91c629f081d/16-9"
-    },
-    {
-      "start": "2026-06-17T22:30:00+05:00",
-      "stop": "2026-06-17T23:00:00+05:00",
-      "title": "Great Continental Railway Journeys",
-      "desc": "Michael's saga resumes in Larvik on Norway's southern coast, where he investigates the city's prized natural resource, a distinctive blue rock named larvikite.",
-      "language": "en",
-      "categories": [
-        "Entertainment",
-        "Travel"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/bcf5c6f6-2476-40e3-9525-07789e2d3e50/16-9"
-    },
-    {
       "start": "2026-06-17T23:00:00+05:00",
       "stop": "2026-06-18T00:00:00+05:00",
       "title": "Cricket: Today at the Test: England v New Zealand",
@@ -146,6 +98,50 @@
         "Factual"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/ca8f6d5f-8262-3427-85b0-ba988cc420b8/16-9"
+    },
+    {
+      "start": "2026-06-18T04:55:00+05:00",
+      "stop": "2026-06-18T05:25:00+05:00",
+      "title": "Do You Know Your Place?",
+      "desc": "Vernon Kay and unreliable tour guide Paul Gorton test Nitin Ganatra, the Rev Kate Bottley and Alex Gray, aka Gladiator Apollo, on their knowledge of the UK. Today's stop is Wrexham.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Game Show"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/76d308bf-8f7d-441c-8b1e-a5fdaca21821/16-9"
+    },
+    {
+      "start": "2026-06-18T05:25:00+05:00",
+      "stop": "2026-06-18T05:55:00+05:00",
+      "title": "Peelers: The PSNI for Real",
+      "desc": "The Peelers raid a drug flat, and a man aggressively kicks off - all the way to custody. Contains very strong language and some upsetting scenes.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Factual"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/4950be06-04c4-47d8-9f80-f1dfd6b4dd09/16-9"
+    },
+    {
+      "start": "2026-06-18T05:55:00+05:00",
+      "stop": "2026-06-18T06:40:00+05:00",
+      "title": "Two Weeks in August",
+      "desc": "A road trip takes a dark turn when Zoe, Solomon and Jacob get caught in a car accident. Contains some strong language.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Drama"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/298cd8e6-3dc7-4a09-96bb-febc53ffbb42/16-9"
+    },
+    {
+      "start": "2026-06-18T06:40:00+05:00",
+      "stop": "2026-06-18T10:30:00+05:00",
+      "title": "This is BBC Two",
+      "desc": "Highlights of programmes on BBC Two.",
+      "language": "en",
+      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/BBC-Two-UK.png"
     }
   ]
 }

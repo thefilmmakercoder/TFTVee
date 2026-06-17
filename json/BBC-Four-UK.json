@@ -4,50 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-17T09:30:00+05:00",
-      "stop": "2026-06-17T15:30:00+05:00",
-      "title": "..programmes start at 7.00pm",
-      "desc": "BBC Four provides an intelligent mix of arts, science, and history programming, offering deep-dive documentaries and world cinema for a curious audience.",
-      "language": "en",
-      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/BBC-Four-UK.png"
-    },
-    {
-      "start": "2026-06-17T15:30:00+05:00",
-      "stop": "2026-06-17T21:30:00+05:00",
-      "title": "..programmes start at 7.00pm",
-      "desc": "BBC Four provides an intelligent mix of arts, science, and history programming, offering deep-dive documentaries and world cinema for a curious audience.",
-      "language": "en",
-      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/BBC-Four-UK.png"
-    },
-    {
-      "start": "2026-06-17T21:30:00+05:00",
-      "stop": "2026-06-17T22:58:00+05:00",
-      "title": "..programmes start at 7.00pm",
-      "desc": "BBC Four provides an intelligent mix of arts, science, and history programming, offering deep-dive documentaries and world cinema for a curious audience.",
-      "language": "en",
-      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/BBC-Four-UK.png"
-    },
-    {
-      "start": "2026-06-17T22:58:00+05:00",
-      "stop": "2026-06-17T23:00:00+05:00",
-      "title": "This is BBC Four",
-      "desc": "Programmes start at 7.00pm.",
-      "language": "en",
-      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/BBC-Four-UK.png"
-    },
-    {
-      "start": "2026-06-17T23:00:00+05:00",
-      "stop": "2026-06-17T23:30:00+05:00",
-      "title": "University Challenge",
-      "desc": "Two more teams begin their quarter-final campaigns, hoping to secure the first of the two wins they need to progress to the semi-finals. Jeremy Paxman asks the questions.",
-      "language": "en",
-      "categories": [
-        "Entertainment",
-        "Game Show"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/26fe36be-79ac-48cf-9eff-e7ca68127e30/16-9"
-    },
-    {
       "start": "2026-06-17T23:30:00+05:00",
       "stop": "2026-06-18T00:00:00+05:00",
       "title": "Only Connect",
@@ -130,6 +86,67 @@
         "Arts"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/bb5a3e2e-cc32-4e91-bd24-be36c132f507/16-9"
+    },
+    {
+      "start": "2026-06-18T03:20:00+05:00",
+      "stop": "2026-06-18T03:50:00+05:00",
+      "title": "Second City Firsts: Girl",
+      "sub_title": "1970s drama",
+      "desc": "Just as she is about to leave the army, Jackie has an encounter with an old lover. Stars Alison Steadman in an early TV role. Contains language which some may find offensive.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Drama"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/3ab83c19-d5cb-4937-97c9-c4ce683f6f87/16-9"
+    },
+    {
+      "start": "2026-06-18T03:50:00+05:00",
+      "stop": "2026-06-18T04:55:00+05:00",
+      "title": "Vienna: Empire, Dynasty and Dream",
+      "desc": "The story of how Vienna, triumphant after the Ottoman threat receded at the end of the 17th century, was transformed from a fortress into a great cultural capital.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Factual"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/179fe86a-7c28-4d34-9fef-975cac1d0056/16-9"
+    },
+    {
+      "start": "2026-06-18T04:55:00+05:00",
+      "stop": "2026-06-18T05:45:00+05:00",
+      "title": "The Nazis: A Warning from History",
+      "desc": "A look at the extraordinary popularity of both Hitler and the Nazis, as well as the astonishing degree of voluntary support ordinary Germans gave the infamous Gestapo.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Factual"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/bfda98d3-5550-41bf-a96e-3eb35027943a/16-9"
+    },
+    {
+      "start": "2026-06-18T05:45:00+05:00",
+      "stop": "2026-06-18T06:15:00+05:00",
+      "title": "Only Connect",
+      "desc": "Quiz show in which connections must be made between seemingly random subjects. Three students play a trio of Hitchhiker's Guide to the Galaxy fans.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Game Show"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/836f50c4-cb07-427a-ba6d-12bf89be2dac/16-9"
+    },
+    {
+      "start": "2026-06-18T06:15:00+05:00",
+      "stop": "2026-06-18T07:15:00+05:00",
+      "title": "Universe",
+      "desc": "Professor Brian Cox questions whether we are alone in the universe. There might be more planets than stars in our galaxy - but will we find a second Earth.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Factual"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/34d5e3f6-81f0-4315-8a79-ffa5a44bbf65/16-9"
     }
   ]
 }

@@ -4,33 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-17T19:00:00+05:00",
-      "stop": "2026-06-17T21:00:00+05:00",
-      "title": "Good Day LA at 7am",
-      "desc": "Morning news coverage.",
-      "date": "2012",
-      "language": "en",
-      "categories": [
-        "Talk"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p9542652_b_h8_ac.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-06-17T21:00:00+05:00",
-      "stop": "2026-06-17T22:00:00+05:00",
-      "title": "FIFA World Cup Live",
-      "desc": "Highlights and news stories of the day's action, including previews of upcoming matches.",
-      "date": "2026",
-      "language": "en",
-      "categories": [
-        "Series",
-        "Sports talk",
-        "Soccer"
-      ],
-      "episode": "E9",
-      "icon": "http://dtil.tmsimg.com/assets/p33051802_b_h8_ac.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-06-17T22:00:00+05:00",
       "stop": "2026-06-18T00:00:00+05:00",
       "title": "Live: FIFA World Cup 2026",
@@ -180,6 +153,51 @@
       "credits": {
         "actor": [
           "Harvey Levin"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-18T08:00:00+05:00",
+      "stop": "2026-06-18T09:00:00+05:00",
+      "title": "MasterChef",
+      "sub_title": "Auditions Day 4 (The Americas)",
+      "desc": "It's the last round of auditions, and home cooks from the Americas vie for a chance to earn a white apron.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "Series",
+        "Cooking",
+        "Competition Reality"
+      ],
+      "episode": "S25 E4",
+      "icon": "http://dtil.tmsimg.com/assets/p8071643_b_h8_au.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Gordon Ramsay",
+          "Joe Bastianich",
+          "Tiffany Derry"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-18T09:00:00+05:00",
+      "stop": "2026-06-18T10:00:00+05:00",
+      "title": "Fear Factor: House of Fear",
+      "sub_title": "48 Hours of Fear -- Part Two",
+      "desc": "Five sleep-deprived contestants push through another 24 hours of tarantulas, needles, electrocution and a disgusting sushi showdown that pushes one contestant over the edge; a harrowing game of ATV chicken to decides who wins the $50,000 grand prize.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "Series",
+        "Competition Reality"
+      ],
+      "episode": "S1 E12",
+      "icon": "http://dtil.tmsimg.com/assets/p31694821_b_h8_ab.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Johnny Knoxville"
         ]
       }
     }
