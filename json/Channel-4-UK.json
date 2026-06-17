@@ -4,31 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-17T23:00:00+05:00",
-      "stop": "2026-06-18T00:00:00+05:00",
-      "title": "Channel 4 News",
-      "desc": "Channel 4's flagship news programme. Including the weather.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/c46147b9-f9d3-4867-927f-d0396ed322e2/16-9"
-    },
-    {
-      "start": "2026-06-18T00:00:00+05:00",
-      "stop": "2026-06-18T01:00:00+05:00",
-      "title": "Location, Location, Location",
-      "sub_title": "We're back in London",
-      "desc": "Have musicians Molly and Sam found harmony and a home? And it's a Crystal Palace catch up with Alan and Rachel, who've really made their home their own.",
-      "language": "en",
-      "categories": [
-        "Entertainment",
-        "Lifestyles"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/e7b6a112-1abc-47eb-8b28-53a33dc666cc/16-9"
-    },
-    {
       "start": "2026-06-18T01:00:00+05:00",
       "stop": "2026-06-18T02:00:00+05:00",
       "title": "The Light in the Hall: Still Waters",
@@ -152,6 +127,32 @@
         "Game Show"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/35bfcd4c-c4d2-4d74-8ed6-e225da536ed8/16-9"
+    },
+    {
+      "start": "2026-06-18T10:25:00+05:00",
+      "stop": "2026-06-18T10:50:00+05:00",
+      "title": "Cheers",
+      "sub_title": "Sammy and the Professor",
+      "desc": "Carla faces a tax audit and turns to Norm for advice. Sam starts an affair with Rebecca's old professor.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Comedy"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/2bb919ac-5d57-46e2-883d-7b680319e667/16-9"
+    },
+    {
+      "start": "2026-06-18T10:50:00+05:00",
+      "stop": "2026-06-18T11:15:00+05:00",
+      "title": "Cheers",
+      "sub_title": "What Is",
+      "desc": ".. Cliff Clavin?: Cliff appears on his favourite game show but humiliates himself. Somebody steals Sam's little black book and calls the women in it to arrange dates.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Comedy"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/9bb426c9-ba97-4f8b-bfce-a8f1200c1988/16-9"
     }
   ]
 }
