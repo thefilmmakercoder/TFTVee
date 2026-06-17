@@ -4,30 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-17T08:00:00+05:00",
-      "stop": "2026-06-17T11:00:00+05:00",
-      "title": "Teleshopping",
-      "desc": "Teleshopping.",
-      "language": "en",
-      "categories": [
-        "Specialist",
-        "Shopping"
-      ],
-      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/Film-4-UK.png"
-    },
-    {
-      "start": "2026-06-17T11:00:00+05:00",
-      "stop": "2026-06-17T15:00:00+05:00",
-      "title": "Teleshopping",
-      "desc": "Teleshopping.",
-      "language": "en",
-      "categories": [
-        "Specialist",
-        "Shopping"
-      ],
-      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/Film-4-UK.png"
-    },
-    {
       "start": "2026-06-17T15:00:00+05:00",
       "stop": "2026-06-17T17:05:00+05:00",
       "title": "Garden of Evil",
@@ -162,6 +138,34 @@
         "Shopping"
       ],
       "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/Film-4-UK.png"
+    },
+    {
+      "start": "2026-06-18T15:00:00+05:00",
+      "stop": "2026-06-18T16:50:00+05:00",
+      "title": "The True Story of Jesse James",
+      "desc": "Robert Wagner stars as the infamous outlaw in Nicholas Ray's western, which follows the last 18 years of the robber's life.",
+      "date": "1957",
+      "language": "en",
+      "rating": "U",
+      "categories": [
+        "Movie",
+        "Western"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/40850e37-7ef5-4484-ba27-12cd8485bf6a/16-9"
+    },
+    {
+      "start": "2026-06-18T16:50:00+05:00",
+      "stop": "2026-06-18T18:35:00+05:00",
+      "title": "It Should Happen to You",
+      "desc": "Judy Holliday stars in this comedy as a smalltown girl who comes to New York and rents a billboard to publicise her name - and soon she's a TV star. With Jack Lemmon.",
+      "date": "1954",
+      "language": "en",
+      "rating": "U",
+      "categories": [
+        "Movie",
+        "Comedy"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/5f13c08b-6c89-4b5c-8b53-d5ee36c8fb43/16-9"
     }
   ]
 }
