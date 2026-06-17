@@ -4,20 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-18T00:00:00+05:00",
-      "stop": "2026-06-18T00:29:00+05:00",
-      "title": "Today Early News",
-      "sub_title": "Thursday 18 June 2026",
-      "desc": "Today Early News with up to date news from Australia and around the world as well as the latest in sport and weather.",
-      "language": "en",
-      "rating": "NR",
-      "categories": [
-        "News"
-      ],
-      "episode": "E121",
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/428725/image/334x188"
-    },
-    {
       "start": "2026-06-18T00:29:00+05:00",
       "stop": "2026-06-18T04:00:00+05:00",
       "title": "Today",
@@ -164,6 +150,20 @@
       ],
       "episode": "E121",
       "icon": "https://www.fetchtv.com.au/v2/epg/program/131990/image/334x188"
+    },
+    {
+      "start": "2026-06-18T14:30:00+05:00",
+      "stop": "2026-06-18T16:35:00+05:00",
+      "title": "Under 19s State of Origin",
+      "sub_title": "NSW v QLD",
+      "desc": "Wide World Of Sports presents the Under 19s State of Origin live from North Sydney Oval. Both teams will be vying for the chance to win the grudge match to achieve State of Origin glory. Join us for all the action. Kick off at 7:45PM AEST.",
+      "language": "en",
+      "rating": "NR",
+      "categories": [
+        "Sports"
+      ],
+      "episode": "E1",
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/5881279/image/334x188"
     }
   ]
 }

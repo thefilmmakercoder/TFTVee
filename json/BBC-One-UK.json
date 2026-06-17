@@ -4,18 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-18T02:00:00+05:00",
-      "stop": "2026-06-18T02:30:00+05:00",
-      "title": "BBC News and Weather",
-      "desc": "The latest national and international news, with reports from BBC correspondents worldwide.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/ad8e2cde-bcc5-4252-a7c4-2b155b1a90ed/16-9"
-    },
-    {
       "start": "2026-06-18T02:30:00+05:00",
       "stop": "2026-06-18T02:40:00+05:00",
       "title": "BBC London News",
@@ -144,6 +132,18 @@
         "Factual"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/9a2ad362-0463-4895-9581-97261803a8a8/16-9"
+    },
+    {
+      "start": "2026-06-18T15:15:00+05:00",
+      "stop": "2026-06-18T16:15:00+05:00",
+      "title": "Homes Under the Hammer",
+      "desc": "A pair of brothers tackle their first project together in Stoke, and they 're ready to roll up their sleeves to get stuck in. Martel is in Aberdeen to see a flat in need of a facelift.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Factual"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/72b5e48f-5ccb-4d69-9d0c-f631b0bd0aca/16-9"
     }
   ]
 }

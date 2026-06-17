@@ -4,42 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-18T01:00:00+05:00",
-      "stop": "2026-06-18T02:00:00+05:00",
-      "title": "PIX11 News at 4",
-      "desc": "Staying informed with the news and headlines.",
-      "date": "2021",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p20535966_b_h8_ab.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-06-18T02:00:00+05:00",
-      "stop": "2026-06-18T03:00:00+05:00",
-      "title": "PIX11 News at 5",
-      "desc": "Staying informed with the news and headlines.",
-      "date": "2014",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p10829683_b_h8_ab.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-06-18T03:00:00+05:00",
-      "stop": "2026-06-18T03:30:00+05:00",
-      "title": "PIX11 News at 6",
-      "desc": "Staying informed with the news and headlines.",
-      "date": "2015",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p11641865_b_h8_ab.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-06-18T03:30:00+05:00",
       "stop": "2026-06-18T04:00:00+05:00",
       "title": "PIX11 Evening News",
@@ -216,6 +180,87 @@
           "Jennifer Aniston",
           "Courteney Cox",
           "Lisa Kudrow"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-18T09:30:00+05:00",
+      "stop": "2026-06-18T10:00:00+05:00",
+      "title": "Two and a Half Men",
+      "sub_title": "My Son's Enormous Head",
+      "desc": "Charlie fights the overwhelming urge to flee when Chelsea gets sick, and he is forced to take care of her.",
+      "date": "2009",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "Series",
+        "Sitcom"
+      ],
+      "episode": "S6 E18",
+      "icon": "http://dtil.tmsimg.com/assets/p7895722_b_h8_ag.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "James Widdoes"
+        ],
+        "actor": [
+          "Charlie Sheen",
+          "Jon Cryer",
+          "Angus T. Jones"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-18T10:00:00+05:00",
+      "stop": "2026-06-18T10:30:00+05:00",
+      "title": "The Big Bang Theory",
+      "sub_title": "The Friendship Turbulence",
+      "desc": "Bernadette tries to negotiate peace between Sheldon and Wolowitz; Penny receives an embarrassing offer; Raj wants Amy to write to a woman on his behalf.",
+      "date": "2014",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Sitcom"
+      ],
+      "episode": "S7 E17",
+      "icon": "http://dtil.tmsimg.com/assets/p185554_b_h8_az.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Mark Cendrowski",
+          "Peter Chakos",
+          "Anthony Rich",
+          "Gay Linvill"
+        ],
+        "actor": [
+          "Johnny Galecki",
+          "Jim Parsons",
+          "Kaley Cuoco-Sweeting"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-18T10:30:00+05:00",
+      "stop": "2026-06-18T11:00:00+05:00",
+      "title": "Young Sheldon",
+      "sub_title": "A Broom Closet and Satan's Monopoly Board",
+      "desc": "Without Dr. Sturgis' university class, Sheldon must find a new way to stay academically challenged; Mary helps Pastor Jeff avoid temptation with his girlfriend.",
+      "date": "2019",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Sitcom"
+      ],
+      "episode": "S3 E2",
+      "icon": "http://dtil.tmsimg.com/assets/p13923677_b_h8_ac.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Alex Reid"
+        ],
+        "actor": [
+          "Iain Armitage",
+          "Zoe Perry",
+          "Lance Barber"
         ]
       }
     }

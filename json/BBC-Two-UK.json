@@ -4,30 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-18T01:45:00+05:00",
-      "stop": "2026-06-18T02:30:00+05:00",
-      "title": "Live at the Apollo",
-      "desc": "The hilarious Loyiso Gola introduces comedians Scott Bennett and Helen Bauer to the stage. Contains some strong language and adult humour.",
-      "language": "en",
-      "categories": [
-        "Entertainment",
-        "Comedy"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/009d40a2-d503-3708-9501-03bcff6acd20/16-9"
-    },
-    {
-      "start": "2026-06-18T02:30:00+05:00",
-      "stop": "2026-06-18T03:00:00+05:00",
-      "title": "Newsnight, followed by Weather",
-      "desc": "Insights and global interviews on the news stories of the day. With Adam Fleming. Followed by Weather.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/5c343e04-d3f0-471a-9094-6ec6af7d92ec/16-9"
-    },
-    {
       "start": "2026-06-18T03:00:00+05:00",
       "stop": "2026-06-18T03:30:00+05:00",
       "title": "Unspun World with John Simpson",
@@ -142,6 +118,30 @@
         "Gradening"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/1627a62a-8311-469e-b558-d108100e5d58/16-9"
+    },
+    {
+      "start": "2026-06-18T13:00:00+05:00",
+      "stop": "2026-06-18T16:15:00+05:00",
+      "title": "BBC News",
+      "desc": "Twenty-four hours a day, the latest national and international stories as they break.",
+      "language": "en",
+      "categories": [
+        "News & Documentary",
+        "News"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/ccb3b4ae-1a1e-4c3d-a956-e3c52c134159/16-9"
+    },
+    {
+      "start": "2026-06-18T16:15:00+05:00",
+      "stop": "2026-06-18T17:00:00+05:00",
+      "title": "Politics Live",
+      "desc": "The big political issues of the day.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Factual"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/1af4ac06-1032-4e86-82f5-02f745764a4f/16-9"
     }
   ]
 }

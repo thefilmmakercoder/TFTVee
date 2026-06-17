@@ -4,28 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-18T00:00:00+05:00",
-      "stop": "2026-06-18T01:00:00+05:00",
-      "title": "Top Gear",
-      "desc": "Jeremy Clarkson, Richard Hammond and James May attempt to find the world's greatest four-seat supercar. Plus Richard is on the test track in two very different muscle cars.",
-      "language": "en",
-      "categories": [
-        "Entertainment"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/79fc40cd-79b0-41f7-89de-9ceeac435506/16-9"
-    },
-    {
-      "start": "2026-06-18T01:00:00+05:00",
-      "stop": "2026-06-18T02:40:00+05:00",
-      "title": "Children of Men",
-      "desc": "In a chaotic future Britain where no child has been born for years, a loner helps the world's only known pregnant woman to safety. Contains strong language and some violent scenes.",
-      "language": "en",
-      "categories": [
-        "Movie"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/5eb2815e-fda4-4a57-98d2-f5a21dd3352d/16-9"
-    },
-    {
       "start": "2026-06-18T02:40:00+05:00",
       "stop": "2026-06-18T03:25:00+05:00",
       "title": "Thailand: The Dark Side of Paradise",
@@ -144,6 +122,22 @@
         "Comedy"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/ea584fd1-8a27-31b0-813d-2dbfe3f0f2bf/16-9"
+    },
+    {
+      "start": "2026-06-18T08:00:00+05:00",
+      "stop": "2026-06-18T09:30:00+05:00",
+      "title": "This is BBC Three",
+      "desc": "Programmes start at 7.00pm.",
+      "language": "en",
+      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/BBC-Three-UK.png"
+    },
+    {
+      "start": "2026-06-18T09:30:00+05:00",
+      "stop": "2026-06-18T15:30:00+05:00",
+      "title": "..programmes start at 7.00pm",
+      "desc": "BBC Three delivers bold and provocative content for younger audiences, featuring groundbreaking documentaries, experimental comedy, and fresh drama.",
+      "language": "en",
+      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/BBC-Three-UK.png"
     }
   ]
 }
