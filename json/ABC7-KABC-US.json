@@ -4,37 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-17T03:30:00+05:00",
-      "stop": "2026-06-17T04:00:00+05:00",
-      "title": "ABC World News Tonight With David Muir",
-      "desc": "Delivering the news that matters most.",
-      "date": "2026",
-      "language": "en",
-      "categories": [
-        "Series",
-        "News"
-      ],
-      "episode": "E167",
-      "icon": "http://dtil.tmsimg.com/assets/p10880351_b_h8_ah.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "David Muir"
-        ]
-      }
-    },
-    {
-      "start": "2026-06-17T04:00:00+05:00",
-      "stop": "2026-06-17T05:00:00+05:00",
-      "title": "Eyewitness News 4PM",
-      "desc": "Early evening news.",
-      "date": "2004",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p676966_b_h8_af.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-06-17T05:00:00+05:00",
       "stop": "2026-06-17T05:30:00+05:00",
       "title": "Live: NBA Tip-Off",
@@ -214,6 +183,51 @@
       "credits": {
         "actor": [
           "David Muir"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-17T13:36:00+05:00",
+      "stop": "2026-06-17T14:36:00+05:00",
+      "title": "Live with Kelly and Mark",
+      "desc": "Judge Judy Sheindlin and LL Cool J are here; testing balance with the Fukuda step test!",
+      "date": "2026",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Talk"
+      ],
+      "episode": "S4 E207",
+      "icon": "http://dtil.tmsimg.com/assets/p24324378_b_h8_ab.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Kelly Ripa",
+          "Mark Consuelos",
+          "Judy Sheindlin"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-17T14:36:00+05:00",
+      "stop": "2026-06-17T15:30:00+05:00",
+      "title": "Tamron Hall",
+      "sub_title": "Exclusive: Patti LaBelle & Shark Tank's Kendra Scott",
+      "desc": "Patti LaBelle whips up something tasty in the kitchen and gives a special announcement; self-made entrepreneur Kendra Scott (\"Shark Tank\") gives business advice to those looking for their big break.",
+      "date": "2025",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Talk"
+      ],
+      "episode": "S7 E37",
+      "icon": "http://dtil.tmsimg.com/assets/p17197549_b_h8_af.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Tamron Hall",
+          "Patti LaBelle",
+          "Kendra Scott"
         ]
       }
     }

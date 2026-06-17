@@ -4,58 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-17T03:00:00+05:00",
-      "stop": "2026-06-17T04:00:00+05:00",
-      "title": "CityNews at 6 Toronto",
-      "desc": "Coverage of the day's top news stories.",
-      "date": "2019",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p16858124_b_h8_aa.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-06-17T04:00:00+05:00",
-      "stop": "2026-06-17T04:30:00+05:00",
-      "title": "Family Feud",
-      "desc": "Family Feud is an American television game show where two families compete to name the responses to survey questions in order to win cash and prizes.",
-      "date": "2025",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Series",
-        "Game show"
-      ],
-      "episode": "S26 E135",
-      "icon": "http://dtil.tmsimg.com/assets/p8314079_b_h8_ah.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Steve Harvey"
-        ]
-      }
-    },
-    {
-      "start": "2026-06-17T04:30:00+05:00",
-      "stop": "2026-06-17T05:00:00+05:00",
-      "title": "Family Feud",
-      "desc": "Family Feud is an American television game show where two families compete to name the responses to survey questions in order to win cash and prizes.",
-      "date": "2026",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Series",
-        "Game show"
-      ],
-      "episode": "S27 E106",
-      "icon": "http://dtil.tmsimg.com/assets/p8314079_b_h8_ah.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Steve Harvey"
-        ]
-      }
-    },
-    {
       "start": "2026-06-17T05:00:00+05:00",
       "stop": "2026-06-17T07:00:00+05:00",
       "title": "America's Got Talent",
@@ -259,6 +207,49 @@
           "John Reardon",
           "Mayko Nguyen",
           "Kevin Hanchard"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-17T14:00:00+05:00",
+      "stop": "2026-06-17T14:30:00+05:00",
+      "title": "CityNews Tonight Toronto",
+      "desc": "Coverage of the day's top news stories.",
+      "date": "2019",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p16858130_b_h8_aa.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-06-17T14:30:00+05:00",
+      "stop": "2026-06-17T15:00:00+05:00",
+      "title": "CityNews Tonight Toronto",
+      "desc": "Coverage of the day's top news stories.",
+      "date": "2019",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p16858130_b_h8_aa.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-06-17T15:00:00+05:00",
+      "stop": "2026-06-17T17:30:00+05:00",
+      "title": "Breakfast Television Toronto",
+      "desc": "The latest in local news, weather and traffic, as well as celebrity interviews and lifestyle trends.",
+      "date": "2000",
+      "language": "en",
+      "categories": [
+        "Talk",
+        "Newsmagazine"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p599792_b_h8_ab.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Dina Pugliese",
+          "Melanie Ng"
         ]
       }
     }

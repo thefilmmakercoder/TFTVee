@@ -4,54 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-17T02:59:00+05:00",
-      "stop": "2026-06-17T04:00:00+05:00",
-      "title": "Live: CTV News Barrie",
-      "desc": "CTV News covers stories that matter to Canadians - locally, nationally, & internationally.",
-      "date": "2014",
-      "language": "en",
-      "rating": "TV14",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p11226354_b_h8_ad.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-06-17T04:00:00+05:00",
-      "stop": "2026-06-17T06:00:00+05:00",
-      "title": "Live: WNBA Basketball",
-      "desc": "The Indiana Fever and Toronto Tempo clash in a WNBA Commissioners cup match in Indianapolis. The home Fever rely on Kelsey Mitchell to sustain her 20.4 points per game scoring average. While the visiting Tempo rely on veteran star Brittney Sykes.",
-      "language": "en",
-      "categories": [
-        "Sports",
-        "Basketball"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/GNLZZGG0034B3F1.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-06-17T06:00:00+05:00",
-      "stop": "2026-06-17T06:30:00+05:00",
-      "title": "The Big Bang Theory",
-      "sub_title": "The Table Polarization",
-      "desc": "When Leonard buys a dining room table, Sheldon re-evaluates the changes in his life; Bernadette is torn when Wolowitz gets the chance to go back to space.",
-      "date": "2014",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Series",
-        "Sitcom"
-      ],
-      "episode": "S7 E16",
-      "icon": "http://dtil.tmsimg.com/assets/p185554_b_h8_az.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Johnny Galecki",
-          "Jim Parsons",
-          "Kaley Cuoco"
-        ]
-      }
-    },
-    {
       "start": "2026-06-17T06:30:00+05:00",
       "stop": "2026-06-17T07:00:00+05:00",
       "title": "etalk",
@@ -250,6 +202,75 @@
           "Harvey Levin"
         ]
       }
+    },
+    {
+      "start": "2026-06-17T13:35:00+05:00",
+      "stop": "2026-06-17T14:00:00+05:00",
+      "title": "Just for Laughs: Gags",
+      "sub_title": "Bobsleigh Funeral",
+      "desc": "Spaghetti from a pocket, a taste of engine oil for a cop, and a child that reappears.",
+      "date": "2023",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "Series",
+        "Comedy",
+        "Entertainment"
+      ],
+      "episode": "S23 E11",
+      "icon": "http://dtil.tmsimg.com/assets/p185761_b_h8_ad.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Julien Bernier-Pelletier"
+        ],
+        "actor": [
+          "Marie Pierre Bouchard",
+          "Valerie Roy",
+          "Marie-\u00c8ve Verdier"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-17T14:00:00+05:00",
+      "stop": "2026-06-17T14:30:00+05:00",
+      "title": "The Littlest Hobo",
+      "sub_title": "Guardian Angel",
+      "desc": "When a mother abandons her baby on the steps of a church, Hobo appoints himself guardian of the child.",
+      "date": "1980",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Series",
+        "Drama",
+        "Adventure",
+        "Animals"
+      ],
+      "episode": "S1 E21",
+      "icon": "http://dtil.tmsimg.com/assets/p507740_b_h10_ac.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Stan Olsen"
+        ],
+        "actor": [
+          "Nehemiah Persoff",
+          "Jacquie Presly",
+          "Henry Beckman"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-17T14:30:00+05:00",
+      "stop": "2026-06-17T15:00:00+05:00",
+      "title": "Paid Programming",
+      "desc": "Paid programming.",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Consumer",
+        "Shopping",
+        "Variety"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&h=540"
     }
   ]
 }

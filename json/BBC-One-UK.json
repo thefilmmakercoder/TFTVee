@@ -4,30 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-17T02:35:00+05:00",
-      "stop": "2026-06-17T02:45:00+05:00",
-      "title": "BBC London News",
-      "desc": "The latest news, sport and weather from London.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/1d95dd3d-ed4b-4e68-b145-5157c5f1e556/16-9"
-    },
-    {
-      "start": "2026-06-17T02:45:00+05:00",
-      "stop": "2026-06-17T05:15:00+05:00",
-      "title": "MOTD Live: Iraq v Norway",
-      "desc": "The opening day of live action in Group I sees Iraq take on Norway in Boston.",
-      "language": "en",
-      "categories": [
-        "Sports",
-        "Football"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/40e48439-9924-4ac9-9d73-8884b4ec0b90/16-9"
-    },
-    {
       "start": "2026-06-17T05:15:00+05:00",
       "stop": "2026-06-17T05:20:00+05:00",
       "title": "Weather for the Week Ahead",
@@ -145,6 +121,30 @@
         "Factual"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/12df4095-12e9-4bdd-a471-bea14b1fd315/16-9"
+    },
+    {
+      "start": "2026-06-17T18:30:00+05:00",
+      "stop": "2026-06-17T19:00:00+05:00",
+      "title": "Scam Interceptors",
+      "desc": "The ground team are scrambled in a desperate bid to stop a man handing over hundreds of pounds to broadband scammers.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Factual"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/bd149c65-6461-4394-96c0-4e506d4a0b13/16-9"
+    },
+    {
+      "start": "2026-06-17T19:00:00+05:00",
+      "stop": "2026-06-17T20:00:00+05:00",
+      "title": "Escape to the Country",
+      "desc": "Jules Hudson helps a former royal marine and retired civil servant to find their forever home in the wonderfully evocative county of Northumberland.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Gradening"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/34aa7334-b201-3594-a1d7-d950bbf7ce72/16-9"
     }
   ]
 }

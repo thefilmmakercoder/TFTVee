@@ -4,48 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-17T01:00:00+05:00",
-      "stop": "2026-06-17T04:00:00+05:00",
-      "title": "ABC News Breakfast",
-      "sub_title": "Wednesday 17 June 2026",
-      "desc": "James Glenday and Emma Rebellato bring you the latest news, overnight developments, interviews and new details on the top stories this morning, joined by Catherine Murphy with sport and Nate Byrne with your weather outlook.",
-      "language": "en",
-      "rating": "NR",
-      "categories": [
-        "News"
-      ],
-      "episode": "E120",
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/231375/image/334x188"
-    },
-    {
-      "start": "2026-06-17T04:00:00+05:00",
-      "stop": "2026-06-17T05:00:00+05:00",
-      "title": "ABC News Mornings",
-      "sub_title": "Wednesday 17 June 2026",
-      "desc": "Stay in the know with what's happening this morning. ABC News brings you up-to-the-minute news to fuel your daily conversations so you can stay connected and follow the discussion across the day. Presented by Gemma Veness.",
-      "language": "en",
-      "rating": "NR",
-      "categories": [
-        "News"
-      ],
-      "episode": "E120",
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/311312/image/334x188"
-    },
-    {
-      "start": "2026-06-17T05:00:00+05:00",
-      "stop": "2026-06-17T06:00:00+05:00",
-      "title": "Four Corners",
-      "sub_title": "Escaping Kabul",
-      "desc": "Escaping Kabul tells the dramatic story of the secret international mission to rescue Afghanistan's female cyclists after the Taliban's return to power placed them in grave danger.",
-      "language": "en",
-      "rating": "NR",
-      "categories": [
-        "Special Interest"
-      ],
-      "episode": "E18",
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/132162/image/334x188"
-    },
-    {
       "start": "2026-06-17T06:00:00+05:00",
       "stop": "2026-06-17T07:00:00+05:00",
       "title": "Restoration Australia",
@@ -167,6 +125,47 @@
       ],
       "episode": "S5 E2",
       "icon": "https://www.fetchtv.com.au/v2/epg/program/276202/image/334x188"
+    },
+    {
+      "start": "2026-06-17T12:30:00+05:00",
+      "stop": "2026-06-17T13:30:00+05:00",
+      "title": "Antiques Roadshow",
+      "sub_title": "Yorkshire Museum 1",
+      "desc": "Fiona Bruce and the experts pay a visit to the grounds of the Yorkshire Museum in York. Family treasures brought before the cameras include a spy camera disguised as a silver box.",
+      "language": "en",
+      "rating": "G",
+      "categories": [
+        "Special Interest"
+      ],
+      "episode": "S34 E19",
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/130628/image/334x188"
+    },
+    {
+      "start": "2026-06-17T13:30:00+05:00",
+      "stop": "2026-06-17T14:00:00+05:00",
+      "title": "Hard Quiz",
+      "desc": "Tom Gleeson faces an onslaught from experts in Shakespeare's Macbeth, animated sitcom Family Guy, Canadian rock band Rush and disaster movie Armageddon. Who will win the Big Brass Mug?",
+      "language": "en",
+      "rating": "PG",
+      "categories": [
+        "Special Interest"
+      ],
+      "episode": "S7 E20",
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/351164/image/334x188"
+    },
+    {
+      "start": "2026-06-17T14:00:00+05:00",
+      "stop": "2026-06-17T14:30:00+05:00",
+      "title": "ABC News Hour",
+      "sub_title": "Wednesday 17 June 2026",
+      "desc": "News from where we live. ABC News NSW brings you the day's top stories, exclusive investigations and original reporting on the issues that matter to you. Presented by Jeremy Fernandez, plus weather with Tom Saunders.",
+      "language": "en",
+      "rating": "NR",
+      "categories": [
+        "News"
+      ],
+      "episode": "E168",
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/370444/image/334x188"
     }
   ]
 }
