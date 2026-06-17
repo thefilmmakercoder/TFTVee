@@ -4,42 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-17T16:30:00+05:00",
-      "stop": "2026-06-17T17:00:00+05:00",
-      "title": "CBS News Mornings",
-      "desc": "CBS News Mornings broadcasts on weekdays and offers viewers up-to-date news, comprehensive weather forecasts, and highlights from the world of sports.",
-      "date": "2024",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p27236437_b_h8_ab.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-06-17T17:00:00+05:00",
-      "stop": "2026-06-17T18:00:00+05:00",
-      "title": "CBS LA Mornings at 5am",
-      "desc": "Start your day with CBS LA Mornings, covering breaking stories from The Desk, and NEXT Weather and Traffic for Southern California.",
-      "date": "2025",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p31308781_b_h10_aa.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-06-17T18:00:00+05:00",
-      "stop": "2026-06-17T19:00:00+05:00",
-      "title": "CBS LA Mornings at 6am",
-      "desc": "Start your day with CBS LA Mornings, covering breaking stories from The Desk, and NEXT Weather and Traffic for Southern California.",
-      "date": "2025",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p31308548_b_h10_aa.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-06-17T19:00:00+05:00",
       "stop": "2026-06-17T21:00:00+05:00",
       "title": "CBS Mornings",
@@ -229,6 +193,62 @@
           "Andy Garcia"
         ]
       }
+    },
+    {
+      "start": "2026-06-18T03:00:00+05:00",
+      "stop": "2026-06-18T03:30:00+05:00",
+      "title": "Judge Judy",
+      "sub_title": "Teenager Fights Back!; 40-Year Friendship Fail",
+      "desc": "A teen says his uncle took back the truck he bought from him; an old friend says he just wants his money back.",
+      "date": "2015",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Reality",
+        "Law"
+      ],
+      "episode": "S19 E138",
+      "icon": "http://dtil.tmsimg.com/assets/p184382_b_h8_af.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Judy Sheindlin"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-18T03:30:00+05:00",
+      "stop": "2026-06-18T04:00:00+05:00",
+      "title": "Judge Judy",
+      "sub_title": "The Smoking Good Samaritan!; Hail Damage Fallout",
+      "desc": "A man on a cigarette break witnesses a hit-and-run; a woman whose vehicle was damaged by hail sues her mechanic for a botched paint job.",
+      "date": "2015",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Reality",
+        "Law"
+      ],
+      "episode": "S19 E142",
+      "icon": "http://dtil.tmsimg.com/assets/p184382_b_h8_af.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Judy Sheindlin"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-18T04:00:00+05:00",
+      "stop": "2026-06-18T05:00:00+05:00",
+      "title": "CBS LA at 4pm",
+      "desc": "Join the CBS LA team for stories from communities around SoCal, breaking news from The Desk, and NEXT Weather from the Weathersphere.",
+      "date": "2025",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p31317859_b_h10_aa.jpg?w=960&h=540"
     }
   ]
 }

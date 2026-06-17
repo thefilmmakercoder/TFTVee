@@ -4,76 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-17T14:30:00+05:00",
-      "stop": "2026-06-17T15:00:00+05:00",
-      "title": "Paid Programming",
-      "desc": "Paid programming.",
-      "language": "en",
-      "rating": "TVG",
-      "categories": [
-        "Consumer",
-        "Shopping",
-        "Variety"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-06-17T15:00:00+05:00",
-      "stop": "2026-06-17T18:00:00+05:00",
-      "title": "Global News Morning",
-      "desc": "Greater Toronto's top local news stories and latest weather forecast to start your day.",
-      "date": "2019",
-      "language": "en",
-      "categories": [
-        "News",
-        "Weather"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p16568475_b_h10_ad.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-06-17T18:00:00+05:00",
-      "stop": "2026-06-17T19:00:00+05:00",
-      "title": "The Morning Show",
-      "desc": "Viewers from across the country are welcomed in for an hour of smart conversation, lifestyle segments, big-name guests and live performances.",
-      "date": "2011",
-      "language": "en",
-      "categories": [
-        "News",
-        "Interview"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p8861345_b_h8_aa.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Carolyn Mackenzie",
-          "Jeff McArthur",
-          "Liem Vu"
-        ]
-      }
-    },
-    {
-      "start": "2026-06-17T19:00:00+05:00",
-      "stop": "2026-06-17T20:00:00+05:00",
-      "title": "Tamron Hall",
-      "sub_title": "True Crime With Tamron Hall",
-      "desc": "Katie Cassidy (Lifetime's \"Accused: The Karen Read Story\"); investigative reporter Olivia Rubin; a professor and students whose work helped lead to an arrest in a case that had gone cold for decades; John Qui\u00f1ones (podcast \"The Hand in the Window\") discusses the chilling case of a serial killer who murdered five women during a 10-year spree in Ohio.",
-      "date": "2026",
-      "language": "en",
-      "rating": "TV14",
-      "categories": [
-        "Series",
-        "Talk"
-      ],
-      "episode": "S7 E76",
-      "icon": "http://dtil.tmsimg.com/assets/p17197549_b_h8_af.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Tamron Hall",
-          "Katie Cassidy",
-          "Olivia Rubin"
-        ]
-      }
-    },
-    {
       "start": "2026-06-17T20:00:00+05:00",
       "stop": "2026-06-17T21:00:00+05:00",
       "title": "Property Brothers: Forever Home",
@@ -249,6 +179,75 @@
           "Peter Bergman",
           "Eric Braeden",
           "Christel Khalil"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-18T02:00:00+05:00",
+      "stop": "2026-06-18T03:00:00+05:00",
+      "title": "Global News at 5",
+      "desc": "Greater Toronto's top local news stories and latest weather forecast.",
+      "date": "2024",
+      "language": "en",
+      "categories": [
+        "News",
+        "Weather"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p28243562_b_h10_aa.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-06-18T03:00:00+05:00",
+      "stop": "2026-06-18T03:30:00+05:00",
+      "title": "Global News at 6",
+      "desc": "Greater Toronto's top local news stories and latest weather forecast.",
+      "date": "2012",
+      "language": "en",
+      "categories": [
+        "News",
+        "Weather"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p9123094_b_h10_ab.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-06-18T03:30:00+05:00",
+      "stop": "2026-06-18T04:00:00+05:00",
+      "title": "Global National",
+      "desc": "The top stories from around the world.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Series",
+        "News"
+      ],
+      "episode": "E168",
+      "icon": "http://dtil.tmsimg.com/assets/p185876_b_h8_ae.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Dawna Friesen"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-18T04:00:00+05:00",
+      "stop": "2026-06-18T04:30:00+05:00",
+      "title": "The Goldbergs",
+      "sub_title": "The Hunt for the Great Albino Pumpkin",
+      "desc": "Adam finds himself disenchanted with Halloween; Barry decides to bring his former alter ego, rapper \"Big Tasty,\" back to life; Barry and Joanne meet Elvira, Mistress of the Dark.",
+      "date": "2021",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Sitcom"
+      ],
+      "episode": "S9 E6",
+      "icon": "http://dtil.tmsimg.com/assets/p9977319_b_h8_by.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Wendi McLendon-Covey",
+          "Patton Oswalt",
+          "Sean Giambrone"
         ]
       }
     }
