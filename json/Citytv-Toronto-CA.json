@@ -4,85 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-18T03:00:00+05:00",
-      "stop": "2026-06-18T04:00:00+05:00",
-      "title": "CityNews at 6 Toronto",
-      "desc": "Coverage of the day's top news stories.",
-      "date": "2019",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p16858124_b_h8_aa.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-06-18T04:00:00+05:00",
-      "stop": "2026-06-18T04:30:00+05:00",
-      "title": "Family Feud",
-      "desc": "Family Feud is an American television game show where two families compete to name the responses to survey questions in order to win cash and prizes.",
-      "date": "2025",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Series",
-        "Game show"
-      ],
-      "episode": "S26 E137",
-      "icon": "http://dtil.tmsimg.com/assets/p8314079_b_h8_ah.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Steve Harvey"
-        ]
-      }
-    },
-    {
-      "start": "2026-06-18T04:30:00+05:00",
-      "stop": "2026-06-18T05:00:00+05:00",
-      "title": "Family Feud",
-      "desc": "Family Feud is an American television game show where two families compete to name the responses to survey questions in order to win cash and prizes.",
-      "date": "2026",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Series",
-        "Game show"
-      ],
-      "episode": "S27 E108",
-      "icon": "http://dtil.tmsimg.com/assets/p8314079_b_h8_ah.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Steve Harvey"
-        ]
-      }
-    },
-    {
-      "start": "2026-06-18T05:00:00+05:00",
-      "stop": "2026-06-18T06:00:00+05:00",
-      "title": "Brilliant Minds",
-      "sub_title": "Through the Looking Glass",
-      "desc": "On his first day back at Bronx General, Wolf treats an ex-con who has a medical emergency during a hostage situation; Ericka and Charlie care for a newborn baby in the midst of a life-threatening illness.",
-      "date": "2026",
-      "language": "en",
-      "rating": "TV14",
-      "categories": [
-        "Series",
-        "Drama",
-        "Medical"
-      ],
-      "episode": "S2 E18",
-      "icon": "http://dtil.tmsimg.com/assets/p30834652_b_h8_ad.jpg?w=960&h=540",
-      "credits": {
-        "director": [
-          "DeMane Davis"
-        ],
-        "actor": [
-          "Zachary Quinto",
-          "Tamberla Perry",
-          "Ashleigh LaThrop"
-        ]
-      }
-    },
-    {
       "start": "2026-06-18T06:00:00+05:00",
       "stop": "2026-06-18T07:00:00+05:00",
       "title": "Blue Skies",
@@ -257,6 +178,72 @@
           "John Reardon",
           "Mayko Nguyen",
           "Kevin Hanchard"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-18T13:00:00+05:00",
+      "stop": "2026-06-18T14:00:00+05:00",
+      "title": "Hudson & Rex",
+      "sub_title": "Northern Rexposure",
+      "desc": "When Jesse's sister contacts him for help, Jesse, Sarah and Rex head to Northern Ontario and find themselves in the middle of a deadly situation.",
+      "date": "2023",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Crime drama"
+      ],
+      "episode": "S5 E15",
+      "icon": "http://dtil.tmsimg.com/assets/p16646888_b_h8_bh.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "John Reardon",
+          "Mayko Nguyen",
+          "Kevin Hanchard"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-18T14:00:00+05:00",
+      "stop": "2026-06-18T14:30:00+05:00",
+      "title": "CityNews Tonight Toronto",
+      "desc": "Coverage of the day's top news stories.",
+      "date": "2019",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p16858130_b_h8_aa.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-06-18T14:30:00+05:00",
+      "stop": "2026-06-18T15:00:00+05:00",
+      "title": "CityNews Tonight Toronto",
+      "desc": "Coverage of the day's top news stories.",
+      "date": "2019",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p16858130_b_h8_aa.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-06-18T15:00:00+05:00",
+      "stop": "2026-06-18T17:30:00+05:00",
+      "title": "Breakfast Television Toronto",
+      "desc": "The latest in local news, weather and traffic, as well as celebrity interviews and lifestyle trends.",
+      "date": "2000",
+      "language": "en",
+      "categories": [
+        "Talk",
+        "Newsmagazine"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p599792_b_h8_ab.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Dina Pugliese",
+          "Melanie Ng"
         ]
       }
     }

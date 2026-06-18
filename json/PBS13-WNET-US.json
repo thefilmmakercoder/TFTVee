@@ -4,61 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-18T03:30:00+05:00",
-      "stop": "2026-06-18T04:00:00+05:00",
-      "title": "BBC World News America",
-      "desc": "A detailed look into news stories from around the world from the BBC news desk in Washington, D.C.",
-      "date": "2026",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p32402912_b_h10_aa.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Sumi Somaskanda",
-          "Caitr\u00edona Perry"
-        ]
-      }
-    },
-    {
-      "start": "2026-06-18T04:00:00+05:00",
-      "stop": "2026-06-18T05:00:00+05:00",
-      "title": "PBS News Hour",
-      "desc": "Co-anchors Amna Nawaz and Geoff Bennett and correspondents offer in-depth analysis of current events.",
-      "date": "2026",
-      "language": "en",
-      "categories": [
-        "Series",
-        "News"
-      ],
-      "episode": "S52 E252",
-      "icon": "http://dtil.tmsimg.com/assets/p27608822_b_h8_ac.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Amna Nawaz",
-          "Geoff Bennett"
-        ]
-      }
-    },
-    {
-      "start": "2026-06-18T05:00:00+05:00",
-      "stop": "2026-06-18T06:00:00+05:00",
-      "title": "Nature",
-      "sub_title": "WildHeart",
-      "desc": "The 500-year-old Scots pine tree serves as the long-lived forest keeper of Scotland's wild Highland landscape.",
-      "date": "2023",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Series",
-        "Anthology",
-        "Nature"
-      ],
-      "episode": "S41 E5",
-      "icon": "http://dtil.tmsimg.com/assets/p22745796_b_h8_aa.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-06-18T06:00:00+05:00",
       "stop": "2026-06-18T07:00:00+05:00",
       "title": "NOVA",
@@ -234,6 +179,85 @@
           "William Healy",
           "Bruce Dinsmore",
           "Max Friedman Cole"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-18T15:30:00+05:00",
+      "stop": "2026-06-18T16:00:00+05:00",
+      "title": "Odd Squad",
+      "sub_title": "The Other Ozzie; Three Is the Oddest Number",
+      "desc": "Oz arrives from The Movie Star dimension to help Orli find out who is turning the townspeople purple; three young villains cause trouble in town.",
+      "date": "2024",
+      "language": "en",
+      "rating": "TVY",
+      "categories": [
+        "Series",
+        "Children",
+        "Educational",
+        "Entertainment"
+      ],
+      "episode": "S4 E11",
+      "icon": "http://dtil.tmsimg.com/assets/p11086138_b_h8_bj.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Filip Geljo",
+          "Dalila Bela",
+          "Sean Michael Kyer"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-18T16:00:00+05:00",
+      "stop": "2026-06-18T16:30:00+05:00",
+      "title": "Wild Kratts",
+      "sub_title": "A Huge Orange Problem",
+      "desc": "Search for the endangered orangutan in Borneo.",
+      "date": "2012",
+      "language": "en",
+      "rating": "TVY",
+      "categories": [
+        "Series",
+        "Children",
+        "Educational",
+        "Science",
+        "Nature",
+        "Animals",
+        "Animated"
+      ],
+      "episode": "S1 E35",
+      "icon": "http://dtil.tmsimg.com/assets/p8369911_b_h8_aj.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Martin Kratt",
+          "Chris Kratt",
+          "Athena Karkanis"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-18T16:30:00+05:00",
+      "stop": "2026-06-18T17:00:00+05:00",
+      "title": "Weather Hunters",
+      "sub_title": "Groundhog Birthday",
+      "desc": "After a groundhog predicts more winter weather, Benny is convinced he will have snow on his birthday so he plans a snow-filled birthday party.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TVY",
+      "categories": [
+        "Series",
+        "Animated",
+        "Children",
+        "Entertainment",
+        "Educational"
+      ],
+      "episode": "S1 E13",
+      "icon": "http://dtil.tmsimg.com/assets/p30699963_b_h8_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Tandi Fomukong",
+          "Al Roker",
+          "Holly Robinson Peete"
         ]
       }
     }
