@@ -4,44 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-18T14:31:00+05:00",
-      "stop": "2026-06-18T15:00:00+05:00",
-      "title": "Paid Programming",
-      "desc": "Paid programming.",
-      "language": "en",
-      "rating": "TVG",
-      "categories": [
-        "Consumer",
-        "Shopping",
-        "Variety"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-06-18T15:00:00+05:00",
-      "stop": "2026-06-18T17:00:00+05:00",
-      "title": "Maid of Honor",
-      "desc": "An insanely jealous woman (Linda Purl) wants to prevent her brother-in-law, a widower, from marrying another woman.",
-      "date": "2006",
-      "language": "en",
-      "rating": "12",
-      "categories": [
-        "Movie",
-        "Thriller"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p160265_v_h8_ac.jpg?w=960&h=540",
-      "credits": {
-        "director": [
-          "Douglas Jackson"
-        ],
-        "actor": [
-          "Linda Purl",
-          "Linden Ashby",
-          "Shannon Sturges"
-        ]
-      }
-    },
-    {
       "start": "2026-06-18T17:00:00+05:00",
       "stop": "2026-06-18T19:00:00+05:00",
       "title": "The Bride He Bought Online",
@@ -279,6 +241,31 @@
           "Millan Tesfazgi"
         ]
       }
+    },
+    {
+      "start": "2026-06-19T13:02:00+05:00",
+      "stop": "2026-06-19T13:32:00+05:00",
+      "title": "Natural Blood Pressure Management",
+      "desc": "Cardiologist Dr. Ernst von Schwarz, M.D. shows how to manage your blood pressure naturally and help protect your heart for life with My Best Heart.",
+      "language": "en",
+      "categories": [
+        "Consumer"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p29188954_st_h10_aa.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-06-19T13:32:00+05:00",
+      "stop": "2026-06-19T14:02:00+05:00",
+      "title": "Paid Programming",
+      "desc": "Paid programming.",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Consumer",
+        "Shopping",
+        "Variety"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&h=540"
     }
   ]
 }

@@ -4,42 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-18T15:00:00+05:00",
-      "stop": "2026-06-18T16:00:00+05:00",
-      "title": "Good Day Wake Up 2",
-      "desc": "Morning news and entertainment.",
-      "date": "2009",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p706489_b_h8_ab.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-06-18T16:00:00+05:00",
-      "stop": "2026-06-18T18:00:00+05:00",
-      "title": "Good Day New York",
-      "desc": "Morning news.",
-      "date": "2007",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p706448_b_h8_ab.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-06-18T18:00:00+05:00",
-      "stop": "2026-06-18T19:00:00+05:00",
-      "title": "Good Day New York",
-      "desc": "Morning news.",
-      "date": "2007",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p706448_b_h8_ab.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-06-18T19:00:00+05:00",
       "stop": "2026-06-18T20:00:00+05:00",
       "title": "Live: Parade of Champions",
@@ -174,6 +138,45 @@
           "Harvey Levin"
         ]
       }
+    },
+    {
+      "start": "2026-06-19T05:00:00+05:00",
+      "stop": "2026-06-19T06:00:00+05:00",
+      "title": "Live: FIFA World Cup Today",
+      "desc": "Hosts Rob Stone and Rebecca Lowe, with analysts like Zlatan Ibrahimovi\u0107, Thierry Henry, and Alexi Lalas, offer match insights and analysis.",
+      "date": "2026",
+      "language": "en",
+      "categories": [
+        "Series",
+        "Soccer"
+      ],
+      "episode": "E20",
+      "icon": "http://dtil.tmsimg.com/assets/p32962756_b_h8_ab.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-06-19T06:00:00+05:00",
+      "stop": "2026-06-19T08:00:00+05:00",
+      "title": "Live: FIFA World Cup 2026",
+      "desc": "Mexico faces Korea Republic in a Group A match of the FIFA World Cup at Guadalajara Stadium. Mexico won 2-0 over South Africa featuring the season's first goalscorer Julian Quinones, while Korea beat Czechia 2-1 behind Hwang In-beom.",
+      "language": "en",
+      "rating": "S",
+      "categories": [
+        "Sports",
+        "Soccer"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/GNLZZGG0036HEZ2.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-06-19T08:00:00+05:00",
+      "stop": "2026-06-19T09:00:00+05:00",
+      "title": "The 10 O'Clock News",
+      "desc": "Local, national and international news.",
+      "date": "2021",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p19319081_b_h8_ab.jpg?w=960&h=540"
     }
   ]
 }

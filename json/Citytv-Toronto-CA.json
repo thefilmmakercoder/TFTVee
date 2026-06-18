@@ -4,59 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-18T14:30:00+05:00",
-      "stop": "2026-06-18T15:00:00+05:00",
-      "title": "CityNews Tonight Toronto",
-      "desc": "Coverage of the day's top news stories.",
-      "date": "2019",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p16858130_b_h8_aa.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-06-18T15:00:00+05:00",
-      "stop": "2026-06-18T17:30:00+05:00",
-      "title": "Breakfast Television Toronto",
-      "desc": "The latest in local news, weather and traffic, as well as celebrity interviews and lifestyle trends.",
-      "date": "2000",
-      "language": "en",
-      "categories": [
-        "Talk",
-        "Newsmagazine"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p599792_b_h8_ab.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Dina Pugliese",
-          "Melanie Ng"
-        ]
-      }
-    },
-    {
-      "start": "2026-06-18T17:30:00+05:00",
-      "stop": "2026-06-18T19:00:00+05:00",
-      "title": "Breakfast Television",
-      "desc": "Our chat with the cast of \"Toy Story 5\"; father's Day gift ideas for every kind of dad; a look inside Richmond Hill's innovative autism cafe.",
-      "date": "2026",
-      "language": "en",
-      "categories": [
-        "Series",
-        "Talk",
-        "Newsmagazine"
-      ],
-      "episode": "E122",
-      "icon": "http://dtil.tmsimg.com/assets/p9093159_b_h8_ab.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Dina Pugliese",
-          "Tim Bolen",
-          "Frank Ferragine"
-        ]
-      }
-    },
-    {
       "start": "2026-06-18T19:00:00+05:00",
       "stop": "2026-06-18T20:00:00+05:00",
       "title": "The Kelly Clarkson Show",
@@ -265,6 +212,57 @@
           "Whitney Kumar"
         ]
       }
+    },
+    {
+      "start": "2026-06-19T01:30:00+05:00",
+      "stop": "2026-06-19T02:00:00+05:00",
+      "title": "Judy Justice",
+      "sub_title": "Guns Between Friends",
+      "desc": "A firearms instructor seeks compensation for a valuable rifle he loaned to an ailing client; the defendant says he sold the weapon after the client passed away to satisfy a debt owed by the deceased.",
+      "date": "2022",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "Series",
+        "Reality",
+        "Law"
+      ],
+      "episode": "S2 E28",
+      "icon": "http://dtil.tmsimg.com/assets/p20641302_b_h10_af.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Randy Douthit"
+        ],
+        "actor": [
+          "Judy Sheindlin",
+          "Kevin Rasco",
+          "Whitney Kumar"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-19T02:00:00+05:00",
+      "stop": "2026-06-19T03:00:00+05:00",
+      "title": "CityNews at 5 Toronto",
+      "desc": "Coverage of the day's top news stories.",
+      "date": "2019",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p16858119_b_h8_aa.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-06-19T03:00:00+05:00",
+      "stop": "2026-06-19T04:00:00+05:00",
+      "title": "CityNews at 6 Toronto",
+      "desc": "Coverage of the day's top news stories.",
+      "date": "2019",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p16858124_b_h8_aa.jpg?w=960&h=540"
     }
   ]
 }

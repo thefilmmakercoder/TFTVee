@@ -4,18 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-18T13:00:00+05:00",
-      "stop": "2026-06-18T16:15:00+05:00",
-      "title": "BBC News",
-      "desc": "Twenty-four hours a day, the latest national and international stories as they break.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/ccb3b4ae-1a1e-4c3d-a956-e3c52c134159/16-9"
-    },
-    {
       "start": "2026-06-18T16:15:00+05:00",
       "stop": "2026-06-18T17:00:00+05:00",
       "title": "Politics Live",
@@ -145,6 +133,17 @@
         "Factual"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/4c7dcab8-7fba-3b4f-aedc-3ade059fb482/16-9"
+    },
+    {
+      "start": "2026-06-19T04:05:00+05:00",
+      "stop": "2026-06-19T05:50:00+05:00",
+      "title": "The Phantom of the Open",
+      "desc": "Crane operator Maurice, having never played golf in his life, enters the British Open. Contains some strong language.",
+      "language": "en",
+      "categories": [
+        "Movie"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/574e552a-020c-47fe-95dd-fd8bf73bff54/16-9"
     }
   ]
 }

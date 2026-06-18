@@ -4,18 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-18T15:00:00+05:00",
-      "stop": "2026-06-18T16:00:00+05:00",
-      "title": "Eyewitness News This Morning",
-      "desc": "News coverage to start the day.",
-      "date": "2007",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p677214_b_h8_ad.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-06-18T16:00:00+05:00",
       "stop": "2026-06-18T18:00:00+05:00",
       "title": "Good Morning America",
@@ -218,6 +206,30 @@
         "actor": [
           "Ryan Seacrest",
           "Vanna White"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-19T05:00:00+05:00",
+      "stop": "2026-06-19T06:00:00+05:00",
+      "title": "9-1-1",
+      "sub_title": "Reentry",
+      "desc": "As Athena and Hen navigate their way back home, Athena will be forced to confront what it means to live without Bobby.",
+      "date": "2025",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "Series",
+        "Drama",
+        "Action"
+      ],
+      "episode": "S9 E4",
+      "icon": "http://dtil.tmsimg.com/assets/p30740138_b_h8_af.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Angela Bassett",
+          "Oliver Stark",
+          "Aisha Hinds"
         ]
       }
     }
