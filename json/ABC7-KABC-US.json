@@ -4,64 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-18T18:00:00+05:00",
-      "stop": "2026-06-18T19:00:00+05:00",
-      "title": "Eyewitness News 6AM",
-      "desc": "News coverage to start the day.",
-      "date": "2004",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p677002_b_h8_af.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-06-18T19:00:00+05:00",
-      "stop": "2026-06-18T21:00:00+05:00",
-      "title": "Good Morning America",
-      "desc": "Actress Greta Lee; actors Eric Andr\u00e9 and Ego Nwodim; Oprah Daily 2026 Travel O-Wards with Kate Sandoval Box; Deals & Steals with Tory Johnson.",
-      "date": "2026",
-      "language": "en",
-      "categories": [
-        "Series",
-        "Talk",
-        "News",
-        "Variety",
-        "Public affairs"
-      ],
-      "episode": "E193",
-      "icon": "http://dtil.tmsimg.com/assets/p31385280_b_h10_aa.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "George Stephanopoulos",
-          "Robin Roberts",
-          "Michael Strahan"
-        ]
-      }
-    },
-    {
-      "start": "2026-06-18T21:00:00+05:00",
-      "stop": "2026-06-18T22:00:00+05:00",
-      "title": "Live with Kelly and Mark",
-      "desc": "Elizabeth Banks chats with the hosts and Ralph Macchio swings by the studio; Taron Egerton is here; testing your brain with Jim Kwik!",
-      "date": "2026",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Series",
-        "Talk"
-      ],
-      "episode": "S4 E209",
-      "icon": "http://dtil.tmsimg.com/assets/p24324378_b_h8_ab.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Kelly Ripa",
-          "Mark Consuelos",
-          "Elizabeth Banks"
-        ]
-      }
-    },
-    {
       "start": "2026-06-18T22:00:00+05:00",
       "stop": "2026-06-18T23:00:00+05:00",
       "title": "The View",
@@ -224,6 +166,57 @@
         "News"
       ],
       "icon": "http://dtil.tmsimg.com/assets/p12821107_b_h8_aa.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-06-19T06:00:00+05:00",
+      "stop": "2026-06-19T06:30:00+05:00",
+      "title": "Eyewitness News 6PM",
+      "desc": "Local, national and international news.",
+      "date": "2004",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p677004_b_h8_af.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-06-19T06:30:00+05:00",
+      "stop": "2026-06-19T07:00:00+05:00",
+      "title": "ABC World News Tonight With David Muir",
+      "desc": "Delivering the news that matters most.",
+      "date": "2026",
+      "language": "en",
+      "categories": [
+        "Series",
+        "News"
+      ],
+      "episode": "E169",
+      "icon": "http://dtil.tmsimg.com/assets/p10880351_b_h8_ah.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "David Muir"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-19T07:00:00+05:00",
+      "stop": "2026-06-19T07:30:00+05:00",
+      "title": "Jeopardy!",
+      "desc": "The Emmy-winning quiz show features a unique answer-and-question format.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Series",
+        "Game show"
+      ],
+      "episode": "S42 E204",
+      "icon": "http://dtil.tmsimg.com/assets/p184056_b_h10_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Ken Jennings"
+        ]
+      }
     }
   ]
 }

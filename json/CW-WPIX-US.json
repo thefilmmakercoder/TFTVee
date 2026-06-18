@@ -4,31 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-18T18:00:00+05:00",
-      "stop": "2026-06-18T19:00:00+05:00",
-      "title": "PIX11 Morning News at 9am",
-      "desc": "Staying informed with the news and headlines.",
-      "date": "2020",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p17722468_b_h8_ab.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-06-18T19:00:00+05:00",
-      "stop": "2026-06-18T22:00:00+05:00",
-      "title": "Live: New York Knicks Victory Parade",
-      "desc": "For the 1st time in 53 years, the New York Knicks are NBA champions! And for the 1st time ever, the team's championship run is being celebrated with a victory parade. Join PIX11's Dan Mannarino, Hazel Sanchez, Nelson Figueroa and Simone Eli.",
-      "date": "2026",
-      "language": "en",
-      "categories": [
-        "Special",
-        "Parade"
-      ],
-      "icon": "http://dtil.tmsimg.com/tvbanners/generic/generic_tvbanners_h12.png"
-    },
-    {
       "start": "2026-06-18T22:00:00+05:00",
       "stop": "2026-06-18T23:00:00+05:00",
       "title": "Karamo",
@@ -207,6 +182,53 @@
           "Jerry Seinfeld",
           "Julia Louis-Dreyfus",
           "Jason Alexander"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-19T04:30:00+05:00",
+      "stop": "2026-06-19T05:00:00+05:00",
+      "title": "The Big Bang Theory",
+      "sub_title": "The 21-Second Excitation",
+      "desc": "While the guys camp out for a long-awaited movie screening, Penny and Bernadette invite Amy to her first slumber party.",
+      "date": "2010",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "Series",
+        "Sitcom"
+      ],
+      "episode": "S4 E8",
+      "icon": "http://dtil.tmsimg.com/assets/p8218988_b_h10_ab.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Mark Cendrowski"
+        ],
+        "actor": [
+          "Johnny Galecki",
+          "Jim Parsons",
+          "Kaley Cuoco"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-19T05:00:00+05:00",
+      "stop": "2026-06-19T06:00:00+05:00",
+      "title": "Scrabble",
+      "sub_title": "Manifest Destiny",
+      "desc": "Players hope the right Bonus Tiles will align to give them a chance of winning $10,000.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Game show"
+      ],
+      "episode": "S2 E20",
+      "icon": "http://dtil.tmsimg.com/assets/p31774192_b_h8_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Craig Ferguson"
         ]
       }
     }

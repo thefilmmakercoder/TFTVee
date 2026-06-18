@@ -4,38 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-18T09:30:00+05:00",
-      "stop": "2026-06-18T15:30:00+05:00",
-      "title": "..programmes start at 7.00pm",
-      "desc": "BBC Three delivers bold and provocative content for younger audiences, featuring groundbreaking documentaries, experimental comedy, and fresh drama.",
-      "language": "en",
-      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/BBC-Three-UK.png"
-    },
-    {
-      "start": "2026-06-18T15:30:00+05:00",
-      "stop": "2026-06-18T21:30:00+05:00",
-      "title": "..programmes start at 7.00pm",
-      "desc": "BBC Three delivers bold and provocative content for younger audiences, featuring groundbreaking documentaries, experimental comedy, and fresh drama.",
-      "language": "en",
-      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/BBC-Three-UK.png"
-    },
-    {
-      "start": "2026-06-18T21:30:00+05:00",
-      "stop": "2026-06-18T22:58:00+05:00",
-      "title": "..programmes start at 7.00pm",
-      "desc": "BBC Three delivers bold and provocative content for younger audiences, featuring groundbreaking documentaries, experimental comedy, and fresh drama.",
-      "language": "en",
-      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/BBC-Three-UK.png"
-    },
-    {
-      "start": "2026-06-18T22:58:00+05:00",
-      "stop": "2026-06-18T23:00:00+05:00",
-      "title": "This is BBC Three",
-      "desc": "Programmes start at 7.00pm.",
-      "language": "en",
-      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/BBC-Three-UK.png"
-    },
-    {
       "start": "2026-06-18T23:00:00+05:00",
       "stop": "2026-06-18T23:05:00+05:00",
       "title": "The Catch Up",
@@ -129,6 +97,49 @@
         "Game Show"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/e50c6938-a133-4a4f-a4d0-40698ad0633b/16-9"
+    },
+    {
+      "start": "2026-06-19T05:25:00+05:00",
+      "stop": "2026-06-19T07:20:00+05:00",
+      "title": "A Simple Favour",
+      "desc": "A small-town vlogger tries to uncover the truth about her best friend's disappearance. Contains very strong language and some scenes of a sexual nature.",
+      "language": "en",
+      "categories": [
+        "Movie"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/bf889043-4eb0-40b2-858a-63456111dc9f/16-9"
+    },
+    {
+      "start": "2026-06-19T07:20:00+05:00",
+      "stop": "2026-06-19T07:45:00+05:00",
+      "title": "Things You Should Have Done",
+      "desc": "Dependent pest and 'stay-at-home-daughter' Chi is suddenly forced to fend for herself. Contains some strong language and adult humour.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Comedy"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/fc7ce4a3-4645-36b7-aff0-991df5812780/16-9"
+    },
+    {
+      "start": "2026-06-19T07:45:00+05:00",
+      "stop": "2026-06-19T08:00:00+05:00",
+      "title": "Quiet Life",
+      "desc": "A social media meltdown forces Geoffrey to reassess his life and values.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Comedy"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/41c1809a-4602-3718-840b-c1ca2c4756cb/16-9"
+    },
+    {
+      "start": "2026-06-19T08:00:00+05:00",
+      "stop": "2026-06-19T09:30:00+05:00",
+      "title": "This is BBC Three",
+      "desc": "Programmes start at 7.00pm.",
+      "language": "en",
+      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/BBC-Three-UK.png"
     }
   ]
 }

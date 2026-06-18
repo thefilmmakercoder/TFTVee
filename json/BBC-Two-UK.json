@@ -4,42 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-18T16:15:00+05:00",
-      "stop": "2026-06-18T17:00:00+05:00",
-      "title": "Politics Live",
-      "desc": "The big political issues of the day.",
-      "language": "en",
-      "categories": [
-        "Entertainment",
-        "Factual"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/1af4ac06-1032-4e86-82f5-02f745764a4f/16-9"
-    },
-    {
-      "start": "2026-06-18T17:00:00+05:00",
-      "stop": "2026-06-18T22:00:00+05:00",
-      "title": "Tennis: Queen's",
-      "desc": "Live coverage from day 11 of the 2026 Queen's tennis tournament.",
-      "language": "en",
-      "categories": [
-        "Sports",
-        "Tennis"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/ab17309d-eaff-4f86-9f32-1d277222dfab/16-9"
-    },
-    {
-      "start": "2026-06-18T22:00:00+05:00",
-      "stop": "2026-06-18T22:30:00+05:00",
-      "title": "Richard Osman's House of Games",
-      "desc": "Ben Bailey Smith, Robin Ince, Lara Ricote and Helen Skelton test their general knowledge skills on this week's House of Games.",
-      "language": "en",
-      "categories": [
-        "Entertainment",
-        "Game Show"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/eb73a8fe-aa64-4175-8055-d8303c8fed89/16-9"
-    },
-    {
       "start": "2026-06-18T22:30:00+05:00",
       "stop": "2026-06-18T23:00:00+05:00",
       "title": "Great Continental Railway Journeys",
@@ -144,6 +108,38 @@
         "Movie"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/574e552a-020c-47fe-95dd-fd8bf73bff54/16-9"
+    },
+    {
+      "start": "2026-06-19T05:50:00+05:00",
+      "stop": "2026-06-19T08:10:00+05:00",
+      "title": "MOTD Live: Mexico v South Korea",
+      "desc": "Live coverage as Mexico play their second game in Group A against South Korea in Guadalajara Stadium.",
+      "language": "en",
+      "categories": [
+        "Sports",
+        "Football"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/3a4100d4-56cb-4ed5-a937-dd4bde188e01/16-9"
+    },
+    {
+      "start": "2026-06-19T08:10:00+05:00",
+      "stop": "2026-06-19T10:30:00+05:00",
+      "title": "This is BBC Two",
+      "desc": "Highlights of programmes on BBC Two.",
+      "language": "en",
+      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/BBC-Two-UK.png"
+    },
+    {
+      "start": "2026-06-19T10:30:00+05:00",
+      "stop": "2026-06-19T11:15:00+05:00",
+      "title": "Escape to the Country",
+      "desc": "Alistair Appleton helps a couple and their dog Daisy swap France for the East Riding of Yorkshire, hunting for a home nearer family, friends and proper fish and chips.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Gradening"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/f2390d2c-fe56-4eb9-9c02-9a131397c84d/16-9"
     }
   ]
 }
