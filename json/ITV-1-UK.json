@@ -4,18 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-18T22:30:00+05:00",
-      "stop": "2026-06-18T23:00:00+05:00",
-      "title": "ITV Evening News",
-      "desc": "National and international news with reports and analysis from ITV's Correspondents in the UK and around the world, plus a focus on the stories that matter to you.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/746d1d84-04d6-45f3-bb45-52a1c8420137/16-9"
-    },
-    {
       "start": "2026-06-18T23:00:00+05:00",
       "stop": "2026-06-19T02:30:00+05:00",
       "title": "FIFA WC2026: Switz v Bosnia & Herz",
@@ -148,6 +136,18 @@
         "Magazine"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/c077697f-87e1-4c71-9d03-4b9b00c25dd7/16-9"
+    },
+    {
+      "start": "2026-06-19T16:55:00+05:00",
+      "stop": "2026-06-19T17:20:00+05:00",
+      "title": "ITV Lunchtime News",
+      "desc": "The latest headlines from around the world at lunchtime with reports and analysis from ITV's Correspondents, all of which are followed by a national weather forecast.",
+      "language": "en",
+      "categories": [
+        "News & Documentary",
+        "News"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/1666d441-7ab6-4ddb-9ad0-f1478c2301a0/16-9"
     }
   ]
 }

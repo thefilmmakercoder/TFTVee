@@ -4,19 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-19T00:40:00+05:00",
-      "stop": "2026-06-19T01:20:00+05:00",
-      "title": "The Movie Show",
-      "desc": "The Movie Show reviews Pacific Heights, Berkeley in the 60s, White Fang and Sleeping with the Enemy and more.",
-      "language": "en",
-      "rating": "PG",
-      "categories": [
-        "Special Interest"
-      ],
-      "episode": "E8",
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/130483/image/334x188"
-    },
-    {
       "start": "2026-06-19T01:20:00+05:00",
       "stop": "2026-06-19T03:25:00+05:00",
       "title": "Howl's Moving Castle",
@@ -149,6 +136,15 @@
         "Drama"
       ],
       "icon": "https://www.fetchtv.com.au/v2/epg/program/1334424/image/334x188"
+    },
+    {
+      "start": "2026-06-19T23:35:00+05:00",
+      "stop": "2026-06-20T01:15:00+05:00",
+      "title": "Open The Wall",
+      "desc": "A comic look at the fall of the Berlin Wall in November of 1989, told from the point of view of the German border guards at the checkpoint where it all started.",
+      "language": "en",
+      "rating": "PG",
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/1522206/image/334x188"
     }
   ]
 }

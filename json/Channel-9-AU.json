@@ -4,20 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-19T00:00:00+05:00",
-      "stop": "2026-06-19T00:29:00+05:00",
-      "title": "Today Early News",
-      "sub_title": "Friday 19 June 2026",
-      "desc": "Today Early News with up to date news from Australia and around the world as well as the latest in sport and weather.",
-      "language": "en",
-      "rating": "NR",
-      "categories": [
-        "News"
-      ],
-      "episode": "E122",
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/428725/image/334x188"
-    },
-    {
       "start": "2026-06-19T00:29:00+05:00",
       "stop": "2026-06-19T04:00:00+05:00",
       "title": "Today",
@@ -164,6 +150,20 @@
       ],
       "episode": "E16",
       "icon": "https://www.fetchtv.com.au/v2/epg/program/202390/image/334x188"
+    },
+    {
+      "start": "2026-06-19T16:55:00+05:00",
+      "stop": "2026-06-19T17:45:00+05:00",
+      "title": "NRL Friday Night Footy Post-Match",
+      "sub_title": "Knights v Dragons",
+      "desc": "Join the Wide World of Sports team for all the post-match NRL news and analysis.",
+      "language": "en",
+      "rating": "NR",
+      "categories": [
+        "Sports"
+      ],
+      "episode": "E16",
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/18067910/image/334x188"
     }
   ]
 }
