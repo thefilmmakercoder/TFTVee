@@ -4,18 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-18T06:50:00+05:00",
-      "stop": "2026-06-18T11:00:00+05:00",
-      "title": "Teleshopping",
-      "desc": "Teleshopping.",
-      "language": "en",
-      "categories": [
-        "Specialist",
-        "Shopping"
-      ],
-      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/Film-4-UK.png"
-    },
-    {
       "start": "2026-06-18T11:00:00+05:00",
       "stop": "2026-06-18T15:00:00+05:00",
       "title": "Teleshopping",
@@ -162,6 +150,20 @@
         "Shopping"
       ],
       "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/Film-4-UK.png"
+    },
+    {
+      "start": "2026-06-19T15:00:00+05:00",
+      "stop": "2026-06-19T16:55:00+05:00",
+      "title": "The Admirable Crichton",
+      "desc": "Comedy. Kenneth More stars as the perfect butler, who assumes command when he, his aristocratic employer (Cecil Parker) and his family and friends are shipwrecked on a desert island.",
+      "date": "1957",
+      "language": "en",
+      "rating": "U",
+      "categories": [
+        "Movie",
+        "Comedy"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/0f59c488-0230-44f5-bfeb-e17f33aab4ef/16-9"
     }
   ]
 }

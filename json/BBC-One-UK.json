@@ -4,53 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-18T09:15:00+05:00",
-      "stop": "2026-06-18T10:00:00+05:00",
-      "title": "BBC News",
-      "desc": "BBC One joins the BBC's rolling news channel for a night of news.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/d4b553e7-ad74-4797-a5b0-3532f17134e4/16-9"
-    },
-    {
-      "start": "2026-06-18T10:00:00+05:00",
-      "stop": "2026-06-18T13:30:00+05:00",
-      "title": "Breakfast",
-      "desc": "The latest news, sport, business and weather from the BBC's Breakfast team.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/ff672595-1408-4f2a-8d25-cf08ba1d1d49/16-9"
-    },
-    {
-      "start": "2026-06-18T13:30:00+05:00",
-      "stop": "2026-06-18T14:45:00+05:00",
-      "title": "Morning Live",
-      "desc": "Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier.",
-      "language": "en",
-      "categories": [
-        "Entertainment"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/d6e62ce1-98c0-474c-b1ab-ac4fe6a8125d/16-9"
-    },
-    {
-      "start": "2026-06-18T14:45:00+05:00",
-      "stop": "2026-06-18T15:15:00+05:00",
-      "title": "Doorbell Detectives",
-      "desc": "Matt Allwright meets the doorbell detectives whose pet camera snared a cat burglar, and another criminal is caught returning to the scene of a crime.",
-      "language": "en",
-      "categories": [
-        "Entertainment",
-        "Factual"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/9a2ad362-0463-4895-9581-97261803a8a8/16-9"
-    },
-    {
       "start": "2026-06-18T15:15:00+05:00",
       "stop": "2026-06-18T16:15:00+05:00",
       "title": "Homes Under the Hammer",
@@ -145,6 +98,54 @@
         "Football"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/12c2ac66-87ed-410b-9121-664f20fd0a24/16-9"
+    },
+    {
+      "start": "2026-06-18T23:30:00+05:00",
+      "stop": "2026-06-19T00:00:00+05:00",
+      "title": "BBC News",
+      "desc": "The latest national and international news from the BBC.",
+      "language": "en",
+      "categories": [
+        "News & Documentary",
+        "News"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/240e9c6c-d32b-450b-b3dc-0026c54356c4/16-9"
+    },
+    {
+      "start": "2026-06-19T00:00:00+05:00",
+      "stop": "2026-06-19T00:30:00+05:00",
+      "title": "BBC London News",
+      "desc": "The latest news, sport and weather from London.",
+      "language": "en",
+      "categories": [
+        "News & Documentary",
+        "News"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/33c3100c-fa39-4ba5-8a6a-9fa72b0084a2/16-9"
+    },
+    {
+      "start": "2026-06-19T00:30:00+05:00",
+      "stop": "2026-06-19T01:00:00+05:00",
+      "title": "EastEnders",
+      "desc": "Chelsea receives an unexpected offer, Ian turns to Kathy for help, and Bea meddles with Honey and Billy.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Soap"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/e870f55e-cda0-47fe-a599-973d97a86bd3/16-9"
+    },
+    {
+      "start": "2026-06-19T01:00:00+05:00",
+      "stop": "2026-06-19T02:00:00+05:00",
+      "title": "Reported Missing",
+      "desc": "Police launch high-risk searches for two missing women - 22-year-old Santra was last seen on CCTV 10 days ago, while 52-year-old Laura vanished without trace two weeks ago.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Factual"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/37362ae7-7fe1-410e-b4f7-ef1ff9c754d8/16-9"
     }
   ]
 }

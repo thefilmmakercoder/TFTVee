@@ -4,14 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-18T08:00:00+05:00",
-      "stop": "2026-06-18T09:30:00+05:00",
-      "title": "This is BBC Three",
-      "desc": "Programmes start at 7.00pm.",
-      "language": "en",
-      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/BBC-Three-UK.png"
-    },
-    {
       "start": "2026-06-18T09:30:00+05:00",
       "stop": "2026-06-18T15:30:00+05:00",
       "title": "..programmes start at 7.00pm",
@@ -125,6 +117,18 @@
         "Game Show"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/5a96de94-66c5-44b2-a95c-a1145ef6c174/16-9"
+    },
+    {
+      "start": "2026-06-19T04:25:00+05:00",
+      "stop": "2026-06-19T05:25:00+05:00",
+      "title": "The Traitors US",
+      "desc": "There is a big swing at the Round Table, and the Traitors feel the weight of their decisions. Contains some strong language.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Game Show"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/e50c6938-a133-4a4f-a4d0-40698ad0633b/16-9"
     }
   ]
 }
