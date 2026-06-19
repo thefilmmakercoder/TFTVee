@@ -4,30 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-19T14:00:00+05:00",
-      "stop": "2026-06-19T16:55:00+05:00",
-      "title": "This Morning",
-      "desc": "Magazine show with news and topical items, celebrity guests, expert advice, real-life stories, competitions and a mix of cookery, health, beauty, lifestyle and more.",
-      "language": "en",
-      "categories": [
-        "Entertainment",
-        "Magazine"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/c077697f-87e1-4c71-9d03-4b9b00c25dd7/16-9"
-    },
-    {
-      "start": "2026-06-19T16:55:00+05:00",
-      "stop": "2026-06-19T17:20:00+05:00",
-      "title": "ITV Lunchtime News",
-      "desc": "The latest headlines from around the world at lunchtime with reports and analysis from ITV's Correspondents, all of which are followed by a national weather forecast.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/1666d441-7ab6-4ddb-9ad0-f1478c2301a0/16-9"
-    },
-    {
       "start": "2026-06-19T17:20:00+05:00",
       "stop": "2026-06-19T17:30:00+05:00",
       "title": "ITV News London",
@@ -148,6 +124,30 @@
         "Football"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/b9f2a118-dc1b-4a0f-8e8a-d6df9a98edd1/16-9"
+    },
+    {
+      "start": "2026-06-20T07:50:00+05:00",
+      "stop": "2026-06-20T10:35:00+05:00",
+      "title": "FIFA WC2026: Turkey v Paraguay",
+      "desc": "Turkey take on Paraguay at the 2026 FIFA World Cup with Semra Hunter, Juan Mata and Jobi McAnuff.",
+      "language": "en",
+      "categories": [
+        "Sports",
+        "Football"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/2767527a-93ce-4582-ba87-8a1980a4d843/16-9"
+    },
+    {
+      "start": "2026-06-20T10:35:00+05:00",
+      "stop": "2026-06-20T11:30:00+05:00",
+      "title": "James Martin's Great British Adventure",
+      "desc": "James and Nick Nairn continue their Scottish adventure in Lossiemouth, where James fulfils a childhood dream and Nick takes part in a fitness test.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Cooking"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/152976d5-724b-47af-95ae-40263dd13b54/16-9"
     }
   ]
 }

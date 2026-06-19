@@ -4,30 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-19T16:30:00+05:00",
-      "stop": "2026-06-19T17:00:00+05:00",
-      "title": "Eyewitness News 4:30AM",
-      "desc": "News coverage to start the day.",
-      "date": "2008",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p676967_b_h8_af.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-06-19T17:00:00+05:00",
-      "stop": "2026-06-19T18:00:00+05:00",
-      "title": "Eyewitness News 5AM",
-      "desc": "News coverage to start the day.",
-      "date": "2004",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p676994_b_h8_af.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-06-19T18:00:00+05:00",
       "stop": "2026-06-19T19:00:00+05:00",
       "title": "Eyewitness News 6AM",
@@ -224,6 +200,30 @@
           "David Muir"
         ]
       }
+    },
+    {
+      "start": "2026-06-20T04:00:00+05:00",
+      "stop": "2026-06-20T05:00:00+05:00",
+      "title": "Eyewitness News 4PM",
+      "desc": "Early evening news.",
+      "date": "2004",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p676966_b_h8_af.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-06-20T05:00:00+05:00",
+      "stop": "2026-06-20T06:00:00+05:00",
+      "title": "Eyewitness News 5PM",
+      "desc": "Early evening news.",
+      "date": "2016",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p12821107_b_h8_aa.jpg?w=960&h=540"
     }
   ]
 }

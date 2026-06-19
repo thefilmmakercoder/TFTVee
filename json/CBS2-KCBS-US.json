@@ -4,30 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-19T16:30:00+05:00",
-      "stop": "2026-06-19T17:00:00+05:00",
-      "title": "CBS News Mornings",
-      "desc": "CBS News Mornings broadcasts on weekdays and offers viewers up-to-date news, comprehensive weather forecasts, and highlights from the world of sports.",
-      "date": "2024",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p27236437_b_h8_ab.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-06-19T17:00:00+05:00",
-      "stop": "2026-06-19T18:00:00+05:00",
-      "title": "CBS LA Mornings at 5am",
-      "desc": "Start your day with CBS LA Mornings, covering breaking stories from The Desk, and NEXT Weather and Traffic for Southern California.",
-      "date": "2025",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p31308781_b_h10_aa.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-06-19T18:00:00+05:00",
       "stop": "2026-06-19T19:00:00+05:00",
       "title": "CBS LA Mornings at 6am",
@@ -227,6 +203,50 @@
           "Drew Barrymore",
           "Wolfgang Van Halen",
           "Valerie Bertinelli"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-20T03:00:00+05:00",
+      "stop": "2026-06-20T03:30:00+05:00",
+      "title": "Judge Judy",
+      "sub_title": "Physical Abuse of the Handicapped?; Sick Puppy 101",
+      "desc": "Staff of a care facility for disabled people take polygraph tests when a brutal assault comes to light; a new pet owner accuses a breeder of selling her a puppy with parvovirus.",
+      "date": "2015",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Reality",
+        "Law"
+      ],
+      "episode": "S19 E135",
+      "icon": "http://dtil.tmsimg.com/assets/p184382_b_h8_af.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Judy Sheindlin"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-20T03:30:00+05:00",
+      "stop": "2026-06-20T04:00:00+05:00",
+      "title": "Judge Judy",
+      "sub_title": "Child Support Roofing Ruckus!; Bad News Gym Partners",
+      "desc": "A woman who tried to get child support for her grandchildren by getting their father a job claims she ended up with a botched roof; a man accuses his former tenant of damaging his rental home by painting graffiti on it.",
+      "date": "2015",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Reality",
+        "Law"
+      ],
+      "episode": "S19 E231",
+      "icon": "http://dtil.tmsimg.com/assets/p184382_b_h8_af.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Judy Sheindlin"
         ]
       }
     }

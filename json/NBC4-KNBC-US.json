@@ -4,30 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-19T16:30:00+05:00",
-      "stop": "2026-06-19T17:00:00+05:00",
-      "title": "Today in LA @ 4:30AM",
-      "desc": "The latest local news, weather and investigative stories impacting the community.",
-      "date": "2020",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p18627053_b_h10_ab.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-06-19T17:00:00+05:00",
-      "stop": "2026-06-19T18:00:00+05:00",
-      "title": "Today in LA @ 5AM",
-      "desc": "The latest local news, weather and investigative stories impacting the community.",
-      "date": "2020",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p18627056_b_h10_ab.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-06-19T18:00:00+05:00",
       "stop": "2026-06-19T19:00:00+05:00",
       "title": "Today in LA @ 6AM",
@@ -189,6 +165,57 @@
           "Mario Lopez",
           "Kit Hoover",
           "Scott Evans"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-20T08:00:00+05:00",
+      "stop": "2026-06-20T10:00:00+05:00",
+      "title": "America's Got Talent",
+      "sub_title": "Auditions 3",
+      "desc": "The world's most talented amateur performers -- singers, dancers, magicians, comedians and more -- appear before celebrity judges and compete to win a life-changing prize, as well as millions of viewers' hearts.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Variety",
+        "Music",
+        "Dance",
+        "Competition Reality"
+      ],
+      "episode": "S21 E3",
+      "icon": "http://dtil.tmsimg.com/assets/p32655317_b_h8_ab.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Terry Crews",
+          "Simon Cowell",
+          "Howie Mandel"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-20T10:00:00+05:00",
+      "stop": "2026-06-20T11:00:00+05:00",
+      "title": "Dateline NBC",
+      "sub_title": "Secrets Unmasked",
+      "desc": "Compelling mysteries, powerful documentaries, in-depth investigations.",
+      "date": "2026",
+      "language": "en",
+      "rating": "MA 15+",
+      "categories": [
+        "Series",
+        "Newsmagazine",
+        "Mystery",
+        "Crime"
+      ],
+      "episode": "S34 E29",
+      "icon": "http://dtil.tmsimg.com/assets/p184061_b_h8_ab.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Lester Holt",
+          "Andrea Canning",
+          "Josh Mankiewicz"
         ]
       }
     }

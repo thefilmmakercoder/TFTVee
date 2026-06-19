@@ -4,88 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-19T15:00:00+05:00",
-      "stop": "2026-06-19T16:00:00+05:00",
-      "title": "CBS News New York This Morning 6am",
-      "desc": "News coverage to start the day.",
-      "date": "2020",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p18809073_b_h8_ad.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-06-19T16:00:00+05:00",
-      "stop": "2026-06-19T18:00:00+05:00",
-      "title": "CBS Mornings",
-      "desc": "Michael Trotter Jr. and Tanya Trotter, singer-songwriters of the duo The War and Treaty.",
-      "date": "2026",
-      "language": "en",
-      "categories": [
-        "Series",
-        "Talk",
-        "News"
-      ],
-      "episode": "E122",
-      "icon": "http://dtil.tmsimg.com/assets/p20589677_b_h8_aj.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Gayle King",
-          "Tony Dokoupil",
-          "Nate Burleson"
-        ]
-      }
-    },
-    {
-      "start": "2026-06-19T18:00:00+05:00",
-      "stop": "2026-06-19T18:30:00+05:00",
-      "title": "The Drew Barrymore Show",
-      "sub_title": "Kate Hudson; Justin Theroux",
-      "desc": "Kate Hudson joins Drew to chat about Season 2 of \"Running Point\" with co-star Justin Theroux.",
-      "date": "2026",
-      "language": "en",
-      "rating": "TVG",
-      "categories": [
-        "Series",
-        "Talk",
-        "Entertainment"
-      ],
-      "episode": "S6 E297",
-      "icon": "http://dtil.tmsimg.com/assets/p31124897_b_h8_aa.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Drew Barrymore",
-          "Kate Hudson",
-          "Justin Theroux"
-        ]
-      }
-    },
-    {
-      "start": "2026-06-19T18:30:00+05:00",
-      "stop": "2026-06-19T19:00:00+05:00",
-      "title": "The Drew Barrymore Show",
-      "sub_title": "Wolfgang Van Halen; Valerie Bertinelli",
-      "desc": "Valerie Bertinelli and Drew chat with Wolfgang Van Halen and his wife Andraia about his music, plus a performance from his band!",
-      "date": "2026",
-      "language": "en",
-      "rating": "TVG",
-      "categories": [
-        "Series",
-        "Talk",
-        "Entertainment"
-      ],
-      "episode": "S6 E298",
-      "icon": "http://dtil.tmsimg.com/assets/p31124897_b_h8_aa.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Drew Barrymore",
-          "Wolfgang Van Halen",
-          "Valerie Bertinelli"
-        ]
-      }
-    },
-    {
       "start": "2026-06-19T19:00:00+05:00",
       "stop": "2026-06-19T20:00:00+05:00",
       "title": "Let's Make a Deal",
@@ -250,6 +168,79 @@
           "Judy Sheindlin"
         ]
       }
+    },
+    {
+      "start": "2026-06-20T01:00:00+05:00",
+      "stop": "2026-06-20T01:30:00+05:00",
+      "title": "Hot Bench",
+      "sub_title": "Friendship Fiasco",
+      "desc": "A woman claims she loaned her late mother's car to her best friend - who hit a deer, claimed the car was stolen, and then flaunted a new ride; the friend says her ex-\"sister-friend\" is jealous of her online hustle and the car a guy gifted her.",
+      "date": "2025",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Reality",
+        "Law"
+      ],
+      "episode": "S12 E29",
+      "icon": "http://dtil.tmsimg.com/assets/p30983256_b_h8_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Yodit Tewolde",
+          "Rachel Juarez",
+          "Daniel Mentzer"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-20T01:30:00+05:00",
+      "stop": "2026-06-20T02:00:00+05:00",
+      "title": "Hot Bench",
+      "sub_title": "High Voltage Hustle",
+      "desc": "A bike rider says a motorcycle repair shop owner botched a paint job and damaged his Harley; the repairman says he told the plaintiff there was extensive existing damage.",
+      "date": "2025",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Reality",
+        "Law"
+      ],
+      "episode": "S11 E82",
+      "icon": "http://dtil.tmsimg.com/assets/p28179624_b_h8_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Michael Corriero",
+          "Yodit Tewolde",
+          "Rachel Juarez"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-20T02:00:00+05:00",
+      "stop": "2026-06-20T03:00:00+05:00",
+      "title": "CBS News New York 5pm",
+      "desc": "Evening news coverage.",
+      "date": "2011",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p8492449_b_h8_ab.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-06-20T03:00:00+05:00",
+      "stop": "2026-06-20T03:30:00+05:00",
+      "title": "CBS News New York 6pm",
+      "desc": "Stay informed with the latest breaking news and headlines.",
+      "date": "2008",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p605164_b_h8_ab.jpg?w=960&h=540"
     }
   ]
 }

@@ -4,64 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-19T15:00:00+05:00",
-      "stop": "2026-06-19T16:00:00+05:00",
-      "title": "Eyewitness News This Morning",
-      "desc": "News coverage to start the day.",
-      "date": "2007",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p677214_b_h8_ad.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-06-19T16:00:00+05:00",
-      "stop": "2026-06-19T18:00:00+05:00",
-      "title": "Good Morning America",
-      "desc": "Stanley Richards, the commissioner of the NYC Department of Corrections; author Wallace \"Wallo267\" Peeples; The Right Stuff series with Lori Bergamotto.",
-      "date": "2026",
-      "language": "en",
-      "categories": [
-        "Series",
-        "Talk",
-        "News",
-        "Variety",
-        "Public affairs"
-      ],
-      "episode": "E194",
-      "icon": "http://dtil.tmsimg.com/assets/p31385280_b_h10_aa.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "George Stephanopoulos",
-          "Robin Roberts",
-          "Michael Strahan"
-        ]
-      }
-    },
-    {
-      "start": "2026-06-19T18:00:00+05:00",
-      "stop": "2026-06-19T19:00:00+05:00",
-      "title": "Live with Kelly and Mark",
-      "desc": "Rita Ora and Jerry O'Connell are here; the hottest summer toys; Kaleo performs!",
-      "date": "2026",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Series",
-        "Talk"
-      ],
-      "episode": "S4 E210",
-      "icon": "http://dtil.tmsimg.com/assets/p24324378_b_h8_ab.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Kelly Ripa",
-          "Mark Consuelos",
-          "Rita Ora"
-        ]
-      }
-    },
-    {
       "start": "2026-06-19T19:00:00+05:00",
       "stop": "2026-06-19T20:00:00+05:00",
       "title": "Eyewitness News Mornings at 10",
@@ -217,6 +159,67 @@
         "News"
       ],
       "icon": "http://dtil.tmsimg.com/assets/p13769035_b_h8_ab.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-06-20T03:30:00+05:00",
+      "stop": "2026-06-20T04:00:00+05:00",
+      "title": "ABC World News Tonight With David Muir",
+      "desc": "Delivering the news that matters most.",
+      "date": "2026",
+      "language": "en",
+      "categories": [
+        "Series",
+        "News"
+      ],
+      "episode": "E170",
+      "icon": "http://dtil.tmsimg.com/assets/p10880351_b_h8_ah.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "David Muir"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-20T04:00:00+05:00",
+      "stop": "2026-06-20T04:30:00+05:00",
+      "title": "Jeopardy!",
+      "desc": "The Emmy-winning quiz show features a unique answer-and-question format.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Series",
+        "Game show"
+      ],
+      "episode": "S42 E205",
+      "icon": "http://dtil.tmsimg.com/assets/p184056_b_h10_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Ken Jennings"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-20T04:30:00+05:00",
+      "stop": "2026-06-20T05:00:00+05:00",
+      "title": "Wheel of Fortune",
+      "sub_title": "Paradise Found",
+      "desc": "In a classic game-show version of \"Hangman,\" contestants solve word puzzles for cash and prizes.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Series",
+        "Game show"
+      ],
+      "episode": "S43 E100",
+      "icon": "http://dtil.tmsimg.com/assets/p184057_b_h8_ai.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Ryan Seacrest",
+          "Vanna White"
+        ]
+      }
     }
   ]
 }
