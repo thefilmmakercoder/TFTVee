@@ -4,30 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-19T07:45:00+05:00",
-      "stop": "2026-06-19T11:00:00+05:00",
-      "title": "Teleshopping",
-      "desc": "Teleshopping.",
-      "language": "en",
-      "categories": [
-        "Specialist",
-        "Shopping"
-      ],
-      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/Film-4-UK.png"
-    },
-    {
-      "start": "2026-06-19T11:00:00+05:00",
-      "stop": "2026-06-19T15:00:00+05:00",
-      "title": "Teleshopping",
-      "desc": "Teleshopping.",
-      "language": "en",
-      "categories": [
-        "Specialist",
-        "Shopping"
-      ],
-      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/Film-4-UK.png"
-    },
-    {
       "start": "2026-06-19T15:00:00+05:00",
       "stop": "2026-06-19T16:55:00+05:00",
       "title": "The Admirable Crichton",
@@ -162,6 +138,34 @@
         "Shopping"
       ],
       "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/Film-4-UK.png"
+    },
+    {
+      "start": "2026-06-20T15:00:00+05:00",
+      "stop": "2026-06-20T16:50:00+05:00",
+      "title": "Sign of the Pagan",
+      "desc": "Jack Palance plays Attila the Hun, sweeping across Europe with his hordes and conquering all before him, with Jeff Chandler as the Roman general charged with saving the Empire.",
+      "date": "1954",
+      "language": "en",
+      "rating": "PG",
+      "categories": [
+        "Movie",
+        "Adventure"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/e0b75a4d-2465-4270-bc8c-93c241eef75c/16-9"
+    },
+    {
+      "start": "2026-06-20T16:50:00+05:00",
+      "stop": "2026-06-20T18:40:00+05:00",
+      "title": "The True Story of Jesse James",
+      "desc": "Robert Wagner stars as the infamous outlaw in Nicholas Ray's western, which follows the last 18 years of the robber's life.",
+      "date": "1957",
+      "language": "en",
+      "rating": "U",
+      "categories": [
+        "Movie",
+        "Western"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/40850e37-7ef5-4484-ba27-12cd8485bf6a/16-9"
     }
   ]
 }
