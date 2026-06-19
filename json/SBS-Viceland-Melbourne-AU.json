@@ -4,32 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-20T00:00:00+05:00",
-      "stop": "2026-06-20T01:00:00+05:00",
-      "title": "Al Jazeera News Hour",
-      "sub_title": "Saturday 20 June 2026",
-      "desc": "In-depth global news from Al Jazeera Satellite Network, Doha, Qatar, in English.",
-      "language": "en",
-      "rating": "NR",
-      "categories": [
-        "News"
-      ],
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/264846/image/334x188"
-    },
-    {
-      "start": "2026-06-20T01:00:00+05:00",
-      "stop": "2026-06-20T01:50:00+05:00",
-      "title": "TRT World News",
-      "sub_title": "Saturday 20 June 2026",
-      "desc": "The latest news from around the globe from TRT World, Istanbul, Turkiye, in English.",
-      "language": "en",
-      "rating": "NR",
-      "categories": [
-        "News"
-      ],
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/413685/image/334x188"
-    },
-    {
       "start": "2026-06-20T01:50:00+05:00",
       "stop": "2026-06-20T02:20:00+05:00",
       "title": "DW English News",
@@ -161,6 +135,33 @@
         "News"
       ],
       "icon": "https://www.fetchtv.com.au/v2/epg/program/310649/image/334x188"
+    },
+    {
+      "start": "2026-06-20T09:00:00+05:00",
+      "stop": "2026-06-20T09:30:00+05:00",
+      "title": "Cryptoland",
+      "sub_title": "Defi And Memecoins: The Fastest, Riskiest Way To Get Rich In Crypto",
+      "desc": "In the beginning there was only Bitcoin, but today there is a dizzying array of crypto projects. In this new Wild West projects are making some people rich and ruining others due to scams and hacks.",
+      "language": "en",
+      "rating": "M",
+      "categories": [
+        "Special Interest"
+      ],
+      "episode": "S1 E3",
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/7652532/image/334x188"
+    },
+    {
+      "start": "2026-06-20T09:30:00+05:00",
+      "stop": "2026-06-20T10:35:00+05:00",
+      "title": "If You Are The One",
+      "desc": "A dating show has a single contestant sharing information about themselves in the hopes of gaining attention of members of the opposite sex, who are given the option to decide whether or not the lone contestant is worthy of their affection.",
+      "language": "en",
+      "rating": "G",
+      "categories": [
+        "Special Interest"
+      ],
+      "episode": "S15 E2",
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/11484407/image/334x188"
     }
   ]
 }

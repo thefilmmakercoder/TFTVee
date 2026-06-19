@@ -4,17 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-19T23:00:00+05:00",
-      "stop": "2026-06-19T23:30:00+05:00",
-      "title": "The One Show",
-      "desc": "Alex Jones and Roman Kemp bring you the stories that matter from across the country.",
-      "language": "en",
-      "categories": [
-        "Entertainment"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/7f73db79-9ec4-4721-81ca-e1124318494c/16-9"
-    },
-    {
       "start": "2026-06-19T23:30:00+05:00",
       "stop": "2026-06-20T02:30:00+05:00",
       "title": "MOTD Live: USA v Australia",
@@ -144,6 +133,18 @@
         "Cooking"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/46a986b8-06da-4cc4-a26e-f4d2995cbe35/16-9"
+    },
+    {
+      "start": "2026-06-20T16:00:00+05:00",
+      "stop": "2026-06-20T16:45:00+05:00",
+      "title": "Bargain Hunt",
+      "desc": "Natasha Raskin Sharp presents this episode, with experts Charles Hanson and Thomas Forrester assisting the reds and blues as they battle it out in Kingston upon Thames.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Game Show"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/dd3837dd-2b85-3a97-a77d-6142d8e40423/16-9"
     }
   ]
 }

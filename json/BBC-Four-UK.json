@@ -4,18 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-20T00:30:00+05:00",
-      "stop": "2026-06-20T01:00:00+05:00",
-      "title": "TOTP: 1990",
-      "desc": "Jakki Brambles presents the pop chart programme, first broadcast on 22 June 1990 and featuring Magnum, Big Fun & Sonia, Yazz and Elton John.",
-      "language": "en",
-      "categories": [
-        "Music & Radio",
-        "Rock&Pop"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/dfe61dc9-efb8-490f-b65e-e0618d528c8b/16-9"
-    },
-    {
       "start": "2026-06-20T01:00:00+05:00",
       "stop": "2026-06-20T02:15:00+05:00",
       "title": "Elvis Presley: '68 Comeback Special",
@@ -126,6 +114,14 @@
       "stop": "2026-06-20T22:58:00+05:00",
       "title": "..programmes start at 7.00pm",
       "desc": "BBC Four provides an intelligent mix of arts, science, and history programming, offering deep-dive documentaries and world cinema for a curious audience.",
+      "language": "en",
+      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/BBC-Four-UK.png"
+    },
+    {
+      "start": "2026-06-20T22:58:00+05:00",
+      "stop": "2026-06-20T23:00:00+05:00",
+      "title": "This is BBC Four",
+      "desc": "Programmes start at 7.00pm.",
       "language": "en",
       "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/BBC-Four-UK.png"
     }
