@@ -4,30 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-20T02:15:00+05:00",
-      "stop": "2026-06-20T02:40:00+05:00",
-      "title": "Funboys",
-      "desc": "Funboys enter a robot wars competition, putting their friendship to the ultimate test. Contains very strong language and adult humour.",
-      "language": "en",
-      "categories": [
-        "Entertainment",
-        "Comedy"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/74da9073-ad45-44ea-ab5d-0e6c9bc7d9ea/16-9"
-    },
-    {
-      "start": "2026-06-20T02:40:00+05:00",
-      "stop": "2026-06-20T03:10:00+05:00",
-      "title": "The Young Offenders",
-      "desc": "Best pals Conor and Jock clash with their headmaster. Contains very strong language.",
-      "language": "en",
-      "categories": [
-        "Entertainment",
-        "Comedy"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/59af871b-4db7-4199-90ef-5bdc97029542/16-9"
-    },
-    {
       "start": "2026-06-20T03:10:00+05:00",
       "stop": "2026-06-20T03:45:00+05:00",
       "title": "The Young Offenders",
@@ -146,6 +122,22 @@
         "Comedy"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/8a7228c5-c0bc-3ac5-8e52-67ffb14b3908/16-9"
+    },
+    {
+      "start": "2026-06-20T08:00:00+05:00",
+      "stop": "2026-06-20T09:30:00+05:00",
+      "title": "This is BBC Three",
+      "desc": "Programmes start at 7.00pm.",
+      "language": "en",
+      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/BBC-Three-UK.png"
+    },
+    {
+      "start": "2026-06-20T09:30:00+05:00",
+      "stop": "2026-06-20T15:30:00+05:00",
+      "title": "..programmes start at 7.00pm",
+      "desc": "BBC Three delivers bold and provocative content for younger audiences, featuring groundbreaking documentaries, experimental comedy, and fresh drama.",
+      "language": "en",
+      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/BBC-Three-UK.png"
     }
   ]
 }

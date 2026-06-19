@@ -4,54 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-19T23:30:00+05:00",
-      "stop": "2026-06-20T02:30:00+05:00",
-      "title": "MOTD Live: USA v Australia",
-      "desc": "Live coverage as host nation USA face Australia at the Seattle Stadium in their second game in Group D.",
-      "language": "en",
-      "categories": [
-        "Sports",
-        "Football"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/0dd2a0b9-27b4-4d01-b7b6-f63269be4175/16-9"
-    },
-    {
-      "start": "2026-06-20T02:30:00+05:00",
-      "stop": "2026-06-20T03:00:00+05:00",
-      "title": "BBC News and Weather",
-      "desc": "The latest national and international news, with reports from BBC correspondents worldwide.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/44d7bf3d-24af-4508-a51c-5ba77eae23fb/16-9"
-    },
-    {
-      "start": "2026-06-20T03:00:00+05:00",
-      "stop": "2026-06-20T03:10:00+05:00",
-      "title": "BBC London News",
-      "desc": "The latest news, sport and weather from London.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/f3d26782-b353-4ede-aba4-2daf0e6b5766/16-9"
-    },
-    {
-      "start": "2026-06-20T03:10:00+05:00",
-      "stop": "2026-06-20T03:30:00+05:00",
-      "title": "St Denis Medical",
-      "desc": "Bruce gets an offer that's hard to refuse, Serena finds out how much everyone loves a baby, and Matt helps Ron log on to his computer.",
-      "language": "en",
-      "categories": [
-        "Entertainment",
-        "Comedy"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/c17de1ca-a1ff-495a-a250-b8ae52287f35/16-9"
-    },
-    {
       "start": "2026-06-20T03:30:00+05:00",
       "stop": "2026-06-20T03:55:00+05:00",
       "title": "St Denis Medical",
@@ -145,6 +97,54 @@
         "Game Show"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/dd3837dd-2b85-3a97-a77d-6142d8e40423/16-9"
+    },
+    {
+      "start": "2026-06-20T16:45:00+05:00",
+      "stop": "2026-06-20T16:55:00+05:00",
+      "title": "BBC News",
+      "desc": "The latest national and international news from the BBC.",
+      "language": "en",
+      "categories": [
+        "News & Documentary",
+        "News"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/7bd9cd00-2464-4f55-9744-876993552f9a/16-9"
+    },
+    {
+      "start": "2026-06-20T16:55:00+05:00",
+      "stop": "2026-06-20T17:00:00+05:00",
+      "title": "Weather",
+      "desc": "The latest weather forecast.",
+      "language": "en",
+      "categories": [
+        "News & Documentary",
+        "News"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/0e2b9cf5-8790-438b-9bc1-955a969626d2/16-9"
+    },
+    {
+      "start": "2026-06-20T17:00:00+05:00",
+      "stop": "2026-06-20T21:10:00+05:00",
+      "title": "Tennis: Queen's: Men's Singles Semi-Finals",
+      "desc": "Live coverage of the men's singles semi-finals at the 2026 Queen's tennis tournament.",
+      "language": "en",
+      "categories": [
+        "Sports",
+        "Tennis"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/6ec338ae-f580-4097-abb8-f890ca5b294c/16-9"
+    },
+    {
+      "start": "2026-06-20T21:10:00+05:00",
+      "stop": "2026-06-20T21:20:00+05:00",
+      "title": "BBC News",
+      "desc": "The latest national and international news from the BBC.",
+      "language": "en",
+      "categories": [
+        "News & Documentary",
+        "News"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/f299264d-1228-4444-aebb-da7c05573349/16-9"
     }
   ]
 }

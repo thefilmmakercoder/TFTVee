@@ -4,17 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-20T01:00:00+05:00",
-      "stop": "2026-06-20T02:15:00+05:00",
-      "title": "Elvis Presley: '68 Comeback Special",
-      "desc": "Elvis struts his stuff in his own charming and inimitable style.",
-      "language": "en",
-      "categories": [
-        "Music & Radio"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/71fffacd-2be1-358a-8b08-d29ed40dd78a/16-9"
-    },
-    {
       "start": "2026-06-20T02:15:00+05:00",
       "stop": "2026-06-20T03:35:00+05:00",
       "title": "Chuck Berry in Concert",
@@ -124,6 +113,18 @@
       "desc": "Programmes start at 7.00pm.",
       "language": "en",
       "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/BBC-Four-UK.png"
+    },
+    {
+      "start": "2026-06-20T23:00:00+05:00",
+      "stop": "2026-06-20T23:05:00+05:00",
+      "title": "Penguin Post Office: Natural World",
+      "desc": "Nature documentary looking at a post office in Antarctica that is surrounded by 3,000 gentoo penguins.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Factual"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/51cb06d0-f3ef-3ca9-b1eb-b0b0e1dd3f10/16-9"
     }
   ]
 }

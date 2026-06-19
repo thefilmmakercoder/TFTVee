@@ -4,42 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-20T01:00:00+05:00",
-      "stop": "2026-06-20T02:00:00+05:00",
-      "title": "PIX11 News at 4",
-      "desc": "Staying informed with the news and headlines.",
-      "date": "2021",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p20535966_b_h8_ab.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-06-20T02:00:00+05:00",
-      "stop": "2026-06-20T03:00:00+05:00",
-      "title": "PIX11 News at 5",
-      "desc": "Staying informed with the news and headlines.",
-      "date": "2014",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p10829683_b_h8_ab.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-06-20T03:00:00+05:00",
-      "stop": "2026-06-20T03:30:00+05:00",
-      "title": "PIX11 News at 6",
-      "desc": "Staying informed with the news and headlines.",
-      "date": "2015",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p11641865_b_h8_ab.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-06-20T03:30:00+05:00",
       "stop": "2026-06-20T04:00:00+05:00",
       "title": "PIX on Politics",
@@ -213,6 +177,69 @@
           "Angus T. Jones"
         ]
       }
+    },
+    {
+      "start": "2026-06-20T10:00:00+05:00",
+      "stop": "2026-06-20T10:30:00+05:00",
+      "title": "The Big Bang Theory",
+      "sub_title": "The Indecision Amalgamation",
+      "desc": "Raj struggles with guilt when he dates two women at once; Penny has a chance to play a part in a cheesy movie; Sheldon is torn between two gaming systems.",
+      "date": "2014",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Sitcom"
+      ],
+      "episode": "S7 E19",
+      "icon": "http://dtil.tmsimg.com/assets/p185554_b_h8_az.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Anthony Rich"
+        ],
+        "actor": [
+          "Johnny Galecki",
+          "Jim Parsons",
+          "Kaley Cuoco-Sweeting"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-20T10:30:00+05:00",
+      "stop": "2026-06-20T11:00:00+05:00",
+      "title": "Young Sheldon",
+      "sub_title": "Hobbitses, Physicses and a Ball With Zip",
+      "desc": "Sheldon is forced to take a break from science when his new obsession with \"The Lord of the Rings\" leads to an unhealthy habit; Missy asks George Sr. to teach her how to play catch.",
+      "date": "2019",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Sitcom"
+      ],
+      "episode": "S3 E4",
+      "icon": "http://dtil.tmsimg.com/assets/p13923677_b_h8_ac.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Jaffar Mahmood"
+        ],
+        "actor": [
+          "Iain Armitage",
+          "Zoe Perry",
+          "Lance Barber"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-20T11:00:00+05:00",
+      "stop": "2026-06-20T11:30:00+05:00",
+      "title": "Protect Your Family From Identity Theft",
+      "desc": "Every 5 seconds there's a victim of identity theft; LifeLock helps alert you, restore your identity, and reimburse lost funds\u2014leading the way in protecting families every day.",
+      "language": "en",
+      "categories": [
+        "Consumer"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p33079900_st_h10_aa.jpg?w=960&h=540"
     }
   ]
 }
