@@ -4,30 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-19T17:20:00+05:00",
-      "stop": "2026-06-19T17:30:00+05:00",
-      "title": "ITV News London",
-      "desc": "The latest news and weather from London and the South East.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/90bf61c2-2f8a-4c13-afbc-5b9801b4ca29/16-9"
-    },
-    {
-      "start": "2026-06-19T17:30:00+05:00",
-      "stop": "2026-06-19T22:00:00+05:00",
-      "title": "ITV Racing Live: Royal Ascot",
-      "desc": "Francesca Cumani and Ed Chamberlin present live coverage of day four of Royal Ascot 2026.",
-      "language": "en",
-      "categories": [
-        "Sports",
-        "Racing"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/67f1a318-3215-46e8-b5b1-ec6f56c8960c/16-9"
-    },
-    {
       "start": "2026-06-19T22:00:00+05:00",
       "stop": "2026-06-19T22:30:00+05:00",
       "title": "ITV News London",
@@ -148,6 +124,31 @@
         "Cooking"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/152976d5-724b-47af-95ae-40263dd13b54/16-9"
+    },
+    {
+      "start": "2026-06-20T11:30:00+05:00",
+      "stop": "2026-06-20T12:25:00+05:00",
+      "title": "Love Your Garden",
+      "desc": "Alan Titchmarsh, David Domoney and Danny Clarke transform a small Leicester garden into a Caribbean-inspired technicolour paradise.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Gradening"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/f6c65ad7-d534-42af-b8f0-e01bba6d58d1/16-9"
+    },
+    {
+      "start": "2026-06-20T12:25:00+05:00",
+      "stop": "2026-06-20T13:25:00+05:00",
+      "title": "Ainsley's Fantastic Flavours",
+      "sub_title": "Sweet Delights",
+      "desc": "Ainsley cooks some sweet-inspired dishes and samples a Maltese classic, while Ellie Simmonds reveals the secrets to chocolate cheesecake.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Cooking"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/73340143-23cc-4618-94b1-2edaa73c76bb/16-9"
     }
   ]
 }

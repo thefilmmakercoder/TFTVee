@@ -4,55 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-19T20:00:00+05:00",
-      "stop": "2026-06-19T20:30:00+05:00",
-      "title": "Live: News 4 NY at 11AM",
-      "desc": "The latest local news, weather and investigative stories impacting your community.",
-      "date": "2014",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p10513203_b_h10_ae.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-06-19T20:30:00+05:00",
-      "stop": "2026-06-19T21:00:00+05:00",
-      "title": "New York Live",
-      "desc": "Celebrity interviews and discussing recipes, beauty, fashion and current events pertinent to the tri-state region.",
-      "date": "2011",
-      "language": "en",
-      "categories": [
-        "News",
-        "Newsmagazine"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p8692580_b_h8_ac.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-06-19T21:00:00+05:00",
-      "stop": "2026-06-19T22:00:00+05:00",
-      "title": "The Kelly Clarkson Show",
-      "desc": "Cameoke: \"Put Your Records On\"; Daniel Radcliffe; \"Pop Pop Quiz\"; \"Traitors\" winner Rob Rausch; Corinne Bailey Rae; The Book Thing.",
-      "date": "2026",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Series",
-        "Talk",
-        "Variety",
-        "Entertainment"
-      ],
-      "episode": "S7 E89",
-      "icon": "http://dtil.tmsimg.com/assets/p16993616_b_h8_af.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Kelly Clarkson",
-          "Daniel Radcliffe",
-          "Rob Rausch"
-        ]
-      }
-    },
-    {
       "start": "2026-06-19T22:00:00+05:00",
       "stop": "2026-06-19T22:30:00+05:00",
       "title": "Open House: Home Course",
@@ -225,6 +176,78 @@
         "News"
       ],
       "icon": "http://dtil.tmsimg.com/assets/p10513206_b_h10_ae.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-06-20T11:07:00+05:00",
+      "stop": "2026-06-20T11:36:00+05:00",
+      "title": "Open House",
+      "sub_title": "America's 250th Starts Now",
+      "desc": "Celebrating America's 250th Birthday early with a preview of what's to come on July 4th.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "How-to",
+        "House/garden",
+        "Home improvement"
+      ],
+      "episode": "S18 E14",
+      "icon": "http://dtil.tmsimg.com/assets/p3575385_b_h10_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "George Oliphant",
+          "Sara Gore"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-20T11:36:00+05:00",
+      "stop": "2026-06-20T12:05:00+05:00",
+      "title": "Access Hollywood",
+      "desc": "It's all about the fashion -- from Taylor Swift to \"The Devil Wears Prada.\".",
+      "date": "2026",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Newsmagazine",
+        "Entertainment",
+        "Interview"
+      ],
+      "episode": "S30 E198",
+      "icon": "http://dtil.tmsimg.com/assets/p30926755_b_h8_ab.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Mario Lopez",
+          "Kit Hoover",
+          "Scott Evans"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-20T12:05:00+05:00",
+      "stop": "2026-06-20T13:00:00+05:00",
+      "title": "The Kelly Clarkson Show",
+      "desc": "Cameoke: \"Put Your Records On\"; Daniel Radcliffe; \"Pop Pop Quiz\"; \"Traitors\" winner Rob Rausch; Corinne Bailey Rae; The Book Thing.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Talk",
+        "Variety",
+        "Entertainment"
+      ],
+      "episode": "S7 E89",
+      "icon": "http://dtil.tmsimg.com/assets/p16993616_b_h8_af.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Kelly Clarkson",
+          "Daniel Radcliffe",
+          "Rob Rausch"
+        ]
+      }
     }
   ]
 }
