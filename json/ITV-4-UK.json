@@ -4,54 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-19T06:50:00+05:00",
-      "stop": "2026-06-19T07:00:00+05:00",
-      "title": "Unwind with ITV",
-      "desc": "Your daily escape designed to calm the mind and encourage relaxation and reflection.",
-      "language": "en",
-      "categories": [
-        "Entertainment",
-        "Lifestyles"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/404c4ced-951f-4b1f-b65c-038a9d8eccbc/16-9"
-    },
-    {
-      "start": "2026-06-19T07:00:00+05:00",
-      "stop": "2026-06-19T10:00:00+05:00",
-      "title": "Teleshopping",
-      "desc": "Shopping from home.",
-      "language": "en",
-      "categories": [
-        "Specialist",
-        "Shopping"
-      ],
-      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/ITV-4-UK.png"
-    },
-    {
-      "start": "2026-06-19T10:00:00+05:00",
-      "stop": "2026-06-19T10:20:00+05:00",
-      "title": "World of Sport",
-      "desc": "TV Firsts: Richard Henwood takes a look back at some television sporting firsts that include a 14-year-old Ronnie O'Sullivan.",
-      "language": "en",
-      "categories": [
-        "Sports"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/5f638ddc-38c2-469b-b10a-517089bfeec4/16-9"
-    },
-    {
-      "start": "2026-06-19T10:20:00+05:00",
-      "stop": "2026-06-19T11:20:00+05:00",
-      "title": "Magnum, P.I.",
-      "sub_title": "Past Tense",
-      "desc": "Classic US action drama series. A pair of crooks hijack TC's helicopter and use it to free a convict who is determined to kill Thomas as revenge for his internment.",
-      "language": "en",
-      "categories": [
-        "Entertainment",
-        "Action"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/6548d2dc-070f-4e39-9706-18608600dd8e/16-9"
-    },
-    {
       "start": "2026-06-19T11:20:00+05:00",
       "stop": "2026-06-19T12:25:00+05:00",
       "title": "Magnum, P.I.",
@@ -152,6 +104,57 @@
         "Detective"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/3dc5d911-ac45-44a8-9be0-af47cd0133fb/16-9"
+    },
+    {
+      "start": "2026-06-19T19:40:00+05:00",
+      "stop": "2026-06-19T20:45:00+05:00",
+      "title": "Boon",
+      "sub_title": "The Not So Lone Ranger",
+      "desc": "Classic drama. Ken and Margaret help a jockey whose wife has been kidnapped and a council officer who is chasing a rogue muralist in the local neighbourhood.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Drama"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/29135988-c943-4be9-b00f-917453e1bd79/16-9"
+    },
+    {
+      "start": "2026-06-19T20:45:00+05:00",
+      "stop": "2026-06-19T21:50:00+05:00",
+      "title": "The Champions",
+      "sub_title": "The Invisible Man",
+      "desc": "Fantasy espionage series. Nemesis makes enquiries into the international money market and uncovers a dastardly plot involving mind control.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Action"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/a48b2f9e-a4b7-4df7-b4d8-c5499f85cbc6/16-9"
+    },
+    {
+      "start": "2026-06-19T21:50:00+05:00",
+      "stop": "2026-06-19T22:30:00+05:00",
+      "title": "ITV Racing Live: Royal Ascot",
+      "desc": "Oli Bell presents live coverage of the final race on day four of Royal Ascot.",
+      "language": "en",
+      "categories": [
+        "Sports",
+        "Racing"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/273bdf76-6eb6-4cc6-82cb-6b7df4137667/16-9"
+    },
+    {
+      "start": "2026-06-19T22:30:00+05:00",
+      "stop": "2026-06-19T23:00:00+05:00",
+      "title": "River Monsters",
+      "sub_title": "Killer Torpedo",
+      "desc": "Extreme fishing series. Jeremy Wade ventures deep into central America while in search of a giant fish that is said to leap into boats and cause fatal injuries.",
+      "language": "en",
+      "categories": [
+        "News & Documentary",
+        "Adventure"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/a4947fd2-4ffa-4c90-89be-e84784de58a1/16-9"
     }
   ]
 }
