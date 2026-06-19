@@ -4,30 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-19T22:00:00+05:00",
-      "stop": "2026-06-19T23:00:00+05:00",
-      "title": "Celebrity Catchphrase",
-      "desc": "Stephen Mulhern hosts a celebrity special of the classic game show with Gemma Atkinson, Karen Hauer, and Josh Widdicombe all trying to 'say what they see' in aid of charity.",
-      "language": "en",
-      "categories": [
-        "Entertainment",
-        "Game Show"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/c0079677-2675-4676-ae07-dcbbf24165eb/16-9"
-    },
-    {
-      "start": "2026-06-19T23:00:00+05:00",
-      "stop": "2026-06-20T00:00:00+05:00",
-      "title": "The Floor US",
-      "desc": "Tonight, I'm Going to Make History: Rob Lowe hosts the American version of the dramatic and fast-paced game show. A winner is crowned and awarded 250,000 dollars.",
-      "language": "en",
-      "categories": [
-        "Entertainment",
-        "Game Show"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/559f943c-2af3-4ece-8069-150d690d57d8/16-9"
-    },
-    {
       "start": "2026-06-20T00:00:00+05:00",
       "stop": "2026-06-20T01:00:00+05:00",
       "title": "The 1% Club",
@@ -152,6 +128,30 @@
         "Factual"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/886dd819-28c5-3306-b236-7c20032ff5e6/16-9"
+    },
+    {
+      "start": "2026-06-20T06:20:00+05:00",
+      "stop": "2026-06-20T07:00:00+05:00",
+      "title": "Unwind with ITV",
+      "desc": "Your daily escape designed to calm the mind and encourage relaxation and reflection.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Lifestyles"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/4d77efa4-f906-4901-a650-b6972aa411dd/16-9"
+    },
+    {
+      "start": "2026-06-20T07:00:00+05:00",
+      "stop": "2026-06-20T10:00:00+05:00",
+      "title": "Teleshopping",
+      "desc": "Shopping from home.",
+      "language": "en",
+      "categories": [
+        "Specialist",
+        "Shopping"
+      ],
+      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/ITV-2-UK.png"
     }
   ]
 }

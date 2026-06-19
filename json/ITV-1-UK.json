@@ -4,56 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-19T22:00:00+05:00",
-      "stop": "2026-06-19T22:30:00+05:00",
-      "title": "ITV News London",
-      "desc": "The latest news and weather from London and the South East.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/5850d791-6c70-4aff-ab7b-ff8d9d005ddd/16-9"
-    },
-    {
-      "start": "2026-06-19T22:30:00+05:00",
-      "stop": "2026-06-19T23:30:00+05:00",
-      "title": "ITV Evening News",
-      "desc": "National and international news with reports and analysis from ITV's Correspondents in the UK and around the world, plus a focus on the stories that matter to you.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/35758661-3af4-4a74-acc5-26826664a716/16-9"
-    },
-    {
-      "start": "2026-06-19T23:30:00+05:00",
-      "stop": "2026-06-20T00:00:00+05:00",
-      "title": "Changing Ends",
-      "sub_title": "BBQ",
-      "desc": "Autobiographical comedy. Alan gets a shock regarding his future, and Christine gives an ill-judged interview in the local paper that causes friction on the close.",
-      "language": "en",
-      "categories": [
-        "Entertainment",
-        "Comedy"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/7729996b-9216-4b86-bffc-d11748c2cd52/16-9"
-    },
-    {
-      "start": "2026-06-20T00:00:00+05:00",
-      "stop": "2026-06-20T00:30:00+05:00",
-      "title": "Emmerdale",
-      "sub_title": "Vinny has a surprise",
-      "desc": "Moira confronts Cain. Lewis is in danger.",
-      "language": "en",
-      "categories": [
-        "Entertainment",
-        "Soap"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/45426698-f25c-453e-9516-946850f6f143/16-9"
-    },
-    {
       "start": "2026-06-20T00:30:00+05:00",
       "stop": "2026-06-20T01:00:00+05:00",
       "title": "Coronation Street",
@@ -149,6 +99,56 @@
         "Cooking"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/73340143-23cc-4618-94b1-2edaa73c76bb/16-9"
+    },
+    {
+      "start": "2026-06-20T13:25:00+05:00",
+      "stop": "2026-06-20T13:30:00+05:00",
+      "title": "ITV News",
+      "desc": "National and international news with reports and analysis from ITV's Correspondents in the UK and around the world as well as the latest major sports results.",
+      "language": "en",
+      "categories": [
+        "News & Documentary",
+        "News"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/4d90a062-e9a9-4c12-8648-054ca1e54577/16-9"
+    },
+    {
+      "start": "2026-06-20T13:30:00+05:00",
+      "stop": "2026-06-20T16:05:00+05:00",
+      "title": "James Martin's Saturday Morning",
+      "desc": "Joining James at his home in the Hampshire countryside this time are singer-songwriter Jack Savoretti and chefs Asma Khan, Jonny Lake, and Ryan and Liam Simpson-Trotman.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Cooking"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/7dba78ab-5ea7-4d8b-9261-8958621fb1e2/16-9"
+    },
+    {
+      "start": "2026-06-20T16:05:00+05:00",
+      "stop": "2026-06-20T16:35:00+05:00",
+      "title": "Dermot's Taste of Ireland",
+      "sub_title": "Donegal Town",
+      "desc": "From flecked Donegal tweed to fiery railway curry and buttery apple pie, Dermot discovers the magic hidden in the streets of Donegal Town.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Cooking"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/b388bf10-4b5d-4b4d-9bab-f1e0a81872b3/16-9"
+    },
+    {
+      "start": "2026-06-20T16:35:00+05:00",
+      "stop": "2026-06-20T17:10:00+05:00",
+      "title": "James Martin's Islands to Highlands",
+      "sub_title": "The Royal Scotsman",
+      "desc": "James is joined by chef pal Nick Nairn for the luxury trip of a lifetime aboard The Royal Scotsman and a chance to eat in its beautiful dining room.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Cooking"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/d08d3ce3-dc72-4677-b02c-2c0b408b484a/16-9"
     }
   ]
 }

@@ -4,38 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-19T22:58:00+05:00",
-      "stop": "2026-06-19T23:00:00+05:00",
-      "title": "This is BBC Three",
-      "desc": "Programmes start at 7.00pm.",
-      "language": "en",
-      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/BBC-Three-UK.png"
-    },
-    {
-      "start": "2026-06-19T23:00:00+05:00",
-      "stop": "2026-06-19T23:05:00+05:00",
-      "title": "The Catch Up",
-      "desc": "A round-up of the day's news.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/a687e2e9-9a62-44a3-b59e-70a9e865b42d/16-9"
-    },
-    {
-      "start": "2026-06-19T23:05:00+05:00",
-      "stop": "2026-06-19T23:35:00+05:00",
-      "title": "Deadly 60",
-      "sub_title": "Secretive Puma Special",
-      "desc": "Steve Backshall goes searching for Patagonia's pumas.",
-      "language": "en",
-      "categories": [
-        "Children"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/498190d2-ca76-478b-836e-f83a94a74d7b/16-9"
-    },
-    {
       "start": "2026-06-19T23:35:00+05:00",
       "stop": "2026-06-20T01:00:00+05:00",
       "title": "Shrek Forever After",
@@ -141,6 +109,42 @@
         "Comedy"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/18e7fc88-7c90-46c9-8191-9df40da2c44e/16-9"
+    },
+    {
+      "start": "2026-06-20T04:45:00+05:00",
+      "stop": "2026-06-20T05:15:00+05:00",
+      "title": "The Young Offenders",
+      "desc": "Comedy following the adventures of two best friends. The lads come up with an ill-advised plan to raise some money to help Mairead out. Contains strong language.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Comedy"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/63f34afd-7bac-4820-bd52-33c79d88a4d9/16-9"
+    },
+    {
+      "start": "2026-06-20T05:15:00+05:00",
+      "stop": "2026-06-20T05:50:00+05:00",
+      "title": "The Young Offenders",
+      "desc": "An accidental wild bus ride unexpectedly brings everyone closer together. Contains very strong language.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Comedy"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/b1e22849-5bf4-4221-8bf6-471da439d605/16-9"
+    },
+    {
+      "start": "2026-06-20T05:50:00+05:00",
+      "stop": "2026-06-20T06:20:00+05:00",
+      "title": "Ideal",
+      "desc": "Small-time dope dealer Moz's girlfriend moves out when a rat appears in his flat. Contains adult humour.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Comedy"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/41dc10b3-3f34-380c-a2bf-343faf3f002d/16-9"
     }
   ]
 }

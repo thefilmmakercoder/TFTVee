@@ -4,18 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-19T22:30:00+05:00",
-      "stop": "2026-06-19T23:00:00+05:00",
-      "title": "BBC London News",
-      "desc": "The latest news, sport and weather from London.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/9dae15dd-e6f6-43ee-9cd8-b5f33113d16a/16-9"
-    },
-    {
       "start": "2026-06-19T23:00:00+05:00",
       "stop": "2026-06-19T23:30:00+05:00",
       "title": "The One Show",
@@ -144,6 +132,18 @@
         "Cooking"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/5da515e5-cf95-42b6-bf12-e868f033a0f5/16-9"
+    },
+    {
+      "start": "2026-06-20T15:30:00+05:00",
+      "stop": "2026-06-20T16:00:00+05:00",
+      "title": "Anna Haugh's Big Irish Food Tour",
+      "desc": "Comedian Ed Byrne escapes to the Wicklow mountains with Anna for a hike and a surprise meal. They spot sika deer in Glendalough and visit a farm producing halloumi-style cheese.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Cooking"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/46a986b8-06da-4cc4-a26e-f4d2995cbe35/16-9"
     }
   ]
 }
