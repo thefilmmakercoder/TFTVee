@@ -4,44 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-19T03:30:00+05:00",
-      "stop": "2026-06-19T04:00:00+05:00",
-      "title": "BBC World News America",
-      "desc": "A detailed look into news stories from around the world from the BBC news desk in Washington, D.C.",
-      "date": "2026",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p32402912_b_h10_aa.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Sumi Somaskanda",
-          "Caitr\u00edona Perry"
-        ]
-      }
-    },
-    {
-      "start": "2026-06-19T04:00:00+05:00",
-      "stop": "2026-06-19T05:00:00+05:00",
-      "title": "PBS News Hour",
-      "desc": "Co-anchors Amna Nawaz and Geoff Bennett and correspondents offer in-depth analysis of current events.",
-      "date": "2026",
-      "language": "en",
-      "categories": [
-        "Series",
-        "News"
-      ],
-      "episode": "S52 E253",
-      "icon": "http://dtil.tmsimg.com/assets/p27608822_b_h8_ac.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Amna Nawaz",
-          "Geoff Bennett"
-        ]
-      }
-    },
-    {
       "start": "2026-06-19T05:00:00+05:00",
       "stop": "2026-06-19T06:30:00+05:00",
       "title": "The Susan Ryeland Mysteries",
@@ -214,6 +176,59 @@
           "Jacob Ursomarzo",
           "Christian Distefano",
           "Bruce Dinsmore"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-19T15:30:00+05:00",
+      "stop": "2026-06-19T16:00:00+05:00",
+      "title": "Odd Squad",
+      "sub_title": "Extreme Cakeover; A Job Well Undone",
+      "desc": "A virus turns people into cakes; the agents compete for Agents of the Month.",
+      "date": "2016",
+      "language": "en",
+      "rating": "TVY",
+      "categories": [
+        "Series",
+        "Children",
+        "Educational",
+        "Entertainment"
+      ],
+      "episode": "S2 E11",
+      "icon": "http://dtil.tmsimg.com/assets/p11086138_b_h8_bj.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Filip Geljo",
+          "Dalila Bela",
+          "Sean Michael Kyer"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-19T16:00:00+05:00",
+      "stop": "2026-06-19T16:30:00+05:00",
+      "title": "Wild Kratts",
+      "sub_title": "Stuck on Sharks",
+      "desc": "Martin and Chris befriend a female white shark.",
+      "date": "2011",
+      "language": "en",
+      "rating": "TVY",
+      "categories": [
+        "Series",
+        "Children",
+        "Educational",
+        "Science",
+        "Nature",
+        "Animals",
+        "Animated"
+      ],
+      "episode": "S1 E24",
+      "icon": "http://dtil.tmsimg.com/assets/p8369911_b_h8_aj.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Martin Kratt",
+          "Chris Kratt",
+          "Athena Karkanis"
         ]
       }
     }

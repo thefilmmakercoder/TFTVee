@@ -4,62 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-19T03:00:00+05:00",
-      "stop": "2026-06-19T04:00:00+05:00",
-      "title": "The 6 O'Clock News",
-      "desc": "Local, national and international news.",
-      "date": "2021",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p19319065_b_h8_ab.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-06-19T04:00:00+05:00",
-      "stop": "2026-06-19T04:30:00+05:00",
-      "title": "Extra",
-      "desc": "Inside the entertainment newsgathering process, as reporters coast-to-coast break headlines, advance the stories of the day and sit down with celebrities.",
-      "date": "2026",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Series",
-        "Newsmagazine",
-        "Entertainment"
-      ],
-      "episode": "S32 E250",
-      "icon": "http://dtil.tmsimg.com/assets/p30948222_b_h8_aa.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Derek Hough",
-          "Mona Kosar Abdi",
-          "Terri Seymour"
-        ]
-      }
-    },
-    {
-      "start": "2026-06-19T04:30:00+05:00",
-      "stop": "2026-06-19T05:00:00+05:00",
-      "title": "TMZ",
-      "desc": "TMZ TV tracks down today's hottest stars with their cameras, whether they are hitting the clubs or the dry cleaners.",
-      "date": "2026",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Series",
-        "Newsmagazine",
-        "Entertainment"
-      ],
-      "episode": "S19 E250",
-      "icon": "http://dtil.tmsimg.com/assets/p30985766_b_h10_aa.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Harvey Levin"
-        ]
-      }
-    },
-    {
       "start": "2026-06-19T05:00:00+05:00",
       "stop": "2026-06-19T06:00:00+05:00",
       "title": "Live: FIFA World Cup Today",
@@ -192,6 +136,42 @@
         "Variety"
       ],
       "icon": "http://dtil.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-06-19T12:30:00+05:00",
+      "stop": "2026-06-19T13:00:00+05:00",
+      "title": "The Aging Brain",
+      "desc": "Learn what's behind mental decline with age, and how to improve memory, focus and concentration with NeuroQ's Darrin Peterson and Dale Bredesen MD.",
+      "language": "en",
+      "categories": [
+        "Consumer"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p30127108_st_h10_aa.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-06-19T13:00:00+05:00",
+      "stop": "2026-06-19T13:30:00+05:00",
+      "title": "Good Night New York",
+      "desc": "Christal Young and Ryan Kristafer's edgy perspective on entertainment and lifestyle news in NYC and beyond.",
+      "date": "2024",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "Newsmagazine"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p27878460_b_h8_aa.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-06-19T13:30:00+05:00",
+      "stop": "2026-06-19T14:00:00+05:00",
+      "title": "Good Day Wake Up",
+      "desc": "Morning news coverage.",
+      "date": "2009",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p706488_b_h8_ab.jpg?w=960&h=540"
     }
   ]
 }
