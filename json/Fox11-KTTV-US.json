@@ -4,76 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-20T16:30:00+05:00",
-      "stop": "2026-06-20T17:00:00+05:00",
-      "title": "Paid Programming",
-      "desc": "Paid programming.",
-      "language": "en",
-      "rating": "TVG",
-      "categories": [
-        "Consumer",
-        "Shopping",
-        "Variety"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-06-20T17:00:00+05:00",
-      "stop": "2026-06-20T18:00:00+05:00",
-      "title": "Natural Blood Pressure Management",
-      "desc": "Cardiologist Dr. Ernst von Schwarz, M.D. shows how to manage your blood pressure naturally and help protect your heart for life with My Best Heart.",
-      "language": "en",
-      "categories": [
-        "Consumer"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p29188954_st_h10_aa.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-06-20T18:00:00+05:00",
-      "stop": "2026-06-20T18:30:00+05:00",
-      "title": "Xploration Outer Space",
-      "sub_title": "Legends of Apollo",
-      "desc": "The accomplishments of astronauts Neil Armstrong and Buzz Aldrin.",
-      "date": "2017",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Series",
-        "Science",
-        "Educational"
-      ],
-      "episode": "S4 E5",
-      "icon": "http://dtil.tmsimg.com/assets/p10857096_b_h8_ag.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Emily Calandrelli"
-        ]
-      }
-    },
-    {
-      "start": "2026-06-20T18:30:00+05:00",
-      "stop": "2026-06-20T19:00:00+05:00",
-      "title": "Xploration Awesome Planet",
-      "desc": "Great hammerhead sharks in the Bahamas; the world's deepest saltwater blue hole; tracking baby lemon sharks.",
-      "date": "2025",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Series",
-        "Science",
-        "Educational"
-      ],
-      "episode": "S11 E16",
-      "icon": "http://dtil.tmsimg.com/assets/p10857086_b_h8_ag.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Philippe Cousteau",
-          "Delaney Reynolds",
-          "Tracy Fanara"
-        ]
-      }
-    },
-    {
       "start": "2026-06-20T19:00:00+05:00",
       "stop": "2026-06-20T19:30:00+05:00",
       "title": "Second Chance Pets",
@@ -184,6 +114,64 @@
         "Soccer"
       ],
       "icon": "http://dtil.tmsimg.com/assets/GNLZZGG0036NYNH.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-06-21T03:00:00+05:00",
+      "stop": "2026-06-21T04:00:00+05:00",
+      "title": "FOX Local Futbol HQ",
+      "desc": "A look at the stories, rivalries and dreams driving nations towards soccer's ultimate prize, the FIFA World Cup trophy.",
+      "date": "2025",
+      "language": "en",
+      "categories": [
+        "Soccer"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p31774634_b_h8_ab.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-06-21T04:00:00+05:00",
+      "stop": "2026-06-21T07:00:00+05:00",
+      "title": "Live: MLB Baseball",
+      "desc": "The New York Mets battle the Philadelphia Phillies at Citizens Bank Park in Game 2 of a three-game series. The Mets' right-handed Freddy Peralta (3.90 ERA) is the probable pitcher against the Phillies' left-handed Cristopher Sanchez (1.82 ERA).",
+      "language": "en",
+      "categories": [
+        "Sports",
+        "Baseball"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/GNLZZGG00368S7F.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-06-21T07:00:00+05:00",
+      "stop": "2026-06-21T07:30:00+05:00",
+      "title": "Live: FOX 11 Sports Wrap",
+      "desc": "Full, uncut interviews with some of the big names in Sports.",
+      "date": "2016",
+      "language": "en",
+      "categories": [
+        "Sports talk"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p13199799_b_h8_ab.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-06-21T07:30:00+05:00",
+      "stop": "2026-06-21T08:00:00+05:00",
+      "title": "iCRIME With Elizabeth Vargas",
+      "sub_title": "Officers on Horseback Chase Shoplifter; Deputies Rescue Kids Abandoned in Woods",
+      "desc": "Crimes from across the country that have been captured by ordinary people on their smartphones; stories of victims, witnesses, law enforcement and the videographers themselves.",
+      "date": "2025",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "Series",
+        "Reality",
+        "Crime"
+      ],
+      "episode": "E35",
+      "icon": "http://dtil.tmsimg.com/assets/p22620703_b_h10_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Elizabeth Vargas"
+        ]
+      }
     }
   ]
 }

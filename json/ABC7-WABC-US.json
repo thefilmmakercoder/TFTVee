@@ -4,42 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-20T15:00:00+05:00",
-      "stop": "2026-06-20T17:00:00+05:00",
-      "title": "Eyewitness News This Morning",
-      "desc": "News coverage to start the day.",
-      "date": "2007",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p677214_b_h8_ad.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-06-20T17:00:00+05:00",
-      "stop": "2026-06-20T18:00:00+05:00",
-      "title": "Good Morning America",
-      "desc": "Early morning news and entertainment program that covers important issues with key figures from around the world and a wide spectrum of topics, including medicine, finance, consumer issues, computer technology, education and gardening.",
-      "date": "2026",
-      "language": "en",
-      "categories": [
-        "Series",
-        "Talk",
-        "News",
-        "Variety",
-        "Public affairs"
-      ],
-      "episode": "E195",
-      "icon": "http://dtil.tmsimg.com/assets/p31385280_b_h10_aa.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Whit Johnson",
-          "Janai Norman",
-          "Gio Benitez"
-        ]
-      }
-    },
-    {
       "start": "2026-06-20T18:00:00+05:00",
       "stop": "2026-06-20T19:00:00+05:00",
       "title": "Eyewitness News This Morning",
@@ -204,6 +168,37 @@
         "News"
       ],
       "icon": "http://dtil.tmsimg.com/assets/p13769035_b_h8_ab.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-06-21T03:30:00+05:00",
+      "stop": "2026-06-21T04:00:00+05:00",
+      "title": "ABC World News Tonight With David Muir",
+      "desc": "Delivering the news that matters most.",
+      "date": "2026",
+      "language": "en",
+      "categories": [
+        "Series",
+        "News"
+      ],
+      "episode": "E171",
+      "icon": "http://dtil.tmsimg.com/assets/p10880351_b_h8_ah.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "David Muir"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-21T04:00:00+05:00",
+      "stop": "2026-06-21T04:30:00+05:00",
+      "title": "Eyewitness News at 7",
+      "desc": "Local news coverage.",
+      "date": "2012",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p9130528_st_h10_aa.jpg?w=960&h=540"
     }
   ]
 }

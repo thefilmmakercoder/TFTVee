@@ -4,16 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-20T14:30:00+05:00",
-      "stop": "2026-06-20T17:00:00+05:00",
-      "title": "TBA",
-      "desc": "TBA.",
-      "language": "en",
-      "rating": "G",
-      "episode": "E5",
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/23341678/image/334x188"
-    },
-    {
       "start": "2026-06-20T17:00:00+05:00",
       "stop": "2026-06-20T19:30:00+05:00",
       "title": "TBA",
@@ -137,6 +127,19 @@
       "rating": "PG",
       "episode": "E25",
       "icon": "https://www.fetchtv.com.au/v2/epg/program/236399/image/334x188"
+    },
+    {
+      "start": "2026-06-21T04:30:00+05:00",
+      "stop": "2026-06-21T05:00:00+05:00",
+      "title": "TV Shop - Home Shopping",
+      "desc": "Home shopping programme.",
+      "language": "en",
+      "rating": "G",
+      "categories": [
+        "Special Interest"
+      ],
+      "episode": "E12",
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/184500/image/334x188"
     }
   ]
 }

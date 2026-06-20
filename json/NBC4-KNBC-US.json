@@ -4,31 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-20T16:30:00+05:00",
-      "stop": "2026-06-20T17:00:00+05:00",
-      "title": "Ready for a safer shower? Enjoy a one-day bath remodel with Jacuzzi.",
-      "desc": "Trusted brand Jacuzzi Bath Remodel and interior designer Christina Hall share their secrets on how you can easily and affordably transform your bathroom into a gorgeous custom, safe, stylish space in 1 day! Call for a FREE quote & installation.",
-      "language": "en",
-      "categories": [
-        "Consumer"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p30074472_b_h8_aa.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-06-20T17:00:00+05:00",
-      "stop": "2026-06-20T17:30:00+05:00",
-      "title": "Paid Programming",
-      "desc": "Paid programming.",
-      "language": "en",
-      "rating": "TVG",
-      "categories": [
-        "Consumer",
-        "Shopping",
-        "Variety"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-06-20T17:30:00+05:00",
       "stop": "2026-06-20T18:00:00+05:00",
       "title": "Bathroom Makeover",
@@ -182,6 +157,50 @@
         "News"
       ],
       "icon": "http://dtil.tmsimg.com/assets/p8781143_b_h10_ad.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-06-21T11:29:00+05:00",
+      "stop": "2026-06-21T13:03:00+05:00",
+      "title": "Saturday Night Live",
+      "sub_title": "Jack Black; Jack White",
+      "desc": "Host Jack Black; Jack White performs.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "Series",
+        "Comedy"
+      ],
+      "episode": "S51 E16",
+      "icon": "http://dtil.tmsimg.com/assets/p183890_b_h8_at.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Michael Che",
+          "Mikey Day",
+          "Chloe Fineman"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-21T13:03:00+05:00",
+      "stop": "2026-06-21T13:33:00+05:00",
+      "title": "1st Look",
+      "sub_title": "1st Look: Sail4th 250 -- Celebration of America",
+      "desc": "A journey through the historic port cities on the Sail4th 250 route, uncovering the maritime waterways that shaped the nation and continue to bring its living history to life today.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Travel"
+      ],
+      "episode": "S17 E8",
+      "icon": "http://dtil.tmsimg.com/assets/p8953716_b_h8_ak.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Johnny \"Bananas\" Devenanzio"
+        ]
+      }
     }
   ]
 }
