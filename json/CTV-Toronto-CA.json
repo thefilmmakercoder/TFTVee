@@ -4,79 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-20T14:00:00+05:00",
-      "stop": "2026-06-20T14:30:00+05:00",
-      "title": "The Littlest Hobo",
-      "sub_title": "Rodeo",
-      "desc": "A rodeo star fears getting back in the saddle.",
-      "date": "1984",
-      "language": "en",
-      "rating": "TVG",
-      "categories": [
-        "Series",
-        "Drama",
-        "Adventure",
-        "Animals"
-      ],
-      "episode": "S6 E4",
-      "icon": "http://dtil.tmsimg.com/assets/p507740_b_h10_ac.jpg?w=960&h=540",
-      "credits": {
-        "director": [
-          "Mario Azzopardi"
-        ],
-        "actor": [
-          "Reg Dreger",
-          "Marvin Goldhar",
-          "Lynda Mason Green"
-        ]
-      }
-    },
-    {
-      "start": "2026-06-20T14:30:00+05:00",
-      "stop": "2026-06-20T15:00:00+05:00",
-      "title": "Paid Programming",
-      "desc": "Paid programming.",
-      "language": "en",
-      "rating": "TVG",
-      "categories": [
-        "Consumer",
-        "Shopping",
-        "Variety"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-06-20T15:00:00+05:00",
-      "stop": "2026-06-20T15:30:00+05:00",
-      "title": "CTV News Toronto",
-      "desc": "CTV News covers stories that matter to Canadians, locally, nationally and internationally.",
-      "date": "2014",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p11226977_b_h8_ae.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-06-20T15:30:00+05:00",
-      "stop": "2026-06-20T16:00:00+05:00",
-      "title": "CTV National News With Heather Butts",
-      "desc": "CTV News covers stories that matter to Canadians - locally, nationally, & internationally.",
-      "date": "2026",
-      "language": "en",
-      "categories": [
-        "Series",
-        "News"
-      ],
-      "episode": "E73",
-      "icon": "http://dtil.tmsimg.com/assets/p26024787_b_h8_aa.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Heather Butts"
-        ]
-      }
-    },
-    {
       "start": "2026-06-20T16:00:00+05:00",
       "stop": "2026-06-20T17:00:00+05:00",
       "title": "The Good Stuff With Mary Berg",
@@ -233,6 +160,60 @@
           "Kim Parlee"
         ]
       }
+    },
+    {
+      "start": "2026-06-20T21:00:00+05:00",
+      "stop": "2026-06-20T21:45:00+05:00",
+      "title": "Live: World Cup Today",
+      "desc": "News and highlights from the day's action at the FIFA World Cup.",
+      "date": "2026",
+      "language": "en",
+      "categories": [
+        "Series",
+        "Soccer"
+      ],
+      "episode": "E11",
+      "icon": "http://dtil.tmsimg.com/assets/p33195766_b_h8_ab.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-06-20T21:45:00+05:00",
+      "stop": "2026-06-21T00:00:00+05:00",
+      "title": "Live: FIFA World Cup 2026",
+      "desc": "Netherlands faces Sweden in a Group F match of the FIFA World Cup at Houston Stadium. Netherlands holds a point lead after a 2-2 tie with Japan. Sweden leads the group behind Yasin Ayari and his two goals from a 5-1 Group F opening match victory.",
+      "language": "en",
+      "rating": "S",
+      "categories": [
+        "Sports",
+        "Soccer"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/GNLZZGG0036HEK8.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-06-21T00:00:00+05:00",
+      "stop": "2026-06-21T00:45:00+05:00",
+      "title": "Live: TSN at the World Cup",
+      "desc": "TSN coverage of the 2026 FIFA Men's World Cup from Canada, United States and Mexico.",
+      "date": "2026",
+      "language": "en",
+      "categories": [
+        "Series",
+        "Soccer"
+      ],
+      "episode": "E27",
+      "icon": "http://dtil.tmsimg.com/assets/p32987414_b_h8_ac.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-06-21T00:45:00+05:00",
+      "stop": "2026-06-21T03:00:00+05:00",
+      "title": "Live: FIFA World Cup 2026",
+      "desc": "Germany faces C\u00f4te d'Ivoire in a Group E match of the FIFA World Cup at Toronto Stadium. Germany comes off a 7-1 win over Cura\u00e7ao where Kai Havertz scored twice, while C\u00f4te d'Ivoire enters after a 1-0 win behind a 90th-minute Amad Diallo goal.",
+      "language": "en",
+      "rating": "S",
+      "categories": [
+        "Sports",
+        "Soccer"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/GNLZZGG0036NYNH.jpg?w=960&h=540"
     }
   ]
 }

@@ -4,30 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-20T13:30:00+05:00",
-      "stop": "2026-06-20T14:30:00+05:00",
-      "title": "ITV Racing: The Opening Show",
-      "desc": "Oli Bell and the team look ahead to the final day of Royal Ascot, plus look back on another great meeting.",
-      "language": "en",
-      "categories": [
-        "Sports",
-        "Racing"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/5b61a67a-c463-46cb-ac0d-f165e9455ccd/16-9"
-    },
-    {
-      "start": "2026-06-20T14:30:00+05:00",
-      "stop": "2026-06-20T15:30:00+05:00",
-      "title": "The Big Match Revisited",
-      "desc": "Brian Moore introduces football highlights from March 1972 as Derby County looked to maintain their title push against Tottenham Hotspur.",
-      "language": "en",
-      "categories": [
-        "Sports",
-        "Football"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/737162dc-211a-4e01-9528-c089ba8329a1/16-9"
-    },
-    {
       "start": "2026-06-20T15:30:00+05:00",
       "stop": "2026-06-20T16:30:00+05:00",
       "title": "Junk and Disorderly",
@@ -152,6 +128,30 @@
         "Comedy"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/0249f2b3-fac3-4c93-aa91-9cf6169513d3/16-9"
+    },
+    {
+      "start": "2026-06-21T06:30:00+05:00",
+      "stop": "2026-06-21T07:00:00+05:00",
+      "title": "Unwind with ITV",
+      "desc": "Your daily escape designed to calm the mind and encourage relaxation and reflection.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Lifestyles"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/05b66c62-7a07-3dbd-b904-d23594b447a8/16-9"
+    },
+    {
+      "start": "2026-06-21T07:00:00+05:00",
+      "stop": "2026-06-21T10:00:00+05:00",
+      "title": "Teleshopping",
+      "desc": "Shopping from home.",
+      "language": "en",
+      "categories": [
+        "Specialist",
+        "Shopping"
+      ],
+      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/ITV-4-UK.png"
     }
   ]
 }

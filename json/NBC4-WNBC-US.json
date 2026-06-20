@@ -4,76 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-20T14:00:00+05:00",
-      "stop": "2026-06-20T14:30:00+05:00",
-      "title": "1st Look",
-      "desc": "Lifestyle trends in food, nightlife, art, travel and entertainment.",
-      "date": "2008",
-      "language": "en",
-      "rating": "TVG",
-      "categories": [
-        "Talk",
-        "Newsmagazine",
-        "Travel",
-        "Fashion"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p419169_b_h8_az.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-06-20T14:30:00+05:00",
-      "stop": "2026-06-20T15:00:00+05:00",
-      "title": "Open House NYC",
-      "desc": "Host Sara Gore presents a guide to upscale real estate in and around the Big Apple. In addition to a look at the hottest homes on the market, the show also provides interior design tips from specialists and a wealth of information on renovation and stylish living.",
-      "date": "2007",
-      "language": "en",
-      "rating": "TVG",
-      "categories": [
-        "House/garden",
-        "Home improvement"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p841103_b_h8_ac.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Sara Gore"
-        ]
-      }
-    },
-    {
-      "start": "2026-06-20T15:00:00+05:00",
-      "stop": "2026-06-20T16:00:00+05:00",
-      "title": "Saturday Today in New York",
-      "desc": "The local news, weather and investigative stories impacting your community.",
-      "date": "2007",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p893330_b_h10_ac.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-06-20T16:00:00+05:00",
-      "stop": "2026-06-20T16:30:00+05:00",
-      "title": "Wild Child",
-      "sub_title": "Best Babies of Spring",
-      "desc": "Sheinelle Jones meets the new babies of spring, including adorable foals, bear cubs and coyote pups.",
-      "date": "2026",
-      "language": "en",
-      "rating": "TVG",
-      "categories": [
-        "Series",
-        "Reality",
-        "Animals",
-        "Documentary"
-      ],
-      "episode": "S6 E17",
-      "icon": "http://dtil.tmsimg.com/assets/p19191402_b_h8_an.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Sheinelle Jones"
-        ]
-      }
-    },
-    {
       "start": "2026-06-20T16:30:00+05:00",
       "stop": "2026-06-20T17:00:00+05:00",
       "title": "Forever Young With Dr. Pablo Prichard",
@@ -206,6 +136,84 @@
         "News"
       ],
       "icon": "http://dtil.tmsimg.com/assets/p10513206_b_h10_ae.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-06-21T08:29:00+05:00",
+      "stop": "2026-06-21T10:03:00+05:00",
+      "title": "Saturday Night Live",
+      "sub_title": "Jack Black; Jack White",
+      "desc": "Host Jack Black; Jack White performs.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "Series",
+        "Comedy"
+      ],
+      "episode": "S51 E16",
+      "icon": "http://dtil.tmsimg.com/assets/p183890_b_h8_at.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Michael Che",
+          "Mikey Day",
+          "Chloe Fineman"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-21T10:03:00+05:00",
+      "stop": "2026-06-21T10:33:00+05:00",
+      "title": "1st Look",
+      "desc": "Lifestyle trends in food, nightlife, art, travel and entertainment.",
+      "date": "2008",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Talk",
+        "Newsmagazine",
+        "Travel",
+        "Fashion"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p419169_b_h8_az.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-06-21T10:33:00+05:00",
+      "stop": "2026-06-21T11:03:00+05:00",
+      "title": "George to the Rescue",
+      "desc": "George Oliphant comes to the rescue of families in need of renovating their homes.",
+      "date": "2010",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "House/garden"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p29553512_b_h10_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "George Oliphant"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-21T11:03:00+05:00",
+      "stop": "2026-06-21T11:32:00+05:00",
+      "title": "1st Look",
+      "sub_title": "1st Look: Sail4th 250 -- Celebration of America",
+      "desc": "A journey through the historic port cities on the Sail4th 250 route, uncovering the maritime waterways that shaped the nation and continue to bring its living history to life today.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Travel"
+      ],
+      "episode": "S17 E8",
+      "icon": "http://dtil.tmsimg.com/assets/p8953716_b_h8_ak.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Johnny \"Bananas\" Devenanzio"
+        ]
+      }
     }
   ]
 }

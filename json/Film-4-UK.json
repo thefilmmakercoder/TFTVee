@@ -4,30 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-20T07:15:00+05:00",
-      "stop": "2026-06-20T11:00:00+05:00",
-      "title": "Teleshopping",
-      "desc": "Teleshopping.",
-      "language": "en",
-      "categories": [
-        "Specialist",
-        "Shopping"
-      ],
-      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/Film-4-UK.png"
-    },
-    {
-      "start": "2026-06-20T11:00:00+05:00",
-      "stop": "2026-06-20T15:00:00+05:00",
-      "title": "Teleshopping",
-      "desc": "Teleshopping.",
-      "language": "en",
-      "categories": [
-        "Specialist",
-        "Shopping"
-      ],
-      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/Film-4-UK.png"
-    },
-    {
       "start": "2026-06-20T15:00:00+05:00",
       "stop": "2026-06-20T16:50:00+05:00",
       "title": "Sign of the Pagan",
@@ -162,6 +138,34 @@
         "Shopping"
       ],
       "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/Film-4-UK.png"
+    },
+    {
+      "start": "2026-06-21T15:00:00+05:00",
+      "stop": "2026-06-21T16:30:00+05:00",
+      "title": "Animal Farm",
+      "desc": "George Orwell's cautionary tale reimagined in cartoon form. A farm's animals revolt against their abusive owner only for the pigs to become drunk with their newly found power.",
+      "date": "1954",
+      "language": "en",
+      "rating": "PG",
+      "categories": [
+        "Movie",
+        "Animation"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/e5c7f929-15f1-46d9-9707-ad7fed0b58e4/16-9"
+    },
+    {
+      "start": "2026-06-21T16:30:00+05:00",
+      "stop": "2026-06-21T18:35:00+05:00",
+      "title": "The Ghost and Mrs Muir",
+      "desc": "Supernatural romance starring Rex Harrison as the spirit of a gruff sea captain who haunts widow Gene Tierney, only for her to fall in love with him. Directed by Joseph L Mankiewicz.",
+      "date": "1947",
+      "language": "en",
+      "rating": "U",
+      "categories": [
+        "Movie",
+        "Romance"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/361efc08-4392-4574-9c7b-1ba1c3c005e1/16-9"
     }
   ]
 }

@@ -4,14 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-20T08:00:00+05:00",
-      "stop": "2026-06-20T09:30:00+05:00",
-      "title": "This is BBC Three",
-      "desc": "Programmes start at 7.00pm.",
-      "language": "en",
-      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/BBC-Three-UK.png"
-    },
-    {
       "start": "2026-06-20T09:30:00+05:00",
       "stop": "2026-06-20T15:30:00+05:00",
       "title": "..programmes start at 7.00pm",
@@ -126,6 +118,18 @@
         "Comedy"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/76f38f97-2aa4-48d8-9cf4-3b33415ef08a/16-9"
+    },
+    {
+      "start": "2026-06-21T02:30:00+05:00",
+      "stop": "2026-06-21T03:00:00+05:00",
+      "title": "Mrs Brown's Boys",
+      "desc": "Agnes attempts to mend the rift between her son and his long-term girlfriend. Contains strong language and adult humour.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Comedy"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/47e89009-b042-4c68-b039-8c34f87274db/16-9"
     }
   ]
 }

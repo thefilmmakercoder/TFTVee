@@ -4,14 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-20T07:25:00+05:00",
-      "stop": "2026-06-20T09:30:00+05:00",
-      "title": "This is BBC Four",
-      "desc": "Programmes start at 7.00pm.",
-      "language": "en",
-      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/BBC-Four-UK.png"
-    },
-    {
       "start": "2026-06-20T09:30:00+05:00",
       "stop": "2026-06-20T15:30:00+05:00",
       "title": "..programmes start at 7.00pm",
@@ -126,6 +118,18 @@
         "Detective"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/e8ede53b-7acc-3c48-bc41-8b5f881084ef/16-9"
+    },
+    {
+      "start": "2026-06-21T04:25:00+05:00",
+      "stop": "2026-06-21T04:55:00+05:00",
+      "title": "Keeping Up Appearances",
+      "desc": "Sitcom about the upwardly mobile Hyacinth Bucket. Richard worries about the prospect of early retirement as Hyacinth makes plans for his twilight years.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Comedy"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/1a824e21-4d55-4c78-a577-69f8937a6a5f/16-9"
     }
   ]
 }
