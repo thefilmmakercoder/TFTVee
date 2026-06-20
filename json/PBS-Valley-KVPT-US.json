@@ -4,113 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-20T05:30:00+05:00",
-      "stop": "2026-06-20T06:00:00+05:00",
-      "title": "BBC News America",
-      "desc": "Live news program produced out of BBC's Washington, D.C. bureau; host Sumi Somaskanda.",
-      "date": "2023",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p24458358_b_h10_ab.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Sumi Somaskanda"
-        ]
-      }
-    },
-    {
-      "start": "2026-06-20T06:00:00+05:00",
-      "stop": "2026-06-20T07:00:00+05:00",
-      "title": "PBS News Hour",
-      "desc": "Co-anchors Amna Nawaz and Geoff Bennett and correspondents offer in-depth analysis of current events.",
-      "date": "2026",
-      "language": "en",
-      "categories": [
-        "Series",
-        "News"
-      ],
-      "episode": "S52 E254",
-      "icon": "http://dtil.tmsimg.com/assets/p27608822_b_h8_ac.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Amna Nawaz",
-          "Geoff Bennett"
-        ]
-      }
-    },
-    {
-      "start": "2026-06-20T07:00:00+05:00",
-      "stop": "2026-06-20T07:30:00+05:00",
-      "title": "Washington Week With The Atlantic",
-      "desc": "A panel of journalists provides reporting and analysis of the major stories emanating from the United States capital.",
-      "date": "2026",
-      "language": "en",
-      "categories": [
-        "Series",
-        "News",
-        "Public affairs",
-        "Politics"
-      ],
-      "episode": "S60 E51",
-      "icon": "http://dtil.tmsimg.com/assets/p25350982_b_h8_aa.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Jeffrey Goldberg"
-        ]
-      }
-    },
-    {
-      "start": "2026-06-20T07:30:00+05:00",
-      "stop": "2026-06-20T08:00:00+05:00",
-      "title": "Firing Line With Margaret Hoover",
-      "desc": "Margaret Hoover leads interviews and debates.",
-      "date": "2026",
-      "language": "en",
-      "categories": [
-        "Series",
-        "Public affairs",
-        "Interview",
-        "Debate"
-      ],
-      "episode": "S9 E51",
-      "icon": "http://dtil.tmsimg.com/assets/p15429319_b_h8_aa.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Margaret Hoover"
-        ]
-      }
-    },
-    {
-      "start": "2026-06-20T08:00:00+05:00",
-      "stop": "2026-06-20T09:00:00+05:00",
-      "title": "Finding Your Roots With Henry Louis Gates, Jr.",
-      "sub_title": "Great Migrations",
-      "desc": "Rapper Wiz Khalifa and actor Sanaa Lathan learn about ancestors who left the American South in search of better lives in the North.",
-      "date": "2026",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Series",
-        "Documentary",
-        "History"
-      ],
-      "episode": "S12 E2",
-      "icon": "http://dtil.tmsimg.com/assets/p31451708_b_h8_aa.jpg?w=960&h=540",
-      "credits": {
-        "director": [
-          "Jesse Sweet",
-          "Hazel Gurland"
-        ],
-        "actor": [
-          "Henry Louis Gates",
-          "Wiz Khalifa",
-          "Sanaa Lathan"
-        ]
-      }
-    },
-    {
       "start": "2026-06-20T09:00:00+05:00",
       "stop": "2026-06-20T11:00:00+05:00",
       "title": "American Experience",
@@ -239,6 +132,136 @@
       "credits": {
         "actor": [
           "Fred Rogers"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-20T18:30:00+05:00",
+      "stop": "2026-06-20T19:00:00+05:00",
+      "title": "Arthur",
+      "sub_title": "The Case of the Girl With the Long Face; The Substitute Arthur",
+      "desc": "Buster Baxter is determined to find out why Fern feels low; Buster searches for a new best friend while Arthur is away.",
+      "date": "2014",
+      "language": "en",
+      "rating": "TVY",
+      "categories": [
+        "Series",
+        "Animated",
+        "Children",
+        "Educational",
+        "Animals"
+      ],
+      "episode": "S18 E2",
+      "icon": "http://dtil.tmsimg.com/assets/p10918009_b_h10_ab.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "William Healy",
+          "Bruce Dinsmore",
+          "Max Friedman Cole"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-20T19:00:00+05:00",
+      "stop": "2026-06-20T19:30:00+05:00",
+      "title": "Molly of Denali",
+      "sub_title": "The Story of the Story Knife; Raven Saves the Birthday Party",
+      "desc": "Molly tries to help an exchange student after she loses her prized story knife; Oscar works on remembering the old stories of his elders.",
+      "date": "2022",
+      "language": "en",
+      "rating": "TVY",
+      "categories": [
+        "Series",
+        "Animated",
+        "Children",
+        "Adventure",
+        "Comedy"
+      ],
+      "episode": "S3 E2",
+      "icon": "http://dtil.tmsimg.com/assets/p15558414_b_h8_ab.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Sovereign Bill",
+          "Lorne Cardinal",
+          "Ronnie Dean Harris"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-20T19:30:00+05:00",
+      "stop": "2026-06-20T20:00:00+05:00",
+      "title": "Weather Hunters",
+      "sub_title": "The Word on the Bird",
+      "desc": "The Hunters try to help an injured bird so it can join its friends migrating south for the winter.",
+      "date": "2025",
+      "language": "en",
+      "rating": "TVY",
+      "categories": [
+        "Series",
+        "Animated",
+        "Children",
+        "Entertainment",
+        "Educational"
+      ],
+      "episode": "S1 E9",
+      "icon": "http://dtil.tmsimg.com/assets/p30699963_b_h8_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Tandi Fomukong",
+          "Al Roker",
+          "Holly Robinson Peete"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-20T20:00:00+05:00",
+      "stop": "2026-06-20T20:30:00+05:00",
+      "title": "Lyla in the Loop",
+      "sub_title": "Too Many Pumpkins; The Maybe-Sitters",
+      "desc": "Lyla asks customers for their leftover pumpkins, but then gets way too many; Lyla and Luke put their sisters, Liana and Louisa, through a babysitting test.",
+      "date": "2024",
+      "language": "en",
+      "rating": "TVY",
+      "categories": [
+        "Series",
+        "Animated",
+        "Children",
+        "Entertainment",
+        "Educational"
+      ],
+      "episode": "S1 E21",
+      "icon": "http://dtil.tmsimg.com/assets/p26268938_b_h8_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Liyou Abere",
+          "Izzy Woodbury",
+          "Elijah Lindo"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-20T20:30:00+05:00",
+      "stop": "2026-06-20T21:00:00+05:00",
+      "title": "Carl the Collector",
+      "sub_title": "A Forrest of Plans; The Marble Collection",
+      "desc": "Forrest makes too many plans on the same day; Carl and Arugula build an epic marble run but fail to get the marble to run.",
+      "date": "2024",
+      "language": "en",
+      "rating": "TVY",
+      "categories": [
+        "Series",
+        "Animated",
+        "Children",
+        "Educational",
+        "Entertainment"
+      ],
+      "episode": "S1 E8",
+      "icon": "http://dtil.tmsimg.com/assets/p28255947_b_h8_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Kai Barham",
+          "Peter Laurie",
+          "Heather Bambrick"
         ]
       }
     }

@@ -4,18 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-20T05:45:00+05:00",
-      "stop": "2026-06-20T05:50:00+05:00",
-      "title": "Weather for the Week Ahead",
-      "desc": "Detailed weather forecast.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/3320301a-c131-417f-b667-9587fff2c35d/16-9"
-    },
-    {
       "start": "2026-06-20T05:50:00+05:00",
       "stop": "2026-06-20T10:00:00+05:00",
       "title": "BBC News",
@@ -146,6 +134,18 @@
         "News"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/30b9f4fa-1716-453f-b941-0eb557c98160/16-9"
+    },
+    {
+      "start": "2026-06-20T21:30:00+05:00",
+      "stop": "2026-06-21T00:30:00+05:00",
+      "title": "MOTD Live: Netherlands v Sweden",
+      "desc": "Live coverage as three-time World Cup finalists Netherlands stay in Texas for their second Group F game, this time in Houston against Sweden.",
+      "language": "en",
+      "categories": [
+        "Sports",
+        "Football"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/f47592a4-6d4e-4826-9922-9d07ffb9d547/16-9"
     }
   ]
 }

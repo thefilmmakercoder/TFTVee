@@ -4,102 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-20T06:00:00+05:00",
-      "stop": "2026-06-20T06:30:00+05:00",
-      "title": "Eyewitness News 6PM",
-      "desc": "Local, national and international news.",
-      "date": "2004",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p677004_b_h8_af.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-06-20T06:30:00+05:00",
-      "stop": "2026-06-20T07:00:00+05:00",
-      "title": "ABC World News Tonight With David Muir",
-      "desc": "Delivering the news that matters most.",
-      "date": "2026",
-      "language": "en",
-      "categories": [
-        "Series",
-        "News"
-      ],
-      "episode": "E170",
-      "icon": "http://dtil.tmsimg.com/assets/p10880351_b_h8_ah.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "David Muir"
-        ]
-      }
-    },
-    {
-      "start": "2026-06-20T07:00:00+05:00",
-      "stop": "2026-06-20T07:30:00+05:00",
-      "title": "Jeopardy!",
-      "desc": "The Emmy-winning quiz show features a unique answer-and-question format.",
-      "date": "2026",
-      "language": "en",
-      "rating": "TVG",
-      "categories": [
-        "Series",
-        "Game show"
-      ],
-      "episode": "S42 E205",
-      "icon": "http://dtil.tmsimg.com/assets/p184056_b_h10_aa.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Ken Jennings"
-        ]
-      }
-    },
-    {
-      "start": "2026-06-20T07:30:00+05:00",
-      "stop": "2026-06-20T08:00:00+05:00",
-      "title": "Wheel of Fortune",
-      "sub_title": "Paradise Found",
-      "desc": "In a classic game-show version of \"Hangman,\" contestants solve word puzzles for cash and prizes.",
-      "date": "2026",
-      "language": "en",
-      "rating": "TVG",
-      "categories": [
-        "Series",
-        "Game show"
-      ],
-      "episode": "S43 E100",
-      "icon": "http://dtil.tmsimg.com/assets/p184057_b_h8_ai.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Ryan Seacrest",
-          "Vanna White"
-        ]
-      }
-    },
-    {
-      "start": "2026-06-20T08:00:00+05:00",
-      "stop": "2026-06-20T09:00:00+05:00",
-      "title": "Celebrity Wheel of Fortune",
-      "sub_title": "Candace Parker, Dwight Howard and Rich Eisen",
-      "desc": "Celebrity contestants Candace Parker, Dwight Howard and Rich Eisen.",
-      "date": "2025",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Series",
-        "Game show"
-      ],
-      "episode": "S6 E5",
-      "icon": "http://dtil.tmsimg.com/assets/p30740113_b_h8_aa.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Ryan Seacrest",
-          "Vanna White",
-          "Candace Parker"
-        ]
-      }
-    },
-    {
       "start": "2026-06-20T09:00:00+05:00",
       "stop": "2026-06-20T11:00:00+05:00",
       "title": "20/20",
@@ -240,6 +144,92 @@
           "Tamron Hall",
           "Roy Wood",
           "Deland McCullough"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-20T15:30:00+05:00",
+      "stop": "2026-06-20T16:00:00+05:00",
+      "title": "Paid Programming",
+      "desc": "Paid programming.",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Consumer",
+        "Shopping",
+        "Variety"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-06-20T16:00:00+05:00",
+      "stop": "2026-06-20T17:00:00+05:00",
+      "title": "Good Morning America",
+      "desc": "Early morning news and entertainment program that covers important issues with key figures from around the world and a wide spectrum of topics, including medicine, finance, consumer issues, computer technology, education and gardening.",
+      "date": "2026",
+      "language": "en",
+      "categories": [
+        "Series",
+        "Talk",
+        "News",
+        "Variety",
+        "Public affairs"
+      ],
+      "episode": "E195",
+      "icon": "http://dtil.tmsimg.com/assets/p31385280_b_h10_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Whit Johnson",
+          "Janai Norman",
+          "Gio Benitez"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-20T17:00:00+05:00",
+      "stop": "2026-06-20T18:00:00+05:00",
+      "title": "Eyewitness News 5AM",
+      "desc": "News coverage to start the day.",
+      "date": "2004",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p676994_b_h8_af.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-06-20T18:00:00+05:00",
+      "stop": "2026-06-20T19:00:00+05:00",
+      "title": "Eyewitness News 6AM",
+      "desc": "News coverage to start the day.",
+      "date": "2004",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p677002_b_h8_af.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-06-20T19:00:00+05:00",
+      "stop": "2026-06-20T20:00:00+05:00",
+      "title": "Good Morning America",
+      "desc": "Special Olympics preview with Rebecca Jarvis; ABC Secret Savings; Deals & Steals with Tory Johnson.",
+      "date": "2026",
+      "language": "en",
+      "categories": [
+        "Series",
+        "Talk",
+        "News",
+        "Variety",
+        "Public affairs"
+      ],
+      "episode": "E196",
+      "icon": "http://dtil.tmsimg.com/assets/p31385280_b_h10_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Whit Johnson",
+          "Janai Norman",
+          "Gio Benitez"
         ]
       }
     }
