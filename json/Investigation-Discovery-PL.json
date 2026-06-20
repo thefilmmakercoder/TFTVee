@@ -4,48 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-20T10:00:00+05:00",
-      "stop": "2026-06-20T11:00:00+05:00",
-      "title": "Reasonable Doubt",
-      "sub_title": "Damaging hair",
-      "desc": "Investigation Discovery provides true crime documentaries, real-life investigations, and mystery-focused programming.",
-      "date": "2018",
-      "language": "en",
-      "categories": [
-        "Documentary Series"
-      ],
-      "episode": "S2",
-      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/Investigation-Discovery-PL.png"
-    },
-    {
-      "start": "2026-06-20T11:00:00+05:00",
-      "stop": "2026-06-20T12:00:00+05:00",
-      "title": "Still a Mystery",
-      "sub_title": "Missing girls",
-      "desc": "Closing a case does not necessarily mean a successful investigation.Often, the victim's family and friends have to struggle with the question of what happened to their loved one for many years.",
-      "date": "2019",
-      "language": "en",
-      "categories": [
-        "Documentary Series"
-      ],
-      "episode": "S1",
-      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/Investigation-Discovery-PL.png"
-    },
-    {
-      "start": "2026-06-20T12:00:00+05:00",
-      "stop": "2026-06-20T13:00:00+05:00",
-      "title": "Sttill a Mystery 5",
-      "sub_title": "Violence after midnight",
-      "desc": "Investigation Discovery provides true crime documentaries, real-life investigations, and mystery-focused programming.",
-      "date": "2020",
-      "language": "en",
-      "categories": [
-        "Documentary Series"
-      ],
-      "episode": "S5",
-      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/Investigation-Discovery-PL.png"
-    },
-    {
       "start": "2026-06-20T13:00:00+05:00",
       "stop": "2026-06-20T14:00:00+05:00",
       "title": "Murder In The Heartland",
@@ -222,6 +180,49 @@
         "Documentary Film"
       ],
       "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/Investigation-Discovery-PL.png"
+    },
+    {
+      "start": "2026-06-20T22:00:00+05:00",
+      "stop": "2026-06-20T23:00:00+05:00",
+      "title": "Joe O'Reilly: A Faking It Special:",
+      "desc": "A grieving husband or a brazen liar?When Joe O'Reilly's wife was murdered, he went on television to appeal for the killer to be caught.Everything turned out to be a lie.",
+      "language": "en",
+      "categories": [
+        "Documentary Film"
+      ],
+      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/Investigation-Discovery-PL.png"
+    },
+    {
+      "start": "2026-06-20T23:00:00+05:00",
+      "stop": "2026-06-21T00:00:00+05:00",
+      "title": "The Dead Files",
+      "sub_title": "A murderer from the past",
+      "desc": "Investigation Discovery provides true crime documentaries, real-life investigations, and mystery-focused programming.",
+      "language": "en",
+      "categories": [
+        "Documentary Series"
+      ],
+      "episode": "S9",
+      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/Investigation-Discovery-PL.png"
+    },
+    {
+      "start": "2026-06-21T00:00:00+05:00",
+      "stop": "2026-06-21T01:00:00+05:00",
+      "title": "Evil Things",
+      "sub_title": "Wardrobe and interview",
+      "desc": "Houses are most often haunted, but ghosts can manifest their presence through many different accessories.In each episode, two people will share their experiences.",
+      "date": "2017",
+      "language": "en",
+      "categories": [
+        "Documentary Series"
+      ],
+      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/Investigation-Discovery-PL.png",
+      "credits": {
+        "actor": [
+          "Officer Kaiman - Don Baldaramos",
+          "Bar Victim - William Will Daubert"
+        ]
+      }
     }
   ]
 }

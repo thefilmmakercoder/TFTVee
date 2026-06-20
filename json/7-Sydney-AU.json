@@ -4,60 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-20T05:00:00+05:00",
-      "stop": "2026-06-20T07:00:00+05:00",
-      "title": "The Morning Show - Weekend",
-      "desc": "Join Larry Emdur and Kylie Gillies to catch up on all the highlights from this week's program, including a variety of segments on the latest news and entertainment.",
-      "language": "en",
-      "rating": "PG",
-      "categories": [
-        "News"
-      ],
-      "episode": "S26 E22",
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/287624/image/334x188"
-    },
-    {
-      "start": "2026-06-20T07:00:00+05:00",
-      "stop": "2026-06-20T12:00:00+05:00",
-      "title": "Seven's Horse Racing",
-      "sub_title": "Randwick/Flemington/Ipswich",
-      "desc": "Live coverage of horse racing every Saturday.",
-      "language": "en",
-      "rating": "NR",
-      "categories": [
-        "Sports"
-      ],
-      "episode": "S26 E27",
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/293644/image/334x188"
-    },
-    {
-      "start": "2026-06-20T12:00:00+05:00",
-      "stop": "2026-06-20T12:27:00+05:00",
-      "title": "Seven News At 5",
-      "sub_title": "Saturday 20 June 2026",
-      "desc": "Get the latest news, sport and weather from Australia and around the world.",
-      "language": "en",
-      "rating": "NR",
-      "categories": [
-        "News"
-      ],
-      "episode": "S26 E49",
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/17254901/image/334x188"
-    },
-    {
-      "start": "2026-06-20T12:27:00+05:00",
-      "stop": "2026-06-20T12:59:00+05:00",
-      "title": "Border Security - Australia's Front Line",
-      "desc": "A drug runner conceals his stash in the most unlikely of places. A Frenchman has fallen for Australia, but Immigration says it's time to leave. Officers are shocked by an item found in the mail.",
-      "language": "en",
-      "rating": "PG",
-      "categories": [
-        "Special Interest"
-      ],
-      "episode": "S1 E180",
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/172693/image/334x188"
-    },
-    {
       "start": "2026-06-20T12:59:00+05:00",
       "stop": "2026-06-20T14:00:00+05:00",
       "title": "Seven News",
@@ -159,6 +105,56 @@
         "Sports"
       ],
       "icon": "https://www.fetchtv.com.au/v2/epg/program/5605300/image/334x188"
+    },
+    {
+      "start": "2026-06-20T22:00:00+05:00",
+      "stop": "2026-06-20T22:30:00+05:00",
+      "title": "TBA",
+      "desc": "Channel 7 delivers public Australian commercial broadcasting, featuring Seven News, live premium sports, domestic dramas, and major reality franchises like The Voice.",
+      "language": "en",
+      "rating": "NR",
+      "categories": [
+        "Sports"
+      ],
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/5605300/image/334x188"
+    },
+    {
+      "start": "2026-06-20T22:30:00+05:00",
+      "stop": "2026-06-20T23:00:00+05:00",
+      "title": "TBA",
+      "desc": "Channel 7 delivers public Australian commercial broadcasting, featuring Seven News, live premium sports, domestic dramas, and major reality franchises like The Voice.",
+      "language": "en",
+      "rating": "NR",
+      "categories": [
+        "Sports"
+      ],
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/5605300/image/334x188"
+    },
+    {
+      "start": "2026-06-20T23:00:00+05:00",
+      "stop": "2026-06-20T23:30:00+05:00",
+      "title": "It's Academic",
+      "desc": "Simon Reeve hosts all new episodes of the educational and entertaining show where schools compete to win cash and prizes.",
+      "language": "en",
+      "rating": "G",
+      "categories": [
+        "Special Interest"
+      ],
+      "episode": "S20 E20",
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/141113/image/334x188"
+    },
+    {
+      "start": "2026-06-20T23:30:00+05:00",
+      "stop": "2026-06-21T00:03:00+05:00",
+      "title": "It's Academic",
+      "desc": "Simon Reeve hosts all new episodes of the educational and entertaining show where schools compete to win cash and prizes.",
+      "language": "en",
+      "rating": "G",
+      "categories": [
+        "Special Interest"
+      ],
+      "episode": "S20 E21",
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/141113/image/334x188"
     }
   ]
 }

@@ -4,18 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-20T05:50:00+05:00",
-      "stop": "2026-06-20T10:00:00+05:00",
-      "title": "BBC News",
-      "desc": "BBC One joins the BBC's rolling news channel for a night of news.",
-      "language": "en",
-      "categories": [
-        "News & Documentary",
-        "News"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/47682c88-b961-4118-9431-768a5b0ac07d/16-9"
-    },
-    {
       "start": "2026-06-20T10:00:00+05:00",
       "stop": "2026-06-20T14:00:00+05:00",
       "title": "Breakfast",
@@ -146,6 +134,18 @@
         "Football"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/f47592a4-6d4e-4826-9922-9d07ffb9d547/16-9"
+    },
+    {
+      "start": "2026-06-21T00:30:00+05:00",
+      "stop": "2026-06-21T01:20:00+05:00",
+      "title": "Casualty",
+      "desc": "Stevie faces the consequences of her actions.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Medical"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/9c3b8811-e2b8-45d3-9931-e92d44cec7fa/16-9"
     }
   ]
 }

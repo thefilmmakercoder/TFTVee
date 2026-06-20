@@ -4,31 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-20T06:30:00+05:00",
-      "stop": "2026-06-20T10:00:00+05:00",
-      "title": "Teleshopping",
-      "desc": "Shopping from home.",
-      "language": "en",
-      "categories": [
-        "Specialist",
-        "Shopping"
-      ],
-      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/ITV-3-UK.png"
-    },
-    {
-      "start": "2026-06-20T10:00:00+05:00",
-      "stop": "2026-06-20T12:10:00+05:00",
-      "title": "Inspector Morse",
-      "sub_title": "The Daughters of Cain",
-      "desc": "Chief Inspector Morse and Sergeant Lewis investigate the murders of two men in Oxford, but the suspects seem to have a perfect and unbreakable alibi.",
-      "language": "en",
-      "categories": [
-        "Entertainment",
-        "Detective"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/21c1a824-2e9b-481f-a197-e141021ebc1f/16-9"
-    },
-    {
       "start": "2026-06-20T12:10:00+05:00",
       "stop": "2026-06-20T14:25:00+05:00",
       "title": "Inspector Morse",
@@ -156,6 +131,31 @@
         "Lifestyles"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/67056937-eae9-3881-94ee-cbd8f1839a3e/16-9"
+    },
+    {
+      "start": "2026-06-21T06:30:00+05:00",
+      "stop": "2026-06-21T10:00:00+05:00",
+      "title": "Teleshopping",
+      "desc": "Shopping from home.",
+      "language": "en",
+      "categories": [
+        "Specialist",
+        "Shopping"
+      ],
+      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/ITV-3-UK.png"
+    },
+    {
+      "start": "2026-06-21T10:00:00+05:00",
+      "stop": "2026-06-21T10:35:00+05:00",
+      "title": "George and Mildred",
+      "sub_title": "Just the Job",
+      "desc": "Domestic sitcom spin-off from the hit '70s show Man About the House. George finally finds his vocation, but it's a line of work that may make him unpopular.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Comedy"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/612104a2-0e04-46bf-a9a1-33b13d406d6e/16-9"
     }
   ]
 }

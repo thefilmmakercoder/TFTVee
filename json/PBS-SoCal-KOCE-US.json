@@ -4,53 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-20T09:00:00+05:00",
-      "stop": "2026-06-20T11:00:00+05:00",
-      "title": "American Experience",
-      "sub_title": "George H.W. Bush",
-      "desc": "President George H.W. Bush's childhood, early career in Texas and rise in the Republican Party.",
-      "date": "2008",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Series",
-        "Anthology",
-        "Documentary"
-      ],
-      "episode": "S20 E9 P1/2",
-      "icon": "http://dtil.tmsimg.com/assets/p185480_b_h8_aa.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-06-20T11:00:00+05:00",
-      "stop": "2026-06-20T12:00:00+05:00",
-      "title": "Artbound",
-      "sub_title": "Black Art: A Brockman Gallery Legacy",
-      "desc": "The Brockman Gallery ushered in a new era of Black artists, helping them enter the mainstream art world.",
-      "date": "2024",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Series",
-        "Art"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p9879055_b_h8_ac.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-06-20T12:00:00+05:00",
-      "stop": "2026-06-20T13:00:00+05:00",
-      "title": "Artbound",
-      "sub_title": "L.A. Rebellion: A Cinematic Movement",
-      "desc": "Following the Watts Uprising, UCLA's School of Theater, Film and Television enacted affirmative action policies.",
-      "date": "2023",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Series",
-        "Art"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p9879055_b_h8_ac.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-06-20T13:00:00+05:00",
       "stop": "2026-06-20T14:00:00+05:00",
       "title": "Artbound",
@@ -238,6 +191,60 @@
           "Jessy Yates",
           "Elishia Perosa",
           "Nissae Isen"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-20T20:00:00+05:00",
+      "stop": "2026-06-20T21:30:00+05:00",
+      "title": "Ken Burns: One Nation, Many Stories",
+      "desc": "Exploring the work of filmmaker Ken Burns, including \"Country Music,\" \"Muhammad Ali,\" \"Benjamin Franklin,\" \"The U.S. and the Holocaust,\" \"The American Buffalo,\" \"The Vietnam War\" and more.",
+      "date": "2024",
+      "language": "en",
+      "categories": [
+        "Special",
+        "Documentary"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p27784728_b_h8_aa.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-06-20T21:30:00+05:00",
+      "stop": "2026-06-20T23:30:00+05:00",
+      "title": "The Making of the American Revolution",
+      "desc": "A behind the scenes look at \"The American Revolution\" with Ken Burns, Sarah Botstein and David Schmidt to learn about the production, which took nearly a decade to complete.",
+      "date": "2026",
+      "language": "en",
+      "categories": [
+        "Special",
+        "Documentary",
+        "Entertainment"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p32211148_b_h10_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Ken Burns",
+          "Sarah Botstein",
+          "David Schmidt"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-20T23:30:00+05:00",
+      "stop": "2026-06-21T02:30:00+05:00",
+      "title": "Driving While Black: Race, Space and Mobility in America",
+      "desc": "The automobile brings new freedoms as well as perils to Blacks on the road from the 1930s to the late 1960s.",
+      "date": "2020",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "Special",
+        "Documentary"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p18659321_b_h8_ab.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Gretchen Sorin",
+          "Ric Burns"
         ]
       }
     }
