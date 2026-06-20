@@ -4,18 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-20T18:15:00+05:00",
-      "stop": "2026-06-20T19:00:00+05:00",
-      "title": "Escape to the Country",
-      "desc": "Jules Hudson is in the Powys countryside, helping a couple with two dogs, three cats and a motorbike find a home. He also visits a pioneering farm project growing a greener future.",
-      "language": "en",
-      "categories": [
-        "Entertainment",
-        "Gradening"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/42b1120a-2eec-4507-88de-2bf03788ffc4/16-9"
-    },
-    {
       "start": "2026-06-20T19:00:00+05:00",
       "stop": "2026-06-20T21:10:00+05:00",
       "title": "Battle of Britain",
@@ -144,6 +132,14 @@
         "Factual"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/243874b3-cb34-4505-b221-2a61b2983440/16-9"
+    },
+    {
+      "start": "2026-06-21T07:55:00+05:00",
+      "stop": "2026-06-21T10:00:00+05:00",
+      "title": "This is BBC Two",
+      "desc": "Highlights of programmes on BBC Two.",
+      "language": "en",
+      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/BBC-Two-UK.png"
     }
   ]
 }

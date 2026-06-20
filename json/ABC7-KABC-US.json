@@ -4,42 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-20T18:00:00+05:00",
-      "stop": "2026-06-20T19:00:00+05:00",
-      "title": "Eyewitness News 6AM",
-      "desc": "News coverage to start the day.",
-      "date": "2004",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p677002_b_h8_af.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-06-20T19:00:00+05:00",
-      "stop": "2026-06-20T20:00:00+05:00",
-      "title": "Good Morning America",
-      "desc": "Special Olympics preview with Rebecca Jarvis; ABC Secret Savings; Deals & Steals with Tory Johnson.",
-      "date": "2026",
-      "language": "en",
-      "categories": [
-        "Series",
-        "Talk",
-        "News",
-        "Variety",
-        "Public affairs"
-      ],
-      "episode": "E196",
-      "icon": "http://dtil.tmsimg.com/assets/p31385280_b_h10_aa.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Whit Johnson",
-          "Janai Norman",
-          "Gio Benitez"
-        ]
-      }
-    },
-    {
       "start": "2026-06-20T20:00:00+05:00",
       "stop": "2026-06-20T21:00:00+05:00",
       "title": "Eyewitness News 8AM",
@@ -157,6 +121,37 @@
         "News"
       ],
       "icon": "http://dtil.tmsimg.com/assets/p676966_b_h8_af.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-06-21T05:00:00+05:00",
+      "stop": "2026-06-21T05:30:00+05:00",
+      "title": "Eyewitness News at 5PM",
+      "desc": "Stay informed with the latest breaking news and headlines.",
+      "date": "2020",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p19175480_st_h10_aa.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-06-21T05:30:00+05:00",
+      "stop": "2026-06-21T06:00:00+05:00",
+      "title": "ABC World News Tonight With David Muir",
+      "desc": "Delivering the news that matters most.",
+      "date": "2026",
+      "language": "en",
+      "categories": [
+        "Series",
+        "News"
+      ],
+      "episode": "E171",
+      "icon": "http://dtil.tmsimg.com/assets/p10880351_b_h8_ah.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "David Muir"
+        ]
+      }
     }
   ]
 }
