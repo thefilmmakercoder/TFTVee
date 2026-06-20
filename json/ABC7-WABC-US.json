@@ -4,67 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-20T03:30:00+05:00",
-      "stop": "2026-06-20T04:00:00+05:00",
-      "title": "ABC World News Tonight With David Muir",
-      "desc": "Delivering the news that matters most.",
-      "date": "2026",
-      "language": "en",
-      "categories": [
-        "Series",
-        "News"
-      ],
-      "episode": "E170",
-      "icon": "http://dtil.tmsimg.com/assets/p10880351_b_h8_ah.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "David Muir"
-        ]
-      }
-    },
-    {
-      "start": "2026-06-20T04:00:00+05:00",
-      "stop": "2026-06-20T04:30:00+05:00",
-      "title": "Jeopardy!",
-      "desc": "The Emmy-winning quiz show features a unique answer-and-question format.",
-      "date": "2026",
-      "language": "en",
-      "rating": "TVG",
-      "categories": [
-        "Series",
-        "Game show"
-      ],
-      "episode": "S42 E205",
-      "icon": "http://dtil.tmsimg.com/assets/p184056_b_h10_aa.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Ken Jennings"
-        ]
-      }
-    },
-    {
-      "start": "2026-06-20T04:30:00+05:00",
-      "stop": "2026-06-20T05:00:00+05:00",
-      "title": "Wheel of Fortune",
-      "sub_title": "Paradise Found",
-      "desc": "In a classic game-show version of \"Hangman,\" contestants solve word puzzles for cash and prizes.",
-      "date": "2026",
-      "language": "en",
-      "rating": "TVG",
-      "categories": [
-        "Series",
-        "Game show"
-      ],
-      "episode": "S43 E100",
-      "icon": "http://dtil.tmsimg.com/assets/p184057_b_h8_ai.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Ryan Seacrest",
-          "Vanna White"
-        ]
-      }
-    },
-    {
       "start": "2026-06-20T05:00:00+05:00",
       "stop": "2026-06-20T06:00:00+05:00",
       "title": "Celebrity Wheel of Fortune",
@@ -249,6 +188,59 @@
           "Tamron Hall",
           "Roy Wood",
           "Deland McCullough"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-20T13:00:00+05:00",
+      "stop": "2026-06-20T13:30:00+05:00",
+      "title": "Secretly Awesome",
+      "desc": "The places, experiences and businesses around town that only the locals know about.",
+      "date": "2020",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Community"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p17943416_b_h8_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Roxy Te"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-20T13:30:00+05:00",
+      "stop": "2026-06-20T14:00:00+05:00",
+      "title": "My Go-To",
+      "desc": "Go-to spots for the places to be, people to see and things to do.",
+      "date": "2019",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Documentary",
+        "Community"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p17601906_b_h8_aa.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-06-20T14:00:00+05:00",
+      "stop": "2026-06-20T14:30:00+05:00",
+      "title": "Greatest Sports Legends: Then and Now",
+      "desc": "Hosts Gregg Murphy and Wes Hall compare sports legends of the past to those of today.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Sports talk"
+      ],
+      "episode": "S5 E43",
+      "icon": "http://dtil.tmsimg.com/assets/p20216116_b_h10_ab.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Gregg Murphy",
+          "Wes Hall"
         ]
       }
     }

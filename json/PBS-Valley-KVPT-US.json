@@ -4,84 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-20T03:00:00+05:00",
-      "stop": "2026-06-20T04:00:00+05:00",
-      "title": "The Kimberley: Australia's Wild West",
-      "sub_title": "River Of Life",
-      "desc": "Wallabies, koolamana lizards and crocodile hatchlings face the wild river's dangers.",
-      "date": "2026",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Series",
-        "Animals",
-        "Documentary"
-      ],
-      "episode": "S1 E1",
-      "icon": "http://dtil.tmsimg.com/assets/p32523464_b_h10_ae.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-06-20T04:00:00+05:00",
-      "stop": "2026-06-20T04:30:00+05:00",
-      "title": "Epic Trails",
-      "sub_title": "Backpacking Rwanda",
-      "desc": "Eric Hanson travels to the heart of Rwanda to explore its volcanoes, montane rainforest and sweeping plains.",
-      "date": "2023",
-      "language": "en",
-      "rating": "TVG",
-      "categories": [
-        "Series",
-        "Travel"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p20038333_b_h10_ac.jpg?w=960&h=540",
-      "credits": {
-        "director": [
-          "Samuel Burrows"
-        ],
-        "actor": [
-          "Eric Hanson"
-        ]
-      }
-    },
-    {
-      "start": "2026-06-20T04:30:00+05:00",
-      "stop": "2026-06-20T05:00:00+05:00",
-      "title": "Living Longer, Living Well: Secrets of the Mediterranean",
-      "desc": "A tour of Italy and Greece reveals the health benefits of the Mediterranean lifestyle and diet.",
-      "date": "2024",
-      "language": "en",
-      "rating": "TVG",
-      "categories": [
-        "Special",
-        "Documentary",
-        "Travel",
-        "Health"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p26484181_st_h10_ab.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Frank Licari"
-        ]
-      }
-    },
-    {
-      "start": "2026-06-20T05:00:00+05:00",
-      "stop": "2026-06-20T05:30:00+05:00",
-      "title": "BBC News: The Context USA",
-      "desc": "Coverage from Washington, D.C. and London, with a regular panel of guests from across the political spectrum discussing the biggest stories of the day.",
-      "date": "2026",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p32830235_b_h10_aa.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Christian Fraser"
-        ]
-      }
-    },
-    {
       "start": "2026-06-20T05:30:00+05:00",
       "stop": "2026-06-20T06:00:00+05:00",
       "title": "BBC News America",
@@ -235,6 +157,88 @@
       "credits": {
         "actor": [
           "Christiane Amanpour"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-20T13:00:00+05:00",
+      "stop": "2026-06-20T14:30:00+05:00",
+      "title": "America's Test Kitchen Celebrates 25 Years",
+      "desc": "Going behind-the-scenes with \"America's Test Kitchen\" hosts Bridget Lancaster and Julia Collin Davison to highlight the food, science and kitchen ingenuity that made the show's 25 years a success.",
+      "date": "2024",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Special",
+        "Documentary",
+        "Cooking"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p27963989_b_h8_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Bridget Lancaster",
+          "Julia Collin Davison"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-20T14:30:00+05:00",
+      "stop": "2026-06-20T16:30:00+05:00",
+      "title": "America's Home Cooking: Around the World in 80 Recipes",
+      "desc": "Chris Fennimore and special guests celebrate international cuisine; recipes include chicken Parmigiana, Asian dumplings, Turkish red lentil soup, Middle Eastern hummus, baba ghanoush and bobalki.",
+      "date": "2025",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Special",
+        "Cooking",
+        "How-to"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p30586149_st_h10_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Chris Fennimore"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-20T16:30:00+05:00",
+      "stop": "2026-06-20T18:00:00+05:00",
+      "title": "Life on Earth: Attenborough's Greatest Adventure",
+      "desc": "The story behind David Attenborough's wildlife documentary series \"Life on Earth,\" which changed his life forever.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Special",
+        "Documentary"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p32646212_b_h8_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "David Attenborough"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-20T18:00:00+05:00",
+      "stop": "2026-06-20T18:30:00+05:00",
+      "title": "Mister Rogers' Neighborhood",
+      "sub_title": "Respecting All Living Creatures",
+      "desc": "The Neighborhood characters are afraid of a dinosaur; they are relieved to discover that it is only a Purple Panda in a costume; Lady Elaine learns that jokes should not hurt other people.",
+      "date": "1982",
+      "language": "en",
+      "rating": "TVY",
+      "categories": [
+        "Series",
+        "Children",
+        "Educational"
+      ],
+      "episode": "S12 E10",
+      "icon": "http://dtil.tmsimg.com/assets/p184024_b_h10_ab.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Fred Rogers"
         ]
       }
     }

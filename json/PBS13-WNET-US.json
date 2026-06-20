@@ -4,65 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-20T03:30:00+05:00",
-      "stop": "2026-06-20T04:00:00+05:00",
-      "title": "BBC World News America",
-      "desc": "A detailed look into news stories from around the world from the BBC news desk in Washington, D.C.",
-      "date": "2026",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p32402912_b_h10_aa.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Sumi Somaskanda",
-          "Caitr\u00edona Perry"
-        ]
-      }
-    },
-    {
-      "start": "2026-06-20T04:00:00+05:00",
-      "stop": "2026-06-20T05:00:00+05:00",
-      "title": "PBS News Hour",
-      "desc": "Co-anchors Amna Nawaz and Geoff Bennett and correspondents offer in-depth analysis of current events.",
-      "date": "2026",
-      "language": "en",
-      "categories": [
-        "Series",
-        "News"
-      ],
-      "episode": "S52 E254",
-      "icon": "http://dtil.tmsimg.com/assets/p27608822_b_h8_ac.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Amna Nawaz",
-          "Geoff Bennett"
-        ]
-      }
-    },
-    {
-      "start": "2026-06-20T05:00:00+05:00",
-      "stop": "2026-06-20T05:30:00+05:00",
-      "title": "Washington Week With The Atlantic",
-      "desc": "A panel of journalists provides reporting and analysis of the major stories emanating from the United States capital.",
-      "date": "2026",
-      "language": "en",
-      "categories": [
-        "Series",
-        "News",
-        "Public affairs",
-        "Politics"
-      ],
-      "episode": "S60 E51",
-      "icon": "http://dtil.tmsimg.com/assets/p25350982_b_h8_aa.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Jeffrey Goldberg"
-        ]
-      }
-    },
-    {
       "start": "2026-06-20T05:30:00+05:00",
       "stop": "2026-06-20T06:00:00+05:00",
       "title": "Firing Line With Margaret Hoover",
@@ -227,6 +168,65 @@
       "credits": {
         "actor": [
           "Danielle Chang"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-20T16:00:00+05:00",
+      "stop": "2026-06-20T16:30:00+05:00",
+      "title": "Curious Traveler",
+      "sub_title": "Curious Antarctica, Part 2",
+      "desc": "Who made it to the South Pole first; Ernest Shackleton's expedition; where whales migrate to; why penguins spread their wings.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Series",
+        "Travel"
+      ],
+      "episode": "S8 E2 P2/2",
+      "icon": "http://dtil.tmsimg.com/assets/p11554779_b_h10_ab.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Christine Van Blokland"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-20T16:30:00+05:00",
+      "stop": "2026-06-20T17:00:00+05:00",
+      "title": "One on One With Steve Adubato",
+      "desc": "Professionals and innovators share their experiences.",
+      "date": "2009",
+      "language": "en",
+      "categories": [
+        "Talk"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p7814519_b_h8_ad.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Steve Adubato"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-20T17:00:00+05:00",
+      "stop": "2026-06-20T17:30:00+05:00",
+      "title": "Consuelo Mack WealthTrack",
+      "desc": "Investment tips in stocks, bonds, real estate and collectibles.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Series",
+        "Bus./financial",
+        "Interview"
+      ],
+      "episode": "S22 E51",
+      "icon": "http://dtil.tmsimg.com/assets/p358499_b_h10_ab.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Consuelo Mack"
         ]
       }
     }

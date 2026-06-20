@@ -4,49 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-20T03:30:00+05:00",
-      "stop": "2026-06-20T04:00:00+05:00",
-      "title": "ABC World News Tonight With David Muir",
-      "desc": "Delivering the news that matters most.",
-      "date": "2026",
-      "language": "en",
-      "categories": [
-        "Series",
-        "News"
-      ],
-      "episode": "E170",
-      "icon": "http://dtil.tmsimg.com/assets/p10880351_b_h8_ah.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "David Muir"
-        ]
-      }
-    },
-    {
-      "start": "2026-06-20T04:00:00+05:00",
-      "stop": "2026-06-20T05:00:00+05:00",
-      "title": "Eyewitness News 4PM",
-      "desc": "Early evening news.",
-      "date": "2004",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p676966_b_h8_af.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-06-20T05:00:00+05:00",
-      "stop": "2026-06-20T06:00:00+05:00",
-      "title": "Eyewitness News 5PM",
-      "desc": "Early evening news.",
-      "date": "2016",
-      "language": "en",
-      "categories": [
-        "News"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p12821107_b_h8_aa.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-06-20T06:00:00+05:00",
       "stop": "2026-06-20T06:30:00+05:00",
       "title": "Eyewitness News 6PM",
@@ -219,6 +176,70 @@
         "actor": [
           "Juju Chang",
           "Byron Pitts"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-20T13:06:00+05:00",
+      "stop": "2026-06-20T13:36:00+05:00",
+      "title": "ABC World News Tonight With David Muir",
+      "desc": "Delivering the news that matters most.",
+      "date": "2026",
+      "language": "en",
+      "categories": [
+        "Series",
+        "News"
+      ],
+      "episode": "E170",
+      "icon": "http://dtil.tmsimg.com/assets/p10880351_b_h8_ah.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "David Muir"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-20T13:36:00+05:00",
+      "stop": "2026-06-20T14:36:00+05:00",
+      "title": "Live with Kelly and Mark",
+      "desc": "Rita Ora and Jerry O'Connell are here; the hottest summer toys; Kaleo performs!",
+      "date": "2026",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Talk"
+      ],
+      "episode": "S4 E210",
+      "icon": "http://dtil.tmsimg.com/assets/p24324378_b_h8_ab.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Kelly Ripa",
+          "Mark Consuelos",
+          "Rita Ora"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-20T14:36:00+05:00",
+      "stop": "2026-06-20T15:30:00+05:00",
+      "title": "Tamron Hall",
+      "sub_title": "Tamron's Father's Day Extravaganza!",
+      "desc": "Comic Roy Wood Jr. returns as co-host for Tamron's fourth annual Father's Day celebration, and he brings his Father of the Year picks; former NFL players Sherman Smith and Deland McCullough tell how they discovered they are father and son after knowing each other for 30 years; portrait artist Devon Rodriguez (memoir \"Work in Progress\"); Grammy winner Durand Bernarr performs in honor of his father; more than $200,000 in giveaways!",
+      "date": "2026",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Talk"
+      ],
+      "episode": "S7 E174",
+      "icon": "http://dtil.tmsimg.com/assets/p17197549_b_h8_af.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Tamron Hall",
+          "Roy Wood",
+          "Deland McCullough"
         ]
       }
     }

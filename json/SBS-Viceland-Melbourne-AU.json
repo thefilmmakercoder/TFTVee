@@ -4,31 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-20T03:10:00+05:00",
-      "stop": "2026-06-20T03:40:00+05:00",
-      "title": "NHK Newsline",
-      "sub_title": "Saturday 20 June 2026",
-      "desc": "English news from Japan's Broadcasting Corporation, NHK, delivering the latest in business, technology, health, environmental and world news.",
-      "language": "en",
-      "rating": "NR",
-      "categories": [
-        "News"
-      ],
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/439062/image/334x188"
-    },
-    {
-      "start": "2026-06-20T03:40:00+05:00",
-      "stop": "2026-06-20T04:30:00+05:00",
-      "title": "Cbc The National",
-      "desc": "THE NATIONAL is CBC's flagship nightly news program, featuring the day's top stories with in-depth and original journalism.",
-      "language": "en",
-      "rating": "NR",
-      "categories": [
-        "News"
-      ],
-      "icon": "https://www.fetchtv.com.au/v2/epg/program/413666/image/334x188"
-    },
-    {
       "start": "2026-06-20T04:30:00+05:00",
       "stop": "2026-06-20T05:00:00+05:00",
       "title": "BBC News At Six",
@@ -160,6 +135,32 @@
         "News"
       ],
       "icon": "https://www.fetchtv.com.au/v2/epg/program/249865/image/334x188"
+    },
+    {
+      "start": "2026-06-20T12:45:00+05:00",
+      "stop": "2026-06-20T13:15:00+05:00",
+      "title": "Mastermind Australia",
+      "desc": "Tonight's specialty subjects are: My Chemical Romance, the Heroes of Olympus Books by Rick Riordan, the Somerton Man and Tudor Queens.",
+      "language": "en",
+      "rating": "G",
+      "categories": [
+        "Special Interest"
+      ],
+      "episode": "S6 E21",
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/383513/image/334x188"
+    },
+    {
+      "start": "2026-06-20T13:15:00+05:00",
+      "stop": "2026-06-20T13:45:00+05:00",
+      "title": "Mastermind Australia",
+      "desc": "Tonight's specialty subjects are: The Grateful Dead, Stranger Things Seasons 1 to 4, The Epic of Gilgamesh and Lleyton Hewitt's Tennis Career.",
+      "language": "en",
+      "rating": "G",
+      "categories": [
+        "Special Interest"
+      ],
+      "episode": "S6 E22",
+      "icon": "https://www.fetchtv.com.au/v2/epg/program/383513/image/334x188"
     }
   ]
 }

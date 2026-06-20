@@ -4,33 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-06-19T22:00:00+05:00",
-      "stop": "2026-06-19T22:30:00+05:00",
-      "title": "Open House: Home Course",
-      "desc": "WNBC delivers breaking local news, in-depth investigative reporting, and live storm tracking dedicated to the New York tri-state region.",
-      "date": "2026",
-      "language": "en",
-      "categories": [
-        "Special",
-        "How-to",
-        "House/garden",
-        "Home improvement"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p33350563_st_h10_aa.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-06-19T22:30:00+05:00",
-      "stop": "2026-06-20T04:30:00+05:00",
-      "title": "Live: 2026 U.S. Open Golf Championship",
-      "desc": "The second round of play at the 2026 U.S. Open continues at Shinnecock Hills Golf Club in Southampton, N.Y. Round 2 is the most crucial day after the 156-player field is cut down to the top 60 players and ties who fight for the crown.",
-      "language": "en",
-      "categories": [
-        "Sports",
-        "Golf"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p32512180_b_h8_aa.jpg?w=960&h=540"
-    },
-    {
       "start": "2026-06-20T04:30:00+05:00",
       "stop": "2026-06-20T05:00:00+05:00",
       "title": "Access Hollywood",
@@ -248,6 +221,40 @@
           "Rob Rausch"
         ]
       }
+    },
+    {
+      "start": "2026-06-20T13:00:00+05:00",
+      "stop": "2026-06-20T13:30:00+05:00",
+      "title": "1st Look",
+      "sub_title": "Destination Philadephia: Beyond the Liberty Bell",
+      "desc": "Exploring the hidden gems of Philadelphia, from a hidden Mexican restaurant in the heart of the Italian market to a tucked away garden of mosaics and murals.",
+      "date": "2022",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Travel"
+      ],
+      "episode": "S13 E10",
+      "icon": "http://dtil.tmsimg.com/assets/p8953716_b_h8_ak.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Johnny \"Bananas\" Devenanzio",
+          "Ron Jaworski",
+          "Kate Scott"
+        ]
+      }
+    },
+    {
+      "start": "2026-06-20T13:30:00+05:00",
+      "stop": "2026-06-20T14:00:00+05:00",
+      "title": "Victim of Nursing Home Abuse?",
+      "desc": "Have you or a family member been a victim of nursing home abuse?",
+      "language": "en",
+      "categories": [
+        "Consumer"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p32656820_st_h10_aa.jpg?w=960&h=540"
     }
   ]
 }
