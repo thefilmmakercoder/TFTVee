@@ -2,5 +2,151 @@
   "channels": [
     {}
   ],
-  "programs": []
+  "programs": [
+    {
+      "start": "2026-07-01T09:30:00+05:00",
+      "stop": "2026-07-01T10:00:00+05:00",
+      "title": "James Martin's American Adventure",
+      "sub_title": "Los Angeles",
+      "desc": "James Martin enters the City of Dreams in style to meet a pensioner who is also a fitness coach and drop in on his old friend and chef-to-the-stars Wolfgang Puck.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Cooking"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/d734528f-f9d6-4974-9445-666d9fa25487/16-9"
+    },
+    {
+      "start": "2026-07-01T10:00:00+05:00",
+      "stop": "2026-07-01T13:30:00+05:00",
+      "title": "Good Morning Britain",
+      "desc": "News, current affairs and lively debate.",
+      "language": "en",
+      "categories": [
+        "News & Documentary",
+        "News"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/042a3803-7717-4d5a-85d7-c4d0225cce17/16-9"
+    },
+    {
+      "start": "2026-07-01T13:30:00+05:00",
+      "stop": "2026-07-01T14:00:00+05:00",
+      "title": "Lorraine",
+      "desc": "Lorraine Kelly presents a topical mix of entertainment, discussion and showbiz glamour as well as the latest fashion, food and celebrity gossip.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Magazine"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/319ac754-bc1b-4e1a-8ab7-02a06fcf87ba/16-9"
+    },
+    {
+      "start": "2026-07-01T14:00:00+05:00",
+      "stop": "2026-07-01T16:30:00+05:00",
+      "title": "This Morning",
+      "desc": "Magazine show with news and topical items, celebrity guests, expert advice, real-life stories, competitions and a mix of cookery, health, beauty, lifestyle and more.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Magazine"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/05906c5a-65a4-4725-83d7-e617b3316eac/16-9"
+    },
+    {
+      "start": "2026-07-01T16:30:00+05:00",
+      "stop": "2026-07-01T17:45:00+05:00",
+      "title": "Loose Women",
+      "desc": "Join the Loose Women panellists as they interview celebrity guests and discuss the day's most topical issues, from current affairs to celebrity gossip and the latest showbiz news.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Chat Show"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/25cc07a2-73c1-46ff-b204-43cdfc14486a/16-9"
+    },
+    {
+      "start": "2026-07-01T17:45:00+05:00",
+      "stop": "2026-07-01T18:05:00+05:00",
+      "title": "ITV Lunchtime News",
+      "desc": "The latest headlines from around the world at lunchtime with reports and analysis from ITV's Correspondents, all of which are followed by a national weather forecast.",
+      "language": "en",
+      "categories": [
+        "News & Documentary",
+        "News"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/15a2a8e9-a7fb-44e7-af6b-ce97ca1be0b3/16-9"
+    },
+    {
+      "start": "2026-07-01T18:05:00+05:00",
+      "stop": "2026-07-01T18:15:00+05:00",
+      "title": "ITV News London",
+      "desc": "The latest news and weather from London and the South East.",
+      "language": "en",
+      "categories": [
+        "News & Documentary",
+        "News"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/fca9ae91-14b7-4335-b505-da1ecbb2e50e/16-9"
+    },
+    {
+      "start": "2026-07-01T18:15:00+05:00",
+      "stop": "2026-07-01T19:15:00+05:00",
+      "title": "Dickinson's Real Deal",
+      "desc": "David and his dealers have set up their den in Newcastle. Local Geordie lass Jo Brayshaw has her sights set on a wee dram.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Antiques"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/bc3df366-0a48-481d-8b6c-968a6d8cebf1/16-9"
+    },
+    {
+      "start": "2026-07-01T19:15:00+05:00",
+      "stop": "2026-07-01T20:15:00+05:00",
+      "title": "Deal or No Deal",
+      "desc": "It's Jane's turn to take on the Banker as Stephen Mulhern hosts the iconic game show with only one question.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Game Show"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/3ed97923-0df0-319c-89fb-31b91e728f7a/16-9"
+    },
+    {
+      "start": "2026-07-01T20:15:00+05:00",
+      "stop": "2026-07-01T21:15:00+05:00",
+      "title": "Tipping Point",
+      "desc": "Ben Shephard hosts the quiz show in which three players take on an extraordinary machine in the hope of winning a cash jackpot.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Game Show"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/31e7882a-6ace-3ed5-acea-4f782003d1db/16-9"
+    },
+    {
+      "start": "2026-07-01T21:15:00+05:00",
+      "stop": "2026-07-01T22:15:00+05:00",
+      "title": "The Chase",
+      "desc": "Bradley Walsh hosts as Simon from Swansea, Tom from Norwich, Claire from Rotherham and Siobhan from Colchester join forces in the hope that their four brains can beat a Chaser's.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Game Show"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/1959ed84-ec11-3367-a490-cf99f9c4f3bc/16-9"
+    },
+    {
+      "start": "2026-07-01T22:15:00+05:00",
+      "stop": "2026-07-01T22:45:00+05:00",
+      "title": "ITV News London",
+      "desc": "The latest news and weather from London and the South East.",
+      "language": "en",
+      "categories": [
+        "News & Documentary",
+        "News"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/9d7219a4-8de0-40ab-8f53-14e9b0e5789b/16-9"
+    }
+  ]
 }

@@ -2,5 +2,246 @@
   "channels": [
     {}
   ],
-  "programs": []
+  "programs": [
+    {
+      "start": "2026-07-01T09:37:00+05:00",
+      "stop": "2026-07-01T10:07:00+05:00",
+      "title": "CTV National News With Omar Sachedina",
+      "desc": "CTV News covers stories that matter to Canadians - locally, nationally, & internationally.",
+      "date": "2026",
+      "language": "en",
+      "categories": [
+        "Series",
+        "News"
+      ],
+      "episode": "E106",
+      "icon": "http://dtil.tmsimg.com/assets/p22894284_b_h8_ab.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-07-01T10:07:00+05:00",
+      "stop": "2026-07-01T11:05:00+05:00",
+      "title": "Criminal Minds",
+      "sub_title": "Breath Play",
+      "desc": "The BAU tracks a serial killer in Wisconsin; Kate is faced with trouble when her niece, Meg, starts acting out.",
+      "date": "2015",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "Series",
+        "Crime drama",
+        "Mystery",
+        "Thriller",
+        "Drama"
+      ],
+      "episode": "S10 E17",
+      "icon": "http://dtil.tmsimg.com/assets/p185123_b_h8_ak.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Hanelle Culpepper"
+        ],
+        "actor": [
+          "Joe Mantegna",
+          "Thomas Gibson",
+          "Shemar Moore"
+        ]
+      }
+    },
+    {
+      "start": "2026-07-01T11:05:00+05:00",
+      "stop": "2026-07-01T12:05:00+05:00",
+      "title": "Suits",
+      "sub_title": "We're Done",
+      "desc": "Mike is reeling after the takeover battle; Rachel shares upsetting news; Jessica allows Louis to name his own reward.",
+      "date": "2014",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "Series",
+        "Drama",
+        "Crime drama",
+        "Law",
+        "Comedy"
+      ],
+      "episode": "S4 E7",
+      "icon": "http://dtil.tmsimg.com/assets/p8630071_b_h8_bc.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Patrick J. Adams",
+          "Gabriel Macht",
+          "Meghan Markle"
+        ]
+      }
+    },
+    {
+      "start": "2026-07-01T12:05:00+05:00",
+      "stop": "2026-07-01T13:05:00+05:00",
+      "title": "Flashpoint",
+      "sub_title": "Forget Oblivion",
+      "desc": "A young man is forced to infiltrate a research facility to memorize the design of a new \"smart gun.\".",
+      "date": "2012",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Crime drama",
+        "Thriller",
+        "Action"
+      ],
+      "episode": "S5 E7",
+      "icon": "http://dtil.tmsimg.com/assets/p186582_b_h8_ak.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Enrico Colantoni",
+          "Hugh Dillon",
+          "Amy Jo Johnson"
+        ]
+      }
+    },
+    {
+      "start": "2026-07-01T13:05:00+05:00",
+      "stop": "2026-07-01T13:35:00+05:00",
+      "title": "TMZ",
+      "desc": "TMZ TV tracks down today's hottest stars with their cameras, whether they are hitting the clubs or the dry cleaners.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Newsmagazine",
+        "Entertainment"
+      ],
+      "episode": "S19 E260",
+      "icon": "http://dtil.tmsimg.com/assets/p30985766_b_h10_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Harvey Levin"
+        ]
+      }
+    },
+    {
+      "start": "2026-07-01T13:35:00+05:00",
+      "stop": "2026-07-01T14:00:00+05:00",
+      "title": "Just for Laughs: Gags",
+      "desc": "A nun takes a pregnancy test and learns the shocking truth about the father, a couple of kilt-wearing Scotsmen use baby powder to help them dance, and the Top 3 best absurd gags of all time.",
+      "date": "2025",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Comedy",
+        "Entertainment"
+      ],
+      "episode": "S25 E6",
+      "icon": "http://dtil.tmsimg.com/assets/p29453350_b_h8_ae.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-07-01T14:00:00+05:00",
+      "stop": "2026-07-01T14:30:00+05:00",
+      "title": "The Littlest Hobo",
+      "sub_title": "The Pearls",
+      "desc": "Hobo comes to the aid of a freighter captain when his crew steals the pearls he is transporting back to their owner.",
+      "date": "1980",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Series",
+        "Drama",
+        "Adventure",
+        "Animals"
+      ],
+      "episode": "S2 E5",
+      "icon": "http://dtil.tmsimg.com/assets/p507740_b_h10_ac.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Joseph L. Scanlan"
+        ],
+        "actor": [
+          "Scott Brady",
+          "Ed Harrington",
+          "James Millington"
+        ]
+      }
+    },
+    {
+      "start": "2026-07-01T14:30:00+05:00",
+      "stop": "2026-07-01T15:00:00+05:00",
+      "title": "Paid Programming",
+      "desc": "Paid programming.",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Consumer",
+        "Shopping",
+        "Variety"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-07-01T15:00:00+05:00",
+      "stop": "2026-07-01T15:40:00+05:00",
+      "title": "CTV News Barrie",
+      "desc": "CTV News covers stories that matter to Canadians - locally, nationally, & internationally.",
+      "date": "2014",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p11226354_b_h8_ad.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-07-01T15:40:00+05:00",
+      "stop": "2026-07-01T16:20:00+05:00",
+      "title": "CTV News Barrie",
+      "desc": "CTV News covers stories that matter to Canadians - locally, nationally, & internationally.",
+      "date": "2014",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p11226354_b_h8_ad.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-07-01T16:20:00+05:00",
+      "stop": "2026-07-01T17:00:00+05:00",
+      "title": "CTV News Barrie",
+      "desc": "CTV News covers stories that matter to Canadians - locally, nationally, & internationally.",
+      "date": "2014",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p11226354_b_h8_ad.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-07-01T17:00:00+05:00",
+      "stop": "2026-07-01T17:30:00+05:00",
+      "title": "The Littlest Hobo",
+      "sub_title": "Fast Freddie",
+      "desc": "A con man tries to flimflam the wealthy citizens of a small town, but Hobo thwarts his escapades.",
+      "date": "1980",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Series",
+        "Drama",
+        "Adventure",
+        "Animals"
+      ],
+      "episode": "S2 E10",
+      "icon": "http://dtil.tmsimg.com/assets/p507740_b_h10_ac.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Joseph L. Scanlan"
+        ],
+        "actor": [
+          "Morey Amsterdam",
+          "Roger Dunn",
+          "Paul-Emile Frappier"
+        ]
+      }
+    }
+  ]
 }

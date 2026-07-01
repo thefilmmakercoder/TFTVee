@@ -2,5 +2,128 @@
   "channels": [
     {}
   ],
-  "programs": []
+  "programs": [
+    {
+      "start": "2026-07-01T08:00:00+05:00",
+      "stop": "2026-07-01T09:30:00+05:00",
+      "title": "This is BBC Three",
+      "desc": "Programmes start at 7.00pm.",
+      "language": "en",
+      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/BBC-Three-UK.png"
+    },
+    {
+      "start": "2026-07-01T09:30:00+05:00",
+      "stop": "2026-07-01T15:30:00+05:00",
+      "title": "..programmes start at 7.00pm",
+      "desc": "BBC Three delivers bold and provocative content for younger audiences, featuring groundbreaking documentaries, experimental comedy, and fresh drama.",
+      "language": "en",
+      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/BBC-Three-UK.png"
+    },
+    {
+      "start": "2026-07-01T15:30:00+05:00",
+      "stop": "2026-07-01T21:30:00+05:00",
+      "title": "..programmes start at 7.00pm",
+      "desc": "BBC Three delivers bold and provocative content for younger audiences, featuring groundbreaking documentaries, experimental comedy, and fresh drama.",
+      "language": "en",
+      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/BBC-Three-UK.png"
+    },
+    {
+      "start": "2026-07-01T21:30:00+05:00",
+      "stop": "2026-07-01T22:58:00+05:00",
+      "title": "..programmes start at 7.00pm",
+      "desc": "BBC Three delivers bold and provocative content for younger audiences, featuring groundbreaking documentaries, experimental comedy, and fresh drama.",
+      "language": "en",
+      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/BBC-Three-UK.png"
+    },
+    {
+      "start": "2026-07-01T22:58:00+05:00",
+      "stop": "2026-07-01T23:00:00+05:00",
+      "title": "This is BBC Three",
+      "desc": "Programmes start at 7.00pm.",
+      "language": "en",
+      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/BBC-Three-UK.png"
+    },
+    {
+      "start": "2026-07-01T23:00:00+05:00",
+      "stop": "2026-07-01T23:05:00+05:00",
+      "title": "The Catch Up",
+      "desc": "A round-up of the day's news.",
+      "language": "en",
+      "categories": [
+        "News & Documentary",
+        "News"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/73093743-87aa-4de8-ac8e-33754e7c9c7a/16-9"
+    },
+    {
+      "start": "2026-07-01T23:05:00+05:00",
+      "stop": "2026-07-01T23:30:00+05:00",
+      "title": "Deadly 60",
+      "sub_title": "Australia",
+      "desc": "Steve Backshall's quest for deadly species sees him come face to face with a huge lace monitor lizard and encounter a venomous redback spider.",
+      "language": "en",
+      "categories": [
+        "Children"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/5b82baf1-c2fc-4301-abea-42bf17ea72c6/16-9"
+    },
+    {
+      "start": "2026-07-01T23:30:00+05:00",
+      "stop": "2026-07-02T00:00:00+05:00",
+      "title": "EastEnders",
+      "desc": "Max is left rattled by Priya's behaviour. Cindy and Max toast their engagement in the Vic. Bea's influence intensifies.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Soap"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/d2b5168a-a934-4d03-8ddf-14f7df418cf5/16-9"
+    },
+    {
+      "start": "2026-07-02T00:00:00+05:00",
+      "stop": "2026-07-02T01:00:00+05:00",
+      "title": "Top Gear",
+      "desc": "Motoring show. The team head to Albania to test a trio of super luxurious cars including the Rolls-Royce Ghost, the Bentley Mulsanne and the Mercedes S65 AMG.",
+      "language": "en",
+      "categories": [
+        "Entertainment"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/79225bb8-c4ad-41e9-b9d3-675dbc65dc9d/16-9"
+    },
+    {
+      "start": "2026-07-02T01:00:00+05:00",
+      "stop": "2026-07-02T02:35:00+05:00",
+      "title": "A Cock and Bull Story",
+      "desc": "Tristram Shandy guides viewers through the epic tale of his life. Contains strong language and some scenes of a sexual nature.",
+      "language": "en",
+      "categories": [
+        "Movie"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/447cf483-d86a-4a2a-b103-100991e7d11a/16-9"
+    },
+    {
+      "start": "2026-07-02T02:35:00+05:00",
+      "stop": "2026-07-02T03:00:00+05:00",
+      "title": "Funboys",
+      "desc": "Callum finds work as a peasant under a tyrannical land steward. Contains strong language and adult humour.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Comedy"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/93d487d7-6c97-4369-9579-8f21e891e24b/16-9"
+    },
+    {
+      "start": "2026-07-02T03:00:00+05:00",
+      "stop": "2026-07-02T03:25:00+05:00",
+      "title": "Funboys",
+      "desc": "Strange things are afoot in Ballymac when Callum gets his first match on a dating app. Contains strong language and adult humour.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Comedy"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/3375c654-fcaf-4792-8aab-bba32814cc19/16-9"
+    }
+  ]
 }
