@@ -4,43 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-07-01T08:30:00+05:00",
-      "stop": "2026-07-01T09:52:00+05:00",
-      "title": "Bang My Box: The Robin Byrd Story",
-      "desc": "HBO delivers premium, award-winning original series, groundbreaking documentaries, and major Hollywood blockbuster movies.",
-      "date": "2026",
-      "language": "en",
-      "rating": "A18",
-      "categories": [
-        "Special",
-        "Documentary"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p33177075_b_h10_aa.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-07-01T09:52:00+05:00",
-      "stop": "2026-07-01T10:28:00+05:00",
-      "title": "Life, Larry and the Pursuit of Unhappiness",
-      "sub_title": "Livingston",
-      "desc": "Robert Livingston takes a first pass at the Declaration of Independence; Rosa Parks settles in for an uncomfortable bus ride.",
-      "date": "2026",
-      "language": "en",
-      "rating": "TVMA",
-      "categories": [
-        "Series",
-        "Comedy"
-      ],
-      "episode": "S1 E1",
-      "icon": "http://dtil.tmsimg.com/assets/p32703913_b_h8_aa.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Larry David",
-          "Barack Obama",
-          "Michelle Obama"
-        ]
-      }
-    },
-    {
       "start": "2026-07-01T10:28:00+05:00",
       "stop": "2026-07-01T11:50:00+05:00",
       "title": "Bang My Box: The Robin Byrd Story",
@@ -256,6 +219,54 @@
           "Matt Smith",
           "Emma D'Arcy",
           "Rhys Ifans"
+        ]
+      }
+    },
+    {
+      "start": "2026-07-02T00:42:00+05:00",
+      "stop": "2026-07-02T02:04:00+05:00",
+      "title": "Open Water",
+      "desc": "Daniel (Daniel Travis) and Susan (Blanchard Ryan) embark on a tropical vacation with their scuba-diving certifications in tow. During a group dive, the two separate themselves from the others to dive a little deeper. An incorrect head-count suggests the entire group has returned, so the boat departs. When the pair surfaces, they make out a vessel in the distance, but it does not immediately set in that they have been left behind. With sharks lurking beneath, their survival chances grow smaller.",
+      "date": "2003",
+      "language": "en",
+      "rating": "R",
+      "categories": [
+        "Movie",
+        "Thriller",
+        "Adventure",
+        "Drama",
+        "Horror"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p34700_v_h8_ae.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Chris Kentis"
+        ],
+        "actor": [
+          "Blanchard Ryan",
+          "Daniel Travis",
+          "Saul Stein"
+        ]
+      }
+    },
+    {
+      "start": "2026-07-02T02:04:00+05:00",
+      "stop": "2026-07-02T02:45:00+05:00",
+      "title": "Last Week Tonight With John Oliver",
+      "desc": "Comedian John Oliver hosts an in-depth, satirical look at developments from the past seven days in news, politics and current events.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TVMA",
+      "categories": [
+        "Series",
+        "Talk",
+        "Comedy"
+      ],
+      "episode": "S13 E17",
+      "icon": "http://dtil.tmsimg.com/assets/p32202276_b_h8_ac.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "John Oliver"
         ]
       }
     }

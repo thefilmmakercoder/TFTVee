@@ -2,5 +2,212 @@
   "channels": [
     {}
   ],
-  "programs": []
+  "programs": [
+    {
+      "start": "2026-07-01T13:00:00+05:00",
+      "stop": "2026-07-01T13:30:00+05:00",
+      "title": "PIX11 Morning News at 4am",
+      "desc": "Staying informed with the news and headlines.",
+      "date": "2021",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p20892929_b_h8_ab.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-07-01T13:30:00+05:00",
+      "stop": "2026-07-01T14:00:00+05:00",
+      "title": "PIX11 Morning News at 4:30am",
+      "desc": "Staying informed with the news and headlines.",
+      "date": "2018",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p16250980_b_h8_ab.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-07-01T14:00:00+05:00",
+      "stop": "2026-07-01T15:00:00+05:00",
+      "title": "PIX11 Morning News at 5am",
+      "desc": "Staying informed with the news and headlines.",
+      "date": "2016",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p12803754_b_h8_ab.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-07-01T15:00:00+05:00",
+      "stop": "2026-07-01T16:00:00+05:00",
+      "title": "PIX11 Morning News at 6am",
+      "desc": "Staying informed with the news and headlines.",
+      "date": "2018",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p16250992_b_h8_ab.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-07-01T16:00:00+05:00",
+      "stop": "2026-07-01T18:00:00+05:00",
+      "title": "PIX11 Morning News at 7am",
+      "desc": "Staying informed with the news and headlines.",
+      "date": "2018",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p16250994_b_h8_ab.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-07-01T18:00:00+05:00",
+      "stop": "2026-07-01T19:00:00+05:00",
+      "title": "PIX11 Morning News at 9am",
+      "desc": "Staying informed with the news and headlines.",
+      "date": "2020",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p17722468_b_h8_ab.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-07-01T19:00:00+05:00",
+      "stop": "2026-07-01T20:00:00+05:00",
+      "title": "New York Living",
+      "desc": "WPIX provides essential New York news, live sports, and CW network hits, serving as a cornerstone of local broadcasting for the tri-state area.",
+      "date": "2022",
+      "language": "en",
+      "categories": [
+        "Newsmagazine"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p21493460_st_h10_aa.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-07-01T20:00:00+05:00",
+      "stop": "2026-07-01T20:30:00+05:00",
+      "title": "Tribunal Justice",
+      "sub_title": "Classic Car Catastrophe",
+      "desc": "A woman's dreams of seeing her 1977 Pontiac Firebird reinstated to perfection are dashed when it is allegedly painted the wrong color and the upholstery is destroyed.",
+      "date": "2023",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "Series",
+        "Law",
+        "Reality"
+      ],
+      "episode": "S1 E130",
+      "icon": "http://dtil.tmsimg.com/assets/p24616934_b_h10_ad.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Petri Hawkins-Byrd",
+          "Patricia DiMango",
+          "Tanya Acker"
+        ]
+      }
+    },
+    {
+      "start": "2026-07-01T20:30:00+05:00",
+      "stop": "2026-07-01T21:00:00+05:00",
+      "title": "Tribunal Justice",
+      "sub_title": "Experienced Spender",
+      "desc": "For her 20th birthday, a young woman pays for a friend to join her on a grand trip to Paris and Greece; three years later, the friend is sued for the cost of the trip and calls into question the statute of limitations.",
+      "date": "2023",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "Series",
+        "Law",
+        "Reality"
+      ],
+      "episode": "S1 E42",
+      "icon": "http://dtil.tmsimg.com/assets/p24616934_b_h10_ad.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Karen J. Beck"
+        ],
+        "actor": [
+          "Petri Hawkins-Byrd",
+          "Patricia DiMango",
+          "Tanya Acker"
+        ]
+      }
+    },
+    {
+      "start": "2026-07-01T21:00:00+05:00",
+      "stop": "2026-07-01T22:00:00+05:00",
+      "title": "The Steve Wilkos Show",
+      "sub_title": "Brothers at War",
+      "desc": "Todd says he set up a recording device to catch his girlfriend cheating on him; Carl is fed up with his girlfriend thinking that he's cheating.",
+      "date": "2018",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "Series",
+        "Talk"
+      ],
+      "episode": "S12 E50",
+      "icon": "http://dtil.tmsimg.com/assets/p185706_b_h8_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Steve Wilkos"
+        ]
+      }
+    },
+    {
+      "start": "2026-07-01T22:00:00+05:00",
+      "stop": "2026-07-01T23:00:00+05:00",
+      "title": "Karamo",
+      "sub_title": "Truth: Do You Know the Maintenance Man?; Unlock: Stop Playing Games!",
+      "desc": "Tracy, Mary and Tonya are linked by the man they believe could be their father; tensions and unresolved issues have kept them divided, but they've come together to discover if they're truly sisters and to get answers; Dawn says she's had enough of her boyfriend Sean's nonstop accusations of cheating every time she leaves the house; Sean admits his trust issues stem from past relationships, but now he wants Dawn's phone unlocked to prove her loyalty.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "Series",
+        "Talk",
+        "Interview",
+        "Self improvement"
+      ],
+      "episode": "S4 E78",
+      "icon": "http://dtil.tmsimg.com/assets/p22388212_b_h8_ac.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Karamo Brown"
+        ]
+      }
+    },
+    {
+      "start": "2026-07-01T23:00:00+05:00",
+      "stop": "2026-07-01T23:30:00+05:00",
+      "title": "Judy Justice",
+      "sub_title": "Holiday Dog Attack",
+      "desc": "A dog attack on Christmas day divides neighbors who fight over which of their dogs was the aggressor and who is responsible for vet bills.",
+      "date": "2022",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "Series",
+        "Reality",
+        "Law"
+      ],
+      "episode": "S2 E30",
+      "icon": "http://dtil.tmsimg.com/assets/p20641302_b_h10_af.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Randy Douthit"
+        ],
+        "actor": [
+          "Judy Sheindlin",
+          "Kevin Rasco",
+          "Whitney Kumar"
+        ]
+      }
+    }
+  ]
 }

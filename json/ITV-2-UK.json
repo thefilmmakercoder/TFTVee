@@ -4,54 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-07-01T07:00:00+05:00",
-      "stop": "2026-07-01T10:00:00+05:00",
-      "title": "Teleshopping",
-      "desc": "Shopping from home.",
-      "language": "en",
-      "categories": [
-        "Specialist",
-        "Shopping"
-      ],
-      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/ITV-2-UK.png"
-    },
-    {
-      "start": "2026-07-01T10:00:00+05:00",
-      "stop": "2026-07-01T10:15:00+05:00",
-      "title": "Totally Bonkers Guinness World Records",
-      "desc": "Matt Edmondson writes and narrates this series about the most entertaining Guinness World Records and the brilliant characters who set them as captured by TV shows.",
-      "language": "en",
-      "categories": [
-        "Entertainment",
-        "Magazine"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/17f2b672-1aad-4b95-b220-fb950012445b/16-9"
-    },
-    {
-      "start": "2026-07-01T10:15:00+05:00",
-      "stop": "2026-07-01T11:15:00+05:00",
-      "title": "Deal or No Deal",
-      "desc": "Join Stephen Mulhern for the game show with only one question as Paisley sees if she can beat the infamous Banker.",
-      "language": "en",
-      "categories": [
-        "Entertainment",
-        "Game Show"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/c47c330b-2ce5-38b6-ac67-40051e97e2c9/16-9"
-    },
-    {
-      "start": "2026-07-01T11:15:00+05:00",
-      "stop": "2026-07-01T12:10:00+05:00",
-      "title": "Dress to Impress",
-      "desc": "In Manchester, Max, Denison and Callum go up against each other in a series of shopping challenges hoping to win the affections of Newcastle model Sophiah.",
-      "language": "en",
-      "categories": [
-        "Entertainment",
-        "Game Show"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/4f4ed7e6-b976-49d0-a9d2-a4dfe528e3f0/16-9"
-    },
-    {
       "start": "2026-07-01T12:10:00+05:00",
       "stop": "2026-07-01T13:10:00+05:00",
       "title": "Abbey Clancy: Celebrity Homes",
@@ -148,6 +100,56 @@
         "Lifestyles"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/d4fff061-a2ac-4308-8e9c-9db51b5d1c23/16-9"
+    },
+    {
+      "start": "2026-07-01T20:10:00+05:00",
+      "stop": "2026-07-01T21:00:00+05:00",
+      "title": "The Real Housewives of Salt Lake City",
+      "sub_title": "Kiss Kiss, Bangs Bangs",
+      "desc": "US reality series. An Audrey Hepburn-inspired brunch leaves the women at odds, and Mary and Meredith's friendship lands in a rocky place.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Lifestyles"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/50705a14-1683-4499-861a-ae623a10d56f/16-9"
+    },
+    {
+      "start": "2026-07-01T21:00:00+05:00",
+      "stop": "2026-07-01T22:00:00+05:00",
+      "title": "The Real Housewives of Orange County",
+      "desc": "A Picture Worth a Thousand Words: Reality show. Shannon finds out about the video from the night of her DUI and confesses shocking details about her accident.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Lifestyles"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/40c730f7-0cec-3ad4-9a63-44c5d4dd9ce4/16-9"
+    },
+    {
+      "start": "2026-07-01T22:00:00+05:00",
+      "stop": "2026-07-01T23:00:00+05:00",
+      "title": "Celebrity Catchphrase",
+      "desc": "James Acaster, JB Gill, and AJ Odudu join Stephen Mulhern hoping to 'say what they see' and guess well-known phrases for their chance to win 50,000 pounds for charity.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Game Show"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/62a8502b-c977-4565-b36f-4162f6fa2c4f/16-9"
+    },
+    {
+      "start": "2026-07-01T23:00:00+05:00",
+      "stop": "2026-07-02T00:00:00+05:00",
+      "title": "The Floor US",
+      "sub_title": "Go Big or Go Home",
+      "desc": "Rob Lowe hosts the American version of the dramatic and fast-paced game show. Contestants test their knowledge of puppies, New York, world history and DIY.",
+      "language": "en",
+      "categories": [
+        "Entertainment",
+        "Game Show"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/814bc3b8-5965-4adb-ad3a-c6e46392b3e7/16-9"
     }
   ]
 }

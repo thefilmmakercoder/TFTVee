@@ -4,100 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-07-01T09:37:00+05:00",
-      "stop": "2026-07-01T10:07:00+05:00",
-      "title": "CTV National News With Omar Sachedina",
-      "desc": "CTV News covers stories that matter to Canadians - locally, nationally, & internationally.",
-      "date": "2026",
-      "language": "en",
-      "categories": [
-        "Series",
-        "News"
-      ],
-      "episode": "E106",
-      "icon": "http://dtil.tmsimg.com/assets/p22894284_b_h8_ab.jpg?w=960&h=540"
-    },
-    {
-      "start": "2026-07-01T10:07:00+05:00",
-      "stop": "2026-07-01T11:05:00+05:00",
-      "title": "Criminal Minds",
-      "sub_title": "Breath Play",
-      "desc": "The BAU tracks a serial killer in Wisconsin; Kate is faced with trouble when her niece, Meg, starts acting out.",
-      "date": "2015",
-      "language": "en",
-      "rating": "TV14",
-      "categories": [
-        "Series",
-        "Crime drama",
-        "Mystery",
-        "Thriller",
-        "Drama"
-      ],
-      "episode": "S10 E17",
-      "icon": "http://dtil.tmsimg.com/assets/p185123_b_h8_ak.jpg?w=960&h=540",
-      "credits": {
-        "director": [
-          "Hanelle Culpepper"
-        ],
-        "actor": [
-          "Joe Mantegna",
-          "Thomas Gibson",
-          "Shemar Moore"
-        ]
-      }
-    },
-    {
-      "start": "2026-07-01T11:05:00+05:00",
-      "stop": "2026-07-01T12:05:00+05:00",
-      "title": "Suits",
-      "sub_title": "We're Done",
-      "desc": "Mike is reeling after the takeover battle; Rachel shares upsetting news; Jessica allows Louis to name his own reward.",
-      "date": "2014",
-      "language": "en",
-      "rating": "TV14",
-      "categories": [
-        "Series",
-        "Drama",
-        "Crime drama",
-        "Law",
-        "Comedy"
-      ],
-      "episode": "S4 E7",
-      "icon": "http://dtil.tmsimg.com/assets/p8630071_b_h8_bc.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Patrick J. Adams",
-          "Gabriel Macht",
-          "Meghan Markle"
-        ]
-      }
-    },
-    {
-      "start": "2026-07-01T12:05:00+05:00",
-      "stop": "2026-07-01T13:05:00+05:00",
-      "title": "Flashpoint",
-      "sub_title": "Forget Oblivion",
-      "desc": "A young man is forced to infiltrate a research facility to memorize the design of a new \"smart gun.\".",
-      "date": "2012",
-      "language": "en",
-      "rating": "TVPG",
-      "categories": [
-        "Series",
-        "Crime drama",
-        "Thriller",
-        "Action"
-      ],
-      "episode": "S5 E7",
-      "icon": "http://dtil.tmsimg.com/assets/p186582_b_h8_ak.jpg?w=960&h=540",
-      "credits": {
-        "actor": [
-          "Enrico Colantoni",
-          "Hugh Dillon",
-          "Amy Jo Johnson"
-        ]
-      }
-    },
-    {
       "start": "2026-07-01T13:05:00+05:00",
       "stop": "2026-07-01T13:35:00+05:00",
       "title": "TMZ",
@@ -240,6 +146,99 @@
           "Morey Amsterdam",
           "Roger Dunn",
           "Paul-Emile Frappier"
+        ]
+      }
+    },
+    {
+      "start": "2026-07-01T17:30:00+05:00",
+      "stop": "2026-07-01T18:00:00+05:00",
+      "title": "The Littlest Hobo",
+      "sub_title": "Sailing Away",
+      "desc": "When a willful teenager takes her father's sloop out alone, Hobo must rescue her.",
+      "date": "1980",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Series",
+        "Drama",
+        "Adventure",
+        "Animals"
+      ],
+      "episode": "S2 E8",
+      "icon": "http://dtil.tmsimg.com/assets/p507740_b_h10_ac.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Joseph L. Scanlan"
+        ],
+        "actor": [
+          "Tracey Bregman",
+          "David Calderisi",
+          "Michael Copeman"
+        ]
+      }
+    },
+    {
+      "start": "2026-07-01T18:00:00+05:00",
+      "stop": "2026-07-01T18:30:00+05:00",
+      "title": "The Littlest Hobo",
+      "sub_title": "The Hunt",
+      "desc": "Hobo foils a criminal plot by disrupting a fox hunt.",
+      "date": "1980",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Series",
+        "Drama",
+        "Adventure",
+        "Animals"
+      ],
+      "episode": "S2 E9",
+      "icon": "http://dtil.tmsimg.com/assets/p507740_b_h10_ac.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "Peter Pearson"
+        ],
+        "actor": [
+          "Nicholas Campbell",
+          "Hollis McLaren",
+          "Cameron Mitchell"
+        ]
+      }
+    },
+    {
+      "start": "2026-07-01T18:30:00+05:00",
+      "stop": "2026-07-01T19:00:00+05:00",
+      "title": "Paid Programming",
+      "desc": "Paid programming.",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Consumer",
+        "Shopping",
+        "Variety"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-07-01T19:00:00+05:00",
+      "stop": "2026-07-01T19:30:00+05:00",
+      "title": "Corner Gas",
+      "sub_title": "Full Load",
+      "desc": "Lacey is the unlikely champion of an eating contest; Emma enjoys the pleasures of an MP3 player.",
+      "date": "2008",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Sitcom"
+      ],
+      "episode": "S6 E1",
+      "icon": "http://dtil.tmsimg.com/assets/p8495876_b_h10_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Brent Butt",
+          "Eric Peterson",
+          "Janet Wright"
         ]
       }
     }

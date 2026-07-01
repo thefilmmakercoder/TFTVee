@@ -4,19 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-07-01T07:15:00+05:00",
-      "stop": "2026-07-01T09:45:00+05:00",
-      "title": "The Saint",
-      "desc": "Want someone to infiltrate a top-secret organization or steal a scientific formula that could change the world? For the right price, The Saint is your man.",
-      "date": "19970102",
-      "language": "en",
-      "categories": [
-        "Thriller",
-        "Movie"
-      ],
-      "icon": "https://images.pluto.tv/episodes/58ed269d0b0f317e9d6998ec/poster_1769554081770.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694"
-    },
-    {
       "start": "2026-07-01T09:45:00+05:00",
       "stop": "2026-07-01T12:15:00+05:00",
       "title": "Super 8",
@@ -24,8 +11,8 @@
       "date": "20110610",
       "language": "en",
       "categories": [
-        "Science fiction",
         "Adventure",
+        "Science fiction",
         "Movie"
       ],
       "icon": "https://images.pluto.tv/episodes/6075aec48119a5001a73ca10/poster_1773786961308.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694"
@@ -38,9 +25,9 @@
       "date": "20050629",
       "language": "en",
       "categories": [
+        "Movie",
         "Science fiction",
-        "Action",
-        "Movie"
+        "Action"
       ],
       "icon": "https://images.pluto.tv/episodes/625ef985025eb50013a4cb42/poster_1781621281440.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694"
     },
@@ -52,8 +39,8 @@
       "date": "20160101",
       "language": "en",
       "categories": [
-        "Science fiction",
-        "Movie"
+        "Movie",
+        "Science fiction"
       ],
       "icon": "https://images.pluto.tv/episodes/5e83ac701fa6a9001bb9df24/poster_1768520163052.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694"
     },
@@ -65,8 +52,8 @@
       "date": "20150101",
       "language": "en",
       "categories": [
-        "Science fiction",
         "Adventure",
+        "Science fiction",
         "Movie"
       ],
       "icon": "https://images.pluto.tv/episodes/5bb397692c31006f5cdf9310/poster_1780502762316.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694"
@@ -79,55 +66,81 @@
       "date": "20040101",
       "language": "en",
       "categories": [
+        "Movie",
         "Science fiction",
-        "Action",
-        "Movie"
+        "Action"
       ],
       "icon": "https://images.pluto.tv/episodes/5e72ba42d0c297001ab21e9b/poster_1769806444025.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694"
     },
     {
       "start": "2026-07-01T21:45:00+05:00",
-      "stop": "2026-07-01T22:45:00+05:00",
+      "stop": "2026-07-02T00:15:00+05:00",
+      "title": "War of the Worlds",
+      "desc": "A contemporary retelling of H.G.Wells' classic, the sci-fi thriller reveals the extraordinary battle for the future of humankind through the eyes of one American family.",
+      "date": "20050629",
+      "language": "en",
+      "categories": [
+        "Movie",
+        "Science fiction",
+        "Action"
+      ],
+      "icon": "https://images.pluto.tv/episodes/625ef985025eb50013a4cb42/poster_1781621281440.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694"
+    },
+    {
+      "start": "2026-07-02T00:15:00+05:00",
+      "stop": "2026-07-02T02:30:00+05:00",
+      "title": "Project Almanac",
+      "desc": "When five teens discover a machine that can send them back in time, the possibilities seem endless.  But by changing the past, they have threatened the future of our world.  Can they undo the damage they have unleashed before it\u2019s too late?",
+      "date": "20150101",
+      "language": "en",
+      "categories": [
+        "Adventure",
+        "Science fiction",
+        "Movie"
+      ],
+      "icon": "https://images.pluto.tv/episodes/5bb397692c31006f5cdf9310/poster_1780502762316.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694"
+    },
+    {
+      "start": "2026-07-02T02:30:00+05:00",
+      "stop": "2026-07-02T05:00:00+05:00",
+      "title": "Super 8",
+      "desc": "In the summer of 1979, a group of friends in a small Ohio town witness a catastrophic train crash while making a Super 8 movie and soon suspect that it was not an accident.",
+      "date": "20110610",
+      "language": "en",
+      "categories": [
+        "Adventure",
+        "Science fiction",
+        "Movie"
+      ],
+      "icon": "https://images.pluto.tv/episodes/6075aec48119a5001a73ca10/poster_1773786961308.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694"
+    },
+    {
+      "start": "2026-07-02T05:00:00+05:00",
+      "stop": "2026-07-02T06:00:00+05:00",
       "title": "Paramount Movie Channel",
       "desc": "Paramount Movie Channel delivers a 24/7 curated selection of celebrated cinematic hits, blockbusters, and legacy films from Hollywood's longest-operating movie studio library.",
       "language": "en",
       "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/Paramount-Movie-Channel-Pluto-US.png"
     },
     {
-      "start": "2026-07-01T22:45:00+05:00",
-      "stop": "2026-07-01T23:45:00+05:00",
+      "start": "2026-07-02T06:00:00+05:00",
+      "stop": "2026-07-02T07:00:00+05:00",
       "title": "Paramount Movie Channel",
       "desc": "Paramount Movie Channel delivers a 24/7 curated selection of celebrated cinematic hits, blockbusters, and legacy films from Hollywood's longest-operating movie studio library.",
       "language": "en",
       "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/Paramount-Movie-Channel-Pluto-US.png"
     },
     {
-      "start": "2026-07-01T23:45:00+05:00",
-      "stop": "2026-07-02T00:45:00+05:00",
+      "start": "2026-07-02T07:00:00+05:00",
+      "stop": "2026-07-02T08:00:00+05:00",
       "title": "Paramount Movie Channel",
       "desc": "Paramount Movie Channel delivers a 24/7 curated selection of celebrated cinematic hits, blockbusters, and legacy films from Hollywood's longest-operating movie studio library.",
       "language": "en",
       "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/Paramount-Movie-Channel-Pluto-US.png"
     },
     {
-      "start": "2026-07-02T00:45:00+05:00",
-      "stop": "2026-07-02T01:45:00+05:00",
-      "title": "Paramount Movie Channel",
-      "desc": "Paramount Movie Channel delivers a 24/7 curated selection of celebrated cinematic hits, blockbusters, and legacy films from Hollywood's longest-operating movie studio library.",
-      "language": "en",
-      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/Paramount-Movie-Channel-Pluto-US.png"
-    },
-    {
-      "start": "2026-07-02T01:45:00+05:00",
-      "stop": "2026-07-02T02:45:00+05:00",
-      "title": "Paramount Movie Channel",
-      "desc": "Paramount Movie Channel delivers a 24/7 curated selection of celebrated cinematic hits, blockbusters, and legacy films from Hollywood's longest-operating movie studio library.",
-      "language": "en",
-      "icon": "https://raw.githubusercontent.com/thefilmmakercoder/TFTVee/refs/heads/main/tv-logo/Paramount-Movie-Channel-Pluto-US.png"
-    },
-    {
-      "start": "2026-07-02T02:45:00+05:00",
-      "stop": "2026-07-02T03:45:00+05:00",
+      "start": "2026-07-02T08:00:00+05:00",
+      "stop": "2026-07-02T09:00:00+05:00",
       "title": "Paramount Movie Channel",
       "desc": "Paramount Movie Channel delivers a 24/7 curated selection of celebrated cinematic hits, blockbusters, and legacy films from Hollywood's longest-operating movie studio library.",
       "language": "en",

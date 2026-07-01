@@ -4,84 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-07-01T07:00:00+05:00",
-      "stop": "2026-07-01T08:45:00+05:00",
-      "title": "The Painter",
-      "desc": "An ex-CIA operative is tracked down by a young woman, and they become entangled in an unauthorized black ops program.",
-      "date": "2024",
-      "language": "en",
-      "rating": "R",
-      "categories": [
-        "Movie",
-        "Thriller",
-        "Action"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p26257226_v_h8_aa.jpg?w=960&h=540",
-      "credits": {
-        "director": [
-          "Kimani Ray Smith"
-        ],
-        "actor": [
-          "Charlie Weber",
-          "Madison Bailey",
-          "Jon Voight"
-        ]
-      }
-    },
-    {
-      "start": "2026-07-01T08:45:00+05:00",
-      "stop": "2026-07-01T10:20:00+05:00",
-      "title": "Levels",
-      "desc": "In the future, a man watches in horror as his girlfriend gets murdered, and the killer seemingly disappears into midair. He soon embarks on a voyage of discovery that leads to shocking revelations that his reality is not what it appears to be.",
-      "date": "2024",
-      "language": "en",
-      "rating": "R",
-      "categories": [
-        "Movie",
-        "Science fiction",
-        "Thriller"
-      ],
-      "icon": "http://dtil.tmsimg.com/assets/p27909670_v_h8_ab.jpg?w=960&h=540",
-      "credits": {
-        "director": [
-          "Adam Stern"
-        ],
-        "actor": [
-          "Cara Gee",
-          "Peter Mooney",
-          "Aaron Abrams"
-        ]
-      }
-    },
-    {
-      "start": "2026-07-01T10:20:00+05:00",
-      "stop": "2026-07-01T11:16:00+05:00",
-      "title": "Robin Hood",
-      "sub_title": "I Choose You",
-      "desc": "In response to Henry's death, Rob burns Warwick's manor and kills Warwick, driving Tuck away; the Sheriff visits Eleanor; Prince John uncovers Marian's spying, forcing her to flee with news that the King has sent Guy of Gisborne to kill Rob.",
-      "date": "2025",
-      "language": "en",
-      "rating": "TVMA",
-      "categories": [
-        "Series",
-        "Adventure",
-        "Drama"
-      ],
-      "episode": "S1 E9",
-      "icon": "http://dtil.tmsimg.com/assets/p30788482_b_h8_aa.jpg?w=960&h=540",
-      "credits": {
-        "director": [
-          "Peter Weber",
-          "Jonathan English"
-        ],
-        "actor": [
-          "Jack Patten",
-          "Lauren McQueen",
-          "Lydia Peckham"
-        ]
-      }
-    },
-    {
       "start": "2026-07-01T11:16:00+05:00",
       "stop": "2026-07-01T12:56:00+05:00",
       "title": "The Painter",
@@ -269,6 +191,69 @@
           "Joe Kalturnyk"
         ]
       }
+    },
+    {
+      "start": "2026-07-01T21:15:00+05:00",
+      "stop": "2026-07-01T22:00:00+05:00",
+      "title": "Cruise Ship Killers",
+      "sub_title": "James",
+      "desc": "A Fourth of July cruise turns deadly as a passenger vanishes moments after leaving the dance floor; the details of what occurred that night continues to haunt family and friends as they search for closure.",
+      "date": "2020",
+      "language": "en",
+      "rating": "13+",
+      "categories": [
+        "Series",
+        "Crime"
+      ],
+      "episode": "S1 E25",
+      "icon": "http://dtil.tmsimg.com/assets/p18160312_b_h8_ae.jpg?w=960&h=540",
+      "credits": {
+        "director": [
+          "John Barnard",
+          "Ian Bawa"
+        ],
+        "actor": [
+          "John Barnard"
+        ]
+      }
+    },
+    {
+      "start": "2026-07-01T22:00:00+05:00",
+      "stop": "2026-07-01T22:45:00+05:00",
+      "title": "Cruise Ship Killers",
+      "sub_title": "Teddy",
+      "desc": "An owner-operator gambling cruise director is found dead in the bathroom; all signs point to murder.",
+      "date": "2020",
+      "language": "en",
+      "rating": "13+",
+      "categories": [
+        "Series",
+        "Crime",
+        "Documentary"
+      ],
+      "episode": "S1 E26",
+      "icon": "http://dtil.tmsimg.com/assets/p18160312_b_h8_ae.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "John Barnard"
+        ]
+      }
+    },
+    {
+      "start": "2026-07-01T22:45:00+05:00",
+      "stop": "2026-07-01T23:30:00+05:00",
+      "title": "Finally Caught",
+      "sub_title": "Corbin",
+      "desc": "Dolly Hearn and Jennifer Corbin die mysteriously; detectives investigate links between apparent suicides.",
+      "date": "2025",
+      "language": "en",
+      "rating": "TV14",
+      "categories": [
+        "Series",
+        "Crime"
+      ],
+      "episode": "S4 E10",
+      "icon": "http://dtil.tmsimg.com/assets/p23660963_b_h8_ae.jpg?w=960&h=540"
     }
   ]
 }

@@ -4,19 +4,6 @@
   ],
   "programs": [
     {
-      "start": "2026-07-01T09:30:00+05:00",
-      "stop": "2026-07-01T10:00:00+05:00",
-      "title": "James Martin's American Adventure",
-      "sub_title": "Los Angeles",
-      "desc": "James Martin enters the City of Dreams in style to meet a pensioner who is also a fitness coach and drop in on his old friend and chef-to-the-stars Wolfgang Puck.",
-      "language": "en",
-      "categories": [
-        "Entertainment",
-        "Cooking"
-      ],
-      "icon": "https://images.metadata.sky.com/pd-image/d734528f-f9d6-4974-9445-666d9fa25487/16-9"
-    },
-    {
       "start": "2026-07-01T10:00:00+05:00",
       "stop": "2026-07-01T13:30:00+05:00",
       "title": "Good Morning Britain",
@@ -147,6 +134,18 @@
         "News"
       ],
       "icon": "https://images.metadata.sky.com/pd-image/9d7219a4-8de0-40ab-8f53-14e9b0e5789b/16-9"
+    },
+    {
+      "start": "2026-07-01T22:45:00+05:00",
+      "stop": "2026-07-01T23:15:00+05:00",
+      "title": "ITV Evening News",
+      "desc": "National and international news with reports and analysis from ITV's Correspondents in the UK and around the world, plus a focus on the stories that matter to you.",
+      "language": "en",
+      "categories": [
+        "News & Documentary",
+        "News"
+      ],
+      "icon": "https://images.metadata.sky.com/pd-image/4d0cece8-d64f-468a-8773-b7c91f27afdb/16-9"
     }
   ]
 }

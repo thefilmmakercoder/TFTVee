@@ -2,5 +2,189 @@
   "channels": [
     {}
   ],
-  "programs": []
+  "programs": [
+    {
+      "start": "2026-07-01T13:00:00+05:00",
+      "stop": "2026-07-01T13:30:00+05:00",
+      "title": "Good Nite LA",
+      "desc": "Stay informed with the breaking news and headlines.",
+      "date": "2024",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p26513988_b_h8_ae.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-07-01T13:30:00+05:00",
+      "stop": "2026-07-01T14:00:00+05:00",
+      "title": "West Coast News Wrap",
+      "desc": "Stay informed with the latest breaking news and headlines.",
+      "date": "2026",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p32049696_b_h10_aa.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-07-01T14:00:00+05:00",
+      "stop": "2026-07-01T14:30:00+05:00",
+      "title": "Paid Programming",
+      "desc": "Paid programming.",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Consumer",
+        "Shopping",
+        "Variety"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-07-01T14:30:00+05:00",
+      "stop": "2026-07-01T15:00:00+05:00",
+      "title": "Paid Programming",
+      "desc": "Paid programming.",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Consumer",
+        "Shopping",
+        "Variety"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-07-01T15:00:00+05:00",
+      "stop": "2026-07-01T15:30:00+05:00",
+      "title": "Paid Programming",
+      "desc": "Paid programming.",
+      "language": "en",
+      "rating": "TVG",
+      "categories": [
+        "Consumer",
+        "Shopping",
+        "Variety"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-07-01T15:30:00+05:00",
+      "stop": "2026-07-01T16:00:00+05:00",
+      "title": "In Depth With Graham Bensinger",
+      "sub_title": "Dwight Howard",
+      "desc": "Graham spends the day with NBA player Dwight Howard at his Atlanta-area estate; the all-star discusses his career from his high school state championship and going first overall at the 2004 NBA Draft, to winning the NBA Dunk Contest.",
+      "date": "2021",
+      "language": "en",
+      "categories": [
+        "Series",
+        "Sports talk",
+        "Interview"
+      ],
+      "episode": "S12 E11",
+      "icon": "http://dtil.tmsimg.com/assets/p8178298_b_h8_ad.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Graham Bensinger",
+          "Dwight Howard"
+        ]
+      }
+    },
+    {
+      "start": "2026-07-01T16:00:00+05:00",
+      "stop": "2026-07-01T16:30:00+05:00",
+      "title": "Extra",
+      "desc": "Inside the entertainment newsgathering process, as reporters coast-to-coast break headlines, advance the stories of the day and sit down with celebrities.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Newsmagazine",
+        "Entertainment"
+      ],
+      "episode": "S32 E260",
+      "icon": "http://dtil.tmsimg.com/assets/p30948222_b_h8_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Derek Hough",
+          "Mona Kosar Abdi",
+          "Terri Seymour"
+        ]
+      }
+    },
+    {
+      "start": "2026-07-01T16:30:00+05:00",
+      "stop": "2026-07-01T17:00:00+05:00",
+      "title": "TMZ",
+      "desc": "TMZ TV tracks down today's hottest stars with their cameras, whether they are hitting the clubs or the dry cleaners.",
+      "date": "2026",
+      "language": "en",
+      "rating": "TVPG",
+      "categories": [
+        "Series",
+        "Newsmagazine",
+        "Entertainment"
+      ],
+      "episode": "S19 E260",
+      "icon": "http://dtil.tmsimg.com/assets/p30985766_b_h10_aa.jpg?w=960&h=540",
+      "credits": {
+        "actor": [
+          "Harvey Levin"
+        ]
+      }
+    },
+    {
+      "start": "2026-07-01T17:00:00+05:00",
+      "stop": "2026-07-01T18:00:00+05:00",
+      "title": "Good Day LA at 5am",
+      "desc": "Morning news coverage.",
+      "date": "2019",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p16719270_b_h8_ab.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-07-01T18:00:00+05:00",
+      "stop": "2026-07-01T19:00:00+05:00",
+      "title": "Good Day LA at 6am",
+      "desc": "Morning news coverage.",
+      "date": "2019",
+      "language": "en",
+      "categories": [
+        "News"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p16719279_b_h8_ab.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-07-01T19:00:00+05:00",
+      "stop": "2026-07-01T20:00:00+05:00",
+      "title": "Good Day LA at 7am",
+      "desc": "Morning news coverage.",
+      "date": "2012",
+      "language": "en",
+      "categories": [
+        "Talk"
+      ],
+      "icon": "http://dtil.tmsimg.com/assets/p9542652_b_h8_ac.jpg?w=960&h=540"
+    },
+    {
+      "start": "2026-07-01T20:00:00+05:00",
+      "stop": "2026-07-01T21:00:00+05:00",
+      "title": "FIFA World Cup Live",
+      "desc": "Highlights and news stories of the day's action, including previews of upcoming matches.",
+      "date": "2026",
+      "language": "en",
+      "categories": [
+        "Series",
+        "Sports talk",
+        "Soccer"
+      ],
+      "episode": "E23",
+      "icon": "http://dtil.tmsimg.com/assets/p33051802_b_h8_ac.jpg?w=960&h=540"
+    }
+  ]
 }
